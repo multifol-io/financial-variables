@@ -14,15 +14,15 @@ However, each year this will need to be updated.
 
 The tool-writer defines a set of constants they need.
 
-- IRS-IRA-ContributionLimit
-- IRA-401k-ContributionLimit
-- IRS-401k-CatchUpContribtionLimit
+- USA/IRS/IRA/ContributionLimit
+- USA/IRS/401k/ContributionLimit
+- USA/IRS/401k/CatchUpContribtionLimit
 
-At runtime, or periodically, they would update the numbers their tool used by fetching those values:
+At runtime, or periodically, they would update the numbers their tool used by fetching those values (perhaps grabbing data from one or more files, perhaps calling an API):
 
-- IRS-IRA-ContributionLimit: $6,500
-- IRA-401k-ContributionLimit: $22,500
-- IRS-401k-CatchUpContribtionLimit: $7,500
+- USA/IRS/IRA/ContributionLimit: $6,500
+- USA/IRS/401k/ContributionLimit: $22,500
+- USA/IRS/401k/CatchUpContribtionLimit: $7,500
 
 ### Requirement: Naming of Values
 
