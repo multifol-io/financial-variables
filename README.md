@@ -13,4 +13,4 @@ A repository that would help me (and others) collect and share financial-figures
 ## Documents
 
 - [Scenario Brainstorming](brainstorming.md)
-- [Financial Figure list](values.md)
+- [Financial Figure value list](values.md)
