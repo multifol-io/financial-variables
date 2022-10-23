@@ -1,4 +1,4 @@
-## List of Values
+## List of Proposed Values to Collect and Publish
 ```
 USA/BLS/CPU-U
 USA/IRS/HSA/FamilyContributionLimit
