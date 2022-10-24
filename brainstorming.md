@@ -58,7 +58,7 @@ Tool-writers would often have a list of specific values they need, or a list of 
 
 ### Tool-writers would update their values
 
-#### Updating at Runtime:
+#### Updating an App/Site at Runtime:
 
 Their code, on startup, would fetch relevant financial-figures and use them.
 
@@ -76,7 +76,7 @@ Their code, on startup, would fetch relevant financial-figures and use them.
    }
 ```
 
-#### Updating at Compile Time:
+#### Updating an App/Site at Compile Time:
 
 Periodidically, a data file or code file with the values embedded would be fetched.
 
@@ -87,6 +87,14 @@ Periodidically, a data file or code file with the values embedded would be fetch
     git commit -m "updated financial figures on 1/24/2023"
     git push
 ```
+
+#### Updating a spreadsheet:
+
+- Updating a Google Sheets example technique: https://academy.datawrapper.de/article/288-how-to-set-up-automatic-updates-on-a-google-sheet
+
+- Updating a Microsoft Excel example technique: Need to find example.
+
+
 ### Github would have files for download, or webserver would have API to get content
 
 Content could be retrieved as:
