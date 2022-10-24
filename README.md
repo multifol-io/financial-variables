@@ -3,7 +3,7 @@
 A repository that would help me (and others) collect and share financial-figures from IRS and other sources, that would:
 - be easy to find
 - be accessible to people
-- have file formats easily accessible to programs
+- have file formats easily accessible to programs and spreadsheets
 - (perhaps APIs as easily accessible to programs as well)
 - be up-to-date (automatically scrape data sources and update, or manually updated by this team when announced)
 
