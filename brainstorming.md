@@ -58,8 +58,49 @@ Tool-writers would often have a list of specific values they need, or a list of 
 
 ### Tool-writers would update their values
 
-At runtime, or periodically, they would update the numbers their tool used by fetching those values (perhaps grabbing data from one or more files, perhaps calling an API):
+#### Updating at Runtime:
 
+Their code, on startup, would fetch relevant financial-figures and use them.
+
+```
+   onStartup() {
+     ...
+     program.financialFigures = fetchFinancialFigures();
+     ...
+   }
+
+   fetchFinancialFigures() {
+     var url = "https://<someUrl>/getFigures?q=2023_USA_IRS_IRA,2023_USA_IRS_401k&format=json"
+     var json = fetch(url);
+     return dataFromJson(json);
+   }
+```
+
+#### Updating at Compile Time:
+
+Periodidically, a data file or code file with the values embedded would be fetched.
+
+```
+    cd src\data\
+    curl https://<someUrl>/getFigures?q=2023_USA_IRS_IRA,2023_USA_IRS_401k&format=json > financialFigures.json
+    git add financialFigures.json
+    git commit -m "updated financial figures on 1/24/2023"
+    git push
+```
+### Github would have files for download, or webserver would have API to get content
+
+Content could be retrieved as:
+- JSON
+- CSV
+- Programming class with constants
+- other?
+
+Scenarios: 
+- data for website (as data file or part of app)
+- data for Single Page App website (located as part of compiled app)
+- data for a spreadsheet (easy way to import a page with constants - perhaps CSV? - investigate)
+
+### Some example value results (format independent)
 - 2023/USA/IRS/IRA/ContributionLimit: $6,500
 - 2023/USA/IRS/401k/ContributionLimit: $22,500
 - 2023/USA/IRS/401k/CatchUpContribtionLimit: $7,500
