@@ -103,11 +103,6 @@ Content could be retrieved as:
 - Programming class with constants
 - other?
 
-Scenarios: 
-- data for website (as data file or part of app)
-- data for Single Page App website (located as part of compiled app)
-- data for a spreadsheet (easy way to import a page with constants - perhaps CSV? - investigate)
-
 ### Some example value results (format independent)
 - 2023/USA/IRS/IRA/ContributionLimit: $6,500
 - 2023/USA/IRS/401k/ContributionLimit: $22,500
