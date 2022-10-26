@@ -10,6 +10,7 @@ USA/IRS/401k/CatchUpContribtionLimit
 USA/IRS/TaxBrackets/Single
 USA/IRS/TaxBrackets/MarriedFilingJointly
 USA/IRS/TaxBrackets/MarriedFilingSeparately
+Vanguard/VT/USEquitiesPercentage
 ```
 
 [bogleheads/cjg requested](https://www.bogleheads.org/forum/viewtopic.php?p=6929156#p6929156):
