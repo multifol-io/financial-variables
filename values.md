@@ -22,4 +22,4 @@ Which appears to be an occasionally updated list...the core "morningstar style b
 
 Looking at Morningstar's APIs, you could automate grabbing the style box info from their [securities API](https://developer.morningstar.com/apis/investment-analysis/securities-us/overview) using `equityStyleBox` and related data points.
 
-Users pay $20 per month to get morningstar membership. So it likely isn't ok to store and share that data. Probably not something for financial-figures github and related sites to do.
+Users pay $20 per month to get morningstar membership. So it likely isn't ok to store and share that data. Probably not something for financial-figures github and related sites to do without permissions from morningstar.
