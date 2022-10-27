@@ -1,9 +1,17 @@
 {
     "NOTE" : "THIS IS STILL JUST BRAINSTORMING, DATA STRUCTURE AND FILE LOCATIONS WILL CHANGE",
+    
+    "SOURCES" : {
+        "2022-10-21" : {
+            "IRS.gov: 401(k) limit increases to $22,500 for 2023, IRA limit rises to $6,500" : "https://www.irs.gov/newsroom/401k-limit-increases-to-22500-for-2023-ira-limit-rises-to-6500",
+            "IRS.gov: IRS Notice 2022-55: 2023 Limitations Adjusted as Provided in Section 415(d), etc." : "https://www.irs.gov/pub/irs-drop/n-22-55.pdf"
+        }
+    },
+
     "HSA" : {
         "ContributionLimit" : {
             "Family" : 7300,
-            "Individual" : 3500
+            "SelfOnly" : 3500
         }
     },
     "IRA" : {
