@@ -1,0 +1,55 @@
+{
+    "NOTE" : "THIS IS STILL JUST BRAINSTORMING, DATA STRUCTURE AND FILE LOCATIONS WILL CHANGE",
+    "HSA" : {
+        "ContributionLimit" : {
+            "Family" : 7300,
+            "Individual" : 3500
+        }
+    },
+    "IRA" : {
+        "ContributionLimit" : 6500,
+        "CatchUpContributionLimit" : 1000,
+        "DeductabilityPhaseOutRange" : {
+            "Single" : {
+                "Start" : 73000,
+                "End" : 83000
+            },
+            "MarriedFiledJointly" : {
+                "ActiveParticipant" : {
+                    "Start" : 116000,
+                    "End" : 136000
+                },
+                "InactiveParticipant" : {
+                    "Start" : 218000,
+                    "End" : 228000
+                }
+            },
+            "MarriedFiledJointlySeperately" : {
+                "Start" : 0,
+                "End" : 10000
+            }
+        }
+    },
+    "RothIRA" : {
+        "ContributionLimit" : 6500,
+        "CatchUpContributionLimit" : 1000,
+        "ContributionPhaseOutRange" : {
+            "Single" : {
+                "Start" : 138000,
+                "End" : 153000
+            },
+            "MarriedFiledJointly" : {
+                "Start" : 218000,
+                "End" : 228000
+            },
+            "MarriedFiledJointlySeperately" : {
+                "Start" : 0,
+                "End" : 10000
+            }
+        }
+    },
+    "401k" : {
+        "ContributionLimit" : 22500,
+        "CatchUpContributionLimit" : 6500
+    }
+}
