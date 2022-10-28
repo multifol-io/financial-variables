@@ -1,0 +1,82 @@
+{
+    "name" : "irs.retirement.2023.json",
+    "repository" : "https://github.com/bogle-tools/financial-figures",
+    "path" : "data/usa/irs",
+    "version" : "0.1.1",
+    "note" : "THIS IS STILL JUST BRAINSTORMING, DATA STRUCTURE AND FILE LOCATIONS WILL CHANGE",
+    
+    "source" : [
+        { 
+            "date" : "2022-08-12",
+            "title" : "IRS: S Corporation Compensation and Medical Insurance Issues",
+            "url" : "https://www.irs.gov/businesses/small-businesses-self-employed/s-corporation-compensation-and-medical-insurance-issues#Interaction%20with%20HSA%20Requirements"
+        },
+        { 
+            "date" : "2022-10-21",
+            "title" : "IRS IR-2022-188: 401(k) limit increases to $22,500 for 2023, IRA limit rises to $6,500",
+            "url" : "https://www.irs.gov/newsroom/401k-limit-increases-to-22500-for-2023-ira-limit-rises-to-6500"
+        },
+        { 
+            "date" : "2022-10-21",
+            "title" : "IRS N-2022-55: 2023 Limitations Adjusted as Provided in Section 415(d), etc.",
+            "url" : "https://www.irs.gov/pub/irs-drop/n-22-55.pdf"
+        }
+    ],
+
+    "HSA" : {
+        "ContributionLimit" : {
+            "Family" : 7750,
+            "SelfOnly" : 3850,
+            "CatchUp" : 1000
+        },
+        "CatchUpAge" : 55
+    },
+    "IRA" : {
+        "ContributionLimit" : 6500,
+        "CatchUpContributionLimit" : 1000,
+        "CatchUpAge" : 50,
+        "DeductabilityPhaseOutRange" : {
+            "Single" : {
+                "Start" : 73000,
+                "End" : 83000
+            },
+            "MarriedFiledJointly" : {
+                "ActiveParticipant" : {
+                    "Start" : 116000,
+                    "End" : 136000
+                },
+                "InactiveParticipant" : {
+                    "Start" : 218000,
+                    "End" : 228000
+                }
+            },
+            "MarriedFiledJointlySeparately" : {
+                "Start" : 0,
+                "End" : 10000
+            }
+        }
+    },
+    "RothIRA" : {
+        "ContributionLimit" : 6500,
+        "CatchUpContributionLimit" : 1000,
+        "CatchUpAge" : 50,
+        "ContributionPhaseOutRange" : {
+            "Single" : {
+                "Start" : 138000,
+                "End" : 153000
+            },
+            "MarriedFiledJointly" : {
+                "Start" : 218000,
+                "End" : 228000
+            },
+            "MarriedFiledSeparately" : {
+                "Start" : 0,
+                "End" : 10000
+            }
+        }
+    },
+    "401k" : {
+        "ContributionLimit" : 22500,
+        "CatchUpContributionLimit" : 6500
+    }
+}
