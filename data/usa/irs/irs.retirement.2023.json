@@ -1,8 +1,8 @@
 {
-    "name" : "irs.retirement.2023.json",
-    "repository" : "https://github.com/bogle-tools/financial-figures",
+    "name" : "irs.retirement.2023",
+    "repository" : "https://github.com/bogle-tools/financial-variables",
     "path" : "data/usa/irs",
-    "version" : "0.1.1",
+    "version" : "0.1.2",
     "note" : "THIS IS STILL JUST BRAINSTORMING, DATA STRUCTURE AND FILE LOCATIONS WILL CHANGE",
     
     "source" : [
@@ -40,15 +40,13 @@
                 "Start" : 73000,
                 "End" : 83000
             },
-            "MarriedFiledJointly" : {
-                "ActiveParticipant" : {
-                    "Start" : 116000,
-                    "End" : 136000
-                },
-                "InactiveParticipant" : {
-                    "Start" : 218000,
-                    "End" : 228000
-                }
+            "ActiveParticipant_MarriedFiledJointly" : {
+                "Start" : 116000,
+                "End" : 136000
+            },
+            "InactiveParticipant_MarriedFiledJointly" : {
+                "Start" : 218000,
+                "End" : 228000
             },
             "MarriedFiledSeparately" : {
                 "Start" : 0,
