@@ -13,7 +13,7 @@
     "Company" : "Microsoft",
     "RetirementSavings" : {
         "Year" : 2023,
-        "401k" : {
+        "Employer401k" : {
             "Offered" : true,
             "MatchRules" : {
                 "Match" : "50%"
