@@ -1,0 +1,30 @@
+{
+    "name" : "microsoft.retirement.2022",
+    "repository" : "https://github.com/bogle-tools/financial-figures",
+    "path" : "data/usa/employers/microsoft",
+    "version" : "0.1.0",
+    "note" : [
+        "THIS IS STILL JUST BRAINSTORMING, DATA STRUCTURE AND FILE LOCATIONS WILL CHANGE",
+        "Haven't confirmed all  data for 2023: HSA match amount is 2022's, megabackdoor roth amount is educated guess"
+    ],
+    
+    "source" : [],
+
+    "Company" : "Microsoft",
+    "RetirementSavings" : {
+        "Year" : 2022,
+        "401k" : {
+            "Offered" : true,
+            "MatchRules" : {
+                "Match" : "50%"
+            },
+            "MatchLimit" : "10250"
+        },
+        "HSA" : {
+            "EmployerContribution" : 2500
+        },
+        "MegaBackdoorRoth" : {
+            "ContributionLimit" : 30250
+        }
+    }
+}
