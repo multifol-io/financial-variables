@@ -16,9 +16,9 @@
         "Employer401k" : {
             "Offered" : true,
             "MatchRules" : {
-                "MatchPercentage" : "50"
+                "MatchPercentage" : 50
             },
-            "MatchLimit" : "11250"
+            "MatchLimit" : 11250
         },
         "HSA" : {
             "EmployerContribution" : 2500
