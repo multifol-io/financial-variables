@@ -1,32 +1,38 @@
 {
-    "name" : "microsoft.retirement.2022",
+    "name" : "amazon.retirement.2022",
     "repository" : "https://github.com/bogle-tools/financial-figures",
-    "path" : "data/usa/employers/microsoft",
+    "path" : "data/usa/employers/amazon",
     "version" : "0.1.1",
     "note" : [
         "THIS IS STILL JUST BRAINSTORMING, DATA STRUCTURE AND FILE LOCATIONS WILL CHANGE",
         "Haven't confirmed all  data for 2023: HSA match amount is 2022's, megabackdoor roth amount is educated guess"
     ],
     
-    "source" : [],
+    "source" : [
+        { 
+            "date" : "2022-01-11",
+            "url" : "https://avieradvisors.com/blog/how-does-the-amazon-mega-backdoor-roth-conversion-work/",
+            "title" : "HOW DOES THE AMAZON MEGA BACKDOOR ROTH CONVERSION WORK?"
+        }
+    ],
 
-    "Company" : "Microsoft",
+    "Company" : "Amazon",
     "Year" : 2022,
     "RetirementSavings" : {
         "Employer401k" : {
             "Offered" : true,
             "MatchRules" : [
                 {
-                    "MatchPercentage" : 50
+                    "MatchPercentage" : 50,
+                    "ForNextPercent" : 4
                 }
-            ],
-            "MatchLimit" : 10250
+            ]
         },
         "HSA" : {
-            "EmployerContribution" : 2500
+            "EmployerContribution" : 0
         },
         "MegaBackdoorRoth" : {
-            "ContributionLimit" : 30250
+            "ContributionLimit" : 37300
         }
     }
 }
