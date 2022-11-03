@@ -1,4 +1,4 @@
-# financial-figuvariablesres
+# financial-variables
 
 A repository that would help me (and others) collect and share financial-variables from IRS and other sources, that would:
 - be easy to find
