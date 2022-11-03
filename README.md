@@ -1,6 +1,6 @@
-# financial-figures
+# financial-figuvariablesres
 
-A repository that would help me (and others) collect and share financial-figures from IRS and other sources, that would:
+A repository that would help me (and others) collect and share financial-variables from IRS and other sources, that would:
 - be easy to find
 - be accessible to people
 - have file formats easily accessible to programs and spreadsheets
@@ -13,4 +13,4 @@ A repository that would help me (and others) collect and share financial-figures
 ## Documents
 
 - [Scenario Brainstorming](brainstorming.md)
-- [Financial Figure value list](values.md)
+- [Financial Variable value list](values.md)
