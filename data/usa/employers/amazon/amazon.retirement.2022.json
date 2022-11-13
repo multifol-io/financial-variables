@@ -29,7 +29,11 @@
             ]
         },
         "HSA" : {
-            "EmployerContribution" : 500
+            "EmployerContribution" : [
+                { "Employee Only" : 500 },
+                { "Employee + spouse/domestic partner or children" : 1000 },
+                { "Family" : 1500 }
+            ]
         },
         "MegaBackdoorRoth" : {
             "ContributionLimit" : 37300

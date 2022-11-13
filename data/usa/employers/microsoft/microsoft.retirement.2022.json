@@ -23,7 +23,11 @@
             "MatchLimit" : 10250
         },
         "HSA" : {
-            "EmployerContribution" : 2500
+            "EmployerContribution" : [
+                { "Employee Only" : 1000 },
+                { "Employee + 1" : 2000 },
+                { "Employee + 2 or more" : 2500 }
+            ]
         },
         "MegaBackdoorRoth" : {
             "ContributionLimit" : 30250
