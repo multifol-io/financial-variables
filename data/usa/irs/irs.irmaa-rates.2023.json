@@ -2,7 +2,7 @@
     "name" : "irs.irmaa-rates.2023.json",
     "repository" : "https://github.com/bogle-tools/financial-figures",
     "path" : "data/usa/irs",
-    "version" : "0.1.0",
+    "version" : "0.2.0",
     "note" : "THIS IS STILL JUST BRAINSTORMING, DATA STRUCTURE AND FILE LOCATIONS WILL CHANGE",
     
     "source" : [
@@ -17,77 +17,75 @@
             "url" : "https://secure.ssa.gov/poms.nsf/lnx/0601101020"
         }
     ],
-    "IRMAARateTables" : {
-        "BaseAmounts" : {
-            "PartB" : 164.90,
-            "PartD" : 97.10
+    "BaseAmounts" : {
+        "PartB" : 164.90,
+        "PartD" : 97.10
+    },
+    "AdjustmentTables" : {
+        "Single" : {
+            "0" : {
+                "PartB" : 0,
+                "PartD" : 0
+            },
+            "97000.01" : {
+                "PartB" : 65.90,
+                "PartD" : 12.20
+            },
+            "123000.01" : {
+                "PartB" : 164.80,
+                "PartD" : 31.50
+            },
+            "153000.01" : {
+                "PartB" : 263.70,
+                "PartD" : 50.70
+            },
+            "183000.01" : {
+                "PartB" : 362.60,
+                "PartD" : 70
+            },
+            "500000" : {
+                "PartB" : 395.60,
+                "PartD" : 76.40
+            }
         },
-        "Adjustments" : {
-            "Single" : {
-                "0" : {
-                    "PartB" : 0,
-                    "PartD" : 0
-                },
-                "97000.01" : {
-                    "PartB" : 65.90,
-                    "PartD" : 12.20
-                },
-                "123000.01" : {
-                    "PartB" : 164.80,
-                    "PartD" : 31.50
-                },
-                "153000.01" : {
-                    "PartB" : 263.70,
-                    "PartD" : 50.70
-                },
-                "183000.01" : {
-                    "PartB" : 362.60,
-                    "PartD" : 70
-                },
-                "500000" : {
-                    "PartB" : 395.60,
-                    "PartD" : 76.40
-                }
+        "MarriedFiledJointly" : {
+            "0" : {
+                "PartB" : 0,
+                "PartD" : 0
             },
-            "MarriedFiledJointly" : {
-                "0" : {
-                    "PartB" : 0,
-                    "PartD" : 0
-                },
-                "194000.01" : {
-                    "PartB" : 65.90,
-                    "PartD" : 12.20
-                },
-                "246000.01" : {
-                    "PartB" : 164.80,
-                    "PartD" : 31.50
-                },
-                "306000.01" : {
-                    "PartB" : 263.70,
-                    "PartD" : 50.70
-                },
-                "366000.01" : {
-                    "PartB" : 362.60,
-                    "PartD" : 70
-                },
-                "750000" : {
-                    "PartB" : 395.60,
-                    "PartD" : 76.40
-                }
+            "194000.01" : {
+                "PartB" : 65.90,
+                "PartD" : 12.20
             },
-            "MarriedFiledSeparately" : {
-                "0" : {
-                    "PartB" : 0,
-                    "PartD" : 0
-                },
-                "97000.01" : {
-                    "PartB" : 362.60,
-                    "PartD" : 70
-                },
-                "403000" : {
-                    "PartB" : 395.60,
-                    "PartD" : 76.40
-                }
+            "246000.01" : {
+                "PartB" : 164.80,
+                "PartD" : 31.50
+            },
+            "306000.01" : {
+                "PartB" : 263.70,
+                "PartD" : 50.70
+            },
+            "366000.01" : {
+                "PartB" : 362.60,
+                "PartD" : 70
+            },
+            "750000" : {
+                "PartB" : 395.60,
+                "PartD" : 76.40
+            }
+        },
+        "MarriedFiledSeparately" : {
+            "0" : {
+                "PartB" : 0,
+                "PartD" : 0
+            },
+            "97000.01" : {
+                "PartB" : 362.60,
+                "PartD" : 70
+            },
+            "403000" : {
+                "PartB" : 395.60,
+                "PartD" : 76.40
             }
         }
     }

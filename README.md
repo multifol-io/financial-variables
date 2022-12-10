@@ -12,5 +12,4 @@ A repository that would help me (and others) collect and share financial-variabl
 
 ## Documents
 
-- [Scenario Brainstorming](brainstorming.md)
 - [Financial Variable value list](values.md)

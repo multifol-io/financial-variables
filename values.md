@@ -1,25 +1,42 @@
 ## List of Proposed Values to Collect and Share
-```
-USA/IRS/HSA/FamilyContributionLimit
-USA/IRS/HSA/IndividualContributionLimit
-USA/IRS/IRA/ContributionLimit
-USA/IRS/IRA/CatchUpContribtionLimit
-USA/IRS/401k/ContributionLimit
-USA/IRS/401k/CatchUpContribtionLimit
-USA/IRS/TaxBrackets/Single
-USA/IRS/TaxBrackets/MarriedFilingJointly
-USA/IRS/TaxBrackets/MarriedFilingSeparately
-Vanguard/VT/USEquitiesPercentage
-```
 
-### CPI-U
+### IRS Tax Rates -- PUBLISHED
+
+- Annual Exclusion for Gifts
+- Standard Deduction
+- Tax Rate Tables
+
+See [data file: irs.tax-rates.2023.json](data/usa/irs/irs.tax-rates.2023.json)
+
+### IRS IRMAA Rates -- PUBLISHED
+
+- Base Amounts
+- Adjustment Tables
+
+See [data file: irs.irmaa-rates.2023.json](data/usa/irs/irs.irmaa-rates.2023.json)
+
+### IRS Retirement -- PUBLISHED
+
+- HSA
+- IRA
+- Roth IRA
+- Employer 401K
+
+See [data file: irs.retirement.2023.json](data/usa/irs/irs.retirement.2023.json)
+See [data file: irs.retirement.2022.json](data/usa/irs/irs.retirement.2022.json)
+
+
+### CPI-U - NOT NEEDED
+
 BLS publishes a comprehensive amount of data here: https://www.bls.gov/cpi/tables/supplemental-files/home.htm
 
 However, this is probably the best view: https://data.bls.gov/timeseries/CUUR0000SA0?years_option=all_years
 
 (There is a link to an XLSX file there. The link has no simple URL, since it allows many configuration changes)
 
-### Others
+### Others Proposals to Investigate
+
+- Vanguard/VT/USEquitiesPercentage
 
 
 [bogleheads/cjg requested](https://www.bogleheads.org/forum/viewtopic.php?p=6929156#p6929156):
