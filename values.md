@@ -1,6 +1,5 @@
 ## List of Proposed Values to Collect and Share
 ```
-USA/BLS/CPU-U
 USA/IRS/HSA/FamilyContributionLimit
 USA/IRS/HSA/IndividualContributionLimit
 USA/IRS/IRA/ContributionLimit
@@ -12,6 +11,16 @@ USA/IRS/TaxBrackets/MarriedFilingJointly
 USA/IRS/TaxBrackets/MarriedFilingSeparately
 Vanguard/VT/USEquitiesPercentage
 ```
+
+### CPI-U
+BLS publishes a comprehensive amount of data here: https://www.bls.gov/cpi/tables/supplemental-files/home.htm
+
+However, this is probably the best view: https://data.bls.gov/timeseries/CUUR0000SA0?years_option=all_years
+
+(There is a link to an XLSX file there. The link has no simple URL, since it allows many configuration changes)
+
+### Others
+
 
 [bogleheads/cjg requested](https://www.bogleheads.org/forum/viewtopic.php?p=6929156#p6929156):
 - metrics around market weights in my spreadsheet (how much SP500 vs Extended Market to get total stock, US vs Ex-US to get total world)
