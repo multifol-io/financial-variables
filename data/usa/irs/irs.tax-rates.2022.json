@@ -1,0 +1,47 @@
+{
+    "name" : "irs.tax-rates.2022.json",
+    "repository" : "https://github.com/bogle-tools/financial-figures",
+    "path" : "data/usa/irs",
+    "version" : "0.1.0",
+    "note" : "THIS IS STILL JUST BRAINSTORMING, DATA STRUCTURE AND FILE LOCATIONS WILL CHANGE",
+    
+    "source" : [
+        { 
+            "date" : "2022-11-10",
+            "title" : "IRS IR-2021-219: IRS provides tax inflation adjustments for tax year 2022",
+            "url" : "https://www.irs.gov/newsroom/irs-provides-tax-inflation-adjustments-for-tax-year-2022"
+        },
+        { 
+            "date" : "2022-10-18",
+            "title" : "IRS RP-2021-45: 26 CFR 601.602: Tax forms and instructions",
+            "url" : "https://www.irs.gov/pub/irs-drop/rp-21-45.pdf"
+        }
+    ],
+    "AnnualExclusionForGifts" : 17000,
+    "StandardDeduction" : {
+        "Single" : 13850,
+        "MarriedFiledJointly" : 27700,
+        "MarriedFiledSeparately" : 13850,
+        "HeadOfHouseholds" : 20800
+    },
+    "TaxRateTables" : {
+        "Single" : {
+            "10%" : 0,
+            "12%" : 11000,
+            "22%" : 44725,
+            "24%" : 95375,
+            "32%" : 182100,
+            "35%" : 231250,
+            "37%" : 578125
+        },
+        "MarriedFiledJointly" : {
+            "10%" : 0,
+            "12%" : 22000,
+            "22%" : 89450,
+            "24%" : 190750,
+            "32%" : 364200,
+            "35%" : 462500,
+            "37%" : 693750  
+        }
+    }
+}
