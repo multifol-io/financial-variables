@@ -34,7 +34,7 @@
                 ]
             },
             {
-                "TaxFilingStatus" : "MarriedFiledJointly",
+                "TaxFilingStatus" : "MarriedFilingJointly",
                 "StandardDeduction" : 25900,
                 "TaxBrackets" : [
                     { "Rate" : "10%", "StartAmount" : 0 },
@@ -60,7 +60,7 @@
                 ]
             },
             {
-                "TaxFilingStatus" : "MarriedFiledSeperately",
+                "TaxFilingStatus" : "MarriedFilingSeperately",
                 "StandardDeduction" : 12950,
                 "TaxBrackets" : [
                     { "Rate" : "10%", "StartAmount" : 0 },
