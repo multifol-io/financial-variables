@@ -47,7 +47,7 @@
                 ]
             },
             {
-                "TaxFilingStatus" : "HeadOfHouseholds",
+                "TaxFilingStatus" : "HeadOfHousehold",
                 "StandardDeduction" : 20800,
                 "TaxBrackets" : [
                     { "Rate" : "10%", "StartAmount" : 0 },
