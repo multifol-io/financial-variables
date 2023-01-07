@@ -2,7 +2,7 @@
     "name" : "irs.tax-rates.2022.json",
     "repository" : "https://github.com/bogle-tools/financial-figures",
     "path" : "data/usa/irs",
-    "version" : "0.1.0",
+    "version" : "0.2.0",
     "note" : "THIS IS STILL JUST BRAINSTORMING, DATA STRUCTURE AND FILE LOCATIONS WILL CHANGE",
     
     "source" : [
@@ -17,55 +17,70 @@
             "url" : "https://www.irs.gov/pub/irs-drop/rp-21-45.pdf"
         }
     ],
-    "AnnualExclusionForGifts" : 16000,
-    "StandardDeduction" : {
-        "Single" : 12950,
-        "MarriedFiledJointly" : 25900,
-        "MarriedFiledSeparately" : 12950,
-        "HeadOfHouseholds" : 19400
-    },
-    "TaxRateTables" : {
-        "Single" : {
-            "10%" : 0,
-            "12%" : 10275,
-            "22%" : 41775,
-            "24%" : 89075,
-            "32%" : 170050,
-            "35%" : 215950,
-            "37%" : 539900
-        },
-        "MarriedFiledJointly" : {
-            "10%" : 0,
-            "12%" : 20550,
-            "22%" : 83550,
-            "24%" : 178150,
-            "32%" : 340100,
-            "35%" : 431900,
-            "37%" : 647850  
-        },
-        "HeadOfHouseholds" : {
-            "10%" : 0,
-            "12%" : 14650,
-            "22%" : 55900,
-            "24%" : 89050,
-            "32%" : 170050,
-            "35%" : 215950,
-            "37%" : 539900  
-        },
-        "MarriedFiledSeparately" : {
-            "10%" : 0,
-            "12%" : 10275,
-            "22%" : 41775,
-            "24%" : 89075,
-            "32%" : 170050,
-            "35%" : 215950,
-            "37%" : 539900
-        },
-        "EstatesAndTrusts" : {
-            "10%" : 0,
-            "24%" : 2750,
-            "35%" : 9850,
-            "37%" : 13450
-        }
+    "TaxData" : {
+        "AnnualExclusionForGifts" : 16000,
+        "TaxFilers" : [
+            {
+                "TaxFilingStatus" : "Single",
+                "StandardDeduction" : 12950,
+                "TaxBrackets" : [
+                    { "Rate" : "10%", "StartAmount" : 0 },
+                    { "Rate" : "12%", "StartAmount" : 10275 },
+                    { "Rate" : "22%", "StartAmount" : 41775 },
+                    { "Rate" : "24%", "StartAmount" : 89075 },
+                    { "Rate" : "32%", "StartAmount" : 170050 },
+                    { "Rate" : "35%", "StartAmount" : 215950 },
+                    { "Rate" : "37%", "StartAmount" : 539900 }
+                ]
+            },
+            {
+                "TaxFilingStatus" : "MarriedFiledJointly",
+                "StandardDeduction" : 25900,
+                "TaxBrackets" : [
+                    { "Rate" : "10%", "StartAmount" : 0 },
+                    { "Rate" : "12%", "StartAmount" : 20550 },
+                    { "Rate" : "22%", "StartAmount" : 83550 },
+                    { "Rate" : "24%", "StartAmount" : 178150 },
+                    { "Rate" : "32%", "StartAmount" : 340100 },
+                    { "Rate" : "35%", "StartAmount" : 431900 },
+                    { "Rate" : "37%", "StartAmount" : 647850 }
+                ]
+            },
+            {
+                "TaxFilingStatus" : "HeadOfHouseholds",
+                "StandardDeduction" : 19400,
+                "TaxBrackets" : [
+                    { "Rate" : "10%", "StartAmount" : 0 },
+                    { "Rate" : "12%", "StartAmount" : 14650 },
+                    { "Rate" : "22%", "StartAmount" : 55900 },
+                    { "Rate" : "24%", "StartAmount" : 89050 },
+                    { "Rate" : "32%", "StartAmount" : 170050 },
+                    { "Rate" : "35%", "StartAmount" : 215950 },
+                    { "Rate" : "37%", "StartAmount" : 539900 }
+                ]
+            },
+            {
+                "TaxFilingStatus" : "MarriedFiledSeperately",
+                "StandardDeduction" : 12950,
+                "TaxBrackets" : [
+                    { "Rate" : "10%", "StartAmount" : 0 },
+                    { "Rate" : "12%", "StartAmount" : 10275 },
+                    { "Rate" : "22%", "StartAmount" : 41775 },
+                    { "Rate" : "24%", "StartAmount" : 89075 },
+                    { "Rate" : "32%", "StartAmount" : 170050 },
+                    { "Rate" : "35%", "StartAmount" : 215950 },
+                    { "Rate" : "37%", "StartAmount" : 539900 }
+                ]
+            },
+            {
+                "TaxFilingStatus" : "EstatesAndTrusts",
+                "TaxBrackets" : [
+                    { "Rate" : "10%", "StartAmount" : 0 },
+                    { "Rate" : "24%", "StartAmount" : 2750 },
+                    { "Rate" : "35%", "StartAmount" : 9850 },
+                    { "Rate" : "37%", "StartAmount" : 13450 }
+                ]
+            }
+        ]
     }
 }
