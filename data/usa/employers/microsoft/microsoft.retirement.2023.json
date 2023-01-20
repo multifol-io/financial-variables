@@ -22,7 +22,12 @@
         "MatchLimit" : 11250
     },
     "HSA" : {
-        "EmployerContribution" : 2500
+        "HDHPAvailable" : true,
+        "EmployerContributionLevels" : [ 
+            {
+                "Amount" : 2500
+            }
+        ]
     },
     "MegaBackdoorRoth" : {
         "ContributionLimit" : 32250
