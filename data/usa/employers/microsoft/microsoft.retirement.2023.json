@@ -22,9 +22,10 @@
         "MatchLimit" : 11250
     },
     "HSA" : {
-        "HDHPAvailable" : true,
+        "HighDeductibleHealthPlanAvailable" : true,
         "EmployerContributionLevels" : [ 
             {
+                "Description" : "All employees",
                 "Amount" : 2500
             }
         ]
