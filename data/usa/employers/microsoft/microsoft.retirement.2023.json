@@ -13,7 +13,7 @@
     "Company" : "Microsoft",
     "Year" : 2023,
     "Employer401k" : {
-        "Offered" : "True",
+        "Offered" : "true",
         "MatchRules" : [
             {
                 "MatchPercentage" : 50
@@ -22,7 +22,7 @@
         "MatchLimit" : 11250
     },
     "HSA" : {
-        "HighDeductibleHealthPlanAvailable" : "True",
+        "HighDeductibleHealthPlanAvailable" : "true",
         "EmployerContributionLevels" : [ 
             {
                 "Description" : "All employees",
