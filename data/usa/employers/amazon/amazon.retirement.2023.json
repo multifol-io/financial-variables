@@ -24,7 +24,7 @@
     "Company" : "Amazon",
     "Year" : 2023,
     "Employer401k" : {
-        "Offered" : true,
+        "Offered" : "true",
         "MatchRules" : [
             {
                 "MatchPercentage" : 50,
