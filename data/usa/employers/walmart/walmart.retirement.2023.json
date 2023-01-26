@@ -1,0 +1,48 @@
+{
+  "name" : "walmart.retirement.2023",
+  "repository" : "https://github.com/bogle-tools/financial-figures",
+  "path" : "data/usa/employers/walmart",
+  "version" : "0.3.0",
+  "notes" : [
+      "THIS IS EARLY IN DEVELOPMENT, DATA STRUCTURE AND FILE LOCATIONS WILL CHANGE",
+  ],
+  "source" : [
+    { 
+        "date" : "2023-01-26",
+        "title" : "Walmart 401(k) Plan",
+        "url" : "https://one.walmart.com/content/dam/themepage/pdfs/401k-FAQ-2020.pdf"
+    },
+    { 
+        "date" : "2023-01-26",
+        "title" : "Saver Plan",
+        "url" : "https://one.walmart.com/content/usone/en_us/me/health/health-plans/saver-plan.html"
+    }
+  ],
+  "Company": "Walmart",
+  "Year": 2023,
+  "Employer401k": {
+    "Offered": "true",
+    "MatchRules": [
+      {
+        "MatchPercentage": 100,
+        "ForNextPercent": 6
+      }
+    ]
+  },
+  "HSA": {
+    "HighDeductibleHealthPlanAvailable": "true",
+    "EmployerContributionLevels": [
+      {
+        "Description": "yourself",
+        "Amount": 350
+      },
+      {
+        "Description": "yourself and dependents",
+        "Amount": 700
+      }
+    ]
+  },
+  "MegaBackdoorRoth": {
+    "ContributionLimit": 0
+  }
+}
