@@ -1,0 +1,46 @@
+{
+    "name" : "boeing.retirement.2023",
+    "repository" : "https://github.com/bogle-tools/financial-figures",
+    "path" : "data/usa/employers/boeing",
+    "version" : "0.3.0",
+    "notes" : [
+        "THIS IS EARLY IN DEVELOPMENT, DATA STRUCTURE AND FILE LOCATIONS WILL CHANGE"
+    ],
+    
+    "sources" : [
+        { 
+            "date" : "2023-01-26",
+            "url" : "https://jobs.boeing.com/benefits",
+            "title" : "A Career with Benefits"
+        },
+        {
+            "date" : "2023-01-26",
+            "url" : "https://boeingbenefits.com/employee/emp-health-spending-tools.html",
+            "title" : "Spend Smart, Save More"
+        },
+        {
+            "date" : "2023-01-26",
+            "url" : "https://mbpwm.com/2021/06/can-you-utilize-boeings-mega-backdoor-roth/",
+            "title" : "Can You Utilize Boeing’s Mega Backdoor Roth?"
+        }
+    ],
+
+    "Company" : "Boeing",
+    "Year" : 2023,
+    "Employer401k" : {
+        "Offered" : "true",
+        "MatchRules" : [
+            {
+                "MatchPercentage" : 100,
+                "ForNextPercent" : 10
+            }
+        ]
+    },
+    "HSA" : {
+        "HighDeductibleHealthPlanAvailable" : "true",
+        "EmployerContributionLevels" : []
+    },
+    "MegaBackdoorRoth" : {
+        "ContributionLimit" : 32250
+    }
+}

@@ -26,13 +26,15 @@ See [data file: irs.retirement.2023.json](data/usa/irs/irs.retirement.2023.json)
 See [data file: irs.retirement.2022.json](data/usa/irs/irs.retirement.2022.json)
 
 
-### CPI-U - NOT NEEDED
+### CPI-U - DO NOT BELIEVE ANYTHING IS NEEDED
 
 BLS publishes a comprehensive amount of data here: https://www.bls.gov/cpi/tables/supplemental-files/home.htm
 
 However, this is probably the best view: https://data.bls.gov/timeseries/CUUR0000SA0?years_option=all_years
 
 (There is a link to an XLSX file there. The link has no simple URL, since it allows many configuration changes)
+
+Also, seems like FRED API may make some CPI data available to developers: https://fred.stlouisfed.org/docs/api/fred/ (includes a tool that runs in GoogleSheets)
 
 ### Others Proposals to Investigate
 
