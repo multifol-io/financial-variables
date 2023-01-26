@@ -2,7 +2,7 @@
     "name" : "amazon.retirement.2023",
     "repository" : "https://github.com/bogle-tools/financial-figures",
     "path" : "data/usa/employers/amazon",
-    "version" : "0.1.1",
+    "version" : "0.3.0",
     "notes" : [
         "THIS IS EARLY IN DEVELOPMENT, DATA STRUCTURE AND FILE LOCATIONS WILL CHANGE",
         "megabackdoor roth amount is educated guess based on 2022 data."
@@ -23,59 +23,57 @@
 
     "Company" : "Amazon",
     "Year" : 2023,
-    "RetirementSavings" : {
-        "Employer401k" : {
-            "Offered" : true,
-            "MatchRules" : [
-                {
-                    "MatchPercentage" : 50,
-                    "ForNextPercent" : 4
-                }
-            ]
-        },
-        "HSA" : {
-            "HighDeductibleHealthPlanAvailable" : "true",
-            "EmployerContributionLevels" : [ 
-                {
-                    "Description" : "employee",
-                    "Amount" : 500
-                },
-                {
-                    "Description" : "employee + 1 family member",
-                    "Amount" : 1000
-                },
-                {
-                    "Description" : "employee + 2 family member",
-                    "Amount" : 1500
-                },
-                {
-                    "Description" : "employee + 3 family member",
-                    "Amount" : 2000
-                },
-                {
-                    "Description" : "employee + 4 family member",
-                    "Amount" : 2500
-                },
-                {
-                    "Description" : "employee + 5 family member",
-                    "Amount" : 3000
-                },
-                {
-                    "Description" : "employee + 6 family member",
-                    "Amount" : 3500
-                },
-                {
-                    "Description" : "employee + 7 family member",
-                    "Amount" : 4000
-                },
-                {
-                    "Description" : "employee + 8 family member",
-                    "Amount" : 4500
-                }
-            ]
-        },
-        "MegaBackdoorRoth" : {
-            "ContributionLimit" : 37300
-        }
+    "Employer401k" : {
+        "Offered" : true,
+        "MatchRules" : [
+            {
+                "MatchPercentage" : 50,
+                "ForNextPercent" : 4
+            }
+        ]
+    },
+    "HSA" : {
+        "HighDeductibleHealthPlanAvailable" : "true",
+        "EmployerContributionLevels" : [ 
+            {
+                "Description" : "employee",
+                "Amount" : 500
+            },
+            {
+                "Description" : "employee + 1 family member",
+                "Amount" : 1000
+            },
+            {
+                "Description" : "employee + 2 family member",
+                "Amount" : 1500
+            },
+            {
+                "Description" : "employee + 3 family member",
+                "Amount" : 2000
+            },
+            {
+                "Description" : "employee + 4 family member",
+                "Amount" : 2500
+            },
+            {
+                "Description" : "employee + 5 family member",
+                "Amount" : 3000
+            },
+            {
+                "Description" : "employee + 6 family member",
+                "Amount" : 3500
+            },
+            {
+                "Description" : "employee + 7 family member",
+                "Amount" : 4000
+            },
+            {
+                "Description" : "employee + 8 family member",
+                "Amount" : 4500
+            }
+        ]
+    },
+    "MegaBackdoorRoth" : {
+        "ContributionLimit" : 37300
     }
 }
