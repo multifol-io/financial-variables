@@ -1,0 +1,48 @@
+{
+    "name" : "starbucks.retirement.2023",
+    "repository" : "https://github.com/bogle-tools/financial-figures",
+    "path" : "data/usa/employers/starbucks",
+    "version" : "0.3.0",
+    "notes" : [
+        "THIS IS EARLY IN DEVELOPMENT, DATA STRUCTURE AND FILE LOCATIONS WILL CHANGE",
+        "No MegaBackdoorRoth support appears in somewhat dates Summary Plan Description from October 1, 2021"
+    ],
+    
+    "sources" : [
+        { 
+            "date" : "2023-01-27",
+            "url" : "https://www.starbucksbenefits.com/en-us/home/stock-savings/future-roast-401k/",
+            "title" : "Future Roast 401(k)"
+        },
+        {
+            "date" : "2023-01-27",
+            "url" : "https://www.reddit.com/r/starbucksbaristas/comments/funz8j/trying_to_adult/",
+            "title" : "Trying to Adult on r/starbuckbaristas"
+        },
+        {
+            "date" : "2021-10-01",
+            "url" : "https://www.starbucksbenefits.com//uploads/2021/08/SBUX-SPD-FY2022-Interactive_7-16.pdf",
+            "title" : "FUTURE ROAST 401(k) SAVINGS PLAN - Summary Plan Description"
+        }
+    ],
+
+    "Company" : "Starbucks",
+    "Year" : 2023,
+    "Employer401k" : {
+        "Offered" : "true",
+        "MatchRules" : [
+            {
+                "MatchPercentage" : 100,
+                "ForNextPercent" : 5
+            }
+        ]
+    },
+    "HSA" : {
+        "HighDeductibleHealthPlanAvailable" : "true",
+        "EmployerContributionLevels" : [ 
+        ]
+    },
+    "MegaBackdoorRoth" : {
+        "ContributionLimit" : 0
+    }
+}
