@@ -2,7 +2,7 @@
     "name" : "microsoft.retirement.2022",
     "repository" : "https://github.com/bogle-tools/financial-figures",
     "path" : "data/usa/employers/microsoft",
-    "version" : "0.1.1",
+    "version" : "0.3.0",
     "notes" : [
         "THIS IS EARLY IN DEVELOPMENT, DATA STRUCTURE AND FILE LOCATIONS WILL CHANGE"
     ],
@@ -11,21 +11,25 @@
 
     "Company" : "Microsoft",
     "Year" : 2022,
-    "RetirementSavings" : {
-        "Employer401k" : {
-            "Offered" : true,
-            "MatchRules" : [
-                {
-                    "MatchPercentage" : 50
-                }
-            ],
-            "MatchLimit" : 10250
-        },
-        "HSA" : {
-            "EmployerContribution" : 2500
-        },
-        "MegaBackdoorRoth" : {
-            "ContributionLimit" : 30250
-        }
+    "Employer401k" : {
+        "Offered" : "true",
+        "MatchRules" : [
+            {
+                "MatchPercentage" : 50
+            }
+        ],
+        "MatchLimit" : 10250
+    },
+    "HSA" : {
+        "HighDeductibleHealthPlanAvailable" : "true",
+        "EmployerContributionLevels" : [ 
+            {
+                "Description" : "All employees",
+                "Amount" : 2500
+            }
+        ]
+    },
+    "MegaBackdoorRoth" : {
+        "ContributionLimit" : 30250
     }
 }
