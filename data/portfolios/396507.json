@@ -1,0 +1,87 @@
+{
+  "EmergencyFund": {
+    "TargetMonths": 3
+  },
+  "Debts": [],
+  "TaxFilingStatus": "marriedFilingJointly",
+  "Year": 2023,
+  "StateMarginalTaxBracket": "8.5",
+  "StateOfResidence": "IA",
+  "People": [
+    {
+      "Age": 63,
+      "Identifier": "him",
+      "EmployerPlan": {},
+      "HealthSavingsAccount": {},
+      "EmployerBenefits": {
+        "Employer401k": {
+          "MatchRules": []
+        },
+        "HSA": {
+          "EmployerContributionLevels": []
+        },
+        "MegaBackdoorRoth": {}
+      }
+    },
+    {
+      "Age": 63,
+      "Identifier": "her",
+      "EmployerPlan": {},
+      "HealthSavingsAccount": {},
+      "EmployerBenefits": {
+        "Employer401k": {
+          "MatchRules": []
+        },
+        "HSA": {
+          "EmployerContributionLevels": []
+        },
+        "MegaBackdoorRoth": {}
+      }
+    }
+  ],
+  "Accounts": [
+    {
+      "AccountType": "Taxable",
+      "Custodian": "Amex",
+      "Investments": [
+        {
+          "Value": 700000
+        }
+      ],
+      "AvailableFunds": []
+    },
+    {
+      "AccountType": "Taxable",
+      "Custodian": "Vanguard",
+      "Investments": [
+        {
+          "Value": 950000
+        }
+      ],
+      "AvailableFunds": []
+    },
+    {
+      "Identifier": "his",
+      "AccountType": "Traditional IRA",
+      "Custodian": "Vanguard",
+      "Investments": [
+        {
+          "Value": 1800000
+        }
+      ],
+      "AvailableFunds": []
+    },
+    {
+      "Identifier": "his",
+      "AccountType": "Roth IRA",
+      "Custodian": "Vanguard",
+      "Investments": [
+        {
+          "Value": 350000
+        }
+      ],
+      "AvailableFunds": []
+    }
+  ],
+  "Questions": []
+}
