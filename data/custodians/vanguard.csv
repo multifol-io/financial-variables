@@ -1,0 +1,20 @@
+Account Number,Investment Name,Symbol,Shares,Share Price,Total Value,
+98765432,VANGUARD TOTAL BOND MARKET ETF,BND,10.000,74.32,743.20,
+98765432,Vanguard Federal Money Market Fund,VMFXX,1.000,1.0,1.00,
+
+87654321,VANGUARD TOTAL INTL STOCK INDEX FUND ETF,VXUS,100.000,56.01,5601.00,
+87654321,VANGUARD TOTAL STOCK MARKET ETF,VTI,10.000,198.305,19830.50,
+87654321,Vanguard Federal Money Market Fund,VMFXX,0.22000,1.0,0.22000,
+
+76543210,VANGUARD TOTAL INTL STOCK INDEX FUND ETF,VXUS,100.000,56.01,5601.00,
+76543210,Vanguard Federal Money Market Fund,VMFXX,0.04000,1.0,0.04000,
+
+
+
+Account Number,Trade Date,Settlement Date,Transaction Type,Transaction Description,Investment Name,Symbol,Shares,Share Price,Principal Amount,Commission Fees,Net Amount,Accrued Interest,Account Type,
+98765432,12/29/2022,12/29/2022,Dividend,Dividend Received,VANGUARD TOTAL BOND MARKET ETF,BND,0.0,1.0,200.5,0.0,200.5,0.0,Cash,
+98765432,12/29/2022,12/29/2022,Reinvestment,Dividend Reinvestment,VANGUARD TOTAL BOND MARKET ETF,BND,2.0,100.25,-200.5,0.0,-584.5,0.0,Cash,
+87654321,01/03/2023,01/03/2023,Sweep in,Sweep Into Settlement Fund,VANGUARD FEDERAL MONEY MARKET FUND,,0.0,1.0,-0.22,0.0,-0.22,0.0,Cash,
+87654321,12/30/2022,12/30/2022,Dividend,Dividend Received,VANGUARD FEDERAL MONEY MARKET FUND,,0.0,0.0,0.22,0.0,0.22,0.0,Cash,
+
+
