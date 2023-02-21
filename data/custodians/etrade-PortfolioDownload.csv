@@ -1,18 +1,18 @@
-Account Summary
-Account,Net Account Value,Total Gain $,Total Gain %,Day's Gain Unrealized $,Day's Gain Unrealized %,Available For Withdrawal,Cash Purchasing Power
-"Individual Brokerage -####",.00,.00,.00,.00,.00,.00,.00
-
-
-View Summary - All Positions
-Filters applied: 
-Symbol,Security type(s),Sort by,Sort order,
-,All,Symbol,Asc,
-
+Account Summary,,,,,,,,,
+Account,Net Account Value,Total Gain $,Total Gain %,Day's Gain Unrealized $,Day's Gain Unrealized %,Available For Withdrawal,Marginable Securities,Non-Marginable Securities,
+"Individual Brokerage -####",200770.00,20000.14,14.4,-1017.61,-2.1,200770.00,200770.00,0.0,
+,,,,,,,,,
+,,,,,,,,,
+View Summary - All Positions,,,,,,,,,
+Filters applied: ,,,,,,,,,
+Symbol,Security type(s),Sort by,Sort order,,,,,,
+,All,Total Gain $,Asc,,,,,,
+,,,,,,,,,
 Symbol,Last Price $,Change $,Change %,Quantity,Price Paid $,Day's Gain $,Total Gain $,Total Gain %,Value $
-"You currently have no funds in this account."
-CASH,,,,,,,,,.00,
-TOTAL,,,,,.00,.00,.00,.00,.00,
-
-
-
-Generated at Feb ## 2023 ##:## PM ET
+VTI,200.77,-4.31,-2.1,1000.0000,180.8802,-1017.6145,3326.1358,14.3953,200770.000
+CASH,,,,,,,,,12.2
+TOTAL,,,,,180880.20,-1017.61,3326.14,14.4,200770.00
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Generated at Feb 14 2023 03:12 PM ET,,,,,,,,,
