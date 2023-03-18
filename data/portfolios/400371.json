@@ -1,0 +1,159 @@
+{
+    "EmergencyFund": {
+      "TargetMonths": 3
+    },
+    "Debts": [],
+    "TaxFilingStatus": "marriedFilingJointly",
+    "Year": 2023,
+    "StockBalance": 49.75,
+    "InternationalStockBalance": 0,
+    "BondBalance": 41.6,
+    "CashBalance": 5.45,
+    "People": [
+      {
+        "Identifier": "person 1",
+        "EmployerPlan": {},
+        "HealthSavingsAccount": {},
+        "EmployerBenefits": {
+          "Employer401k": {
+            "MatchRules": []
+          },
+          "HSA": {
+            "EmployerContributionLevels": []
+          },
+          "MegaBackdoorRoth": {}
+        }
+      },
+      {
+        "Identifier": "person 2",
+        "EmployerPlan": {},
+        "HealthSavingsAccount": {},
+        "EmployerBenefits": {
+          "Employer401k": {
+            "MatchRules": []
+          },
+          "HSA": {
+            "EmployerContributionLevels": []
+          },
+          "MegaBackdoorRoth": {}
+        }
+      }
+    ],
+    "Accounts": [
+      {
+        "Identifier": "person 1\u0027s",
+        "AccountType": "401k",
+        "Custodian": "Fidelity",
+        "Investments": [
+          {
+            "Name": "FIDELITY 500 Index",
+            "AutoCompleted": true,
+            "Ticker": "FXAIX",
+            "AssetType": "stock",
+            "ExpenseRatio": 0.015,
+            "Value": 7.6
+          },
+          {
+            "Name": "Fidelity U.S. Bond Index Fund",
+            "AutoCompleted": true,
+            "Ticker": "FXNAX",
+            "AssetType": "bond",
+            "ExpenseRatio": 0.025,
+            "Value": 8.6
+          }
+        ],
+        "AvailableFunds": []
+      },
+      {
+        "AccountType": "Taxable",
+        "Custodian": "Fidelity",
+        "Investments": [
+          {
+            "Name": "FIDELITY 500 Index",
+            "AutoCompleted": true,
+            "Ticker": "FXAIX",
+            "AssetType": "stock",
+            "ExpenseRatio": 0.015,
+            "Value": 11.05
+          },
+          {
+            "Name": "Fidelity Treasury Only MMF",
+            "Ticker": "FDLXX",
+            "AssetType": "cash",
+            "ExpenseRatio": 0.42,
+            "Value": 0.25
+          }
+        ],
+        "AvailableFunds": []
+      },
+      {
+        "Identifier": "person 1\u0027s",
+        "AccountType": "Rollover IRA",
+        "Custodian": "Vanguard",
+        "Investments": [
+          {
+            "Name": "Vanguard Total Bond Market Index Fund Admiral Shares",
+            "AutoCompleted": true,
+            "Ticker": "VBTLX",
+            "VanguardFundId": "0584",
+            "AssetType": "bond",
+            "ExpenseRatio": 0.05,
+            "Value": 33
+          },
+          {
+            "Name": "Vanguard Total Stock Market Index Fund Admiral Shares",
+            "AutoCompleted": true,
+            "Ticker": "VTSAX",
+            "VanguardFundId": "0585",
+            "AssetType": "stock",
+            "ExpenseRatio": 0.04,
+            "Value": 6.5
+          }
+        ],
+        "AvailableFunds": []
+      },
+      {
+        "Identifier": "person 1\u0027s",
+        "AccountType": "Roth IRA",
+        "Custodian": "Vanguard",
+        "Investments": [
+          {
+            "Name": "Vanguard Total Stock Market Index Fund Admiral Shares",
+            "AutoCompleted": true,
+            "Ticker": "VTSAX",
+            "VanguardFundId": "0585",
+            "AssetType": "stock",
+            "ExpenseRatio": 0.04,
+            "Value": 7.6
+          }
+        ],
+        "AvailableFunds": []
+      },
+      {
+        "AccountType": "Taxable",
+        "Custodian": "Vanguard",
+        "Investments": [
+          {
+            "Name": "Vanguard 500 Index Fund Admiral Shares",
+            "AutoCompleted": true,
+            "Ticker": "VFIAX",
+            "VanguardFundId": "0540",
+            "AssetType": "stock",
+            "ExpenseRatio": 0.04,
+            "Value": 17
+          },
+          {
+            "Name": "Vanguard Treasury Money Market Fund",
+            "AutoCompleted": true,
+            "Ticker": "VUSXX",
+            "VanguardFundId": "0011",
+            "AssetType": "cash",
+            "ExpenseRatio": 0.09,
+            "Value": 5.2
+          }
+        ],
+        "AvailableFunds": []
+      }
+    ],
+    "Questions": []
+  }
