@@ -51,7 +51,7 @@
             "Ticker": "FXAIX",
             "AssetType": "stock",
             "ExpenseRatio": 0.015,
-            "Value": 7.6
+            "Value": 760.0
           },
           {
             "Name": "Fidelity U.S. Bond Index Fund",
@@ -59,7 +59,7 @@
             "Ticker": "FXNAX",
             "AssetType": "bond",
             "ExpenseRatio": 0.025,
-            "Value": 8.6
+            "Value": 860.0
           }
         ],
         "AvailableFunds": []
@@ -74,14 +74,14 @@
             "Ticker": "FXAIX",
             "AssetType": "stock",
             "ExpenseRatio": 0.015,
-            "Value": 11.05
+            "Value": 1105
           },
           {
             "Name": "Fidelity Treasury Only MMF",
             "Ticker": "FDLXX",
             "AssetType": "cash",
             "ExpenseRatio": 0.42,
-            "Value": 0.25
+            "Value": 25
           }
         ],
         "AvailableFunds": []
@@ -98,7 +98,7 @@
             "VanguardFundId": "0584",
             "AssetType": "bond",
             "ExpenseRatio": 0.05,
-            "Value": 33
+            "Value": 3300
           },
           {
             "Name": "Vanguard Total Stock Market Index Fund Admiral Shares",
@@ -107,7 +107,7 @@
             "VanguardFundId": "0585",
             "AssetType": "stock",
             "ExpenseRatio": 0.04,
-            "Value": 6.5
+            "Value": 650
           }
         ],
         "AvailableFunds": []
@@ -124,7 +124,7 @@
             "VanguardFundId": "0585",
             "AssetType": "stock",
             "ExpenseRatio": 0.04,
-            "Value": 7.6
+            "Value": 760
           }
         ],
         "AvailableFunds": []
@@ -140,7 +140,7 @@
             "VanguardFundId": "0540",
             "AssetType": "stock",
             "ExpenseRatio": 0.04,
-            "Value": 17
+            "Value": 1700
           },
           {
             "Name": "Vanguard Treasury Money Market Fund",
@@ -149,7 +149,7 @@
             "VanguardFundId": "0011",
             "AssetType": "cash",
             "ExpenseRatio": 0.09,
-            "Value": 5.2
+            "Value": 520
           }
         ],
         "AvailableFunds": []
