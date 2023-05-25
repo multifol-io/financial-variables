@@ -1,0 +1,24 @@
+{
+    "name" : "irs.retirement.2024",
+    "repository" : "https://github.com/bogle-tools/financial-variables",
+    "path" : "data/usa/irs",
+    "version" : "0.1.3",
+    "note" : "THIS IS STILL JUST BRAINSTORMING, DATA STRUCTURE AND FILE LOCATIONS WILL CHANGE",
+    
+    "source" : [
+        { 
+            "date" : "2023-05-16",
+            "title" : "IRS Rev. Proc. 2023-23",
+            "url" : "https://www.irs.gov/pub/irs-drop/rp-23-23.pdf"
+        }
+    ],
+
+    "HSA" : {
+        "ContributionLimit" : {
+            "Family" : 8300,
+            "SelfOnly" : 4150,
+            "CatchUp" : 1000
+        },
+        "CatchUpAge" : 55
+    }
+}
