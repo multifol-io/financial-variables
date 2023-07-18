@@ -76,6 +76,7 @@
     "Employer401k" : {
         "ContributionLimit" : 22500,
         "CatchUpContributionLimit" : 7500,
+        "CatchUpAge" : 50,
         "EmployeePlusEmployerContributionLimit" : 66000
     }
 }
