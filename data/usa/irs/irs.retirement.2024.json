@@ -10,6 +10,11 @@
             "date" : "2023-05-16",
             "title" : "IRS Rev. Proc. 2023-23",
             "url" : "https://www.irs.gov/pub/irs-drop/rp-23-23.pdf"
+        },
+        {
+            "date" : "2023-11-01",
+            "title" : "2024 Limitations Adjusted as Provided in Section 415(d), etc.",
+            "url" : "https://www.irs.gov/pub/irs-drop/n-23-75.pdf"
         }
     ],
 
@@ -20,5 +25,53 @@
             "CatchUp" : 1000
         },
         "CatchUpAge" : 55
+    },
+    "IRA" : {
+        "ContributionLimit" : 7000,
+        "CatchUpContributionLimit" : 1000,
+        "CatchUpAge" : 50,
+        "DeductabilityPhaseOutRange" : {
+            "Single" : {
+                "Start" : 77000,
+                "End" : 87000
+            },
+            "ActiveParticipant_MarriedFilingJointly" : {
+                "Start" : 123000,
+                "End" : 143000
+            },
+            "InactiveParticipant_MarriedFilingJointly" : {
+                "Start" : 230000,
+                "End" : 240000
+            },
+            "MarriedFilingSeparately" : {
+                "Start" : 0,
+                "End" : 10000
+            }
+        }
+    },
+    "RothIRA" : {
+        "ContributionLimit" : 7000,
+        "CatchUpContributionLimit" : 1000,
+        "CatchUpAge" : 50,
+        "ContributionPhaseOutRange" : {
+            "Single" : {
+                "Start" : 146000,
+                "End" : 161000
+            },
+            "MarriedFilingJointly" : {
+                "Start" : 230000,
+                "End" : 240000
+            },
+            "MarriedFilingSeparately" : {
+                "Start" : 0,
+                "End" : 10000
+            }
+        }
+    },
+    "Employer401k" : {
+        "ContributionLimit" : 23000,
+        "CatchUpContributionLimit" : 7500,
+        "CatchUpAge" : 50,
+        "EmployeePlusEmployerContributionLimit" : 69000
     }
 }
