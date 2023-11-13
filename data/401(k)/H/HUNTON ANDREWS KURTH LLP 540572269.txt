@@ -159,7 +159,7 @@ VA : RICHMOND
 TX : HOUSTON
    [501]
     2018: HUNTON ANDREWS KURTH, LLP GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Travel accident
         Codes:  4A4B4D4L
         Participants: 
    [505]
@@ -170,39 +170,34 @@ TX : HOUSTON
 VA : RICHMOND
    [522]
     2022: HUNTON ANDREWS KURTH LLP WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2021: HUNTON ANDREWS KURTH LLP WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2020: HUNTON ANDREWS KURTH LLP WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2019: HUNTON ANDREWS KURTH LLP WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L
         Participants: 
     2018: HUNTON ANDREWS KURTH LLP WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L
         Participants: 
     2017: HUNTON & WILLIAMS LLP WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L
         Participants: 
 TX : HOUSTON
    [503]
     2018: HUNTON ANDREWS KURTH, LLP GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4Q
-        Participants: 
-   [502]
-    2018: HUNTON ANDREWS KURTH, LLP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
         Participants: 
 VA : RICHMOND
    [001]
@@ -366,3 +361,9 @@ VA : RICHMOND
         Benefit Category: Pension
         Codes: 1B1C3B1H 
         Participants: 0
+TX : HOUSTON
+   [502]
+    2018: HUNTON ANDREWS KURTH, LLP LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 

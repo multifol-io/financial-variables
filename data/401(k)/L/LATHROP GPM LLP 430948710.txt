@@ -183,42 +183,47 @@ MN : MINNEAPOLIS
         Codes: 2E2F2G2J2R2S2T3D 
         Participants: 0
 MO : KANSAS CITY
+   [516]
+    2020: LATHROP GPM DENTAL INSURANCE PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [501]
     2022: HEALTH, LIFE, DENTAL, VISION, LTD, AD&D AND GROUP LONG TERM CARE PROGRAM FOR LATHROP GPM
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
         Codes:  4A4B4D4E4H4Q
         Participants: 
         Service Providers:
            - DELTA DENTAL OF MISSOURI : DENTAL ADMINISTRATOR (Claims processing | Contract Administrator)
            - SUN LIFE ASSURANCE CO. OF CANADA : FMLA ADMINISTRATOR (Contract Administrator)
     2021: HEALTH, LIFE, DENTAL, VISION, LTD, AD&D AND GROUP LONG TERM CARE PROGRAM FOR LATHROP GPM
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
         Codes:  4A4B4D4E4H4Q
         Participants: 
         Service Providers:
            - DELTA DENTAL OF MISSOURI : DENTAL ADMINISTRATOR (Claims processing | Contract Administrator)
            - SUN LIFE ASSURANCE CO. OF CANADA : FMLA ADMINISTRATOR (Contract Administrator)
     2020: HEALTH, LIFE, DENTAL, VISION, LTD, AD&D AND GROUP LONG TERM CARE PROGRAM FOR LATHROP GPM
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
         Codes:  4A4B4D4E4H4Q
         Participants: 
         Service Providers:
            - DELTA DENTAL OF MISSOURI : DENTAL ADMINISTRATOR (Claims processing | Contract Administrator)
            - SUN LIFE ASSURANCE CO. OF CANADA : FMLA ADMINISTRATOR (Contract Administrator)
     2019: HEALTH, LIFE, DENTAL, VISION, LTD, AD&D AND GROUP LONG TERM CARE PROGRAM FOR LATHROP GAGE LLP
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
         Codes:  4A4B4D4E4H4Q
         Participants: 
         Service Providers:
            - DELTA DENTAL OF MISSOURI : ADMINISTRATOR (Claims processing | Contract Administrator)
     2018: HEALTH, LIFE, DENTAL, VISION, LTD, AD&D AND GROUP LONG TERM CARE PROGRAM FOR LATHROP GAGE LLP
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
         Codes:  4A4B4D4E4H4Q
         Participants: 
         Service Providers:
            - DELTA DENTAL OF MISSOURI : ADMINISTRATOR (Claims processing | Contract Administrator)
     2017: HEALTH, LIFE, DENTAL, VISION, LTD, AD&D AND GROUP LONG TERM CARE PROGRAM FOR LATHROP & GAGE LLP
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
         Codes:  4A4B4D4E4H4Q
         Participants: 
         Service Providers:
@@ -230,26 +235,21 @@ MO : KANSAS CITY
         Participants: 
    [510]
     2020: LATHROP GPM LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
    [503]
     2020: LATHROP GPM LONG TERM DISABILITY PLAN I
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
    [514]
     2020: LATHROP GPM LONG TERM DISABILITY PLAN II
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
-        Participants: 
-   [516]
-    2020: LATHROP GPM DENTAL INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4D
         Participants: 
    [517]
     2020: LATHROP GPM VISION INSURANCE PLAN
-        Benefit Category: Other
+        Benefit Category: Vision
         Codes:  4E
         Participants: 

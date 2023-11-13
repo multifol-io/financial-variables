@@ -19,13 +19,18 @@ AR : TONTITOWN
                  : LNL SATG STADION MANG GROWTH
                  : LNL SATM STADION MANG MODERATE
                  : LNL SATP STADION MANG CAP PRESERV
+   [502]
+    2020: K & K VETERINARY SUPPLY, INC. GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [501]
     2022: K & K VETERINARY SUPPLY, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
     2021: K & K VETERINARY SUPPLY, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
     2020: K & K VETERINARY SUPPLY, INC. HEALTH AND WELFARE PLAN
@@ -34,7 +39,7 @@ AR : TONTITOWN
         Participants: 
    [001]
     2022: K & K VETERINARY SUPPLY, INC. 401(K) PROFIT SHARING PLAN
-        Benefit Category: Life Insurance, 401(k)
+        Benefit Category: Life insurance, 401(k)
         Codes: 2A2E2F2G2J2K3D 4B
         Participants: 125
         Assets: 35305913
@@ -52,7 +57,7 @@ AR : TONTITOWN
                  : LNL SATM STADION MANG MODERATE
                  : LNL SATP STADION MANG CAP PRESERV
     2021: K & K VETERINARY SUPPLY, INC. 401(K) PROFIT SHARING PLAN
-        Benefit Category: Life Insurance, 401(k)
+        Benefit Category: Life insurance, 401(k)
         Codes: 2A2E2F2G2J2K3D 4B
         Participants: 153
         Assets: 39033721
@@ -70,7 +75,7 @@ AR : TONTITOWN
                  : LNL SATM STADION MANG MODERATE
                  : LNL SATP STADION MANG CAP PRESERV
     2020: K & K VETERINARY SUPPLY, INC. 401(K) PROFIT SHARING PLAN
-        Benefit Category: Life Insurance, 401(k)
+        Benefit Category: Life insurance, 401(k)
         Codes: 2A2E2F2G2J2K3D 4B
         Participants: 153
         Assets: 33608097
@@ -88,7 +93,7 @@ AR : TONTITOWN
                  : LNL SATM STADION MANG MODERATE
                  : LNL SATP STADION MANG CAP PRESERV
     2019: K & K VETERINARY SUPPLY, INC. 401(K) PROFIT SHARING PLAN
-        Benefit Category: Life Insurance, 401(k)
+        Benefit Category: Life insurance, 401(k)
         Codes: 2E2G2F2J2K3D 4B
         Participants: 146
         Assets: 28220520
@@ -107,16 +112,11 @@ AR : TONTITOWN
                  : LNL SATP STADION MANG CAP PRESERV
    [504]
     2020: K & K VETERINARY SUPPLY, INC. LIFE AND DISABILITY PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4F4H4Q
-        Participants: 
-   [502]
-    2020: K & K VETERINARY SUPPLY, INC. GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
         Participants: 
    [503]
     2020: K & K VETERINARY SUPPLY, INC. GROUP VISION PLAN
-        Benefit Category: Other
+        Benefit Category: Vision
         Codes:  4E
         Participants: 

@@ -555,17 +555,66 @@ WA : SEATTLE
                  : VFTC TARGET RETIREMENT INCOME TRT I
    [503]
     2022: ALASKA AIRLINES, INC. WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
     2021: ALASKA AIRLINES, INC. WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
     2020: ALASKA AIRLINES, INC. WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
+   [502]
+    2022: ALASKA AIRLINES, INC. PILOTS LONG TERM DISABILITY PLAN & TRUST
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+        Assets: 11693032
+        $/Participant: 
+        Service Providers:
+           - MATRIX ABSENCE MANAGEMENT, INC. :  (Claims processing)
+    2021: ALASKA AIRLINES, INC. PILOTS LONG TERM DISABILITY PLAN & TRUST
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+        Assets: 8073781
+        $/Participant: 
+        Service Providers:
+           - MATRIX ABSENCE MANAGEMENT, INC. :  (Claims processing)
+    2020: ALASKA AIRLINES, INC. PILOTS LONG TERM DISABILITY PLAN & TRUST
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+        Assets: 7814322
+        $/Participant: 
+        Service Providers:
+           - MATRIX ABSENCE MANAGEMENT, INC. :  (Claims processing)
+    2019: ALASKA AIRLINES, INC. PILOTS LONG TERM DISABILITY PLAN & TRUST
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+        Assets: 6830232
+        $/Participant: 
+        Service Providers:
+           - MATRIX ABSENCE MANAGEMENT, INC. :  (Claims processing)
+    2018: ALASKA AIRLINES, INC. PILOTS LONG TERM DISABILITY PLAN & TRUST
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+        Assets: 3863895
+        $/Participant: 
+        Service Providers:
+           - MATRIX ABSENCE MANAGEMENT, INC. :  (Claims processing)
+    2017: ALASKA AIRLINES, INC. PILOTS LONG TERM DISABILITY PLAN & TRUST
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+        Assets: 3438276
+        $/Participant: 
+        Service Providers:
+           - MATRIX ABSENCE MANAGEMENT, INC. :  (Claims processing)
    [015]
     2022: ALASKA AIR GROUP RETIREMENT MASTER TRUST
         Benefit Category: Other
@@ -649,55 +698,6 @@ WA : SEATTLE
                  : BLACK ROCK MSCI ACWI EX-US IMI INDE
                  : LONG TERM CREDIT BOND INDEX FUND
                  : U.S. EQUITY MARKT FUND
-   [502]
-    2022: ALASKA AIRLINES, INC. PILOTS LONG TERM DISABILITY PLAN & TRUST
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-        Assets: 11693032
-        $/Participant: 
-        Service Providers:
-           - MATRIX ABSENCE MANAGEMENT, INC. :  (Claims processing)
-    2021: ALASKA AIRLINES, INC. PILOTS LONG TERM DISABILITY PLAN & TRUST
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-        Assets: 8073781
-        $/Participant: 
-        Service Providers:
-           - MATRIX ABSENCE MANAGEMENT, INC. :  (Claims processing)
-    2020: ALASKA AIRLINES, INC. PILOTS LONG TERM DISABILITY PLAN & TRUST
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-        Assets: 7814322
-        $/Participant: 
-        Service Providers:
-           - MATRIX ABSENCE MANAGEMENT, INC. :  (Claims processing)
-    2019: ALASKA AIRLINES, INC. PILOTS LONG TERM DISABILITY PLAN & TRUST
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-        Assets: 6830232
-        $/Participant: 
-        Service Providers:
-           - MATRIX ABSENCE MANAGEMENT, INC. :  (Claims processing)
-    2018: ALASKA AIRLINES, INC. PILOTS LONG TERM DISABILITY PLAN & TRUST
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-        Assets: 3863895
-        $/Participant: 
-        Service Providers:
-           - MATRIX ABSENCE MANAGEMENT, INC. :  (Claims processing)
-    2017: ALASKA AIRLINES, INC. PILOTS LONG TERM DISABILITY PLAN & TRUST
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-        Assets: 3438276
-        $/Participant: 
-        Service Providers:
-           - MATRIX ABSENCE MANAGEMENT, INC. :  (Claims processing)
    [002]
     2022: ALASKA AIRLINES, INC., RETIREMENT PLAN FOR MECHANICS & RELATED CRAFTS EMPLOYEES
         Benefit Category: Pension

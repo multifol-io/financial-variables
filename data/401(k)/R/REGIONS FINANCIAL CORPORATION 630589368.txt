@@ -214,34 +214,59 @@ AL : BIRMINGHAM
                  : T. ROWE PRICE RETIREMENT 2060
            - UNION BOND & TRUST COMPANY
                  : MORLEY STABLE VALUE FD
+   [509]
+    2022: REGIONS FINANCIAL CORPORATION DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2021: REGIONS FINANCIAL CORPORATION DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2020: REGIONS FINANCIAL CORPORATION DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2019: REGIONS FINANCIAL CORPORATION DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2018: REGIONS FINANCIAL CORPORATION DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2017: REGIONS FINANCIAL CORPORATION DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [507]
     2022: REGIONS FINANCIAL CORPORATION MEDICAL BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
     2021: REGIONS FINANCIAL CORPORATION MEDICAL BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
     2020: REGIONS FINANCIAL CORPORATION MEDICAL BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
     2019: REGIONS FINANCIAL CORPORATION MEDICAL BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
     2018: REGIONS FINANCIAL CORPORATION MEDICAL BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
     2017: REGIONS FINANCIAL CORPORATION MEDICAL BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
    [001]
     2022: REGIONS FINANCIAL CORPORATION RETIREMENT PLAN
-        Benefit Category: Life Insurance, Pension
+        Benefit Category: Life insurance, Pension
         Codes: 1A3H 4B
         Participants: 14271
         Assets: 1234102296
@@ -259,7 +284,7 @@ AL : BIRMINGHAM
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CIF II LONG BOND PORTFOLIO
     2021: REGIONS FINANCIAL CORPORATION RETIREMENT PLAN
-        Benefit Category: Life Insurance, Pension
+        Benefit Category: Life insurance, Pension
         Codes: 1A3H 4B
         Participants: 14749
         Assets: 1683088988
@@ -277,7 +302,7 @@ AL : BIRMINGHAM
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CIF II LONG BOND PORTFOLIO
     2020: REGIONS FINANCIAL CORPORATION RETIREMENT PLAN
-        Benefit Category: Life Insurance, Pension
+        Benefit Category: Life insurance, Pension
         Codes: 1A3H 4B
         Participants: 15157
         Assets: 1682513294
@@ -295,7 +320,7 @@ AL : BIRMINGHAM
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CIF II LONG BOND PORTFOLIO
     2019: REGIONS FINANCIAL CORPORATION RETIREMENT PLAN
-        Benefit Category: Life Insurance, Pension
+        Benefit Category: Life insurance, Pension
         Codes: 1A3H 4B
         Participants: 15602
         Assets: 1274461064
@@ -313,7 +338,7 @@ AL : BIRMINGHAM
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CIF II LONG BOND PORTFOLIO
     2018: REGIONS FINANCIAL CORPORATION RETIREMENT PLAN
-        Benefit Category: Life Insurance, Pension
+        Benefit Category: Life insurance, Pension
         Codes: 1A3H 4B
         Participants: 14096
         Assets: 1139398966
@@ -333,27 +358,27 @@ AL : BIRMINGHAM
                  : WTC-CIF II LONG BOND PORTFOLIO
    [502]
     2022: REGIONS FINANCIAL CORPORATION LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2021: REGIONS FINANCIAL CORPORATION LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2020: REGIONS FINANCIAL CORPORATION LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2019: REGIONS FINANCIAL CORPORATION LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2018: REGIONS FINANCIAL CORPORATION LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2017: REGIONS FINANCIAL CORPORATION LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
    [505]
@@ -381,60 +406,10 @@ AL : BIRMINGHAM
         Benefit Category: Other
         Codes:  4Q
         Participants: 
-   [509]
-    2022: REGIONS FINANCIAL CORPORATION DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2021: REGIONS FINANCIAL CORPORATION DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2020: REGIONS FINANCIAL CORPORATION DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2019: REGIONS FINANCIAL CORPORATION DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2018: REGIONS FINANCIAL CORPORATION DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2017: REGIONS FINANCIAL CORPORATION DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
    [510]
     2017: REGIONS FINANCIAL CORPORATION LONG TERM CARE PLAN
         Benefit Category: Other
         Codes:  4Q
-        Participants: 
-   [513]
-    2022: REGIONS FINANCIAL CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2021: REGIONS FINANCIAL CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2020: REGIONS FINANCIAL CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2019: REGIONS FINANCIAL CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2018: REGIONS FINANCIAL CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2017: REGIONS FINANCIAL CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
         Participants: 
    [001]
     2017: REGIONS FINANCIAL CORPORATION RETIREMENT PLAN
@@ -591,4 +566,29 @@ AL : BIRMINGHAM
     2017: REGIONS FINANCIAL CORPORATION SEVERANCE PLAN
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [513]
+    2022: REGIONS FINANCIAL CORPORATION LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2021: REGIONS FINANCIAL CORPORATION LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2020: REGIONS FINANCIAL CORPORATION LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2019: REGIONS FINANCIAL CORPORATION LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2018: REGIONS FINANCIAL CORPORATION LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2017: REGIONS FINANCIAL CORPORATION LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
         Participants: 

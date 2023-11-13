@@ -92,9 +92,30 @@ UT : SOUTH JORDAN
                  : SA/OFII GLOBAL STRATEGY
                  : SCG/TIMESSQUARE
                  : SCV/INTEGRITY
+   [530]
+    2021: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE DENTAL BENEFIT PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 122
+    2020: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE DENTAL BENEFIT PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 124
+    2019: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE DENTAL BENEFIT PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 127
+    2018: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE DENTAL BENEFIT PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 129
+    2017: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE DENTAL BENEFIT PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 133
    [501]
     2021: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 119
         Service Providers:
@@ -102,7 +123,7 @@ UT : SOUTH JORDAN
            - GALLAGHER BENEFIT SERVICES : BROKER (Other commissions)
            - OPTUM RX : PHARMACY BENEFIT MANAGMNT (Claims processing | Direct payment from the plan | Float revenue | Other fees)
     2020: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 122
         Service Providers:
@@ -110,7 +131,7 @@ UT : SOUTH JORDAN
            - GALLAGHER BENEFIT SERVICES : BROKER (Other commissions)
            - OPTUM RX : PHARMACY BENEFIT MANAGMNT (Claims processing | Direct payment from the plan | Float revenue | Other fees)
     2019: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 121
         Service Providers:
@@ -118,7 +139,7 @@ UT : SOUTH JORDAN
            - GALLAGHER BENEFIT SERVICES : BROKER (Other commissions)
            - OPTUM RX : PHARMACY BENEFIT MANAGMNT (Claims processing | Direct payment from the plan | Float revenue | Other fees)
     2018: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 121
         Service Providers:
@@ -126,7 +147,7 @@ UT : SOUTH JORDAN
            - GALLAGHER BENEFIT SERVICES : BROKER (Other commissions)
            - OPTUM RX : PHARMACY BENEFIT MANAGMNT (Claims processing)
     2017: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 123
         Service Providers:
@@ -135,85 +156,64 @@ UT : SOUTH JORDAN
            - OPTUM RX : PHARMACY BENEFIT MANAGMNT (Claims processing)
    [525]
     2021: DESERET GENERATION & TRANSMISSION CO-OPERATIVE CAFETERIA PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 1
     2020: DESERET GENERATION & TRANSMISSION CO-OPERATIVE CAFETERIA PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 1
     2019: DESERET GENERATION & TRANSMISSION CO-OPERATIVE CAFETERIA PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 1
     2018: DESERET GENERATION & TRANSMISSION CO-OPERATIVE CAFETERIA PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 2
     2017: DESERET GENERATION & TRANSMISSION CO-OPERATIVE CAFETERIA PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 2
-   [530]
-    2021: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE DENTAL BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 122
-    2020: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE DENTAL BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 124
-    2019: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE DENTAL BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 127
-    2018: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE DENTAL BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 129
-    2017: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE DENTAL BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 133
-   [535]
-    2021: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE VISION BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 120
-    2020: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE VISION BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 123
-    2019: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE VISION BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 127
-    2018: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE VISION BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 129
-    2017: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE VISION BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 133
    [537]
     2021: DESERET GENERATION & TRANMSISSION CO-OPERATIVE EMPLOYEE LONG TERM DISABILITY
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 120
     2020: DESERET GENERATION & TRANMSISSION CO-OPERATIVE EMPLOYEE LONG TERM DISABILITY
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 123
     2019: DESERET GENERATION & TRANMSISSION CO-OPERATIVE EMPLOYEE LONG TERM DISABILITY
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 124
     2018: DESERET GENERATION & TRANMSISSION CO-OPERATIVE EMPLOYEE LONG TERM DISABILITY
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 169
     2017: DESERET GENERATION & TRANMSISSION CO-OPERATIVE EMPLOYEE LONG TERM DISABILITY
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 173
+   [535]
+    2021: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE VISION BENEFIT PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 120
+    2020: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE VISION BENEFIT PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 123
+    2019: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE VISION BENEFIT PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 127
+    2018: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE VISION BENEFIT PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 129
+    2017: DESERET GENERATION & TRANSMISSION CO-OPERATIVE EMPLOYEE VISION BENEFIT PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 133

@@ -60,19 +60,19 @@ CO : BOULDER
                  : TIAA REAL ESTATE
    [502]
     2020: GROUP HEALTH INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2019: GROUP HEALTH INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2018: GROUP HEALTH INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2017: GROUP HEALTH INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D4Q
         Participants: 
    [510]
@@ -94,97 +94,46 @@ CO : BOULDER
         Participants: 
    [515]
     2022: UCAR EMPLOYEE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4H4I4L4Q
         Participants: 
     2021: UCAR EMPLOYEE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4H4I4L4Q
         Participants: 
    [501]
     2020: GROUP LIFE INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2019: GROUP LIFE INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2018: GROUP LIFE INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: GROUP LIFE INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
-        Participants: 
-   [505]
-    2020: TRAVEL ACCIDENT PLAN FOR UCAR STAFF
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: TRAVEL ACCIDENT PLAN FOR UCAR STAFF
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: TRAVEL ACCIDENT PLAN FOR UCAR STAFF
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: TRAVEL ACCIDENT PLAN FOR UCAR STAFF
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-   [507]
-    2020: VOLUNTARY AD&D PLAN FOR UCAR STAFF
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: VOLUNTARY AD&D PLAN FOR UCAR STAFF
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: VOLUNTARY AD&D PLAN FOR UCAR STAFF
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: VOLUNTARY AD&D PLAN FOR UCAR STAFF
-        Benefit Category: Other
-        Codes:  4L
         Participants: 
    [513]
     2020: LONG TERM DISABILITY PLAN FOR ELIGIBLE UCAR STAFF
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2019: LONG TERM DISABILITY PLAN FOR ELIGIBLE UCAR STAFF
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2018: LONG TERM DISABILITY PLAN FOR ELIGIBLE UCAR STAFF
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2017: LONG TERM DISABILITY PLAN FOR ELIGIBLE UCAR STAFF
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H4Q
-        Participants: 
-   [514]
-    2020: BASIC AD&D PLAN FOR UCAR STAFF
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: BASIC AD&D PLAN FOR UCAR STAFF
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: BASIC AD&D PLAN FOR UCAR STAFF
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: BASIC AD&D PLAN FOR UCAR STAFF
-        Benefit Category: Other
-        Codes:  4L
         Participants: 
    [511]
     2020: SEVERANCE PAY PROGRAM
@@ -202,4 +151,55 @@ CO : BOULDER
     2017: SEVERANCE PAY PROGRAM
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [505]
+    2020: TRAVEL ACCIDENT PLAN FOR UCAR STAFF
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: TRAVEL ACCIDENT PLAN FOR UCAR STAFF
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: TRAVEL ACCIDENT PLAN FOR UCAR STAFF
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: TRAVEL ACCIDENT PLAN FOR UCAR STAFF
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+   [507]
+    2020: VOLUNTARY AD&D PLAN FOR UCAR STAFF
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: VOLUNTARY AD&D PLAN FOR UCAR STAFF
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: VOLUNTARY AD&D PLAN FOR UCAR STAFF
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: VOLUNTARY AD&D PLAN FOR UCAR STAFF
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+   [514]
+    2020: BASIC AD&D PLAN FOR UCAR STAFF
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: BASIC AD&D PLAN FOR UCAR STAFF
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: BASIC AD&D PLAN FOR UCAR STAFF
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: BASIC AD&D PLAN FOR UCAR STAFF
+        Benefit Category: Travel accident
+        Codes:  4L
         Participants: 

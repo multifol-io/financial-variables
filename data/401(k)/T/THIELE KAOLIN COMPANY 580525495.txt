@@ -113,27 +113,27 @@ GA : SANDERSVILLE
                  : TRP STABLE VALUE COMMON TRUST FUND
    [501]
     2022: THIELE KAOLIN COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
     2021: THIELE KAOLIN COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
     2020: THIELE KAOLIN COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
     2019: THIELE KAOLIN COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
     2018: THIELE KAOLIN COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
     2017: MAJOR MEDICAL
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
    [506]
@@ -163,13 +163,8 @@ GA : SANDERSVILLE
         Participants: 
    [502]
     2017: GROUP LIFE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
-        Participants: 
-   [503]
-    2017: GROUP ACCIDENT AND SICKNESS
-        Benefit Category: Other
-        Codes:  4F4H
         Participants: 
    [505]
     2017: GROUP ACCIDENT DEATH & DISMEMBERMENT
@@ -234,3 +229,8 @@ GA : SANDERSVILLE
         $/Participant: 236100
         Service Providers:
            - BANK OF AMERICA :  (Trustee(bank, trust company, or similar) | Investment management | Other services | Float revenue)
+   [503]
+    2017: GROUP ACCIDENT AND SICKNESS
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 

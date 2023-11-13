@@ -63,7 +63,7 @@ WI : MILWAUKEE
                  : MORLEY STABLE VALUE III FUND
    [504]
     2019: ROBERT W. BAIRD & CO., INCORPORATED HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Service Providers:
@@ -71,14 +71,14 @@ WI : MILWAUKEE
            - NAVITUS HEALTH SOLUTIONS :  (Claims processing)
            - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
     2018: ROBERT W. BAIRD & CO., INCORPORATED HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Service Providers:
            - UNITED HEALTHCARE INSURANCE COMPANY : CLAIMS PROCESSOR (Claims processing | Other services)
            - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
     2017: ROBERT W. BAIRD & CO., INCORPORATED HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Service Providers:
@@ -86,11 +86,11 @@ WI : MILWAUKEE
            - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
    [510]
     2022: ROBERT W. BAIRD & CO., INC. HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
     2021: ROBERT W. BAIRD & CO., INC. HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
         Service Providers:
@@ -99,7 +99,7 @@ WI : MILWAUKEE
            - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
            - HEALTH ADVOCATE SOLUTIONS, INC. :  (Claims processing)
     2020: ROBERT W. BAIRD & CO., INC. HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
         Service Providers:
@@ -108,25 +108,30 @@ WI : MILWAUKEE
            - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
    [501]
     2018: ROBERT W. BAIRD & CO., INC. LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: ROBERT W. BAIRD & CO., INC. LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
    [507]
     2019: BAIRD GROUP VARIABLE UNIVERSAL LIFE PROGRAM PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2018: BAIRD GROUP VARIABLE UNIVERSAL LIFE PROGRAM PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: BAIRD GROUP VARIABLE UNIVERSAL LIFE PROGRAM PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
+        Participants: 
+   [503]
+    2017: ROBERT W. BAIRD & CO., INC. INCOME INDEMNITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
    [502]
     2019: ROBERT W. BAIRD & CO., INC. TRAVEL ACCIDENT PLAN
@@ -140,15 +145,6 @@ WI : MILWAUKEE
     2017: ROBERT W. BAIRD & CO., INC. TRAVEL ACCIDENT PLAN
         Benefit Category: Other
         Codes:  4Q
-        Participants: 
-   [503]
-    2018: ROBERT W. BAIRD & CO., INC. INCOME INDEMNITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2017: ROBERT W. BAIRD & CO., INC. INCOME INDEMNITY PLAN
-        Benefit Category: Other
-        Codes:  4H
         Participants: 
    [505]
     2019: BAIRD GROUP LEGAL SERVICES PLAN
@@ -201,4 +197,9 @@ WI : MILWAUKEE
     2017: BAIRD VOLUNTARY AD&D PLAN
         Benefit Category: Other
         Codes:  4Q
+        Participants: 
+   [503]
+    2018: ROBERT W. BAIRD & CO., INC. INCOME INDEMNITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
         Participants: 

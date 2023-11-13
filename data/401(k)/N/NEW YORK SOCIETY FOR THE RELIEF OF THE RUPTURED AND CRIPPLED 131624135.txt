@@ -134,6 +134,19 @@ NY : NEW YORK
         Available Investments:
            - TRANSAMERICA FINANCIAL LIFE INS. CO.
                  : TFLIC GUARANTEED POOLED FUND
+   [503]
+    2019: NEW YORK SOCIETY FOR THE RELIEF OF THE RUPTURED AND CRIPPLED MAINTAINING THE HOSPITAL FOR SPECIAL SURGERY DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2018: NEW YORK SOCIETY FOR THE RELIEF OF THE RUPTURED AND CRIPPLED MAINTAINING THE HOSPITAL FOR SPECIAL SURGERY DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 3935
+    2017: NEW YORK SOCIETY FOR THE RELIEF OF THE RUPTURED AND CRIPPLED MAINTAINING THE HOSPITAL FOR SPECIAL SURGERY DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 3821
    [501]
     2019: NEW YORK SOCIETY FOR THE RELIEF OF THE RUPTURED AND CRIPPLED MAINTAINING THE HOSPITAL FOR SPECIAL SURGERY MEDICAL PLAN
         Benefit Category: Healthcare
@@ -153,24 +166,24 @@ NY : NEW YORK
         Codes:  4A
         Participants: 
     2018: NEW YORK SOCIETY FOR THE RELIEF OF THE RUPTURED AND CRIPPLED MAINTAINING THE HOSPITAL FOR SPECIAL SURGERY FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 1266
     2017: NEW YORK SOCIETY FOR THE RELIEF OF THE RUPTURED AND CRIPPLED MAINTAINING THE HOSPITAL FOR SPECIAL SURGERY FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 1268
    [506]
     2022: HOSPITAL FOR SPECIAL SURGERY HEALTH AND WELFARE BENEFITS PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2021: HOSPITAL FOR SPECIAL SURGERY HEALTH AND WELFARE BENEFITS PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2020: HOSPITAL FOR SPECIAL SURGERY HEALTH AND WELFARE BENEFITS PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
    [507]
@@ -188,43 +201,17 @@ NY : NEW YORK
         Participants: 
    [505]
     2020: NEW YORK SOCIETY FOR THE RELIEF OF THE RUPTURED AND CRIPPLED MAINTAINING THE HOSPITAL FOR SPECIAL SURGERY LIFE, AD&D, LTD, STD PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability, Travel accident
         Codes:  4B4H4L4Q
         Participants: 
     2019: NEW YORK SOCIETY FOR THE RELIEF OF THE RUPTURED AND CRIPPLED MAINTAINING THE HOSPITAL FOR SPECIAL SURGERY LIFE, AD&D, LTD, STD PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability, Travel accident
         Codes:  4B4H4L4Q
         Participants: 
     2017: NEW YORK SOCIETY FOR THE RELIEF OF THE RUPTURED AND CRIPPLED MAINTAINING THE HOSPITAL FOR SPECIAL SURGERY LIFE, AD&D, LTD, STD PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability
         Codes:  4B4H4Q
         Participants: 4831
-   [503]
-    2019: NEW YORK SOCIETY FOR THE RELIEF OF THE RUPTURED AND CRIPPLED MAINTAINING THE HOSPITAL FOR SPECIAL SURGERY DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2018: NEW YORK SOCIETY FOR THE RELIEF OF THE RUPTURED AND CRIPPLED MAINTAINING THE HOSPITAL FOR SPECIAL SURGERY DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 3935
-    2017: NEW YORK SOCIETY FOR THE RELIEF OF THE RUPTURED AND CRIPPLED MAINTAINING THE HOSPITAL FOR SPECIAL SURGERY DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 3821
-   [504]
-    2019: NEW YORK SOCIETY FOR THE RELIEF OF THE RUPTURED AND CRIPPLED MAINTAINING THE HOSPITAL FOR SPECIAL SURGERY VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2018: NEW YORK SOCIETY FOR THE RELIEF OF THE RUPTURED AND CRIPPLED MAINTAINING THE HOSPITAL FOR SPECIAL SURGERY VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 2780
-    2017: NEW YORK SOCIETY FOR THE RELIEF OF THE RUPTURED AND CRIPPLED MAINTAINING THE HOSPITAL FOR SPECIAL SURGERY VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 2766
    [001]
     2022: THE HOSPITAL FOR SPECIAL SURGERY RETIREMENT PLAN
         Benefit Category: Pension
@@ -295,3 +282,16 @@ NY : NEW YORK
         Available Investments:
            - WELLINGTON
                  : WELLINGTON MICRO CAP FUND
+   [504]
+    2019: NEW YORK SOCIETY FOR THE RELIEF OF THE RUPTURED AND CRIPPLED MAINTAINING THE HOSPITAL FOR SPECIAL SURGERY VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2018: NEW YORK SOCIETY FOR THE RELIEF OF THE RUPTURED AND CRIPPLED MAINTAINING THE HOSPITAL FOR SPECIAL SURGERY VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 2780
+    2017: NEW YORK SOCIETY FOR THE RELIEF OF THE RUPTURED AND CRIPPLED MAINTAINING THE HOSPITAL FOR SPECIAL SURGERY VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 2766

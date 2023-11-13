@@ -450,6 +450,13 @@ NJ : PEAPACK
         Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 0
         RecordKeeper: STRATEGIC ADVISORS, INC.
+   [506]
+    2017: PFIZER DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D4R
+        Participants: 
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator | Other insurance fees and expenses)
    [518]
     2017: PFIZER LIFE MANAGEMENT RESOURCES PROGRAM
         Benefit Category: Healthcare
@@ -462,7 +469,7 @@ NJ : PEAPACK
         Participants: 
    [542]
     2017: PFIZER MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q4R
         Participants: 
         Service Providers:
@@ -470,7 +477,7 @@ NJ : PEAPACK
            - HORIZON HEALTHCARE SERVICES, INC. :  (Contract Administrator | Other fees)
    [559]
     2022: PFIZER RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         Assets: 590532365
@@ -484,7 +491,7 @@ NJ : PEAPACK
            - PRUDENTIAL ASSET MANAGEMENT COMPANY
                  : DOMESTIC BALANCED ACCOUNT
     2021: PFIZER RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         Assets: 691399169
@@ -498,7 +505,7 @@ NJ : PEAPACK
            - PRUDENTIAL ASSET MANAGEMENT COMPANY
                  : DOMESTIC BALANCED ACCOUNT
     2020: PFIZER RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         Assets: 598647923
@@ -512,7 +519,7 @@ NJ : PEAPACK
            - PRUDENTIAL ASSET MANAGEMENT COMPANY
                  : DOMESTIC BALANCED ACCOUNT
     2019: PFIZER RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         Assets: 530931790
@@ -526,7 +533,7 @@ NJ : PEAPACK
            - PRUDENTIAL ASSET MANAGEMENT COMPANY
                  : DOMESTIC BALANCED ACCOUNT
     2018: PFIZER RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         Assets: 480254169
@@ -540,7 +547,7 @@ NJ : PEAPACK
            - PRUDENTIAL ASSET MANAGEMENT COMPANY
                  : DOMESTIC BALANCED ACCOUNT
     2017: PFIZER RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         Assets: 511604952
@@ -555,7 +562,7 @@ NJ : PEAPACK
                  : DOMESTIC BALANCED ACCOUNT
    [586]
     2022: PFIZER LEGACY RETIREE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Travel accident
         Codes:  4A4B4D4F4L4Q
         Participants: 
         Service Providers:
@@ -563,7 +570,7 @@ NJ : PEAPACK
            - UNITED HEALTHCARE : CONTRACT ADMINISTRATOR (Claims processing | Insurance brokerage commissions and fees)
            - HORIZON HEALTHCARE SERVICES, INC. : CONTRACT ADMINISTRATOR (Contract Administrator | Other fees)
     2021: PFIZER LEGACY RETIREE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Travel accident
         Codes:  4A4B4D4F4L4Q
         Participants: 
         Service Providers:
@@ -571,7 +578,7 @@ NJ : PEAPACK
            - UNITED HEALTHCARE :  (Claims processing | Insurance brokerage commissions and fees)
            - HORIZON BLUE CROSS BLUE SHIELD :  (Claims processing | Insurance brokerage commissions and fees)
     2020: PFIZER LEGACY RETIREE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Travel accident
         Codes:  4A4B4D4F4L4Q
         Participants: 
         Service Providers:
@@ -579,7 +586,7 @@ NJ : PEAPACK
            - UNITED HEALTHCARE :  (Claims processing | Insurance brokerage commissions and fees)
            - HORIZON BLUE CROSS BLUE SHIELD :  (Claims processing | Insurance brokerage commissions and fees)
     2019: PFIZER LEGACY RETIREE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Travel accident
         Codes:  4A4B4D4F4L4Q
         Participants: 
         Service Providers:
@@ -587,14 +594,14 @@ NJ : PEAPACK
            - HORIZON BLUE CROSS BLUE SHIELD :  (Claims processing | Insurance brokerage commissions and fees)
            - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator | Other insurance fees and expenses | Other fees)
     2018: LEGACY WARNER LAMBERT AND LEGACY WYETH AH ROBINS RETIREE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Service Providers:
            - UNITED HEALTHCARE :  (Claims processing | Insurance brokerage commissions and fees)
            - HORIZON BLUE CROSS BLUE SHIELD :  (Claims processing | Insurance brokerage commissions and fees)
     2017: LEGACY WARNER LAMBERT AND LEGACY WYETH AH ROBINS RETIREE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Assets: 442848
@@ -605,32 +612,32 @@ NJ : PEAPACK
            - HORIZON BLUE CROSS BLUE SHIELD :  (Claims processing | Insurance brokerage commissions and fees)
    [587]
     2022: INTERNATIONAL RETIREE HEALTHCARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2021: INTERNATIONAL RETIREE HEALTHCARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2020: INTERNATIONAL RETIREE HEALTHCARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2019: INTERNATIONAL RETIREE HEALTHCARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2018: INTERNATIONAL RETIREE HEALTHCARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2017: INTERNATIONAL RETIREE HEALTHCARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
    [588]
     2018: PFIZER LEGACY RETIREE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Travel accident
         Codes:  4A4B4D4F4L4Q4R
         Participants: 
         Service Providers:
@@ -641,7 +648,7 @@ NJ : PEAPACK
         Participants: 
    [592]
     2017: HOSPIRA HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4R
         Participants: 
         Service Providers:
@@ -651,24 +658,24 @@ NJ : PEAPACK
            - HUB INTERNATIONAL MIDWEST LTD : BROKER (Insurance agents and brokers)
    [593]
     2017: HOSPIRA FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q4R
         Participants: 
    [596]
     2017: FAULTLESS LIFE, ACCIDENT, MEDICAL, DENTAL, SICK PAY, WORKERS COMPENSATION SUPPLEMENTAL PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Travel accident
         Codes:  4A4B4D4F4L4Q4R
         Participants: 
         Service Providers:
            - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
    [600]
     2017: MEDIVATION, INC. WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q4R
         Participants: 
    [601]
     2022: PFIZER HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident
         Codes:  4A4B4D4E4F4L4Q
         Participants: 
         Service Providers:
@@ -679,7 +686,7 @@ NJ : PEAPACK
            - NEW YORK LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Insurance brokerage commissions and fees)
            - METROPOLITAN LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Insurance brokerage commissions and fees)
     2021: PFIZER HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident
         Codes:  4A4B4D4E4F4L4Q
         Participants: 
         Service Providers:
@@ -688,7 +695,7 @@ NJ : PEAPACK
            - DELTA DENTAL : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses)
            - WAGEWORKS : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses)
     2020: PFIZER HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident
         Codes:  4A4B4D4E4F4L4Q
         Participants: 
         Service Providers:
@@ -697,7 +704,7 @@ NJ : PEAPACK
            - DELTA DENTAL : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses)
            - WAGEWORKS : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses)
     2019: PFIZER HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident
         Codes:  4A4B4D4E4F4L4Q
         Participants: 
         Service Providers:
@@ -707,7 +714,7 @@ NJ : PEAPACK
            - KEPRO : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses)
            - WAGEWORKS : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses)
     2018: PFIZER HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident
         Codes:  4A4B4D4E4F4L4Q
         Participants: 
         Service Providers:
@@ -716,31 +723,73 @@ NJ : PEAPACK
            - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
    [607]
     2022: GLOBAL BLOOD THERAPEUTICS, INC HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4D4E4F4G4H4L4Q4R
         Participants: 
    [501]
     2017: PFIZER LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
    [541]
     2017: PFIZER ACCIDENTAL DEATH AND DISMEMBERMENT INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4Q4R
         Participants: 
    [594]
     2017: HOSPIRA EXTENDED DISABILITY PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4F4H4R
         Participants: 
         Service Providers:
            - PRUDENTIAL INSURANCE CO OF AMERICA : CONTRACT ADMINISTRATOR (Contract Administrator | Plan Administrator)
    [595]
     2017: HOSPIRA LIFE AND ACCIDENT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q4R
         Participants: 
+   [579]
+    2021: PFIZER LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H4R
+        Participants: 
+        Service Providers:
+           - CIGNA :  (Claims processing | Insurance brokerage commissions and fees)
+           - METROPOLITAN LIFE INSURANCE CO. :  (Claims processing | Insurance brokerage commissions and fees)
+    2020: PFIZER LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE CO. :  (Claims processing | Insurance brokerage commissions and fees)
+           - CIGNA :  (Claims processing | Insurance brokerage commissions and fees)
+    2019: PFIZER LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+        Assets: 20274
+        $/Participant: 
+        Service Providers:
+           - CIGNA :  (Claims processing | Insurance brokerage commissions and fees)
+           - METROPOLITAN LIFE INSURANCE CO. :  (Claims processing | Insurance brokerage commissions and fees)
+    2018: PFIZER LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+        Assets: 1558975
+        $/Participant: 
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE CO. :  (Claims processing | Insurance brokerage commissions and fees)
+           - CIGNA :  (Claims processing | Insurance brokerage commissions and fees)
+    2017: PFIZER LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+        Assets: 3082380
+        $/Participant: 
+        Service Providers:
+           - CIGNA :  (Claims processing | Insurance brokerage commissions and fees)
+           - METROPOLITAN LIFE INSURANCE CO. :  (Claims processing | Insurance brokerage commissions and fees)
    [012]
     2022: UPJOHN INTERNATIONAL, INC. CONTRIBUTORY FINAL AVERAGE PLAN
         Benefit Category: Other
@@ -766,86 +815,6 @@ NJ : PEAPACK
         Benefit Category: Other
         Codes: 3C 
         Participants: 10
-   [505]
-    2017: PFIZER BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L4R
-        Participants: 
-   [506]
-    2017: PFIZER DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D4R
-        Participants: 
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator | Other insurance fees and expenses)
-   [550]
-    2017: PFIZER VISION PLAN
-        Benefit Category: Other
-        Codes:  4E4R
-        Participants: 
-   [579]
-    2021: PFIZER LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H4R
-        Participants: 
-        Service Providers:
-           - CIGNA :  (Claims processing | Insurance brokerage commissions and fees)
-           - METROPOLITAN LIFE INSURANCE CO. :  (Claims processing | Insurance brokerage commissions and fees)
-    2020: PFIZER LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE CO. :  (Claims processing | Insurance brokerage commissions and fees)
-           - CIGNA :  (Claims processing | Insurance brokerage commissions and fees)
-    2019: PFIZER LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-        Assets: 20274
-        $/Participant: 
-        Service Providers:
-           - CIGNA :  (Claims processing | Insurance brokerage commissions and fees)
-           - METROPOLITAN LIFE INSURANCE CO. :  (Claims processing | Insurance brokerage commissions and fees)
-    2018: PFIZER LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-        Assets: 1558975
-        $/Participant: 
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE CO. :  (Claims processing | Insurance brokerage commissions and fees)
-           - CIGNA :  (Claims processing | Insurance brokerage commissions and fees)
-    2017: PFIZER LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-        Assets: 3082380
-        $/Participant: 
-        Service Providers:
-           - CIGNA :  (Claims processing | Insurance brokerage commissions and fees)
-           - METROPOLITAN LIFE INSURANCE CO. :  (Claims processing | Insurance brokerage commissions and fees)
-   [589]
-    2021: KING PHARMACEUTICALS, INC. HEALTH PLAN
-        Benefit Category: Other
-        Codes:  4F4H4R
-        Participants: 
-    2020: KING PHARMACEUTICALS, INC. HEALTH PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2019: KING PHARMACEUTICALS, INC. HEALTH PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2018: KING PHARMACEUTICALS, INC. HEALTH PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2017: KING PHARMACEUTICALS, INC. HEALTH PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
    [001]
     2022: PFIZER CONSOLIDATED PENSION PLAN
         Benefit Category: Pension
@@ -1120,4 +1089,35 @@ NJ : PEAPACK
     2022: ARENA PHARMACEUTICALS EMPLOYEE SEVERANCE PLAN
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [589]
+    2021: KING PHARMACEUTICALS, INC. HEALTH PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H4R
+        Participants: 
+    2020: KING PHARMACEUTICALS, INC. HEALTH PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2019: KING PHARMACEUTICALS, INC. HEALTH PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2018: KING PHARMACEUTICALS, INC. HEALTH PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2017: KING PHARMACEUTICALS, INC. HEALTH PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+   [505]
+    2017: PFIZER BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L4R
+        Participants: 
+   [550]
+    2017: PFIZER VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E4R
         Participants: 

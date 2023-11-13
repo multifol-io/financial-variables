@@ -61,6 +61,23 @@ MI : MADISON HEIGHTS
         Available Investments:
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE RETIREMENT FUN
+   [502]
+    2020: MCNAUGHTON-MCKAY ELECTRIC COMPANY DENTAL INSURANCE PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2019: MCNAUGHTON-MCKAY ELECTRIC COMPANY DENTAL INSURANCE PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2018: MCNAUGHTON-MCKAY ELECTRIC COMPANY DENTAL INSURANCE PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2017: MCNAUGHTON-MCKAY ELECTRIC COMPANY DENTAL INSURANCE PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 765
    [003]
     2022: MCNAUGHTON-MCKAY ELECTRIC COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
         Benefit Category: Employee Stock Ownership Plan
@@ -100,11 +117,11 @@ MI : MADISON HEIGHTS
         $/Participant: 594071
    [501]
     2022: MCNAUGHTON-MCKAY ELECTRIC COMPANY GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2021: MCNAUGHTON-MCKAY ELECTRIC COMPANY GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2020: MCNAUGHTON-MCKAY ELECTRIC COMPANY HEALTH INSURANCE PLAN
@@ -136,53 +153,36 @@ MI : MADISON HEIGHTS
         Participants: 786
    [504]
     2020: MCNAUGHTON-MCKAY ELECTRIC COMPANY LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2019: MCNAUGHTON-MCKAY ELECTRIC COMPANY LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2018: MCNAUGHTON-MCKAY ELECTRIC COMPANY LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2017: MCNAUGHTON-MCKAY ELECTRIC COMPANY LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 786
-   [502]
-    2020: MCNAUGHTON-MCKAY ELECTRIC COMPANY DENTAL INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2019: MCNAUGHTON-MCKAY ELECTRIC COMPANY DENTAL INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2018: MCNAUGHTON-MCKAY ELECTRIC COMPANY DENTAL INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2017: MCNAUGHTON-MCKAY ELECTRIC COMPANY DENTAL INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 765
    [503]
     2020: MCNAUGHTON-MCKAY ELECTRIC COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2019: MCNAUGHTON-MCKAY ELECTRIC COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2018: MCNAUGHTON-MCKAY ELECTRIC COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2017: MCNAUGHTON-MCKAY ELECTRIC COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 786
    [506]
@@ -197,23 +197,6 @@ MI : MADISON HEIGHTS
     2018: MCNAUGHTON-MCKAY ELECTRIC COMPANY EMPLOYEE ASSISTANCE PLAN
         Benefit Category: Other
         Codes:  4Q
-        Participants: 
-   [510]
-    2020: MCNAUGHTON-MCKAY ELECTRIC COMPANY VISION INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2019: MCNAUGHTON-MCKAY ELECTRIC COMPANY VISION INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2018: MCNAUGHTON-MCKAY ELECTRIC COMPANY VISION INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2017: MCNAUGHTON-MCKAY ELECTRIC COMPANY VISION INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4E
         Participants: 
    [001]
     2022: MCNAUGHTON-MCKAY ELEC CO EMPLOYEE'S RET. PLAN
@@ -264,3 +247,20 @@ MI : MADISON HEIGHTS
         $/Participant: 47717
         Service Providers:
            - MERRILL LYNCH : INVESTMENT MANAGEMENT (Investment management)
+   [510]
+    2020: MCNAUGHTON-MCKAY ELECTRIC COMPANY VISION INSURANCE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2019: MCNAUGHTON-MCKAY ELECTRIC COMPANY VISION INSURANCE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2018: MCNAUGHTON-MCKAY ELECTRIC COMPANY VISION INSURANCE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2017: MCNAUGHTON-MCKAY ELECTRIC COMPANY VISION INSURANCE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 

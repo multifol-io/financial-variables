@@ -53,6 +53,11 @@ OK : TULSA
         Available Investments:
            - ONE GAS, INC.
                  : ONE GAS, INC. DC PLAN MT
+   [519]
+    2017: ONE GAS, INC. DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [501]
     2017: ONE GAS, INC HEALTH PLAN
         Benefit Category: Healthcare
@@ -107,19 +112,19 @@ OK : TULSA
                  : ONE GAS, INC. COLLECTIVE BARGAINING
    [530]
     2022: ONE GAS, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2021: ONE GAS, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4H4I4L4Q
         Participants: 
     2020: ONE GAS, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4H4I4L4Q
         Participants: 
     2019: ONE GAS, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4H4I4L4Q
         Participants: 
    [531]
@@ -206,18 +211,28 @@ OK : TULSA
            - US BANK :  (Custodial(other than securities) | Direct payment from the plan)
    [513]
     2017: ONE GAS, INC. LIFE INSURANCE PLAN FOR UNITED STEELWORKERS OF KANSAS GAS SERVICE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
    [517]
     2017: ONE GAS, INC. LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
    [530]
     2018: ONE GAS, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Vision, Long-term disability, Travel accident
         Codes:  4B4E4H4L4Q
+        Participants: 
+   [502]
+    2017: ONE GAS, INC. LONG-TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+   [511]
+    2017: ONE GAS, INC. LONG TERM DISABILITY PLAN FOR UNITED STEELWORKERS OF KANSAS GAS SERVICE
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
    [004]
     2021: ONE GAS, INC. MASTER TRUST FOR DEFINED CONTRIBUTION PLANS
@@ -366,16 +381,6 @@ OK : TULSA
         Available Investments:
            - ONE GAS, INC.
                  : ONE GAS, INC. DC PLAN MT
-   [502]
-    2017: ONE GAS, INC. LONG-TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-   [503]
-    2017: ONE GAS, INC. TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L4Q
-        Participants: 
    [506]
     2017: ONE GAS, INC. CHEMICAL DEPENDENCY TREATMENT PROGRAM
         Benefit Category: Other
@@ -390,31 +395,6 @@ OK : TULSA
     2017: ONE GAS, INC. CAFETERIA PLAN
         Benefit Category: Other
         Codes:  4Q
-        Participants: 
-   [511]
-    2017: ONE GAS, INC. LONG TERM DISABILITY PLAN FOR UNITED STEELWORKERS OF KANSAS GAS SERVICE
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-   [514]
-    2017: ONE GAS, INC. ACCIDENTAL DEATH & DISMEMBERMENT PLAN FOR UNITED STEELWORKERS OF KANSAS GAS SERVICE
-        Benefit Category: Other
-        Codes:  4L4Q
-        Participants: 
-   [518]
-    2017: ONE GAS, INC. ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4L4Q
-        Participants: 
-   [519]
-    2017: ONE GAS, INC. DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-   [520]
-    2017: ONE GAS, INC. VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
         Participants: 
    [527]
     2018: ONE GAS, INC. MASTER TRUST FOR COLLECTIVE BARGAINING UNIT FORMER EMPLOYEES
@@ -587,4 +567,24 @@ OK : TULSA
     2017: ONE GAS, INC. SEVERANCE PAY PLAN
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [503]
+    2017: ONE GAS, INC. TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L4Q
+        Participants: 
+   [514]
+    2017: ONE GAS, INC. ACCIDENTAL DEATH & DISMEMBERMENT PLAN FOR UNITED STEELWORKERS OF KANSAS GAS SERVICE
+        Benefit Category: Travel accident
+        Codes:  4L4Q
+        Participants: 
+   [518]
+    2017: ONE GAS, INC. ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L4Q
+        Participants: 
+   [520]
+    2017: ONE GAS, INC. VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
         Participants: 

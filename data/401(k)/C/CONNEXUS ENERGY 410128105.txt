@@ -61,6 +61,31 @@ MN : RAMSEY
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
+   [503]
+    2022: CONNEXUS ENERGY GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2021: CONNEXUS ENERGY GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2020: CONNEXUS ENERGY GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2019: CONNEXUS ENERGY GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2018: CONNEXUS ENERGY GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2017: CONNEXUS ENERGY GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [501]
     2022: CONNEXUS ENERGY GROUP HEALTH PLAN
         Benefit Category: Healthcare
@@ -88,112 +113,53 @@ MN : RAMSEY
         Participants: 
    [506]
     2022: CONNEXUS ENERGY GROUP LIFE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2021: CONNEXUS ENERGY GROUP LIFE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2020: CONNEXUS ENERGY GROUP LIFE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2019: CONNEXUS ENERGY GROUP LIFE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2018: CONNEXUS ENERGY GROUP LIFE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2017: CONNEXUS ENERGY GROUP LIFE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
    [502]
     2022: CONNEXUS ENERGY GROUP LTD PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2021: CONNEXUS ENERGY GROUP LTD PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2020: CONNEXUS ENERGY GROUP LTD PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2019: CONNEXUS ENERGY GROUP LTD PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2018: CONNEXUS ENERGY GROUP LTD PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2017: CONNEXUS ENERGY GROUP LTD PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
-        Participants: 
-   [503]
-    2022: CONNEXUS ENERGY GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2021: CONNEXUS ENERGY GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2020: CONNEXUS ENERGY GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2019: CONNEXUS ENERGY GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2018: CONNEXUS ENERGY GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2017: CONNEXUS ENERGY GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-   [507]
-    2022: CONNEXUS ENERGY SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2021: CONNEXUS ENERGY SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2020: CONNEXUS ENERGY SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2019: CONNEXUS ENERGY SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2018: CONNEXUS ENERGY SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2017: CONNEXUS ENERGY SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-   [510]
-    2022: CONNEXUS ENERGY BTA PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2021: CONNEXUS ENERGY BTA PLAN
-        Benefit Category: Other
-        Codes:  4L
         Participants: 
    [011]
     2022: CONNEXUS ENERGY DEFINED BENEFIT PENSION PLAN
@@ -249,3 +215,37 @@ MN : RAMSEY
         Service Providers:
            - VANGUARD : PARTY-IN-INTEREST (Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Investment management | Investment management fees paid directly by plan)
            - DELOITTE & TOUCHE LLP : PARTY-IN-INTEREST (Actuarial)
+   [507]
+    2022: CONNEXUS ENERGY SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2021: CONNEXUS ENERGY SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2020: CONNEXUS ENERGY SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2019: CONNEXUS ENERGY SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2018: CONNEXUS ENERGY SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2017: CONNEXUS ENERGY SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+   [510]
+    2022: CONNEXUS ENERGY BTA PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2021: CONNEXUS ENERGY BTA PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 

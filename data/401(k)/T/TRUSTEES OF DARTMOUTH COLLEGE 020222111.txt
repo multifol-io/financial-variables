@@ -124,11 +124,11 @@ NH : HANOVER
                  : TIAA REAL ESTATE ACCOUNT
    [506]
     2022: THE HEALTH & WELFARE BENEFITS PLAN OF DARTMOUTH COLLEGE
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4F4H4L4Q
         Participants: 
     2021: THE HEALTH & WELFARE BENEFITS PLAN OF DARTMOUTH COLLEGE
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4F4H4L4Q
         Participants: 
         Service Providers:
@@ -136,21 +136,21 @@ NH : HANOVER
            - EXPRESS SCRIPTS, INC. : CLAIMS PROCESSOR (Claims processing)
            - LINCOLN NATIONAL LIFE INS CO : ASO STD (Claims processing | Contract Administrator | Insurance services)
     2020: THE HEALTH & WELFARE BENEFITS PLAN OF DARTMOUTH COLLEGE
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4F4H4L4Q
         Participants: 
         Service Providers:
            - CIGNA HEALTH AND LIFE INS COMPANY : CLAIMS ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
            - EXPRESS SCRIPTS, INC. : CLAIMS PROCESSOR (Claims processing)
     2019: THE HEALTH & WELFARE BENEFITS PLAN OF DARTMOUTH COLLEGE
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4F4H4L4Q
         Participants: 
         Service Providers:
            - CIGNA HEALTH AND LIFE INS COMPANY : CLAIMS ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
            - EXPRESS SCRIPTS, INC. : CLAIMS PROCESSOR (Claims processing)
     2018: THE HEALTH & WELFARE BENEFITS PLAN OF DARTMOUTH COLLEGE
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4F4H4L4Q
         Participants: 
         Service Providers:
@@ -159,10 +159,17 @@ NH : HANOVER
            - MATRIX ABSENCE MANAGEMENT, INC. : CLAIMS PROCESSOR (Claims processing)
            - LIBERTY LIFE ASSURANCE CO OF BOSTON : CLAIMS PROCESSOR (Claims processing)
     2017: THE HEALTH & WELFARE BENEFITS PLAN OF DARTMOUTH COLLEGE
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Travel accident
         Codes:  4A4B4D4F4L4Q
         Participants: 
         RecordKeeper: CROSBY BENEFITS SYSTEM
+   [504]
+    2017: DARTMOUTH COLLEGE TOTAL DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+        Service Providers:
+           - MATRIX ABSENCE MANAGEMENT,INC. :  (Claims processing)
    [005]
     2022: 401(A) DEF CONT RET PLAN FOR DARTMOUTH COLLEGE FACULTY/STAFF
         Benefit Category: Other
@@ -224,13 +231,6 @@ NH : HANOVER
         Available Investments:
            - TIAA-CREF
                  : TIAA REAL ESTATE ACCOUNT
-   [504]
-    2017: DARTMOUTH COLLEGE TOTAL DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-        Service Providers:
-           - MATRIX ABSENCE MANAGEMENT,INC. :  (Claims processing)
    [505]
     2017: DARTMOUTH COLLEGE TRAVEL ACCIDENT INSURANCE PLAN
         Benefit Category: Other

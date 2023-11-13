@@ -1,48 +1,30 @@
 WI : ROTHSCHILD
   BORREGAARD USA, INC.  391420133
-   [501]
-    2020: BORREGAARD USA EMPLOYEE LIFE PLAN
-        Benefit Category: Life Insurance
-        Codes:  4B4R
-        Participants: 
-    2019: LIGNOTECH USA EMPLOYEE LIFE PLAN
-        Benefit Category: Life Insurance
-        Codes:  4B
-        Participants: 
-    2018: LIGNOTECH USA EMPLOYEE LIFE PLAN
-        Benefit Category: Life Insurance
-        Codes:  4B
-        Participants: 
    [502]
     2020: BORREGAARD USA EMPLOYEE DENTAL PLAN
-        Benefit Category: Other
+        Benefit Category: Dental
         Codes:  4D4R
         Participants: 
     2019: LIGNOTECH USA EMPLOYEE DENTAL PLAN
-        Benefit Category: Other
+        Benefit Category: Dental
         Codes:  4D
         Participants: 
     2018: LIGNOTECH USA EMPLOYEE DENTAL PLAN
-        Benefit Category: Other
+        Benefit Category: Dental
         Codes:  4D
         Participants: 
-   [503]
-    2020: BORREGAARD USA EMPLOYEE AD&D PLAN
-        Benefit Category: Other
-        Codes:  4L4R
+   [501]
+    2020: BORREGAARD USA EMPLOYEE LIFE PLAN
+        Benefit Category: Life insurance
+        Codes:  4B4R
         Participants: 
-    2019: LIGNOTECH USA EMPLOYEE AD&D PLAN
-        Benefit Category: Other
-        Codes:  4L
+    2019: LIGNOTECH USA EMPLOYEE LIFE PLAN
+        Benefit Category: Life insurance
+        Codes:  4B
         Participants: 
-    2018: LIGNOTECH USA EMPLOYEE AD&D PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-   [504]
-    2020: BORREGAARD USA EMPLOYEE BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L4R
+    2018: LIGNOTECH USA EMPLOYEE LIFE PLAN
+        Benefit Category: Life insurance
+        Codes:  4B
         Participants: 
    [003]
     2022: BORREGAARD USA, INC. PENSION PLAN
@@ -80,3 +62,21 @@ WI : ROTHSCHILD
         Assets: 47225071
         $/Participant: 222759
         RecordKeeper: U.S. BANK NATIONAL ASSOCIATION
+   [503]
+    2020: BORREGAARD USA EMPLOYEE AD&D PLAN
+        Benefit Category: Travel accident
+        Codes:  4L4R
+        Participants: 
+    2019: LIGNOTECH USA EMPLOYEE AD&D PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: LIGNOTECH USA EMPLOYEE AD&D PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+   [504]
+    2020: BORREGAARD USA EMPLOYEE BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L4R
+        Participants: 

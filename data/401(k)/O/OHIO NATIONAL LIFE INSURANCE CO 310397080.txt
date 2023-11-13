@@ -777,6 +777,68 @@ OH : CINCINNATI
            - THE OHIO NATIONAL LIFE INSURANCE CO
                  : OHIO NATIONAL LIFE INSUR CO PORT C
 OH : MONTGOMERY
+   [509]
+    2022: HOME OFFICE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 1730
+        Service Providers:
+           - DELTA DENTAL OF OHIO : BENEFIT ADMINISTRATOR (Claims processing | Contract Administrator)
+    2021: HOME OFFICE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 1872
+        Service Providers:
+           - DELTA DENTAL OF OHIO : BENEFIT ADMINISTRATOR (Claims processing | Contract Administrator)
+    2020: HOME OFFICE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 1945
+        Service Providers:
+           - DELTA DENTAL OF OHIO : BENEFIT ADMINISTRATOR (Claims processing | Contract Administrator)
+    2019: HOME OFFICE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 1912
+        Service Providers:
+           - DELTA DENTAL OF OHIO : CONTRACT ADMINISTRATOR (Contract Administrator)
+    2018: HOME OFFICE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 2325
+        Service Providers:
+           - DELTA DENTAL OF OH : CONTRACT ADMINISTRATOR (Contract Administrator)
+    2017: HOME OFFICE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 2558
+        Service Providers:
+           - DELTA DENTAL OF OHIO : CONTRACT ADMINISTRATOR (Contract Administrator)
+   [513]
+    2022: DENTAL PLAN - AGENTS
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 389
+    2021: DENTAL PLAN - AGENTS
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 655
+    2020: DENTAL PLAN - AGENTS
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 826
+    2019: DENTAL PLAN - AGENTS
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 968
+    2018: DENTAL PLAN - AGENTS
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 1058
+    2017: DENTAL PLAN - AGENTS
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 859
    [503]
     2022: THE OHIO NATIONAL LIFE INSURANCE CO AGENTS' MEDICAL BENEFIT PLAN TRUST
         Benefit Category: Healthcare
@@ -867,54 +929,104 @@ OH : MONTGOMERY
            - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
    [502]
     2022: HOME OFFICE GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 1511
     2021: HOME OFFICE GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 1662
     2020: HOME OFFICE GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 1750
     2019: HOME OFFICE GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 1235
     2018: HOME OFFICE GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 1523
     2017: HOME OFFICE GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 1974
    [504]
     2022: GROUP LIFE INSURANCE BENEFITS FOR AGENTS
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 1008
     2021: GROUP LIFE INSURANCE BENEFITS FOR AGENTS
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 1191
     2020: GROUP LIFE INSURANCE BENEFITS FOR AGENTS
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 1553
     2019: GROUP LIFE INSURANCE BENEFITS FOR AGENTS
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 1553
     2018: GROUP LIFE INSURANCE BENEFITS FOR AGENTS
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 1655
     2017: GROUP LIFE INSURANCE BENEFITS FOR AGENTS
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 2646
+   [501]
+    2022: DISABILITY INCOME FOR THE HOME OFFICE EMPLOYEES
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 688
+    2021: DISABILITY INCOME FOR THE HOME OFFICE EMPLOYEES
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 785
+    2020: DISABILITY INCOME FOR THE HOME OFFICE EMPLOYEES
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 806
+    2019: DISABILITY INCOME FOR THE HOME OFFICE EMPLOYEES
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 1234
+    2018: DISABILITY INCOME FOR THE HOME OFFICE EMPLOYEES
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 1135
+    2017: DISABILITY INCOME FOR THE HOME OFFICE EMPLOYEES
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 1105
+   [506]
+    2022: DISABILITY INCOME FOR CAREER AGENTS
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 20
+    2021: DISABILITY INCOME FOR CAREER AGENTS
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 20
+    2020: DISABILITY INCOME FOR CAREER AGENTS
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 20
+    2019: DISABILITY INCOME FOR CAREER AGENTS
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 24
+    2018: DISABILITY INCOME FOR CAREER AGENTS
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 26
+    2017: DISABILITY INCOME FOR CAREER AGENTS
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 29
 OH : CINCINNATI
    [002]
     2017: THE OHIO NATIONAL LIFE INS CO PORTFOLIO D
@@ -1139,120 +1251,6 @@ OH : CINCINNATI
         Participants: 
         Assets: 1074318276
         $/Participant: 
-OH : MONTGOMERY
-   [501]
-    2022: DISABILITY INCOME FOR THE HOME OFFICE EMPLOYEES
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 688
-    2021: DISABILITY INCOME FOR THE HOME OFFICE EMPLOYEES
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 785
-    2020: DISABILITY INCOME FOR THE HOME OFFICE EMPLOYEES
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 806
-    2019: DISABILITY INCOME FOR THE HOME OFFICE EMPLOYEES
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 1234
-    2018: DISABILITY INCOME FOR THE HOME OFFICE EMPLOYEES
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 1135
-    2017: DISABILITY INCOME FOR THE HOME OFFICE EMPLOYEES
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 1105
-   [505]
-    2022: OHIO NATIONAL LIFE INSURANCE COMPANY GROUP TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 809
-    2021: OHIO NATIONAL LIFE INSURANCE COMPANY GROUP TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 929
-    2020: OHIO NATIONAL LIFE INSURANCE COMPANY GROUP TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 967
-    2019: OHIO NATIONAL LIFE INSURANCE COMPANY GROUP TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 967
-    2018: OHIO NATIONAL LIFE INSURANCE COMPANY GROUP TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 1849
-    2017: OHIO NATIONAL LIFE INSURANCE COMPANY GROUP TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 1849
-   [506]
-    2022: DISABILITY INCOME FOR CAREER AGENTS
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 20
-    2021: DISABILITY INCOME FOR CAREER AGENTS
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 20
-    2020: DISABILITY INCOME FOR CAREER AGENTS
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 20
-    2019: DISABILITY INCOME FOR CAREER AGENTS
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 24
-    2018: DISABILITY INCOME FOR CAREER AGENTS
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 26
-    2017: DISABILITY INCOME FOR CAREER AGENTS
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 29
-   [509]
-    2022: HOME OFFICE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 1730
-        Service Providers:
-           - DELTA DENTAL OF OHIO : BENEFIT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2021: HOME OFFICE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 1872
-        Service Providers:
-           - DELTA DENTAL OF OHIO : BENEFIT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2020: HOME OFFICE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 1945
-        Service Providers:
-           - DELTA DENTAL OF OHIO : BENEFIT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2019: HOME OFFICE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 1912
-        Service Providers:
-           - DELTA DENTAL OF OHIO : CONTRACT ADMINISTRATOR (Contract Administrator)
-    2018: HOME OFFICE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 2325
-        Service Providers:
-           - DELTA DENTAL OF OH : CONTRACT ADMINISTRATOR (Contract Administrator)
-    2017: HOME OFFICE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 2558
-        Service Providers:
-           - DELTA DENTAL OF OHIO : CONTRACT ADMINISTRATOR (Contract Administrator)
-OH : CINCINNATI
    [510]
     2018: FLEXIBLE SPENDING BENEFITS PLAN
         Benefit Category: Other
@@ -1263,43 +1261,6 @@ OH : CINCINNATI
         Codes:  4Q
         Participants: 
 OH : MONTGOMERY
-   [511]
-    2022: HOME OFFICE VISION
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 1890
-        Service Providers:
-           - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
-    2021: HOME OFFICE VISION
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 1873
-        Service Providers:
-           - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
-    2020: HOME OFFICE VISION
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 2314
-        Service Providers:
-           - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
-    2019: HOME OFFICE VISION
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 1458
-        Service Providers:
-           - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
-    2018: HOME OFFICE VISION
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 1815
-        Service Providers:
-           - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
-    2017: HOME OFFICE VISION
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 2069
-        Service Providers:
-           - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
    [512]
     2022: HOME OFFICE EAP
         Benefit Category: Other
@@ -1339,56 +1300,6 @@ OH : MONTGOMERY
         Participants: 1342
         Service Providers:
            - UNITED BEHAVIORAL HEALTH DBA OPTUM : CONTRACT ADMINISTRATOR (Contract Administrator)
-   [513]
-    2022: DENTAL PLAN - AGENTS
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 389
-    2021: DENTAL PLAN - AGENTS
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 655
-    2020: DENTAL PLAN - AGENTS
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 826
-    2019: DENTAL PLAN - AGENTS
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 968
-    2018: DENTAL PLAN - AGENTS
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 1058
-    2017: DENTAL PLAN - AGENTS
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 859
-   [514]
-    2022: AGENTS VISION
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 362
-    2021: AGENTS VISION
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 619
-    2020: AGENTS VISION
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 753
-    2019: AGENTS VISION
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 839
-    2018: 514 AGENTS VISION
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 995
-    2017: 514 AGENTS VISION
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 803
    [515]
     2022: VOLUNTARY AND CRITICAL PLAN
         Benefit Category: Other
@@ -1544,3 +1455,90 @@ OH : MONTGOMERY
         Available Investments:
            - THE OHIO NATIONAL LIFE INSURANCE COMPANY
                  : OHIO NATIONAL LIFE INS. CO. PORT. C
+   [505]
+    2022: OHIO NATIONAL LIFE INSURANCE COMPANY GROUP TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 809
+    2021: OHIO NATIONAL LIFE INSURANCE COMPANY GROUP TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 929
+    2020: OHIO NATIONAL LIFE INSURANCE COMPANY GROUP TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 967
+    2019: OHIO NATIONAL LIFE INSURANCE COMPANY GROUP TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 967
+    2018: OHIO NATIONAL LIFE INSURANCE COMPANY GROUP TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 1849
+    2017: OHIO NATIONAL LIFE INSURANCE COMPANY GROUP TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 1849
+   [511]
+    2022: HOME OFFICE VISION
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 1890
+        Service Providers:
+           - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
+    2021: HOME OFFICE VISION
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 1873
+        Service Providers:
+           - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
+    2020: HOME OFFICE VISION
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 2314
+        Service Providers:
+           - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
+    2019: HOME OFFICE VISION
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 1458
+        Service Providers:
+           - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
+    2018: HOME OFFICE VISION
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 1815
+        Service Providers:
+           - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
+    2017: HOME OFFICE VISION
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 2069
+        Service Providers:
+           - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
+   [514]
+    2022: AGENTS VISION
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 362
+    2021: AGENTS VISION
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 619
+    2020: AGENTS VISION
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 753
+    2019: AGENTS VISION
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 839
+    2018: 514 AGENTS VISION
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 995
+    2017: 514 AGENTS VISION
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 803

@@ -205,15 +205,15 @@ IA : WEST DES MOINES
                  : PRINL LIFETIME 2030 SEP ACCT-Z
    [501]
     2022: FARMERS MUTUAL HAIL INSURANCE COMPANY OF IOWA GROUP HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2021: FARMERS MUTUAL HAIL INSURANCE COMPANY OF IOWA GROUP HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2020: FARMERS MUTUAL HAIL INSURANCE COMPANY OF IOWA GROUP HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 442
         Service Providers:
@@ -221,7 +221,7 @@ IA : WEST DES MOINES
            - UMR, INC. : CLAIM PROCESSING (Other commissions)
            - GALLAGHER BENEFIT SERVICES : BROKER (Other commissions)
     2019: FARMERS MUTUAL HAIL INSURANCE COMPANY OF IOWA GROUP HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 532
         Service Providers:
@@ -230,7 +230,7 @@ IA : WEST DES MOINES
            - OPTUMRX, INC : PHARMACY BENEFIT MANAGEME (Claims processing | Direct payment from the plan | Float revenue | Other fees)
            - UMR, INC : CLAIM PROCESSING (Claims processing)
     2018: FARMERS MUTUAL HAIL INSURANCE COMPANY OF IOWA GROUP HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 519
         Service Providers:
@@ -238,7 +238,7 @@ IA : WEST DES MOINES
            - HOLMES MURPHY & ASSOICATES INC : BROKER (Other commissions)
            - UMR INC : CLAIMS PROCESSOR (Claims processing)
     2017: FARMERS MUTUAL HAIL INSURANCE COMPANY OF IOWA GROUP HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 516
         Service Providers:
@@ -278,52 +278,52 @@ IA : WEST DES MOINES
         Participants: 
    [504]
     2022: FARMERS MUTUAL HAIL INSURANCE COMPANY OF IOWA GROUP LIFE INSURANCE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2021: FARMERS MUTUAL HAIL INSURANCE COMPANY OF IOWA GROUP LIFE INSURANCE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2020: FARMERS MUTUAL HAIL INSURANCE COMPANY OF IOWA GROUP LIFE INSURANCE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 506
     2019: FARMERS MUTUAL HAIL INSURANCE COMPANY OF IOWA GROUP LIFE INSURANCE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 489
     2018: FARMERS MUTUAL HAIL INSURANCE COMPANY OF IOWA GROUP LIFE INSURANCE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 476
     2017: FARMERS MUTUAL HAIL INSURANCE COMPANY OF IOWA GROUP LIFE INSURANCE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 465
    [502]
     2022: FARMERS MUTUAL HAIL INSURANCE COMPANY OF IOWA LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2021: FARMERS MUTUAL HAIL INSURANCE COMPANY OF IOWA LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2020: FARMERS MUTUAL HAIL INSURANCE COMPANY OF IOWA LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 506
     2019: FARMERS MUTUAL HAIL INSURANCE COMPANY OF IOWA LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 489
     2018: FARMERS MUTUAL HAIL INSURANCE COMPANY OF IOWA LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 476
     2017: FARMERS MUTUAL HAIL INSURANCE COMPANY OF IOWA LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 465
    [503]
@@ -351,39 +351,6 @@ IA : WEST DES MOINES
         Participants: 169
         Service Providers:
            - WAGE WORKS : CLAIMS PROCESSOR (Claims processing)
-   [505]
-    2022: FMH VISION-GROUP BENEFIT PLAN 010-301665
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2021: FMH VISION-GROUP BENEFIT PLAN 010-301665
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2020: FMH VISION-GROUP BENEFIT PLAN #010-301665
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 500
-    2019: FMH VISION-GROUP BENEFIT PLAN #010-301665
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 486
-        Service Providers:
-           - AMERITAS LIFE INSURANCE CORP : VISION BENEFIT ADMIN (Claims processing)
-           - HOLMES MURPHY AND ASSOICATES INC : BROKER (Insurance agents and brokers)
-    2018: FMH VISION-GROUP BENEFIT PLAN #010-301665
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 472
-        Service Providers:
-           - HOLMES MURPHY AND ASSOICATES INC : BROKER (Insurance agents and brokers)
-           - AMERITAS LIFE INSURANCE CORP : VISION BENEFIT ADMIN (Claims processing)
-    2017: FMH VISION-GROUP BENEFIT PLAN #010-301665
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 449
-        Service Providers:
-           - AMERITAS LIFE INSURANCE CORP : VISION BENEFIT ADMIN ()
    [511]
     2020: FAMERS MUTUAL HAIL RETIREE HEALTH REIMBURSMENT PLAN
         Benefit Category: Other
@@ -483,3 +450,36 @@ IA : WEST DES MOINES
                  : PRIN MIDCAP S&P 400 IDX SA-I3
                  : PRIN SMCAP S&P 600 INDEX SA-I3
                  : PRIN U.S. PROPERTY SEP ACCT-R6
+   [505]
+    2022: FMH VISION-GROUP BENEFIT PLAN 010-301665
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2021: FMH VISION-GROUP BENEFIT PLAN 010-301665
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2020: FMH VISION-GROUP BENEFIT PLAN #010-301665
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 500
+    2019: FMH VISION-GROUP BENEFIT PLAN #010-301665
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 486
+        Service Providers:
+           - AMERITAS LIFE INSURANCE CORP : VISION BENEFIT ADMIN (Claims processing)
+           - HOLMES MURPHY AND ASSOICATES INC : BROKER (Insurance agents and brokers)
+    2018: FMH VISION-GROUP BENEFIT PLAN #010-301665
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 472
+        Service Providers:
+           - HOLMES MURPHY AND ASSOICATES INC : BROKER (Insurance agents and brokers)
+           - AMERITAS LIFE INSURANCE CORP : VISION BENEFIT ADMIN (Claims processing)
+    2017: FMH VISION-GROUP BENEFIT PLAN #010-301665
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 449
+        Service Providers:
+           - AMERITAS LIFE INSURANCE CORP : VISION BENEFIT ADMIN ()

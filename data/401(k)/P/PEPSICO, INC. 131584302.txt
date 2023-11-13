@@ -72,27 +72,27 @@ NY : PURCHASE
                  : PEPSICO, INC. DC PLANS MASTER TRUST
    [725]
     2022: PEPSICO EMPLOYEE HEALTH CARE PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2021: PEPSICO EMPLOYEE HEALTH CARE PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2020: PEPSICO EMPLOYEE HEALTH CARE PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2019: PEPSICO EMPLOYEE HEALTH CARE PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2018: PEPSICO EMPLOYEE HEALTH CARE PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2017: PEPSICO EMPLOYEE HEALTH CARE PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
    [726]
@@ -122,27 +122,27 @@ NY : PURCHASE
         Participants: 
    [600]
     2022: PEPSICO GROUP INSURANCE PROGRAM
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4Q
         Participants: 
     2021: PEPSICO GROUP INSURANCE PROGRAM
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4Q
         Participants: 
     2020: PEPSICO GROUP INSURANCE PROGRAM
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4Q
         Participants: 
     2019: PEPSICO GROUP INSURANCE PROGRAM
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4Q
         Participants: 
     2018: PEPSICO GROUP INSURANCE PROGRAM
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4Q
         Participants: 
     2017: PEPSICO GROUP INSURANCE PROGRAM
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4Q
         Participants: 
    [207]
@@ -325,49 +325,6 @@ NY : PURCHASE
         Benefit Category: Other
         Codes:  4C
         Participants: 
-   [630]
-    2022: PEPSICO DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H4F
-        Participants: 
-        Assets: 6039000
-        $/Participant: 
-        RecordKeeper: SEDGWICK CLAIMS MANAGEMENT SERVICES
-    2021: PEPSICO DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H4F
-        Participants: 
-        Assets: 5260000
-        $/Participant: 
-        RecordKeeper: SEDGWICK CLAIMS MANAGEMENT SERVICES
-    2020: PEPSICO DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H4F
-        Participants: 
-        Assets: 5213000
-        $/Participant: 
-        RecordKeeper: SEDGWICK CLAIMS MANAGEMENT SERVICES
-    2019: PEPSICO DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H4F
-        Participants: 
-        Assets: 5796000
-        $/Participant: 
-        RecordKeeper: SEDGWICK CLAIMS MANAGEMENT SERVICES
-    2018: PEPSICO DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H4F
-        Participants: 
-        Assets: 5262000
-        $/Participant: 
-        RecordKeeper: SEDGWICK CLAIMS MANAGEMENT SERVICES
-    2017: PEPSICO DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H4F
-        Participants: 
-        Assets: 7086000
-        $/Participant: 
-        RecordKeeper: SEDGWICK CLAIMS MANAGEMENT SERVICES
    [700]
     2022: PEPSICO GROUP LEGAL SERVICES PLAN
         Benefit Category: Other
@@ -573,3 +530,46 @@ NY : PURCHASE
         Benefit Category: Severance
         Codes:  4I
         Participants: 
+   [630]
+    2022: PEPSICO DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4H4F
+        Participants: 
+        Assets: 6039000
+        $/Participant: 
+        RecordKeeper: SEDGWICK CLAIMS MANAGEMENT SERVICES
+    2021: PEPSICO DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4H4F
+        Participants: 
+        Assets: 5260000
+        $/Participant: 
+        RecordKeeper: SEDGWICK CLAIMS MANAGEMENT SERVICES
+    2020: PEPSICO DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4H4F
+        Participants: 
+        Assets: 5213000
+        $/Participant: 
+        RecordKeeper: SEDGWICK CLAIMS MANAGEMENT SERVICES
+    2019: PEPSICO DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4H4F
+        Participants: 
+        Assets: 5796000
+        $/Participant: 
+        RecordKeeper: SEDGWICK CLAIMS MANAGEMENT SERVICES
+    2018: PEPSICO DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4H4F
+        Participants: 
+        Assets: 5262000
+        $/Participant: 
+        RecordKeeper: SEDGWICK CLAIMS MANAGEMENT SERVICES
+    2017: PEPSICO DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4H4F
+        Participants: 
+        Assets: 7086000
+        $/Participant: 
+        RecordKeeper: SEDGWICK CLAIMS MANAGEMENT SERVICES

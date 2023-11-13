@@ -45,27 +45,27 @@ NY : NEW YORK
         RecordKeeper: FIDELITY INVESTMENTS INST OP CO
    [504]
     2022: LAZARD FRERES AND CO., LLC GROUP MAJOR MEDICAL EXPENSE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2021: LAZARD FRERES AND CO., LLC GROUP MAJOR MEDICAL EXPENSE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2020: LAZARD FRERES AND CO., LLC GROUP MAJOR MEDICAL EXPENSE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2019: LAZARD FRERES AND CO., LLC GROUP MAJOR MEDICAL EXPENSE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2018: LAZARD FRERES AND CO., LLC GROUP MAJOR MEDICAL EXPENSE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2017: LAZARD FRERES AND CO., LLC GROUP MAJOR MEDICAL EXPENSE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
    [506]
@@ -95,28 +95,53 @@ NY : NEW YORK
         Participants: 
    [502]
     2022: LAZARD FRERES AND CO., LLC LIFE INSURANCE AND AD AND D PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2021: LAZARD FRERES AND CO., LLC LIFE INSURANCE AND AD AND D PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2020: LAZARD FRERES AND CO., LLC LIFE INSURANCE AND AD AND D PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2019: LAZARD FRERES AND CO., LLC LIFE INSURANCE AND AD AND D PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2018: LAZARD FRERES AND CO., LLC LIFE INSURANCE AND AD AND D PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2017: LAZARD FRERES AND CO., LLC LIFE INSURANCE AND AD AND D PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
+        Participants: 
+   [501]
+    2022: LAZARD FRERES AND CO., LLC LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2021: LAZARD FRERES AND CO., LLC LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2020: LAZARD FRERES AND CO., LLC LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2019: LAZARD FRERES AND CO., LLC LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2018: LAZARD FRERES AND CO., LLC LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2017: LAZARD FRERES AND CO., LLC LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
 MO : KANSAS CITY
    [002]
@@ -156,56 +181,6 @@ MO : KANSAS CITY
         $/Participant: 
         RecordKeeper: ANCHIN BLOCK & ANCHIN
 NY : NEW YORK
-   [501]
-    2022: LAZARD FRERES AND CO., LLC LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2021: LAZARD FRERES AND CO., LLC LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2020: LAZARD FRERES AND CO., LLC LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2019: LAZARD FRERES AND CO., LLC LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2018: LAZARD FRERES AND CO., LLC LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2017: LAZARD FRERES AND CO., LLC LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-   [505]
-    2022: LAZARD FRERES AND CO., LLC TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2021: LAZARD FRERES AND CO., LLC TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: LAZARD FRERES AND CO., LLC TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: LAZARD FRERES AND CO., LLC TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: LAZARD FRERES AND CO., LLC TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: LAZARD FRERES AND CO., LLC TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
    [001]
     2022: LAZARD FRERES & CO. LLC EMPLOYEES' PENSION PLAN
         Benefit Category: Pension
@@ -267,3 +242,28 @@ NY : NEW YORK
         Available Investments:
            - LAZARD ASSET MANAGEMENT LLC
                  : LAZARD INTL STRATEGIC EQUITY TRUST
+   [505]
+    2022: LAZARD FRERES AND CO., LLC TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2021: LAZARD FRERES AND CO., LLC TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: LAZARD FRERES AND CO., LLC TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: LAZARD FRERES AND CO., LLC TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: LAZARD FRERES AND CO., LLC TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: LAZARD FRERES AND CO., LLC TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 

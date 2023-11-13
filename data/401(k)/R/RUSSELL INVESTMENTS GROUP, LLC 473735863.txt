@@ -133,9 +133,14 @@ WA : SEATTLE
                  : RITC SMALL CAP FUND
                  : RITC WORLD EQUITY FUND
                  : RUSSELL EQUITY 1000 INDEX FUND
+   [503]
+    2017: FRANK RUSSELL EMPLOYEE DENTAL BENEFIT PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [501]
     2017: FRANK RUSSELL COMPANY EMPLOYEE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
    [509]
@@ -145,7 +150,7 @@ WA : SEATTLE
         Participants: 
    [510]
     2022: RUSSELL INVESTMENTS GROUP, LLC EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
         Service Providers:
@@ -154,7 +159,7 @@ WA : SEATTLE
            - MATRIX ABSENCE MANAGEMENT, INC. :  (Claims processing)
            - VEBTEGRA : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
     2021: RUSSELL INVESTMENTS GROUP, LLC EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
         Service Providers:
@@ -165,29 +170,24 @@ WA : SEATTLE
            - ALLIANT INSURANCE SERVICES INC : BROKER (Insurance agents and brokers)
            - VEBTEGRA : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
     2020: RUSSELL INVESTMENTS GROUP, LLC EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
         Service Providers:
            - DELTA DENTAL OF WASHINGTON : CLAIMS PROCESSING (Contract Administrator)
            - WELLSPRING FAMILY SERVICES : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
     2019: RUSSELL INVESTMENTS GROUP, LLC EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
     2018: RUSSELL INVESTMENTS GROUP, LLC EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
    [502]
     2017: FRANK RUSSELL COMPANY EMPLOYEE BENEFIT LIFE AND DISABILITY INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
         Codes:  4B4F4H4L
-        Participants: 
-   [503]
-    2017: FRANK RUSSELL EMPLOYEE DENTAL BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4D
         Participants: 
    [508]
     2017: FRANK RUSSELL COMPANY SEVERANCE PLAN

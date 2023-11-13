@@ -182,33 +182,33 @@ IL : CHICAGO
 IL : LINCOLNSHIRE
    [501]
     2022: AON BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance
         Codes:  4A4B4D4E4G4H4I4Q
         Participants: 
     2021: AON BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance
         Codes:  4A4B4D4E4G4H4I4Q
         Participants: 
 IL : CHICAGO
     2020: AON BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance
         Codes:  4A4B4D4E4G4H4I4Q
         Participants: 
     2019: AON BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance
         Codes:  4A4B4D4E4G4H4I4Q
         Participants: 
 IL : LINCOLNSHIRE
    [504]
     2022: ALEXANDER & ALEXANDER SERVICES, INC. DISABILITY BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         Available Investments:
            - AON CORPORATION
                  : A & A SERVICES INC. 501C9 TRUST
     2021: ALEXANDER & ALEXANDER SERVICES, INC. DISABILITY BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         Available Investments:
@@ -216,21 +216,21 @@ IL : LINCOLNSHIRE
                  : A & A SERVICES INC. 501C9 TRUST
 IL : CHICAGO
     2020: ALEXANDER & ALEXANDER SERVICES, INC. DISABILITY BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         Available Investments:
            - AON CORPORATION
                  : A & A SERVICES INC. 501C9 TRUST
     2019: ALEXANDER & ALEXANDER SERVICES, INC. DISABILITY BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         Available Investments:
            - AON CORPORATION
                  : A & A SERVICES INC. 501C9 TRUST
     2018: ALEXANDER & ALEXANDER SERVICES, INC. DISABILITY BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         Available Investments:
@@ -239,43 +239,43 @@ IL : CHICAGO
 IL : LINCOLNSHIRE
    [506]
     2022: AHCS RETIREE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental
         Codes:  4A4B4D
         Participants: 
     2021: AHCS RETIREE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental
         Codes:  4A4B4D
         Participants: 
 IL : CHICAGO
     2020: AHCS RETIREE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental
         Codes:  4A4B4D
         Participants: 
     2019: AHCS RETIREE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental
         Codes:  4A4B4D
         Participants: 
 IL : LINCOLNSHIRE
    [517]
     2022: ASA POST RETIREMENT HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2021: ASA POST RETIREMENT HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
 IL : CHICAGO
     2020: ASA POST RETIREMENT HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2019: ASA POST RETIREMENT HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2018: ASA POST RETIREMENT HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
 IL : LINCOLNSHIRE
@@ -308,7 +308,7 @@ IL : CHICAGO
 IL : LINCOLNSHIRE
    [513]
     2022: ALEXANDER & ALEXANDER SERVICES INC. POST-RETIREMENT DEATH BENEFIT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
         Assets: 7816191
@@ -320,7 +320,7 @@ IL : LINCOLNSHIRE
            - AON CORPORATION
                  : A & A SERVICES, INC. 501C9 TRUST
     2021: ALEXANDER & ALEXANDER SERVICES INC. POST-RETIREMENT DEATH BENEFIT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
         Assets: 8415317
@@ -333,7 +333,7 @@ IL : LINCOLNSHIRE
                  : A & A SERVICES, INC. 501C9 TRUST
 IL : CHICAGO
     2020: ALEXANDER & ALEXANDER SERVICES INC. POST-RETIREMENT DEATH BENEFIT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
         Assets: 8694676
@@ -345,7 +345,7 @@ IL : CHICAGO
            - AON CORPORATION
                  : A & A SERVICES, INC. 501C9 TRUST
     2019: ALEXANDER & ALEXANDER SERVICES INC. POST-RETIREMENT DEATH BENEFIT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
         Assets: 8691355
@@ -370,23 +370,6 @@ IL : LINCOLNSHIRE
         Participants: 
         Assets: 8464929
         $/Participant: 
-IL : CHICAGO
-   [512]
-    2019: ALEXANDER & ALEXANDER SERVICES, INC. SURVIVOR INCOME CONTINUATION PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-        Available Investments:
-           - AON CORPORATION
-                 : A&A SERVICES, INC. 501C9 TRUST
-    2018: ALEXANDER & ALEXANDER SERVICES, INC. SURVIVOR INCOME CONTINUATION PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-        Available Investments:
-           - AON CORPORATION
-                 : A&A SERVICES, INC. 501C9 TRUST
-IL : LINCOLNSHIRE
    [010]
     2022: AON PENSION PLAN
         Benefit Category: Pension
@@ -487,3 +470,18 @@ IL : CHICAGO
         Available Investments:
            - AON CORPORATION
                  : AON PENSION MASTER TRUST
+   [512]
+    2019: ALEXANDER & ALEXANDER SERVICES, INC. SURVIVOR INCOME CONTINUATION PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+        Available Investments:
+           - AON CORPORATION
+                 : A&A SERVICES, INC. 501C9 TRUST
+    2018: ALEXANDER & ALEXANDER SERVICES, INC. SURVIVOR INCOME CONTINUATION PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+        Available Investments:
+           - AON CORPORATION
+                 : A&A SERVICES, INC. 501C9 TRUST

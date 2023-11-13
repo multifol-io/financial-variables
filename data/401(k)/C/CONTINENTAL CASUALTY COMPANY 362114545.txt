@@ -271,7 +271,7 @@ IL : CHICAGO
                  : WINSLOW LARGE CAP GROWTH FUND
    [503]
     2022: CNA HEALTH AND GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Short-term disability
         Codes:  4A4D4F4Q
         Participants: 
         Assets: 12417000
@@ -281,7 +281,7 @@ IL : CHICAGO
            - CONTINENTAL CASUALTY COMPANY
                  : CNA EMPLOYEES' HEALTH PLAN TRUST
     2021: CNA HEALTH AND GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Short-term disability
         Codes:  4A4D4F4Q
         Participants: 
         Assets: 11486000
@@ -291,7 +291,7 @@ IL : CHICAGO
            - CONTINENTAL CASUALTY COMPANY
                  : CNA EMPLOYEES' HEALTH PLAN TRUST
     2020: CNA HEALTH AND GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Short-term disability
         Codes:  4A4D4F4Q
         Participants: 
         Assets: 10070000
@@ -301,7 +301,7 @@ IL : CHICAGO
            - CONTINENTAL CASUALTY COMPANY
                  : CNA EMPLOYEES' HEALTH PLAN TRUST
     2019: CNA HEALTH AND GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Short-term disability
         Codes:  4A4D4F4Q
         Participants: 
         Assets: 9996000
@@ -311,7 +311,7 @@ IL : CHICAGO
            - CONTINENTAL CASUALTY COMPANY
                  : CNA EMPLOYEES' HEALTH PLAN TRUST
     2018: CNA HEALTH AND GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Short-term disability
         Codes:  4A4D4F4Q
         Participants: 
         Assets: 9970000
@@ -321,7 +321,7 @@ IL : CHICAGO
            - CONTINENTAL CASUALTY COMPANY
                  : CNA EMPLOYEES' HEALTH PLAN TRUST
     2017: CNA HEALTH AND GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Short-term disability
         Codes:  4A4D4F4Q
         Participants: 
         Assets: 9558000
@@ -332,27 +332,27 @@ IL : CHICAGO
                  : CNA EMPLOYEES' HEALTH PLAN TRUST
    [506]
     2022: CNA INSURED GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2021: CNA INSURED GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2020: CNA INSURED GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2019: CNA INSURED GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L
         Participants: 
     2018: CNA INSURED GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L
         Participants: 
     2017: CNA INSURED GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L
         Participants: 
    [514]
@@ -364,11 +364,11 @@ IL : CHICAGO
         Benefit Category: Healthcare
         Codes:  4A
         Participants: 10
-   [512]
-    2017: WESTERN SURETY SICK LEAVE PLAN
-        Benefit Category: Other
-        Codes:  4F4R
-        Participants: 37
+   [516]
+    2017: CONTINENTAL INSURANCE COMPANY LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H4R
+        Participants: 17
    [513]
     2022: CONTINENTAL CASUALTY COMPANY RETIREE HEALTH CARE ACCOUNT
         Benefit Category: Other
@@ -394,11 +394,6 @@ IL : CHICAGO
         Benefit Category: Other
         Codes:  4Q
         Participants: 54
-   [516]
-    2017: CONTINENTAL INSURANCE COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H4R
-        Participants: 17
    [520]
     2022: CNA SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
         Benefit Category: Other
@@ -550,3 +545,8 @@ IL : CHICAGO
         Assets: 2159229000
         $/Participant: 113853
         RecordKeeper: SEYFARTH SHAW
+   [512]
+    2017: WESTERN SURETY SICK LEAVE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F4R
+        Participants: 37

@@ -131,7 +131,7 @@ FL : MELBOURNE
                  : WELLS FARGO/BLACKROCK STIF N
    [504]
     2022: L3 TECHNOLOGIES FUNDED GROUP HEALTH AND WELFARE PLAN FOR RETIRED PARTICIPANTS
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 28878000
@@ -141,7 +141,7 @@ FL : MELBOURNE
            - L3HARRIS TECHNOLOGIES, INC.
                  : L3HARRIS MASTER VEBA TRUST
     2021: L3 TECHNOLOGIES FUNDED GROUP HEALTH AND WELFARE PLAN FOR RETIRED PARTICIPANTS
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 39195000
@@ -151,32 +151,32 @@ FL : MELBOURNE
                  : L3HARRIS MASTER VEBA TRUST
    [521]
     2022: L3HARRIS TECHNOLOGIES, INC. GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
     2021: L3HARRIS TECHNOLOGIES, INC. GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
     2020: L3HARRIS TECHNOLOGIES, INC. GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
     2019: L3HARRIS TECHNOLOGIES, INC. GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
     2018: HARRIS CORPORATION GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Travel accident
         Codes:  4A4B4D4F4L4Q
         Participants: 
     2017: HARRIS CORPORATION GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Travel accident
         Codes:  4A4B4D4F4L4Q
         Participants: 
    [523]
     2022: L3HARRIS RETIREE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 18573552
@@ -188,7 +188,7 @@ FL : MELBOURNE
                  : NT COMMON AGG BOND INDEX FUND-LEND
                  : NT COMMON S&P 500 INDEX FUND-LEND
     2021: L3HARRIS RETIREE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 22535505
@@ -200,7 +200,7 @@ FL : MELBOURNE
                  : NT COMMON AGG BOND INDEX FUND - LEN
                  : NT COMMON S&P 500 INDEX FUND-LEND
     2020: L3HARRIS RETIREE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 19213520
@@ -215,7 +215,7 @@ FL : MELBOURNE
                  : NT COMMON AGG. BOND INDEX FUND-LEND
                  : NT COMMON S&P 500 INDEX FUND-LEND.
     2019: HARRIS CORPORATION RETIREE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 19765984
@@ -224,7 +224,7 @@ FL : MELBOURNE
            - TCW ASSET MANAGEMENT COMPANY :  (Investment management fees paid directly by plan | Investment management)
            - WELLS FARGO BANK, N.A. :  (Investment management fees paid directly by plan | Trustee(bank, trust company, or similar) | Custodial(securities) | Investment management)
     2017: EXELIS RETIREE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
    [598]
@@ -238,47 +238,40 @@ FL : MELBOURNE
         Participants: 
    [580]
     2018: HARRIS CORPORATION DEPENDENT LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: HARRIS CORPORATION DEPENDENT LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
    [585]
     2018: HARRIS CORPORATION SUPPLEMENTAL LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: HARRIS CORPORATION SUPPLEMENTAL LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
-   [102]
-    2020: L3HARRIS MASTER VEBA TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 38295016
-        $/Participant: 
    [520]
     2022: HARRIS CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H4R
         Participants: 
     2021: HARRIS CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
         Available Investments:
            - L3HARRIS TECHNOLOGIES, INC.
                  : L3HARRIS MASTER VEBA TRUST
     2020: HARRIS CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2019: HARRIS CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
         Assets: 3949926
@@ -291,7 +284,7 @@ FL : MELBOURNE
            - NORTHERN TRUST :  (Custodial(securities) | Direct payment from the plan)
            - GALLIARD CAPITAL MANAGEMENT :  (Investment management | Direct payment from the plan)
     2018: HARRIS CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
         Assets: 5681961
@@ -304,7 +297,7 @@ FL : MELBOURNE
            - BUCHBINDER TUNICK & CO LLP :  (Accounting(including auditing) | Direct payment from the plan)
            - GALLIARD CAPITAL MANAGEMENT :  (Investment management | Direct payment from the plan)
     2017: HARRIS CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
         Assets: 7826061
@@ -318,13 +311,20 @@ FL : MELBOURNE
            - NORTHERN TRUST :  (Trustee(directed) | Custodial(securities))
    [522]
     2018: HARRIS CORPORATION INSURED LONG-TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2017: HARRIS CORPORATION INSURED LONG-TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
+   [102]
+    2020: L3HARRIS MASTER VEBA TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 38295016
+        $/Participant: 
    [550]
     2018: HARRIS EMPLOYEE ASSISTANCE PLAN
         Benefit Category: Other
@@ -333,15 +333,6 @@ FL : MELBOURNE
     2017: HARRIS EMPLOYEE ASSISTANCE PLAN
         Benefit Category: Other
         Codes:  4Q
-        Participants: 
-   [599]
-    2018: HARRIS VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2017: HARRIS VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
         Participants: 
    [001]
     2022: L3HARRIS SALARIED PENSION PLAN
@@ -909,4 +900,13 @@ FL : MELBOURNE
     2017: HARRIS CORPORATION SEVERANCE PAY PLAN
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [599]
+    2018: HARRIS VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2017: HARRIS VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
         Participants: 

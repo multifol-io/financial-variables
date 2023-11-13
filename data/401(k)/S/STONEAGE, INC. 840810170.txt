@@ -43,6 +43,11 @@ CO : DURANGO
         Assets: 6207177
         $/Participant: 41940
         RecordKeeper: NEWPORT GROUP
+   [502]
+    2017: STONEAGE, INC. GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [002]
     2021: STONEAGE, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
         Benefit Category: Employee Stock Ownership Plan
@@ -78,23 +83,23 @@ CO : DURANGO
         Participants: 121
    [501]
     2022: STONEAGE, INC. GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4G4H4L4Q
         Participants: 
     2021: STONEAGE, INC. GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2020: STONEAGE, INC. GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2019: STONEAGE, INC. GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
         Codes:  4A4B4D4E4H4Q
         Participants: 
     2018: STONEAGE, INC. GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
         Codes:  4A4B4D4E4H4Q
         Participants: 
     2017: STONEAGE, INC. GROUP BENEFIT PLAN
@@ -103,21 +108,16 @@ CO : DURANGO
         Participants: 
    [504]
     2017: STONEAGE, INC. EMPLOYEE BENEFIT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
-        Participants: 
-   [502]
-    2017: STONEAGE, INC. GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-   [503]
-    2017: STONEAGE, INC. GROUP VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
         Participants: 
    [505]
     2017: STONEAGE, INC. GROUP LTD PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H4Q
+        Participants: 
+   [503]
+    2017: STONEAGE, INC. GROUP VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
         Participants: 

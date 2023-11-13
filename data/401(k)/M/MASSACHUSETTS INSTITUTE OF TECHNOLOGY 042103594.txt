@@ -221,17 +221,55 @@ MA : CAMBRIDGE
                  : VG IS TOT BD MKT IDX
            - WELLINGTON TRUST COMPANY, N.A.
                  : WT HIGH YIELD
+   [524]
+    2019: MIT DENTAL
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 11370
+    2018: MIT DENTAL
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 11199
+    2017: MIT DENTAL
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 10944
+   [527]
+    2022: MIT RETIREE DENTAL
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 1837
+    2021: MIT RETIREE DENTAL
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 1731
+    2020: MIT RETIREE DENTAL
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 1616
+    2019: MIT RETIREE DENTAL
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 1521
+    2018: MIT RETIREE DENTAL
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 1382
+    2017: MIT RETIREE DENTAL
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 1276
    [505]
     2022: HEALTH AND WELFARE PLAN FOR EMPLOYEES OF MIT
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E4Q
         Participants: 13629
     2021: HEALTH AND WELFARE PLAN FOR EMPLOYEES OF MIT
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E4Q
         Participants: 13271
     2020: HEALTH AND WELFARE PLAN FOR EMPLOYEES OF MIT
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E4Q
         Participants: 13435
     2019: HEALTH PLAN FOR EMPLOYEES OF MIT
@@ -248,21 +286,21 @@ MA : CAMBRIDGE
         Participants: 10944
    [507]
     2021: MASSACHUSETTS INSTITUTE OF TECHNOLOGY RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Long-term disability
         Codes:  4A4B4H
         Participants: 7155
         Assets: 957103517
         $/Participant: 133767
         RecordKeeper: BLUE CROSS BLUE SHIELD OF MA
     2020: MASSACHUSETTS INSTITUTE OF TECHNOLOGY RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Long-term disability
         Codes:  4A4B4H
         Participants: 7082
         Assets: 1112555208
         $/Participant: 157096
         RecordKeeper: HEDGESERV CAYMAN LTD
     2019: MASSACHUSETTS INSTITUTE OF TECHNOLOGY RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Long-term disability
         Codes:  4A4B4H
         Participants: 7026
         Assets: 762611083
@@ -270,79 +308,44 @@ MA : CAMBRIDGE
         RecordKeeper: BLUE CROSS BLUE SHIELD OF MA
    [501]
     2019: MIT GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 18254
     2018: MIT GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 18192
     2017: MIT GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 17532
-   [502]
-    2022: TRAVEL ACCIDENT PLAN FOR MIT EMPLOYEES
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 13616
-    2021: TRAVEL ACCIDENT PLAN FOR MIT EMPLOYEES
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 13191
-    2020: TRAVEL ACCIDENT PLAN FOR MIT EMPLOYEES
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 13379
-    2019: TRAVEL ACCIDENT PLAN FOR MIT EMPLOYEES
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 13377
-    2018: TRAVEL ACCIDENT PLAN FOR MIT EMPLOYEES
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 13160
-    2017: TRAVEL ACCIDENT PLAN FOR MIT EMPLOYEES
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 12884
-   [508]
-    2017: EXTENDED ILLNESS PLAN FOR SERVICE STAFF OF MIT
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 1167
-   [509]
-    2017: EXTENDED ILLNESS PLAN FOR SUPPORT STAFF
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 1366
    [512]
     2021: MASSACHUSETTS INSTITUTE OF TECHNOLOGY LONG TERM DISABILITY
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 10615
         Service Providers:
            - PRUDENTIAL INSURANCE CO OF AMERICA : CLAIMS PROCESSOR (Insurance services)
     2020: MASSACHUSETTS INSTITUTE OF TECHNOLOGY LONG TERM DISABILITY
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 11031
         Service Providers:
            - PRUDENTIAL INSURANCE CO OF AMERICA : CLAIMS PROCESSOR (Insurance services)
     2019: MASSACHUSETTS INSTITUTE OF TECHNOLOGY LONG TERM DISABLITY
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 11024
         Service Providers:
            - PRUDENTIAL INSURANCE CO OF AMERICA : CLAIMS PROCESSOR (Insurance services)
     2018: MASSACHUSETTS INSTITUTE OF TECHNOLOGY LONG TERM DISABILITY
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 10695
         Service Providers:
            - PRUDENTAL INSURANCE CO OF AMERICA : CLAIMS PROCESSOR (Insurance services)
     2017: MASSACHUSETTS INSTITUTE OF TECHNOLOGY LONG TERM DISABLITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 10717
         Service Providers:
@@ -360,62 +363,11 @@ MA : CAMBRIDGE
         Benefit Category: Other
         Codes:  4Q
         Participants: 2804
-   [524]
-    2019: MIT DENTAL
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 11370
-    2018: MIT DENTAL
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 11199
-    2017: MIT DENTAL
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 10944
    [525]
     2017: MIT LONG TERM CARE
         Benefit Category: Other
         Codes:  4Q
         Participants: 1224
-   [526]
-    2019: MIT VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 6635
-    2018: MIT VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 6268
-    2017: MIT VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 5913
-   [527]
-    2022: MIT RETIREE DENTAL
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 1837
-    2021: MIT RETIREE DENTAL
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 1731
-    2020: MIT RETIREE DENTAL
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 1616
-    2019: MIT RETIREE DENTAL
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 1521
-    2018: MIT RETIREE DENTAL
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 1382
-    2017: MIT RETIREE DENTAL
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 1276
    [002]
     2022: MASSACHUSETTS INSTITUTE OF TECHNOLOGY BASIC RETIREMENT PLAN
         Benefit Category: Pension
@@ -459,3 +411,51 @@ MA : CAMBRIDGE
         Assets: 3970739695
         $/Participant: 150071
         RecordKeeper: PRICEWATERHOUSE COOPERS
+   [508]
+    2017: EXTENDED ILLNESS PLAN FOR SERVICE STAFF OF MIT
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 1167
+   [509]
+    2017: EXTENDED ILLNESS PLAN FOR SUPPORT STAFF
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 1366
+   [502]
+    2022: TRAVEL ACCIDENT PLAN FOR MIT EMPLOYEES
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 13616
+    2021: TRAVEL ACCIDENT PLAN FOR MIT EMPLOYEES
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 13191
+    2020: TRAVEL ACCIDENT PLAN FOR MIT EMPLOYEES
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 13379
+    2019: TRAVEL ACCIDENT PLAN FOR MIT EMPLOYEES
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 13377
+    2018: TRAVEL ACCIDENT PLAN FOR MIT EMPLOYEES
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 13160
+    2017: TRAVEL ACCIDENT PLAN FOR MIT EMPLOYEES
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 12884
+   [526]
+    2019: MIT VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 6635
+    2018: MIT VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 6268
+    2017: MIT VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 5913

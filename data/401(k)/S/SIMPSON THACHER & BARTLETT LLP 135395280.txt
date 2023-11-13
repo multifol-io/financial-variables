@@ -112,28 +112,28 @@ NY : NEW YORK
                  : SIMPSON THACHER & BARTLETT LLP COMM
    [501]
     2022: STB HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
    [502]
     2021: SIMPSON THACHER AND BARTLETT LLP COMPREHENSIVE MEDICAL PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
         Codes:  4A4B4D4E4H4Q
         Participants: 
     2020: SIMPSON THACHER AND BARTLETT LLP COMPREHENSIVE MEDICAL PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
         Codes:  4A4B4D4E4H4Q
         Participants: 
     2019: SIMPSON THACHER AND BARTLETT LLP COMPREHENSIVE MEDICAL PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
         Codes:  4A4B4D4E4H4Q
         Participants: 
     2018: SIMPSON THACHER AND BARTLETT LLP COMPREHENSIVE MEDICAL PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
         Codes:  4A4B4D4E4H4Q
         Participants: 
     2017: SIMPSON THACHER AND BARTLETT LLP COMPREHENSIVE MEDICAL PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
         Codes:  4A4B4D4E4H4Q
         Participants: 
    [509]
@@ -155,23 +155,23 @@ NY : NEW YORK
         Participants: 
    [503]
     2021: SIMPSON THACHER AND BARTLETT LLP LIFE INSURANCE PROGRAM
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2020: SIMPSON THACHER AND BARTLETT LLP LIFE INSURANCE PROGRAM
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2019: SIMPSON THACHER AND BARTLETT LLP LIFE INSURANCE PROGRAM
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2018: SIMPSON THACHER AND BARTLETT LLP LIFE INSURANCE PROGRAM
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: SIMPSON THACHER AND BARTLETT LLP LIFE INSURANCE PROGRAM
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
    [002]
@@ -272,48 +272,6 @@ NY : NEW YORK
         Available Investments:
            - SIMPSON THACHER & BARTLETT LLP
                  : SIMPSON THACHER & BARTLETT LLP COMM
-   [507]
-    2021: SIMPSON THACHER AND BARTLETT LLP ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: SIMPSON THACHER AND BARTLETT LLP ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: SIMPSON THACHER AND BARTLETT LLP ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: SIMPSON THACHER AND BARTLETT LLP ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: SIMPSON THACHER AND BARTLETT LLP ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-   [508]
-    2021: SIMPSON THACHER AND BARTLETT LLP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2020: SIMPSON THACHER AND BARTLETT LLP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2019: SIMPSON THACHER AND BARTLETT LLP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2018: SIMPSON THACHER AND BARTLETT LLP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2017: SIMPSON THACHER AND BARTLETT LLP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
    [001]
     2022: RETIREMENT PLAN FOR NON LEGAL EMPLOYEES OF STB LLP
         Benefit Category: Pension
@@ -461,3 +419,45 @@ NY : NEW YORK
            - AETHER REAL ASSETS III, LP : INVESTMENT MANAGER (Investment management fees paid indirectly by plan)
            - AETHER REAL ASSETS I, LP : INVESTMENT MANAGER (Investment management fees paid indirectly by plan)
            - BARINGS NA PRIVATE LOAN FUND : INVESTMENT MANAGER (Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
+   [508]
+    2021: SIMPSON THACHER AND BARTLETT LLP LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2020: SIMPSON THACHER AND BARTLETT LLP LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2019: SIMPSON THACHER AND BARTLETT LLP LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2018: SIMPSON THACHER AND BARTLETT LLP LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2017: SIMPSON THACHER AND BARTLETT LLP LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+   [507]
+    2021: SIMPSON THACHER AND BARTLETT LLP ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: SIMPSON THACHER AND BARTLETT LLP ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: SIMPSON THACHER AND BARTLETT LLP ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: SIMPSON THACHER AND BARTLETT LLP ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: SIMPSON THACHER AND BARTLETT LLP ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 

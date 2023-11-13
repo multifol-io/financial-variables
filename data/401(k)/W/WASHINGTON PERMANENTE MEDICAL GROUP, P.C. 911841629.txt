@@ -149,6 +149,17 @@ WA : SEATTLE
            - GROUP HEALTH PERMANENTE
                  : GROUP HEALTH MASTER TRUST
 WA : RENTON
+   [506]
+    2018: DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 1378
+WA : SEATTLE
+    2017: DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+WA : RENTON
    [513]
     2018: HEALTH CARE FLEXIBLE SPENDING ACCOUNT
         Benefit Category: Healthcare
@@ -173,18 +184,23 @@ WA : SEATTLE
 WA : RENTON
    [508]
     2018: LONG TERM DISABILITY PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability
         Codes:  4B4H4Q
         Participants: 1275
    [509]
     2018: LIFE AND ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability
         Codes:  4B4H4Q
         Participants: 1275
 WA : SEATTLE
     2017: LIFE AND ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability, Travel accident
         Codes:  4B4H4L
+        Participants: 
+   [508]
+    2017: LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
    [002]
     2017: WASHINGTON PERMANENTE MEDICAL GROUP PENSION PLAN
@@ -197,22 +213,6 @@ WA : SEATTLE
         Available Investments:
            - GROUP HEALTH PERMANENTE
                  : GROUP HEALTH MASTER TRUST
-WA : RENTON
-   [506]
-    2018: DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 1378
-WA : SEATTLE
-    2017: DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-   [508]
-    2017: LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
 WA : RENTON
    [523]
     2018: GROUP LONG TERM CARE

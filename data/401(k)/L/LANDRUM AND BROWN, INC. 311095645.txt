@@ -72,34 +72,34 @@ OH : CINCINNATI
                  : MIP CL 1
    [506]
     2020: WRAP PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4R
         Participants: 
     2019: WRAP PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L
         Participants: 
     2018: WRAP PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L
         Participants: 
    [502]
     2017: BASIC LIFE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
-        Participants: 
-   [503]
-    2017: ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-   [504]
-    2017: SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
         Participants: 
    [505]
     2017: LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
+        Participants: 
+   [504]
+    2017: SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+   [503]
+    2017: ACCIDENTAL DEATH & DISMEMBERMENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
         Participants: 

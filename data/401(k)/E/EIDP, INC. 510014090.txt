@@ -90,21 +90,42 @@ DE : WILMINGTON
         Available Investments:
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE
+   [507]
+    2021: RETIREE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2020: RETIREE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2019: RETIREE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2018: DENTAL ASSISTANCE PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2017: DENTAL ASSISTANCE PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [502]
     2022: CORTEVA AGRISCIENCE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4H4I4L
         Participants: 
     2021: CORTEVA AGRISCIENCE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4H4I4L
         Participants: 
     2020: CORTEVA AGRISCIENCE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4H4I4L
         Participants: 
     2019: CORTEVA AGRISCIENCE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance
         Codes:  4A4B4D4E4H4I
         Participants: 
    [503]
@@ -126,117 +147,83 @@ DE : WILMINGTON
         Codes:  4A
         Participants: 
     2021: RETIREE MEDICAL PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2020: RETIREE MEDICAL PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2019: RETIREE MEDICAL PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2018: MEDICAL CARE ASSISTANCE PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2017: MEDICAL CARE ASSISTANCE PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
    [501]
     2021: EMPLOYEE LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2020: EMPLOYEE LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2019: EMPLOYEE LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2018: EMPLOYEE LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability
         Codes:  4B4F
         Participants: 
     2017: EMPLOYEE LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability
         Codes:  4B4F
         Participants: 
    [504]
     2022: SPECIAL BENEFITS PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability, Travel accident
         Codes:  4H4L
         Participants: 
     2021: SPECIAL BENEFITS PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability, Travel accident
         Codes:  4H4L
         Participants: 
     2020: SPECIAL BENEFITS PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability, Travel accident
         Codes:  4H4L
         Participants: 
     2019: SPECIAL BENEFITS PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability, Travel accident
         Codes:  4H4L
         Participants: 
     2018: SPECIAL BENEFITS PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability, Travel accident
         Codes:  4H4L
         Participants: 
     2017: SPECIAL BENEFITS PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability, Travel accident
         Codes:  4H4L
-        Participants: 
-   [507]
-    2021: RETIREE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2020: RETIREE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2019: RETIREE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2018: DENTAL ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2017: DENTAL ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4D
         Participants: 
    [508]
     2019: LONG-TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2018: DUPONT TOTAL & PERMANENT DISABILITY INCOME PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2017: DUPONT TOTAL & PERMANENT DISABILITY INCOME PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
-        Participants: 
-   [515]
-    2019: VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2018: VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2017: VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
         Participants: 
    [516]
     2019: LONG TERM CARE PLAN
@@ -336,4 +323,17 @@ DE : WILMINGTON
     2017: CAREER TRANSITION FINANCIAL ASSISTANCE
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [515]
+    2019: VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2018: VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2017: VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
         Participants: 

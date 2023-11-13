@@ -221,6 +221,53 @@ IL : CHICAGO
                  : INVESTMENT CONTRACT FUND
                  : REAL ASSET FUND
                  : SHORT-TERM INVESTMENT FUND
+   [507]
+    2021: BAKER & MCKENZIE GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Assets: 342283
+        $/Participant: 
+        Service Providers:
+           - BLUECROSS BLUESHIELD OF ILLINOIS :  (Claims processing | Contract Administrator | Direct payment from the plan)
+           - AON :  (Actuarial | Direct payment from the plan)
+           - ERNST & YOUNG LLP :  (Accounting(including auditing) | Direct payment from the plan)
+           - COBRAHELP :  (Claims processing | Contract Administrator | Direct payment from the plan)
+    2020: BAKER & MCKENZIE GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Assets: 164301
+        $/Participant: 
+        Service Providers:
+           - BLUECROSS BLUESHIELD OF ILLINOIS :  (Claims processing | Contract Administrator | Direct payment from the plan)
+           - AON :  (Actuarial | Direct payment from the plan)
+           - ERNST & YOUNG LLP :  (Accounting(including auditing) | Direct payment from the plan)
+           - COBRAHELP :  (Claims processing | Contract Administrator | Direct payment from the plan)
+    2019: BAKER & MCKENZIE GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Assets: 94534
+        $/Participant: 
+        Service Providers:
+           - BLUECROSS BLUESHIELD OF ILLINOIS :  (Claims processing | Contract Administrator)
+    2018: BAKER & MCKENZIE GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Assets: 352877
+        $/Participant: 
+        Service Providers:
+           - BLUECROSS BLUESHIELD OF ILLINOIS :  (Claims processing | Contract Administrator)
+    2017: BAKER & MCKENZIE GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Assets: 258664
+        $/Participant: 
+        Service Providers:
+           - CIGNA HEALTH & LIFE INSURANCE CO :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
    [504]
     2021: BAKER & MCKENZIE GROUP MEDICAL PLAN
         Benefit Category: Healthcare
@@ -296,24 +343,45 @@ IL : CHICAGO
         Participants: 
    [501]
     2021: BAKER & MCKENZIE LLP LIFE & ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2020: BAKER & MCKENZIE LLP LIFE & ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2019: BAKER & MCKENZIE LLP LIFE & ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2018: BAKER & MCKENZIE LLP LIFE & ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2017: BAKER & MCKENZIE LLP LIFE & ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
+        Participants: 
+   [505]
+    2021: BAKER & MCKENZIE LLP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2020: BAKER & MCKENZIE LLP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2019: BAKER & MCKENZIE LLP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2018: BAKER & MCKENZIE LLP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2017: BAKER & MCKENZIE LLP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
    [002]
     2021: BAKER & MCKENZIE ILLINOIS PROFIT SHARING PLAN II
@@ -541,116 +609,6 @@ IL : CHICAGO
                  : INVESTMENT CONTRACT FUND
                  : REAL ASSET FUND
                  : SHORT-TERM INVESTMENT FUND
-   [505]
-    2021: BAKER & MCKENZIE LLP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2020: BAKER & MCKENZIE LLP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2019: BAKER & MCKENZIE LLP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2018: BAKER & MCKENZIE LLP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2017: BAKER & MCKENZIE LLP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-   [506]
-    2021: BAKER & MCKENZIE LLP ALL RISK ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: BAKER & MCKENZIE LLP ALL RISK ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: BAKER & MCKENZIE LLP ALL RISK ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: BAKER & MCKENZIE LLP ALL RISK ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: BAKER & MCKENZIE LLP ALL RISK ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-   [507]
-    2021: BAKER & MCKENZIE GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Assets: 342283
-        $/Participant: 
-        Service Providers:
-           - BLUECROSS BLUESHIELD OF ILLINOIS :  (Claims processing | Contract Administrator | Direct payment from the plan)
-           - AON :  (Actuarial | Direct payment from the plan)
-           - ERNST & YOUNG LLP :  (Accounting(including auditing) | Direct payment from the plan)
-           - COBRAHELP :  (Claims processing | Contract Administrator | Direct payment from the plan)
-    2020: BAKER & MCKENZIE GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Assets: 164301
-        $/Participant: 
-        Service Providers:
-           - BLUECROSS BLUESHIELD OF ILLINOIS :  (Claims processing | Contract Administrator | Direct payment from the plan)
-           - AON :  (Actuarial | Direct payment from the plan)
-           - ERNST & YOUNG LLP :  (Accounting(including auditing) | Direct payment from the plan)
-           - COBRAHELP :  (Claims processing | Contract Administrator | Direct payment from the plan)
-    2019: BAKER & MCKENZIE GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Assets: 94534
-        $/Participant: 
-        Service Providers:
-           - BLUECROSS BLUESHIELD OF ILLINOIS :  (Claims processing | Contract Administrator)
-    2018: BAKER & MCKENZIE GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Assets: 352877
-        $/Participant: 
-        Service Providers:
-           - BLUECROSS BLUESHIELD OF ILLINOIS :  (Claims processing | Contract Administrator)
-    2017: BAKER & MCKENZIE GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Assets: 258664
-        $/Participant: 
-        Service Providers:
-           - CIGNA HEALTH & LIFE INSURANCE CO :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-   [513]
-    2021: BAKER & MCKENZIE LLP VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2020: BAKER & MCKENZIE LLP VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2019: BAKER & MCKENZIE LLP VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2018: BAKER & MCKENZIE LLP VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2017: BAKER & MCKENZIE LLP VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
    [514]
     2021: BAKER & MCKENZIE LLP LONG TERM CARE INSURANCE PLAN
         Benefit Category: Other
@@ -807,3 +765,45 @@ IL : CHICAGO
         Assets: 19494372
         $/Participant: 96031
         RecordKeeper: SAGE VIEW ADVISORY SERVICES
+   [506]
+    2021: BAKER & MCKENZIE LLP ALL RISK ACCIDENT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: BAKER & MCKENZIE LLP ALL RISK ACCIDENT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: BAKER & MCKENZIE LLP ALL RISK ACCIDENT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: BAKER & MCKENZIE LLP ALL RISK ACCIDENT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: BAKER & MCKENZIE LLP ALL RISK ACCIDENT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+   [513]
+    2021: BAKER & MCKENZIE LLP VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2020: BAKER & MCKENZIE LLP VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2019: BAKER & MCKENZIE LLP VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2018: BAKER & MCKENZIE LLP VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2017: BAKER & MCKENZIE LLP VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 

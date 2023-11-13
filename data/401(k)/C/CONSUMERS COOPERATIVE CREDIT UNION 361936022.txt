@@ -45,47 +45,38 @@ IL : GURNEE
         RecordKeeper: CMFG LIFE INSURANCE COMPANY
    [505]
     2018: GROUP LIFE AND HEALTH PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
         Codes:  4A4B4D4E4L4Q
         Participants: 
     2017: GROUP LIFE & HEALTH PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
         Codes:  4A4B4D4E4L4Q
         Participants: 
    [506]
     2022: CONSUMERS COOPERATIVE CREDIT UNION HEALTH BENEFIT
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
     2021: CONSUMERS COOPERATIVE CREDIT UNION HEALTH BENEFIT
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
     2020: CONSUMERS COOPERATIVE CREDIT UNION HEALTH BENEFIT
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
     2019: CONSUMERS COOPERATIVE CREDIT UNION HEALTH BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
    [503]
     2018: LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2017: LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
-        Participants: 
-   [504]
-    2018: SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2017: SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
         Participants: 
    [001]
     2022: CONSUMERS COOPERATIVE CREDIT UNION DEFINED BENEFIT PLAN AND TRUST
@@ -132,3 +123,13 @@ IL : ROUND LAKE BEACH
         $/Participant: 132346
         Service Providers:
            - MADISON ASSET MANAGEMENT :  (Investment advisory(plan))
+IL : GURNEE
+   [504]
+    2018: SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2017: SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 

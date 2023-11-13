@@ -102,21 +102,30 @@ NE : OMAHA
         Available Investments:
            - UNITED OF OMAHA LIFE INSURANCE COMPANY
                  : UNITED OF OMAHA SEPARATE ACCOUNT K
+   [514]
+    2018: GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 4834
+    2017: GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 4560
    [501]
     2022: MUTUAL OF OMAHA WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4L4H4D4B4Q4G4F
         Participants: 5879
     2021: MUTUAL OF OMAHA WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4L4H4D4B4Q4G4F
         Participants: 5544
     2020: MUTUAL OF OMAHA WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4L4H4D4B4Q4G4F
         Participants: 5277
     2019: MUTUAL OF OMAHA WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4L4H4D4B4Q4G4F
         Participants: 5868
     2018: GROUP HEALTH PLAN
@@ -197,74 +206,56 @@ NE : OMAHA
         Participants: 1276
    [542]
     2018: VOLUNTARY ACCIDENT INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Short-term disability, Travel accident
         Codes:  4A4L4F
         Participants: 1047
     2017: VOLUNTARY ACCIDENT INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Short-term disability, Travel accident
         Codes:  4A4L4F
         Participants: 801
    [503]
     2022: RETIRED GROUP LIFE INS PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 438
     2021: RETIRED GROUP LIFE INS PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 492
     2020: RETIRED GROUP LIFE INS PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 533
     2019: RETIRED GROUP LIFE INS PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 591
     2018: RETIRED GROUP LIFE INS PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 643
     2017: RETIRED GROUP LIFE INS PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 701
    [515]
     2018: GROUP LIFE AND ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 5607
     2017: GROUP LIFE AND ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 5269
-   [504]
-    2018: BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 5607
-    2017: BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 5428
    [505]
     2018: MUTUAL OF OMAHA LTD PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 5655
     2017: MUTUAL OF OMAHA LTD PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 5315
-   [514]
-    2018: GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 4834
-    2017: GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 4560
    [518]
     2018: MEDICAL REIMBURSEMENT ACCOUNT PLAN
         Benefit Category: Other
@@ -375,3 +366,12 @@ NE : OMAHA
            - UNITED OF OMAHA LIFE INSURANCE COMPANY
                  : SMALL COMPANY FUND
                  : VANGUARD INSTITUTIONAL INDEX 500
+   [504]
+    2018: BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 5607
+    2017: BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 5428

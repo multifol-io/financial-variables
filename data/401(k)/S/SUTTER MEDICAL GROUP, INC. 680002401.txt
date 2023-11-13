@@ -43,9 +43,30 @@ CA : SACRAMENTO
         Assets: 524963608
         $/Participant: 450226
         RecordKeeper: GEMMER ASSET MANAGEMENT, LLC
+   [504]
+    2021: SMG GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2020: SMG GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2019: SMG GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2018: SMG GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2017: SMG GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [501]
     2022: SMG HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
    [502]
@@ -71,108 +92,45 @@ CA : SACRAMENTO
         Participants: 
    [509]
     2021: SUTTER MEDICAL GROUP FLEX PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2020: SUTTER MEDICAL GROUP FLEX PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2019: SUTTER MEDICAL GROUP FLEX PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2018: SUTTER MEDICAL GROUP FLEX PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2017: SUTTER MEDICAL GROUP FLEX PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
    [501]
     2021: SMG GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2020: SMG GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2019: SMG GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2018: SMG GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2017: SMG GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
-        Participants: 
-   [503]
-    2021: SMG LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2020: SMG LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2019: SMG LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2018: SMG LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2017: SMG LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-   [504]
-    2021: SMG GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2020: SMG GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2019: SMG GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2018: SMG GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2017: SMG GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-   [506]
-    2021: SMG GROUP VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2020: SMG GROUP VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2019: SMG GROUP VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2018: SMG GROUP VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2017: SMG GROUP VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
         Participants: 
    [507]
     2021: SMG GROUP LONG TERM CARE PLAN
@@ -215,4 +173,46 @@ CA : SACRAMENTO
     2017: SMG EMPLOYEE ASSISTANCE PLAN
         Benefit Category: Other
         Codes:  4Q
+        Participants: 
+   [503]
+    2021: SMG LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2020: SMG LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2019: SMG LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2018: SMG LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2017: SMG LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+   [506]
+    2021: SMG GROUP VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2020: SMG GROUP VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2019: SMG GROUP VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2018: SMG GROUP VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2017: SMG GROUP VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
         Participants: 

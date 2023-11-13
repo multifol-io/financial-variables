@@ -160,6 +160,31 @@ IA : FAIRFIELD
                  : PRINCIPAL STABLE VALUE SELECT
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN LGCAP S&P 500 INDEX SA-R6
+   [504]
+    2022: EMPLOYEE OWNED BRANDS, INC. DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2021: EMPLOYEE OWNED BRANDS, INC. DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2020: DEXTER APACHE HOLDINGS, INC. DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2019: DEXTER APACHE HOLDINGS, INC. DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2018: DEXTER APACHE HOLDINGS, INC. DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2017: DEXTER APACHE HOLDINGS, INC. DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [005]
     2022: EMPLOYEE OWNED BRANDS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
         Benefit Category: Employee Stock Ownership Plan
@@ -224,78 +249,28 @@ IA : FAIRFIELD
         Participants: 
    [501]
     2022: GROUP INSURANCE FOR EMPLOYEES OF EMPLOYEE OWNED BRANDS, INC.
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
         Codes:  4B4F4H4L4Q
         Participants: 
     2021: GROUP INSURANCE FOR EMPLOYEES OF EMPLOYEE OWNED BRANDS, INC.
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
         Codes:  4B4F4H4L4Q
         Participants: 
     2020: GROUP INSURANCE FOR EMPLOYEES OF DEXTER APACHE HOLDINGS, INC.
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
         Codes:  4B4F4H4L4Q
         Participants: 
     2019: GROUP INSURANCE FOR EMPLOYEES OF DEXTER APACHE HOLDINGS, INC.
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
         Codes:  4B4F4H4L4Q
         Participants: 
     2018: GROUP INSURANCE FOR EMPLOYEES OF DEXTER APACHE HOLDINGS, INC.
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
         Codes:  4B4F4H4L4Q
         Participants: 
     2017: GROUP INSURANCE FOR EMPLOYEES OF DEXTER APACHE HOLDINGS, INC.
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
         Codes:  4B4F4H4L4Q
-        Participants: 
-   [504]
-    2022: EMPLOYEE OWNED BRANDS, INC. DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2021: EMPLOYEE OWNED BRANDS, INC. DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2020: DEXTER APACHE HOLDINGS, INC. DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2019: DEXTER APACHE HOLDINGS, INC. DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2018: DEXTER APACHE HOLDINGS, INC. DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2017: DEXTER APACHE HOLDINGS, INC. DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-   [505]
-    2022: EMPLOYEE OWNED BRANDS, INC. VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2021: EMPLOYEE OWNED BRANDS, INC. VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2020: DEXTER APACHE HOLDINGS, INC. VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2019: DEXTER APACHE HOLDINGS, INC. VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2018: DEXTER APACHE HOLDINGS, INC. VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2017: DEXTER APACHE HOLDINGS, INC. VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
         Participants: 
    [888]
     2017: DEXTER APACHE HOLDING, INC. DIRECTOR DEFERRED COMPENSATION PLAN
@@ -332,3 +307,28 @@ IA : FAIRFIELD
                  : WF LIABILITY DRIVEN SOLUTION CIT II
                  : WF/BR INT EQUITY INDEX CIT F
                  : WF/BR RUSSELL 2000 INDEX CIT F
+   [505]
+    2022: EMPLOYEE OWNED BRANDS, INC. VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2021: EMPLOYEE OWNED BRANDS, INC. VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2020: DEXTER APACHE HOLDINGS, INC. VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2019: DEXTER APACHE HOLDINGS, INC. VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2018: DEXTER APACHE HOLDINGS, INC. VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2017: DEXTER APACHE HOLDINGS, INC. VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 

@@ -60,21 +60,26 @@ NY : NEW YORK
         Assets: 34724878
         $/Participant: 241144
         RecordKeeper: CHARLES SCHWAB BANK
+   [502]
+    2018: J. FRANK ASSOCIATES, LLC DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [501]
     2022: J. FRANK ASSOCIATES, LLC HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4F4H4L4Q
         Participants: 
     2021: J. FRANK ASSOCIATES, LLC HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4F4H4L4Q
         Participants: 
     2020: J. FRANK ASSOCIATES, LLC HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4F4H4L4Q
         Participants: 
     2019: J. FRANK ASSOCIATES, LLC HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4F4H4L4Q
         Participants: 
     2018: J. FRANK ASSOCIATES, LLC MEDICAL PLAN
@@ -88,18 +93,8 @@ NY : NEW YORK
         Participants: 
    [503]
     2018: J. FRANK ASSOCIATES, LLC LIFE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
-        Participants: 
-   [502]
-    2018: J. FRANK ASSOCIATES, LLC DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-   [504]
-    2018: J. FRANK ASSOCIATES, LLC DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
         Participants: 
    [003]
     2022: JOELE FRANK, WILKINSON BRIMMER KATCHER VIP PLAN
@@ -126,3 +121,8 @@ NY : NEW YORK
         Participants: 134
         Assets: 13180394
         $/Participant: 98361
+   [504]
+    2018: J. FRANK ASSOCIATES, LLC DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 

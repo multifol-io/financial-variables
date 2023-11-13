@@ -63,32 +63,32 @@ KY : LOUISVILLE
                  : PPL DEFINED CONTRIBUTION MT
    [502]
     2022: LG&E AND KU MEDICAL, DENTAL AND VISION CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         RecordKeeper: DELTA DENTAL OF KENTUCKY
     2021: LG&E AND KU MEDICAL, DENTAL AND VISION CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         RecordKeeper: DELTA DENTAL OF KENTUCKY
     2020: LG&E AND KU MEDICAL, DENTAL AND VISION CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         RecordKeeper: DELTA DENTAL OF KENTUCKY
     2019: LG&E AND KU MEDICAL, DENTAL AND VISION CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         RecordKeeper: DELTA DENTAL OF KENTUCKY
     2018: LG&E AND KU MEDICAL, DENTAL AND VISION CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         RecordKeeper: DELTA DENTAL OF KENTUCKY
     2017: LG&E AND KU MEDICAL, DENTAL AND VISION CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         RecordKeeper: DELTA DENTAL OF KENTUCKY
@@ -168,78 +168,53 @@ KY : LOUISVILLE
         RecordKeeper: BANK OF NEW YORK MELLON
    [505]
     2022: LG&E AND KU ENERGY, LLC GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2021: LG&E AND KU ENERGY, LLC GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2020: LG&E AND KU ENERGY, LLC GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2019: LG&E AND KU ENERGY, LLC GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2018: LG&E AND KU ENERGY, LLC GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: LG&E AND KU ENERGY, LLC GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
    [508]
     2022: LG&E AND KU ENERGY, LLC LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2021: LG&E AND KU ENERGY, LLC LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2020: LG&E AND KU ENERGY, LLC LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2019: LG&E AND KU ENERGY, LLC LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2018: LG&E AND KU ENERGY, LLC LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2017: LG&E AND KU ENERGY, LLC LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
-        Participants: 
-   [519]
-    2022: LG&E AND KU BUSINESS TRAVEL ACCIDENT DEATH PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2021: LG&E AND KU BUSINESS TRAVEL ACCIDENT DEATH PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: LG&E AND KU BUSINESS TRAVEL ACCIDENT DEATH PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: LG&E AND KU BUSINESS TRAVEL ACCIDENT DEATH PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: LG&E AND KU BUSINESS TRAVEL ACCIDENT DEATH PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: LG&E AND KU BUSINESS TRAVEL ACCIDENT DEATH PLAN
-        Benefit Category: Other
-        Codes:  4L
         Participants: 
    [001]
     2019: LG&E AND KU RETIREMENT PLAN
@@ -327,4 +302,29 @@ KY : LOUISVILLE
     2017: LG&E AND KU SEVERANCE BENEFIT PLAN
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [519]
+    2022: LG&E AND KU BUSINESS TRAVEL ACCIDENT DEATH PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2021: LG&E AND KU BUSINESS TRAVEL ACCIDENT DEATH PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: LG&E AND KU BUSINESS TRAVEL ACCIDENT DEATH PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: LG&E AND KU BUSINESS TRAVEL ACCIDENT DEATH PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: LG&E AND KU BUSINESS TRAVEL ACCIDENT DEATH PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: LG&E AND KU BUSINESS TRAVEL ACCIDENT DEATH PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
         Participants: 

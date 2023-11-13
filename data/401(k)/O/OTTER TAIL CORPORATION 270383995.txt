@@ -201,80 +201,55 @@ ND : FARGO
         RecordKeeper: WELLS FARGO BANK, N.A.
    [501]
     2022: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L
         Participants: 
     2021: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L
         Participants: 
     2020: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L
         Participants: 
     2019: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L
         Participants: 
     2018: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L
         Participants: 
     2017: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L
         Participants: 
    [506]
     2022: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Travel accident
         Codes:  4A4B4L
         Participants: 
     2021: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Travel accident
         Codes:  4A4B4L
         Participants: 
     2020: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Travel accident
         Codes:  4A4B4L
         Participants: 
     2019: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Travel accident
         Codes:  4A4B4L
         Participants: 
     2018: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Travel accident
         Codes:  4A4B4L
         Participants: 
     2017: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance
         Codes:  4A4B
         Participants: 
 MN : FERGUS FALLS
-   [502]
-    2022: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 2485
-    2021: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 2533
-    2020: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 2222
-    2019: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 2360
-    2018: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 2434
-    2017: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 2229
    [006]
     2022: OTTER TAIL CORPORATION PENSION PLAN
         Benefit Category: Pension
@@ -336,3 +311,28 @@ MN : FERGUS FALLS
            - EIDE BAILLY LLP :  (Accounting(including auditing))
            - MERCER :  (Actuarial)
            - SEI INVESTMENTS COMPANY :  (Investment management | Investment management fees paid directly by plan | Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Other services | Investment management fees paid indirectly by plan | Trustee(discretionary) | Float revenue)
+   [502]
+    2022: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 2485
+    2021: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 2533
+    2020: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 2222
+    2019: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 2360
+    2018: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 2434
+    2017: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 2229

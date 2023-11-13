@@ -75,52 +75,52 @@ IL : CHICAGO
                  : PRU CORE PL BD CL 6
    [501]
     2022: GROUP HEALTHCARE PLAN FOR EMPLOYEES OF APCIA
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2021: GROUP HEALTHCARE PLAN FOR EMPLOYEES OF APCIA
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2020: GROUP HEALTHCARE PLAN FOR EMPLOYEES OF APCIA
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2019: GROUP HEALTHCARE PLAN FOR EMPLOYEES OF APCIA
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2018: GROUP HEALTHCARE PLAN FOR EMPLOYEES OF PCI
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2017: GROUP HEALTHCARE PLAN FOR EMPLOYEES OF PCI
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
    [504]
     2022: GROUP LIFE AD&D AND SUPPLEMENTAL LIFE PLAN FOR THE EMPLOYEES OF APCIA
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2021: GROUP LIFE AD&D AND SUPPLEMENTAL LIFE PLAN FOR THE EMPLOYEES OF APCIA
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2020: GROUP LIFE AD&D AND SUPPLEMENTAL LIFE PLAN FOR THE EMPLOYEES OF APCIA
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2019: GROUP LIFE AD&D AND SUPPLEMENTAL LIFE PLAN FOR THE EMPLOYEES OF APCIA
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2018: GROUP LIFE AD&D AND SUPPLEMENTAL LIFE PLAN FOR THE EMPLOYEES OF PCI
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2017: GROUP LIFE AD&D AND SUPPLEMENTAL LIFE PLAN FOR THE EMPLOYEES OF PCI
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
    [503]
@@ -147,31 +147,6 @@ IL : CHICAGO
     2017: EMPLOYEE ASSISTANCE PLAN FOR EMPLOYEES OF PROPERTY CASUALTY INSURERS ASSOCIATION OF AMERICA
         Benefit Category: Other
         Codes:  4Q
-        Participants: 
-   [505]
-    2022: GROUP STD/LTD PLAN FOR EMPLOYEES OF APCIA
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2021: GROUP STD/LTD PLAN FOR EMPLOYEES OF APCIA
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2020: GROUP STD/LTD PLAN FOR EMPLOYEES OF APCIA
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2019: GROUP STD/LTD PLAN FOR EMPLOYEES OF APCIA
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2018: GROUP STD/LTD PLAN FOR EMPLOYEES OF PCI
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2017: GROUP STD/LTD PLAN FOR EMPLOYEES OF PCI
-        Benefit Category: Other
-        Codes:  4F4H
         Participants: 
    [002]
     2022: FROZEN PENSION PLAN FOR EMPLOYEES OF AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION
@@ -307,3 +282,28 @@ IL : CHICAGO
                  : LONG US CREDIT INDX NL FUND
                  : LONG US TREASURY INDX NL FUND
                  : US HIGH YIELD BOND INDEX
+   [505]
+    2022: GROUP STD/LTD PLAN FOR EMPLOYEES OF APCIA
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2021: GROUP STD/LTD PLAN FOR EMPLOYEES OF APCIA
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2020: GROUP STD/LTD PLAN FOR EMPLOYEES OF APCIA
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2019: GROUP STD/LTD PLAN FOR EMPLOYEES OF APCIA
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2018: GROUP STD/LTD PLAN FOR EMPLOYEES OF PCI
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2017: GROUP STD/LTD PLAN FOR EMPLOYEES OF PCI
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 

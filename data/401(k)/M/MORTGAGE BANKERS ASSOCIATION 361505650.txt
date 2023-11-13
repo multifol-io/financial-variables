@@ -197,63 +197,46 @@ DC : WASHINGTON
                  : SIA-WG NEW HORIZONS
    [501]
     2022: MORTGAGE BANKERS ASSOCIATION HEALTH AND WELFARE PLANS
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4G4H4Q
         Participants: 
    [504]
     2020: HEALTH AND DENTAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2019: HEALTH AND DENTAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2018: HEALTH AND DENTAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2017: HEALTH AND DENTAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
    [501]
     2021: MORTGAGE BANKERS ASSOCIATION HEALTH AND WELFARE PLANS
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2020: LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2019: LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2018: LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2017: LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
-        Participants: 
-   [503]
-    2020: DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H4Q
-        Participants: 
-    2019: DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H4Q
-        Participants: 
-    2018: DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H4Q
-        Participants: 
-    2017: DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H4Q
         Participants: 
    [505]
     2017: MBA BUSINESS TRAVEL ACCIDENT
@@ -281,3 +264,20 @@ DC : WASHINGTON
         Service Providers:
            - AON INVESTMENT CONSULTING, INC. :  (Actuarial | Consulting(pension) | Investment management | Direct payment from the plan)
            - FIRST STATE TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+   [503]
+    2020: DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H4Q
+        Participants: 
+    2019: DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H4Q
+        Participants: 
+    2018: DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H4Q
+        Participants: 
+    2017: DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H4Q
+        Participants: 

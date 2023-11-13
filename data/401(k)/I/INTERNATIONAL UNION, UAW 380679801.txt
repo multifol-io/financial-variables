@@ -104,13 +104,34 @@ MI : DETROIT
         Assets: 12702412
         $/Participant: 32738
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+   [504]
+    2021: DELTA DENTAL PLAN OF MICHIGAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2020: DELTA DENTAL PLAN OF MICHIGAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2019: DELTA DENTAL PLAN OF MICHIGAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2018: DELTA DENTAL PLAN OF MICHIGAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2017: DELTA DENTAL PLAN OF MICHIGAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 1912
    [503]
     2018: LIFE INSURANCE BENEFITS
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Short-term disability
         Codes:  4A4B4F
         Participants: 1968
     2017: LIFE INSURANCE BENEFITS
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Short-term disability
         Codes:  4A4B4F
         Participants: 
    [506]
@@ -140,32 +161,32 @@ MI : DETROIT
         Participants: 
    [510]
     2022: HOSPITAL AND HEALTH BENEFITS
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         RecordKeeper: BLUE CROSS BLUE SHIELD OF MICHIGAN
     2021: HOSPITAL AND HEALTH BENEFITS
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         RecordKeeper: BLUE CROSS BLUE SHIELD OF MICHIGAN
     2020: HOSPITAL AND HEALTH BENEFITS
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         RecordKeeper: BLUE CROSS BLUE SHIELD OF MICHIGAN
     2019: HOSPITAL AND HEALTH BENEFITS
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         RecordKeeper: STERLING INSURANCE AGENCY
     2018: HOSPITAL AND HEALTH BENEFITS
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         RecordKeeper: STERLING INSURANCE AGENCY
     2017: HOSPITAL AND HEALTH BENEFITS
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         Service Providers:
@@ -173,19 +194,19 @@ MI : DETROIT
            - GROUP PLAN : RX DISPENSING FEES (Other fees)
    [503]
     2022: LIFE INSURANCE BENEFITS
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Travel accident
         Codes:  4B4F4L
         Participants: 
     2021: LIFE INSURANCE BENEFITS
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Travel accident
         Codes:  4B4F4L
         Participants: 
     2020: LIFE INSURANCE BENEFITS
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Travel accident
         Codes:  4B4F4L
         Participants: 
     2019: LIFE INSURANCE BENEFITS
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Travel accident
         Codes:  4B4F4L
         Participants: 
    [006]
@@ -388,27 +409,6 @@ MI : DETROIT
         Participants: 
         Assets: 58881
         $/Participant: 
-   [504]
-    2021: DELTA DENTAL PLAN OF MICHIGAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2020: DELTA DENTAL PLAN OF MICHIGAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2019: DELTA DENTAL PLAN OF MICHIGAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2018: DELTA DENTAL PLAN OF MICHIGAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2017: DELTA DENTAL PLAN OF MICHIGAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 1912
    [002]
     2022: INTERNATIONAL UAW STAFF RETIREMENT INCOME PLAN
         Benefit Category: Pension

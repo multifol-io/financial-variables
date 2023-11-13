@@ -147,28 +147,28 @@ NY : NEW YORK
                  : VOYA DEDICATED MULTI-SECTOR SV TF
    [503]
     2020: 21ST CENTURY FOX AMERICA GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L
         Participants: 
     2019: 21ST CENTURY FOX AMERICA GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L
         Participants: 
     2018: 21ST CENTURY FOX AMERICA GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L
         Participants: 
     2017: 21ST CENTURY FOX AMERICA GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L
         Participants: 
    [506]
     2022: THE SIGNATURE BENEFITS PLAN (TFCF)
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
     2021: THE SIGNATURE BENEFITS PLAN (TFCF)
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
    [007]
@@ -267,19 +267,6 @@ NY : NEW YORK
                  : BLACKROCK GLOBAL ALLOCATION COLL FD
            - FIDUCIARY TRUST INTERNATIONAL OF TH
                  : FRANKLIN TEMPLETON GBL MS PLUS TRST
-   [553]
-    2019: 21ST CENTURY FOX AMERICA BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: 21ST CENTURY FOX AMERICA BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: 21ST CENTURY FOX AMERICA BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
    [001]
     2022: 21ST CENTURY FOX AMERICA RETIREMENT PLAN
         Benefit Category: Pension
@@ -429,3 +416,16 @@ NY : NEW YORK
         Available Investments:
            - 21ST CENTURY FOX AMERICA, INC.
                  : 21ST CENTURY FOX AMERICA INC MT
+   [553]
+    2019: 21ST CENTURY FOX AMERICA BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: 21ST CENTURY FOX AMERICA BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: 21ST CENTURY FOX AMERICA BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 

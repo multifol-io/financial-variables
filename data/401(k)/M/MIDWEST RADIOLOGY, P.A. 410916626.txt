@@ -75,6 +75,19 @@ MN : ST. PAUL
                  : WELLS FARGO STABLE RETURN FD N
                  : WF BLACKROCK S & P 500 INDEX CIT N
                  : WF BLACKROCK US AGG BD INDEX CIT N
+   [505]
+    2019: MIDWEST RADIOLOGY GROUP DENTAL
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2018: ST. PAUL RADIOLOGY PA GROUP DENTAL
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2017: ST. PAUL RADIOLOGY PA GROUP DENTAL
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [501]
     2019: MIDWEST RADIOLOGY GROUP MEDICAL PLAN
         Benefit Category: Healthcare
@@ -91,20 +104,20 @@ MN : ST. PAUL
 MN : ROSEVILLE
    [506]
     2022: MIDWEST RADIOLOGY, P.A. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2021: MIDWEST RADIOLOGY, P.A. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2020: MIDWEST RADIOLOGY, P.A. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
    [001]
     2021: MIDWEST RADIOLOGY P.A. AND AFFILIATES PROFIT SHARING PLAN
-        Benefit Category: Life Insurance, 401(k)
+        Benefit Category: Life insurance, 401(k)
         Codes: 2A2E2F2G2J2K2R2S2T3D 4B
         Participants: 608
         Assets: 285407536
@@ -123,38 +136,16 @@ MN : ROSEVILLE
 MN : ST. PAUL
    [502]
     2019: MIDWEST RADIOLOGY LONG TERM DISABILITY, LIFE, ADD AND VOLUNTARY LIFE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
         Codes:  4B4F4H4L
         Participants: 
     2018: ST. PAUL RADIOLOGY LONG TERM DISABILITY, LIFE, ADD AND VOLUNTARY LIFE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
         Codes:  4B4F4H4L
         Participants: 
     2017: ST. PAUL RADIOLOGY LONG TERM DISABILITY, LIFE, ADD AND VOLUNTARY LIFE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
         Codes:  4B4F4H4L
-        Participants: 
-   [503]
-    2019: MIDWEST RADIOLOGY VISION
-        Benefit Category: Other
-        Codes:  4E4S
-        Participants: 
-    2017: ST. PAUL RADIOLOGY VISION
-        Benefit Category: Other
-        Codes:  4E4R
-        Participants: 
-   [505]
-    2019: MIDWEST RADIOLOGY GROUP DENTAL
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2018: ST. PAUL RADIOLOGY PA GROUP DENTAL
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2017: ST. PAUL RADIOLOGY PA GROUP DENTAL
-        Benefit Category: Other
-        Codes:  4D
         Participants: 
 MN : ROSEVILLE
    [003]
@@ -182,3 +173,13 @@ MN : ROSEVILLE
         Participants: 145
         Assets: 43477240
         $/Participant: 299843
+MN : ST. PAUL
+   [503]
+    2019: MIDWEST RADIOLOGY VISION
+        Benefit Category: Vision
+        Codes:  4E4S
+        Participants: 
+    2017: ST. PAUL RADIOLOGY VISION
+        Benefit Category: Vision
+        Codes:  4E4R
+        Participants: 

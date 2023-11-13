@@ -110,29 +110,54 @@ MI : DEARBORN
         Available Investments:
            - FORD MOTOR COMPANY
                  : FORD DEFINED CONTRIBUTION PLANS MAS
+   [562]
+    2022: FORD DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2021: FORD DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2020: FORD DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2019: FORD DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2018: FORD DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2017: FORD DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [520]
     2022: FORD - UAW HOSPITAL-SURGICAL-MEDICAL-DRUG-DENTAL- VISION PROGRAM FOR HOURLY EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2021: FORD - UAW HOSPITAL-SURGICAL-MEDICAL-DRUG-DENTAL- VISION PROGRAM FOR HOURLY EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2020: FORD - UAW HOSPITAL-SURGICAL-MEDICAL-DRUG-DENTAL- VISION PROGRAM FOR HOURLY EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2019: FORD - UAW HOSPITAL-SURGICAL-MEDICAL-DRUG-DENTAL- VISION PROGRAM FOR HOURLY EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2018: FORD - UAW HOSPITAL-SURGICAL-MEDICAL-DRUG-DENTAL- VISION PROGRAM FOR HOURLY EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2017: FORD - UAW HOSPITAL-SURGICAL-MEDICAL-DRUG-DENTAL- VISION PROGRAM FOR HOURLY EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
    [543]
@@ -178,11 +203,11 @@ MI : DEARBORN
         Codes:  4A
         Participants: 
     2018: HEALTHCARE PLAN FOR SALARIED EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2017: HEALTHCARE PLAN FOR SALARIED EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
    [561]
@@ -199,7 +224,7 @@ MI : DEARBORN
         Codes:  4A
         Participants: 
     2017: FORD MOTOR INTERNATIONAL SERVICE EMPLOYEES HEALTH INSURANCE
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D4Q
         Participants: 
    [563]
@@ -234,70 +259,95 @@ MI : DEARBORN
         Participants: 
    [521]
     2020: GROUP LIFE AND DISABILITY INSURANCE PROGRAM
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability
         Codes:  4B4F4Q
         Participants: 
     2019: GROUP LIFE AND DISABILITY INSURANCE PROGRAM
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability
         Codes:  4B4F4Q
         Participants: 
     2018: GROUP LIFE AND DISABILITY INSURANCE PROGRAM
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4F4H4Q
         Participants: 
     2017: GROUP LIFE AND DISABILITY INSURANCE PROGRAM
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4F4H4Q
         Participants: 
    [550]
     2022: FORD MOTOR COMPANY LIFE AND ACCIDENTAL DEATH AND DISABILITY PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability
         Codes:  4B4F4Q
         Participants: 
     2021: FORD MOTOR COMPANY LIFE AND ACCIDENTAL DEATH AND DISABILITY PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability
         Codes:  4B4F4Q
         Participants: 
     2020: FORD MOTOR COMPANY LIFE AND ACCIDENTAL DEATH AND DISABILITY PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability
         Codes:  4B4F4Q
         Participants: 
     2019: FORD MOTOR COMPANY LIFE AND ACCIDENTAL DEATH AND DISABILITY PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability
         Codes:  4B4F4Q
         Participants: 
     2018: FORD MOTOR COMPANY LIFE AND ACCIDENTAL DEATH AND DISABILITY PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4F4H4Q
         Participants: 
     2017: FORD MOTOR COMPANY LIFE AND ACCIDENTAL DEATH AND DISABILITY PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4F4H4Q
         Participants: 
    [551]
     2022: FORD MOTOR COMPANY LIFE & ACCIDENTAL DEATH & DISMEMBERMENT PLAN LL 1 - 4
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2021: FORD MOTOR COMPANY LIFE & ACCIDENTAL DEATH & DISMEMBERMENT PLAN LL 1 - 4
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2020: FORD MOTOR COMPANY LIFE & ACCIDENTAL DEATH & DISABILITY PLAN LL 1 - 4
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2019: FORD MOTOR COMPANY LIFE & ACCIDENTAL DEATH & DISABILITY PLAN LL 1 - 4
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2018: FORD MOTOR COMPANY LIFE & ACCIDENTAL DEATH & DISABILITY PLAN LL 1 - 4
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2017: FORD MOTOR COMPANY LIFE AND ACCIDENTAL DEATH AND DISABILITY PLAN LL 1 - 4
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
+        Participants: 
+   [554]
+    2022: FORD MOTOR COMPANY OPTIONAL LONG-TERM DISABILITY PROGRAM
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2021: FORD MOTOR COMPANY OPTIONAL LONG-TERM DISABILITY PROGRAM
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2020: FORD MOTOR COMPANY OPTIONAL LONG-TERM DISABILITY PROGRAM
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2019: FORD MOTOR COMPANY OPTIONAL LONG-TERM DISABILITY PROGRAM
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2018: FORD MOTOR COMPANY OPTIONAL LONG-TERM DISABILITY PROGRAM
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2017: FORD MOTOR COMPANY OPTIONAL LONG-TERM DISABILITY PROGRAM
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
    [003]
     2018: FORD RETIREMENT PLAN
@@ -544,15 +594,6 @@ MI : DEARBORN
         Service Providers:
            - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
            - COMERICA BANK : NONE KNOWN (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Direct payment from the plan | Shareholder servicing fees | Float revenue | Other investment fees and expenses)
-   [521]
-    2022: GROUP LIFE AND DISABILITY INSURANCE PROGRAM
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2021: GROUP LIFE AND DISABILITY INSURANCE PROGRAM
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
    [540]
     2022: UAW-FORD LEGAL SERVICES PLAN FOR UAW-REPRESENTED HOURLY EMPLOYEES OF FORD MOTOR COMPANY IN THE UNITED STATES
         Benefit Category: Other
@@ -599,31 +640,6 @@ MI : DEARBORN
         Benefit Category: Other
         Codes:  4G
         Participants: 
-   [547]
-    2022: FORD MOTOR COMPANY SALARIED VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2021: FORD MOTOR COMPANY SALARIED VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2020: VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2019: VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2018: VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2017: VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
    [549]
     2018: LONG-TERM CARE INSURANCE
         Benefit Category: Other
@@ -632,81 +648,6 @@ MI : DEARBORN
     2017: LONG-TERM CARE INSURANCE
         Benefit Category: Other
         Codes:  4Q
-        Participants: 
-   [554]
-    2022: FORD MOTOR COMPANY OPTIONAL LONG-TERM DISABILITY PROGRAM
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2021: FORD MOTOR COMPANY OPTIONAL LONG-TERM DISABILITY PROGRAM
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2020: FORD MOTOR COMPANY OPTIONAL LONG-TERM DISABILITY PROGRAM
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2019: FORD MOTOR COMPANY OPTIONAL LONG-TERM DISABILITY PROGRAM
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2018: FORD MOTOR COMPANY OPTIONAL LONG-TERM DISABILITY PROGRAM
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2017: FORD MOTOR COMPANY OPTIONAL LONG-TERM DISABILITY PROGRAM
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-   [562]
-    2022: FORD DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2021: FORD DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2020: FORD DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2019: FORD DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2018: FORD DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2017: FORD DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-   [591]
-    2022: SURVIVING SPOUSE CAR TRANSFER PROGRAM
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2021: SURVIVING SPOUSE CAR TRANSFER PROGRAM
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: SURVIVING SPOUSE CAR TRANSFER PROGRAM
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: SURVIVING SPOUSE CAR TRANSFER PROGRAM
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: SURVIVING SPOUSE CAR TRANSFER PROGRAM
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: SURVIVING SPOUSE CAR TRANSFER PROGRAM
-        Benefit Category: Other
-        Codes:  4L
         Participants: 
    [594]
     2022: FORD MOTOR COMPANY - EMPLOYEE ASSISTANCE PLAN FOR HOURLY EMPLOYEES
@@ -1112,4 +1053,63 @@ MI : DEARBORN
     2017: SPECIAL INCENTIVE PROGRAM
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [521]
+    2022: GROUP LIFE AND DISABILITY INSURANCE PROGRAM
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2021: GROUP LIFE AND DISABILITY INSURANCE PROGRAM
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+   [591]
+    2022: SURVIVING SPOUSE CAR TRANSFER PROGRAM
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2021: SURVIVING SPOUSE CAR TRANSFER PROGRAM
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: SURVIVING SPOUSE CAR TRANSFER PROGRAM
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: SURVIVING SPOUSE CAR TRANSFER PROGRAM
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: SURVIVING SPOUSE CAR TRANSFER PROGRAM
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: SURVIVING SPOUSE CAR TRANSFER PROGRAM
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+   [547]
+    2022: FORD MOTOR COMPANY SALARIED VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2021: FORD MOTOR COMPANY SALARIED VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2020: VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2019: VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2018: VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2017: VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
         Participants: 

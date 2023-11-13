@@ -204,41 +204,41 @@ CA : FOLSOM
 AZ : CHANDLER
    [501]
     2022: INTEL CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2021: INTEL CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
 CA : FOLSOM
     2020: INTEL CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2019: INTEL CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2018: INTEL CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2017: INTEL CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
 AZ : CHANDLER
    [526]
     2022: INTEL CORPORATION RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E4Q
         Participants: 
         Assets: 503828161
         $/Participant: 
         RecordKeeper: EXPRESS SCRIPTS, INC.
     2021: INTEL CORPORATION RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E4Q
         Participants: 
         Assets: 691518278
@@ -246,28 +246,28 @@ AZ : CHANDLER
         RecordKeeper: CALLAN HOLDINGS' INC
 CA : FOLSOM
     2020: INTEL CORPORATION RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E4Q
         Participants: 
         Assets: 630475901
         $/Participant: 
         RecordKeeper: CIGNA
     2019: INTEL CORPORATION RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E4Q
         Participants: 
         Assets: 575192363
         $/Participant: 
         RecordKeeper: CIGNA
     2018: INTEL CORPORATION RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E4Q
         Participants: 
         Assets: 480884227
         $/Participant: 
         RecordKeeper: CIGNA
     2017: INTEL CORPORATION RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E4Q
         Participants: 
         Assets: 653645094
@@ -276,29 +276,83 @@ CA : FOLSOM
 AZ : CHANDLER
    [504]
     2022: GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2021: GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
 CA : FOLSOM
     2020: GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2019: GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2018: GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
+        Participants: 
+AZ : CHANDLER
+   [506]
+    2022: INTEL CORPORATION LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2021: INTEL CORPORATION LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+CA : FOLSOM
+    2020: INTEL CORPORATION LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2019: INTEL CORPORATION LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2018: INTEL CORPORATION LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2017: INTEL CORPORATION LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+AZ : CHANDLER
+   [534]
+    2022: SUPPLEMENTAL LONG TERM DISABILITY INSURANCE PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2021: SUPPLEMENTAL LONG TERM DISABILITY INSURANCE PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+CA : FOLSOM
+    2020: SUPPLEMENTAL LONG TERM DISABILITY INSURANCE PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2019: SUPPLEMENTAL LONG TERM DISABILITY INSURANCE PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2018: SUPPLEMENTAL LONG TERM DISABILITY INSURANCE PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2017: SUPPLEMENTAL LONG TERM DISABILITY INSURANCE PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
    [001]
     2022: INTEL RETIREMENT CONTRIBUTION PLAN
@@ -508,131 +562,6 @@ CA : FOLSOM
                  : US LARGE CAP STOCK FUND
                  : US SMALL CAP STOCK FUND
 AZ : CHANDLER
-   [506]
-    2022: INTEL CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2021: INTEL CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-CA : FOLSOM
-    2020: INTEL CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2019: INTEL CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2018: INTEL CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2017: INTEL CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-AZ : CHANDLER
-   [511]
-    2022: GROUP ACCIDENTAL DEATH AND DISMEMBERMENT
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2021: GROUP ACCIDENTAL DEATH AND DISMEMBERMENT
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-CA : FOLSOM
-    2020: GROUP ACCIDENTAL DEATH AND DISMEMBERMENT
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: GROUP ACCIDENTAL DEATH AND DISMEMBERMENT
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: GROUP ACCIDENTAL DEATH AND DISMEMBERMENT
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: GROUP ACCIDENTAL DEATH AND DISMEMBERMENT
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-AZ : CHANDLER
-   [512]
-    2022: INTEL CORPORATION SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2021: INTEL CORPORATION SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-CA : FOLSOM
-    2020: INTEL CORPORATION SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-        Assets: 859599
-        $/Participant: 
-        Service Providers:
-           - REED GROUP MANAGEMENT LLC : CONTRACT ADMINISTRATOR (Contract Administrator | Direct payment from the plan)
-           - ERNST & YOUNG LLP : ACCOUNTING INC AUDITING (Accounting(including auditing) | Direct payment from the plan)
-           - CLIFTONLARSONALLEN LLP : OTHER FEES (Other fees | Direct payment from the plan)
-           - DELOITTE TAX LLP : OTHER FEES (Other fees | Direct payment from the plan)
-           - STATE STREET BANK AND TRUST COMPANY : TRUSTEE (Trustee(directed) | Direct payment from the plan)
-    2019: INTEL CORPORATION SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-        Assets: 24858860
-        $/Participant: 
-        RecordKeeper: STATE STREET BANK AND TRUST COMPANY
-    2018: INTEL CORPORATION SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-        Assets: 22027995
-        $/Participant: 
-        RecordKeeper: STATE STREET BANK AND TRUST COMPANY
-    2017: INTEL CORPORATION SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-        Assets: 19085797
-        $/Participant: 
-        RecordKeeper: DELOITTE TAX LLP
-AZ : CHANDLER
-   [514]
-    2022: BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2021: BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-CA : FOLSOM
-    2020: BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-AZ : CHANDLER
    [521]
     2022: EMPLOYEE ASSISTANCE PLAN
         Benefit Category: Other
@@ -687,60 +616,6 @@ CA : FOLSOM
         Codes:  4Q
         Participants: 
 AZ : CHANDLER
-   [531]
-    2022: CRITICAL ILLNESS INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2021: CRITICAL ILLNESS INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-CA : FOLSOM
-    2020: CRITICAL ILLNESS INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2019: CRITICAL ILLNESS INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2018: CRITICAL ILLNESS INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2017: CRITICAL ILLNESS INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-AZ : CHANDLER
-   [532]
-    2022: LONG TERM CARE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2021: LONG TERM CARE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-CA : FOLSOM
-    2020: LONG TERM CARE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2019: LONG TERM CARE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2018: LONG TERM CARE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2017: LONG TERM CARE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-AZ : CHANDLER
    [533]
     2022: PREPAID LEGAL SERVICES PLAN
         Benefit Category: Other
@@ -766,33 +641,6 @@ CA : FOLSOM
     2017: PREPAID LEGAL SERVICES PLAN
         Benefit Category: Other
         Codes:  4G
-        Participants: 
-AZ : CHANDLER
-   [534]
-    2022: SUPPLEMENTAL LONG TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2021: SUPPLEMENTAL LONG TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-CA : FOLSOM
-    2020: SUPPLEMENTAL LONG TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2019: SUPPLEMENTAL LONG TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2018: SUPPLEMENTAL LONG TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2017: SUPPLEMENTAL LONG TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4H
         Participants: 
    [002]
     2022: INTEL MINIMUM PENSION PLAN
@@ -938,4 +786,156 @@ CA : FOLSOM
     2017: INTEL CORPORATION SEVERANCE PLAN
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+AZ : CHANDLER
+   [512]
+    2022: INTEL CORPORATION SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2021: INTEL CORPORATION SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+CA : FOLSOM
+    2020: INTEL CORPORATION SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+        Assets: 859599
+        $/Participant: 
+        Service Providers:
+           - REED GROUP MANAGEMENT LLC : CONTRACT ADMINISTRATOR (Contract Administrator | Direct payment from the plan)
+           - ERNST & YOUNG LLP : ACCOUNTING INC AUDITING (Accounting(including auditing) | Direct payment from the plan)
+           - CLIFTONLARSONALLEN LLP : OTHER FEES (Other fees | Direct payment from the plan)
+           - DELOITTE TAX LLP : OTHER FEES (Other fees | Direct payment from the plan)
+           - STATE STREET BANK AND TRUST COMPANY : TRUSTEE (Trustee(directed) | Direct payment from the plan)
+    2019: INTEL CORPORATION SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+        Assets: 24858860
+        $/Participant: 
+        RecordKeeper: STATE STREET BANK AND TRUST COMPANY
+    2018: INTEL CORPORATION SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+        Assets: 22027995
+        $/Participant: 
+        RecordKeeper: STATE STREET BANK AND TRUST COMPANY
+    2017: INTEL CORPORATION SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+        Assets: 19085797
+        $/Participant: 
+        RecordKeeper: DELOITTE TAX LLP
+AZ : CHANDLER
+   [531]
+    2022: CRITICAL ILLNESS INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2021: CRITICAL ILLNESS INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+CA : FOLSOM
+    2020: CRITICAL ILLNESS INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2019: CRITICAL ILLNESS INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2018: CRITICAL ILLNESS INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2017: CRITICAL ILLNESS INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+AZ : CHANDLER
+   [532]
+    2022: LONG TERM CARE INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2021: LONG TERM CARE INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+CA : FOLSOM
+    2020: LONG TERM CARE INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2019: LONG TERM CARE INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2018: LONG TERM CARE INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2017: LONG TERM CARE INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+AZ : CHANDLER
+   [511]
+    2022: GROUP ACCIDENTAL DEATH AND DISMEMBERMENT
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2021: GROUP ACCIDENTAL DEATH AND DISMEMBERMENT
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+CA : FOLSOM
+    2020: GROUP ACCIDENTAL DEATH AND DISMEMBERMENT
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: GROUP ACCIDENTAL DEATH AND DISMEMBERMENT
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: GROUP ACCIDENTAL DEATH AND DISMEMBERMENT
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: GROUP ACCIDENTAL DEATH AND DISMEMBERMENT
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+AZ : CHANDLER
+   [514]
+    2022: BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2021: BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+CA : FOLSOM
+    2020: BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
         Participants: 

@@ -61,6 +61,15 @@ TX : HOUSTON
         Available Investments:
            - INVESCO NATIONAL TRUST COMPANY
                  : INVESCO STABLE VALUE RETIREMENT FUN
+   [503]
+    2018: EMPLOYEE OWNED HOLDINGS, INC. DENTAL-VISION PLAN
+        Benefit Category: Dental, Vision
+        Codes:  4D4E4Q
+        Participants: 0
+    2017: EMPLOYEE OWNED HOLDINGS, INC. DENTAL-VISION PLAN
+        Benefit Category: Dental, Vision
+        Codes:  4D4E4Q
+        Participants: 185
    [001]
     2022: EMPLOYEE OWNED HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
         Benefit Category: Employee Stock Ownership Plan
@@ -100,31 +109,31 @@ TX : HOUSTON
         $/Participant: 376621
    [501]
     2022: EMPLOYEE OWNED HOLDINGS, INC. WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 320
         Service Providers:
            - CIGNA HEALTH & LIFE INSURANCE COMPA : CLAIMS ADMINISTRATION (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
     2021: EMPLOYEE OWNED HOLDINGS, INC. WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 298
         Service Providers:
            - CIGNA HEALTH & LIFE INSURANCE COMPA : CLAIMS ADMINISTRATION (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
     2020: EMPLOYEE OWNED HOLDINGS, INC. WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 260
         Service Providers:
            - CIGNA HEALTH & LIFE INSURANCE COMPA : CLAIMS ADMINISTRATION (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
     2019: EMPLOYEE OWNED HOLDINGS, INC. WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 288
         Service Providers:
            - CIGNA HEALTH & LIFE INSURANCE COMPA : CLAIMS ADMINISTRATION (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
     2018: EMPLOYEE OWNED HOLDINGS, INC. WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 233
         Service Providers:
@@ -137,37 +146,28 @@ TX : HOUSTON
            - CIGNA HEALTH & LIFE INSURANCE COMPA : CLAIMS ADMINISTRATION (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
    [502]
     2018: EMPLOYEE OWNED HOLDINGS, INC. FLEX PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 0
     2017: EMPLOYEE OWNED HOLDINGS, INC. FLEX PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
-        Participants: 222
-   [503]
-    2018: EMPLOYEE OWNED HOLDINGS, INC. DENTAL-VISION PLAN
-        Benefit Category: Other
-        Codes:  4D4E4Q
-        Participants: 0
-    2017: EMPLOYEE OWNED HOLDINGS, INC. DENTAL-VISION PLAN
-        Benefit Category: Other
-        Codes:  4D4E4Q
-        Participants: 185
-   [504]
-    2018: EMPLOYEE OWNED HOLDINGS, INC. STD PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 0
-    2017: EMPLOYEE OWNED HOLDINGS, INC. STD PLAN
-        Benefit Category: Other
-        Codes:  4F
         Participants: 222
    [505]
     2018: EMPLOYEE OWNED HOLDINGS, INC. LTD PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 0
     2017: EMPLOYEE OWNED HOLDINGS, INC. LTD PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
+        Participants: 222
+   [504]
+    2018: EMPLOYEE OWNED HOLDINGS, INC. STD PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 0
+    2017: EMPLOYEE OWNED HOLDINGS, INC. STD PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
         Participants: 222

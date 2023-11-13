@@ -75,27 +75,27 @@ PA : PITTSBURGH
                  : PUTNAM STABLE VALUE FUND (15 BPS)
    [508]
     2022: AMTP USA LLC WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4D4E4F4H
         Participants: 
     2021: AMTP USA LLC WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4D4E4F4H
         Participants: 
     2020: AMTP USA LLC WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4D4E4F4H
         Participants: 
     2019: AMTP USA LLC WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4D4E4F4H
         Participants: 
     2018: AMTP USA LLC WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4D4E4F4H
         Participants: 
     2017: AMTP USA LLC WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4D4E4F4H
         Participants: 
    [514]
@@ -166,27 +166,6 @@ PA : PITTSBURGH
         Benefit Category: Healthcare
         Codes:  4A
         Participants: 
-   [501]
-    2021: ARCELORMITTAL TUBULAR PRODUCTS USA LLC BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 711
-    2020: ARCELORMITTAL TUBULAR PRODUCTS USA LLC BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 727
-    2019: ARCELORMITTAL TUBULAR PRODUCTS USA LLC BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 714
-    2018: ARCELORMITTAL TUBULAR PRODUCTS USA LLC BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 747
-    2017: ARCELORMITTAL TUBULAR PRODUCTS USA LLC BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 809
    [506]
     2021: ARCELORMITTAL SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN FOR PRODUCTION & MAINTENANCE EMPLOYEES
         Benefit Category: Other
@@ -332,3 +311,24 @@ PA : PITTSBURGH
         Benefit Category: Severance
         Codes:  4I
         Participants: 197
+   [501]
+    2021: ARCELORMITTAL TUBULAR PRODUCTS USA LLC BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 711
+    2020: ARCELORMITTAL TUBULAR PRODUCTS USA LLC BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 727
+    2019: ARCELORMITTAL TUBULAR PRODUCTS USA LLC BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 714
+    2018: ARCELORMITTAL TUBULAR PRODUCTS USA LLC BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 747
+    2017: ARCELORMITTAL TUBULAR PRODUCTS USA LLC BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 809

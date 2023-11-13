@@ -88,68 +88,29 @@ CA : MILPITAS
                  : MIP II CL 1
    [501]
     2022: KLA-TENCOR CORPORATION GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2021: KLA-TENCOR CORPORATION GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2020: KLA-TENCOR CORPORATION GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2019: KLA-TENCOR CORPORATION GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2018: KLA-TENCOR CORPORATION GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2017: KLA-TENCOR CORPORATION GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
-   [510]
-    2022: KLA-TENCOR CORPORATION SHORT TERM DISABILITY BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-        Assets: 2972640
-        $/Participant: 
-    2021: KLA-TENCOR CORPORATION SHORT TERM DISABILITY BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-        Assets: 2814576
-        $/Participant: 
-    2020: KLA-TENCOR CORPORATION SHORT TERM DISABILITY BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-        Assets: 2657524
-        $/Participant: 
-    2019: KLA-TENCOR CORPORATION SHORT TERM DISABILITY BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-        Assets: 2784178
-        $/Participant: 
-        Service Providers:
-           - BANK OF AMERICA : N/A (Investment management | Investment management fees paid directly by plan)
-    2018: KLA-TENCOR CORPORATION SHORT TERM DISABILITY BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-        Assets: 2519130
-        $/Participant: 
-    2017: KLA-TENCOR CORPORATION SHORT TERM DISABILITY BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-        Assets: 2364653
-        $/Participant: 
    [515]
     2022: KLA CORPORATION EMPLOYEE TIER 1 SEVERANCE BENEFITS PLAN
         Benefit Category: Severance
@@ -192,3 +153,42 @@ CA : MILPITAS
         Benefit Category: Severance
         Codes:  4I
         Participants: 
+   [510]
+    2022: KLA-TENCOR CORPORATION SHORT TERM DISABILITY BENEFIT PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+        Assets: 2972640
+        $/Participant: 
+    2021: KLA-TENCOR CORPORATION SHORT TERM DISABILITY BENEFIT PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+        Assets: 2814576
+        $/Participant: 
+    2020: KLA-TENCOR CORPORATION SHORT TERM DISABILITY BENEFIT PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+        Assets: 2657524
+        $/Participant: 
+    2019: KLA-TENCOR CORPORATION SHORT TERM DISABILITY BENEFIT PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+        Assets: 2784178
+        $/Participant: 
+        Service Providers:
+           - BANK OF AMERICA : N/A (Investment management | Investment management fees paid directly by plan)
+    2018: KLA-TENCOR CORPORATION SHORT TERM DISABILITY BENEFIT PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+        Assets: 2519130
+        $/Participant: 
+    2017: KLA-TENCOR CORPORATION SHORT TERM DISABILITY BENEFIT PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+        Assets: 2364653
+        $/Participant: 

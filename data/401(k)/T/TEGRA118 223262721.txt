@@ -47,6 +47,11 @@ NJ : WARREN
                  : BLACKROCK EAFE EQUITY INDEX FUND
                  : BLACKROCK EQUITY INDEX FUND
                  : WILMINGTON TRUST CIT LORD ABBETT TO
+   [503]
+    2021: TEGRA118 DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [501]
     2021: TEGRA118 HEALTH PLAN
         Benefit Category: Healthcare
@@ -59,32 +64,12 @@ NJ : WARREN
         Participants: 
    [505]
     2021: TEGRA118 LIFE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
-        Participants: 
-   [503]
-    2021: TEGRA118 DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-   [504]
-    2021: TEGRA118 VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-   [506]
-    2021: TEGRA118 ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-   [507]
-    2021: TEGRA118 SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
         Participants: 
    [508]
     2021: TEGRA118 LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
    [510]
@@ -96,4 +81,19 @@ NJ : WARREN
     2021: TEGRA118 EMPLOYEE ASSISTANCE PROGRAM
         Benefit Category: Other
         Codes:  4Q
+        Participants: 
+   [507]
+    2021: TEGRA118 SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+   [506]
+    2021: TEGRA118 ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+   [504]
+    2021: TEGRA118 VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
         Participants: 

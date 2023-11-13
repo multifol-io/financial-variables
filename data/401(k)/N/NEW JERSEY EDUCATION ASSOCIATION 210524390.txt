@@ -53,7 +53,7 @@ NJ : TRENTON
                  : T. ROWE PRICE STABLE VALUE COMMON T
    [502]
     2021: NEW JERSEY EDUCATION ASSOCIATION HEALTH AND WELFARE BENEFITS TRUST
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H
         Participants: 
         Assets: 131896753
@@ -69,7 +69,7 @@ NJ : TRENTON
            - GALLAGHER BENEFITS SERVICES, INC. :  (Insurance agents and brokers | Insurance brokerage commissions and fees)
            - VISION SERVICE PLAN :  (Claims processing | Direct payment from the plan)
     2020: NEW JERSEY EDUCATION ASSOCIATION HEALTH AND WELFARE BENEFITS TRUST
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H
         Participants: 
         Assets: 144936823
@@ -85,7 +85,7 @@ NJ : TRENTON
            - EXPRESS SCRIPTS INC :  (Claims processing | Direct payment from the plan)
            - GALLAGHER BENEFITS SERVICES, INC. :  (Insurance agents and brokers | Insurance brokerage commissions and fees)
     2019: NEW JERSEY EDUCATION ASSOCIATION HEALTH AND WELFARE BENEFITS TRUST
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H
         Participants: 
         Assets: 109448668
@@ -101,54 +101,6 @@ NJ : TRENTON
            - EXPRESS SCRIPTS INC :  (Claims processing | Direct payment from the plan)
            - VISION SERVICE PLAN :  (Claims processing | Direct payment from the plan)
            - UNIVERSITY BEHAVIORAL HEALTH CARE :  (Claims processing | Direct payment from the plan)
-   [510]
-    2021: NJEA MEMBER BENEFIT FUND
-        Benefit Category: Other
-        Codes:  4F4H4Q
-        Participants: 
-        Assets: 1906344
-        $/Participant: 
-        Service Providers:
-           - UNIVERSITY BEHAVIORAL HEALTHCARE :  (Other services | Direct payment from the plan)
-           - RC ADVERTISING, INC. :  (Other services | Direct payment from the plan)
-           - BROWN & BIGELOW :  (Other services | Direct payment from the plan)
-    2020: NJEA MEMBER BENEFIT FUND
-        Benefit Category: Other
-        Codes:  4F4H4Q
-        Participants: 
-        Assets: 1930100
-        $/Participant: 
-        Service Providers:
-           - UNIVERSITY BEHAVIORAL HEALTHCARE :  (Other services | Direct payment from the plan)
-           - NOVAK FRANCELLA LLC :  (Accounting(including auditing) | Direct payment from the plan)
-           - RC ADVERTISING, INC. :  (Other services | Direct payment from the plan)
-    2019: NJEA MEMBER BENEFIT FUND
-        Benefit Category: Other
-        Codes:  4F4H4Q
-        Participants: 
-        Assets: 2165177
-        $/Participant: 
-        Service Providers:
-           - UNIVERSITY BEHAVIORAL HEALTHCARE :  (Other services | Direct payment from the plan)
-           - NOVAK FRANCELLA LLC :  (Accounting(including auditing) | Direct payment from the plan)
-    2018: NJEA MEMBER BENEFIT FUND
-        Benefit Category: Other
-        Codes:  4F4H4Q
-        Participants: 
-        Assets: 2239828
-        $/Participant: 
-        Service Providers:
-           - UNIVERSITY BEHAVIORAL HEALTHCARE :  (Other services | Direct payment from the plan)
-           - NOVAK FRANCELLA LLC :  (Accounting(including auditing) | Direct payment from the plan)
-    2017: NJEA MEMBER BENEFIT FUND
-        Benefit Category: Other
-        Codes:  4F4H4Q
-        Participants: 
-        Assets: 2207973
-        $/Participant: 
-        Service Providers:
-           - UNIVERSITY BEHAVIORAL HEALTHCARE :  (Other services | Direct payment from the plan)
-           - NOVAK FRANCELLA LLC :  (Accounting(including auditing) | Direct payment from the plan)
    [001]
     2021: NEW JERSEY EDUCATION ASSOCIATION EMPLOYEES' RETIREMENT AND TRUST FUND
         Benefit Category: Pension
@@ -233,3 +185,51 @@ NJ : TRENTON
                  : SEI CORE PROPERTY INVESTMENT TRUST
                  : SEI GLOBAL PRIVATE ASSETS IV COLLEC
                  : SEI SPECIAL SITUATIONS COLLECTIVE T
+   [510]
+    2021: NJEA MEMBER BENEFIT FUND
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H4Q
+        Participants: 
+        Assets: 1906344
+        $/Participant: 
+        Service Providers:
+           - UNIVERSITY BEHAVIORAL HEALTHCARE :  (Other services | Direct payment from the plan)
+           - RC ADVERTISING, INC. :  (Other services | Direct payment from the plan)
+           - BROWN & BIGELOW :  (Other services | Direct payment from the plan)
+    2020: NJEA MEMBER BENEFIT FUND
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H4Q
+        Participants: 
+        Assets: 1930100
+        $/Participant: 
+        Service Providers:
+           - UNIVERSITY BEHAVIORAL HEALTHCARE :  (Other services | Direct payment from the plan)
+           - NOVAK FRANCELLA LLC :  (Accounting(including auditing) | Direct payment from the plan)
+           - RC ADVERTISING, INC. :  (Other services | Direct payment from the plan)
+    2019: NJEA MEMBER BENEFIT FUND
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H4Q
+        Participants: 
+        Assets: 2165177
+        $/Participant: 
+        Service Providers:
+           - UNIVERSITY BEHAVIORAL HEALTHCARE :  (Other services | Direct payment from the plan)
+           - NOVAK FRANCELLA LLC :  (Accounting(including auditing) | Direct payment from the plan)
+    2018: NJEA MEMBER BENEFIT FUND
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H4Q
+        Participants: 
+        Assets: 2239828
+        $/Participant: 
+        Service Providers:
+           - UNIVERSITY BEHAVIORAL HEALTHCARE :  (Other services | Direct payment from the plan)
+           - NOVAK FRANCELLA LLC :  (Accounting(including auditing) | Direct payment from the plan)
+    2017: NJEA MEMBER BENEFIT FUND
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H4Q
+        Participants: 
+        Assets: 2207973
+        $/Participant: 
+        Service Providers:
+           - UNIVERSITY BEHAVIORAL HEALTHCARE :  (Other services | Direct payment from the plan)
+           - NOVAK FRANCELLA LLC :  (Accounting(including auditing) | Direct payment from the plan)

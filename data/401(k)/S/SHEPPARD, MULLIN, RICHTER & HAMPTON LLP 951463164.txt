@@ -87,7 +87,7 @@ CA : LOS ANGELES
                  : TRP STABLE VALUE COMMON TRUST FUND
    [503]
     2022: SHEPPARD, MULLIN, RICHTER & HAMPTON, LLP HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Service Providers:
@@ -95,7 +95,7 @@ CA : LOS ANGELES
            - BLUE SHIELD OF CALIFORNIA :  (Claims processing | Employee(plan))
            - INTEGRO USA, INC. :  (Custodial(securities))
     2021: SHEPPARD, MULLIN, RICHTER & HAMPTON, LLP HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Service Providers:
@@ -103,7 +103,7 @@ CA : LOS ANGELES
            - BLUE SHIELD OF CALIFORNIA :  (Claims processing | Employee(plan))
            - INTEGRO USA, INC. :  (Custodial(securities))
     2020: SHEPPARD, MULLIN, RICHTER & HAMPTON, LLP HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L
         Participants: 
         Service Providers:
@@ -111,7 +111,7 @@ CA : LOS ANGELES
            - BLUE SHIELD OF CALIFORNIA :  (Claims processing | Employee(plan))
            - INTEGRO USA, INC. :  (Custodial(securities))
     2019: SHEPPARD, MULLIN, RICHTER & HAMPTON LLP GROUP HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Service Providers:
@@ -119,7 +119,7 @@ CA : LOS ANGELES
            - BLUE SHIELD OF CALIFORNIA :  (Claims processing | Employee(plan))
            - INTEGRO USA, INC. :  (Custodial(securities))
     2018: SHEPPARD, MULLIN, RICHTER & HAMPTON LLP GROUP HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Service Providers:
@@ -127,7 +127,7 @@ CA : LOS ANGELES
            - BLUE SHIELD OF CALIFORNIA :  (Claims processing | Employee(plan))
            - INTEGRO USA, INC. :  (Custodial(securities))
     2017: SHEPPARD, MULLIN, RICHTER & HAMPTON LLP GROUP HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 1189
         Service Providers:
@@ -138,41 +138,28 @@ CA : LOS ANGELES
            - INTEGRO USA, INC. :  (Custodial(securities))
    [504]
     2019: SHEPPARD, MULLIN, RICHTER & HAMPTON LLP GROUP LIFE & ACCIDENTAL DEATH & DISMEMBERMENT
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2018: SHEPPARD, MULLIN, RICHTER & HAMPTON LLP GROUP LIFE & ACCIDENTAL DEATH & DISMEMBERMENT
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2017: SHEPPARD, MULLIN, RICHTER & HAMPTON LLP GROUP LIFE & ACCIDENTAL DEATH & DISMEMBERMENT
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
-        Participants: 
-   [505]
-    2019: SHEPPARD, MULLIN, RICHTER & HAMPTON LLP GROUP TRAVEL ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: SHEPPARD, MULLIN, RICHTER & HAMPTON LLP GROUP TRAVEL ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: SHEPPARD, MULLIN, RICHTER & HAMPTON LLP GROUP TRAVEL ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
         Participants: 
    [508]
     2019: SHEPPARD, MULLIN, RICHTER & HAMPTON LLP LONG TERM DISABILITY INCOME PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2018: SHEPPARD, MULLIN, RICHTER & HAMPTON LLP LONG TERM DISABILITY INCOME PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2017: SHEPPARD, MULLIN, RICHTER & HAMPTON LLP LONG TERM DISABILITY INCOME PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
    [003]
@@ -212,3 +199,16 @@ CA : LOS ANGELES
         Participants: 379
         Assets: 82502156
         $/Participant: 217683
+   [505]
+    2019: SHEPPARD, MULLIN, RICHTER & HAMPTON LLP GROUP TRAVEL ACCIDENT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: SHEPPARD, MULLIN, RICHTER & HAMPTON LLP GROUP TRAVEL ACCIDENT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: SHEPPARD, MULLIN, RICHTER & HAMPTON LLP GROUP TRAVEL ACCIDENT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 

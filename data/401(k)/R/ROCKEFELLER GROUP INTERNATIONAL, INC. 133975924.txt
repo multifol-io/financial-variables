@@ -45,28 +45,28 @@ NY : NEW YORK
         RecordKeeper: FIDELITY INVESTMENTS IN OP CO, INC.
    [501]
     2018: ROCKEFELLER CENTER INC. SALARIED EMPLOYEES GROUP
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident
         Codes:  4A4B4D4E4F4L
         Participants: 
     2017: ROCKEFELLER CENTER INC. SALARIED EMPLOYEES GROUP
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident
         Codes:  4A4B4D4E4F4L
         Participants: 
    [502]
     2022: ROCKEFELLER GROUP HEALTH AND WELFARE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4G4H4I4L4Q
         Participants: 
     2021: ROCKEFELLER GROUP HEALTH AND WELFARE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4G4H4I4L4Q
         Participants: 
     2020: ROCKEFELLER GROUP HEALTH AND WELFARE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4G4H4I4L4Q
         Participants: 
     2019: ROCKEFELLER GROUP HEALTH AND WELFARE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4G4H4I4L4Q
         Participants: 
    [520]
@@ -95,22 +95,13 @@ NY : NEW YORK
         Benefit Category: Healthcare
         Codes:  4A
         Participants: 
-   [508]
-    2018: TRAVEL ACCIDENT PLAN FOR SALARIED EMPLOYEES
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: TRAVEL ACCIDENT PLAN FOR SALARIED EMPLOYEES
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
    [509]
     2018: LONG TERM DISABILITY PLAN FOR SALARIED EMPLOYEES
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2017: LONG TERM DISABILITY PLAN FOR SALARIED EMPLOYEES
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
    [001]
@@ -260,4 +251,13 @@ NY : NEW YORK
     2017: ROCKEFELLER GROUP INTERNATIONAL INC. SEVERANCE PAY PLAN
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [508]
+    2018: TRAVEL ACCIDENT PLAN FOR SALARIED EMPLOYEES
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: TRAVEL ACCIDENT PLAN FOR SALARIED EMPLOYEES
+        Benefit Category: Travel accident
+        Codes:  4L
         Participants: 

@@ -575,9 +575,63 @@ MO : KANSAS CITY
                  : HMK MSTR TRST-SM CAP BLEND
                  : HMK MSTR TRST-SMALL CAP BLEND INDEX
                  : HMK MSTR TRST-US TIPS INDEX
+   [521]
+    2022: RETIREE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2021: RETIREE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Available Investments:
+           - HALLMARK CARDS, INC.
+                 : HALLMARK RETIREE VEBA MASTER TRUST
+    2020: RETIREE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Assets: 77428
+        $/Participant: 
+        Service Providers:
+           - MAYER HOFFMAN MCCANN, PC : AUDITOR (Accounting(including auditing) | Direct payment from the plan)
+        Available Investments:
+           - HALLMARK CARDS, INC.
+                 : HALLMARK RETIREE VEBA MASTER TRUST
+    2019: RETIREE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Service Providers:
+           - MAYER HOFFMAN MCCANN, PC : AUDITOR (Accounting(including auditing) | Direct payment from the plan)
+    2018: RETIREE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Assets: 464581
+        $/Participant: 
+        Service Providers:
+           - MAYER HOFFMAN MCCANN, P.C. : AUDITOR (Accounting(including auditing) | Direct payment from the plan)
+        Available Investments:
+           - HALLMARK CARDS, INC.
+                 : HALLMARK RETIREE VEBA MASTER TRUST
+    2017: RETIREE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Assets: 407607
+        $/Participant: 
+        Service Providers:
+           - MERCER : CONTRACT ADMIN (Contract Administrator | Direct payment from the plan)
+           - MAYER HOFFMAN MCCANN, P.C. : AUDITOR (Accounting(including auditing) | Direct payment from the plan)
+           - CIGNA HEALTH AND LIFE INSURANCE CO :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+           - STATE STREET BANK & TRUST : TRUSTEE (Trustee(directed) | Investment management | Direct payment from the plan)
+        Available Investments:
+           - HALLMARK CARDS, INC.
+                 : HALLMARK RETIREE VEBA MASTER TRUST
    [514]
     2022: HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Assets: 10972110
@@ -590,7 +644,7 @@ MO : KANSAS CITY
            - HALLMARK CARDS, INC.
                  : HALLMARK ACTIVE VEBA TRUST
     2021: HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Assets: 11772138
@@ -603,7 +657,7 @@ MO : KANSAS CITY
            - HALLMARK CARDS, INC.
                  : HALLMARK ACTIVE VEBA TRUST
     2020: HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Assets: 12241176
@@ -616,7 +670,7 @@ MO : KANSAS CITY
            - HALLMARK CARDS, INC.
                  : HALLMARK ACTIVE VEBA TRUST
     2019: HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Assets: 8047821
@@ -628,7 +682,7 @@ MO : KANSAS CITY
            - HALLMARK CARDS, INC.
                  : HALLMARK ACTIVE VEBA TRUST
     2018: HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Assets: 6634947
@@ -640,7 +694,7 @@ MO : KANSAS CITY
            - HALLMARK CARDS, INC.
                  : HALLMARK ACTIVE VEBA TRUST
     2017: HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L
         Participants: 
         Assets: 8987988
@@ -756,60 +810,6 @@ MO : KANSAS CITY
         Participants: 
         Assets: 6581864
         $/Participant: 
-   [521]
-    2022: RETIREE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2021: RETIREE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Available Investments:
-           - HALLMARK CARDS, INC.
-                 : HALLMARK RETIREE VEBA MASTER TRUST
-    2020: RETIREE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Assets: 77428
-        $/Participant: 
-        Service Providers:
-           - MAYER HOFFMAN MCCANN, PC : AUDITOR (Accounting(including auditing) | Direct payment from the plan)
-        Available Investments:
-           - HALLMARK CARDS, INC.
-                 : HALLMARK RETIREE VEBA MASTER TRUST
-    2019: RETIREE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Service Providers:
-           - MAYER HOFFMAN MCCANN, PC : AUDITOR (Accounting(including auditing) | Direct payment from the plan)
-    2018: RETIREE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Assets: 464581
-        $/Participant: 
-        Service Providers:
-           - MAYER HOFFMAN MCCANN, P.C. : AUDITOR (Accounting(including auditing) | Direct payment from the plan)
-        Available Investments:
-           - HALLMARK CARDS, INC.
-                 : HALLMARK RETIREE VEBA MASTER TRUST
-    2017: RETIREE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Assets: 407607
-        $/Participant: 
-        Service Providers:
-           - MERCER : CONTRACT ADMIN (Contract Administrator | Direct payment from the plan)
-           - MAYER HOFFMAN MCCANN, P.C. : AUDITOR (Accounting(including auditing) | Direct payment from the plan)
-           - CIGNA HEALTH AND LIFE INSURANCE CO :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-           - STATE STREET BANK & TRUST : TRUSTEE (Trustee(directed) | Investment management | Direct payment from the plan)
-        Available Investments:
-           - HALLMARK CARDS, INC.
-                 : HALLMARK RETIREE VEBA MASTER TRUST
    [002]
     2022: CASH BALANCE RETIREMENT PLAN OF HALLMARK CARDS, INC.
         Benefit Category: Pension

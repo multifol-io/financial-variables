@@ -61,6 +61,16 @@ IL : CHICAGO
         Available Investments:
            - TIAA-CREF
                  : TIAA REAL ESTATE
+   [514]
+    2017: LOYOLA UNIVERSITY EMPLOYEE DENTAL INSURANCE PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+   [519]
+    2017: GUARDIAN DENTAL MAINTENANCE ORGANIZATION PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [505]
     2017: LOYOLA UNIVERSITY EMPLOYEE BLUE CROSS BLUE SHIELD HEALTH CARE PLAN
         Benefit Category: Healthcare
@@ -73,49 +83,34 @@ IL : CHICAGO
         Participants: 
    [529]
     2022: LOYOLA UNIVERSITY OF CHICAGO HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4G4H4Q
         Participants: 
     2021: LOYOLA UNIVERSITY OF CHICAGO HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4G4H4Q
         Participants: 
     2020: LOYOLA UNIVERSITY OF CHICAGO HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4G4H4Q
         Participants: 
     2019: LOYOLA UNIVERSITY OF CHICAGO HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4G4H4Q
         Participants: 
     2018: LOYOLA UNIVERSITY OF CHICAGO HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4G4H4Q
         Participants: 
    [503]
     2017: LOYOLA UNIVERSITY EMPLOYEES GROUP LIFE INSURANCE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
    [504]
     2017: LOYOLA UNIVERSITY LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
-        Participants: 
-   [514]
-    2017: LOYOLA UNIVERSITY EMPLOYEE DENTAL INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-   [519]
-    2017: GUARDIAN DENTAL MAINTENANCE ORGANIZATION PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-   [522]
-    2017: LOYOLA UNIVERSITY VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
         Participants: 
    [524]
     2017: LOYOLA UNIVERSITY EMPLOYEE ASSISTANCE PLAN
@@ -307,3 +302,8 @@ IL : CHICAGO
                  : OCM HIGH YIELD TRUST
            - WELLINGTON TRUST COMPANY NA
                  : WTC-CIF OPPORTUNISTIC GROWTH PORTFO
+   [522]
+    2017: LOYOLA UNIVERSITY VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 

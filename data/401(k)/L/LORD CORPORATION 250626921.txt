@@ -272,37 +272,54 @@ NC : CARY
                  : PSA NO. 25 STABLE VALUE ACCOUNT
    [502]
     2020: LORD CORPORATION HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2019: LORD CORPORATION HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2018: LORD CORPORATION HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D4Q
         Participants: 
     2017: LORD CORPORATION HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D4Q
         Participants: 
    [501]
     2020: GROUP LIFE & AD&D INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2019: GROUP LIFE & AD&D INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2018: GROUP LIFE & AD&D INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2017: GROUP LIFE & AD&D INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
+        Participants: 
+   [506]
+    2020: LORD CORPORATION LONG TERM DISABILITY
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2019: LORD CORPORATION LONG TERM DISABILITY
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2018: LORD CORPORATION LONG TERM DISABILITY
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2017: LORD CORPORATION LONG TERM DISABILITY
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
    [020]
     2019: LORD CORPORATION SALARIED, HOURLY & EXEMPT EMPLOYEES' SAVINGS TRUST
@@ -387,23 +404,6 @@ NC : CARY
     2017: TRAVEL ACCIDENT
         Benefit Category: Other
         Codes:  4Q
-        Participants: 
-   [506]
-    2020: LORD CORPORATION LONG TERM DISABILITY
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2019: LORD CORPORATION LONG TERM DISABILITY
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2018: LORD CORPORATION LONG TERM DISABILITY
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2017: LORD CORPORATION LONG TERM DISABILITY
-        Benefit Category: Other
-        Codes:  4H
         Participants: 
    [510]
     2020: UNUM GROUP ACCIDENT, HOSPITAL INDEMNITY, AND CRITICAL ILLNESS

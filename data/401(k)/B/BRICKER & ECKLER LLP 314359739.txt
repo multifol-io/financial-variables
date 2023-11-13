@@ -73,25 +73,30 @@ OH : COLUMBUS
                  : INVESCO STABLE VALUE RETIREMENT FUN
            - STATE STREET BANK AND TRUST COMPANY
                  : STATE STREET S&P 500 INDEX NON-LEND
+   [510]
+    2017: BRICKER & ECKLER LLP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [501]
     2022: BRICKER & ECKLER LLP EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2021: BRICKER & ECKLER LLP EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
     2020: BRICKER & ECKLER LLP EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
     2019: BRICKER & ECKLER LLP EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
     2018: BRICKER & ECKLER LLP EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
         Service Providers:
@@ -103,23 +108,18 @@ OH : COLUMBUS
         Participants: 
    [502]
     2017: BRICKER & ECKLER LLP GROUP TERM LIFE INSURANCE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
    [503]
     2017: BRICKER & ECKLER LLP DISABILITY INCOME PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
    [509]
     2017: BRICKER & ECKLER LLP LAWYER/EMPLOYEE ASSISTANCE PROGRAM
         Benefit Category: Other
         Codes:  4Q
-        Participants: 
-   [510]
-    2017: BRICKER & ECKLER LLP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
         Participants: 
    [511]
     2017: BRICKER & ECKLER LLP LONG TERM CARE PLAN
@@ -128,6 +128,6 @@ OH : COLUMBUS
         Participants: 
    [513]
     2017: BRICKER & ECKLER LLP VISION PLAN
-        Benefit Category: Other
+        Benefit Category: Vision
         Codes:  4E
         Participants: 

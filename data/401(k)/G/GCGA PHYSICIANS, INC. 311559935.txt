@@ -52,72 +52,55 @@ OH : CINCINNATI
                  : PUTNAM STABLE VALUE FUND
    [503]
     2020: GCGA PHYSICIANS, INC. HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2019: GCGA PHYSICIANS, INC. HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2018: GCGA PHYSICIANS, INC. HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 135
     2017: GCGA PHYSICIANS, INC. HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 115
    [502]
     2020: GCGA PHYSICIANS, INC. GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2019: GCGA PHYSICIANS, INC. GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2018: GCGA PHYSICIANS, INC. GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 175
     2017: GCGA PHYSICIANS, INC. GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 158
    [501]
     2020: GCGA PHYSICIANS, INC LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2019: GCGA PHYSICIANS, INC LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2018: GCGA PHYSICIANS, INC LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 174
     2017: GCGA PHYSICIANS, INC. LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 158
-   [505]
-    2020: GCGA PHYSICIANS, INC. SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2019: GCGA PHYSICIANS, INC. SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2018: GCGA PHYSICIANS, INC. SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 157
-    2017: GCGA PHYSICIANS, INC. SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 141
    [002]
     2020: GCGA PHYSICIANS, INC. DEFINED BENEFIT PLAN
         Benefit Category: Pension
@@ -129,3 +112,20 @@ OH : CINCINNATI
         Participants: 129
         Assets: 16015551
         $/Participant: 124151
+   [505]
+    2020: GCGA PHYSICIANS, INC. SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2019: GCGA PHYSICIANS, INC. SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2018: GCGA PHYSICIANS, INC. SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 157
+    2017: GCGA PHYSICIANS, INC. SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 141

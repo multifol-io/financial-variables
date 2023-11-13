@@ -93,7 +93,7 @@ PA : YORK
            - SEI INVESTMENTS MANAGEMENT CORP :  (Investment management | Investment management fees paid indirectly by plan)
    [504]
     2021: GLATFELTER INSURANCE GROUP ASSOCIATE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
         Assets: 983533
@@ -101,7 +101,7 @@ PA : YORK
         Service Providers:
            - GROUP BENEFIT SERVICES, INC. :  (Claims processing)
     2020: GLATFELTER INSURANCE GROUP EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
         Assets: 683795
@@ -109,7 +109,7 @@ PA : YORK
         Service Providers:
            - GROUP BENEFIT SERVICES, INC. :  (Claims processing)
     2019: GLATFELTER INSURANCE GROUP EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
         Assets: 160129
@@ -117,7 +117,7 @@ PA : YORK
         Service Providers:
            - GROUP BENEFIT SERVICES, INC. :  (Claims processing)
     2018: GLATFELTER INSURANCE GROUP EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
         Assets: 190545
@@ -125,7 +125,7 @@ PA : YORK
         Service Providers:
            - GROUP BENEFIT SERVICES, INC. :  (Claims processing)
     2017: GLATFELTER INSURANCE GROUP EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
         Assets: 436184
@@ -134,7 +134,7 @@ PA : YORK
            - GROUP BENEFIT SERVICES, INC. :  (Claims processing)
    [002]
     2019: GLATFELTER INSURANCE GROUP MONEY PURCHASE PENSION PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes: 2C2H3H 4B
         Participants: 462
         Assets: 22628088
@@ -145,7 +145,7 @@ PA : YORK
            - MSCI :  (Investment management | Investment management fees paid indirectly by plan)
            - VANGUARD GROUP INC :  (Investment management | Investment management fees paid indirectly by plan)
     2018: GLATFELTER INSURANCE GROUP MONEY PURCHASE PENSION PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes: 2C2H3H 4B
         Participants: 516
         Assets: 23843096
@@ -156,7 +156,7 @@ PA : YORK
            - MSCI :  (Investment management | Investment management fees paid indirectly by plan)
            - VANGUARD GROUP INC :  (Investment management | Investment management fees paid indirectly by plan)
     2017: GLATFELTER INSURANCE GROUP MONEY PURCHASE PENSION PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes: 2C2H 4B
         Participants: 515
         Assets: 26907578
@@ -168,28 +168,53 @@ PA : YORK
            - MSCI :  (Investment management | Investment management fees paid indirectly by plan)
    [502]
     2022: GLATFELTER INSURANCE GROUP -- GROUP LIFE AD&D PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2021: GLATFELTER INSURANCE GROUP -- GROUP LIFE AD&D PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2020: GLATFELTER INSURANCE GROUP -- GROUP LIFE AD&D PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2019: GLATFELTER INSURANCE GROUP -- GROUP LIFE AD&D PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2018: GLATFELTER INSURANCE GROUP -- GROUP LIFE AD&D PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2017: GLATFELTER INSURANCE GROUP -- GROUP LIFE AD&D PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
+        Participants: 
+   [501]
+    2022: GLATFELTER INSURANCE GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2021: GLATFELTER INSURANCE GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2020: GLATFELTER INSURANCE GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2019: GLATFELTER INSURANCE GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2018: GLATFELTER INSURANCE GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2017: GLATFELTER INSURANCE GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
    [002]
     2020: GLATFELTER INSURANCE GROUP MONEY PURCHASE PENSION PLAN
@@ -197,28 +222,3 @@ PA : YORK
         Codes: 2C2H3H 
         Participants: 0
         RecordKeeper: CONRAD SIEGEL
-   [501]
-    2022: GLATFELTER INSURANCE GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2021: GLATFELTER INSURANCE GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2020: GLATFELTER INSURANCE GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2019: GLATFELTER INSURANCE GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2018: GLATFELTER INSURANCE GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2017: GLATFELTER INSURANCE GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 

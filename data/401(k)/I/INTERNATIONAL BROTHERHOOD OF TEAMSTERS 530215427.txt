@@ -2,29 +2,120 @@ DC : WASHINGTON
   INTERNATIONAL BROTHERHOOD OF TEAMSTERS  530215427
    [501]
     2022: HEALTH AND WELFARE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4H4F
         Participants: 770
     2021: HEALTH AND WELFARE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4H4F
         Participants: 762
     2020: HEALTH AND WELFARE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4H4F
         Participants: 757
     2019: HEALTH AND WELFARE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4H4F
         Participants: 762
     2018: HEALTH AND WELFARE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4H4F
         Participants: 754
     2017: HEALTH AND WELFARE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability
         Codes:  4B4H
         Participants: 664
+   [001]
+    2022: INTERNATIONAL BROTHERHOOD OF TEAMSTERS RETIREMENT & FAMILY PROTECTION
+        Benefit Category: Long-term disability, Travel accident, Pension
+        Codes: 1A 4H4L
+        Participants: 510
+        Assets: 144210541
+        $/Participant: 282765
+        RecordKeeper: JOHN D. WARD
+        Available Investments:
+           - INVESCO TRUST COMPANY
+                 : INVESCO BALANCED RISK ALLOCATION
+           - JPMORGAN CHASE BANK, N.A.
+                 : COMINGLED PENSION TRUST FUND (CORE
+           - PANAGORA ASSET MANAGEMENT INC
+                 : PANAGORA GROUP TRUST RISK PARITY MU
+           - PRUDENTIAL INSURANCE COMPANY OF AMERICA
+                 : PGIM REAL ESTATE U.S. DEBT FUND, S.
+           - THE BANK OF NEW YORK MELLON
+                 : BNYM MELLON DB NSL BROAD MKT STK IN
+    2021: INTERNATIONAL BROTHERHOOD OF TEAMSTERS RETIREMENT & FAMILY PROTECTION
+        Benefit Category: Long-term disability, Travel accident, Pension
+        Codes: 1A 4H4L
+        Participants: 566
+        Assets: 218881796
+        $/Participant: 386716
+        RecordKeeper: AMALGAMATED BANK OF NY
+        Available Investments:
+           - INVESCO TRUST COMPANY
+                 : INVESCO BALANCED RISK ALLOCATION
+           - JPMORGAN CHASE BANK, N.A.
+                 : COMINGLED PENSION TRUST FUND (COE B
+           - PANAGORA ASSET MANAGEMENT INC
+                 : PANAGORA GROUP TRUST RISK PARITY MU
+           - THE BANK OF NEW YORK MELLON
+                 : BNYM MELLON DB NSL BROAD MKT STK IN
+    2020: INTERNATIONAL BROTHERHOOD OF TEAMSTERS RETIREMENT & FAMILY PROTECTION
+        Benefit Category: Long-term disability, Travel accident, Pension
+        Codes: 1A 4H4L
+        Participants: 574
+        Assets: 213253935
+        $/Participant: 371522
+        RecordKeeper: AMALGAMATED BANK OF NY
+        Available Investments:
+           - INVESCO TRUST COMPANY
+                 : INVESCO BALANCED RISK ALLOCATION
+           - NORTHERN TRUST GLOBAL INVESTMENT
+                 : NT COLLECTIVE RUSSEL 3000 INDEX FD
+           - PANAGORA ASSET MANAGEMENT INC
+                 : PANAGORA GROUP TRUST RISK PARITY MU
+           - THE BANK OF NEW YORK MELLON
+                 : BNYM MELLON DB NSL BROAD MKT STK IN
+    2019: INTERNATIONAL BROTHERHOOD OF TEAMSTERS RETIREMENT & FAMILY PROTECTION
+        Benefit Category: Long-term disability, Travel accident, Pension
+        Codes: 1A 4H4L
+        Participants: 556
+        Assets: 188965594
+        $/Participant: 339866
+        RecordKeeper: JP MORGAN SECURITIES
+        Available Investments:
+           - INVESCO TRUST COMPANY
+                 : INVESCO BALANCED RISK ALLOCATION
+           - NORTHERN TRUST GLOBAL INVESTMENT
+                 : NT COLLECTIVE RUSSEL 3000 INDEX FD
+           - PANAGORA ASSET MANAGEMENT INC
+                 : PANAGORA GROUP TRUST RISK PARITY MU
+    2018: INTERNATIONAL BROTHERHOOD OF TEAMSTERS RETIREMENT & FAMILY PROTECTION
+        Benefit Category: Long-term disability, Travel accident, Pension
+        Codes: 1A 4H4L
+        Participants: 556
+        Assets: 165508967
+        $/Participant: 297677
+        RecordKeeper: AMALGAMATED BANK OF NY
+        Available Investments:
+           - INVESCO TRUST COMPANY
+                 : INVESCO BALANCED RISK ALLOCATION
+           - NORTHERN TRUST GLOBAL INVESTMENT
+                 : NT COLLECTIVE RUSSEL 3000 INDEX FD
+           - PANAGORA ASSET MANAGEMENT INC
+                 : PANAGORA GROUP TRUST RISK PARITY MU
+    2017: INTERNATIONAL BROTHERHOOD OF TEAMSTERS RETIREMENT & FAMILY PROTECTION
+        Benefit Category: Long-term disability, Travel accident, Pension
+        Codes: 1A 4H4L
+        Participants: 539
+        Assets: 161029119
+        $/Participant: 298755
+        RecordKeeper: PAT COLE
+        Available Investments:
+           - INVESCO TRUST COMPANY
+                 : INVESCO BALANCED-RISK ALLOCATION TR
+           - NORTHERN TRUST GLOBAL INVESTMENT
+                 : NT COLLECTIVE RUSSELL 3000 INDEX FD
    [502]
     2022: INTERNATIONAL BROTHERHOOD OF TEAMSTERS GROUP PERSONAL ACCIDENT
         Benefit Category: Other
@@ -72,94 +163,3 @@ DC : WASHINGTON
            - LABOR BENEFITS, LLC :  (Consulting(general) | Direct payment from the plan)
            - ALAN BILLER ASSOCIATES INC :  (Investment management | Direct payment from the plan)
            - EDELSTEIN & PAYNE :  (Legal | Direct payment from the plan)
-   [001]
-    2022: INTERNATIONAL BROTHERHOOD OF TEAMSTERS RETIREMENT & FAMILY PROTECTION
-        Benefit Category: Pension
-        Codes: 1A 4H4L
-        Participants: 510
-        Assets: 144210541
-        $/Participant: 282765
-        RecordKeeper: JOHN D. WARD
-        Available Investments:
-           - INVESCO TRUST COMPANY
-                 : INVESCO BALANCED RISK ALLOCATION
-           - JPMORGAN CHASE BANK, N.A.
-                 : COMINGLED PENSION TRUST FUND (CORE
-           - PANAGORA ASSET MANAGEMENT INC
-                 : PANAGORA GROUP TRUST RISK PARITY MU
-           - PRUDENTIAL INSURANCE COMPANY OF AMERICA
-                 : PGIM REAL ESTATE U.S. DEBT FUND, S.
-           - THE BANK OF NEW YORK MELLON
-                 : BNYM MELLON DB NSL BROAD MKT STK IN
-    2021: INTERNATIONAL BROTHERHOOD OF TEAMSTERS RETIREMENT & FAMILY PROTECTION
-        Benefit Category: Pension
-        Codes: 1A 4H4L
-        Participants: 566
-        Assets: 218881796
-        $/Participant: 386716
-        RecordKeeper: AMALGAMATED BANK OF NY
-        Available Investments:
-           - INVESCO TRUST COMPANY
-                 : INVESCO BALANCED RISK ALLOCATION
-           - JPMORGAN CHASE BANK, N.A.
-                 : COMINGLED PENSION TRUST FUND (COE B
-           - PANAGORA ASSET MANAGEMENT INC
-                 : PANAGORA GROUP TRUST RISK PARITY MU
-           - THE BANK OF NEW YORK MELLON
-                 : BNYM MELLON DB NSL BROAD MKT STK IN
-    2020: INTERNATIONAL BROTHERHOOD OF TEAMSTERS RETIREMENT & FAMILY PROTECTION
-        Benefit Category: Pension
-        Codes: 1A 4H4L
-        Participants: 574
-        Assets: 213253935
-        $/Participant: 371522
-        RecordKeeper: AMALGAMATED BANK OF NY
-        Available Investments:
-           - INVESCO TRUST COMPANY
-                 : INVESCO BALANCED RISK ALLOCATION
-           - NORTHERN TRUST GLOBAL INVESTMENT
-                 : NT COLLECTIVE RUSSEL 3000 INDEX FD
-           - PANAGORA ASSET MANAGEMENT INC
-                 : PANAGORA GROUP TRUST RISK PARITY MU
-           - THE BANK OF NEW YORK MELLON
-                 : BNYM MELLON DB NSL BROAD MKT STK IN
-    2019: INTERNATIONAL BROTHERHOOD OF TEAMSTERS RETIREMENT & FAMILY PROTECTION
-        Benefit Category: Pension
-        Codes: 1A 4H4L
-        Participants: 556
-        Assets: 188965594
-        $/Participant: 339866
-        RecordKeeper: JP MORGAN SECURITIES
-        Available Investments:
-           - INVESCO TRUST COMPANY
-                 : INVESCO BALANCED RISK ALLOCATION
-           - NORTHERN TRUST GLOBAL INVESTMENT
-                 : NT COLLECTIVE RUSSEL 3000 INDEX FD
-           - PANAGORA ASSET MANAGEMENT INC
-                 : PANAGORA GROUP TRUST RISK PARITY MU
-    2018: INTERNATIONAL BROTHERHOOD OF TEAMSTERS RETIREMENT & FAMILY PROTECTION
-        Benefit Category: Pension
-        Codes: 1A 4H4L
-        Participants: 556
-        Assets: 165508967
-        $/Participant: 297677
-        RecordKeeper: AMALGAMATED BANK OF NY
-        Available Investments:
-           - INVESCO TRUST COMPANY
-                 : INVESCO BALANCED RISK ALLOCATION
-           - NORTHERN TRUST GLOBAL INVESTMENT
-                 : NT COLLECTIVE RUSSEL 3000 INDEX FD
-           - PANAGORA ASSET MANAGEMENT INC
-                 : PANAGORA GROUP TRUST RISK PARITY MU
-    2017: INTERNATIONAL BROTHERHOOD OF TEAMSTERS RETIREMENT & FAMILY PROTECTION
-        Benefit Category: Pension
-        Codes: 1A 4H4L
-        Participants: 539
-        Assets: 161029119
-        $/Participant: 298755
-        RecordKeeper: PAT COLE
-        Available Investments:
-           - INVESCO TRUST COMPANY
-                 : INVESCO BALANCED-RISK ALLOCATION TR
-           - NORTHERN TRUST GLOBAL INVESTMENT
-                 : NT COLLECTIVE RUSSELL 3000 INDEX FD

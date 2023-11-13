@@ -90,49 +90,70 @@ DC : WASHINGTON
                  : PIMCO DIVERSIFIED REAL ASSET
    [516]
     2022: STEPTOE AND JOHNSON LLP WRAP BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2021: STEPTOE AND JOHNSON LLP WRAP BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2020: STEPTOE AND JOHNSON LLP WRAP BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2019: STEPTOE AND JOHNSON LLP WRAP BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2018: STEPTOE AND JOHNSON LLP WRAP BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2017: STEPTOE AND JOHNSON LLP WRAP BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
    [513]
     2021: STEPTOE AND JOHNSON LLP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2020: STEPTOE AND JOHNSON LLP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2019: STEPTOE AND JOHNSON LLP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2018: STEPTOE AND JOHNSON LLP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: STEPTOE AND JOHNSON LLP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
+        Participants: 
+   [502]
+    2021: STEPTOE AND JOHNSON LLP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2020: STEPTOE AND JOHNSON LLP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2019: STEPTOE AND JOHNSON LLP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2018: STEPTOE AND JOHNSON LLP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2017: STEPTOE AND JOHNSON LLP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
    [005]
     2019: STEPTOE & JOHNSON LLP PROFIT SHARING PLAN FOR CLASS E EMPLOYEES
@@ -220,48 +241,6 @@ DC : WASHINGTON
                  : LOOMIS SAYLES CORE PLUS FIXINC
            - SEI TRUST COMPANY
                  : PIMCO DIVERSIFIED REAL ASSET
-   [502]
-    2021: STEPTOE AND JOHNSON LLP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2020: STEPTOE AND JOHNSON LLP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2019: STEPTOE AND JOHNSON LLP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2018: STEPTOE AND JOHNSON LLP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2017: STEPTOE AND JOHNSON LLP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-   [504]
-    2021: STEPTOE AND JOHNSON LLP ACCIDENTAL DEATH AND DISMEMBERMENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: STEPTOE AND JOHNSON LLP ACCIDENTAL DEATH AND DISMEMBERMENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: STEPTOE AND JOHNSON LLP ACCIDENTAL DEATH AND DISMEMBERMENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: STEPTOE AND JOHNSON LLP ACCIDENTAL DEATH AND DISMEMBERMENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: STEPTOE AND JOHNSON LLP ACCIDENTAL DEATH AND DISMEMBERMENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
    [004]
     2020: STEPTOE & JOHNSON LLP DEFINED BENEFIT PLAN
         Benefit Category: Pension
@@ -359,3 +338,24 @@ DC : WASHINGTON
         Participants: 102
         Assets: 9600
         $/Participant: 94
+   [504]
+    2021: STEPTOE AND JOHNSON LLP ACCIDENTAL DEATH AND DISMEMBERMENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: STEPTOE AND JOHNSON LLP ACCIDENTAL DEATH AND DISMEMBERMENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: STEPTOE AND JOHNSON LLP ACCIDENTAL DEATH AND DISMEMBERMENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: STEPTOE AND JOHNSON LLP ACCIDENTAL DEATH AND DISMEMBERMENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: STEPTOE AND JOHNSON LLP ACCIDENTAL DEATH AND DISMEMBERMENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 

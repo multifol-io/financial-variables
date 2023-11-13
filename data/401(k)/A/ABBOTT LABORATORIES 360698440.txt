@@ -217,52 +217,52 @@ IL : ABBOTT PARK
                  : WELLINGTON MID CAP GROWTH FUND S1
    [501]
     2022: ABBOTT LABORATORIES HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2021: ABBOTT LABORATORIES HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2020: ABBOTT LABORATORIES HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2019: ABBOTT LABORATORIES HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2018: ABBOTT LABORATORIES HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2017: ABBOTT LABORATORIES HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
    [570]
     2022: ABBOTT LABORATORIES FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2021: ABBOTT LABORATORIES FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2020: ABBOTT LABORATORIES FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2019: ABBOTT LABORATORIES FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2018: ABBOTT LABORATORIES FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2017: ABBOTT LABORATORIES FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
    [571]
@@ -292,15 +292,15 @@ IL : ABBOTT PARK
         Participants: 
    [551]
     2022: ABBOTT LABORATORIES LIFE ACCIDENT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2021: ABBOTT LABORATORIES LIFE ACCIDENT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2020: ABBOTT LABORATORIES LIFE ACCIDENT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
         Assets: 1575
@@ -308,7 +308,7 @@ IL : ABBOTT PARK
         Service Providers:
            - NORTHERN TRUST CORPORATION :  (Custodial(other than securities) | Direct payment from the plan)
     2019: ABBOTT LABORATORIES LIFE ACCIDENT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
         Assets: 385808
@@ -316,7 +316,7 @@ IL : ABBOTT PARK
         Service Providers:
            - NORTHERN TRUST CORPORATION :  (Custodial(other than securities) | Direct payment from the plan)
     2018: ABBOTT LABORATORIES LIFE ACCIDENT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
         Assets: 2115648
@@ -324,7 +324,7 @@ IL : ABBOTT PARK
         Service Providers:
            - NORTHERN TRUST CORPORATION :  (Custodial(other than securities) | Direct payment from the plan)
     2017: ABBOTT LABORATORIES LIFE ACCIDENT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
         Assets: 8849336
@@ -333,31 +333,56 @@ IL : ABBOTT PARK
            - NORTHERN TRUST CORPORATION :  (Custodial(other than securities) | Direct payment from the plan)
    [573]
     2022: ABBOTT LABORATORIES RETIREE LIFE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2021: ABBOTT LABORATORIES RETIREE LIFE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2020: ABBOTT LABORATORIES RETIREE LIFE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2019: ABBOTT LABORATORIES RETIREE LIFE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2018: ABBOTT LABORATORIES RETIREE LIFE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: ABBOTT LABORATORIES RETIREE LIFE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
         Service Providers:
            - SECURIAN FINANCIAL GROUP INC :  (Claims processing | Contract Administrator | Direct payment from the plan)
+   [504]
+    2022: ABBOTT LABORATORIES LONG-TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2021: ABBOTT LABORATORIES LONG-TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2020: ABBOTT LABORATORIES LONG-TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2019: ABBOTT LABORATORIES LONG-TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2018: ABBOTT LABORATORIES LONG-TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2017: ABBOTT LABORATORIES LONG-TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
    [337]
     2022: ABBOTT LABORATORIES ANNUITY RETIREMENT TRUST
         Benefit Category: Other
@@ -506,56 +531,6 @@ IL : ABBOTT PARK
                  : RHUMBLINE MID-CAP IX FD POOLED TRST
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CIP DB - AA SOLI
-   [504]
-    2022: ABBOTT LABORATORIES LONG-TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2021: ABBOTT LABORATORIES LONG-TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2020: ABBOTT LABORATORIES LONG-TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2019: ABBOTT LABORATORIES LONG-TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2018: ABBOTT LABORATORIES LONG-TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2017: ABBOTT LABORATORIES LONG-TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-   [521]
-    2022: ABBOTT LABORATORIES TEMPORARY DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2021: ABBOTT LABORATORIES TEMPORARY DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2020: ABBOTT LABORATORIES TEMPORARY DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2019: ABBOTT LABORATORIES TEMPORARY DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2018: ABBOTT LABORATORIES TEMPORARY DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2017: ABBOTT LABORATORIES TEMPORARY DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
    [522]
     2022: ABBOTT LABORATORIES WORKERS' COMPENSATION SUPPLEMENT
         Benefit Category: Other
@@ -870,4 +845,29 @@ IL : ABBOTT PARK
     2017: ABBOTT LABORATORIES TRANSITIONAL PAY PLAN
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [521]
+    2022: ABBOTT LABORATORIES TEMPORARY DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2021: ABBOTT LABORATORIES TEMPORARY DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2020: ABBOTT LABORATORIES TEMPORARY DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2019: ABBOTT LABORATORIES TEMPORARY DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2018: ABBOTT LABORATORIES TEMPORARY DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2017: ABBOTT LABORATORIES TEMPORARY DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
         Participants: 

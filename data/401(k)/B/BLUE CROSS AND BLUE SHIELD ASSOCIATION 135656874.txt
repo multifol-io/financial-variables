@@ -235,7 +235,7 @@ IL : CHICAGO
                  : WF STABLE VALUE FUND
    [504]
     2022: BC AND BS ASSOCIATION HEALTH AND LIFE INSURANCE PROGRAM
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 89218925
@@ -250,7 +250,7 @@ IL : CHICAGO
                  : COM DAILY S&P 500 EQUITY FUND
                  : COM SHORT TERM INVT FUND
     2021: BC AND BS ASSOCIATION HEALTH AND LIFE INSURANCE PROGRAM
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 108677520
@@ -265,7 +265,7 @@ IL : CHICAGO
                  : COM DAILY S&P 500 EQUITY FUND
                  : COM SHORT TERM INVT FUND
     2020: BC AND BS ASSOCIATION HEALTH AND LIFE INSURANCE PROGRAM
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 96922977
@@ -281,7 +281,7 @@ IL : CHICAGO
                  : COM DAILY S&P 500 EQUITY FUND
                  : COM SHORT TERM INVT FUND
     2019: BC AND BS ASSOCIATION HEALTH AND LIFE INSURANCE PROGRAM
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 87935283
@@ -296,7 +296,7 @@ IL : CHICAGO
                  : COM DAILY S&P 500 EQUITY FUND
                  : COM SHORT TERM INVT FUND
     2018: BC AND BS ASSOCIATION HEALTH AND LIFE INSURANCE PROGRAM
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 76228896
@@ -312,7 +312,7 @@ IL : CHICAGO
                  : COM DAILY S&P 500 EQUITY FUND
                  : COM SHORT TERM INVT FUND
     2017: BC AND BS ASSOCIATION HEALTH AND LIFE INSURANCE PROGRAM
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 76610025
@@ -328,92 +328,67 @@ IL : CHICAGO
                  : COM DAILY S&P 500 EQUITY FUND
    [508]
     2022: BC AND BS ASSOCIATION FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2021: BC AND BS ASSOCIATION FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2020: BC AND BS ASSOCIATION FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2019: BC AND BS ASSOCIATION FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2018: BC AND BS ASSOCIATION FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2017: BC AND BS ASSOCIATION FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
    [501]
     2018: BLUE CROSS AND BLUE SHIELD ASSOCIATION LEGACY LONG TERM DISABILITY PROGRAM
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 0
         Available Investments:
            - NORTHERN TRUST COMPANY
                  : COMMON SHORT TERM INVESTMENT FUND
     2017: BLUE CROSS AND BLUE SHIELD ASSOCIATION LEGACY LONG TERM DISABILITY PROGRAM
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
         Available Investments:
            - NORTHERN TRUST COMPANY
                  : COMMON SHORT TERM INVESTMENT FUND
-   [507]
-    2022: BLUE CROSS AND BLUE SHIELD ASSOC BUSINESS TRAVEL ACCIDENT
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2021: BLUE CROSS AND BLUE SHIELD ASSOC BUSINESS TRAVEL ACCIDENT
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: BLUE CROSS AND BLUE SHIELD ASSOC BUSINESS TRAVEL ACCIDENT
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: BLUE CROSS AND BLUE SHIELD ASSOC BUSINESS TRAVEL ACCIDENT
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: BLUE CROSS AND BLUE SHIELD ASSOC BUSINESS TRAVEL ACCIDENT
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: BLUE CROSS AND BLUE SHIELD ASSOC BUSINESS TRAVEL ACCIDENT
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
    [515]
     2022: BLUE CROSS BLUE SHIELD ASSOCIATION LONG TERM DISABILITY PROGRAM
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2021: BLUE CROSS BLUE SHIELD ASSOCIATION LONG TERM DISABILITY PROGRAM
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2020: BLUE CROSS BLUE SHIELD ASSOCIATION LONG TERM DISABILITY PROGRAM
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2019: BLUE CROSS BLUE SHIELD ASSOCIATION LONG TERM DISABILITY PROGRAM
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2018: BLUE CROSS BLUE SHIELD ASSOCIATION LONG TERM DISABILITY PROGRAM
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2017: BLUE CROSS BLUE SHIELD ASSOCIATION LONG TERM DISABILITY PROGRAM
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
    [001]
@@ -553,3 +528,28 @@ IL : CHICAGO
         Available Investments:
            - BLUE CROSS AND BLUE SHIELD ASSOC.
                  : NATIONAL RETIREMENT TRUST
+   [507]
+    2022: BLUE CROSS AND BLUE SHIELD ASSOC BUSINESS TRAVEL ACCIDENT
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2021: BLUE CROSS AND BLUE SHIELD ASSOC BUSINESS TRAVEL ACCIDENT
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: BLUE CROSS AND BLUE SHIELD ASSOC BUSINESS TRAVEL ACCIDENT
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: BLUE CROSS AND BLUE SHIELD ASSOC BUSINESS TRAVEL ACCIDENT
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: BLUE CROSS AND BLUE SHIELD ASSOC BUSINESS TRAVEL ACCIDENT
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: BLUE CROSS AND BLUE SHIELD ASSOC BUSINESS TRAVEL ACCIDENT
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 

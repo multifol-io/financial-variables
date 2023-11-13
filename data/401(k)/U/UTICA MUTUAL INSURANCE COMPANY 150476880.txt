@@ -87,27 +87,27 @@ NY : NEW HARTFORD
                  : VFTC RETIREMENT SAVINGS TRUST III
    [503]
     2022: UTICA MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4G4H4I4L4Q
         Participants: 
     2021: UTICA MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4G4H4Q
         Participants: 
     2020: UTICA MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4G4H4Q
         Participants: 
     2019: UTICA MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4G4H4Q
         Participants: 
     2018: UTICA MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Vision, Long-term disability
         Codes:  4A4E4Q4H4G4B
         Participants: 
     2017: UTICA MUTUAL INSURANCE COMPANY EMPLOYEE AND DEPENDENT MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E4Q
         Participants: 
    [510]
@@ -133,60 +133,39 @@ NY : NEW HARTFORD
         Participants: 409
    [525]
     2022: UTICA MUTUAL INSURANCE COMPANY RETIREE HEALTH PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance
         Codes:  4A4B4Q
         Participants: 
     2021: UTICA MUTUAL INSURANCE COMPANY RETIREE HEALTH PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance
         Codes:  4A4B4Q
         Participants: 
     2020: UTICA MUTUAL INSURANCE COMPANY RETIREE HEALTH PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance
         Codes:  4A4B4Q
         Participants: 
     2019: UTICA MUTUAL INSURANCE COMPANY RETIREE HEALTH PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance
         Codes:  4A4B4Q
         Participants: 
     2018: UTICA MUTUAL INSURANCE COMPANY RETIREE HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E4Q
         Participants: 
     2017: UTICA MUTUAL INSURANCE COMPANY RETIREE HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E4Q
         Participants: 
    [501]
     2017: GROUP INSURANCE PLAN OF UTICA MUTUAL INSURANCE EMPLOYEES
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 0
    [502]
     2017: LONG TERM DISABILITY PLAN OF UTICA MUTUAL INSURANCE COMPANY
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 0
-   [508]
-    2021: GROUP TRAVEL ACCIDENT
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 0
-    2020: GROUP TRAVEL ACCIDENT
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 1301
-    2019: GROUP TRAVEL ACCIDENT
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 1136
-    2018: GROUP TRAVEL ACCIDENT
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 1111
-    2017: GROUP TRAVEL ACCIDENT
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 1071
    [511]
     2021: UTICA MUTUAL INSURANCE COMPANY RETIREE COST OF LIVING SUPPLEMENT
         Benefit Category: Other
@@ -208,34 +187,6 @@ NY : NEW HARTFORD
         Benefit Category: Other
         Codes:  4Q
         Participants: 150
-   [513]
-    2021: UTICA MUTUAL INSURANCE COMPANY SALARY DEATH BENEFIT PROGRAM
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 0
-    2020: UTICA MUTUAL INSURANCE COMPANY SALARY DEATH BENEFIT PROGRAM
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 1291
-    2019: UTICA MUTUAL INSURANCE COMPANY SALARY DEATH BENEFIT PROGRAM
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 1280
-    2018: UTICA MUTUAL INSURANCE COMPANY SALARY DEATH BENEFIT PROGRAM
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 1100
-    2017: UTICA MUTUAL INSURANCE COMPANY SALARY DEATH BENEFIT PROGRAM
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 1058
-   [515]
-    2017: GROUP SHORT TERM DISABILITY PLAN OF UTICA MUTUAL INSURANCE COMPANY
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 0
-        Service Providers:
-           - LIBERTY LIFE ASSURANCE COMPANY :  ()
    [002]
     2022: RETIREMENT INCOME PLAN OF UTICA MUTUAL INSURANCE COMPANY
         Benefit Category: Pension
@@ -300,3 +251,52 @@ NY : NEW HARTFORD
         Benefit Category: Severance
         Codes:  4I
         Participants: 1082
+   [515]
+    2017: GROUP SHORT TERM DISABILITY PLAN OF UTICA MUTUAL INSURANCE COMPANY
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 0
+        Service Providers:
+           - LIBERTY LIFE ASSURANCE COMPANY :  ()
+   [508]
+    2021: GROUP TRAVEL ACCIDENT
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 0
+    2020: GROUP TRAVEL ACCIDENT
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 1301
+    2019: GROUP TRAVEL ACCIDENT
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 1136
+    2018: GROUP TRAVEL ACCIDENT
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 1111
+    2017: GROUP TRAVEL ACCIDENT
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 1071
+   [513]
+    2021: UTICA MUTUAL INSURANCE COMPANY SALARY DEATH BENEFIT PROGRAM
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 0
+    2020: UTICA MUTUAL INSURANCE COMPANY SALARY DEATH BENEFIT PROGRAM
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 1291
+    2019: UTICA MUTUAL INSURANCE COMPANY SALARY DEATH BENEFIT PROGRAM
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 1280
+    2018: UTICA MUTUAL INSURANCE COMPANY SALARY DEATH BENEFIT PROGRAM
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 1100
+    2017: UTICA MUTUAL INSURANCE COMPANY SALARY DEATH BENEFIT PROGRAM
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 1058

@@ -112,7 +112,7 @@ TX : HOUSTON
                  : BAKER BOTTS LLP DC PLC MASTER TRUST
    [501]
     2022: BAKER & BOTTS L.L.P. EMPLOYEE HEALTH CARE TRUST
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
         Assets: 7804633
@@ -122,7 +122,7 @@ TX : HOUSTON
            - PRINCIPAL BANK :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
     2021: BAKER & BOTTS L.L.P. EMPLOYEE HEALTH CARE TRUST
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
         Assets: 7386009
@@ -132,7 +132,7 @@ TX : HOUSTON
            - WELLS FARGO BANK :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
     2020: BAKER & BOTTS L.L.P. EMPLOYEE HEALTH CARE TRUST
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
         Assets: 6940660
@@ -142,7 +142,7 @@ TX : HOUSTON
            - WELLS FARGO BANK :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - UNITED HEALTCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
     2019: BAKER & BOTTS L.L.P. EMPLOYEE HEALTH CARE TRUST
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
         Assets: 3789441
@@ -152,7 +152,7 @@ TX : HOUSTON
            - UNITED HEALTCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
            - WELLS FARGO BANK :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
     2018: BAKER & BOTTS L.L.P. EMPLOYEE HEALTH CARE TRUST
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
         Assets: 3938549
@@ -162,7 +162,7 @@ TX : HOUSTON
            - UNITED HEALTCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
            - WELLS FARGO BANK :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
     2017: BAKER & BOTTS L.L.P. EMPLOYEE HEALTH CARE TRUST
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
         Assets: 1822498
@@ -172,50 +172,75 @@ TX : HOUSTON
            - WELLS FARGO BANK :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
    [502]
     2022: BAKER BOTTS L.L.P. GROUP ACCIDENT INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2021: BAKER BOTTS L.L.P. GROUP ACCIDENT INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
    [503]
     2022: BAKER BOTTS GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2021: BAKER BOTTS GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2020: BAKER BOTTS GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2019: BAKER BOTTS GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2018: BAKER BOTTS GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: BAKER BOTTS GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
    [505]
     2019: BAKER BOTTS LLP GROUP LIFE, ACCIDENTAL DEATH AND DISMEMBERMENT AND LONG TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability
         Codes:  4B4H4Q4R
         Participants: 
     2018: BAKER BOTTS LLP GROUP LIFE, ACCIDENTAL DEATH AND DISMEMBERMENT AND LONG TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability
         Codes:  4B4H4Q
         Participants: 
     2017: BAKER BOTTS LLP GROUP LIFE, ACCIDENTAL DEATH AND DISMEMBERMENT AND LONG TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability
         Codes:  4B4H4Q
+        Participants: 
+   [507]
+    2022: BAKER BOTTS L.L.P. LONG-TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2021: BAKER BOTTS L.L.P. LONG-TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2020: BAKER BOTTS L.L.P. LONG-TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2019: BAKER BOTTS L.L.P. LONG-TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2018: BAKER BOTTS L.L.P. LONG-TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2017: BAKER BOTTS L.L.P. LONG-TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
    [100]
     2022: BAKER BOTTS L.L.P. DC PLANS MASTER TRUST
@@ -285,31 +310,6 @@ TX : HOUSTON
     2017: BAKER BOTTS L.L.P. GROUP ACCIDENT INSURANCE PLAN
         Benefit Category: Other
         Codes:  4Q
-        Participants: 
-   [507]
-    2022: BAKER BOTTS L.L.P. LONG-TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2021: BAKER BOTTS L.L.P. LONG-TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2020: BAKER BOTTS L.L.P. LONG-TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2019: BAKER BOTTS L.L.P. LONG-TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2018: BAKER BOTTS L.L.P. LONG-TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2017: BAKER BOTTS L.L.P. LONG-TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
         Participants: 
    [002]
     2022: BAKER BOTTS L.L.P. RETIREMENT PLAN

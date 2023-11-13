@@ -40,48 +40,38 @@ WA : EDMONDS
         $/Participant: 212233
         RecordKeeper: INVESECO
    [501]
+    2020: RICK STEVES' EUROPE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D4R
+        Participants: 
+    2019: RICK STEVES' EUROPE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
     2022: RICK STEVES' EUROPE DENTAL PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q4R
         Participants: 
     2021: RICK STEVES' EUROPE DENTAL PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4F4H4L4Q
         Participants: 
    [502]
     2020: RICK STEVES' EUROPE LIFE AND AD&D PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2019: RICK STEVES' EUROPE LIFE AND AD&D PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
-        Participants: 
-   [501]
-    2020: RICK STEVES' EUROPE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D4R
-        Participants: 
-    2019: RICK STEVES' EUROPE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-   [503]
-    2020: RICK STEVES' EUROPE STD PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2019: RICK STEVES' EUROPE STD PLAN
-        Benefit Category: Other
-        Codes:  4F
         Participants: 
    [504]
     2020: RICK STEVES' EUROPE LTD PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2019: RICK STEVES' EUROPE LTD PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
    [505]
@@ -92,4 +82,13 @@ WA : EDMONDS
     2019: RICK STEVES' EUROPE EAP PLAN
         Benefit Category: Other
         Codes:  4Q
+        Participants: 
+   [503]
+    2020: RICK STEVES' EUROPE STD PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2019: RICK STEVES' EUROPE STD PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
         Participants: 

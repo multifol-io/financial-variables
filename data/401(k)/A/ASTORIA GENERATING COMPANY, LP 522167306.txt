@@ -123,12 +123,28 @@ CT : STAMFORD
            - ASTORIA GENERATING COMPANY, L.P.
                  : ASTORIA GENERATING CO. MASTER TRUST
    [501]
+    2022: ASTORIA GENERATING COMPANY DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2021: ASTORIA GENERATING COMPANY DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2020: ASTORIA GENERATING COMPANY DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2018: ASTORIA GENERATING COMPANY DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
     2019: ASTORIA GENERATING COMPANY MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2017: ASTORIA GENERATING COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Travel accident
         Codes:  4A4D4L
         Participants: 
    [502]
@@ -151,19 +167,19 @@ CT : STAMFORD
         Participants: 
    [502]
     2022: ASTORIA GENERATING COMPANY LIFE, ACCIDENTAL DEATH & DISMEMBERMENT AND LONG TERM DISABILITY PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability
         Codes:  4B4H4Q
         Participants: 
     2021: ASTORIA GENERATING COMPANY LIFE, ACCIDENTAL DEATH & DISMEMBERMENT AND LONG TERM DISABILITY PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability
         Codes:  4B4H4Q
         Participants: 
     2020: ASTORIA GENERATING COMPANY LIFE, ACCIDENTAL DEATH & DISMEMBERMENT AND LONG TERM DISABILITY PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability
         Codes:  4B4H4Q
         Participants: 
     2019: ASTORIA GENERATING COMPANY LIFE, ACCIDENTAL DEATH & DISMEMBERMENT AND LONG TERM DISABILITY PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability
         Codes:  4B4H
         Participants: 
    [006]
@@ -234,44 +250,6 @@ CT : STAMFORD
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST
-   [501]
-    2022: ASTORIA GENERATING COMPANY DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2021: ASTORIA GENERATING COMPANY DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2020: ASTORIA GENERATING COMPANY DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2018: ASTORIA GENERATING COMPANY DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-   [503]
-    2022: ASTORIA GENERATING COMPANY BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2021: ASTORIA GENERATING COMPANY BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: ASTORIA GENERATING COMPANY BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: ASTORIA GENERATING COMPANY BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: ASTORIA GENERATING COMPANY BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
    [003]
     2022: ASTORIA GENERATING COMPANY, LP RETIREMENT PLAN
         Benefit Category: Pension
@@ -328,3 +306,24 @@ CT : STAMFORD
            - HEWITT ASSOCIATES :  (Actuarial | Direct payment from the plan)
            - THE VANGUARD GROUP, INC. : TRUSTEE (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | 'Soft dollars' commissions)
            - AON CONSULTING :  (Consulting(general) | Direct payment from the plan)
+   [503]
+    2022: ASTORIA GENERATING COMPANY BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2021: ASTORIA GENERATING COMPANY BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: ASTORIA GENERATING COMPANY BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: ASTORIA GENERATING COMPANY BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: ASTORIA GENERATING COMPANY BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 

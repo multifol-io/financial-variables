@@ -235,50 +235,45 @@ VT : WILLISTON
                  : PRINCIPAL BOND MKT INDEX SA-R5
    [501]
     2020: NEW ENGLAND FEDERAL CREDIT UNION FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4R
         Participants: 
     2019: NEW ENGLAND FEDERAL CREDIT UNION FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2018: NEW ENGLAND FEDERAL CREDIT UNION FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2017: NEW ENGLAND FEDERAL CREDIT UNION FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
    [502]
     2022: NEW ENGLAND FEDERAL CREDIT UNION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2021: NEW ENGLAND FEDERAL CREDIT UNION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2020: NEW ENGLAND FEDERAL CREDIT UNION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
         Codes:  4A4D4B4F4H4Q
         Participants: 
     2019: NEW ENGLAND FEDERAL CREDIT UNION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
         Codes:  4A4D4B4F4H4Q
         Participants: 
     2018: NEW ENGLAND FEDERAL CREDIT UNION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
         Codes:  4A4D4B4F4H4Q
         Participants: 
     2017: NEW ENGLAND FEDERAL CREDIT UNION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
         Codes:  4A4D4B4F4H4Q
-        Participants: 
-   [503]
-    2020: NEW ENGLAND FEDERAL CREDIT UNION VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
         Participants: 
    [001]
     2022: NEW ENGLAND FEDERAL CREDIT UNION DEFINED BENEFIT PLAN AND TRUST
@@ -357,3 +352,8 @@ VT : WILLISTON
                  : PRIN SMCAP S&P 600 INDEX SA-R5
                  : PRINCIPAL BOND MKT INDEX SA-R5
                  : PRINCIPAL MIDCAP SEP ACCT-R5
+   [503]
+    2020: NEW ENGLAND FEDERAL CREDIT UNION VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 

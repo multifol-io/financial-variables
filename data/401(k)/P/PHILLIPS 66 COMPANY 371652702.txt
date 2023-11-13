@@ -279,7 +279,7 @@ TX : HOUSTON
                  : VFTC TARGET RET INCOME TR II
    [501]
     2022: PHILLIPS 66 MEDICAL AND DENTAL ASSISTANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Service Providers:
@@ -288,7 +288,7 @@ TX : HOUSTON
            - CVS PHARMACY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
     2021: PHILLIPS 66 MEDICAL AND DENTAL ASSISTANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Service Providers:
@@ -297,7 +297,7 @@ TX : HOUSTON
            - CVS PHARMACY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
     2020: PHILLIPS 66 MEDICAL AND DENTAL ASSISTANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Service Providers:
@@ -306,7 +306,7 @@ TX : HOUSTON
            - CVS PHARMACY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
     2019: PHILLIPS 66 MEDICAL AND DENTAL ASSISTANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Service Providers:
@@ -315,7 +315,7 @@ TX : HOUSTON
            - CVS PHARMACY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Copying and duplicating)
     2018: PHILLIPS 66 MEDICAL AND DENTAL ASSISTANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Service Providers:
@@ -324,7 +324,7 @@ TX : HOUSTON
            - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - CVS PHARMACY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
     2017: PHILLIPS 66 MEDICAL AND DENTAL ASSISTANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Service Providers:
@@ -359,53 +359,28 @@ TX : HOUSTON
         Participants: 
    [502]
     2022: PHILLIPS 66 GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2021: PHILLIPS 66 GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2020: PHILLIPS 66 GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2019: PHILLIPS 66 GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2018: PHILLIPS 66 GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2017: PHILLIPS 66 GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
-        Participants: 
-   [503]
-    2022: PHILLIPS 66 DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2021: PHILLIPS 66 DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2020: PHILLIPS 66 DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2019: PHILLIPS 66 DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2018: PHILLIPS 66 DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H4F
-        Participants: 
-    2017: PHILLIPS 66 DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H4F
         Participants: 
    [506]
     2022: PHILLIPS 66 EMPLOYEE ASSISTANCE PLAN
@@ -723,4 +698,29 @@ TX : HOUSTON
     2017: PHILLIPS 66 SEVERANCE PAY PLAN
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [503]
+    2022: PHILLIPS 66 DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2021: PHILLIPS 66 DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2020: PHILLIPS 66 DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2019: PHILLIPS 66 DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2018: PHILLIPS 66 DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4H4F
+        Participants: 
+    2017: PHILLIPS 66 DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4H4F
         Participants: 

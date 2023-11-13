@@ -45,36 +45,23 @@ DC : WASHINGTON
         RecordKeeper: NEW YORK LIFE INSURANCE COMPANY
    [501]
     2018: HEALTH AND WELFARE PLAN FOR EMPLOYEES OF NUCLEAR ENERGY INSTITUTE
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2017: HEALTH AND WELFARE PLAN FOR EMPLOYEES OF NUCLEAR ENERGY INSTITUTE
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
    [507]
     2018: GROUP LIFE AND ACCIDENTAL DEATH & DISMEMBERMENT INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2017: GROUP LIFE AND ACCIDENTAL DEATH & DISMEMBERMENT INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
-   [502]
-    2018: GROUP SHORT AND LONG TERM DISABILITY BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4F4H4R
-        Participants: 
-    2017: GROUP SHORT AND LONG TERM DISABILITY BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
    [506]
-    2018: GROUP BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
     2017: GROUP BUSINESS TRAVEL ACCIDENT PLAN
         Benefit Category: Other
         Codes:  4Q
@@ -129,3 +116,17 @@ DC : WASHINGTON
         $/Participant: 311159
         Service Providers:
            - NEW YORK LIFE INSURANCE COMPANY : RETAINED BY CLIENT (Investment advisory(plan))
+   [502]
+    2018: GROUP SHORT AND LONG TERM DISABILITY BENEFITS PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H4R
+        Participants: 
+    2017: GROUP SHORT AND LONG TERM DISABILITY BENEFITS PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+   [506]
+    2018: GROUP BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 

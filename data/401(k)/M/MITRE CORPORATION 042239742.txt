@@ -60,17 +60,30 @@ MA : BEDFORD
         Available Investments:
            - TIAA
                  : TIAA REAL ESTATE
+   [509]
+    2019: GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2018: GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 6627
+    2017: GROUP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 6521
    [501]
     2022: THE MITRE CORPORATION HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4I4G4H4L4Q
         Participants: 
     2021: THE MITRE CORPORATION HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4I4G4H4L4Q
         Participants: 
     2020: THE MITRE CORPORATION HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4I4G4H4L4Q
         Participants: 
    [530]
@@ -148,30 +161,43 @@ MA : BEDFORD
            - HARVARDA PILGRIM HEALTH CARE : CONTRACT ADMINISTRATIVE (Claims processing)
    [503]
     2019: GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2018: GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 7694
     2017: GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 7648
    [504]
     2019: THE MITRE CORPORATION GROUP BUSINESS TRAVEL ACCIDENT
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2018: GROUP BUSINESS TRAVEL ACCIDENT
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: GROUP BUSINESS TRAVEL ACCIDENT
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 8517
+   [502]
+    2019: GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2018: GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 5628
+    2017: GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 5664
    [002]
     2022: THE MITRE CORPORATION QUALIFIED RETIREMENT PLAN
         Benefit Category: Other
@@ -233,32 +259,6 @@ MA : BEDFORD
         Available Investments:
            - TIAA
                  : TIAA REAL ESTATE
-   [502]
-    2019: GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2018: GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 5628
-    2017: GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 5664
-   [509]
-    2019: GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2018: GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 6627
-    2017: GROUP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 6521
    [545]
     2019: GROUP LONG TERM CARE INSURANCE
         Benefit Category: Other
@@ -272,19 +272,6 @@ MA : BEDFORD
         Benefit Category: Other
         Codes:  4Q
         Participants: 386
-   [546]
-    2019: GROUP VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2018: GROUP VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 5814
-    2017: GROUP VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 5615
    [547]
     2019: GROUP LEGAL PLAN
         Benefit Category: Other
@@ -311,3 +298,16 @@ MA : BEDFORD
         Benefit Category: Severance
         Codes:  4I
         Participants: 7624
+   [546]
+    2019: GROUP VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2018: GROUP VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 5814
+    2017: GROUP VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 5615

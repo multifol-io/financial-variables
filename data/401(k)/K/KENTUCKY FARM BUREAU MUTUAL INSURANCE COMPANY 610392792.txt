@@ -46,9 +46,18 @@ KY : LOUISVILLE
         Assets: 52250115
         $/Participant: 68300
         RecordKeeper: ASPIRE FINANCIAL SERVICES, LLC
+   [507]
+    2018: KENTUCKY FARM BUREAU MUTUAL DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 266
+    2017: KENTUCKY FARM BUREAU MUTUAL DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 871
    [501]
     2019: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 889
         RecordKeeper: ANTHEM HEALTH PLANS OF KENTUCKY INC
@@ -102,40 +111,40 @@ KY : LOUISVILLE
         RecordKeeper: EXPRESS SCRIPTS INC.
    [511]
     2022: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2021: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2020: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2019: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 889
    [502]
     2021: KENTUCKY FARM BUREAU GROUP LIFE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 1009
     2020: KENTUCKY FARM BUREAU GROUP LIFE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 994
     2019: KENTUCKY FARM BUREAU GROUP LIFE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 1002
     2018: KENTUCKY FARM BUREAU MUTUAL GROUP LIFE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 1005
     2017: KENTUCKY FARM BUREAU MUTUAL GROUP LIFE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 1000
    [501]
@@ -156,15 +165,6 @@ KY : LOUISVILLE
         Benefit Category: Other
         Codes:  4Q
         Participants: 649
-   [507]
-    2018: KENTUCKY FARM BUREAU MUTUAL DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 266
-    2017: KENTUCKY FARM BUREAU MUTUAL DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 871
    [001]
     2022: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY RETIREMENT PLAN AND TRUST
         Benefit Category: Pension

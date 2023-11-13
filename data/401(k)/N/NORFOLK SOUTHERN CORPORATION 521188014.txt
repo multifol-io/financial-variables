@@ -343,32 +343,32 @@ VA : NORFOLK
 GA : ATLANTA
    [510]
     2022: NORFOLK SOUTHERN CORPORATION CHOICEPLUS BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E4Q
         Participants: 
     2021: NORFOLK SOUTHERN CORPORATION CHOICEPLUS BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E4Q
         Participants: 
     2020: NORFOLK SOUTHERN CORPORATION CHOICEPLUS BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E4Q
         Participants: 
     2019: NORFOLK SOUTHERN CORPORATION CHOICEPLUS BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E4Q
         Participants: 
         Assets: 711016
         $/Participant: 
 VA : NORFOLK
     2018: NORFOLK SOUTHERN CORPORATION CHOICEPLUS BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Severance
         Codes:  4A4B4D4E4I4Q
         Participants: 
         Assets: 267339
         $/Participant: 
     2017: NORFOLK SOUTHERN CORPORATION CHOICEPLUS BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Severance
         Codes:  4A4B4D4E4I4Q
         Participants: 
         Assets: 707110
@@ -449,6 +449,33 @@ VA : NORFOLK
            - NORFOLK SOUTHERN CORPORATION
                  : MT FOR NSC POST-RET BENEFIT TRUST
 GA : ATLANTA
+   [503]
+    2022: LONG TERM DISABILITY PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2021: LONG TERM DISABILITY PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2020: LONG TERM DISABILITY PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2019: LONG TERM DISABILITY PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+VA : NORFOLK
+    2018: LONG TERM DISABILITY PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2017: LONG TERM DISABILITY PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+GA : ATLANTA
    [005]
     2022: MASTER TRUST FOR TIP AND TRIP NORFOLK SOUTHERN CORPORATION STOCK FUND
         Benefit Category: Other
@@ -487,87 +514,6 @@ VA : NORFOLK
         Participants: 
         Assets: 586949661
         $/Participant: 
-GA : ATLANTA
-   [503]
-    2022: LONG TERM DISABILITY PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2021: LONG TERM DISABILITY PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2020: LONG TERM DISABILITY PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2019: LONG TERM DISABILITY PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-VA : NORFOLK
-    2018: LONG TERM DISABILITY PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2017: LONG TERM DISABILITY PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-GA : ATLANTA
-   [506]
-    2022: NORFOLK SOUTHERN CORPORATION ON DUTY ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F4L
-        Participants: 
-    2021: NORFOLK SOUTHERN CORPORATION ON DUTY ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F4L
-        Participants: 
-    2020: NORFOLK SOUTHERN CORPORATION ON DUTY ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F4L
-        Participants: 
-    2019: NORFOLK SOUTHERN CORPORATION ON DUTY ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F4L
-        Participants: 
-VA : NORFOLK
-    2018: NORFOLK SOUTHERN CORPORATION ON DUTY ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F4L
-        Participants: 
-    2017: NORFOLK SOUTHERN CORPORATION ON DUTY ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F4L
-        Participants: 
-GA : ATLANTA
-   [509]
-    2022: NORFOLK SOUTHERN CORP. SEPARATION PROGRAM DEATH BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2021: NORFOLK SOUTHERN CORP. SEPARATION PROGRAM DEATH BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: NORFOLK SOUTHERN CORP. SEPARATION PROGRAM DEATH BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: NORFOLK SOUTHERN CORP. SEPARATION PROGRAM DEATH BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-VA : NORFOLK
-    2018: NORFOLK SOUTHERN CORP. SEPARATION PROGRAM DEATH BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: NORFOLK SOUTHERN CORP. SEPARATION PROGRAM DEATH BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
 GA : ATLANTA
    [511]
     2022: NORFOLK SOUTHERN CORPORATION DRUG AND ALCOHOL REHABILITATION SERVICE PROGRAM
@@ -621,33 +567,6 @@ VA : NORFOLK
     2017: NORFOLK SOUTHERN MEDICAL CASE MANAGEMENT PLAN
         Benefit Category: Other
         Codes:  4Q
-        Participants: 
-GA : ATLANTA
-   [513]
-    2022: DEATH BENEFIT PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2021: DEATH BENEFIT PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: DEATH BENEFIT PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: DEATH BENEFIT PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-VA : NORFOLK
-    2018: DEATH BENEFIT PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: DEATH BENEFIT PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
-        Benefit Category: Other
-        Codes:  4L
         Participants: 
    [515]
     2017: SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN FOR FORMER CONRAIL MAINTENANCE OF WAY EMPLOYEES
@@ -838,3 +757,84 @@ VA : NORFOLK
         Available Investments:
            - NORFOLK SOUTHERN CORPORATION
                  : MT FOR JOINT ADMIN OF PENSION PLANS
+GA : ATLANTA
+   [506]
+    2022: NORFOLK SOUTHERN CORPORATION ON DUTY ACCIDENT INSURANCE PLAN
+        Benefit Category: Short-term disability, Travel accident
+        Codes:  4F4L
+        Participants: 
+    2021: NORFOLK SOUTHERN CORPORATION ON DUTY ACCIDENT INSURANCE PLAN
+        Benefit Category: Short-term disability, Travel accident
+        Codes:  4F4L
+        Participants: 
+    2020: NORFOLK SOUTHERN CORPORATION ON DUTY ACCIDENT INSURANCE PLAN
+        Benefit Category: Short-term disability, Travel accident
+        Codes:  4F4L
+        Participants: 
+    2019: NORFOLK SOUTHERN CORPORATION ON DUTY ACCIDENT INSURANCE PLAN
+        Benefit Category: Short-term disability, Travel accident
+        Codes:  4F4L
+        Participants: 
+VA : NORFOLK
+    2018: NORFOLK SOUTHERN CORPORATION ON DUTY ACCIDENT INSURANCE PLAN
+        Benefit Category: Short-term disability, Travel accident
+        Codes:  4F4L
+        Participants: 
+    2017: NORFOLK SOUTHERN CORPORATION ON DUTY ACCIDENT INSURANCE PLAN
+        Benefit Category: Short-term disability, Travel accident
+        Codes:  4F4L
+        Participants: 
+GA : ATLANTA
+   [509]
+    2022: NORFOLK SOUTHERN CORP. SEPARATION PROGRAM DEATH BENEFIT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2021: NORFOLK SOUTHERN CORP. SEPARATION PROGRAM DEATH BENEFIT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: NORFOLK SOUTHERN CORP. SEPARATION PROGRAM DEATH BENEFIT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: NORFOLK SOUTHERN CORP. SEPARATION PROGRAM DEATH BENEFIT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+VA : NORFOLK
+    2018: NORFOLK SOUTHERN CORP. SEPARATION PROGRAM DEATH BENEFIT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: NORFOLK SOUTHERN CORP. SEPARATION PROGRAM DEATH BENEFIT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+GA : ATLANTA
+   [513]
+    2022: DEATH BENEFIT PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2021: DEATH BENEFIT PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: DEATH BENEFIT PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: DEATH BENEFIT PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+VA : NORFOLK
+    2018: DEATH BENEFIT PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: DEATH BENEFIT PLAN OF NORFOLK SOUTHERN CORPORATION AND PARTICIPATING SUBSIDIARY COMPANIES
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 

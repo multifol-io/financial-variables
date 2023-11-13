@@ -149,52 +149,52 @@ NY : NEW YORK
                  : VFTC RETIREMENT SAVINGS TRUST III
    [502]
     2022: MAJOR MEDICAL
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2021: MAJOR MEDICAL
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2020: MAJOR MEDICAL
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2019: MAJOR MEDICAL
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2018: MAJOR MEDICAL
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2017: MAJOR MEDICAL
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
    [501]
     2022: GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2021: GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2020: GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2019: GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2018: GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
    [002]
@@ -269,56 +269,6 @@ NY : NEW YORK
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
-   [504]
-    2022: LONG TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2021: LONG TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2020: LONG TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2019: LONG TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2018: LONG TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2017: LONG TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-   [505]
-    2022: BUSINESS RELATED TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2021: BUSINESS RELATED TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: BUSINESS RELATED TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: BUSINESS RELATED TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: BUSINESS RELATED TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: BUSINESS RELATED TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
    [001]
     2022: PENSION PLAN OF DEBEVOISE & PLIMPTON LLP
         Benefit Category: Pension
@@ -430,3 +380,53 @@ NY : NEW YORK
         Participants: 166
         Assets: 67134681
         $/Participant: 404425
+   [504]
+    2022: LONG TERM DISABILITY INSURANCE PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2021: LONG TERM DISABILITY INSURANCE PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2020: LONG TERM DISABILITY INSURANCE PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2019: LONG TERM DISABILITY INSURANCE PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2018: LONG TERM DISABILITY INSURANCE PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2017: LONG TERM DISABILITY INSURANCE PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+   [505]
+    2022: BUSINESS RELATED TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2021: BUSINESS RELATED TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: BUSINESS RELATED TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: BUSINESS RELATED TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: BUSINESS RELATED TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: BUSINESS RELATED TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 

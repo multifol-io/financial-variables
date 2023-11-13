@@ -129,39 +129,39 @@ PA : PHILADELPHIA
                  : SCHWAB INST LC VAL TRUST CL I
    [502]
     2022: MEDICAL, MAJORMEDICAL, AD&D, & GROUP LIFE INSURANCE FOR STAFF, ASSOCIATES & PARTNERS OF DUANE MORRIS LLP
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
         Codes:  4A4B4D4E4L
         Participants: 1554
         Service Providers:
            - CVS PHARMACY, INC : CONTRACT ADMINISTRATOR (Claims processing)
     2021: MEDICAL, MAJORMEDICAL, AD&D, & GROUP LIFE INSURANCE FOR STAFF, ASSOCIATES & PARTNERS OF DUANE MORRIS LLP
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
         Codes:  4A4B4D4E4L
         Participants: 1462
         Service Providers:
            - CVS PHARMACY, INC : CONTRACT ADMINISTRATOR (Claims processing)
     2020: MEDICAL, MAJORMEDICAL, AD&D, & GROUP LIFE INSURANCE FOR STAFF, ASSOCIATES & PARTNERS OF DUANE MORRIS LLP
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
         Codes:  4A4B4D4E4L
         Participants: 1448
         Service Providers:
            - CVS PHARMACY, INC : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
     2019: MEDICAL, MAJORMEDICAL, AD&D, & GROUP LIFE INSURANCE FOR STAFF, ASSOCIATES & PARTNERS OF DUANE MORRIS LLP
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
         Codes:  4A4B4D4E4L
         Participants: 1449
         Service Providers:
            - CVS PHARMACY, INC : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - WILLIS OF MASSACHUSETTS, INC. : CONSULTING ()
     2018: MEDICAL, MAJORMEDICAL, AD&D, & GROUP LIFE INSURANCE FOR STAFF, ASSOCIATES & PARTNERS OF DUANE MORRIS LLP
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
         Codes:  4A4B4D4E4L
         Participants: 1532
         Service Providers:
            - WILLIS OF PENNSYLVANIA : CONSULTING ()
            - CVS PHARMACY, INC : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
     2017: MEDICAL, MAJORMEDICAL,AD&D, & GROUP LIFE INSURANCE FOR STAFF, ASSOCIATES & PARTNERS OF DUANE MORRIS LLP
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
         Codes:  4A4B4D4E4L
         Participants: 1460
         Service Providers:
@@ -199,6 +199,27 @@ PA : PHILADELPHIA
         Codes:  4A
         Participants: 377
         RecordKeeper: 
+   [501]
+    2022: LONG TERM DISABILITY PLAN FOR STAFF, ASSOCIATES AND PARTNERS
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 1404
+    2021: LONG TERM DISABILITY PLAN FOR STAFF, ASSOCIATES AND PARTNERS
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 1351
+    2020: LONG TERM DISABILITY PLAN FOR STAFF, ASSOCIATES AND PARTNERS
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 1334
+    2019: LONG TERM DISABILITY PLAN FOR STAFF, ASSOCIATES AND PARTNERS
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 1303
+    2018: LONG TERM DISABILITY PLAN FOR STAFF, ASSOCIATES AND PARTNERS
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 1187
    [002]
     2022: DUANE MORRIS RETIREMENT PLAN
         Benefit Category: Other
@@ -266,27 +287,6 @@ PA : PHILADELPHIA
         Available Investments:
            - CHARLES SCHWAB BANK
                  : SCHWAB INST LC VAL TRUST CL I
-   [501]
-    2022: LONG TERM DISABILITY PLAN FOR STAFF, ASSOCIATES AND PARTNERS
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 1404
-    2021: LONG TERM DISABILITY PLAN FOR STAFF, ASSOCIATES AND PARTNERS
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 1351
-    2020: LONG TERM DISABILITY PLAN FOR STAFF, ASSOCIATES AND PARTNERS
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 1334
-    2019: LONG TERM DISABILITY PLAN FOR STAFF, ASSOCIATES AND PARTNERS
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 1303
-    2018: LONG TERM DISABILITY PLAN FOR STAFF, ASSOCIATES AND PARTNERS
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 1187
    [001]
     2022: DUANE MORRIS EMPLOYEES' PENSION PLAN
         Benefit Category: Pension

@@ -71,6 +71,19 @@ NY : MELVILLE
         Available Investments:
            - FIDELITY INVESTMENTS
                  : FIDELITY MANAGED INCOME PORTFOLIO
+   [511]
+    2022: NIKON INC. DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2021: NIKON INC. DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2020: NIKON INC. DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [508]
     2022: NIKON INC. HEALTHCARE PLAN
         Benefit Category: Healthcare
@@ -113,54 +126,42 @@ NY : MELVILLE
         Participants: 82
    [502]
     2022: NIKON INC. LTD, LIFE AND ADD
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability, Travel accident
         Codes:  4B4H4L
         Participants: 
     2021: NIKON INC. LTD, LIFE AND ADD
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability, Travel accident
         Codes:  4B4H4L
         Participants: 
     2020: NIKON INC. LTD, LIFE AND ADD
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability, Travel accident
         Codes:  4B4H4L
         Participants: 
     2019: NIKON INC. LTD, LIFE AND ADD
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability
         Codes:  4H4B
         Participants: 361
     2018: NIKON INC. LTD, LIFE AND ADD PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability
         Codes:  4H4B
         Participants: 360
     2017: NIKON INC LTD, LIFE AND ADD PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability
         Codes:  4H4B
         Participants: 358
    [511]
     2019: NIKON INC. DENTAL PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 842
     2018: NIKON INC. DENTAL PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 859
     2017: NIKON INC. DENTAL PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 906
-    2022: NIKON INC. DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2021: NIKON INC. DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2020: NIKON INC. DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
    [512]
     2022: NIKON INC. EMPLOYEE ASSISTANCE PLAN
         Benefit Category: Other
@@ -192,56 +193,6 @@ NY : MELVILLE
         Participants: 403
         Service Providers:
            - CIGNA BEHAVIORAL HEALTH : CONTRACTED (Claims processing | Contract Administrator | Participant communication | Direct payment from the plan)
-   [514]
-    2022: NIKON INC. VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2021: NIKON INC. VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2020: NIKON INC. VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2019: NIKON INC. VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 735
-    2018: NIKON INC. VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 734
-    2017: NIKON INC. VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 765
-   [515]
-    2022: NIKON INC. SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2021: NIKON INC. SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2020: NIKON INC. SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2019: NIKON INC. SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 116
-    2018: NIKON INC. SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 112
-    2017: NIKON INC. SHORT TERM DISABILTY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 124
    [001]
     2021: NIKON INC. PENSION PLAN
         Benefit Category: Pension
@@ -282,3 +233,53 @@ NY : MELVILLE
         $/Participant: 149991
         Service Providers:
            - STATE STREET BANK & TRUST COMPANY : TRUSTEE (Custodial(other than securities) | Trustee(directed) | Direct payment from the plan | Other fees)
+   [515]
+    2022: NIKON INC. SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2021: NIKON INC. SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2020: NIKON INC. SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2019: NIKON INC. SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 116
+    2018: NIKON INC. SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 112
+    2017: NIKON INC. SHORT TERM DISABILTY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 124
+   [514]
+    2022: NIKON INC. VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2021: NIKON INC. VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2020: NIKON INC. VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2019: NIKON INC. VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 735
+    2018: NIKON INC. VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 734
+    2017: NIKON INC. VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 765

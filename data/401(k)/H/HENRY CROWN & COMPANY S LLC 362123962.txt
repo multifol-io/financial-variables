@@ -64,7 +64,7 @@ IL : CHICAGO
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
    [501]
     2022: HENRY CROWN & COMPANY AND AFFILIATES HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H
         Participants: 
         Service Providers:
@@ -72,7 +72,7 @@ IL : CHICAGO
            - METROPOLITAN LIFE INSURANCE COMPANY : N/A (Claims processing | Contract Administrator)
            - METROPOLITAN LIFE INSURANCE COMPANY : N/A (Claims processing | Contract Administrator)
     2021: HENRY CROWN & COMPANY AND AFFILIATES HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H
         Participants: 
         Service Providers:
@@ -81,21 +81,21 @@ IL : CHICAGO
            - PREFFERED NETWORK ACCESS : N/A (Claims processing | Other fees)
            - METROPOLITAN LIFE INSURANCE COMPANY : N/A (Claims processing | Contract Administrator)
     2020: HENRY CROWN & COMPANY AND AFFILIATES HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H
         Participants: 
         Service Providers:
            - TRION GROUP, MARSH & MCCLENNAN AGC : N/A (Insurance brokerage commissions and fees | Insurance services)
            - PREFFERED NETWORK ACCESS : N/A (Claims processing | Other fees)
     2019: HENRY CROWN & COMPANY AND AFFILIATES HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H
         Participants: 
         Service Providers:
            - TRION GROUP, MARSH & MCCLENNAN AGC : N/A (Insurance brokerage commissions and fees | Insurance services)
            - PREFFERED NETWORK ACCESS : N/A (Claims processing | Other fees)
     2018: HENRY CROWN & COMPANY AND AFFILIATES HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H
         Participants: 
         Service Providers:
@@ -103,7 +103,7 @@ IL : CHICAGO
            - PREFFERED NETWORK ACCESS : N/A (Claims processing)
            - METROPOLITAN LIFE INSURANCE COMPANY : N/A (Claims processing | Contract Administrator)
     2017: HENRY CROWN & COMPANY AND AFFILIATES HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H
         Participants: 
         Service Providers:
@@ -179,31 +179,6 @@ IL : CHICAGO
            - SELECT EQUITY GROUP, L.P. : INVESTMENT ADVISORY (Investment advisory(plan) | Direct payment from the plan)
            - NEUBERGER & BERMAN : INVESTMENT ADVISORY (Investment advisory(plan) | Direct payment from the plan)
            - LYRICAL ASSET MANAGEMENT : INVESTMENT ADVISORY (Investment advisory(plan) | Direct payment from the plan)
-   [506]
-    2022: HENRY CROWN & COMPANY AND AFFILIATES BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2021: HENRY CROWN & COMPANY AND AFFILIATES BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: HENRY CROWN & COMPANY AND AFFILIATES BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: HENRY CROWN &COMPANY AND AFFILIATES BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: HENRY CROWN &COMPANY AND AFFILIATES BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: HENRY CROWN &COMPANY AND AFFILIATES BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
    [101]
     2022: HENRY CROWN AND COMPANY PENSION PLAN
         Benefit Category: Pension
@@ -325,3 +300,28 @@ IL : CHICAGO
                  : NTGI COLLECTIVE ST INVESTMENT FUND
            - SILCHESTER INTERNATIONAL INVESTORS LLP
                  : SILCHESTER INT'L VALUE EQUITY TRUST
+   [506]
+    2022: HENRY CROWN & COMPANY AND AFFILIATES BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2021: HENRY CROWN & COMPANY AND AFFILIATES BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: HENRY CROWN & COMPANY AND AFFILIATES BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: HENRY CROWN &COMPANY AND AFFILIATES BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: HENRY CROWN &COMPANY AND AFFILIATES BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: HENRY CROWN &COMPANY AND AFFILIATES BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 

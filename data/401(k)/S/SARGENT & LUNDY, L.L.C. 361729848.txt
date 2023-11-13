@@ -145,34 +145,29 @@ IL : CHICAGO
                  : VANGUARD TARGET INC
    [501]
     2022: SARGENT & LUNDY CONSOLIDATED WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2021: SARGENT & LUNDY CONSOLIDATED WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2020: SARGENT & LUNDY CONSOLIDATED WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2019: SARGENT & LUNDY CONSOLIDATED WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4D4E4F4H4Q4B
         Participants: 
     2018: SARGENT & LUNDY CONSOLIDATED WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4D4E4F4H4Q4B
         Participants: 
     2017: SARGENT & LUNDY CONSOLIDATED WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4D4E4F4H4Q
         Participants: 
-   [503]
-    2017: GROUP TRAVEL AND ACCIDENT
-        Benefit Category: Other
-        Codes:  4F4L
-        Participants: 2157
    [506]
     2017: TUITION ASSISTANCE
         Benefit Category: Other
@@ -183,3 +178,8 @@ IL : CHICAGO
         Benefit Category: Severance
         Codes:  4I
         Participants: 0
+   [503]
+    2017: GROUP TRAVEL AND ACCIDENT
+        Benefit Category: Short-term disability, Travel accident
+        Codes:  4F4L
+        Participants: 2157

@@ -254,29 +254,29 @@ PA : PHILADELPHIA
                  : VANGUARD TARGET RET INCOME TRUST I
    [900]
     2022: GLAXOSMITHKLINE HEALTH AND WELFARE BENEFITS PLAN FOR US EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance
         Codes:  4A4B4D4E4H4I
         Participants: 
 NC : RESEARCH TRIANGLE PARK
     2021: GLAXOSMITHKLINE HEALTH AND WELFARE BENEFITS PLAN FOR US EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance
         Codes:  4A4B4D4E4H4I
         Participants: 
 PA : PHILADELPHIA
     2020: GLAXOSMITHKLINE HEALTH AND WELFARE BENEFITS PLAN FOR US EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance
         Codes:  4A4B4D4E4H4I
         Participants: 
     2019: GLAXOSMITHKLINE HEALTH AND WELFARE BENEFITS PLAN FOR US EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance
         Codes:  4A4B4D4E4H4I
         Participants: 
     2018: GLAXOSMITHKLINE HEALTH AND WELFARE BENEFITS PLAN FOR US EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance
         Codes:  4A4B4D4E4H4I
         Participants: 
     2017: GLAXOSMITHKLINE HEALTH AND WELFARE BENEFITS PLAN FOR US EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance
         Codes:  4A4B4D4E4H4I
         Participants: 
    [901]
@@ -303,7 +303,7 @@ PA : PHILADELPHIA
         Codes:  4A
         Participants: 
     2017: GLAXOSMITHKLINE FLEXIBLE COMPENSATION PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
    [902]
@@ -332,33 +332,6 @@ PA : PHILADELPHIA
     2017: GLAXOSMITHKLINE RETIREE MEDICARE HRA PLAN
         Benefit Category: Healthcare
         Codes:  4A
-        Participants: 
-   [600]
-    2022: GLAXOSMITHKLINE BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-NC : RESEARCH TRIANGLE PARK
-    2021: GLAXOSMITHKLINE BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-PA : PHILADELPHIA
-    2020: GLAXOSMITHKLINE BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: GLAXOSMITHKLINE BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: GLAXOSMITHKLINE BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: GLAXOSMITHKLINE BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
         Participants: 
    [003]
     2022: GLAXOSMITHKLINE CASH BALANCE PENSION PLAN
@@ -465,3 +438,30 @@ PA : PHILADELPHIA
                  : SS DAILY MSCI EMERG MKTS IND NL FD
                  : STATE STREET MSCI EAFE INDX NL FUND
                  : STATE STREET S&P 500 FLGSHP NL FUND
+   [600]
+    2022: GLAXOSMITHKLINE BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+NC : RESEARCH TRIANGLE PARK
+    2021: GLAXOSMITHKLINE BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+PA : PHILADELPHIA
+    2020: GLAXOSMITHKLINE BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: GLAXOSMITHKLINE BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: GLAXOSMITHKLINE BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: GLAXOSMITHKLINE BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 

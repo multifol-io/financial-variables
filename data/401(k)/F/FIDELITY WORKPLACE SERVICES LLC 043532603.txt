@@ -55,9 +55,31 @@ MA : BOSTON
         Assets: 17265509336
         $/Participant: 293971
         RecordKeeper: FIDELITY INSTITUTIONAL OPS CO INC
+   [560]
+    2019: HEALTH & WELLNESS PLAN
+        Benefit Category: Dental
+        Codes:  4Q4D4R
+        Participants: 
+        Service Providers:
+           - PREMISE HEALTH EMPLOYER SOLUTIONS : CONTRACT ADMINISTRATOR (Claims processing | Participant communication | Other services | Other fees)
+           - CIGNA BEHAVIORAL HEALTH, INC. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Participant communication | Direct payment from the plan)
+    2018: HEALTH & WELLNESS PLAN
+        Benefit Category: Dental
+        Codes:  4Q4D
+        Participants: 
+        Service Providers:
+           - PREMISE HEALTH EMPLOYER SOLUTIONS : CONTRACT ADMINISTRATOR (Claims processing | Participant communication | Other services | Other fees)
+           - CIGNA BEHAVIORAL HEALTH, INC. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Participant communication | Direct payment from the plan)
+    2017: HEALTH & WELLNESS PLAN
+        Benefit Category: Dental
+        Codes:  4Q4D
+        Participants: 
+        Service Providers:
+           - PREMISE HEALTH EMPLOYER SOLUTIONS : CONTRACT ADMINISTRATOR (Claims processing | Participant communication | Other services | Other fees)
+           - CIGNA BEHAVIORAL HEALTH, INC. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Participant communication | Direct payment from the plan)
    [506]
     2022: FIDELITY GROUP EMPLOYEES MEDICAL, DENTAL AND CAFETERIA PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Service Providers:
@@ -73,7 +95,7 @@ MA : BOSTON
            - SELECTHEALTH : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses | Other fees)
            - OPTUMHEALTH CARE SOLUTIONS, LLC : CONTRACT ADMINISTRATOR (Claims processing | Other fees)
     2021: FIDELITY GROUP EMPLOYEES MEDICAL, DENTAL AND CAFETERIA PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Service Providers:
@@ -89,7 +111,7 @@ MA : BOSTON
            - SELECTHEALTH : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses | Other fees)
            - OPTUMHEALTH CARE SOLUTIONS, LLC : CONTRACT ADMINISTRATOR (Claims processing | Other fees)
     2020: FIDELITY GROUP EMPLOYEES MEDICAL, DENTAL AND CAFETERIA PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Service Providers:
@@ -108,7 +130,7 @@ MA : BOSTON
            - SELECTHEALTH : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses | Other fees)
            - OPTUMHEALTH CARE SOLUTIONS, LLC : CONTRACT ADMINISTRATOR (Claims processing | Other fees)
     2019: FIDELITY GROUP EMPLOYEES MEDICAL, DENTAL AND CAFETERIA PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Service Providers:
@@ -124,7 +146,7 @@ MA : BOSTON
            - SELECTHEALTH : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses | Other fees)
            - CONSUMER WELLNESS SOLUTIONS, INC. : CONTRACT ADMINISTRATOR (Claims processing | Other fees)
     2018: FIDELITY GROUP EMPLOYEES MEDICAL, DENTAL AND CAFETERIA PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Service Providers:
@@ -138,7 +160,7 @@ MA : BOSTON
            - CIGNA HEALTH AND LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue | Other fees)
            - OPTUMHEALTH CARE SOLUTIONS, LLC : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses | Other fees)
     2017: FIDELITY GROUP EMPLOYEES MEDICAL, DENTAL AND CAFETERIA PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Service Providers:
@@ -222,7 +244,7 @@ MA : BOSTON
         $/Participant: 
    [580]
     2022: FIDELITY 2017 VOLUNTARY BUYOUT OPPORTUNITY PLAN
-        Benefit Category: Healthcare, Severance
+        Benefit Category: Healthcare, Dental, Vision, Severance
         Codes:  4A4D4E4I4Q
         Participants: 
         Service Providers:
@@ -233,7 +255,7 @@ MA : BOSTON
            - CVS CAREMARK : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses | Other fees)
            - SELECTHEALTH : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses | Other fees)
     2021: FIDELITY 2017 VOLUNTARY BUYOUT OPPORTUNITY PLAN
-        Benefit Category: Healthcare, Severance
+        Benefit Category: Healthcare, Dental, Vision, Severance
         Codes:  4A4D4E4I4Q
         Participants: 
         Service Providers:
@@ -244,7 +266,7 @@ MA : BOSTON
            - HUMANA INC. : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses | Other fees)
            - SELECTHEALTH : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses | Other fees)
     2020: FIDELITY 2017 VOLUNTARY BUYOUT OPPORTUNITY PLAN
-        Benefit Category: Healthcare, Severance
+        Benefit Category: Healthcare, Dental, Vision, Severance
         Codes:  4A4D4E4I4Q
         Participants: 
         Service Providers:
@@ -256,7 +278,7 @@ MA : BOSTON
            - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator | Other insurance fees and expenses | Other fees)
            - SELECTHEALTH : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses | Other fees)
     2019: FIDELITY 2017 VOLUNTARY BUYOUT OPPORTUNITY PLAN
-        Benefit Category: Healthcare, Severance
+        Benefit Category: Healthcare, Dental, Vision, Severance
         Codes:  4A4D4E4I4Q
         Participants: 
         Service Providers:
@@ -267,7 +289,7 @@ MA : BOSTON
            - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator | Other insurance fees and expenses | Other fees)
            - SELECTHEALTH : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses | Other fees)
     2018: FIDELITY 2017 VOLUNTARY BUYOUT OPPORTUNITY PLAN
-        Benefit Category: Healthcare, Severance
+        Benefit Category: Healthcare, Dental, Vision, Severance
         Codes:  4A4D4E4I4Q
         Participants: 
         Service Providers:
@@ -278,7 +300,7 @@ MA : BOSTON
            - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator | Other insurance fees and expenses | Other fees)
            - SELECTHEALTH : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses | Other fees)
     2017: FIDELITY 2017 VOLUNTARY BUYOUT OPPORTUNITY PLAN
-        Benefit Category: Healthcare, Severance
+        Benefit Category: Healthcare, Dental, Vision, Severance
         Codes:  4A4D4E4I4Q
         Participants: 
         Service Providers:
@@ -290,7 +312,7 @@ MA : BOSTON
            - SELECTHEALTH : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses | Other fees)
    [581]
     2022: FIDELITY 2021 VOLUNTARY BUYOUT OPPORTUNITY PLAN
-        Benefit Category: Healthcare, Severance
+        Benefit Category: Healthcare, Dental, Vision, Severance
         Codes:  4A4D4E4I4Q
         Participants: 
         Service Providers:
@@ -301,7 +323,7 @@ MA : BOSTON
            - HUMANA INC. : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses | Other fees)
            - SELECTHEALTH : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses | Other fees)
     2021: FIDELITY 2021 VOLUNTARY BUYOUT OPPORTUNITY PLAN
-        Benefit Category: Healthcare, Severance
+        Benefit Category: Healthcare, Dental, Vision, Severance
         Codes:  4A4D4E4I4Q
         Participants: 
         Service Providers:
@@ -313,137 +335,75 @@ MA : BOSTON
            - SELECTHEALTH : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses | Other fees)
    [504]
     2022: FIDELITY GROUP EMPLOYEES LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2021: FIDELITY GROUP EMPLOYEES LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2020: FIDELITY GROUP EMPLOYEES LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2019: FIDELITY GROUP EMPLOYEES LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2018: FIDELITY GROUP EMPLOYEES LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: FIDELITY GROUP EMPLOYEES LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
    [532]
     2020: FIDELITY GROUP VARIABLE LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4R
         Participants: 
     2019: FIDELITY GROUP VARIABLE LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2018: FIDELITY GROUP VARIABLE LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: FIDELITY GROUP VARIABLE LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
-        Participants: 
-   [501]
-    2022: FIDELITY EMPLOYEES BUSINESS TRAVEL EMERGENCY MEDICAL PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2021: FIDELITY EMPLOYEES BUSINESS TRAVEL EMERGENCY MEDICAL PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: FIDELITY EMPLOYEES BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: FIDELITY EMPLOYEES BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: FIDELITY EMPLOYEES BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: FIDELITY EMPLOYEES BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
         Participants: 
    [503]
     2022: FIDELITY GROUP EMPLOYEES DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
         Service Providers:
            - THE PRUDENTIAL INSURANCE COMPANY OF : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses | Other fees)
     2021: FIDELITY GROUP EMPLOYEES DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
         Service Providers:
            - THE PRUDENTIAL INSURANCE COMPANY OF : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses | Other fees)
     2020: FIDELITY GROUP EMPLOYEES DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2019: FIDELITY GROUP EMPLOYEES DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2018: FIDELITY GROUP EMPLOYEES DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2017: FIDELITY GROUP EMPLOYEES DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
-   [530]
-    2022: FIDELITY GROUP EMPLOYEES SHORT-TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-        Service Providers:
-           - THE PRUDENTIAL INSURANCE COMPANY OF : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses | Other fees)
-    2021: FIDELITY GROUP EMPLOYEES SHORT-TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-        Service Providers:
-           - THE PRUDENTIAL INSURANCE COMPANY OF : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses | Other fees)
-    2020: FIDELITY GROUP EMPLOYEES SHORT-TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-        Service Providers:
-           - CIGNA LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Other fees)
-    2019: FIDELITY GROUP EMPLOYEES SHORT-TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-        Service Providers:
-           - CIGNA LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Other fees)
-    2018: FIDELITY GROUP EMPLOYEES SHORT-TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-        Service Providers:
-           - CIGNA LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Other fees)
-    2017: FIDELITY GROUP EMPLOYEES SHORT-TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-        Service Providers:
-           - CIGNA LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Other fees)
    [550]
     2022: FIDELITY GROUP LONG-TERM CARE INSURANCE PLAN
         Benefit Category: Other
@@ -469,28 +429,6 @@ MA : BOSTON
         Benefit Category: Other
         Codes:  4Q
         Participants: 
-   [560]
-    2019: HEALTH & WELLNESS PLAN
-        Benefit Category: Other
-        Codes:  4Q4D4R
-        Participants: 
-        Service Providers:
-           - PREMISE HEALTH EMPLOYER SOLUTIONS : CONTRACT ADMINISTRATOR (Claims processing | Participant communication | Other services | Other fees)
-           - CIGNA BEHAVIORAL HEALTH, INC. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Participant communication | Direct payment from the plan)
-    2018: HEALTH & WELLNESS PLAN
-        Benefit Category: Other
-        Codes:  4Q4D
-        Participants: 
-        Service Providers:
-           - PREMISE HEALTH EMPLOYER SOLUTIONS : CONTRACT ADMINISTRATOR (Claims processing | Participant communication | Other services | Other fees)
-           - CIGNA BEHAVIORAL HEALTH, INC. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Participant communication | Direct payment from the plan)
-    2017: HEALTH & WELLNESS PLAN
-        Benefit Category: Other
-        Codes:  4Q4D
-        Participants: 
-        Service Providers:
-           - PREMISE HEALTH EMPLOYER SOLUTIONS : CONTRACT ADMINISTRATOR (Claims processing | Participant communication | Other services | Other fees)
-           - CIGNA BEHAVIORAL HEALTH, INC. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Participant communication | Direct payment from the plan)
    [585]
     2022: FIDELITY GROUP LEGAL PLAN
         Benefit Category: Other
@@ -532,4 +470,66 @@ MA : BOSTON
     2017: FIDELITY SEVERANCE PLAN
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [530]
+    2022: FIDELITY GROUP EMPLOYEES SHORT-TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+        Service Providers:
+           - THE PRUDENTIAL INSURANCE COMPANY OF : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses | Other fees)
+    2021: FIDELITY GROUP EMPLOYEES SHORT-TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+        Service Providers:
+           - THE PRUDENTIAL INSURANCE COMPANY OF : CONTRACT ADMINISTRATOR (Claims processing | Other insurance fees and expenses | Other fees)
+    2020: FIDELITY GROUP EMPLOYEES SHORT-TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+        Service Providers:
+           - CIGNA LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Other fees)
+    2019: FIDELITY GROUP EMPLOYEES SHORT-TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+        Service Providers:
+           - CIGNA LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Other fees)
+    2018: FIDELITY GROUP EMPLOYEES SHORT-TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+        Service Providers:
+           - CIGNA LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Other fees)
+    2017: FIDELITY GROUP EMPLOYEES SHORT-TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+        Service Providers:
+           - CIGNA LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Other fees)
+   [501]
+    2022: FIDELITY EMPLOYEES BUSINESS TRAVEL EMERGENCY MEDICAL PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2021: FIDELITY EMPLOYEES BUSINESS TRAVEL EMERGENCY MEDICAL PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: FIDELITY EMPLOYEES BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: FIDELITY EMPLOYEES BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: FIDELITY EMPLOYEES BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: FIDELITY EMPLOYEES BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
         Participants: 

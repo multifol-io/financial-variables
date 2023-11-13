@@ -275,6 +275,27 @@ PA : ALLENTOWN
         Assets: 6989005
         $/Participant: 19911
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+   [506]
+    2021: AIR PRODUCTS AND CHEMICALS, INC. DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2020: AIR PRODUCTS AND CHEMICALS, INC. DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2019: AIR PRODUCTS AND CHEMICALS, INC. DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2018: AIR PRODUCTS AND CHEMICALS, INC. DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2017: AIR PRODUCTS AND CHEMICALS, INC. DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [521]
     2021: AIR PRODUCTS MEDICAL PLAN
         Benefit Category: Healthcare
@@ -298,33 +319,46 @@ PA : ALLENTOWN
         Participants: 
    [505]
     2021: AIR PRODUCTS AND CHEMICALS, INC. GROUP INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2020: AIR PRODUCTS AND CHEMICALS, INC. GROUP INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2019: AIR PRODUCTS AND CHEMICALS, INC. GROUP INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2018: AIR PRODUCTS AND CHEMICALS, INC. GROUP INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: AIR PRODUCTS AND CHEMICALS, INC. GROUP INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
    [526]
     2018: AIR PRODUCTS AND CHEMICALS, INC. GROUP UNIVERSAL LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: AIR PRODUCTS AND CHEMICALS, INC. GROUP UNIVERSAL LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
+        Participants: 
+   [501]
+    2019: AIR PRODUCTS AND CHEMICALS, INC. LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2018: AIR PRODUCTS AND CHEMICALS, INC. LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2017: AIR PRODUCTS AND CHEMICALS, INC. LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
    [004]
     2021: AIR PRODUCTS AND CHEMICALS MASTER TRUST
@@ -487,90 +521,6 @@ PA : ALLENTOWN
                  : VOYA SMALL CAP GROWTH TRUST FUND
            - WILLIAM BLAIR & COMPANY
                  : WILLIAM BLAIR INTERNATIONAL GROWTH
-   [501]
-    2021: AIR PRODUCTS AND CHEMICALS, INC. LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2020: AIR PRODUCTS AND CHEMICALS, INC. LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2019: AIR PRODUCTS AND CHEMICALS, INC. LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2018: AIR PRODUCTS AND CHEMICALS, INC. LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2017: AIR PRODUCTS AND CHEMICALS, INC. LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-   [504]
-    2021: AIR PRODUCTS AND CHEMICALS, INC. BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: AIR PRODUCTS AND CHEMICALS, INC. BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: AIR PRODUCTS AND CHEMICALS, INC. BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: AIR PRODUCTS AND CHEMICALS, INC. BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: AIR PRODUCTS AND CHEMICALS, INC. BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-   [506]
-    2021: AIR PRODUCTS AND CHEMICALS, INC. DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2020: AIR PRODUCTS AND CHEMICALS, INC. DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2019: AIR PRODUCTS AND CHEMICALS, INC. DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2018: AIR PRODUCTS AND CHEMICALS, INC. DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2017: AIR PRODUCTS AND CHEMICALS, INC. DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-   [510]
-    2021: AIR PRODUCTS VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2020: AIR PRODUCTS VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2019: AIR PRODUCTS VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2018: AIR PRODUCTS VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2017: AIR PRODUCTS VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
    [002]
     2021: AIR PRODUCTS AND CHEMICALS, INC. PENSION PLAN FOR SALARIED EMPLOYEES
         Benefit Category: Pension
@@ -734,4 +684,55 @@ PA : ALLENTOWN
     2017: AIR PRODUCTS AND CHEMICALS, INC. SPECIAL SEVERANCE PLAN
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [501]
+    2021: AIR PRODUCTS AND CHEMICALS, INC. LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2020: AIR PRODUCTS AND CHEMICALS, INC. LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+   [504]
+    2021: AIR PRODUCTS AND CHEMICALS, INC. BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: AIR PRODUCTS AND CHEMICALS, INC. BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: AIR PRODUCTS AND CHEMICALS, INC. BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: AIR PRODUCTS AND CHEMICALS, INC. BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: AIR PRODUCTS AND CHEMICALS, INC. BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+   [510]
+    2021: AIR PRODUCTS VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2020: AIR PRODUCTS VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2019: AIR PRODUCTS VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2018: AIR PRODUCTS VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2017: AIR PRODUCTS VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
         Participants: 

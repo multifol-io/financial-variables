@@ -130,44 +130,81 @@ MI : DETROIT
                  : T ROWE PRICE GRTH STK CIT CL D
            - WILMINGTON TRUST RETIREMENT AND INSTITUTIONAL SERVICES
                  : GALLIARD RET INCOME FD CL 35
+   [505]
+    2022: HONIGMAN LLP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Assets: 46918
+        $/Participant: 
+    2021: HONIGMAN LLP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Assets: 1224
+        $/Participant: 
+    2020: HONIGMAN LLP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Assets: 50
+        $/Participant: 
+    2019: HONIGMAN LLP DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Assets: 846
+        $/Participant: 
+    2018: HONIGMAN MILLER SCHWARTZ AND COHN DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Assets: 813
+        $/Participant: 
+    2017: HONIGMAN MILLER SCHWARTZ AND COHN DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Assets: 571
+        $/Participant: 
    [502]
     2022: HONIGMAN LLP MEDICAL BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         Assets: 101528
         $/Participant: 
         RecordKeeper: AON RISK SERVICES CENTRAL, INC
     2021: HONIGMAN LLP MEDICAL BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         Assets: 66761
         $/Participant: 
         RecordKeeper: AON RISK SERVICES CENTRAL, INC
     2020: HONIGMAN LLP MEDICAL BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         Assets: 50271
         $/Participant: 
         RecordKeeper: AON
     2019: HONIGMAN LLP MEDICAL BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         Assets: 136346
         $/Participant: 
         RecordKeeper: AON
     2018: HONIGMAN MILLER SCHWARTZ AND COHN LLP MEDICAL BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         Assets: 100
         $/Participant: 
         RecordKeeper: AON
     2017: HONIGMAN MILLER SCHWARTZ AND COHN LLP MEDICAL BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
         Assets: 29350
@@ -226,115 +263,53 @@ MI : DETROIT
         Participants: 
    [501]
     2022: HONIGMAN LLP GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2021: HONIGMAN LLP GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2020: HONIGMAN LLP GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2019: HONIGMAN LLP GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2018: HONIGMAN MILLER SCHWARTZ AND COHN GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2017: HONIGMAN MILLER SCHWARTZ AND COHN GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
    [503]
     2022: HONIGMAN LLP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability, Travel accident
         Codes:  4H4L
         Participants: 
     2021: HONIGMAN LLP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability, Travel accident
         Codes:  4H4L
         Participants: 
     2020: HONIGMAN LLP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability, Travel accident
         Codes:  4H4L
         Participants: 
     2019: HONIGMAN LLP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability, Travel accident
         Codes:  4H4L
         Participants: 
     2018: HONIGMAN MILLER SCHWARTZ AND COHN LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability, Travel accident
         Codes:  4H4L
         Participants: 
     2017: HONIGMAN MILLER SCHWARTZ AND COHN LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability, Travel accident
         Codes:  4H4L
-        Participants: 
-   [505]
-    2022: HONIGMAN LLP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Assets: 46918
-        $/Participant: 
-    2021: HONIGMAN LLP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Assets: 1224
-        $/Participant: 
-    2020: HONIGMAN LLP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Assets: 50
-        $/Participant: 
-    2019: HONIGMAN LLP DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Assets: 846
-        $/Participant: 
-    2018: HONIGMAN MILLER SCHWARTZ AND COHN DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Assets: 813
-        $/Participant: 
-    2017: HONIGMAN MILLER SCHWARTZ AND COHN DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Assets: 571
-        $/Participant: 
-   [506]
-    2022: HONIGMAN LLP SHORT-TERM DISABILITY PLAN FOR NON-ATTORNEYS
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2021: HONIGMAN LLP SHORT-TERM DISABILITY PLAN FOR NON-ATTORNEYS
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2020: HONIGMAN LLP SHORT-TERM DISABILITY PLAN FOR NON-ATTORNEYS
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2019: HONIGMAN LLP SHORT-TERM DISABILITY PLAN FOR NON-ATTORNEYS
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2018: HONIGMAN MILLER SCHWARTZ AND COHN SHORT-TERM DISABILITY PLAN FOR NON-ATTORNEYS
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2017: HONIGMAN MILLER SCHWARTZ AND COHN SHORT-TERM DISABILITY PLAN FOR NON-ATTORNEYS
-        Benefit Category: Other
-        Codes:  4F
         Participants: 
    [517]
     2022: HONIGMAN LLP LONG TERM CARE PLAN
@@ -416,3 +391,28 @@ MI : DETROIT
         Available Investments:
            - JPMORGAN CHASE BANK, N.A.
                  : COMMINGLED PENSION TRUST FUND
+   [506]
+    2022: HONIGMAN LLP SHORT-TERM DISABILITY PLAN FOR NON-ATTORNEYS
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2021: HONIGMAN LLP SHORT-TERM DISABILITY PLAN FOR NON-ATTORNEYS
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2020: HONIGMAN LLP SHORT-TERM DISABILITY PLAN FOR NON-ATTORNEYS
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2019: HONIGMAN LLP SHORT-TERM DISABILITY PLAN FOR NON-ATTORNEYS
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2018: HONIGMAN MILLER SCHWARTZ AND COHN SHORT-TERM DISABILITY PLAN FOR NON-ATTORNEYS
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2017: HONIGMAN MILLER SCHWARTZ AND COHN SHORT-TERM DISABILITY PLAN FOR NON-ATTORNEYS
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 

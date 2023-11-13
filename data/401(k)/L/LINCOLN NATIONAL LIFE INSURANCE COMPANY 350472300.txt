@@ -233,6 +233,17 @@ AZ : SPRINGVILLE
         Participants: 174
         Assets: 298332
         $/Participant: 1714
+AL : HUNTSVILLE
+   [505]
+    2020: LINCOLN NATIONAL LIFE INSURANCE COMPANY
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 133
+   [510]
+    2021: DESE RESEARCH, INC.
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 132
 PA : RADNOR
    [005]
     2017: LNL MONEY PURCHASE PLAN
@@ -448,20 +459,20 @@ PA : RADNOR
 OK : BROKEN ARROW
    [501]
     2019: BROTHERTON HOLDINGS INC
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance
         Codes:  4A4B
         Participants: 101
 PA : RADNOR
    [502]
     2022: LINCOLN NATIONAL LIFE INSURANCE CO AGENTS LIFE, HEALTH & ACCIDENT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 490298
         $/Participant: 
         RecordKeeper: IBM
     2021: LINCOLN NATIONAL LIFE INSURANCE CO AGENTS LIFE, HEALTH & ACCIDENT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 1168404
@@ -471,28 +482,28 @@ PA : RADNOR
            - MITCHELL & TITUS :  (Accounting(including auditing))
            - LINCOLN NATIONAL LIFE INSURANCE CO : SUBSIDIARY (Plan Administrator)
     2020: LINCOLN NATIONAL LIFE INSURANCE CO AGENTS LIFE, HEALTH & ACCIDENT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 1069363
         $/Participant: 
         RecordKeeper: HEALTH EQUITY
     2019: LINCOLN NATIONAL LIFE INSURANCE CO AGENTS LIFE, HEALTH & ACCIDENT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 3688594
         $/Participant: 
         RecordKeeper: IBM WATSON
     2018: LINCOLN NATIONAL LIFE INSURANCE CO AGENTS LIFE, HEALTH & ACCIDENT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 6237317
         $/Participant: 
         RecordKeeper: HEALTH EQUITY
     2017: LINCOLN NATIONAL LIFE INSURANCE CO AGENTS LIFE, HEALTH & ACCIDENT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 8692307
@@ -525,14 +536,14 @@ PA : RADNOR
         Participants: 
    [511]
     2022: LINCOLN NATIONAL LIFE INSURANCE CO LIFE & HEALTH PLAN FOR RETIRED AGENTS
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental
         Codes:  4A4B4D
         Participants: 
         Assets: 1722683
         $/Participant: 
         RecordKeeper: LINCOLN NATIONAL LIFE INSURANCE CO
     2021: LINCOLN NATIONAL LIFE INSURANCE CO LIFE & HEALTH PLAN FOR RETIRED AGENTS
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental
         Codes:  4A4B4D
         Participants: 
         Assets: 1694026
@@ -543,7 +554,7 @@ PA : RADNOR
            - MEDICAL CARD SYSTEMS :  (Plan Administrator)
            - LINCOLN NATIONAL LIFE INSURANCE CO : SUBSIDIARY (Plan Administrator)
     2020: LINCOLN NATIONAL LIFE INSURANCE CO LIFE & HEALTH PLAN FOR RETIRED AGENTS
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental
         Codes:  4A4B4D
         Participants: 
         Assets: 1934412
@@ -555,7 +566,7 @@ PA : RADNOR
            - LINCOLN NATIONAL LIFE INSURANCE CO : SUBSIDIARY (Plan Administrator)
            - MEDICAL CARD SYSTEMS :  (Plan Administrator)
     2019: LINCOLN NATIONAL LIFE INSURANCE CO LIFE & HEALTH PLAN FOR RETIRED AGENTS
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental
         Codes:  4A4B4D
         Participants: 
         Assets: 975601
@@ -567,7 +578,7 @@ PA : RADNOR
            - LINCOLN NATIONAL LIFE INSURANCE CO : SUBSIDIARY (Plan Administrator)
            - MEDICAL CARD SYSTEMS :  (Plan Administrator)
     2018: LINCOLN NATIONAL LIFE INSURANCE CO LIFE & HEALTH PLAN FOR RETIRED AGENTS
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental
         Codes:  4A4B4D
         Participants: 
         Assets: 941728
@@ -578,7 +589,7 @@ PA : RADNOR
            - MITCHELL & TITUS :  (Accounting(including auditing))
            - MEDICAL CARD SYSTEMS :  (Plan Administrator)
     2017: LINCOLN NATIONAL LIFE INSURANCE CO LIFE & HEALTH PLAN FOR RETIRED AGENTS
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental
         Codes:  4A4B4D
         Participants: 
         Assets: 1141317
@@ -587,21 +598,46 @@ PA : RADNOR
 IA : GUTTENBERG
    [501]
     2020: GUTTENBERG MUNICIPAL HOSPITAL
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 127
 WI : MILWAUKEE
     2017: FOUNDERS 3 REAL ESTATE SERVICES BENEFIT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4F4H4Q
         Participants: 
 AL : HUNTSVILLE
    [508]
     2020: LINCOLN NATIONAL LIFE INSURANCE COMPANY
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 149
 PA : RADNOR
+   [503]
+    2022: LINCOLN NATIONAL LIFE INS CO AGENTS LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2021: LINCOLN NATIONAL LIFE INS CO AGENTS LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2020: LINCOLN NATIONAL LIFE INS CO AGENTS LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2019: LINCOLN NATIONAL LIFE INS CO AGENTS LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2018: LINCOLN NATIONAL LIFE INS CO AGENTS LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2017: LINCOLN NATIONAL LIFE INS CO AGENTS LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
    [005]
     2022: LNL MONEY PURCHASE PLAN
         Benefit Category: Other
@@ -1668,103 +1704,6 @@ PA : RADNOR
         Participants: 
         Assets: 2077054973
         $/Participant: 
-   [503]
-    2022: LINCOLN NATIONAL LIFE INS CO AGENTS LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2021: LINCOLN NATIONAL LIFE INS CO AGENTS LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2020: LINCOLN NATIONAL LIFE INS CO AGENTS LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2019: LINCOLN NATIONAL LIFE INS CO AGENTS LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2018: LINCOLN NATIONAL LIFE INS CO AGENTS LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2017: LINCOLN NATIONAL LIFE INS CO AGENTS LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-AL : HUNTSVILLE
-   [505]
-    2020: LINCOLN NATIONAL LIFE INSURANCE COMPANY
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 133
-   [507]
-    2020: LINCOLN NATIONAL LIFE INSURANCE COMPANY
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 115
-   [510]
-    2021: DESE RESEARCH, INC.
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 132
-   [512]
-    2021: DESE RESEARCH, INC.
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 115
-PA : RADNOR
-   [514]
-    2022: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' CRITICAL ILLNESS INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2021: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' CRITICAL ILLNESS INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2020: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' CRITICAL ILLNESS INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2019: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' CRITICAL ILLNESS INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2018: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' CRITICAL ILLNESS INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2017: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' CRITICAL ILLNESS INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-   [515]
-    2022: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' VOLUNTARY ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2021: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' VOLUNTARY ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2020: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' VOLUNTARY ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2019: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' VOLUNTARY ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2018: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' VOLUNTARY ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2017: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' VOLUNTARY ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
    [701]
     2019: LNL SAL1 LVIP WILSHIRE 2010 PROFILE
         Benefit Category: Other
@@ -2535,3 +2474,64 @@ PA : RADNOR
         Available Investments:
            - LINCOLN NATIONAL LIFE INSURANCE CO
                  : LIN NAT CORP EMPL RETIREMENT TRUST
+   [514]
+    2022: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' CRITICAL ILLNESS INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2021: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' CRITICAL ILLNESS INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2020: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' CRITICAL ILLNESS INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2019: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' CRITICAL ILLNESS INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2018: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' CRITICAL ILLNESS INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2017: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' CRITICAL ILLNESS INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+   [515]
+    2022: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' VOLUNTARY ACCIDENT INSURANCE
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2021: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' VOLUNTARY ACCIDENT INSURANCE
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2020: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' VOLUNTARY ACCIDENT INSURANCE
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2019: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' VOLUNTARY ACCIDENT INSURANCE
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2018: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' VOLUNTARY ACCIDENT INSURANCE
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2017: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' VOLUNTARY ACCIDENT INSURANCE
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+AL : HUNTSVILLE
+   [507]
+    2020: LINCOLN NATIONAL LIFE INSURANCE COMPANY
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 115
+   [512]
+    2021: DESE RESEARCH, INC.
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 115

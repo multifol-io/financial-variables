@@ -222,6 +222,27 @@ MI : JACKSON
                  : VANGUARD TAR RET INCOME TRUST II
            - VANGUARD FIDUCIARY TRUST
                  : VANGUARD TAR RET 2020 TRUST II
+   [519]
+    2021: GROUP DENTAL PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2020: GROUP DENTAL PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2019: GROUP DENTAL PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2018: GROUP DENTAL PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2017: GROUP DENTAL PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [510]
     2022: GROUP HEALTH CARE PLAN FOR RETIRED EMPLOYEES
         Benefit Category: Healthcare
@@ -326,7 +347,7 @@ MI : JACKSON
                  : GRYPHON INTERN EAFE GROWTH FUND
    [518]
     2022: GROUP MEDICAL PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2021: GROUP MEDICAL PLAN FOR ACTIVE EMPLOYEES
@@ -364,7 +385,7 @@ MI : JACKSON
         Participants: 
    [502]
     2022: RETIRED EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
         Assets: 53850857
@@ -374,7 +395,7 @@ MI : JACKSON
            - NORTHERN TRUST : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other fees)
            - NEW ENGLAND PENSION CONSULTANTS : CONSULTANT (Consulting(general) | Investment advisory(plan) | Valuation(appraisals, etc.) | Direct payment from the plan | Consulting fees)
     2021: RETIRED EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
         Assets: 65036650
@@ -384,7 +405,7 @@ MI : JACKSON
            - NORTHERN TRUST : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other fees)
            - NEW ENGLAND PENSION CONSULTANTS : CONSULTANT (Consulting(general) | Investment advisory(plan) | Valuation(appraisals, etc.) | Direct payment from the plan | Consulting fees)
     2020: RETIRED EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
         Assets: 58860425
@@ -394,7 +415,7 @@ MI : JACKSON
            - NORTHERN TRUST : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other fees)
            - COMERICA BANK : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other fees)
     2019: RETIRED EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
         Assets: 53340548
@@ -403,7 +424,7 @@ MI : JACKSON
            - NEW ENGLAND PENSION CONSULTANTS : CONSULTANT (Consulting(general) | Investment advisory(plan) | Valuation(appraisals, etc.) | Direct payment from the plan | Consulting fees)
            - COMERICA BANK : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other fees)
     2018: RETIRED EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
         Assets: 46332475
@@ -412,7 +433,7 @@ MI : JACKSON
            - NEW ENGLAND PENSION CONSULTANTS : CONSULTANT (Consulting(general) | Investment advisory(plan) | Valuation(appraisals, etc.) | Direct payment from the plan | Consulting fees)
            - COMERICA BANK : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other fees)
     2017: RETIRED EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
         Assets: 49260558
@@ -422,66 +443,87 @@ MI : JACKSON
            - NEW ENGLAND PENSION CONSULTANTS : CONSULTANT (Consulting(general) | Investment advisory(plan) | Valuation(appraisals, etc.) | Direct payment from the plan | Consulting fees)
    [504]
     2021: GROUP TERM LIFE INSURANCE PLAN FOR OM&C EMPLOYEES
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2020: GROUP TERM LIFE INSURANCE PLAN FOR OM&C EMPLOYEES
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2019: GROUP TERM LIFE INSURANCE PLAN FOR OM&C EMPLOYEES
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2018: GROUP TERM LIFE INSURANCE PLAN FOR OM&C EMPLOYEES
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: GROUP TERM LIFE INSURANCE PLAN FOR OM&C EMPLOYEES
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
    [511]
     2021: GROUP TERM LIFE INSURANCE PLAN FOR SALARIED EMPLOYEES
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2020: GROUP TERM LIFE INSURANCE PLAN FOR SALARIED EMPLOYEES
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2019: GROUP TERM LIFE INSURANCE PLAN FOR SALARIED EMPLOYEES
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2018: GROUP TERM LIFE INSURANCE PLAN FOR SALARIED EMPLOYEES
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: GROUP TERM LIFE INSURANCE PLAN FOR SALARIED EMPLOYEES
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
    [512]
     2021: DEPENDENTS GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2020: DEPENDENTS GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2019: DEPENDENTS GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2018: DEPENDENTS GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: DEPENDENTS GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
+        Participants: 
+   [507]
+    2021: GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2020: GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2019: GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2018: GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2017: GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
    [005]
     2022: CONSUMER ENERGY COMPANY MASTER TRUST FOR THE PENSION PLANS
@@ -589,48 +631,6 @@ MI : JACKSON
            - NORTHERN TRUST
                  : S&P 500 INDEX EQUITY STRATEGY
                  : S&P MIDCAP INDEX EQUITY
-   [507]
-    2021: GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2020: GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2019: GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2018: GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2017: GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-   [508]
-    2021: TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
    [514]
     2021: FLEXFUND PLAN
         Benefit Category: Other
@@ -672,27 +672,6 @@ MI : JACKSON
     2017: GROUP 24-HOUR ACCIDENT INSURANCE PLAN
         Benefit Category: Other
         Codes:  4Q
-        Participants: 
-   [519]
-    2021: GROUP DENTAL PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2020: GROUP DENTAL PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2019: GROUP DENTAL PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2018: GROUP DENTAL PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2017: GROUP DENTAL PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Other
-        Codes:  4D
         Participants: 
    [001]
     2022: PENSION PLAN B FOR EMPLOYEES OF CONSUMERS ENERGY COMPANY
@@ -846,4 +825,25 @@ MI : JACKSON
     2017: SEPARATION ALLOWANCE PLAN
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [508]
+    2021: TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
         Participants: 

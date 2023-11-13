@@ -85,37 +85,37 @@ MS : RIDGELAND
                  : WF/BLACKROCK S&P 500 INDEX CIT N
    [503]
     2022: SOUTHERN FARM BUREAU GROUP MEDICAL AND DENTAL INSURANCE PLAN FOR EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 543
         Service Providers:
            - BLUE CROSS BLUE SHIELD OF MS :  (Claims processing)
     2021: SOUTHERN FARM BUREAU GROUP MEDICAL AND DENTAL INSURANCE PLAN FOR EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 505
         Service Providers:
            - BLUE CROSS BLUE SHIELD OF MS :  (Claims processing)
     2020: SOUTHERN FARM BUREAU GROUP MEDICAL AND DENTAL INSURANCE PLAN FOR EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 536
         Service Providers:
            - BLUE CROSS BLUE SHIELD OF MS :  (Claims processing)
     2019: SOUTHERN FARM BUREAU GROUP MEDICAL AND DENTAL INSURANCE PLAN FOR EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 572
         Service Providers:
            - BLUE CROSS BLUE SHIELD OF MS :  (Claims processing)
     2018: SOUTHERN FARM BUREAU GROUP MEDICAL AND DENTAL INSURANCE PLAN FOR EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 707
         Service Providers:
            - BLUE CROSS BLUE SHIELD OF MS :  (Claims processing)
     2017: SOUTHERN FARM BUREAU GROUP MEDICAL AND DENTAL INSURANCE PLAN FOR EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 564
         Service Providers:
@@ -173,50 +173,30 @@ MS : RIDGELAND
         Participants: 442
    [502]
     2021: SOUTHERN FARM BUREAU CASUALTY EMPLOYEES GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 2086
     2020: SOUTHERN FARM BUREAU CASUALTY EMPLOYEES GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 2137
     2019: SOUTHERN FARM BUREAU CASUALTY EMPLOYEES GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 2029
     2018: SOUTHERN FARM BUREAU CASUALTY EMPLOYEES GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 1815
     2017: SOUTHERN FARM BUREAU CASUALTY EMPLOYEES GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 1796
-   [501]
-    2022: ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 1419
-    2021: ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 1398
-    2020: ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 1397
-    2019: ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 1393
-    2018: ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 1528
-    2017: ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 1366
+   [508]
+    2020: SOUTHERN FARM BUREAU CASUALTY GROUP DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 1551
    [506]
     2022: SOUTHERN FARM BUREAU EMPLOYEE ASSISTANCE PROGRAM
         Benefit Category: Other
@@ -242,11 +222,6 @@ MS : RIDGELAND
         Benefit Category: Other
         Codes:  4Q
         Participants: 585
-   [508]
-    2020: SOUTHERN FARM BUREAU CASUALTY GROUP DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 1551
    [001]
     2021: SFB CASUALTY INS CO RETIREMENT PLAN
         Benefit Category: Pension
@@ -321,3 +296,28 @@ MS : RIDGELAND
                  : NT COLLECTIVE (STIF)
            - TCW INVESTMENT MANAGEMENT COMPANY, LLC
                  : TCW LONG DUR GOVT CREDIT FUND CL E
+   [501]
+    2022: ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 1419
+    2021: ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 1398
+    2020: ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 1397
+    2019: ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 1393
+    2018: ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 1528
+    2017: ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 1366

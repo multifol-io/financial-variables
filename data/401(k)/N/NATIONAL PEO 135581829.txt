@@ -1,34 +1,41 @@
-AZ : SCOTTSDALE
+PA : PITTSBURGH
   NATIONAL PEO  135581829
+   [503]
+    2019: DENTAL
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 911
+AZ : SCOTTSDALE
+   [501]
     2022: NATIONAL PEO WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4C4H
         Participants: 
 NJ : PRINCETON
     2021: MIAMI INTERNATIONAL HOLDINGS, INC HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4E4F4H
         Participants: 
     2020: MIAMI INTERNATIONAL HOLDINGS, INC HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4E4F4H
         Participants: 
     2019: MIAMI INTERNATIONAL HOLDINGS, INC HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4E4F4H
         Participants: 
     2018: MIAMI INTERNATIONAL HOLDINGS, INC HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4E4F4H
         Participants: 
     2017: MIAMI INTERNATIONAL HOLDINGS, INC HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4E4F4H
         Participants: 
 NJ : BRIDGEWATER
    [512]
     2017: METLIFE OPTIONS & CHOICES PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
         Assets: 1459032015
@@ -54,37 +61,37 @@ NJ : BRIDGEWATER
 FL : TAMPA
    [501]
     2021: SPECIAL APPLICATIONS GROUP LLC
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4F4H4Q
         Participants: 106
 AZ : SCOTTSDALE
     2020: NATIONAL PEO
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4D4E4B4F4H4Q
         Participants: 
     2019: NATIONAL PEO
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4D4E4B4F4H4Q
         Participants: 
     2018: NATIONAL PEO
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4D4E4B4F4H4Q
         Participants: 
 MD : JESSUP
     2017: SAYLITE, LLC DBA MOBERN LIGHTING COMPANY LIFE & DISABILITY PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability
         Codes:  4B4H
         Participants: 
 MN : NORTHFIELD
    [502]
     2021: LIFE INSURANCE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 145
 NJ : BRIDGEWATER
    [511]
     2017: WELFARE BENEFIT PLAN FOR EES. OF METROPOLITAN LIFE
-        Benefit Category: Life Insurance, Severance
+        Benefit Category: Life insurance, Severance, Travel accident
         Codes:  4B4G4I4L4Q
         Participants: 
 CO : GREENWOOD VILLAGE
@@ -115,12 +122,6 @@ CO : GREENWOOD VILLAGE
         Available Investments:
            - METROPOLITAN LIFE INSURANCE COMPANY
                  : METMA SEPARATE ACCOUNT
-PA : PITTSBURGH
-   [503]
-    2019: DENTAL
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 911
 NJ : BRIDGEWATER
    [001]
     2017: METLIFE RETIREMENT PLAN

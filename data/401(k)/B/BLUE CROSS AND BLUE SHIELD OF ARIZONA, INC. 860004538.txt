@@ -240,79 +240,54 @@ AZ : PHOENIX
                  : WF STABLE VALUE FUND
    [501]
     2022: FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 395
     2021: FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 355
     2020: FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 317
     2019: FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 306
     2018: FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 347
     2017: FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 416
    [503]
     2022: EMPLOYEE HEALTH PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 2616
     2021: EMPLOYEE HEALTH PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 2000
     2020: EMPLOYEE HEALTH PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 2019
     2019: EMPLOYEE HEALTH PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 1797
     2018: EMPLOYEE HEALTH PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 1894
     2017: EMPLOYEE HEALTH PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 1797
-   [504]
-    2022: EMPLOYEE DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H4L
-        Participants: 2687
-    2021: EMPLOYEE DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H4L
-        Participants: 2109
-    2020: EMPLOYEE DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H4L
-        Participants: 1724
-    2019: EMPLOYEE DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H4L
-        Participants: 1475
-    2018: EMPLOYEE DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H4L
-        Participants: 1328
-    2017: EMPLOYEE DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H4L
-        Participants: 1332
    [506]
     2022: BLUE CROSS BLUE SHIELD OF ARIZONA, INC. EMPLOYEE ASSISTANCE PROGRAM
         Benefit Category: Other
@@ -538,3 +513,28 @@ AZ : PHOENIX
         Benefit Category: Severance
         Codes:  4I
         Participants: 109
+   [504]
+    2022: EMPLOYEE DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability, Travel accident
+        Codes:  4F4H4L
+        Participants: 2687
+    2021: EMPLOYEE DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability, Travel accident
+        Codes:  4F4H4L
+        Participants: 2109
+    2020: EMPLOYEE DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability, Travel accident
+        Codes:  4F4H4L
+        Participants: 1724
+    2019: EMPLOYEE DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability, Travel accident
+        Codes:  4F4H4L
+        Participants: 1475
+    2018: EMPLOYEE DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability, Travel accident
+        Codes:  4F4H4L
+        Participants: 1328
+    2017: EMPLOYEE DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability, Travel accident
+        Codes:  4F4H4L
+        Participants: 1332

@@ -153,9 +153,22 @@ MN : DULUTH
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE RETURN FUND N
                  : WELLS FARGO STABLE RETURN FUND N25
+   [504]
+    2019: ALLETE AND AFFILIATED COMPANIES EMPLOYEES' DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 1000
+    2018: ALLETE AND AFFILIATED COMPANIES EMPLOYEES' DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 1113
+    2017: ALLETE AND AFFILIATED COMPANIES EMPLOYEES' DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 1204
    [599]
     2022: ALLETE AND AFFILIATED COMPANIES WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4H4I4L4U
         Participants: 
         Assets: 170986152
@@ -170,7 +183,7 @@ MN : DULUTH
            - BLUE CROSS BLUE SHIELD : MULTIPLE SERVICE PROVIDER (Insurance agents and brokers)
            - NORTH SHORE BANK OF COMMERCE : TRUSTEE (Trustee(discretionary))
     2021: ALLETE AND AFFILIATED COMPANIES WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4H4I4L4U
         Participants: 
         Assets: 208839576
@@ -183,7 +196,7 @@ MN : DULUTH
            - DELTA DENTAL OF MN : DATA PROCESSING PROVIDER (Claims processing)
            - NORTH SHORE BANK OF COMMERCE : TRUSTEE (Trustee(discretionary))
     2020: ALLETE AND AFFILIATED COMPANIES WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4H4I4L4U
         Participants: 
         Assets: 191690584
@@ -200,7 +213,7 @@ MN : DULUTH
            - NORTH SHORE BANK OF COMMERCE : TRUSTEE (Trustee(discretionary))
    [502]
     2019: ALLETE AND AFFILIATED COMPANIES GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4U
         Participants: 
         Assets: 14784990
@@ -208,7 +221,7 @@ MN : DULUTH
         Service Providers:
            - NORTH SHORE BANK OF COMMERCE : TRUSTEE (Investment advisory(participants))
     2018: ALLETE AND AFFILIATED COMPANIES GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4U
         Participants: 
         Assets: 13301314
@@ -216,13 +229,26 @@ MN : DULUTH
         Service Providers:
            - NORTH SHORE BANK OF COMMERCE : TRUSTEE (Investment advisory(participants))
     2017: ALLETE AND AFFILIATED COMPANIES GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4U
         Participants: 
         Assets: 15241802
         $/Participant: 
         Service Providers:
            - NORTH SHORE BANK OF COMMERCE : TRUSTEE (Investment advisory(participants))
+   [503]
+    2019: ALLETE AND AFFILIATED COMPANIES LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 1226
+    2018: ALLETE AND AFFILIATED COMPANIES LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 1214
+    2017: ALLETE AND AFFILIATED COMPANIES LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 1301
    [004]
     2022: ALLETE AND AFFILIATED COMPANIES MASTER PENSION TRUST
         Benefit Category: Other
@@ -314,32 +340,6 @@ MN : DULUTH
                  : MERCER ACTIVE LNG CORP FI PORTFOLIO
                  : MERCER EMERGING MKTS PORTFOLIO
                  : MERCER NON-US CORE EQUITY PORTFOLIO
-   [503]
-    2019: ALLETE AND AFFILIATED COMPANIES LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 1226
-    2018: ALLETE AND AFFILIATED COMPANIES LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 1214
-    2017: ALLETE AND AFFILIATED COMPANIES LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 1301
-   [504]
-    2019: ALLETE AND AFFILIATED COMPANIES EMPLOYEES' DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 1000
-    2018: ALLETE AND AFFILIATED COMPANIES EMPLOYEES' DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 1113
-    2017: ALLETE AND AFFILIATED COMPANIES EMPLOYEES' DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 1204
    [001]
     2018: ALLETE & AFFILIATED COMPANIES RETIREMENT PLAN A
         Benefit Category: Pension

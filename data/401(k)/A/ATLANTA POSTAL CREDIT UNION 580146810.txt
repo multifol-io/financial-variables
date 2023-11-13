@@ -42,13 +42,26 @@ GA : ATLANTA
         Assets: 7633320
         $/Participant: 28063
         RecordKeeper: CMFG LIFE INSURANCE COMPANY
+   [504]
+    2019: APCU DENTAL
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2018: APCU DENTAL
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2017: APCU DENTAL
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [501]
     2021: APCU HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Long-term disability
         Codes:  4A4B4C4H4Q
         Participants: 
     2020: APCU HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Long-term disability
         Codes:  4A4B4C4H4Q
         Participants: 
     2019: APCU HEALTH AND WELFARE PLAN
@@ -65,55 +78,16 @@ GA : ATLANTA
         Participants: 
    [502]
     2019: APCU GROUP LIFE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability
         Codes:  4B4H4Q
         Participants: 
     2018: APCU GROUP LIFE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability
         Codes:  4B4H4Q
         Participants: 
     2017: APCU GROUP LIFE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability
         Codes:  4B4H4Q
-        Participants: 
-   [503]
-    2019: APCU VISION
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2018: APCU VISION
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2017: APCU VISION
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-   [504]
-    2019: APCU DENTAL
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2018: APCU DENTAL
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2017: APCU DENTAL
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-   [510]
-    2019: APCU ADD PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: APCU ADD PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: APCU ADD PLAN
-        Benefit Category: Other
-        Codes:  4L
         Participants: 
    [002]
     2022: ATLANTA POSTAL CREDIT UNION CASH BALANCE DEFINED BENEFIT PLAN AND TRUST
@@ -152,3 +126,29 @@ GA : ATLANTA
         Participants: 277
         Assets: 86112785
         $/Participant: 310876
+   [510]
+    2019: APCU ADD PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: APCU ADD PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: APCU ADD PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+   [503]
+    2019: APCU VISION
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2018: APCU VISION
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2017: APCU VISION
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 

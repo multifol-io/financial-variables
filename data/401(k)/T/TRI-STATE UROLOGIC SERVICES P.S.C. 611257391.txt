@@ -35,13 +35,30 @@ OH : CINCINNATI
         Assets: 70304577
         $/Participant: 262330
         RecordKeeper: UBS
+   [503]
+    2020: TRI STATE UROLOGIC SERVICES DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 347
+    2019: TRI STATE UROLOGIC SERVICES DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 195
+    2018: TRI STATE UROLOGIC SERVICES DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 177
+    2017: TRI STATE UROLOGIC SERVICES DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 153
    [501]
     2022: TRI STATE UROLOGIC SERVICES HEALTH PLAN
-        Benefit Category: Healthcare, Severance
+        Benefit Category: Healthcare, Dental, Vision, Short-term disability, Severance, Travel accident
         Codes:  4A4I4E4F4D4L
         Participants: 73
     2021: TRI STATE UROLOGIC SERVICES HEALTH PLAN
-        Benefit Category: Healthcare, Severance
+        Benefit Category: Healthcare, Dental, Vision, Short-term disability, Severance, Travel accident
         Codes:  4A4I4E4F4D4L
         Participants: 64
     2020: TRI STATE UROLOGIC SERVICES HEALTH PLAN
@@ -62,55 +79,21 @@ OH : CINCINNATI
         Participants: 179
    [502]
     2020: TRI STATE UROLOGIC SERVICES WELFARE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4F4H
         Participants: 0
     2019: TRI STATE UROLOGIC SERVICES WELFARE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4F4H
         Participants: 87
     2018: TRI STATE UROLOGIC SERVICES WELFARE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4F4H
         Participants: 289
     2017: TRI STATE UROLOGIC SERVICES WELFARE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4F4H
         Participants: 267
-   [503]
-    2020: TRI STATE UROLOGIC SERVICES DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 347
-    2019: TRI STATE UROLOGIC SERVICES DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 195
-    2018: TRI STATE UROLOGIC SERVICES DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 177
-    2017: TRI STATE UROLOGIC SERVICES DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 153
-   [504]
-    2020: TRI STATE UROLOGIC SERVICES VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 226
-    2019: TRI STATE UROLOGIC SERVICES VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 135
-    2018: TRI STATE UROLOGIC SERVICES VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 121
-    2017: TRI STATE UROLOGIC SERVICES VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 110
    [003]
     2019: TRI STATE UROLOGIC SERVICES P.S.C., INC. DEFINED BENEFIT PLAN
         Benefit Category: Pension
@@ -134,3 +117,20 @@ OH : CINCINNATI
         $/Participant: 39647
         Service Providers:
            - JOHNSON INVESTMENT COUNSEL :  (Custodial(securities) | Investment management fees paid directly by plan)
+   [504]
+    2020: TRI STATE UROLOGIC SERVICES VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 226
+    2019: TRI STATE UROLOGIC SERVICES VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 135
+    2018: TRI STATE UROLOGIC SERVICES VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 121
+    2017: TRI STATE UROLOGIC SERVICES VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 110

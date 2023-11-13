@@ -66,6 +66,86 @@ TX : HOUSTON
            - VOYA
                  : SMALL CAP GROWTH TRUST FUND
    [501]
+    2017: SPECTRA ENERGY MEDICAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Assets: 10037000
+        $/Participant: 
+        Service Providers:
+           - BLUE CROSS BLUE SHIELD :  (Account maintenance fees)
+           - AETNA :  (Account maintenance fees)
+           - AVIVIA :  (Account maintenance fees)
+           - MEDCO :  (Account maintenance fees)
+           - BEST DOCTORS :  (Account maintenance fees)
+           - TELADOC :  (Account maintenance fees)
+        Available Investments:
+           - SPECTRA ENERGY CORP
+                 : SEC EMPLOYEE BENEFITS TRUST
+   [502]
+    2020: SPECTRA ENERGY DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Service Providers:
+           - UMR :  (Account maintenance fees)
+        Available Investments:
+           - SPECTRA ENERGY CORP
+                 : SEC EMPLOYEE BENEFITS TRUST
+    2019: SPECTRA ENERGY DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Assets: 619000
+        $/Participant: 
+        Service Providers:
+           - UMR :  (Account maintenance fees)
+        Available Investments:
+           - SPECTRA ENERGY CORP
+                 : SEC EMPLOYEE BENEFITS TRUST
+    2018: SPECTRA ENERGY DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Assets: 1920000
+        $/Participant: 
+        Service Providers:
+           - UMR :  (Account maintenance fees)
+           - BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar))
+        Available Investments:
+           - SPECTRA ENERGY CORP
+                 : SEC EMPLOYEE BENEFITS TRUST
+    2017: SPECTRA ENERGY DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Assets: 2188000
+        $/Participant: 
+        Service Providers:
+           - UMR :  (Account maintenance fees)
+           - BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar))
+        Available Investments:
+           - SPECTRA ENERGY CORP
+                 : SEC EMPLOYEE BENEFITS TRUST
+   [512]
+    2017: SPECTRA ENERGY RETIREE MEDICAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Assets: 20307000
+        $/Participant: 
+        Service Providers:
+           - UMR :  (Account maintenance fees)
+           - MEDCO :  (Account maintenance fees)
+           - BLUE CROSS BLUE SHIELD :  (Account maintenance fees)
+           - BNY MELLON :  (Trustee(bank, trust company, or similar))
+           - MELLON CAPITAL MANAGEMENT :  (Investment management)
+        Available Investments:
+           - BANK OF NEW YORK MELLON
+                 : CF AGG BOND INDEX FUND
+                 : CF DV STOCK INDEX FUND
+                 : SE4 CHARITABLE TEMP INV FD
+   [501]
     2020: SPECTRA ENERGY MEDICAL PLAN
         Benefit Category: Healthcare
         Codes:  4A
@@ -174,14 +254,14 @@ TX : HOUSTON
                  : SE4 CHARITABLE TEMP INV FD
    [504]
     2020: SPECTRA ENERGY BASIC LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
         Available Investments:
            - SPECTRA ENERGY CORP
                  : SEC EMPLOYEE BENEFITS TRUST
     2019: SPECTRA ENERGY BASIC LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
         Assets: 23000
@@ -190,7 +270,7 @@ TX : HOUSTON
            - SPECTRA ENERGY CORP
                  : SEC EMPLOYEE BENEFITS TRUST
     2018: SPECTRA ENERGY BASIC LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
         Assets: 30000
@@ -199,7 +279,7 @@ TX : HOUSTON
            - SPECTRA ENERGY CORP
                  : SEC EMPLOYEE BENEFITS TRUST
     2017: SPECTRA ENERGY BASIC LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
         Assets: 32000
@@ -209,21 +289,38 @@ TX : HOUSTON
                  : SEC EMPLOYEE BENEFITS TRUST
    [505]
     2020: SPECTRA ENERGY SUPPLEMENTAL & DEPENDENT LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2019: SPECTRA ENERGY SUPPLEMENTAL & DEPENDENT LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2018: SPECTRA ENERGY SUPPLEMENTAL & DEPENDENT LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: SPECTRA ENERGY SUPPLEMENTAL & DEPENDENT LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
+   [508]
+    2018: SPECTRA ENERGY LONG-TERM DISABILITY INSURANCE PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+        Available Investments:
+           - SPECTRA ENERGY CORP
+                 : SEC EMPLOYEE BENEFITS TRUST
+    2017: SPECTRA ENERGY LONG-TERM DISABILITY INSURANCE PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+        Assets: 39000
+        $/Participant: 
+        Available Investments:
+           - SPECTRA ENERGY CORP
+                 : SEC EMPLOYEE BENEFITS TRUST
    [107]
     2020: SPECTRA ENERGY CORP EMPLOYEE BENEFITS TRUST
         Benefit Category: Other
@@ -296,68 +393,6 @@ TX : HOUSTON
                  : CF AGGREGATE BOND INDEX FUND
                  : CF DV STOCK INDEX FUND
                  : SE4 CHARITABLE TEMPORARY INVESTMENT
-   [501]
-    2017: SPECTRA ENERGY MEDICAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Assets: 10037000
-        $/Participant: 
-        Service Providers:
-           - BLUE CROSS BLUE SHIELD :  (Account maintenance fees)
-           - AETNA :  (Account maintenance fees)
-           - AVIVIA :  (Account maintenance fees)
-           - MEDCO :  (Account maintenance fees)
-           - BEST DOCTORS :  (Account maintenance fees)
-           - TELADOC :  (Account maintenance fees)
-        Available Investments:
-           - SPECTRA ENERGY CORP
-                 : SEC EMPLOYEE BENEFITS TRUST
-   [502]
-    2020: SPECTRA ENERGY DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Service Providers:
-           - UMR :  (Account maintenance fees)
-        Available Investments:
-           - SPECTRA ENERGY CORP
-                 : SEC EMPLOYEE BENEFITS TRUST
-    2019: SPECTRA ENERGY DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Assets: 619000
-        $/Participant: 
-        Service Providers:
-           - UMR :  (Account maintenance fees)
-        Available Investments:
-           - SPECTRA ENERGY CORP
-                 : SEC EMPLOYEE BENEFITS TRUST
-    2018: SPECTRA ENERGY DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Assets: 1920000
-        $/Participant: 
-        Service Providers:
-           - UMR :  (Account maintenance fees)
-           - BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar))
-        Available Investments:
-           - SPECTRA ENERGY CORP
-                 : SEC EMPLOYEE BENEFITS TRUST
-    2017: SPECTRA ENERGY DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Assets: 2188000
-        $/Participant: 
-        Service Providers:
-           - UMR :  (Account maintenance fees)
-           - BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar))
-        Available Investments:
-           - SPECTRA ENERGY CORP
-                 : SEC EMPLOYEE BENEFITS TRUST
    [503]
     2019: SPECTRA ENERGY CAFETERIA PLAN
         Benefit Category: Other
@@ -380,32 +415,6 @@ TX : HOUSTON
         Benefit Category: Other
         Codes:  4Q
         Participants: 
-   [507]
-    2018: SPECTRA ENERGY BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: SPECTRA ENERGY BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-   [508]
-    2018: SPECTRA ENERGY LONG-TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-        Available Investments:
-           - SPECTRA ENERGY CORP
-                 : SEC EMPLOYEE BENEFITS TRUST
-    2017: SPECTRA ENERGY LONG-TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-        Assets: 39000
-        $/Participant: 
-        Available Investments:
-           - SPECTRA ENERGY CORP
-                 : SEC EMPLOYEE BENEFITS TRUST
    [510]
     2018: SPECTRA ENERGY EMPLOYEE ASSISTANCE PROGRAM
         Benefit Category: Other
@@ -415,33 +424,6 @@ TX : HOUSTON
         Benefit Category: Other
         Codes:  4Q
         Participants: 
-   [511]
-    2018: SPECTRA ENERGY VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2017: SPECTRA ENERGY VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-   [512]
-    2017: SPECTRA ENERGY RETIREE MEDICAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Assets: 20307000
-        $/Participant: 
-        Service Providers:
-           - UMR :  (Account maintenance fees)
-           - MEDCO :  (Account maintenance fees)
-           - BLUE CROSS BLUE SHIELD :  (Account maintenance fees)
-           - BNY MELLON :  (Trustee(bank, trust company, or similar))
-           - MELLON CAPITAL MANAGEMENT :  (Investment management)
-        Available Investments:
-           - BANK OF NEW YORK MELLON
-                 : CF AGG BOND INDEX FUND
-                 : CF DV STOCK INDEX FUND
-                 : SE4 CHARITABLE TEMP INV FD
    [001]
     2018: SPECTRA ENERGY RETIREMENT CASH BALANCE PLAN
         Benefit Category: Pension
@@ -473,4 +455,22 @@ TX : HOUSTON
     2017: SPECTRA ENERGY CORP CHANGE IN CONTROL SEVERANCE BENEFITS PLAN
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [507]
+    2018: SPECTRA ENERGY BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: SPECTRA ENERGY BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+   [511]
+    2018: SPECTRA ENERGY VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2017: SPECTRA ENERGY VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
         Participants: 

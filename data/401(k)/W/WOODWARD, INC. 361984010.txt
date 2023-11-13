@@ -140,33 +140,33 @@ IL : ROCKFORD
 CO : FORT COLLINS
    [503]
     2022: WOODWARD EMPLOYEE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4C4D4E4F4H
         Participants: 
         RecordKeeper: ROCKY MOUNTAIN HOSPITAL & MEDICAL
     2021: WOODWARD EMPLOYEE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4C4D4E4F4H
         Participants: 
         RecordKeeper: ROCKY MOUNTAIN HOSPITAL & MEDICAL
     2020: WOODWARD EMPLOYEE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4C4D4E4F4H
         Participants: 
         RecordKeeper: AON CONSULTING INC.
     2019: WOODWARD EMPLOYEE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4C4D4E4F4H
         Participants: 
         RecordKeeper: AON CONSULTING INC.
     2018: WOODWARD EMPLOYEE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4C4D4E4F4H
         Participants: 
         RecordKeeper: AON CONSULTING INC.
 IL : ROCKFORD
     2017: WOODWARD EMPLOYEE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4C4D4E4F4H
         Participants: 
         Service Providers:
@@ -222,33 +222,6 @@ IL : ROCKFORD
         $/Participant: 23841
         Service Providers:
            - VANGUARD GROUP, INC. : TRUSTEE (Consulting(general))
-CO : FORT COLLINS
-   [507]
-    2022: WOODWARD TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2021: WOODWARD TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: WOODWARD TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: WOODWARD TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: WOODWARD TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-IL : ROCKFORD
-    2017: WOODWARD TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
 CO : FORT COLLINS
    [005]
     2022: WOODWARD FST EMPLOYEES' PENSION PLAN
@@ -339,3 +312,30 @@ IL : ROCKFORD
         Assets: 141228737
         $/Participant: 196151
         RecordKeeper: MILLIMAN
+CO : FORT COLLINS
+   [507]
+    2022: WOODWARD TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2021: WOODWARD TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: WOODWARD TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: WOODWARD TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: WOODWARD TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+IL : ROCKFORD
+    2017: WOODWARD TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 

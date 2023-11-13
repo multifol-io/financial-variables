@@ -35,6 +35,19 @@ WA : CAMAS
         Assets: 17205882
         $/Participant: 103649
         RecordKeeper: STANCORP FINANCIAL GROUP
+   [505]
+    2019: PLEXSYS INTERFACE PRODUCTS, INC. WELFARE BENEFIT PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2018: PLEXSYS INTERFACE PRODUCTS, INC. WELFARE BENEFIT PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 131
+    2017: PLEXSYS INTERFACE PRODUCTS, INC. WELFARE BENEFIT PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 113
    [002]
     2022: THE PLEXSYS INTERFACE PRODUCTS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
         Benefit Category: Employee Stock Ownership Plan
@@ -79,41 +92,28 @@ WA : CAMAS
         Participants: 115
    [502]
     2021: PLEXSYS INTERFACE PRODUCTS INC WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
         Service Providers:
            - ALLEGIANCE BENEFIT : CONTRACT ADMINISTRATOR (Contract Administrator)
            - HEALTH EQUITY : CONTRACT ADMINISTRATOR (Contract Administrator)
     2020: PLEXSYS INTERFACE PRODUCTS INC WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
         Service Providers:
            - ALLEGIANCE BENEFIT : CONTRACT ADMINISTRATOR (Contract Administrator)
            - HEALTH EQUITY : CONTRACT ADMINISTRATOR (Contract Administrator)
     2019: PLEXSYS INTERFACE PRODUCTS INC WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
         Codes:  4A4B4D4F4H
         Participants: 
     2018: PLEXSYS INTERFACE PRODUCTS INC WELFARE BENEFIT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4F4H
         Participants: 
     2017: PLEXSYS INTERFACE PRODUCTS, INC. WELFARE BENEFIT PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability
         Codes:  4B4H
         Participants: 126
-   [505]
-    2019: PLEXSYS INTERFACE PRODUCTS, INC. WELFARE BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2018: PLEXSYS INTERFACE PRODUCTS, INC. WELFARE BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 131
-    2017: PLEXSYS INTERFACE PRODUCTS, INC. WELFARE BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 113

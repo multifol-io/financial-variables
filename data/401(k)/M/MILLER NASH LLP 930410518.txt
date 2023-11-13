@@ -43,9 +43,14 @@ OR : PORTLAND
         Assets: 113204955
         $/Participant: 241375
         RecordKeeper: CHARLES SCHWAB
+   [505]
+    2017: MILLER NASH GRAHAM AND DUNN LLP GROUP DENTAL INSURANCE PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 264
    [501]
     2017: MILLER NASH GRAHAM AND DUNN LLP GROUP HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Short-term disability
         Codes:  4A4F4Q
         Participants: 263
    [506]
@@ -75,29 +80,34 @@ OR : PORTLAND
         Participants: 155
    [509]
     2022: MILLER NASH LLP EMPLOYEE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4D4E4B4F4H4Q4L
         Participants: 290
     2021: MILLER NASH LLP EMPLOYEE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4D4E4B4F4H4Q4L
         Participants: 278
     2020: MILLER NASH GRAHAM AND DUNN LLP EMPLOYEE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4D4E4B4F4H4Q4L
         Participants: 297
     2019: MILLER NASH GRAHAM AND DUNN LLP EMPLOYEE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4D4E4B4F4H4Q4L
         Participants: 315
     2018: MILLER NASH GRAHAM AND DUNN LLP EMPLOYEE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4D4E4B4F4H4Q4L
         Participants: 303
    [502]
     2017: MILLER NASH GRAHAM AND DUNN LLP GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Long-term disability
         Codes:  4B4H4Q
+        Participants: 296
+   [504]
+    2017: MILLER NASH GRAHAM AND DUNN LLP GROUP LONG-TERM DISABILITY INSURANCE PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 296
    [001]
     2017: MILLER NASH GRAHAM & DUNN LLP PROFIT SHARING PLAN
@@ -105,28 +115,18 @@ OR : PORTLAND
         Codes: 2E2F2G2R2T 
         Participants: 0
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-   [503]
-    2017: MILLER NASH GRAHAM AND DUNN LLP TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 312
-   [504]
-    2017: MILLER NASH GRAHAM AND DUNN LLP GROUP LONG-TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 296
-   [505]
-    2017: MILLER NASH GRAHAM AND DUNN LLP GROUP DENTAL INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 264
    [507]
     2017: MILLER NASH GRAHAM AND DUNN LLP EMPLOYEE ASSISTANCE PLAN
         Benefit Category: Other
         Codes:  4Q
         Participants: 318
+   [503]
+    2017: MILLER NASH GRAHAM AND DUNN LLP TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 312
    [508]
     2017: MILLER NASH GRAHAM AND DUNN LLP GROUP VISION INSURANCE PLAN
-        Benefit Category: Other
+        Benefit Category: Vision
         Codes:  4E
         Participants: 170

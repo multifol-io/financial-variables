@@ -371,7 +371,7 @@ DE : WILMINGTON
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
    [508]
     2022: ASTRAZENECA RETIREE HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Assets: 130910000
@@ -380,7 +380,7 @@ DE : WILMINGTON
            - ASTRAZENECA PHARMACEUTICALS LP
                  : ASTRAZENECA VEBA TRUST AGREEMENT
     2021: ASTRAZENECA RETIREE HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Assets: 170778000
@@ -389,7 +389,7 @@ DE : WILMINGTON
            - ASTRAZENECA PHARMACEUTICALS LP
                  : ASTRAZENECA VEBA TRUST AGREEMENT
     2020: ASTRAZENECA RETIREE HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Assets: 186875000
@@ -398,7 +398,7 @@ DE : WILMINGTON
            - ASTRAZENECA PHARMACEUTICALS LP
                  : ASTRAZENECA VEBA TRUST AGREEMENT
     2019: ASTRAZENECA RETIREE HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Assets: 206221000
@@ -407,7 +407,7 @@ DE : WILMINGTON
            - ASTRAZENECA PHARMACEUTICALS LP
                  : ASTRAZENECA VEBA TRUST AGREEMENT
     2018: ASTRAZENECA RETIREE HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Assets: 212340000
@@ -416,7 +416,7 @@ DE : WILMINGTON
            - ASTRAZENECA PHARMACEUTICALS LP
                  : ASTRAZENECA VEBA TRUST AGREEMENT
     2017: ASTRAZENECA RETIREE HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Assets: 239102000
@@ -426,53 +426,28 @@ DE : WILMINGTON
                  : ASTRAZENECA VEBA TRUST AGREEMENT
    [515]
     2022: ASTRAZENECA HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4G4H4L4Q
         Participants: 
     2021: ASTRAZENECA HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4G4H4L4Q
         Participants: 
     2020: ASTRAZENECA HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
     2019: ASTRAZENECA HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
     2018: ASTRAZENECA HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
     2017: ASTRAZENECA HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
-        Participants: 
-   [513]
-    2022: ASTRAZENECA BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2021: ASTRAZENECA BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: ASTRAZENECA BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: ASTRAZENECA BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: ASTRAZENECA BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: ASTRAZENECA BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
         Participants: 
    [001]
     2022: ASTRAZENECA DEFINED BENEFIT PENSION PLAN
@@ -533,4 +508,29 @@ DE : WILMINGTON
     2017: ASTRAZENECA SEPARATION PLAN
         Benefit Category: Severance
         Codes:  4I4S
+        Participants: 
+   [513]
+    2022: ASTRAZENECA BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2021: ASTRAZENECA BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: ASTRAZENECA BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: ASTRAZENECA BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: ASTRAZENECA BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: ASTRAZENECA BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
         Participants: 

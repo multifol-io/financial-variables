@@ -106,36 +106,36 @@ DC : WASHINGTON
                  : PRU IFX SEL LT CONSER GRO
    [502]
     2022: NEIGHBORHOOD REINVESTMENT CORP MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2021: NEIGHBORHOOD REINVESTMENT CORP MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2020: NEIGHBORHOOD REINVESTMENT CORP MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2019: NEIGHBORHOOD REINVESTMENT CORP MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2018: NEIGHBORHOOD REINVESTMENT CORP MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2017: NEIGHBORHOOD REINVESTMENT CORP MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
    [508]
     2022: NEIGHBORHOOD REINVESTMENT CORP ADD AND DEPENDENT LIFE PLAN AND LTD
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4F4H4L
         Participants: 
     2021: NEIGHBORHOOD REINVESTMENT CORP ADD AND DEPENDENT LIFE PLAN AND LTD
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4F4H4L
         Participants: 
    [512]
@@ -165,19 +165,19 @@ DC : WASHINGTON
         Participants: 
    [508]
     2020: NEIGHBORHOOD REINVESTMENT CORP ADD AND DEPENDENT LIFE PLAN AND LTD
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
         Codes:  4B4F4H4L
         Participants: 
     2019: NEIGHBORHOOD REINVESTMENT CORP ADD AND DEPENDENT LIFE PLAN AND LTD
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
         Codes:  4B4F4H4L
         Participants: 
     2018: NEIGHBORHOOD REINVESTMENT CORP ADD AND DEPENDENT LIFE PLAN AND LTD
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
         Codes:  4B4F4H4L
         Participants: 
     2017: NEIGHBORHOOD REINVESTMENT CORP ADD AND DEPENDENT LIFE PLAN AND LTD
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
         Codes:  4B4F4H4L
         Participants: 
    [511]
@@ -205,31 +205,6 @@ DC : WASHINGTON
         Benefit Category: Other
         Codes:  4Q
         Participants: 
-   [513]
-    2022: NEIGHBORHOOD REINVESTMENT CORP VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2021: NEIGHBORHOOD REINVESTMENT CORP VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2020: NEIGHBORHOOD REINVESTMENT CORP VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2019: NEIGHBORHOOD REINVESTMENT CORP VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2018: NEIGHBORHOOD REINVESTMENT CORP VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2017: NEIGHBORHOOD REINVESTMENT CORP VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
    [509]
     2022: NEIGHBORHOOD REINVESTMENT CORP SEVERANCE PLAN
         Benefit Category: Severance
@@ -254,4 +229,29 @@ DC : WASHINGTON
     2017: NEIGHBORHOOD REINVESTMENT CORP SEVERANCE PLAN
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [513]
+    2022: NEIGHBORHOOD REINVESTMENT CORP VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2021: NEIGHBORHOOD REINVESTMENT CORP VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2020: NEIGHBORHOOD REINVESTMENT CORP VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2019: NEIGHBORHOOD REINVESTMENT CORP VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2018: NEIGHBORHOOD REINVESTMENT CORP VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2017: NEIGHBORHOOD REINVESTMENT CORP VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
         Participants: 

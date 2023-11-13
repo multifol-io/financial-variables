@@ -228,6 +228,67 @@ LA : NEW ORLEANS
         Available Investments:
            - ENTERGY CORPORATION
                  : ENTERGY CORP QUAL PLAN MASTER TRUST
+   [516]
+    2022: ENTERGY CORP. COMPANIES' BENEFITS PLUS DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D4U
+        Participants: 
+        Assets: 4956395
+        $/Participant: 
+        Available Investments:
+           - ENTERGY CORPORATION
+                 : ENT CORP COS BARG EMP WEL BEN TST
+                 : ENT CORP COS NB WEL BEN TST
+    2021: ENTERGY CORP. COMPANIES' BENEFITS PLUS DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D4U
+        Participants: 
+        Assets: 6191735
+        $/Participant: 
+        Available Investments:
+           - ENTERGY CORPORATION
+                 : ENT CORP COS BARG EMP WEL BEN TST
+                 : ENT CORP COS NB WEL BEN TST
+    2020: ENTERGY CORP. COMPANIES' BENEFITS PLUS DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D4U
+        Participants: 
+        Assets: 35990398
+        $/Participant: 
+        Available Investments:
+           - ENTERGY CORPORATION
+                 : ENT CORP COS BARG EMP WEL BEN TST
+                 : ENT CORP COS NB WEL BEN TST
+    2019: ENTERGY CORP. COMPANIES' BENEFITS PLUS DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D4U
+        Participants: 
+        Assets: 33776493
+        $/Participant: 
+        Available Investments:
+           - ENTERGY CORPORATION
+                 : ENT CORP COS BARG EMP WEL BEN TST
+                 : ENT CORP COS NB WEL BEN TST
+    2018: ENTERGY CORP. COMPANIES' BENEFITS PLUS DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D4U
+        Participants: 
+        Assets: 30957451
+        $/Participant: 
+        Available Investments:
+           - ENTERGY CORPORATION
+                 : ENT CORP COS BARG EMP WEL BEN TST
+                 : ENT CORP COS NB WEL BEN TST
+    2017: ENTERGY CORP. COMPANIES' BENEFITS PLUS DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D4U
+        Participants: 
+        Assets: 34388537
+        $/Participant: 
+        Available Investments:
+           - ENTERGY CORPORATION
+                 : ENT CORP COS BARG EMP WEL BEN TST
+                 : ENT CORP COS NB WEL BEN TST
    [509]
     2022: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS REIMBURSEMENT PLAN
         Benefit Category: Healthcare
@@ -316,7 +377,7 @@ LA : NEW ORLEANS
                  : ENT CORP CO NB EMP WEL BEN TST
    [540]
     2022: ENTERGY CORPORATION COMPANIES' RETIREE HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q4U
         Participants: 
         Assets: 259290491
@@ -326,7 +387,7 @@ LA : NEW ORLEANS
                  : ENT CORP CO BARG EMP WEL BEN TST
                  : ENT CORP CO NB EMP WEL BEN TST
     2021: ENTERGY CORPORATION COMPANIES' RETIREE HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q4U
         Participants: 
         Assets: 318813580
@@ -337,7 +398,7 @@ LA : NEW ORLEANS
                  : ENT CORP CO NB EMP WEL BEN TST
    [511]
     2022: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4U
         Participants: 
         Assets: 84132881
@@ -347,7 +408,7 @@ LA : NEW ORLEANS
                  : ENT CORP COS BARG EMP WEL BEN TST
                  : ENT CORP COS NB EMP WEL BEN TST-L
     2021: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4U
         Participants: 
         Assets: 107616097
@@ -357,7 +418,7 @@ LA : NEW ORLEANS
                  : ENT CORP COS BARG EMP WEL BEN TST
                  : ENT CORP COS NB EMP WEL BEN TST-L
     2020: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4U
         Participants: 
         Assets: 105619948
@@ -367,7 +428,7 @@ LA : NEW ORLEANS
                  : ENT CORP COS BARG EMP WEL BEN TST
                  : ENT CORP COS NB EMP WEL BEN TST-L
     2019: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4U
         Participants: 
         Assets: 100454874
@@ -377,7 +438,7 @@ LA : NEW ORLEANS
                  : ENT CORP COS BARG EMP WEL BEN TST
                  : ENT CORP COS NB EMP WEL BEN TST-L
     2018: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4U
         Participants: 
         Assets: 90313981
@@ -387,7 +448,7 @@ LA : NEW ORLEANS
                  : ENT CORP COS BARG EMP WEL BEN TST
                  : ENT CORP COS NB EMP WEL BEN TST-L
     2017: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4U
         Participants: 
         Assets: 99689658
@@ -398,151 +459,29 @@ LA : NEW ORLEANS
                  : ENT CORP COS NB EMP WEL BEN TST-L
    [515]
     2022: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2021: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2020: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2019: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2018: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2017: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
-   [516]
-    2022: ENTERGY CORP. COMPANIES' BENEFITS PLUS DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D4U
-        Participants: 
-        Assets: 4956395
-        $/Participant: 
-        Available Investments:
-           - ENTERGY CORPORATION
-                 : ENT CORP COS BARG EMP WEL BEN TST
-                 : ENT CORP COS NB WEL BEN TST
-    2021: ENTERGY CORP. COMPANIES' BENEFITS PLUS DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D4U
-        Participants: 
-        Assets: 6191735
-        $/Participant: 
-        Available Investments:
-           - ENTERGY CORPORATION
-                 : ENT CORP COS BARG EMP WEL BEN TST
-                 : ENT CORP COS NB WEL BEN TST
-    2020: ENTERGY CORP. COMPANIES' BENEFITS PLUS DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D4U
-        Participants: 
-        Assets: 35990398
-        $/Participant: 
-        Available Investments:
-           - ENTERGY CORPORATION
-                 : ENT CORP COS BARG EMP WEL BEN TST
-                 : ENT CORP COS NB WEL BEN TST
-    2019: ENTERGY CORP. COMPANIES' BENEFITS PLUS DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D4U
-        Participants: 
-        Assets: 33776493
-        $/Participant: 
-        Available Investments:
-           - ENTERGY CORPORATION
-                 : ENT CORP COS BARG EMP WEL BEN TST
-                 : ENT CORP COS NB WEL BEN TST
-    2018: ENTERGY CORP. COMPANIES' BENEFITS PLUS DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D4U
-        Participants: 
-        Assets: 30957451
-        $/Participant: 
-        Available Investments:
-           - ENTERGY CORPORATION
-                 : ENT CORP COS BARG EMP WEL BEN TST
-                 : ENT CORP COS NB WEL BEN TST
-    2017: ENTERGY CORP. COMPANIES' BENEFITS PLUS DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D4U
-        Participants: 
-        Assets: 34388537
-        $/Participant: 
-        Available Investments:
-           - ENTERGY CORPORATION
-                 : ENT CORP COS BARG EMP WEL BEN TST
-                 : ENT CORP COS NB WEL BEN TST
-   [539]
-    2022: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS VISION PLAN
-        Benefit Category: Other
-        Codes:  4E4U
-        Participants: 
-        Assets: 645222
-        $/Participant: 
-        Available Investments:
-           - ENTERGY CORPORATION
-                 : ENT CORP CO BARG EMP WEL BEN TST
-                 : ENT CORP CO NB EMP WEL BEN TST
-    2021: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS VISION PLAN
-        Benefit Category: Other
-        Codes:  4E4U
-        Participants: 
-        Assets: 852163
-        $/Participant: 
-        Available Investments:
-           - ENTERGY CORPORATION
-                 : ENT CORP CO BARG EMP WEL BEN TST
-                 : ENT CORP CO NB EMP WEL BEN TST
-    2020: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS VISION PLAN
-        Benefit Category: Other
-        Codes:  4E4U
-        Participants: 
-        Assets: 4151703
-        $/Participant: 
-        Available Investments:
-           - ENTERGY CORPORATION
-                 : ENT CORP CO BARG EMP WEL BEN TST
-                 : ENT CORP CO NB EMP WEL BEN TST
-    2019: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS VISION PLAN
-        Benefit Category: Other
-        Codes:  4E4U
-        Participants: 
-        Assets: 4013029
-        $/Participant: 
-        Available Investments:
-           - ENTERGY CORPORATION
-                 : ENT CORP CO BARG EMP WEL BEN TST
-                 : ENT CORP CO NB EMP WEL BEN TST
-    2018: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS VISION PLAN
-        Benefit Category: Other
-        Codes:  4E4U
-        Participants: 
-        Assets: 3666293
-        $/Participant: 
-        Available Investments:
-           - ENTERGY CORPORATION
-                 : ENT CORP CO BARG EMP WEL BEN TST
-                 : ENT CORP CO NB EMP WEL BEN TST
-    2017: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS VISION PLAN
-        Benefit Category: Other
-        Codes:  4E4U
-        Participants: 
-        Assets: 4143224
-        $/Participant: 
-        Available Investments:
-           - ENTERGY CORPORATION
-                 : ENT CORP CO BARG EMP WEL BEN TST
-                 : ENT CORP CO NB EMP WEL BEN TST
    [004]
     2022: ENTERGY CORPORATION RETIREMENT PLAN FOR NON-BARGAINING EMPLOYEES
         Benefit Category: Pension
@@ -972,3 +911,64 @@ LA : NEW ORLEANS
         Available Investments:
            - ENTERGY CORPORATION
                  : ENT CORP MST TRST CASH BAL PLANS
+   [539]
+    2022: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E4U
+        Participants: 
+        Assets: 645222
+        $/Participant: 
+        Available Investments:
+           - ENTERGY CORPORATION
+                 : ENT CORP CO BARG EMP WEL BEN TST
+                 : ENT CORP CO NB EMP WEL BEN TST
+    2021: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E4U
+        Participants: 
+        Assets: 852163
+        $/Participant: 
+        Available Investments:
+           - ENTERGY CORPORATION
+                 : ENT CORP CO BARG EMP WEL BEN TST
+                 : ENT CORP CO NB EMP WEL BEN TST
+    2020: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E4U
+        Participants: 
+        Assets: 4151703
+        $/Participant: 
+        Available Investments:
+           - ENTERGY CORPORATION
+                 : ENT CORP CO BARG EMP WEL BEN TST
+                 : ENT CORP CO NB EMP WEL BEN TST
+    2019: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E4U
+        Participants: 
+        Assets: 4013029
+        $/Participant: 
+        Available Investments:
+           - ENTERGY CORPORATION
+                 : ENT CORP CO BARG EMP WEL BEN TST
+                 : ENT CORP CO NB EMP WEL BEN TST
+    2018: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E4U
+        Participants: 
+        Assets: 3666293
+        $/Participant: 
+        Available Investments:
+           - ENTERGY CORPORATION
+                 : ENT CORP CO BARG EMP WEL BEN TST
+                 : ENT CORP CO NB EMP WEL BEN TST
+    2017: ENTERGY CORPORATION COMPANIES' BENEFITS PLUS VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E4U
+        Participants: 
+        Assets: 4143224
+        $/Participant: 
+        Available Investments:
+           - ENTERGY CORPORATION
+                 : ENT CORP CO BARG EMP WEL BEN TST
+                 : ENT CORP CO NB EMP WEL BEN TST

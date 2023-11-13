@@ -136,7 +136,7 @@ MN : ST PAUL
 MN : ST. PAUL
    [522]
     2022: 3M RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental
         Codes:  4A4B4D4U
         Participants: 
         Assets: 284666488
@@ -146,7 +146,7 @@ MN : ST. PAUL
            - STATE STREET GLOBAL ADVISORS TRUST COMPANY
                  : STATE STREET S&P 500(R) INDEX NON L
     2021: 3M RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental
         Codes:  4A4B4D4U
         Participants: 
         Assets: 462781054
@@ -158,7 +158,7 @@ MN : ST. PAUL
            - STATE STREET GLOBAL ADVISORS TRUST COMPANY
                  : STATE STREET S&P 500(R) INDEX NON L
     2020: 3M RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental
         Codes:  4A4B4D4U
         Participants: 
         Assets: 565165100
@@ -170,7 +170,7 @@ MN : ST. PAUL
            - STATE STREET GLOABL ADVISORS TRUST COMPANY
                  : STATE STREET S&P 500(R) INDEX NON L
     2019: 3M RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental
         Codes:  4A4B4D4U
         Participants: 
         Assets: 629514713
@@ -182,7 +182,7 @@ MN : ST. PAUL
            - STATE STREET GLOABL ADVISORS TRUST COMPANY
                  : STATE STREET S&P 500(R) INDEX NON L
     2018: 3M RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental
         Codes:  4A4B4D4U
         Participants: 
         Assets: 650606920
@@ -196,7 +196,7 @@ MN : ST. PAUL
            - STATE STREET GLOABL ADVISORS TRUST COMPANY
                  : STATE STREET S&P 500(R) NON-LENDING
     2017: 3M RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental
         Codes:  4A4B4D4U
         Participants: 
         Assets: 793420372
@@ -209,14 +209,14 @@ MN : ST. PAUL
                  : STATE STREET S&P 500(R) INDEX NL
    [523]
     2018: 3M EMPLOYEES WELFARE BENEFITS ASSOCIATION (TRUST II)
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision, Long-term disability
         Codes:  4A4D4E4H
         Participants: 
         Assets: 112447419
         $/Participant: 
         RecordKeeper: 3M COMPANY
     2017: 3M EMPLOYEES WELFARE BENEFITS ASSOCIATION (TRUST II)
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision, Long-term disability
         Codes:  4A4D4E4H
         Participants: 
         Assets: 13747569
@@ -233,37 +233,37 @@ MN : ST. PAUL
         Participants: 
    [544]
     2018: ALL INSURED PLANS
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
     2017: ALL INSURED PLANS
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
    [553]
     2018: 3M GLOBAL HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2017: 3M GLOBAL HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
    [560]
     2022: 3M EMPLOYEE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2021: 3M EMPLOYEE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2020: 3M EMPLOYEE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2019: 3M EMPLOYEE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
    [006]
@@ -285,33 +285,6 @@ MN : ST. PAUL
         Participants: 144
         Assets: 19079
         $/Participant: 132
-   [525]
-    2018: 3M SHORT TERM DISABILITY
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2017: 3M SHORT TERM DISABILITY
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-   [552]
-    2018: THE SURVIVOR BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: THE SURVIVOR BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-   [554]
-    2018: 3M BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L4Q
-        Participants: 
-    2017: 3M BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L4Q
-        Participants: 
    [002]
     2022: 3M EMPLOYEE RETIREMENT INCOME PLAN
         Benefit Category: Pension
@@ -429,4 +402,31 @@ MN : ST. PAUL
     2021: 3M U.S. JOB ELIMINATION SEVERANCE PAY PLAN
         Benefit Category: Severance
         Codes:  4I4S
+        Participants: 
+   [525]
+    2018: 3M SHORT TERM DISABILITY
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2017: 3M SHORT TERM DISABILITY
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+   [552]
+    2018: THE SURVIVOR BENEFIT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: THE SURVIVOR BENEFIT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+   [554]
+    2018: 3M BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L4Q
+        Participants: 
+    2017: 3M BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L4Q
         Participants: 

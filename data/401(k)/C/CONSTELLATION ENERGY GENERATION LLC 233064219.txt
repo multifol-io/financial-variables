@@ -50,9 +50,19 @@ PA : KENNETT SQUARE
                  : TARGET RETIREMENT FUND 2060
                  : TARGET RETIREMENT INCOME FUND
                  : US EQUITY FUND
+   [513]
+    2022: CONSTELLATION ENERGY GROUP, INC. RETIREE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+   [518]
+    2022: RETIREE DENTAL PLAN OF CONSTELLATION ENERGY NUCLEAR GROUP, LLC
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [501]
     2022: CONSTELLATION HEALTH CARE PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4U
         Participants: 
         Assets: 583216442
@@ -77,12 +87,12 @@ PA : KENNETT SQUARE
                  : SECURITY CAP PFD GROWTH LLC SER
    [503]
     2022: CONSTELLATION FLEXIBLE BENEFITS PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision, Long-term disability
         Codes:  4A4D4E4H4Q4U
         Participants: 
    [508]
     2022: CONSTELLATION PECO ENERGY COMPANY RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Assets: 138759571
@@ -93,12 +103,12 @@ PA : KENNETT SQUARE
                  : CONS PECO RETIREE MEDICAL TRUST
    [509]
     2022: CONSTELLATION NEW ENGLAND UNION POST-EMPLOYMENT MEDICAL SAVINGS ACCOUNT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
    [512]
     2022: CONSTELLATION ENERGY GROUP, INC. RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
    [516]
@@ -108,12 +118,12 @@ PA : KENNETT SQUARE
         Participants: 
    [517]
     2022: RETIREE MEDICAL PLAN OF CONSTELLATION ENERGY NUCLEAR GROUP, LLC
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
    [519]
     2022: CONSTELLATION HEALTH REIMBURSEMENT ARRANGEMENT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         RecordKeeper: KEYSTONE HEALTH PLAN EAST
@@ -123,12 +133,12 @@ PA : KENNETT SQUARE
                  : CONS PECO RETIREE MEDICAL TRUST
    [521]
     2022: CONSTELLATION PEPCO HOLDINGS, INC. WELFARE PLAN FOR RETIREES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Vision
         Codes:  4A4B4E4U
         Participants: 
    [505]
     2022: CONSTELLATION EMPLOYEES' LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4U
         Participants: 
         Assets: 37965844
@@ -143,6 +153,16 @@ PA : KENNETT SQUARE
                  : BLACKROCK INSTITUTIONAL TRUST CO.
            - MACKAY SHIELDS LLC
                  : MACKAY SHIELDS HIGH YIELD ACTIVE CO
+   [504]
+    2022: CONSTELLATION LONG-TERM DISABILITY BENEFIT PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+   [506]
+    2022: CONSTELLATION SUPPLEMENTAL DISABILITY BENEFIT PLAN
+        Benefit Category: Long-term disability
+        Codes:  4U4H
+        Participants: 
    [301]
     2022: CONSTELLATION PENSION MASTER TRUST - CASH BALANCE LIABILITY HEDGE FIXED INCOME SECURITIZED
         Benefit Category: Other
@@ -319,39 +339,10 @@ PA : KENNETT SQUARE
            - METROPOLITAN LIFE INSURANCE COMPANY : INVESTMENT MANAGER (Investment management | Investment management fees paid indirectly by plan)
            - NISA INVESTMENT ADVISORS, LLC : INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan)
            - PACIFIC INVESTMENT MANAGEMENT COMPA : INVESTMENT MANAGER (Investment management | Investment management fees paid indirectly by plan)
-   [504]
-    2022: CONSTELLATION LONG-TERM DISABILITY BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-   [506]
-    2022: CONSTELLATION SUPPLEMENTAL DISABILITY BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4U4H
-        Participants: 
-   [507]
-    2022: CONSTELLATION DISABILITY BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4F4U
-        Participants: 
-        Assets: 230707
-        $/Participant: 
-        Service Providers:
-           - THE NORTHERN TRUST COMPANY : TRUSTEE/CUSTODIAN (Custodial(other than securities) | Trustee(bank, trust company, or similar))
    [510]
     2022: CONSTELLATION GROUP LEGAL PLAN
         Benefit Category: Other
         Codes:  4G4U
-        Participants: 
-   [513]
-    2022: CONSTELLATION ENERGY GROUP, INC. RETIREE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-   [518]
-    2022: RETIREE DENTAL PLAN OF CONSTELLATION ENERGY NUCLEAR GROUP, LLC
-        Benefit Category: Other
-        Codes:  4D
         Participants: 
    [001]
     2022: CONSTELLATION RETIREMENT PROGRAM
@@ -534,3 +525,12 @@ PA : KENNETT SQUARE
         Benefit Category: Severance
         Codes:  4I4U
         Participants: 
+   [507]
+    2022: CONSTELLATION DISABILITY BENEFIT PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F4U
+        Participants: 
+        Assets: 230707
+        $/Participant: 
+        Service Providers:
+           - THE NORTHERN TRUST COMPANY : TRUSTEE/CUSTODIAN (Custodial(other than securities) | Trustee(bank, trust company, or similar))

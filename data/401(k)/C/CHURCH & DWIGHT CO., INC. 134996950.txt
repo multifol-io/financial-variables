@@ -216,6 +216,27 @@ NJ : EWING
                  : C&D MT FOR SAL/HRLY 401(K) PLANS
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SVGS TRUST III
+   [506]
+    2021: CHURCH & DWIGHT CO., INC. DENTAL INSURANCE PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2020: CHURCH & DWIGHT CO., INC. DENTAL INSURANCE PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2019: CHURCH & DWIGHT CO., INC. DENTAL INSURANCE PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2018: CHURCH & DWIGHT CO., INC. DENTAL INSURANCE PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2017: CHURCH & DWIGHT CO., INC. DENTAL INSURANCE PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [502]
     2021: CHURCH & DWIGHT CO., INC. MEDICAL INSURANCE PLAN
         Benefit Category: Healthcare
@@ -239,29 +260,50 @@ NJ : EWING
         Participants: 
    [526]
     2022: CHURCH & DWIGHT CO., INC. WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
    [511]
     2021: CHURCH & DWIGHT CO., INC. LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2020: CHURCH & DWIGHT CO., INC. LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2019: CHURCH & DWIGHT CO., INC. LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2018: CHURCH & DWIGHT CO INC. LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2017: CHURCH & DWIGHT CO INC. LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
+        Participants: 
+   [515]
+    2021: CHURCH & DWIGHT CO., INC. LONG TERM DISABILITY
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2020: CHURCH & DWIGHT CO., INC. LONG TERM DISABILITY
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2019: CHURCH & DWIGHT CO., INC. LONG TERM DISABILITY
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2018: CHURCH & DWIGHT CO., INC. LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2017: CHURCH & DWIGHT CO., INC. LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
    [009]
     2022: CHURCH & DWIGHT CO. , INC. MASTER TRUST FOR SALARIED AND HOURLY 401(K) PLANS
@@ -302,82 +344,7 @@ NJ : EWING
         Participants: 
         Assets: 226050305
         $/Participant: 
-   [506]
-    2021: CHURCH & DWIGHT CO., INC. DENTAL INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2020: CHURCH & DWIGHT CO., INC. DENTAL INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2019: CHURCH & DWIGHT CO., INC. DENTAL INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2018: CHURCH & DWIGHT CO., INC. DENTAL INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2017: CHURCH & DWIGHT CO., INC. DENTAL INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-   [513]
-    2021: CHURCH & DWIGHT CO., INC. TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: CHURCH & DWIGHT CO., INC. TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: CHURCH & DWIGHT CO., INC. TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: CHURCH & DWIGHT CO., INC. TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L4Q
-        Participants: 
-    2017: CHURCH & DWIGHT CO., INC. TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L4Q
-        Participants: 
-   [515]
-    2021: CHURCH & DWIGHT CO., INC. LONG TERM DISABILITY
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2020: CHURCH & DWIGHT CO., INC. LONG TERM DISABILITY
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2019: CHURCH & DWIGHT CO., INC. LONG TERM DISABILITY
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2018: CHURCH & DWIGHT CO., INC. LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2017: CHURCH & DWIGHT CO., INC. LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
    [520]
-    2021: CHURCH & DWIGHT CO., INC. SALARY CONTINUATION PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2020: CHURCH & DWIGHT CO., INC. SALARY CONTINUATION PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2019: CHURCH & DWIGHT CO., INC. SALARY CONTINUATION PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
     2018: CHURCH & DWIGHT CO., INC. SALARY CONTINUATION PLAN
         Benefit Category: Other
         Codes:  4Q
@@ -386,24 +353,57 @@ NJ : EWING
         Benefit Category: Other
         Codes:  4Q
         Participants: 
+    2021: CHURCH & DWIGHT CO., INC. SALARY CONTINUATION PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2020: CHURCH & DWIGHT CO., INC. SALARY CONTINUATION PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2019: CHURCH & DWIGHT CO., INC. SALARY CONTINUATION PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+   [513]
+    2021: CHURCH & DWIGHT CO., INC. TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: CHURCH & DWIGHT CO., INC. TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: CHURCH & DWIGHT CO., INC. TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: CHURCH & DWIGHT CO., INC. TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L4Q
+        Participants: 
+    2017: CHURCH & DWIGHT CO., INC. TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L4Q
+        Participants: 
    [522]
     2021: CHURCH & DWIGHT CO., INC. VISION PLAN
-        Benefit Category: Other
+        Benefit Category: Vision
         Codes:  4E
         Participants: 
     2020: CHURCH & DWIGHT CO., INC. VISION PLAN
-        Benefit Category: Other
+        Benefit Category: Vision
         Codes:  4E
         Participants: 
     2019: CHURCH & DWIGHT CO., INC. VISION PLAN
-        Benefit Category: Other
+        Benefit Category: Vision
         Codes:  4E
         Participants: 
     2018: CHURCH & DWIGHT CO., INC. VISION PLAN
-        Benefit Category: Other
+        Benefit Category: Vision
         Codes:  4E
         Participants: 
     2017: CHURCH & DWIGHT CO., INC. VISION PLAN
-        Benefit Category: Other
+        Benefit Category: Vision
         Codes:  4E
         Participants: 

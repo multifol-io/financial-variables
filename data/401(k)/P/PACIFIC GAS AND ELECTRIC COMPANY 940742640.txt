@@ -124,33 +124,33 @@ CA : CONCORD
                  : US DEBT INDEX FUND B
    [541]
     2022: PACIFIC GAS AND ELECTRIC COMPANY HEALTH CARE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2021: PACIFIC GAS AND ELECTRIC COMPANY HEALTH CARE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2020: PACIFIC GAS AND ELECTRIC COMPANY HEALTH CARE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2019: PACIFIC GAS AND ELECTRIC COMPANY HEALTH CARE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2018: PACIFIC GAS AND ELECTRIC COMPANY HEALTH CARE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2017: PACIFIC GAS AND ELECTRIC COMPANY HEALTH CARE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
 CA : OAKLAND
    [542]
     2022: POST-RETIREMENT LIFE INSURANCE PLAN OF THE PACIFIC GAS AND ELECTRIC COMPANY
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4U
         Participants: 
         Assets: 266409053
@@ -167,7 +167,7 @@ CA : OAKLAND
                  : MET LIFE INTERNATIONAL INDEX
 CA : CONCORD
     2021: POST-RETIREMENT LIFE INSURANCE PLAN OF THE PACIFIC GAS AND ELECTRIC COMPANY
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4U
         Participants: 
         Assets: 359083233
@@ -184,7 +184,7 @@ CA : CONCORD
                  : MET LIFE INTERNATIONAL INDEX
 CA : OAKLAND
     2020: POST-RETIREMENT LIFE INSURANCE PLAN OF THE PACIFIC GAS AND ELECTRIC COMPANY
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4U
         Participants: 
         Assets: 343155885
@@ -199,38 +199,132 @@ CA : OAKLAND
                  : MET LIFE INTERNATIONAL INDEX
 CA : CONCORD
     2018: POST-RETIREMENT LIFE INSURANCE PLAN OF THE PACIFIC GAS AND ELECTRIC COMPANY
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4U
         Participants: 
     2017: POST-RETIREMENT LIFE INSURANCE PLAN OF THE PACIFIC GAS AND ELECTRIC COMPANY
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4U
         Participants: 
    [543]
     2022: THE PACIFIC GAS AND ELECTRIC COMPANY GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2021: THE PACIFIC GAS AND ELECTRIC COMPANY GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2020: THE PACIFIC GAS AND ELECTRIC COMPANY GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2019: THE PACIFIC GAS AND ELECTRIC COMPANY GROUP LIFE INSURANCE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2018: THE PACIFIC GAS AND ELECTRIC COMPANY GROUP LIFE INSURANCE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2017: THE PACIFIC GAS AND ELECTRIC COMPANY GROUP LIFE INSURANCE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
+CA : OAKLAND
+   [503]
+    2022: PACIFIC GAS AND ELECTRIC COMPANY LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H4U
+        Participants: 
+        Assets: 142616527
+        $/Participant: 
+        RecordKeeper: VISION SERVICE PLAN
+        Available Investments:
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY
+                 : BGI RUSSELL 3000 INDEX FUND B
+                 : BGI US DEBT INDEX FUND B
+                 : MSCI WORLD EX-US INDEX FUND B
+CA : CONCORD
+    2021: PACIFIC GAS AND ELECTRIC COMPANY LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H4U
+        Participants: 
+        Assets: 157077871
+        $/Participant: 
+        RecordKeeper: MERCER HEALTH & BENEFITS LLC
+        Available Investments:
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY
+                 : BGI RUSSELL 3000 INDEX FUND B
+                 : BGI US DEBT INDEX FUND B
+                 : MSCI WORLD EX-US INDEX FUND B
+    2020: PACIFIC GAS AND ELECTRIC COMPANY LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H4U
+        Participants: 
+        Assets: 171629734
+        $/Participant: 
+        RecordKeeper: MADISON STREET PRESS
+        Available Investments:
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY
+                 : BGI RUSSELL 3000 INDEX FUND B
+                 : BGI US DEBT INDEX FUND B
+                 : MSCI WORLD EX-US INDEX FUND B
+    2019: PACIFIC GAS AND ELECTRIC COMPANY LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H4U
+        Participants: 
+        Assets: 169704849
+        $/Participant: 
+        RecordKeeper: MADISON STREET PRESS
+        Available Investments:
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY
+                 : BGI RUSSELL 3000 INDEX FUND B
+                 : BGI US DEBT INDEX FUND B
+                 : MSCI WORLD EX-US INDEX FUND B
+                 : RUSSELL DEV EX-US LG CAP NL FUND
+    2018: PACIFIC GAS AND ELECTRIC COMPANY LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H4U
+        Participants: 
+        Assets: 161664755
+        $/Participant: 
+        Service Providers:
+           - SEDGWICK CLAIMS MGMT SERVICES :  (Claims processing | Contract Administrator | Direct payment from the plan)
+           - ANTHEM BXBS :  (Claims processing | Contract Administrator | Other services | Direct payment from the plan | Float revenue)
+           - ALLSUP, LLC :  (Claims processing | Direct payment from the plan)
+           - GROOM LAW GROUP, CHARTERED :  (Non - monetary compensation)
+           - TOWERS WATSON DELAWARE INC. :  (Actuarial | Consulting(general) | Direct payment from the plan | Consulting fees)
+           - HEALTHPLAN SERVICES :  (Contract Administrator | Direct payment from the plan)
+           - MERCER HEALTH & BENEFITS LLC :  (Actuarial | Consulting(general) | Insurance agents and brokers | Direct payment from the plan | Consulting fees)
+           - BLACKROCK INSTITUTIONAL TRUST CO. :  (Trustee(bank, trust company, or similar) | Trustee(discretionary) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
+           - DELTA DENTAL OF CALIFORNIA :  (Claims processing | Plan Administrator | Direct payment from the plan)
+           - VALUEOPTIONS, INC. :  (Contract Administrator | Direct payment from the plan)
+           - BANK OF NEW YORK MELLON : TRUSTEE/ CUSTODIAN (Trustee(directed) | Direct payment from the plan | Shareholder servicing fees | Float revenue | Other investment fees and expenses | Other fees)
+           - MOSS ADAMS LLP :  (Accounting(including auditing) | Direct payment from the plan)
+           - MADISON STREET PRESS :  (Insurance mortality and expense charge | Consulting(general))
+           - MEDCO EXPRESS SCRIPTS :  (Contract Administrator | Direct payment from the plan)
+           - PACIFIC GAS & ELECTRIC COMPANY : PLAN SPONSOR (Plan Administrator | Direct payment from the plan | Account maintenance fees)
+           - STUDIO 19 :  (Participant communication | Direct payment from the plan)
+           - OPTUM HEALTH CARE SOLUTIONS LLC :  (Insurance services | Direct payment from the plan)
+        Available Investments:
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY
+                 : BGI RUSSELL 3000 INDEX FUND B
+                 : BGI US DEBT INDEX FUND B
+                 : MSCI WORLD EX-US INDEX FUND B
+                 : RUSSELL DEV EX-US LG CAP NL FUND
+    2017: PACIFIC GAS AND ELECTRIC COMPANY LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H4U
+        Participants: 
+        Assets: 174614835
+        $/Participant: 
+        RecordKeeper: OPTUM HEALTH CARE SOLUTIONS LLC
+        Available Investments:
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY
+                 : BGI RUSSELL 3000 INDEX FUND B
+                 : BGI US DEBT INDEX FUND B
+                 : RUSSELL DEV EX-US LG CAP NL FUND
 CA : OAKLAND
    [002]
     2022: PG&E CORPORATION RETIREMENT MASTER TRUST
@@ -261,100 +355,6 @@ CA : OAKLAND
                  : T. ROWE PRICE EMRG MKTS EQUITY TR
            - UBS US GROUP TRUST
                  : UBS TRUMBULL DIV PROPERTY COLL FUND
-   [503]
-    2022: PACIFIC GAS AND ELECTRIC COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H4U
-        Participants: 
-        Assets: 142616527
-        $/Participant: 
-        RecordKeeper: VISION SERVICE PLAN
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY
-                 : BGI RUSSELL 3000 INDEX FUND B
-                 : BGI US DEBT INDEX FUND B
-                 : MSCI WORLD EX-US INDEX FUND B
-CA : CONCORD
-    2021: PACIFIC GAS AND ELECTRIC COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H4U
-        Participants: 
-        Assets: 157077871
-        $/Participant: 
-        RecordKeeper: MERCER HEALTH & BENEFITS LLC
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY
-                 : BGI RUSSELL 3000 INDEX FUND B
-                 : BGI US DEBT INDEX FUND B
-                 : MSCI WORLD EX-US INDEX FUND B
-    2020: PACIFIC GAS AND ELECTRIC COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H4U
-        Participants: 
-        Assets: 171629734
-        $/Participant: 
-        RecordKeeper: MADISON STREET PRESS
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY
-                 : BGI RUSSELL 3000 INDEX FUND B
-                 : BGI US DEBT INDEX FUND B
-                 : MSCI WORLD EX-US INDEX FUND B
-    2019: PACIFIC GAS AND ELECTRIC COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H4U
-        Participants: 
-        Assets: 169704849
-        $/Participant: 
-        RecordKeeper: MADISON STREET PRESS
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY
-                 : BGI RUSSELL 3000 INDEX FUND B
-                 : BGI US DEBT INDEX FUND B
-                 : MSCI WORLD EX-US INDEX FUND B
-                 : RUSSELL DEV EX-US LG CAP NL FUND
-    2018: PACIFIC GAS AND ELECTRIC COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H4U
-        Participants: 
-        Assets: 161664755
-        $/Participant: 
-        Service Providers:
-           - SEDGWICK CLAIMS MGMT SERVICES :  (Claims processing | Contract Administrator | Direct payment from the plan)
-           - ANTHEM BXBS :  (Claims processing | Contract Administrator | Other services | Direct payment from the plan | Float revenue)
-           - ALLSUP, LLC :  (Claims processing | Direct payment from the plan)
-           - GROOM LAW GROUP, CHARTERED :  (Non - monetary compensation)
-           - TOWERS WATSON DELAWARE INC. :  (Actuarial | Consulting(general) | Direct payment from the plan | Consulting fees)
-           - HEALTHPLAN SERVICES :  (Contract Administrator | Direct payment from the plan)
-           - MERCER HEALTH & BENEFITS LLC :  (Actuarial | Consulting(general) | Insurance agents and brokers | Direct payment from the plan | Consulting fees)
-           - BLACKROCK INSTITUTIONAL TRUST CO. :  (Trustee(bank, trust company, or similar) | Trustee(discretionary) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
-           - DELTA DENTAL OF CALIFORNIA :  (Claims processing | Plan Administrator | Direct payment from the plan)
-           - VALUEOPTIONS, INC. :  (Contract Administrator | Direct payment from the plan)
-           - BANK OF NEW YORK MELLON : TRUSTEE/ CUSTODIAN (Trustee(directed) | Direct payment from the plan | Shareholder servicing fees | Float revenue | Other investment fees and expenses | Other fees)
-           - MOSS ADAMS LLP :  (Accounting(including auditing) | Direct payment from the plan)
-           - MADISON STREET PRESS :  (Insurance mortality and expense charge | Consulting(general))
-           - MEDCO EXPRESS SCRIPTS :  (Contract Administrator | Direct payment from the plan)
-           - PACIFIC GAS & ELECTRIC COMPANY : PLAN SPONSOR (Plan Administrator | Direct payment from the plan | Account maintenance fees)
-           - STUDIO 19 :  (Participant communication | Direct payment from the plan)
-           - OPTUM HEALTH CARE SOLUTIONS LLC :  (Insurance services | Direct payment from the plan)
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY
-                 : BGI RUSSELL 3000 INDEX FUND B
-                 : BGI US DEBT INDEX FUND B
-                 : MSCI WORLD EX-US INDEX FUND B
-                 : RUSSELL DEV EX-US LG CAP NL FUND
-    2017: PACIFIC GAS AND ELECTRIC COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H4U
-        Participants: 
-        Assets: 174614835
-        $/Participant: 
-        RecordKeeper: OPTUM HEALTH CARE SOLUTIONS LLC
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY
-                 : BGI RUSSELL 3000 INDEX FUND B
-                 : BGI US DEBT INDEX FUND B
-                 : RUSSELL DEV EX-US LG CAP NL FUND
-CA : OAKLAND
    [001]
     2022: PACIFIC GAS AND ELECTRIC COMPANY RETIREMENT PLAN
         Benefit Category: Pension

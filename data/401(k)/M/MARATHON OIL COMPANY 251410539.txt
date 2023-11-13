@@ -156,38 +156,51 @@ TX : HOUSTON
                  : FIAM TARGET DATE INCOME COMM POOL
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY GROWTH COMMINGLED POOL
+   [509]
+    2018: DENTAL ASSISTANCE PLAN OF MARATHON OIL COMPANY
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE CO :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+    2017: DENTAL ASSISTANCE PLAN OF MARATHON OIL COMPANY
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE CO :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
    [502]
     2022: MARATHON OIL COMPANY RETIREE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
         Codes:  4A4B4D4E4H4Q
         Participants: 
     2021: MARATHON OIL COMPANY RETIREE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
         Codes:  4A4B4D4E4H4Q
         Participants: 
     2020: MARATHON OIL COMPANY RETIREE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
         Codes:  4A4B4D4E4H4Q
         Participants: 
     2019: MARATHON OIL COMPANY RETIREE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
         Codes:  4A4B4D4E4H
         Participants: 
    [504]
     2022: MARATHON OIL COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2021: MARATHON OIL COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2020: MARATHON OIL COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2019: MARATHON OIL COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2018: HEALTH PLAN OF MARATHON OIL COMPANY
@@ -206,11 +219,11 @@ TX : HOUSTON
            - MEDCO HEALTH SOLUTIONS, INC. :  (Claims processing | Contract Administrator)
    [529]
     2018: CIGNA INTERNATIONAL HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D4Q
         Participants: 
     2017: CIGNA INTERNATIONAL HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D4Q
         Participants: 
    [531]
@@ -222,86 +235,35 @@ TX : HOUSTON
            - WILLIS TOWERS WATSON :  (Claims processing | Contract Administrator)
    [502]
     2018: LEVEL PREMIUM LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: LEVEL PREMIUM LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
    [524]
     2018: LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
-        Participants: 
-   [501]
-    2018: ACCIDENTAL DEATH & DISMEMBERMENT PLAN OF MARATHON OIL COMPANY
-        Benefit Category: Other
-        Codes:  4L4Q
-        Participants: 
-    2017: ACCIDENTAL DEATH & DISMEMBERMENT PLAN OF MARATHON OIL COMPANY
-        Benefit Category: Other
-        Codes:  4L4Q
         Participants: 
    [503]
     2018: THE LONG TERM DISABILITY PLAN OF MARATHON OIL COMPANY
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
         Service Providers:
            - MATRIX ABSENCE MANAGEMENT, INC. :  (Claims processing)
     2017: THE LONG TERM DISABILITY PLAN OF MARATHON OIL COMPANY
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
         Service Providers:
            - MATRIX ABSENCE MANAGEMENT, INC. :  (Claims processing)
-   [509]
-    2018: DENTAL ASSISTANCE PLAN OF MARATHON OIL COMPANY
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE CO :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2017: DENTAL ASSISTANCE PLAN OF MARATHON OIL COMPANY
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE CO :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-   [522]
-    2018: OCCUPATIONAL ACCIDENTAL DEATH BENEFIT PLAN OF MARATHON OIL COMPANY
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: OCCUPATIONAL ACCIDENTAL DEATH BENEFIT PLAN OF MARATHON OIL COMPANY
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-   [530]
-    2018: VISION ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-        Service Providers:
-           - UNITED HEALTHCARE SERVICES, INC. :  (Claims processing | Other services)
-    2017: VISION ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-        Service Providers:
-           - UNITED HEALTHCARE SERVICES, INC. :  (Claims processing | Other services)
-   [531]
-    2018: MEDICARE SUPPLEMENT PLAN OF MARATHON OIL COMPANY
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-        Service Providers:
-           - WILLIS TOWERS WATSON :  (Claims processing | Contract Administrator)
    [001]
     2022: RETIREMENT PLAN OF MARATHON OIL COMPANY
         Benefit Category: Pension
@@ -470,3 +432,41 @@ TX : HOUSTON
         Benefit Category: Severance
         Codes:  4I
         Participants: 
+   [501]
+    2018: ACCIDENTAL DEATH & DISMEMBERMENT PLAN OF MARATHON OIL COMPANY
+        Benefit Category: Travel accident
+        Codes:  4L4Q
+        Participants: 
+    2017: ACCIDENTAL DEATH & DISMEMBERMENT PLAN OF MARATHON OIL COMPANY
+        Benefit Category: Travel accident
+        Codes:  4L4Q
+        Participants: 
+   [522]
+    2018: OCCUPATIONAL ACCIDENTAL DEATH BENEFIT PLAN OF MARATHON OIL COMPANY
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: OCCUPATIONAL ACCIDENTAL DEATH BENEFIT PLAN OF MARATHON OIL COMPANY
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+   [530]
+    2018: VISION ASSISTANCE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+        Service Providers:
+           - UNITED HEALTHCARE SERVICES, INC. :  (Claims processing | Other services)
+    2017: VISION ASSISTANCE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+        Service Providers:
+           - UNITED HEALTHCARE SERVICES, INC. :  (Claims processing | Other services)
+   [531]
+    2018: MEDICARE SUPPLEMENT PLAN OF MARATHON OIL COMPANY
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+        Service Providers:
+           - WILLIS TOWERS WATSON :  (Claims processing | Contract Administrator)

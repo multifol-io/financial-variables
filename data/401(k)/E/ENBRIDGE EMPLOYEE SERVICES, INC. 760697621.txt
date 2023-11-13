@@ -189,7 +189,7 @@ TX : HOUSTON
                  : TRP STABLE VALUE COMMON TRUST FUND
    [502]
     2022: ENBRIDGE EMPLOYEE SERVICES, INC. WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4E4D
         Participants: 
         Assets: 67916000
@@ -206,7 +206,7 @@ TX : HOUSTON
            - ENBRIDGE EMPLOYEE SERVICES, INC.
                  : EESI WELFARE BENEFIT PLANS TRUST
     2021: ENBRIDGE EMPLOYEE SERVICES, INC. WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4E4D
         Participants: 
         Assets: 69621000
@@ -223,7 +223,7 @@ TX : HOUSTON
            - SPECTRA ENERGY CORP
                  : SPECTRA EMPLOYEE BENEFITS TRUST
     2020: ENBRIDGE EMPLOYEE SERVICES, INC. WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4E4D
         Participants: 
         Assets: 61241000
@@ -241,7 +241,7 @@ TX : HOUSTON
            - SPECTRA ENERGY CORP
                  : SPECTRA EMPLOYEE BENEFITS TRUST
     2019: ENBRIDGE EMPLOYEE SERVICES, INC. WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4E4D
         Participants: 
         Assets: 52742000
@@ -258,7 +258,7 @@ TX : HOUSTON
                  : SE POST RETIREMENT MASTER TRUST VEB
                  : SPECTRA EMPLOYEE BENEFITS TRUST
     2018: ENBRIDGE EMPLOYEE SERVICES, INC. WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4E4D
         Participants: 
         Assets: 82299000
@@ -274,7 +274,7 @@ TX : HOUSTON
            - ENBRIDGE EMPLOYEE SERVICES, INC.
                  : EESI WELFARE BENEFIT PLANS TRUST
     2017: ENBRIDGE EMPLOYEE SERVICES, INC. WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4E4D
         Participants: 
         Assets: 89378000
@@ -317,7 +317,7 @@ TX : HOUSTON
         Participants: 
    [516]
     2022: ENBRIDGE EMPLOYEE SERVICES, INC. HEALTH REIMBURSEMENT ACCOUNT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Assets: 56782000
@@ -331,7 +331,7 @@ TX : HOUSTON
            - ENBRIDGE EMPLOYEE SERVICES, INC
                  : EESI WELFARE BENEFIT PLANS TRUST
     2021: ENBRIDGE EMPLOYEE SERVICES, INC. HEALTH REIMBURSEMENT ACCOUNT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Assets: 60772000
@@ -342,7 +342,7 @@ TX : HOUSTON
            - ENBRIDGE EMPLOYEE SERVICES, INC
                  : EESI WELFARE BENEFIT PLANS TRUST
     2020: ENBRIDGE EMPLOYEE SERVICES, INC. HEALTH REIMBURSEMENT ACCOUNT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Assets: 58816000
@@ -353,7 +353,7 @@ TX : HOUSTON
            - ENBRIDGE EMPLOYEE SERVICES, INC
                  : EESI WELFARE BENEFITS PLANS TRUST
     2019: ENBRIDGE EMPLOYEE SERVICES, INC. HEALTH REIMBURSEMENT ACCOUNT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Assets: 55342000
@@ -375,7 +375,7 @@ TX : HOUSTON
         Participants: 
    [501]
     2022: ENBRIDGE EMPLOYEE SERVICES, INC. ANCILLARY BENEFITS PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
         Assets: 539000
@@ -386,7 +386,7 @@ TX : HOUSTON
            - ENBRIDGE EMPLOYEE SERVICES, INC.
                  : EESI WELFARE BENEFIT PLANS TRUST
     2021: ENBRIDGE EMPLOYEE SERVICES, INC. ANCILLARY BENEFITS PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
         Assets: 6800000
@@ -399,7 +399,7 @@ TX : HOUSTON
            - SPECTRA ENERGY CORP
                  : SPECTRA EMPLOYEE BENEFITS TRUST
     2020: ENBRIDGE EMPLOYEE SERVICES, INC. ANCILLARY BENEFITS PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
         Assets: 3599000
@@ -410,7 +410,7 @@ TX : HOUSTON
            - SPECTRA ENERGY CORP
                  : SPECTRA EMPLOYEE BENEFITS TRUST
     2019: ENBRIDGE EMPLOYEE SERVICES, INC. ANCILLARY BENEFITS PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
         Assets: 3342000
@@ -421,7 +421,7 @@ TX : HOUSTON
            - SPECTRA ENERGY CORP
                  : SPECTRA EMPLOYEE BENEFITS TRUST
     2018: ENBRIDGE EMPLOYEE SERVICES, INC. GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
         Assets: 2594000
@@ -430,7 +430,7 @@ TX : HOUSTON
            - ENBRIDGE EMPLOYEE SERVICES, INC.
                  : EESI WELFARE BENEFIT PLANS TRUST
     2017: ENBRIDGE EMPLOYEE SERVICES, INC. GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
         Assets: 3141000
@@ -440,6 +440,15 @@ TX : HOUSTON
         Available Investments:
            - ENBRIDGE EMPLOYEE SERVICES, INC.
                  : EESI WELFARE BENEFIT PLANS TRUST
+   [503]
+    2018: ENBRIDGE EMPLOYEE SERVICES, INC. LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2017: ENBRIDGE EMPLOYEE SERVICES, INC. LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
    [003]
     2022: ENBRIDGE EMPLOYEE SERVICES, INC. WELFARE BENEFIT PLANS TRUST
         Benefit Category: Other
@@ -504,33 +513,6 @@ TX : HOUSTON
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A
                  : BGI ACWI EX US SUPERFUND B
                  : BGI EQUITY INDEX FUND B
-   [503]
-    2018: ENBRIDGE EMPLOYEE SERVICES, INC. LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2017: ENBRIDGE EMPLOYEE SERVICES, INC. LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-   [506]
-    2018: ENBRIDGE EMPLOYEE SERVICES, INC. ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4L4Q
-        Participants: 
-    2017: ENBRIDGE EMPLOYEE SERVICES, INC. ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4L4Q
-        Participants: 
-   [510]
-    2018: ENBRIDGE EMPLOYEE SERVICES, INC. SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2017: ENBRIDGE EMPLOYEE SERVICES, INC. SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
    [511]
     2018: ENBRIDGE EMPLOYEE SERVICES, INC. LEGAL SERVICE PLAN
         Benefit Category: Other
@@ -797,4 +779,22 @@ TX : HOUSTON
     2020: ENBRIDGE EMPLOYEE SERVICES, INC. VOLUNTARY SEVERANCE PROGRAM
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [510]
+    2018: ENBRIDGE EMPLOYEE SERVICES, INC. SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2017: ENBRIDGE EMPLOYEE SERVICES, INC. SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+   [506]
+    2018: ENBRIDGE EMPLOYEE SERVICES, INC. ACCIDENTAL DEATH & DISMEMBERMENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L4Q
+        Participants: 
+    2017: ENBRIDGE EMPLOYEE SERVICES, INC. ACCIDENTAL DEATH & DISMEMBERMENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L4Q
         Participants: 

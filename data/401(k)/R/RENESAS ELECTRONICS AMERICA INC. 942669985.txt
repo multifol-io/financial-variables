@@ -86,7 +86,7 @@ CA : MILPITAS
 CA : SAN JOSE
    [501]
     2020: INTEGRATED DEVICE TECHNOLOGY, INC. EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4G4H4L4Q
         Participants: 
         Assets: 1181585
@@ -101,7 +101,7 @@ CA : SAN JOSE
            - VISION SERVICE PLAN : N/A (Direct payment from the plan | Contract Administrator)
            - THE LARKIN COMPANY : N/A (Contract Administrator | Direct payment from the plan)
     2019: INTEGRATED DEVICE TECHNOLOGY, INC. EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4G4H4L4Q
         Participants: 
         Assets: 1181537
@@ -118,20 +118,20 @@ CA : SAN JOSE
            - TRUCKER HUSS : N/A (Legal | Direct payment from the plan)
    [508]
     2022: RENESAS ELECTRONICS AMERICA INC. BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
 CA : MILPITAS
     2021: RENESAS ELECTRONICS AMERICA INC. BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4G4H4L4Q
         Participants: 
     2020: RENESAS ELECTRONICS AMERICA INC. BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4G4H4L4Q
         Participants: 
     2019: RENESAS ELECTRONICS AMERICA INC. BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4G4H4L4Q
         Participants: 
 CA : SAN JOSE
@@ -148,44 +148,6 @@ CA : SAN JOSE
         Benefit Category: Healthcare
         Codes:  4A
         Participants: 
-   [511]
-    2022: RENESAS ELECTRONICS AMERICA INC. SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-        Assets: 643690
-        $/Participant: 
-        Service Providers:
-           - MOSS ADAMS, LLP : AUDITOR (Accounting(including auditing))
-           - LARKIN BENEFIT ADMINISTRATORS : ADMINISTRATOR (Plan Administrator)
-CA : MILPITAS
-    2021: RENESAS ELECTRONICS AMERICA INC. SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-        Assets: 619791
-        $/Participant: 
-        Service Providers:
-           - MOSS ADAMS, LLP : AUDITOR (Accounting(including auditing))
-           - LARKIN BENEFIT ADMINISRATORS : ADMINISTRATOR (Plan Administrator)
-    2020: RENESAS ELECTRONICS AMERICA INC. SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-        Assets: 571135
-        $/Participant: 
-        Service Providers:
-           - MOSS ADAMS, LLP : AUDITOR (Accounting(including auditing))
-           - LARKIN BENEFIT ADMINISTRATORS : ADMINISTRATOR (Plan Administrator)
-    2019: RENESAS ELECTRONICS AMERICA INC. SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-        Assets: 525617
-        $/Participant: 
-        Service Providers:
-           - MOSS ADAMS, LLP :  (Accounting(including auditing))
-CA : SAN JOSE
    [512]
     2022: RENESAS ELECTRONICS AMERICA INC. SEVERANCE PAYMENT PLAN
         Benefit Category: Severance
@@ -204,3 +166,41 @@ CA : MILPITAS
         Benefit Category: Severance
         Codes:  4I
         Participants: 
+CA : SAN JOSE
+   [511]
+    2022: RENESAS ELECTRONICS AMERICA INC. SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+        Assets: 643690
+        $/Participant: 
+        Service Providers:
+           - MOSS ADAMS, LLP : AUDITOR (Accounting(including auditing))
+           - LARKIN BENEFIT ADMINISTRATORS : ADMINISTRATOR (Plan Administrator)
+CA : MILPITAS
+    2021: RENESAS ELECTRONICS AMERICA INC. SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+        Assets: 619791
+        $/Participant: 
+        Service Providers:
+           - MOSS ADAMS, LLP : AUDITOR (Accounting(including auditing))
+           - LARKIN BENEFIT ADMINISRATORS : ADMINISTRATOR (Plan Administrator)
+    2020: RENESAS ELECTRONICS AMERICA INC. SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+        Assets: 571135
+        $/Participant: 
+        Service Providers:
+           - MOSS ADAMS, LLP : AUDITOR (Accounting(including auditing))
+           - LARKIN BENEFIT ADMINISTRATORS : ADMINISTRATOR (Plan Administrator)
+    2019: RENESAS ELECTRONICS AMERICA INC. SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+        Assets: 525617
+        $/Participant: 
+        Service Providers:
+           - MOSS ADAMS, LLP :  (Accounting(including auditing))

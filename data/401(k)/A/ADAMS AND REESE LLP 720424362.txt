@@ -53,32 +53,32 @@ LA : NEW ORLEANS
         RecordKeeper: CHARLES SCHWAB BANK
    [508]
     2022: ADAMS AND REESE LLP FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2021: ADAMS AND REESE LLP FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2020: ADAMS AND REESE LLP FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2019: ADAMS AND REESE LLP FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2018: ADAMS AND REESE LLP FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
     2017: ADAMS AND REESE LLP FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
    [001]
     2017: ADAMS AND REESE LLP 401(K) PROFIT SHARING PLAN AND TRUST
-        Benefit Category: Life Insurance, 401(k)
+        Benefit Category: Life insurance, 401(k)
         Codes: 2E2F2G2J2K2R2T3B3D3H 4B
         Participants: 624
         Assets: 195246809
@@ -86,78 +86,28 @@ LA : NEW ORLEANS
         RecordKeeper: CHARLES SCHWAB BANK
    [509]
     2022: ADAMS AND REESE LLP WELFARE BENEFIT PLAN LIFE & AD&D
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2021: ADAMS AND REESE LLP WELFARE BENEFIT PLAN LIFE & AD&D
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2020: ADAMS AND REESE LLP WELFARE BENEFIT PLAN LIFE & AD&D
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2019: ADAMS AND REESE LLP WELFARE BENEFIT PLAN LIFE & AD&D
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2018: ADAMS AND REESE LLP WELFARE BENEFIT PLAN LIFE & AD&D
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2017: ADAMS AND REESE LLP WELFARE BENEFIT PLAN LIFE & AD&D
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
-        Participants: 
-   [507]
-    2022: ADAMS AND REESE LLP GROUP TRAVEL AD&D PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2021: ADAMS AND REESE LLP GROUP TRAVEL AD&D PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: ADAMS AND REESE LLP GROUP TRAVEL AD&D PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: ADAMS AND REESE LLP GROUP TRAVEL AD&D PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: ADAMS AND REESE LLP GROUP TRAVEL AD&D PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: ADAMS AND REESE LLP GROUP TRAVEL AD&D PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-   [510]
-    2022: ADAMS AND REESE LLP WELFARE BENEFIT PLAN LTD/STD
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2021: ADAMS AND REESE LLP WELFARE BENEFIT PLAN LTD/STD
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2020: ADAMS AND REESE LLP WELFARE BENEFIT PLAN LTD/STD
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2019: ADAMS AND REESE LLP WELFARE BENEFIT PLAN LTD/STD
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2018: ADAMS AND REESE LLP WELFARE BENEFIT PLAN LTD/STD
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2017: ADAMS AND REESE LLP WELFARE BENEFIT PLAN LTD/STD
-        Benefit Category: Other
-        Codes:  4F4H
         Participants: 
    [004]
     2022: ADAMS AND REESE LLP GROUP PENSION PLAN II
@@ -216,3 +166,53 @@ LA : NEW ORLEANS
         Assets: 35846784
         $/Participant: 242208
         RecordKeeper: SCHWAB RETIREMENT PLAN SERVICES
+   [510]
+    2022: ADAMS AND REESE LLP WELFARE BENEFIT PLAN LTD/STD
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2021: ADAMS AND REESE LLP WELFARE BENEFIT PLAN LTD/STD
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2020: ADAMS AND REESE LLP WELFARE BENEFIT PLAN LTD/STD
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2019: ADAMS AND REESE LLP WELFARE BENEFIT PLAN LTD/STD
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2018: ADAMS AND REESE LLP WELFARE BENEFIT PLAN LTD/STD
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2017: ADAMS AND REESE LLP WELFARE BENEFIT PLAN LTD/STD
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+   [507]
+    2022: ADAMS AND REESE LLP GROUP TRAVEL AD&D PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2021: ADAMS AND REESE LLP GROUP TRAVEL AD&D PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: ADAMS AND REESE LLP GROUP TRAVEL AD&D PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: ADAMS AND REESE LLP GROUP TRAVEL AD&D PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: ADAMS AND REESE LLP GROUP TRAVEL AD&D PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: ADAMS AND REESE LLP GROUP TRAVEL AD&D PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 

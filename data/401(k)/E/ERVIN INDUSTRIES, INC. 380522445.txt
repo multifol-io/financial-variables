@@ -56,6 +56,19 @@ MI : ANN ARBOR
         Available Investments:
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND
+   [502]
+    2019: ERVIN INDUSTRIES, INC. DENTAL INSURANCE PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 219
+    2018: ERVIN INDUSTRIES, INC. DENTAL INSURANCE PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 218
+    2017: ERVIN INDUSTRIES, INC. DENTAL INSURANCE PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 222
    [505]
     2019: ERVIN INDUSTRIES, INC., HEALTH INSURANCE PLAN
         Benefit Category: Healthcare
@@ -72,95 +85,56 @@ MI : ANN ARBOR
         Participants: 165
    [521]
     2022: WRAP WELFARE PLAN FOR NON-UNION EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L
         Participants: 
     2021: WRAP WELFARE PLAN FOR NON-UNION EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L
         Participants: 
     2020: WRAP WELFARE PLAN FOR NON-UNION EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L
         Participants: 
    [522]
     2022: WRAP WELFARE PLAN FOR UNION EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident
         Codes:  4A4B4D4E4F4L
         Participants: 
     2021: WRAP WELFARE PLAN FOR UNION EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident
         Codes:  4A4B4D4E4F4L
         Participants: 
     2020: WRAP WELFARE PLAN FOR UNION EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident
         Codes:  4A4B4D4E4F4L
         Participants: 
    [503]
     2019: ERVIN INDUSTRIES, INC. LIFE INSURANCE & ACCIDENTAL DEATH & DISMEMBERMENT
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 321
     2018: ERVIN INDUSTRIES, INC. LIFE INSURANCE & ACCIDENTAL DEATH & DISMEMBERMENT
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 300
     2017: ERVIN INDUSTRIES, INC. LIFE INSURANCE & ACCIDENTAL DEATH & DISMEMBERMENT
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 304
    [501]
     2019: ERVIN INDUSTRIES, INC. SALARIED EMPLOYEES LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 119
     2018: ERVIN INDUSTRIES, INC. SALARIED EMPLOYEES LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 122
     2017: ERVIN INDUSTRIES, INC. SALARIED EMPLOYEES LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 123
-   [502]
-    2019: ERVIN INDUSTRIES, INC. DENTAL INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 219
-    2018: ERVIN INDUSTRIES, INC. DENTAL INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 218
-    2017: ERVIN INDUSTRIES, INC. DENTAL INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 222
-   [504]
-    2019: ERVIN INDUSTRIES, INC. DISABILITY INCOME PLAN FOR HOURLY EMPLOYEES
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 126
-    2018: ERVIN INDUSTRIES, INC. DISABILITY INCOME PLAN FOR HOURLY EMPLOYEES
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 120
-    2017: ERVIN INDUSTRIES, INC. DISABILITY INCOME PLAN FOR HOURLY EMPLOYEES
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 124
-   [506]
-    2019: ERVIN INDUSTRIES, INC, VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 261
-    2018: ERVIN INDUSTRIES, INC. VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 252
-    2017: ERVIN INDUSTRIES, INC. VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 245
    [003]
     2022: ERVIN INDUSTRIES, INC. PENSION PLAN FOR HOURLY PAID EMPLOYEES
         Benefit Category: Pension
@@ -410,3 +384,29 @@ MI : ANN ARBOR
                  : SIA-OJ
                  : SIA-PX
                  : SIA-SL
+   [504]
+    2019: ERVIN INDUSTRIES, INC. DISABILITY INCOME PLAN FOR HOURLY EMPLOYEES
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 126
+    2018: ERVIN INDUSTRIES, INC. DISABILITY INCOME PLAN FOR HOURLY EMPLOYEES
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 120
+    2017: ERVIN INDUSTRIES, INC. DISABILITY INCOME PLAN FOR HOURLY EMPLOYEES
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 124
+   [506]
+    2019: ERVIN INDUSTRIES, INC, VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 261
+    2018: ERVIN INDUSTRIES, INC. VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 252
+    2017: ERVIN INDUSTRIES, INC. VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 245

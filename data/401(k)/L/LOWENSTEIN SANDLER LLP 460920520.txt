@@ -136,11 +136,11 @@ NJ : ROSELAND
         RecordKeeper: THE VANGUARD GROUP, INC.
    [504]
     2018: LOWENSTEIN SANDLER LLP GROUP MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2017: LOWENSTEIN SANDLER LLP GROUP MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
    [007]
@@ -306,20 +306,6 @@ NJ : ROSELAND
         Participants: 
         Assets: 37479738
         $/Participant: 
-   [511]
-    2018: LOWENSTEIN SANDLER, LLP GROUP AD&D PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: LOWENSTEIN SANDLER, LLP GROUP AD&D PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-   [512]
-    2018: LOWENSTEIN SANDLER, LLP GROUP AD&D PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
    [008]
     2022: LOWENSTEIN SANDLER RETIREMENT SHARES PLAN
         Benefit Category: Pension
@@ -388,3 +374,17 @@ NJ : ROSELAND
         Available Investments:
            - LOWENSTEIN SANDLER LLP
                  : LS RETIREMENT SHARES PLANS - MT
+   [511]
+    2018: LOWENSTEIN SANDLER, LLP GROUP AD&D PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: LOWENSTEIN SANDLER, LLP GROUP AD&D PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+   [512]
+    2018: LOWENSTEIN SANDLER, LLP GROUP AD&D PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 

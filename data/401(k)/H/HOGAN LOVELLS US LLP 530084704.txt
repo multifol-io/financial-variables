@@ -45,27 +45,27 @@ DC : WASHINGTON
                  : MANAGED INCOME PORTFOLIO
    [501]
     2022: HOGAN LOVELLS US LLP GROUP HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
         Codes:  4A4B4D4E4L
         Participants: 
     2021: HOGAN LOVELLS US LLP GROUP HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
         Codes:  4A4B4D4E4L
         Participants: 
     2020: HOGAN LOVELLS US LLP GROUP HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
         Codes:  4A4B4D4E4L
         Participants: 
     2019: HOGAN LOVELLS US LLP GROUP HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
         Codes:  4A4B4D4E4L
         Participants: 
     2018: HOGAN LOVELLS US LLP GROUP HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
         Codes:  4A4B4D4E4L
         Participants: 
     2017: HOGAN LOVELLS US LLP GROUP HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
         Codes:  4A4B4D4E4L
         Participants: 
    [506]
@@ -95,28 +95,53 @@ DC : WASHINGTON
         Participants: 
    [502]
     2022: HOGAN LOVELLS US LLP GROUP LIFE AND AD&D INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2021: HOGAN LOVELLS US LLP GROUP LIFE AND AD&D INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2020: HOGAN LOVELLS US LLP GROUP LIFE AND AD&D INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2019: HOGAN LOVELLS US LLP GROUP LIFE AND AD&D INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2018: HOGAN LOVELLS US LLP GROUP LIFE AND AD&D INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2017: HOGAN LOVELLS US LLP GROUP LIFE AND AD&D INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
+        Participants: 
+   [503]
+    2022: HOGAN LOVELLS US LLP DISABILITY INCOME INSURANCE PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2021: HOGAN LOVELLS US LLP DISABILITY INCOME INSURANCE PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2020: HOGAN LOVELLS US LLP DISABILITY INCOME INSURANCE PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2019: HOGAN LOVELLS US LLP DISABILITY INCOME INSURANCE PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2018: HOGAN LOVELLS US LLP DISABILITY INCOME INSURANCE PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2017: HOGAN LOVELLS US LLP DISABILITY INCOME INSURANCE PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
    [001]
     2018: HOGAN LOVELLS US LLP RETIREMENT SAVINGS PLAN
@@ -139,56 +164,6 @@ DC : WASHINGTON
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MANAGED INCOME PORTFOLIO
-   [503]
-    2022: HOGAN LOVELLS US LLP DISABILITY INCOME INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2021: HOGAN LOVELLS US LLP DISABILITY INCOME INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2020: HOGAN LOVELLS US LLP DISABILITY INCOME INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2019: HOGAN LOVELLS US LLP DISABILITY INCOME INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2018: HOGAN LOVELLS US LLP DISABILITY INCOME INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2017: HOGAN LOVELLS US LLP DISABILITY INCOME INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-   [504]
-    2022: HOGAN LOVELLS US LLP BUSINESS TRAVEL INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2021: HOGAN LOVELLS US LLP BUSINESS TRAVEL INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: HOGAN LOVELLS US LLP BUSINESS TRAVEL INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: HOGAN LOVELLS US LLP BUSINESS TRAVEL INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: HOGAN LOVELLS US LLP BUSINESS TRAVEL INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: HOGAN LOVELLS US LLP BUSINESS TRAVEL INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
    [507]
     2022: HOGAN LOVELLS US LLP LONG TERM CARE INSURANCE PLAN
         Benefit Category: Other
@@ -269,3 +244,28 @@ DC : WASHINGTON
         Service Providers:
            - GOLDMAN SACHS ASSET MANAGEMENT,L.P. :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
            - ALTMAN & CRONIN :  (Actuarial)
+   [504]
+    2022: HOGAN LOVELLS US LLP BUSINESS TRAVEL INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2021: HOGAN LOVELLS US LLP BUSINESS TRAVEL INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: HOGAN LOVELLS US LLP BUSINESS TRAVEL INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: HOGAN LOVELLS US LLP BUSINESS TRAVEL INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: HOGAN LOVELLS US LLP BUSINESS TRAVEL INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: HOGAN LOVELLS US LLP BUSINESS TRAVEL INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 

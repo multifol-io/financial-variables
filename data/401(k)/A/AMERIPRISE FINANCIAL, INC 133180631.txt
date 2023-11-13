@@ -244,27 +244,27 @@ MN : MINNEAPOLIS
                  : WELLINGTON TRUST LARGE CAP GROWTH
    [501]
     2022: AMERIPRISE FINANCIAL MEDICAL & DENTAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2021: AMERIPRISE FINANCIAL MEDICAL & DENTAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2020: AMERIPRISE FINANCIAL MEDICAL & DENTAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2019: AMERIPRISE FINANCIAL MEDICAL & DENTAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2018: AMERIPRISE FINANCIAL MEDICAL & DENTAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2017: AMERIPRISE FINANCIAL MEDICAL & DENTAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
    [512]
@@ -285,62 +285,62 @@ MN : MINNEAPOLIS
         Codes:  4A4Q
         Participants: 
     2018: AMERIPRISE FINANCIAL FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4H4G4I4J4K4L
         Participants: 
     2017: AMERIPRISE FINANCIAL FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4H4G4I4J4K4L
         Participants: 
    [503]
     2022: AMERIPRISE FINANCIAL LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2021: AMERIPRISE FINANCIAL LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2020: AMERIPRISE FINANCIAL LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2019: AMERIPRISE FINANCIAL LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2018: AMERIPRISE FINANCIAL LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: AMERIPRISE FINANCIAL LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
-   [502]
-    2022: AMERIPRISE FINANCIAL VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
+   [506]
+    2022: AMERIPRISE FINANCIAL LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
-    2021: AMERIPRISE FINANCIAL VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
+    2021: AMERIPRISE FINANCIAL LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
-    2020: AMERIPRISE FINANCIAL VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
+    2020: AMERIPRISE FINANCIAL LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
-    2019: AMERIPRISE FINANCIAL VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
+    2019: AMERIPRISE FINANCIAL LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
-    2018: AMERIPRISE FINANCIAL VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
+    2018: AMERIPRISE FINANCIAL LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
-    2017: AMERIPRISE FINANCIAL VISION CARE PLAN
-        Benefit Category: Other
-        Codes:  4E
+    2017: AMERIPRISE FINANCIAL LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
    [504]
     2022: AMERIPRISE FINANCIAL HEALTH CARE REIMBURSEMENT PLA N
@@ -367,31 +367,6 @@ MN : MINNEAPOLIS
         Benefit Category: Other
         Codes:  4Q
         Participants: 
-   [506]
-    2022: AMERIPRISE FINANCIAL LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2021: AMERIPRISE FINANCIAL LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2020: AMERIPRISE FINANCIAL LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2019: AMERIPRISE FINANCIAL LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2018: AMERIPRISE FINANCIAL LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2017: AMERIPRISE FINANCIAL LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
    [507]
     2022: AMERIPRISE FINANCIAL LEGAL ASSISTANCE PLAN
         Benefit Category: Other
@@ -416,19 +391,6 @@ MN : MINNEAPOLIS
     2017: AMERIPRISE FINANCIAL LEGAL ASSISTANCE PLAN
         Benefit Category: Other
         Codes:  4G
-        Participants: 
-   [513]
-    2019: AMERIPRISE FINANCIAL BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: AMERIPRISE FINANCIAL BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: AMERIPRISE FINANCIAL BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L
         Participants: 
    [002]
     2021: AMERIPRISE FINANCIAL RETIREMENT PLAN
@@ -589,4 +551,42 @@ MN : MINNEAPOLIS
     2017: AMERIPRISE FINANCIAL FIELD SEVERANCE PAY PLAN
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [513]
+    2019: AMERIPRISE FINANCIAL BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: AMERIPRISE FINANCIAL BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: AMERIPRISE FINANCIAL BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+   [502]
+    2022: AMERIPRISE FINANCIAL VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2021: AMERIPRISE FINANCIAL VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2020: AMERIPRISE FINANCIAL VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2019: AMERIPRISE FINANCIAL VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2018: AMERIPRISE FINANCIAL VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2017: AMERIPRISE FINANCIAL VISION CARE PLAN
+        Benefit Category: Vision
+        Codes:  4E
         Participants: 

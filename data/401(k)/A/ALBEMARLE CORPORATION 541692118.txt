@@ -114,44 +114,44 @@ NC : CHARLOTTE
                  : STATE STREET US INFLATION PROTECTED
    [501]
     2022: GROUP INSURANCE FOR THE EMPLOYEES OF ALBEMARLE CORPORATION
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4G4H4L
         Participants: 
     2021: GROUP INSURANCE FOR THE EMPLOYEES OF ALBEMARLE CORPORATION
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4G4H4L
         Participants: 
     2020: GROUP INSURANCE FOR THE EMPLOYEES OF ALBEMARLE CORPORATION
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4G4H4Q
         Participants: 2029
     2019: GROUP INSURANCE FOR THE EMPLOYEES OF ALBEMARLE CORPORATION
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4G4H4Q
         Participants: 2014
     2018: GROUP INSURANCE FOR THE EMPLOYEES OF ALBEMARLE CORPORATION
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4G4H4Q
         Participants: 2161
     2017: GROUP INSURANCE FOR THE EMPLOYEES OF ALBEMARLE CORPORATION
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4G4H4Q
         Participants: 
    [510]
     2022: GROUP MEDICAL PLAN FOR THE RETIREES OF ALBEMARLE CORPORATION
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2021: GROUP MEDICAL PLAN FOR THE RETIREES OF ALBEMARLE CORPORATION
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2020: GROUP MEDICAL PLAN FOR THE RETIREES OF ALBEMARLE CORPORATION
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 589
     2019: GROUP MEDICAL PLAN FOR THE RETIREES OF ALBEMARLE CORPORATION
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 719
     2018: GROUP MEDICAL PLAN FOR THE RETIREES OF ALBEMARLE CORP
@@ -304,44 +304,6 @@ LA : BATON ROUGE
                  : SEI OPPORTUNITY COLLECTIVE FUND
                  : SEI STRUCTURED CREDIT COLLECTIVE
 NC : CHARLOTTE
-   [502]
-    2022: ACCIDENT AND SICKNESS BENEFITS FOR THE EMPLOYEES OF ALBEMARLE CORPORATION
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2021: ACCIDENT AND SICKNESS BENEFITS FOR THE EMPLOYEES OF ALBEMARLE CORPORATION
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2020: ACCIDENT AND SICKNESS BENEFITS FOR THE EMPLOYEES OF ALBEMARLE CORPORATION
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 13
-    2019: ACCIDENT AND SICKNESS BENEFITS FOR THE EMPLOYEES OF ALBEMARLE CORPORATION
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 13
-    2018: ACCIDENT AND SICKNESS BENEFITS FOR THE EMPLOYEES OF ALBEMARLE CORP
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 13
-    2017: ACCIDENT AND SICKNESS BENEFITS FOR THE EMPLOYEES OF ALBEMARLE CORPORATION
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-   [508]
-    2020: ALBEMARLE CORPORATION SEVERANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 2029
-    2019: ALBEMARLE CORPORATION SEVERANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 2014
-    2018: ALBEMARLE CORPORATION SEVERANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 2099
    [509]
     2022: ALBEMARLE CORPORATION EMPLOYEE ASSISTANCE PLAN
         Benefit Category: Other
@@ -366,31 +328,6 @@ NC : CHARLOTTE
     2017: ALBEMARLE CORPORATION EMPLOYEE ASSISTANCE PLAN
         Benefit Category: Other
         Codes:  4Q
-        Participants: 
-   [512]
-    2022: BLANKET TRAVEL AND SEAT BELT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2021: BLANKET TRAVEL AND SEAT BELT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: BLANKET TRAVEL AND SEAT BELT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 2029
-    2019: BLANKET TRAVEL AND SEAT BELT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 2014
-    2018: BLANKET TRAVEL AND SEAT BELT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 2099
-    2017: BLANKET TRAVEL AND SEAT BELT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4L
         Participants: 
    [001]
     2022: ALBEMARLE CORPORATION PENSION PLAN
@@ -575,4 +512,67 @@ NC : CHARLOTTE
     2017: ALBEMARLE CORPORATION SEVERANCE PLAN
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [502]
+    2022: ACCIDENT AND SICKNESS BENEFITS FOR THE EMPLOYEES OF ALBEMARLE CORPORATION
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2021: ACCIDENT AND SICKNESS BENEFITS FOR THE EMPLOYEES OF ALBEMARLE CORPORATION
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2020: ACCIDENT AND SICKNESS BENEFITS FOR THE EMPLOYEES OF ALBEMARLE CORPORATION
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 13
+    2019: ACCIDENT AND SICKNESS BENEFITS FOR THE EMPLOYEES OF ALBEMARLE CORPORATION
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 13
+    2018: ACCIDENT AND SICKNESS BENEFITS FOR THE EMPLOYEES OF ALBEMARLE CORP
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 13
+    2017: ACCIDENT AND SICKNESS BENEFITS FOR THE EMPLOYEES OF ALBEMARLE CORPORATION
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+   [508]
+    2020: ALBEMARLE CORPORATION SEVERANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 2029
+    2019: ALBEMARLE CORPORATION SEVERANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 2014
+    2018: ALBEMARLE CORPORATION SEVERANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 2099
+   [512]
+    2022: BLANKET TRAVEL AND SEAT BELT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2021: BLANKET TRAVEL AND SEAT BELT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: BLANKET TRAVEL AND SEAT BELT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 2029
+    2019: BLANKET TRAVEL AND SEAT BELT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 2014
+    2018: BLANKET TRAVEL AND SEAT BELT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 2099
+    2017: BLANKET TRAVEL AND SEAT BELT INSURANCE PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
         Participants: 

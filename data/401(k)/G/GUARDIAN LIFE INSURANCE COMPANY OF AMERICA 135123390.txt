@@ -170,6 +170,16 @@ NY : NEW YORK
         Available Investments:
            - THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA
                  : THE GUARDIAN MASTER INVESTMENT TRUS
+   [519]
+    2017: THE GUARDIAN DENTAL BENEFITS PLAN FOR HOME OFFICE EMPLOYEES
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 0
+   [520]
+    2017: THE GUARDIAN DENTAL BENEFITS PLAN FOR FIELD ASSOCIATES
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 0
 CT : HARTFORD
    [501]
     2021: PROPARK AMERICA HEALTH AND WELFARE BENEFIT PLAN
@@ -186,7 +196,7 @@ CT : HARTFORD
         Participants: 
 LA : BATON ROUGE
     2018: CHAMPION TECHNOLOGY SERVICES, INC. WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
 CT : HARTFORD
@@ -212,28 +222,28 @@ NY : NEW YORK
         Participants: 0
    [525]
     2017: GUARDIAN HEALTH REIMBURSEMENT ACCOUNT FOR RETIRED HOME OFFICE AND FIELD ASSOCIATES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 0
    [530]
     2022: THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA HEALTH AND WELFARE BENEFITS PLAN FOR HOME OFFICE EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 6419
     2021: THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA HEALTH AND WELFARE BENEFITS PLAN FOR HOME OFFICE EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 6633
     2020: THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA HEALTH & WELFARE BENEFITS PLAN FOR HOME OFFICE EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 6807
     2019: THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA HEALTH & WELFARE BENEFITS PLAN FOR HOME OFFICE EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4B4I4A4D4E4F4L4Q4H
         Participants: 5969
     2018: THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA HEALTH & WELFARE BENEFITS PLAN FOR HOME OFFICE EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4B4I4A4D4E4F4L4Q4H
         Participants: 4582
     2017: THE GUARDIAN LIFE GROUP HEALTH BENEFIT PLAN
@@ -242,96 +252,96 @@ NY : NEW YORK
         Participants: 6014
    [535]
     2017: HOME OFFICE EMPLOYEES' ACCIDENT INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Travel accident
         Codes:  4A4D4L
         Participants: 0
    [536]
     2022: THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA HEALTH AND WELFARE BENEFITS PLAN FOR FIELD REPRESENTATIVES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 2302
     2021: THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA HEALTH AND WELFARE BENEFITS PLAN FOR FIELD REPRESENTATIVES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 2443
     2020: THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA HEALTH AND WELFARE BENEFITS PLAN FOR FIELD REPRESENTATIVES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H4Q
         Participants: 2485
     2019: THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA HEALTH AND WELFARE BENEFITS PLAN FOR FIELD REPRESENTATIVES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4B4A4D4F4H4Q4E
         Participants: 2499
     2018: THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA HEALTH AND WELFARE BENEFITS PLAN FOR FIELD REPRESENTATIVES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4B4A4D4F4H4Q4E
         Participants: 2134
    [537]
     2022: THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA HEALTH AND WELFARE BENEFITS PLAN FOR RETIRED EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4D4E4B4Q
         Participants: 1403
     2021: THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA HEALTH AND WELFARE BENEFITS PLAN FOR RETIRED EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4D4E4B4Q
         Participants: 1355
     2020: THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA HEALTH AND WELFARE BENEFITS PLAN FOR RETIRED EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4D4E4B4Q
         Participants: 1245
     2019: THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA HEALTH AND WELFARE BENEFITS PLAN FOR RETIRED EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4D4E4B4Q
         Participants: 1277
     2018: THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA HEALTH AND WELFARE BENEFITS PLAN FOR RETIRED EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4D4E4B4Q
         Participants: 1217
    [538]
     2022: THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA HEALTH AND WELFARE BENEFITS PLAN FOR RETIRED FIELD REPRESENTATIVES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4D4A4E4E4Q
         Participants: 542
     2021: THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA HEALTH AND WELFARE BENEDITS PLAN FOR RETIRED FIELD REPRESENTATIVES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4D4A4E4B4Q
         Participants: 515
     2020: THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA HEALTH AND WELFARE BENEFITS PLAN FOR RETIRED FIELD REPRESENTATIVES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4D4A4E4B4Q
         Participants: 457
     2019: THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA HEALTH AND WELFARE BENEFITS PLAN FOR RETIRED FIELD REPRESENTATIVES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4D4A4E4B4Q
         Participants: 436
     2018: THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA HEALTH AND WELFARE BENEFITS PLAN FOR RETIRED FIELD REPRESENTATIVES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4D4A4E4B4Q
         Participants: 408
 NY : CHEEKTOWAGA
    [501]
     2021: DOODLE BUGS HOLDING COMPANY INC. PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Dental, Vision, Short-term disability
         Codes:  4D4B4E4F
         Participants: 
 NY : NEW YORK
     2017: HOME OFFICE EMPLOYEES' GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 0
    [502]
     2017: FIELD EMPLOYEES' GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 0
 OK : SHAWNEE
    [507]
     2018: SAC AND FOX CASINO
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4B4D4E4F4H4L
         Participants: 353
     2017: SAC AND FOX CASINO
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4B4D4E4F4H4L
         Participants: 363
 NY : NEW YORK
@@ -543,36 +553,6 @@ NY : NEW YORK
                  : ENHANCED STOCK MARKET
                  : WELLS FARGO CORE BOND
                  : WF/BLACKROCK RU 2000 INDEX
-   [503]
-    2017: HOME OFFICE EMPLOYEES' GROUP DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H4F
-        Participants: 0
-   [504]
-    2017: FIELD EMPLOYEES' GROUP DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4H4F
-        Participants: 0
-   [512]
-    2017: THE GUARDIAN VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 0
-   [519]
-    2017: THE GUARDIAN DENTAL BENEFITS PLAN FOR HOME OFFICE EMPLOYEES
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 0
-   [520]
-    2017: THE GUARDIAN DENTAL BENEFITS PLAN FOR FIELD ASSOCIATES
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 0
-   [533]
-    2017: BUSINESS TRAVEL ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 0
    [534]
     2017: HOME OFFICE EMPLOYEES' CRITICAL ILLNESS INSURANCE PLAN
         Benefit Category: Other
@@ -742,4 +722,24 @@ NY : NEW YORK
     2017: THE GUARDIAN LIFE INSURANCE COMPANY OF AMERICA SEVERANCE PLAN FOR SALES AND CERTAIN UNCLASSIFIED EMPLOYEES
         Benefit Category: Severance
         Codes:  4I
+        Participants: 0
+   [503]
+    2017: HOME OFFICE EMPLOYEES' GROUP DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4H4F
+        Participants: 0
+   [504]
+    2017: FIELD EMPLOYEES' GROUP DISABILITY INSURANCE PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4H4F
+        Participants: 0
+   [533]
+    2017: BUSINESS TRAVEL ACCIDENT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 0
+   [512]
+    2017: THE GUARDIAN VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
         Participants: 0

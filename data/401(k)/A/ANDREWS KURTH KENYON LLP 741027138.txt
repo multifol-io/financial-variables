@@ -14,7 +14,7 @@ TX : HOUSTON
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
    [501]
     2017: ANDREWS KURTH KENYON LLP GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Travel accident
         Codes:  4A4B4D4L
         Participants: 
    [505]
@@ -24,13 +24,8 @@ TX : HOUSTON
         Participants: 
    [503]
     2017: ANDREWS KURTH KENYON LLP GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4Q
-        Participants: 
-   [502]
-    2017: ANDREWS KURTH KENYON LLP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
         Participants: 
    [003]
     2017: ANDREWS KURTH KENYON CASH BALANCE PLAN
@@ -39,3 +34,8 @@ TX : HOUSTON
         Participants: 173
         Assets: 14377958
         $/Participant: 83109
+   [502]
+    2017: ANDREWS KURTH KENYON LLP LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 

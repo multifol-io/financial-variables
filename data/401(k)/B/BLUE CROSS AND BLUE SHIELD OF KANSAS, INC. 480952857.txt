@@ -233,7 +233,7 @@ KS : TOPEKA
                  : WF STABLE VALUE FUND
    [504]
     2022: BKS EMPLOYEE BENEFITS TRUST, INC.
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Assets: 7483439
@@ -241,7 +241,7 @@ KS : TOPEKA
         Service Providers:
            - BLUE CROSS AND BLUE SHIELD OF KANSA : SAME PARTY (Claims processing)
     2021: BKS EMPLOYEE BENEFITS TRUST, INC.
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Assets: 8864934
@@ -249,7 +249,7 @@ KS : TOPEKA
         Service Providers:
            - BLUE CROSS AND BLUE SHIELD OF KANSA : SAME PARTY (Claims processing)
     2020: BKS EMPLOYEE BENEFITS TRUST, INC.
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Assets: 6649250
@@ -257,7 +257,7 @@ KS : TOPEKA
         Service Providers:
            - BLUE CROSS AND BLUE SHIELD OF KANSA : SAME PARTY (Claims processing)
     2019: BKS EMPLOYEE BENEFITS TRUST, INC.
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Assets: 4318612
@@ -265,7 +265,7 @@ KS : TOPEKA
         Service Providers:
            - BLUE CROSS AND BLUE SHIELD OF KANSA : SAME PARTY (Claims processing)
     2018: BKS EMPLOYEE BENEFITS TRUST, INC.
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Assets: 3620068
@@ -273,7 +273,7 @@ KS : TOPEKA
         Service Providers:
            - BLUE CROSS AND BLUE SHIELD OF KANSA : SAME PARTY (Claims processing)
     2017: BKS EMPLOYEE BENEFITS TRUST, INC.
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Assets: 3501461
@@ -357,27 +357,27 @@ KS : TOPEKA
         Participants: 
    [503]
     2022: EMPLOYEE GROUP LIFE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2021: EMPLOYEE GROUP LIFE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2020: EMPLOYEE GROUP LIFE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2019: EMPLOYEE GROUP LIFE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2018: EMPLOYEE GROUP LIFE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: EMPLOYEE GROUP LIFE
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
    [511]
@@ -404,31 +404,6 @@ KS : TOPEKA
     2017: EMPLOYEE ASSISTANCE PROGRAM
         Benefit Category: Other
         Codes:  4Q
-        Participants: 
-   [513]
-    2022: BLUE CROSS AND BLUE SHIELD OF KANSAS, INC. VISION
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2021: BLUE CROSS AND BLUE SHIELD OF KANSAS, INC. VISION
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2020: BLUE CROSS AND BLUE SHIELD OF KANSAS, INC. VISION
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2019: BLUE CROSS AND BLUE SHIELD OF KANSAS, INC. VISION
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2018: BLUE CROSS AND BLUE SHIELD OF KANSAS, INC. VISION
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2017: BLUE CROSS AND BLUE SHIELD OF KANSAS, INC. VISION
-        Benefit Category: Other
-        Codes:  4E
         Participants: 
    [001]
     2022: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF BLUE CROSS AND BLUE SHIELD OF KANSAS, INC.
@@ -587,4 +562,29 @@ KS : TOPEKA
     2017: SEVERANCE AND RETENTION BENEFIT PLAN
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [513]
+    2022: BLUE CROSS AND BLUE SHIELD OF KANSAS, INC. VISION
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2021: BLUE CROSS AND BLUE SHIELD OF KANSAS, INC. VISION
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2020: BLUE CROSS AND BLUE SHIELD OF KANSAS, INC. VISION
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2019: BLUE CROSS AND BLUE SHIELD OF KANSAS, INC. VISION
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2018: BLUE CROSS AND BLUE SHIELD OF KANSAS, INC. VISION
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2017: BLUE CROSS AND BLUE SHIELD OF KANSAS, INC. VISION
+        Benefit Category: Vision
+        Codes:  4E
         Participants: 

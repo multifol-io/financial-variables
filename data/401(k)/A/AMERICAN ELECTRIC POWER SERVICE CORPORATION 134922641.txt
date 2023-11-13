@@ -147,9 +147,27 @@ OH : COLUMBUS
                  : BNYM TIPS INDEX FUND
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO FIXED INCOME FUND N
+   [503]
+    2020: AMERICAN ELECTRIC POWER SYSTEM COMPREHENSIVE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+        Available Investments:
+           - AMERICAN ELECTRIC POWER SYSTEM
+                 : AEP SYSTEM EMPLOYEES' BENEFIT TRUST
+    2017: AMERICAN ELECTRIC POWER SYSTEM COMPREHENSIVE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D4U
+        Participants: 
+        Assets: 3008004
+        $/Participant: 
+        RecordKeeper: THE BANK OF NEW YORK MELLON
+        Available Investments:
+           - AMERICAN ELECTRIC POWER SERVICE CORPORATION
+                 : AEP SYSTEM EMPLOYEES' BENEFIT TRUST
    [501]
     2020: AMERICAN ELECTRIC POWER SYSTEM COMPREHENSIVE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D4U
         Participants: 
         Assets: 1338486098
@@ -162,7 +180,7 @@ OH : COLUMBUS
                  : FOREIGN STOCK INDEX VCA-GI-100-3-16
                  : STRUCTURED MATURITY FUND-INT BONDS
     2019: AMERICAN ELECTRIC POWER SYSTEM COMPREHENSIVE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D4U4Q
         Participants: 
         Assets: 1194452632
@@ -191,32 +209,32 @@ OH : COLUMBUS
                  : VONTOBEL INDIA FUND
    [515]
     2022: AMERICAN ELECTRIC POWER SYSTEM HEALTH CARE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2021: AMERICAN ELECTRIC POWER SYSTEM HEALTH CARE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2020: AMERICAN ELECTRIC POWER SYSTEM HEALTH CARE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2019: AMERICAN ELECTRIC POWER SYSTEM HEALTH CARE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2018: AMERICAN ELECTRIC POWER SYSTEM HEALTH CARE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2017: AMERICAN ELECTRIC POWER SYSTEM HEALTH CARE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
    [504]
     2022: AMERICAN ELECTRIC POWER SYSTEM LIFE & ACCIDENT INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4Q
         Participants: 31520
         Assets: 76707497
@@ -226,7 +244,7 @@ OH : COLUMBUS
            - AMERICAN ELECTRIC POWER SERVICE CORPORATION
                  : AEP SYSTEM EMPLOYEES BENEFIT TRUST
     2021: AMERICAN ELECTRIC POWER SYSTEM LIFE & ACCIDENT INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4Q
         Participants: 31175
         Assets: 112445651
@@ -236,7 +254,7 @@ OH : COLUMBUS
            - AMERICAN ELECTRIC POWER SERVICE CORPORATION
                  : AEP SYSTEM EMPLOYEES BENEFIT TRUST
     2020: AMERICAN ELECTRIC POWER SYSTEM LIFE & ACCIDENT INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4Q
         Participants: 31324
         Assets: 109877097
@@ -246,7 +264,7 @@ OH : COLUMBUS
            - AMERICAN ELECTRIC POWER SERVICE CORPORATION
                  : AEP SYSTEM EMPLOYEES BENEFIT TRUST
     2019: AMERICAN ELECTRIC POWER SYSTEM LIFE & ACCIDENT INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4Q
         Participants: 31566
         Assets: 110744739
@@ -256,7 +274,7 @@ OH : COLUMBUS
            - AMERICAN ELECTRIC POWER SYSTEM
                  : AEP SYSTEM EMPLOYEES BENEFIT TRUST
     2018: AMERICAN ELECTRIC POWER SYSTEM LIFE & ACCIDENT INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4Q
         Participants: 
         Assets: 100998295
@@ -268,7 +286,7 @@ OH : COLUMBUS
            - VONTOBEL ASSET MANAGEMENT INC.
                  : VONTOBEL INDIA FUND
     2017: AMERICAN ELECTRIC POWER SYSTEM LIFE & ACCIDENT INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4Q
         Participants: 
         Assets: 123485713
@@ -281,7 +299,7 @@ OH : COLUMBUS
                  : VONTOBEL INDIA FUND
    [502]
     2020: AMERICAN ELECTRIC POWER SYSTEM LONG-TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
         Assets: 3828911
@@ -291,7 +309,7 @@ OH : COLUMBUS
            - AMERICAN ELECTRIC POWER SERVICE CORPORATION
                  : AEP SYSTEM EMPLOYEES' BENEFIT TRUST
     2019: AMERICAN ELECTRIC POWER SYSTEM LONG-TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
         Assets: 3113999
@@ -301,28 +319,10 @@ OH : COLUMBUS
            - AMERICAN ELECTRIC POWER SERVICE CORPORATION
                  : AEP SYSTEM EMPLOYEES' BENEFIT TRUST
     2017: AMERICAN ELECTRIC POWER SYSTEM LONG-TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
         Assets: 1167586
-        $/Participant: 
-        RecordKeeper: THE BANK OF NEW YORK MELLON
-        Available Investments:
-           - AMERICAN ELECTRIC POWER SERVICE CORPORATION
-                 : AEP SYSTEM EMPLOYEES' BENEFIT TRUST
-   [503]
-    2020: AMERICAN ELECTRIC POWER SYSTEM COMPREHENSIVE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-        Available Investments:
-           - AMERICAN ELECTRIC POWER SYSTEM
-                 : AEP SYSTEM EMPLOYEES' BENEFIT TRUST
-    2017: AMERICAN ELECTRIC POWER SYSTEM COMPREHENSIVE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D4U
-        Participants: 
-        Assets: 3008004
         $/Participant: 
         RecordKeeper: THE BANK OF NEW YORK MELLON
         Available Investments:
@@ -377,44 +377,6 @@ OH : COLUMBUS
     2017: AMERICAN ELECTRIC POWER GROUP LEGAL PLAN
         Benefit Category: Other
         Codes:  4G
-        Participants: 
-   [516]
-    2022: AEP COMPREHENSIVE VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2021: EYEMED COMPREHENSIVE VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2020: EYEMED COMPREHENSIVE VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2019: EYEMED COMPREHENSIVE VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2018: EYEMED COMPREHENSIVE VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2017: AEP COMPREHENSIVE VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-   [519]
-    2022: AMERICAN ELECTRIC POWER SYSTEM SHORT TERM DISABILITY PLAN FOR ILLINOIS EMPLOYEES
-        Benefit Category: Other
-        Codes:  4F4R
-        Participants: 
-    2021: AMERICAN ELECTRIC POWER SYSTEM SHORT TERM DISABILITY PLAN FOR ILLINOIS EMPLOYEES
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2020: AMERICAN ELECTRIC POWER SYSTEM SHORT TERM DISABILITY PLAN FOR ILLINOIS EMPLOYEES
-        Benefit Category: Other
-        Codes:  4F
         Participants: 
    [001]
     2022: AMERICAN ELECTRIC POWER SYSTEM RETIREMENT PLAN
@@ -505,4 +467,42 @@ OH : COLUMBUS
     2017: AMERICAN ELECTRIC POWER SYSTEM SEVERANCE PLAN
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [519]
+    2022: AMERICAN ELECTRIC POWER SYSTEM SHORT TERM DISABILITY PLAN FOR ILLINOIS EMPLOYEES
+        Benefit Category: Short-term disability
+        Codes:  4F4R
+        Participants: 
+    2021: AMERICAN ELECTRIC POWER SYSTEM SHORT TERM DISABILITY PLAN FOR ILLINOIS EMPLOYEES
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2020: AMERICAN ELECTRIC POWER SYSTEM SHORT TERM DISABILITY PLAN FOR ILLINOIS EMPLOYEES
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+   [516]
+    2022: AEP COMPREHENSIVE VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2021: EYEMED COMPREHENSIVE VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2020: EYEMED COMPREHENSIVE VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2019: EYEMED COMPREHENSIVE VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2018: EYEMED COMPREHENSIVE VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2017: AEP COMPREHENSIVE VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
         Participants: 

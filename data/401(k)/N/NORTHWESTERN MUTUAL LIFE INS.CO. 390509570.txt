@@ -187,14 +187,14 @@ WI : MILWAUKEE
         Participants: 4813
    [516]
     2018: NM HEALTHCARE BENEFITS PLAN FOR RETIREES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 1868
         Assets: 74234451
         $/Participant: 39740
         RecordKeeper: HEALTH STRATEGIES GROUP
     2017: NM HEALTHCARE BENEFITS PLAN FOR RETIREES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 1749
         Assets: 82887547
@@ -250,42 +250,42 @@ WI : MILWAUKEE
            - ENI :  (Claims processing)
    [526]
     2022: THE NORTHWESTERN MUTUAL EMPLOYEE FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Assets: 10336424
         $/Participant: 
         RecordKeeper: NM INVESTMENT MGMT CO
     2021: THE NORTHWESTERN MUTUAL EMPLOYEE FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Assets: 12682183
         $/Participant: 
         RecordKeeper: NM INVESTMENT MGMT CO
     2020: NM EMPLOYEE FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 6645
         Assets: 12005397
         $/Participant: 1806
         RecordKeeper: NM INVESTMENT MGMT CO
     2019: NM EMPLOYEE FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 6019
         Assets: 10801549
         $/Participant: 1794
         RecordKeeper: NM INVESTMENT MGMT CO
     2018: NM EMPLOYEE FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 5976
         Assets: 9187231
         $/Participant: 1537
         RecordKeeper: HEALTH STRATEGIES GROUP
     2017: NM EMPLOYEE FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 5199
         Assets: 9476854
@@ -340,79 +340,129 @@ WI : MILWAUKEE
            - ENI :  (Claims processing)
    [501]
     2022: NML GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2021: NML GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2020: NML GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2019: NML GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 7334
     2018: NML GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 7036
     2017: NML GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 6516
    [517]
     2022: NML INS CO AGENTS GROUP LIFE INS PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2021: NML INS CO AGENTS GROUP LIFE INS PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2020: NML INS CO AGENTS GROUP LIFE INS PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 7510
     2019: NML INS CO AGENTS GROUP LIFE INS PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 6512
     2018: NML INS CO AGENTS GROUP LIFE INS PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 7990
     2017: NML INS CO AGENTS GROUP LIFE INS PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 8040
    [531]
     2022: THE NML LIFE INSURANCE PLAN FOR OFFICERS
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2021: THE NML LIFE INSURANCE PLAN FOR OFFICERS
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2020: THE NML LIFE INSURANCE PLAN FOR OFFICERS
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 488
     2019: THE NML LIFE INSURANCE PLAN FOR OFFICERS
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 560
     2018: THE NML LIFE INSURANCE PLAN FOR OFFICERS
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 673
     2017: THE NML LIFE INSURANCE PLAN FOR OFFICERS
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 637
+   [504]
+    2022: THE NORTHWESTERN MUTUAL EMPLOYEE DISABILITY INCOME PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+        Assets: 24579442
+        $/Participant: 
+        Service Providers:
+           - NM INVESTMENT MGMT CO : SUB OF SPONSOR (Investment management | Investment management fees paid indirectly by plan)
+    2021: THE NORTHWESTERN MUTUAL EMPLOYEE DISABILITY INCOME PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+        Assets: 31011848
+        $/Participant: 
+        Service Providers:
+           - NM INVESTMENT MGMT CO : SUB OF SPONSOR (Investment management | Investment management fees paid indirectly by plan)
+    2020: NML EMPLOYEE DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 6645
+        Assets: 28083979
+        $/Participant: 4226
+        Service Providers:
+           - NM INVESTMENT MGMT CO : SUB OF SPONSOR (Investment management | Investment management fees paid indirectly by plan)
+   [525]
+    2022: NML AGENTS GROUP LONG-TERM DISABILITY
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2021: NML AGENTS GROUP LONG-TERM DISABILITY
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2020: NML AGENTS GROUP LONG-TERM DISABILITY
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 7359
+    2019: NML AGENTS GROUP LONG-TERM DISABILITY
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 6524
+    2018: NML AGENTS GROUP LONG-TERM DISABILITY
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 6586
+    2017: NML AGENTS GROUP LONG-TERM DISABILITY
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 6545
    [001]
     2022: THE NORTHWESTERN MUTUAL LIFE INSURANCE COMPANY AGENTS PERSISTENCY FEE GUARANTEE FUND
         Benefit Category: Other
@@ -550,78 +600,13 @@ WI : MILWAUKEE
                  : VFTC TARGET RETIREMENT 2060 TRST II
                  : VFTC TARGET RETIREMENT 2065 TRST II
                  : VFTC TARGET RETMNT. INCOME TRUST II
-   [503]
-    2022: NML GROUP TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L4Q
-        Participants: 
-    2021: NML GROUP TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L4Q
-        Participants: 
-    2020: NML GROUP TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L4Q
-        Participants: 7363
-    2019: NML GROUP TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L4Q
-        Participants: 5944
-    2018: NML GROUP TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L4Q
-        Participants: 5887
-    2017: NML GROUP TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4L4Q
-        Participants: 5576
    [504]
-    2022: THE NORTHWESTERN MUTUAL EMPLOYEE DISABILITY INCOME PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-        Assets: 24579442
-        $/Participant: 
-        Service Providers:
-           - NM INVESTMENT MGMT CO : SUB OF SPONSOR (Investment management | Investment management fees paid indirectly by plan)
-    2021: THE NORTHWESTERN MUTUAL EMPLOYEE DISABILITY INCOME PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-        Assets: 31011848
-        $/Participant: 
-        Service Providers:
-           - NM INVESTMENT MGMT CO : SUB OF SPONSOR (Investment management | Investment management fees paid indirectly by plan)
-    2020: NML EMPLOYEE DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 6645
-        Assets: 28083979
-        $/Participant: 4226
-        Service Providers:
-           - NM INVESTMENT MGMT CO : SUB OF SPONSOR (Investment management | Investment management fees paid indirectly by plan)
     2019: NML EMPLOYEE DISABILITY PLAN
         Benefit Category: Other
         Codes:  4Q
         Participants: 6019
         Assets: 24228362
         $/Participant: 4025
-        Service Providers:
-           - NM INVESTMENT MGMT CO : SUB OF SPONSOR; INV MGR (Investment management | Investment management fees paid indirectly by plan)
-    2018: NML EMPLOYEE DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 5976
-        Assets: 20284014
-        $/Participant: 3394
-        Service Providers:
-           - NM INVESTMENT MGMT CO : SUB OF SPONSOR; INV MGR (Investment management fees paid indirectly by plan | Investment management)
-    2017: NML EMPLOYEE DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 5644
-        Assets: 21115697
-        $/Participant: 3741
         Service Providers:
            - NM INVESTMENT MGMT CO : SUB OF SPONSOR; INV MGR (Investment management | Investment management fees paid indirectly by plan)
    [516]
@@ -653,31 +638,6 @@ WI : MILWAUKEE
         Assets: 84319447
         $/Participant: 43374
         RecordKeeper: UNITED HEALTHCARE SVCS, INC.
-   [525]
-    2022: NML AGENTS GROUP LONG-TERM DISABILITY
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2021: NML AGENTS GROUP LONG-TERM DISABILITY
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2020: NML AGENTS GROUP LONG-TERM DISABILITY
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 7359
-    2019: NML AGENTS GROUP LONG-TERM DISABILITY
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 6524
-    2018: NML AGENTS GROUP LONG-TERM DISABILITY
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 6586
-    2017: NML AGENTS GROUP LONG-TERM DISABILITY
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 6545
    [002]
     2022: THE NORTHWESTERN MUTUAL LIFE INSURANCE COMPANY AGENTS RETIREMENT PLAN
         Benefit Category: Pension
@@ -779,3 +739,45 @@ WI : MILWAUKEE
         Service Providers:
            - BELLWETHER CONSULTING LLC :  (Consulting fees | Investment advisory(plan))
            - NM INVESTMENT MGMT CO : SUB OF SPONSOR; INV MGR (Investment management | Investment management fees paid indirectly by plan)
+   [504]
+    2018: NML EMPLOYEE DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 5976
+        Assets: 20284014
+        $/Participant: 3394
+        Service Providers:
+           - NM INVESTMENT MGMT CO : SUB OF SPONSOR; INV MGR (Investment management fees paid indirectly by plan | Investment management)
+    2017: NML EMPLOYEE DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 5644
+        Assets: 21115697
+        $/Participant: 3741
+        Service Providers:
+           - NM INVESTMENT MGMT CO : SUB OF SPONSOR; INV MGR (Investment management | Investment management fees paid indirectly by plan)
+   [503]
+    2022: NML GROUP TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L4Q
+        Participants: 
+    2021: NML GROUP TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L4Q
+        Participants: 
+    2020: NML GROUP TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L4Q
+        Participants: 7363
+    2019: NML GROUP TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L4Q
+        Participants: 5944
+    2018: NML GROUP TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L4Q
+        Participants: 5887
+    2017: NML GROUP TRAVEL ACCIDENT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L4Q
+        Participants: 5576

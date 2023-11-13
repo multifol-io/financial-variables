@@ -26,9 +26,18 @@ IL : HOFFMAN ESTATES
         Assets: 42119149
         $/Participant: 231423
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+   [509]
+    2018: BENSON BOTSFORD, LLC DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2017: BENSON BOTSFORD, LLC DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 89
    [503]
     2018: BENSON BOTSFORD, LLC MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2017: BENSON BOTSFORD, LLC MEDICAL PLAN
@@ -37,34 +46,16 @@ IL : HOFFMAN ESTATES
         Participants: 82
    [505]
     2018: BENSON BOTSFORD, LLC BASIC LIFE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4Q
         Participants: 
     2017: BENSON BOTSFORD, LLC BASIC LIFE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 107
-   [501]
-    2018: BENSON BOTSFORD, LLC SHORT-TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2017: BENSON BOTSFORD, LLC SHORT-TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 107
-   [504]
-    2018: BENSON BOTSFORD, LLC HEALTH PLAN (VISION)
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2017: BENSON BOTSFORD, LLC HEALTH PLAN (VISION)
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 89
    [507]
     2018: BENSON BOTSFORD, LLC LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
    [508]
@@ -76,15 +67,6 @@ IL : HOFFMAN ESTATES
         Benefit Category: Other
         Codes:  4Q
         Participants: 105
-   [509]
-    2018: BENSON BOTSFORD, LLC DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2017: BENSON BOTSFORD, LLC DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 89
    [502]
     2018: BENSON BOTSFORD, LLC SEVERANCE PLAN
         Benefit Category: Severance
@@ -94,3 +76,21 @@ IL : HOFFMAN ESTATES
         Benefit Category: Severance
         Codes:  4I
         Participants: 107
+   [501]
+    2018: BENSON BOTSFORD, LLC SHORT-TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2017: BENSON BOTSFORD, LLC SHORT-TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 107
+   [504]
+    2018: BENSON BOTSFORD, LLC HEALTH PLAN (VISION)
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2017: BENSON BOTSFORD, LLC HEALTH PLAN (VISION)
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 89

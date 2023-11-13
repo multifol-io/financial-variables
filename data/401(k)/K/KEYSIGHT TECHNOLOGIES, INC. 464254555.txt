@@ -223,27 +223,27 @@ CA : SANTA ROSA
         Participants: 
    [510]
     2022: KEYSIGHT TECHNOLOGIES, INC. HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2021: KEYSIGHT TECHNOLOGIES, INC. HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2020: KEYSIGHT TECHNOLOGIES, INC. HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2019: KEYSIGHT TECHNOLOGIES, INC. HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2018: KEYSIGHT TECHNOLOGIES, INC. HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2017: KEYSIGHT TECHNOLOGIES, INC. HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
    [512]
@@ -278,30 +278,30 @@ CA : SANTA ROSA
         Assets: 389787
         $/Participant: 
     2017: KEYSIGHT TECHNOLOGIES, INC. HEALTH PLAN FOR RETIREES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Assets: 410709
         $/Participant: 
    [550]
     2022: KEYSIGHT TECHNOLOGIES, INC. RETIREE MEDICAL ACCOUNT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2021: KEYSIGHT TECHNOLOGIES, INC. RETIREE MEDICAL ACCOUNT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2020: KEYSIGHT TECHNOLOGIES, INC. RETIREE MEDICAL ACCOUNT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2019: KEYSIGHT TECHNOLOGIES, INC. RETIREE MEDICAL ACCOUNT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2018: KEYSIGHT TECHNOLOGIES, INC. RETIREE MEDICAL ACCOUNT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2017: KEYSIGHT TECHNOLOGIES, INC. RETIREE MEDICAL ACCOUNT PLAN
@@ -310,49 +310,70 @@ CA : SANTA ROSA
         Participants: 
    [515]
     2021: KEYSIGHT TECHNOLOGIES, INC. SURVIVOR PROTECTION PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4Q
         Participants: 
     2020: KEYSIGHT TECHNOLOGIES, INC. SURVIVOR PROTECTION PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4Q
         Participants: 
     2019: KEYSIGHT TECHNOLOGIES, INC. SURVIVOR PROTECTION PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4Q
         Participants: 
     2018: KEYSIGHT TECHNOLOGIES, INC. SURVIVOR PROTECTION PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4Q
         Participants: 
     2017: KEYSIGHT TECHNOLOGIES, INC. SURVIVOR PROTECTION PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L4Q
         Participants: 
    [580]
     2022: KEYSIGHT TECHNOLOGIES, INC. GROUP UNIVERSAL LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2021: KEYSIGHT TECHNOLOGIES, INC. GROUP UNIVERSAL LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2020: KEYSIGHT TECHNOLOGIES, INC. GROUP UNIVERSAL LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2019: KEYSIGHT TECHNOLOGIES, INC. GROUP UNIVERSAL LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2018: KEYSIGHT TECHNOLOGIES, INC. GROUP UNIVERSAL LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: KEYSIGHT TECHNOLOGIES, INC. GROUP UNIVERSAL LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
+        Participants: 
+   [503]
+    2021: KEYSIGHT TECHNOLOGIES, INC. BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Long-term disability, Travel accident
+        Codes:  4H4L4Q
+        Participants: 
+    2020: KEYSIGHT TECHNOLOGIES, INC. BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Long-term disability, Travel accident
+        Codes:  4H4L4Q
+        Participants: 
+    2019: KEYSIGHT TECHNOLOGIES, INC. BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Long-term disability, Travel accident
+        Codes:  4H4L4Q
+        Participants: 
+    2018: KEYSIGHT TECHNOLOGIES, INC. BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H4Q
+        Participants: 
+    2017: KEYSIGHT TECHNOLOGIES, INC. BUSINESS TRAVEL ACCIDENT PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H4Q
         Participants: 
    [001]
     2021: KEYSIGHT TECHNOLOGIES, INC. DEFERRED PROFIT-SHARING PLAN
@@ -415,44 +436,6 @@ CA : SANTA ROSA
                  : KEYSIGHT TECHNOLOGIES MT EQTY POOL
                  : KEYSIGHT TECHNOLOGIES MT FXD INC PL
                  : KEYSIGHT TECHNOLOGIES MT TIP POOL
-   [503]
-    2021: KEYSIGHT TECHNOLOGIES, INC. BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4H4L4Q
-        Participants: 
-    2020: KEYSIGHT TECHNOLOGIES, INC. BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4H4L4Q
-        Participants: 
-    2019: KEYSIGHT TECHNOLOGIES, INC. BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4H4L4Q
-        Participants: 
-    2018: KEYSIGHT TECHNOLOGIES, INC. BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4H4Q
-        Participants: 
-    2017: KEYSIGHT TECHNOLOGIES, INC. BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4H4Q
-        Participants: 
-   [509]
-    2021: KEYSIGHT TECHNOLOGIES, INC. DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2020: KEYSIGHT TECHNOLOGIES, INC. DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2018: KEYSIGHT TECHNOLOGIES, INC. DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2017: KEYSIGHT TECHNOLOGIES, INC. DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
    [523]
     2021: KEYSIGHT TECHNOLOGIES, INC. EMPLOYEE & FAMILY ASSISTANCE PLAN
         Benefit Category: Other
@@ -651,4 +634,21 @@ CA : SANTA ROSA
     2017: KEYSIGHT TECHNOLOGIES, INC. PRE-RETIREMENT NOTIFICATION PROGRAM
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [509]
+    2021: KEYSIGHT TECHNOLOGIES, INC. DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2020: KEYSIGHT TECHNOLOGIES, INC. DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2018: KEYSIGHT TECHNOLOGIES, INC. DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2017: KEYSIGHT TECHNOLOGIES, INC. DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
         Participants: 

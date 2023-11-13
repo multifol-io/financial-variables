@@ -126,29 +126,54 @@ MA : CAMBRIDGE
         Available Investments:
            - TIAA-CREF
                  : TIAA REAL ESTATE
+   [518]
+    2022: HARVARD UNIVERSITY RETIREES ASSOCIATION DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2021: HARVARD UNIVERSITY RETIREES ASSOCIATION DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2020: HARVARD UNIVERSITY RETIREES ASSOCIATION DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2019: HARVARD UNIVERSITY RETIREES ASSOCIATION DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2018: HARVARD UNIVERSITY RETIREES ASSOCIATION DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2017: HARVARD UNIVERSITY RETIREES ASSOCIATION DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [501]
     2022: HARVARD UNIVERSITY FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
         Codes:  4A4B4D4H
         Participants: 
     2021: HARVARD UNIVERSITY FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
         Codes:  4A4B4D4H
         Participants: 
     2020: HARVARD UNIVERSITY FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
         Codes:  4A4B4D4H
         Participants: 
     2019: HARVARD UNIVERSITY FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
         Codes:  4A4B4D4H
         Participants: 
     2018: HARVARD UNIVERSITY FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
         Codes:  4A4B4D4H
         Participants: 
     2017: HARVARD UNIVERSITY FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
         Codes:  4A4B4D4H
         Participants: 
    [506]
@@ -175,6 +200,31 @@ MA : CAMBRIDGE
     2017: HARVARD UNIVERSITY MEDICAL REIMBURSEMENT PLAN
         Benefit Category: Healthcare
         Codes:  4A
+        Participants: 
+   [520]
+    2022: HARVARD UNIVERSITY INDIVIDUAL SUPPLEMENTAL DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2021: HARVARD UNIVERSITY INDIVIDUAL SUPPLEMENTAL DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2020: HARVARD UNIVERSITY INDIVIDUAL SUPPLEMENTAL DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2019: HARVARD UNIVERSITY INDIVIDUAL SUPPLEMENTAL DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2018: HARVARD UNIVERSITY INDIVIDUAL SUPPLEMENTAL DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2017: HARVARD UNIVERSITY INDIVIDUAL SUPPLEMENTAL DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
    [007]
     2022: HARVARD UNIVERSITY DEFINED CONTRIBUTION RETIREMENT PLAN
@@ -263,81 +313,6 @@ MA : CAMBRIDGE
     2017: HARVARD UNIVERSITY WORK-RELATED HIV BENEFITS PLAN
         Benefit Category: Other
         Codes:  4Q
-        Participants: 
-   [504]
-    2022: HARVARD UNIVERSITY BUSINESS TRAVEL PLAN
-        Benefit Category: Other
-        Codes:  4F4L
-        Participants: 
-    2021: HARVARD UNIVERSITY BUSINESS TRAVEL PLAN
-        Benefit Category: Other
-        Codes:  4F4L
-        Participants: 
-    2020: HARVARD UNIVERSITY BUSINESS TRAVEL PLAN
-        Benefit Category: Other
-        Codes:  4F4L
-        Participants: 
-    2019: HARVARD UNIVERSITY BUSINESS TRAVEL PLAN
-        Benefit Category: Other
-        Codes:  4F4L
-        Participants: 
-    2018: HARVARD UNIVERSITY BUSINESS TRAVEL PLAN
-        Benefit Category: Other
-        Codes:  4F4L
-        Participants: 
-    2017: HARVARD UNIVERSITY BUSINESS TRAVEL PLAN
-        Benefit Category: Other
-        Codes:  4F4L
-        Participants: 
-   [518]
-    2022: HARVARD UNIVERSITY RETIREES ASSOCIATION DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2021: HARVARD UNIVERSITY RETIREES ASSOCIATION DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2020: HARVARD UNIVERSITY RETIREES ASSOCIATION DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2019: HARVARD UNIVERSITY RETIREES ASSOCIATION DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2018: HARVARD UNIVERSITY RETIREES ASSOCIATION DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2017: HARVARD UNIVERSITY RETIREES ASSOCIATION DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-   [520]
-    2022: HARVARD UNIVERSITY INDIVIDUAL SUPPLEMENTAL DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2021: HARVARD UNIVERSITY INDIVIDUAL SUPPLEMENTAL DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2020: HARVARD UNIVERSITY INDIVIDUAL SUPPLEMENTAL DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2019: HARVARD UNIVERSITY INDIVIDUAL SUPPLEMENTAL DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2018: HARVARD UNIVERSITY INDIVIDUAL SUPPLEMENTAL DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2017: HARVARD UNIVERSITY INDIVIDUAL SUPPLEMENTAL DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
         Participants: 
    [003]
     2022: HARVARD UNIVERSITY RETIREMENT PLAN
@@ -456,4 +431,29 @@ MA : CAMBRIDGE
     2017: HARVARD UNIVERSITY SEVERENCE PLAN
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [504]
+    2022: HARVARD UNIVERSITY BUSINESS TRAVEL PLAN
+        Benefit Category: Short-term disability, Travel accident
+        Codes:  4F4L
+        Participants: 
+    2021: HARVARD UNIVERSITY BUSINESS TRAVEL PLAN
+        Benefit Category: Short-term disability, Travel accident
+        Codes:  4F4L
+        Participants: 
+    2020: HARVARD UNIVERSITY BUSINESS TRAVEL PLAN
+        Benefit Category: Short-term disability, Travel accident
+        Codes:  4F4L
+        Participants: 
+    2019: HARVARD UNIVERSITY BUSINESS TRAVEL PLAN
+        Benefit Category: Short-term disability, Travel accident
+        Codes:  4F4L
+        Participants: 
+    2018: HARVARD UNIVERSITY BUSINESS TRAVEL PLAN
+        Benefit Category: Short-term disability, Travel accident
+        Codes:  4F4L
+        Participants: 
+    2017: HARVARD UNIVERSITY BUSINESS TRAVEL PLAN
+        Benefit Category: Short-term disability, Travel accident
+        Codes:  4F4L
         Participants: 

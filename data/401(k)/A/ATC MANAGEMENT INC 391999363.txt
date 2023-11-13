@@ -60,9 +60,18 @@ WI : WAUKESHA
         Service Providers:
            - AON HEWITT : N/A (Consulting(general) | Direct payment from the plan)
            - STRATEGIC ADVISORS INC : N/A (Investment advisory(plan) | Direct payment from the plan)
+   [507]
+    2018: ATC MANAGEMENT INC DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2017: ATC MANAGEMENT INC DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [501]
     2022: ATC MANAGEMENT INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
         Assets: 11996015
@@ -73,7 +82,7 @@ WI : WAUKESHA
            - USBANK : TRUSTEE (Trustee(bank, trust company, or similar))
            - BAKER TILLY : AUDITOR (Accounting(including auditing))
     2021: ATC MANAGEMENT INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Assets: 19950831
@@ -82,7 +91,7 @@ WI : WAUKESHA
            - UMR : CLAIMS PROCESSING (Claims processing)
            - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATO (Contract Administrator)
     2020: ATC MANAGEMENT INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Assets: 25135262
@@ -93,7 +102,7 @@ WI : WAUKESHA
            - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATO (Contract Administrator)
            - MATRIX ABSENCE MANAGEMENT, INC : CLAIMS PROCESSING (Claims processing)
     2019: ATC MANAGEMENT INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Assets: 22892104
@@ -104,7 +113,7 @@ WI : WAUKESHA
            - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATO (Contract Administrator)
            - MATRIX ABSENCE MANAGEMENT, INC : CLAIMS PROCESSING (Claims processing)
     2018: ATC MANAGEMENT INC. HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Assets: 20510786
@@ -114,7 +123,7 @@ WI : WAUKESHA
            - UMR : CLAIMS  PROCESSING (Claims processing)
            - U.S.BANK NATIONAL ASSOCIATION : N/A (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue | Investment management fees paid indirectly by plan)
     2017: ATC MANAGEMENT INC. HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Assets: 23168148
@@ -125,11 +134,11 @@ WI : WAUKESHA
            - U.S.BANK NATIONAL ASSOCIATION : N/A (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue | Investment management fees paid indirectly by plan)
    [503]
     2018: GROUP LONG TERM DISABILITY, LIFE AND SUPPLEMENTAL LIFE PLAN FOR EMPLOYEES OF ATC MANAGEMENT INC
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4F4H
         Participants: 
     2017: GROUP LONG TERM DISABILITY, LIFE AND SUPPLEMENTAL LIFE PLAN FOR EMPLOYEES OF ATC MANAGEMENT INC
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4F4H
         Participants: 
    [002]
@@ -195,33 +204,6 @@ WI : WAUKESHA
         Benefit Category: Other
         Codes:  4Q
         Participants: 
-   [507]
-    2018: ATC MANAGEMENT INC DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2017: ATC MANAGEMENT INC DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-   [508]
-    2018: ATC MANAGEMENT INC TRAVEL ACCIDENT POLICY
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: ATC MANAGEMENT INC TRAVEL ACCIDENT POLICY
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-   [510]
-    2018: GROUP SHORT TERM DISABILITY PLAN FOR EMPLOYEES OF ATC MANAGEMENT INC
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2017: GROUP SHORT TERM DISABILITY PLAN FOR EMPLOYEES OF ATC MANAGEMENT INC
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
    [505]
     2021: ATC SEVERENCE PLAN
         Benefit Category: Severance
@@ -242,4 +224,22 @@ WI : WAUKESHA
     2017: ATC SEVERANCE PLAN
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [510]
+    2018: GROUP SHORT TERM DISABILITY PLAN FOR EMPLOYEES OF ATC MANAGEMENT INC
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2017: GROUP SHORT TERM DISABILITY PLAN FOR EMPLOYEES OF ATC MANAGEMENT INC
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+   [508]
+    2018: ATC MANAGEMENT INC TRAVEL ACCIDENT POLICY
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: ATC MANAGEMENT INC TRAVEL ACCIDENT POLICY
+        Benefit Category: Travel accident
+        Codes:  4L
         Participants: 

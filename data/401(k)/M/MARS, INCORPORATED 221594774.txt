@@ -243,14 +243,14 @@ NJ : MOUNT OLIVE
 NJ : HACKETTSTOWN
    [501]
     2022: MARS, INCORPORATED RETIREE HEALTH CARE AND LIFE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 22814073
         $/Participant: 
         RecordKeeper: UNITED STATES POWER FUND III
     2021: MARS, INCORPORATED RETIREE HEALTH CARE AND LIFE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 57633749
@@ -258,21 +258,21 @@ NJ : HACKETTSTOWN
         RecordKeeper: GMO TAX-MGD INTL EQUITIES FUND III
 NJ : MT. OLIVE
     2020: MARS, INCORPORATED RETIREE HEALTH CARE AND LIFE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 51070947
         $/Participant: 
         RecordKeeper: USPF II INSTITUTIONAL FUND
     2019: MARS, INCORPORATED RETIREE HEALTH CARE AND LIFE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 62947996
         $/Participant: 
         RecordKeeper: UNITED STATES POWER FUND III L. P.
     2018: MARS, INCORPORATED RETIREE HEALTH CARE AND LIFE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 86239318
@@ -288,83 +288,110 @@ NJ : MT. OLIVE
 NJ : HACKETTSTOWN
    [507]
     2022: MARS, INCORPORATED HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2021: MARS, INCORPORATED HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
 NJ : MOUNT OLIVE
     2020: MARS, INCORPORATED HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2019: MARS, INCORPORATED HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2018: MARS, INCORPORATED HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2017: MARS, INCORPORATED HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
 NJ : HACKETTSTOWN
    [998]
     2022: MARS, INCORPORATED FLEXIBLE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2021: MARS, INCORPORATED FLEXIBLE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
 NJ : MOUNT OLIVE
     2020: MARS, INCORPORATED FLEXIBLE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2019: MARS, INCORPORATED FLEXIBLE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2018: MARS, INCORPORATED FLEXIBLE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2017: MARS, INCORPORATED FLEXIBLE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
 NJ : HACKETTSTOWN
    [504]
     2022: MARS, INCORPORATED LIFE BENEFITS PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2021: MARS, INCORPORATED LIFE BENEFITS PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
 NJ : MOUNT OLIVE
     2020: MARS, INCORPORATED LIFE BENEFITS PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2019: MARS, INCORPORATED LIFE BENEFITS PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2018: MARS, INCORPORATED LIFE BENEFITS PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: MARS, INCORPORATED LIFE BENEFITS PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
+        Participants: 
+NJ : HACKETTSTOWN
+   [502]
+    2022: MARS, INCORPORATED LONG TERM DISABILITY SECURITY BENEFITS PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2021: MARS, INCORPORATED LONG TERM DISABILITY SECURITY BENEFITS PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+NJ : MOUNT OLIVE
+    2020: MARS, INCORPORATED LONG TERM DISABILITY SECURITY BENEFITS PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2019: MARS, INCORPORATED LONG TERM DISABILITY SECURITY BENEFITS PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2018: MARS, INCORPORATED LONG TERM DISABILITY SECURITY BENEFITS PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2017: MARS, INCORPORATED LONG TERM DISABILITY SECURITY BENEFITS PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
 NJ : HACKETTSTOWN
    [005]
@@ -516,87 +543,6 @@ NJ : MOUNT OLIVE
                  : VFTC TARGET RETIREMENT 2060 TRST PL
                  : VFTC TARGET RETIREMENT 2065 TRST PL
                  : VFTC TARGET RETIREMENT INCO TRST PL
-NJ : HACKETTSTOWN
-   [502]
-    2022: MARS, INCORPORATED LONG TERM DISABILITY SECURITY BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2021: MARS, INCORPORATED LONG TERM DISABILITY SECURITY BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-NJ : MOUNT OLIVE
-    2020: MARS, INCORPORATED LONG TERM DISABILITY SECURITY BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2019: MARS, INCORPORATED LONG TERM DISABILITY SECURITY BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2018: MARS, INCORPORATED LONG TERM DISABILITY SECURITY BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2017: MARS, INCORPORATED LONG TERM DISABILITY SECURITY BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-NJ : HACKETTSTOWN
-   [503]
-    2022: U.S. DEATH BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2021: U.S. DEATH BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-NJ : MOUNT OLIVE
-    2020: U.S. DEATH BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: U.S. DEATH BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: U.S. DEATH BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: U.S. DEATH BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-NJ : HACKETTSTOWN
-   [508]
-    2022: MARS RETAIL SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2021: MARS RETAIL SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-NJ : MOUNT OLIVE
-    2020: MARS RETAIL SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2019: MARS RETAIL SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2018: MARS RETAIL SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2017: MARS RETAIL SHORT TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
 NJ : HACKETTSTOWN
    [001]
     2022: U. S. RETIREMENT PLAN
@@ -826,3 +772,57 @@ NJ : MOUNT OLIVE
            - THE NORTHERN TRUST COMPANY
                  : COLLECTIVE SHORT TERM INVESTMENT FD
                  : NF THIRD PARTY DOUBLELINE STRATEGIC
+NJ : HACKETTSTOWN
+   [508]
+    2022: MARS RETAIL SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2021: MARS RETAIL SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+NJ : MOUNT OLIVE
+    2020: MARS RETAIL SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2019: MARS RETAIL SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2018: MARS RETAIL SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2017: MARS RETAIL SHORT TERM DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+NJ : HACKETTSTOWN
+   [503]
+    2022: U.S. DEATH BENEFIT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2021: U.S. DEATH BENEFIT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+NJ : MOUNT OLIVE
+    2020: U.S. DEATH BENEFIT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: U.S. DEATH BENEFIT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: U.S. DEATH BENEFIT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: U.S. DEATH BENEFIT PLAN
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 

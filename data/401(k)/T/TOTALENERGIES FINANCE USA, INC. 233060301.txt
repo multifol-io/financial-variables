@@ -120,27 +120,27 @@ TX : HOUSTON
                  : MIP II CL 1
    [501]
     2022: TOTALENERGIES AFFILIATES HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2021: TOTAL AFFILIATES HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2020: TOTAL AFFILIATES HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2019: TOTAL AFFILIATES HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2018: TOTAL AFFILIATES HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2017: TOTAL AFFILIATES HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
    [502]
@@ -168,26 +168,13 @@ TX : HOUSTON
         Benefit Category: Healthcare
         Codes:  4A
         Participants: 
-   [512]
-    2022: OCCUPATIONAL ACCIDENTAL DEATH
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2021: OCCUPATIONAL ACCIDENTAL DEATH
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: OCCUPATIONAL ACCIDENTAL DEATH
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
    [527]
     2020: WYOMING HOLDINGS LONG TERM DISABILITY INCOME PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2019: WYOMING HOLDINGS LONG TERM DISABILITY INCOME PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
    [002]
@@ -431,3 +418,16 @@ TX : HOUSTON
                  : TOTAL FINANCE USA BGI US EQUITY MKT
            - THE BANK OF MELLON
                  : EB TEMPORARY INVESTMENT FUND
+   [512]
+    2022: OCCUPATIONAL ACCIDENTAL DEATH
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2021: OCCUPATIONAL ACCIDENTAL DEATH
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: OCCUPATIONAL ACCIDENTAL DEATH
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 

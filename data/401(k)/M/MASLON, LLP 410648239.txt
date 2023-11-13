@@ -59,34 +59,39 @@ MN : MINNEAPOLIS
                  : MEBB QUALIFIED PLAN MASTER TRUST
    [501]
     2017: MASLON LLP MEDICAL & DENTAL PLANS
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
    [504]
     2022: MASLON LLP WRAP PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2021: MASLON LLP WRAP PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2020: MASLON LLP WRAP PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2019: MASLON LLP WRAP PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2018: MASLON LLP WRAP PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
         Codes:  4A4B4D4E4F4H
         Participants: 
    [502]
     2017: MASLON LLP LIFE & ADD PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
+        Participants: 
+   [503]
+    2017: MASLON LLP LTD PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
         Participants: 
    [008]
     2020: MASLON MASTER TRUST
@@ -107,8 +112,3 @@ MN : MINNEAPOLIS
         Available Investments:
            - MASLON EDELMAN BORMAN & BRAND LLP
                  : MEBB QUALIFIED PLAN MASTER TRUST
-   [503]
-    2017: MASLON LLP LTD PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 

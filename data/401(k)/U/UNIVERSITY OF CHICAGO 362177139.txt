@@ -187,7 +187,7 @@ IL : CHICAGO
                  : TIAA REAL ESTATE
    [510]
     2022: THE UNIVERSITY OF CHICAGO HEALTH CARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 102221666
@@ -195,7 +195,7 @@ IL : CHICAGO
         Service Providers:
            - THE NORTHERN TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan | Float revenue | Other fees)
     2021: THE UNIVERSITY OF CHICAGO HEALTH CARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 119003728
@@ -204,7 +204,7 @@ IL : CHICAGO
            - BLACKROCK CORP : INVESTMENT MANAGER (Investment management | Direct payment from the plan)
            - THE NORTHERN TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan | Float revenue | Other fees)
     2020: THE UNIVERSITY OF CHICAGO HEALTH CARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 106262949
@@ -216,7 +216,7 @@ IL : CHICAGO
            - VANGUARD
                  : VANGUARD
     2019: THE UNIVERSITY OF CHICAGO HEALTH CARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision
         Codes:  4A4B4D4E
         Participants: 
         Assets: 90895418
@@ -226,7 +226,7 @@ IL : CHICAGO
            - THOMSON REUTERS : CONSULTING (Consulting(general) | Direct payment from the plan)
            - THE NORTHERN TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan | Float revenue | Other fees)
     2018: THE UNIVERSITY OF CHICAGO HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Assets: 74865289
@@ -238,7 +238,7 @@ IL : CHICAGO
            - WASHINGTON PITTMAN : AUDITOR (Accounting(including auditing) | Direct payment from the plan)
            - THE NORTHERN TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan | Float revenue | Other fees)
     2017: THE UNIVERSITY OF CHICAGO HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Assets: 62917180
@@ -252,103 +252,53 @@ IL : CHICAGO
            - THOMSON REUTERS : CONSULTING (Consulting(general) | Direct payment from the plan)
    [508]
     2022: THE UNIVERSITY OF CHICAGO GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2021: THE UNIVERSITY OF CHICAGO GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2020: THE UNIVERSITY OF CHICAGO GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2019: THE UNIVERSITY OF CHICAGO GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2018: THE UNIVERSITY OF CHICAGO GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2017: THE UNIVERSITY OF CHICAGO GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
    [509]
     2022: THE UNIVERSITY OF CHICAGO LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2021: THE UNIVERSITY OF CHICAGO LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2020: THE UNIVERSITY OF CHICAGO LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2019: THE UNIVERSITY OF CHICAGO LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2018: THE UNIVERSITY OF CHICAGO LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2017: THE UNIVERSITY OF CHICAGO LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
-        Participants: 
-   [512]
-    2022: THE UNIVERSITY OF CHICAGO PERSONAL ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2021: THE UNIVERSITY OF CHICAGO PERSONAL ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: THE UNIVERSITY OF CHICAGO PERSONAL ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: THE UNIVERSITY OF CHICAGO PERSONAL ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: THE UNIVERSITY OF CHICAGO PERSONAL ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: THE UNIVERSITY OF CHICAGO PERSONAL ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-   [515]
-    2022: THE UNIVERSITY OF CHICAGO TRAVEL ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2021: THE UNIVERSITY OF CHICAGO TRAVEL ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2020: THE UNIVERSITY OF CHICAGO TRAVEL ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2019: THE UNIVERSITY OF CHICAGO TRAVEL ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2018: THE UNIVERSITY OF CHICAGO TRAVEL ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: THE UNIVERSITY OF CHICAGO TRAVEL ACCIDENT INSURANCE
-        Benefit Category: Other
-        Codes:  4L
         Participants: 
    [516]
     2022: THE UNIVERSITY OF CHICAGO FLEXIBLE SPENDING PLAN
@@ -434,3 +384,53 @@ IL : CHICAGO
         $/Participant: 23619
         Service Providers:
            - TIAA : RECORDKEEPING (Claims processing | Participant communication)
+   [512]
+    2022: THE UNIVERSITY OF CHICAGO PERSONAL ACCIDENT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2021: THE UNIVERSITY OF CHICAGO PERSONAL ACCIDENT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: THE UNIVERSITY OF CHICAGO PERSONAL ACCIDENT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: THE UNIVERSITY OF CHICAGO PERSONAL ACCIDENT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: THE UNIVERSITY OF CHICAGO PERSONAL ACCIDENT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: THE UNIVERSITY OF CHICAGO PERSONAL ACCIDENT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+   [515]
+    2022: THE UNIVERSITY OF CHICAGO TRAVEL ACCIDENT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2021: THE UNIVERSITY OF CHICAGO TRAVEL ACCIDENT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2020: THE UNIVERSITY OF CHICAGO TRAVEL ACCIDENT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2019: THE UNIVERSITY OF CHICAGO TRAVEL ACCIDENT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2018: THE UNIVERSITY OF CHICAGO TRAVEL ACCIDENT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: THE UNIVERSITY OF CHICAGO TRAVEL ACCIDENT INSURANCE
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 

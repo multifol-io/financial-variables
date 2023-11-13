@@ -222,9 +222,59 @@ IL : CHICAGO
                  : VANGUARD TARGET RET. 2060 TRUST II
                  : VANGUARD TARGET RET. 2065 TRUST II
                  : VANGUARD TARGET RET. INC. TRUST II
+   [563]
+    2022: BGE RETIREE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2021: CONSTELLATION ENERGY GROUP, INC. RETIREE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2020: CONSTELLATION ENERGY GROUP, INC. RETIREE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2019: CONSTELLATION ENERGY GROUP, INC. RETIREE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2018: CONSTELLATION ENERGY GROUP, INC. RETIREE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2017: CONSTELLATION ENERGY GROUP, INC. RETIREE DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+   [580]
+    2022: EXELON RETIREE DENTAL PLAN OF CONSTELLATION ENERGY NUCLEAR GROUP LLC
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2021: RETIREE DENTAL PLAN OF CONSTELLATION ENERGY NUCLEAR GROUP, LLC
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2020: RETIREE DENTAL PLAN OF CONSTELLATION ENERGY NUCLEAR GROUP, LLC
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2019: RETIREE DENTAL PLAN OF CONSTELLATION ENERGY NUCLEAR GROUP, LLC
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2018: RETIREE DENTAL PLAN OF CONSTELLATION ENERGY NUCLEAR GROUP, LLC
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2017: RETIREE DENTAL PLAN OF CONSTELLATION ENERGY NUCLEAR GROUP, LLC
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [504]
     2022: EXELON CORPORATION HEALTH CARE PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4U
         Participants: 
         Assets: 878819301
@@ -248,7 +298,7 @@ IL : CHICAGO
            - SECURITY CAPITAL
                  : SECURITY CAP PFD GROWTH LLC SER
     2021: EXELON CORPORATION HEALTH CARE PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4U
         Participants: 
         Assets: 1758816014
@@ -272,7 +322,7 @@ IL : CHICAGO
            - SECURITY CAPITAL
                  : SECURITY CAP PFD GROWTH LLC SER
     2020: EXELON CORPORATION HEALTH CARE PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4U
         Participants: 
         Assets: 1689280456
@@ -294,7 +344,7 @@ IL : CHICAGO
            - SECURITY CAPITAL
                  : SECURITY CAP PFD GROWTH LLC SER
     2019: EXELON CORPORATION HEALTH CARE PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4U
         Participants: 
         Assets: 1665387786
@@ -317,7 +367,7 @@ IL : CHICAGO
            - SECURITY CAPITAL
                  : SECURITY CAP PFD GROWTH LLC SER
     2018: EXELON CORPORATION HEALTH CARE PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4U
         Participants: 
         Assets: 1609100154
@@ -338,7 +388,7 @@ IL : CHICAGO
            - SECURITY CAPITAL
                  : SECURITY CAP PFD GROWTH LLC SER
     2017: EXELON CORPORATION HEALTH CARE PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4U
         Participants: 
         Assets: 1804331064
@@ -362,32 +412,32 @@ IL : CHICAGO
                  : SECURITY CAP PFD GROWTH LLC SER
    [507]
     2022: EXELON CORPORATION FLEXIBLE BENEFITS PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision, Long-term disability
         Codes:  4A4D4E4H4Q4U
         Participants: 
     2021: EXELON CORPORATION FLEXIBLE BENEFITS PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision, Long-term disability
         Codes:  4A4D4E4H4Q4U
         Participants: 
     2020: EXELON CORPORATION FLEXIBLE BENEFITS PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision, Long-term disability
         Codes:  4A4D4E4H4Q4U
         Participants: 
     2019: EXELON CORPORATION FLEXIBLE BENEFITS PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision, Long-term disability
         Codes:  4A4D4E4H4Q4U
         Participants: 
     2018: EXELON CORPORATION FLEXIBLE BENEFITS PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision, Long-term disability
         Codes:  4A4D4E4H4Q4U
         Participants: 
     2017: EXELON CORPORATION FLEXIBLE BENEFITS PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision, Long-term disability
         Codes:  4A4D4E4H4Q4U
         Participants: 
    [516]
     2022: PECO ENERGY COMPANY RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Assets: 184235146
@@ -397,7 +447,7 @@ IL : CHICAGO
            - EXELON CORPORATION
                  : PECO ENERGY CO RETIREE MEDICAL TRST
     2021: PECO ENERGY COMPANY RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Assets: 440326446
@@ -407,7 +457,7 @@ IL : CHICAGO
            - EXELON CORPORATION
                  : PECO ENERGY CO RETIREE MEDICAL TRST
     2020: PECO ENERGY COMPANY RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Assets: 458326444
@@ -417,7 +467,7 @@ IL : CHICAGO
            - EXELON CORPORATION
                  : PECO ENERGY CO RETIREE MEDICAL TRST
     2019: PECO ENERGY COMPANY RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Assets: 467014068
@@ -427,7 +477,7 @@ IL : CHICAGO
            - EXELON CORPORATION
                  : PECO ENERGY CO RETIREE MEDICAL TRST
     2018: PECO ENERGY COMPANY RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Assets: 448517191
@@ -437,7 +487,7 @@ IL : CHICAGO
            - EXELON CORPORATION
                  : PECO ENERGY CO RETIREE MEDICAL TRST
     2017: PECO ENERGY COMPANY RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Assets: 524986444
@@ -448,27 +498,27 @@ IL : CHICAGO
                  : PECO ENERGY CO RETIREE MEDICAL TRST
    [562]
     2022: BGE RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
     2021: CONSTELLATION ENERGY GROUP, INC. RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
     2020: CONSTELLATION ENERGY GROUP, INC. RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
     2019: CONSTELLATION ENERGY GROUP, INC. RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
     2018: CONSTELLATION ENERGY GROUP, INC. RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
     2017: CONSTELLATION ENERGY GROUP, INC. RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
    [566]
@@ -494,32 +544,32 @@ IL : CHICAGO
         Participants: 
    [579]
     2022: EXELON RETIREE MEDICAL PLAN OF CONSTELLATION ENERGY NUCLEAR GROUP LLC
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
     2021: RETIREE MEDICAL PLAN OF CONSTELLATION ENERGY NUCLEAR GROUP, LLC
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
     2020: RETIREE MEDICAL PLAN OF CONSTELLATION ENERGY NUCLEAR GROUP, LLC
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
     2019: RETIREE MEDICAL PLAN OF CONSTELLATION ENERGY NUCLEAR GROUP, LLC
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
     2018: RETIREE MEDICAL PLAN OF CONSTELLATION ENERGY NUCLEAR GROUP, LLC
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
     2017: RETIREE MEDICAL PLAN OF CONSTELLATION ENERGY NUCLEAR GROUP, LLC
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Vision
         Codes:  4A4E
         Participants: 
    [582]
     2022: EXELON CORPORATION HEALTH REIMBURSEMENT ARRANGEMENT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         RecordKeeper: NORTHWEST INVESTMENT CONSULTING INC
@@ -528,7 +578,7 @@ IL : CHICAGO
                  : BENEFIT TRUST FOR MGMT EMPLOYEES
                  : PECO ENERGY CO RETIREE MEDICAL TRST
     2021: EXELON CORPORATION HEALTH REIMBURSEMENT ARRANGEMENT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         RecordKeeper: PLANTE MORAN
@@ -537,7 +587,7 @@ IL : CHICAGO
                  : BENEFIT TRUST FOR MGMT EMPLOYEES
                  : PECO ENERGY CO RETIREE MEDICAL TRST
     2020: EXELON CORPORATION HEALTH REIMBURSEMENT ARRANGEMENT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         RecordKeeper: PLANTE MORAN
@@ -546,7 +596,7 @@ IL : CHICAGO
                  : BENEFIT TRUST FOR MGMT EMPLOYEES
                  : PECO ENERGY CO RETIREE MEDICAL TRST
     2019: EXELON CORPORATION HEALTH REIMBURSEMENT ARRANGEMENT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         RecordKeeper: CREEKSIDE
@@ -555,7 +605,7 @@ IL : CHICAGO
                  : BENEFIT TRUST FOR MGMT EMPLOYEES
                  : PECO ENERGY CO RETIREE MEDICAL TRST
     2018: EXELON CORPORATION HEALTH REIMBURSEMENT ARRANGEMENT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         RecordKeeper: CREEKSIDE
@@ -564,7 +614,7 @@ IL : CHICAGO
                  : BENEFIT TRUST FOR MGMT EMPLOYEES
                  : PECO ENERGY CO RETIREE MEDICAL TRST
     2017: EXELON CORPORATION HEALTH REIMBURSEMENT ARRANGEMENT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         RecordKeeper: CREEKSIDE PRINTING
@@ -574,16 +624,16 @@ IL : CHICAGO
                  : PECO ENERGY CO RETIREE MEDICAL TRST
    [584]
     2018: PEPCO HOLDINGS, INC. WELFARE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4J4U
         Participants: 
     2017: PEPCO HOLDINGS, INC. WELFARE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4J4U
         Participants: 
    [585]
     2022: PEPCO HOLDINGS, INC. WELFARE PLAN FOR RETIREES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Vision
         Codes:  4A4B4E4U
         Participants: 
         Assets: 310801848
@@ -607,7 +657,7 @@ IL : CHICAGO
            - PACIFIC INVESTMENT MANAGEMENT COMPANY LLC
                  : PIMCO STOCKPLUS LP B
     2021: PEPCO HOLDINGS, INC. WELFARE PLAN FOR RETIREES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Vision
         Codes:  4A4B4E4U
         Participants: 
         Assets: 399424323
@@ -631,7 +681,7 @@ IL : CHICAGO
            - PACIFIC INVESTMENT MANAGEMENT COMPANY LLC
                  : PIMCO STOCKPLUS LP B
     2020: PEPCO HOLDINGS, INC. WELFARE PLAN FOR RETIREES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Vision
         Codes:  4A4B4E4U
         Participants: 
         Assets: 380148158
@@ -655,7 +705,7 @@ IL : CHICAGO
            - PACIFIC INVESTMENT MANAGEMENT COMPANY LLC
                  : PIMCO STOCKPLUS LP B
     2019: PEPCO HOLDINGS, INC. WELFARE PLAN FOR RETIREES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Vision
         Codes:  4A4B4E4U
         Participants: 
         Assets: 363689051
@@ -675,7 +725,7 @@ IL : CHICAGO
            - NORTHERN TRUST GLOBAL INVESTMENTS
                  : RUSSELL 2000 EQUITY FUND
     2018: PEPCO HOLDINGS, INC. WELFARE PLAN FOR RETIREES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Vision
         Codes:  4A4B4E4U
         Participants: 
         Assets: 338450530
@@ -691,7 +741,7 @@ IL : CHICAGO
            - NORTHERN TRUST GLOBAL INVESTMENTS
                  : RUSSELL 2000 EQUITY FUND
     2017: PEPCO HOLDINGS, INC. WELFARE PLAN FOR RETIREES
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Vision
         Codes:  4A4B4E4U
         Participants: 
         Assets: 386170285
@@ -718,7 +768,7 @@ IL : CHICAGO
                  : RUSSELL 2000 EQUITY FUND
    [509]
     2022: EXELON CORPORATION EMPLOYEES' LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4U
         Participants: 
         Assets: 58912171
@@ -734,7 +784,7 @@ IL : CHICAGO
            - MACKAY SHIELDS LLC
                  : MACKAY SHIELDS HIGH YIELD ACTIVE CO
     2021: EXELON CORPORATION EMPLOYEES' LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4U
         Participants: 
         Assets: 110474404
@@ -755,7 +805,7 @@ IL : CHICAGO
            - STOCKSPLUS, L.P.
                  : PIMCO STOCKSPLUS B FUND
     2020: EXELON CORPORATION EMPLOYEES' LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4U
         Participants: 
         Assets: 104948170
@@ -777,7 +827,7 @@ IL : CHICAGO
            - STOCKSPLUS, L.P.
                  : PIMCO STOCKSPLUS B FUND
     2019: EXELON CORPORATION EMPLOYEES' LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4U
         Participants: 
         Assets: 97516060
@@ -797,7 +847,7 @@ IL : CHICAGO
            - STOCKSPLUS, L.P.
                  : PIMCO STOCKSPLUS B FUND
     2018: EXELON CORPORATION EMPLOYEES' LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4U
         Participants: 
         Assets: 88133872
@@ -817,7 +867,7 @@ IL : CHICAGO
            - STOCKSPLUS, L.P.
                  : PIMCO STOCKSPLUS B FUND
     2017: EXELON CORPORATION EMPLOYEES' LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B4U
         Participants: 
         Assets: 94645811
@@ -836,6 +886,73 @@ IL : CHICAGO
                  : MORGAN STANLEY OFS INTL EQUITY FUND
            - STOCKSPLUS, L.P.
                  : PIMCO STOCKSPLUS B FUND
+   [508]
+    2022: EXELON CORPORATION LONG-TERM DISABILITY BENEFIT PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2021: EXELON CORPORATION LONG-TERM DISABILITY BENEFIT PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2020: EXELON CORPORATION LONG-TERM DISABILITY BENEFIT PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2019: EXELON CORPORATION LONG-TERM DISABILITY BENEFIT PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2018: EXELON CORPORATION DISABILITY PLAN FOR MANAGEMENT EMPLOYEES
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2017: EXELON CORPORATION DISABILITY PLAN FOR MANAGEMENT EMPLOYEES
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+   [510]
+    2022: EXELON CORPORATION SUPPLEMENTAL DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4U4H
+        Participants: 
+    2021: EXELON CORPORATION SUPPLEMENTAL DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4U4H
+        Participants: 
+    2020: EXELON CORPORATION SUPPLEMENTAL DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4U4H
+        Participants: 
+    2019: EXELON CORPORATION SUPPLEMENTAL DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4U4H
+        Participants: 
+    2018: EXELON CORPORATION SUPPLEMENTAL DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4U4H
+        Participants: 
+    2017: EXELON CORPORATION SUPPLEMENTAL DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4U4H
+        Participants: 
+   [523]
+    2020: EXELON CORPORATION LONG-TERM CARE PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H4Q4U
+        Participants: 
+    2019: EXELON CORPORATION LONG-TERM CARE PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H4Q4U
+        Participants: 
+    2018: EXELON CORPORATION LONG-TERM CARE PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H4Q4U
+        Participants: 
+    2017: EXELON CORPORATION LONG-TERM CARE PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H4Q4U
+        Participants: 
    [300]
     2022: EXELON CORPORATION DCRP MASTER TRUST - PRIMARY
         Benefit Category: Other
@@ -2761,129 +2878,6 @@ IL : CHICAGO
         Participants: 
         Assets: 41022190
         $/Participant: 
-   [508]
-    2022: EXELON CORPORATION LONG-TERM DISABILITY BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2021: EXELON CORPORATION LONG-TERM DISABILITY BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2020: EXELON CORPORATION LONG-TERM DISABILITY BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2019: EXELON CORPORATION LONG-TERM DISABILITY BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2018: EXELON CORPORATION DISABILITY PLAN FOR MANAGEMENT EMPLOYEES
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2017: EXELON CORPORATION DISABILITY PLAN FOR MANAGEMENT EMPLOYEES
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-   [510]
-    2022: EXELON CORPORATION SUPPLEMENTAL DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4U4H
-        Participants: 
-    2021: EXELON CORPORATION SUPPLEMENTAL DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4U4H
-        Participants: 
-    2020: EXELON CORPORATION SUPPLEMENTAL DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4U4H
-        Participants: 
-    2019: EXELON CORPORATION SUPPLEMENTAL DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4U4H
-        Participants: 
-    2018: EXELON CORPORATION SUPPLEMENTAL DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4U4H
-        Participants: 
-    2017: EXELON CORPORATION SUPPLEMENTAL DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4U4H
-        Participants: 
-   [512]
-    2022: EXELON CORPORATION DISABILITY BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4F4U
-        Participants: 
-        Assets: 399750
-        $/Participant: 
-        Service Providers:
-           - MITCHELL & TITUS, LLP : AUDITOR (Accounting(including auditing))
-           - THE NORTHERN TRUST COMPANY : TRUSTEE/CUSTODIAN (Custodial(other than securities) | Trustee(bank, trust company, or similar))
-    2021: EXELON CORPORATION DISABILITY BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4F4U
-        Participants: 
-        Assets: 583877
-        $/Participant: 
-        Service Providers:
-           - THE NORTHERN TRUST COMPANY : TRUSTEE/CUSTODIAN (Custodial(other than securities) | Trustee(bank, trust company, or similar))
-           - MITCHELL & TITUS, LLP : AUDITOR (Accounting(including auditing))
-           - WILLIS TOWERS WATSON US LLC : ACTUARY (Actuarial)
-    2020: EXELON CORPORATION DISABILITY BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4F4U
-        Participants: 
-        Assets: 365158
-        $/Participant: 
-        Service Providers:
-           - MITCHELL & TITUS, LLP : AUDITOR (Accounting(including auditing))
-           - THE NORTHERN TRUST COMPANY : TRUSTEE/CUSTODIAN (Custodial(other than securities) | Trustee(bank, trust company, or similar))
-    2019: EXELON CORPORATION DISABILITY BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4F4U
-        Participants: 
-        Assets: 565024
-        $/Participant: 
-        Service Providers:
-           - MITCHELL & TITUS, LLP : AUDITOR (Accounting(including auditing))
-           - THE NORTHERN TRUST COMPANY : TRUSTEE/CUSTODIAN (Custodial(other than securities) | Trustee(bank, trust company, or similar))
-    2018: EXELON CORPORATION DISABILITY BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4F4U
-        Participants: 
-        Assets: 625476
-        $/Participant: 
-        Service Providers:
-           - THE NORTHERN TRUST COMPANY : TRUSTEE/CUSTODIAN (Custodial(securities) | Trustee(bank, trust company, or similar) | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | 'Soft dollars' commissions)
-           - MITCHELL & TITUS, LLP : AUDITOR (Accounting(including auditing))
-    2017: EXELON CORPORATION DISABILITY BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4F4U
-        Participants: 
-        Assets: 958627
-        $/Participant: 
-        Service Providers:
-           - NORTHERN TRUST COMPANY : TRUSTEE/CUSTODIAN (Custodial(other than securities) | Trustee(bank, trust company, or similar))
-           - WASHINGTON, PITTMAN & MCKEEVER, LLC : AUDITOR (Accounting(including auditing))
-   [523]
-    2020: EXELON CORPORATION LONG-TERM CARE PLAN
-        Benefit Category: Other
-        Codes:  4H4Q4U
-        Participants: 
-    2019: EXELON CORPORATION LONG-TERM CARE PLAN
-        Benefit Category: Other
-        Codes:  4H4Q4U
-        Participants: 
-    2018: EXELON CORPORATION LONG-TERM CARE PLAN
-        Benefit Category: Other
-        Codes:  4H4Q4U
-        Participants: 
-    2017: EXELON CORPORATION LONG-TERM CARE PLAN
-        Benefit Category: Other
-        Codes:  4H4Q4U
-        Participants: 
    [550]
     2022: EXELON CORPORATION GROUP LEGAL PLAN
         Benefit Category: Other
@@ -2908,77 +2902,6 @@ IL : CHICAGO
     2017: EXELON CORPORATION GROUP LEGAL PLAN
         Benefit Category: Other
         Codes:  4G4U
-        Participants: 
-   [559]
-    2021: BGE HOME PRODUCTS AND SERVICES, LLC SHORT-TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2020: BGE HOME PRODUCTS AND SERVICES, LLC SHORT-TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2019: BGE HOME PRODUCTS AND SERVICES, LLC SHORT-TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2018: BGE HOME PRODUCTS AND SERVICES, LLC SHORT-TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-    2017: BGE HOME PRODUCTS AND SERVICES, LLC SHORT-TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 
-   [563]
-    2022: BGE RETIREE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2021: CONSTELLATION ENERGY GROUP, INC. RETIREE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2020: CONSTELLATION ENERGY GROUP, INC. RETIREE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2019: CONSTELLATION ENERGY GROUP, INC. RETIREE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2018: CONSTELLATION ENERGY GROUP, INC. RETIREE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2017: CONSTELLATION ENERGY GROUP, INC. RETIREE DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-   [580]
-    2022: EXELON RETIREE DENTAL PLAN OF CONSTELLATION ENERGY NUCLEAR GROUP LLC
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2021: RETIREE DENTAL PLAN OF CONSTELLATION ENERGY NUCLEAR GROUP, LLC
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2020: RETIREE DENTAL PLAN OF CONSTELLATION ENERGY NUCLEAR GROUP, LLC
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2019: RETIREE DENTAL PLAN OF CONSTELLATION ENERGY NUCLEAR GROUP, LLC
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2018: RETIREE DENTAL PLAN OF CONSTELLATION ENERGY NUCLEAR GROUP, LLC
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2017: RETIREE DENTAL PLAN OF CONSTELLATION ENERGY NUCLEAR GROUP, LLC
-        Benefit Category: Other
-        Codes:  4D
         Participants: 
    [002]
     2022: EXELON CORPORATION RETIREMENT PROGRAM
@@ -3865,4 +3788,81 @@ IL : CHICAGO
     2019: EXELON GENERATION COMPANY, LLC SEPARATION BENEFIT PLAN FOR DESIGNATED EMPLOYEES OF TMI NUCLEAR GENERATING STATION REP BY IBEW LOCAL 777
         Benefit Category: Severance
         Codes:  4I
+        Participants: 
+   [512]
+    2022: EXELON CORPORATION DISABILITY BENEFIT PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F4U
+        Participants: 
+        Assets: 399750
+        $/Participant: 
+        Service Providers:
+           - MITCHELL & TITUS, LLP : AUDITOR (Accounting(including auditing))
+           - THE NORTHERN TRUST COMPANY : TRUSTEE/CUSTODIAN (Custodial(other than securities) | Trustee(bank, trust company, or similar))
+    2021: EXELON CORPORATION DISABILITY BENEFIT PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F4U
+        Participants: 
+        Assets: 583877
+        $/Participant: 
+        Service Providers:
+           - THE NORTHERN TRUST COMPANY : TRUSTEE/CUSTODIAN (Custodial(other than securities) | Trustee(bank, trust company, or similar))
+           - MITCHELL & TITUS, LLP : AUDITOR (Accounting(including auditing))
+           - WILLIS TOWERS WATSON US LLC : ACTUARY (Actuarial)
+    2020: EXELON CORPORATION DISABILITY BENEFIT PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F4U
+        Participants: 
+        Assets: 365158
+        $/Participant: 
+        Service Providers:
+           - MITCHELL & TITUS, LLP : AUDITOR (Accounting(including auditing))
+           - THE NORTHERN TRUST COMPANY : TRUSTEE/CUSTODIAN (Custodial(other than securities) | Trustee(bank, trust company, or similar))
+    2019: EXELON CORPORATION DISABILITY BENEFIT PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F4U
+        Participants: 
+        Assets: 565024
+        $/Participant: 
+        Service Providers:
+           - MITCHELL & TITUS, LLP : AUDITOR (Accounting(including auditing))
+           - THE NORTHERN TRUST COMPANY : TRUSTEE/CUSTODIAN (Custodial(other than securities) | Trustee(bank, trust company, or similar))
+    2018: EXELON CORPORATION DISABILITY BENEFIT PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F4U
+        Participants: 
+        Assets: 625476
+        $/Participant: 
+        Service Providers:
+           - THE NORTHERN TRUST COMPANY : TRUSTEE/CUSTODIAN (Custodial(securities) | Trustee(bank, trust company, or similar) | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | 'Soft dollars' commissions)
+           - MITCHELL & TITUS, LLP : AUDITOR (Accounting(including auditing))
+    2017: EXELON CORPORATION DISABILITY BENEFIT PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F4U
+        Participants: 
+        Assets: 958627
+        $/Participant: 
+        Service Providers:
+           - NORTHERN TRUST COMPANY : TRUSTEE/CUSTODIAN (Custodial(other than securities) | Trustee(bank, trust company, or similar))
+           - WASHINGTON, PITTMAN & MCKEEVER, LLC : AUDITOR (Accounting(including auditing))
+   [559]
+    2021: BGE HOME PRODUCTS AND SERVICES, LLC SHORT-TERM DISABILITY INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2020: BGE HOME PRODUCTS AND SERVICES, LLC SHORT-TERM DISABILITY INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2019: BGE HOME PRODUCTS AND SERVICES, LLC SHORT-TERM DISABILITY INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2018: BGE HOME PRODUCTS AND SERVICES, LLC SHORT-TERM DISABILITY INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 
+    2017: BGE HOME PRODUCTS AND SERVICES, LLC SHORT-TERM DISABILITY INSURANCE PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
         Participants: 

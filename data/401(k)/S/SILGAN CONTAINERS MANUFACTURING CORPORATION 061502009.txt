@@ -741,33 +741,33 @@ CA : WOODLAND HILLS
         RecordKeeper: GREAT-WEST LIFE & ANNUITY INSURANCE
    [501]
     2022: SILGAN CONTAINERS MANUFACTURING CORPORATION HEALTH AND WELFARE WRAP PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4G4H4I4L4Q
         Participants: 
     2021: SILGAN CONTAINERS MANUFACTURING CORPORATION HEALTH AND WELFARE WRAP PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4G4H4I4L
         Participants: 
     2020: SILGAN CONTAINERS MANUFACTURING CORPORATION HEALTH AND WELFARE WRAP PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4G4H4I4L
         Participants: 
     2019: SILGAN CONTAINERS MANUFACTURING CORPORATION HEALTH AND WELFARE WRAP PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4G4H4I4L
         Participants: 
     2018: SILGAN CONTAINERS MANUFACTURING CORPORATION HEALTH AND WELFARE WRAP PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4G4H4I4L
         Participants: 
     2017: SILGAN CONTAINERS MANUFACTURING CORPORATION HEALTH AND WELFARE WRAP PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4H4I4L
         Participants: 1758
         RecordKeeper: ANTHEM BLUE CROSS
    [510]
     2017: SILGAN CONTAINERS MANUFACTURING CORPORATION SELF-FUNDED RETIREE WELFARE PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance
         Codes:  4A4B
         Participants: 
    [511]
@@ -780,11 +780,6 @@ CA : WOODLAND HILLS
         Benefit Category: Other
         Codes:  4Q
         Participants: 1758
-   [512]
-    2017: SILGAN CONTAINERS MANUFACTURING CORPORATION SEVERANCE PLAN FOR SALARIED EMPLOYEES
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 1071
    [001]
     2022: SILGAN NON-UNION PENSION PLAN
         Benefit Category: Pension
@@ -1132,3 +1127,8 @@ CA : WOODLAND HILLS
                  : SILGAN CONTAINERS CORP PP MASTER TR
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO SHORT TERM INV. FUND N
+   [512]
+    2017: SILGAN CONTAINERS MANUFACTURING CORPORATION SEVERANCE PLAN FOR SALARIED EMPLOYEES
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 1071

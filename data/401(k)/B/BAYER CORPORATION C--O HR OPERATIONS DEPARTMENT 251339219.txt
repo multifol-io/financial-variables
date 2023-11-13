@@ -192,24 +192,24 @@ PA : PITTSBURGH
 MO : ST. LOUIS
    [501]
     2022: BAYER CORPORATION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4I4L4Q
         Participants: 
     2021: BAYER CORPORATION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4I4L4Q
         Participants: 
     2020: BAYER CORPORATION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4I4L4Q
         Participants: 
 PA : PITTSBURGH
     2018: BAYER CORPORATION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4I4L4Q
         Participants: 
     2017: BAYER CORPORATION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance, Severance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Severance, Travel accident
         Codes:  4A4B4D4E4F4I4L4Q
         Participants: 
 MO : ST. LOUIS
@@ -226,6 +226,96 @@ MO : ST. LOUIS
         Benefit Category: Healthcare
         Codes:  4A4Q
         Participants: 
+   [503]
+    2022: THE BAYER CORPORATION SUPPLEMENTAL INDIVIDUAL DISABILITY INSURANCE PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+    2021: THE BAYER CORPORATION SUPPLEMENTAL INDIVIDUAL DISABILITY INSURANCE PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+   [510]
+    2022: BAYER CORPORATION DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+        Assets: 4830389
+        $/Participant: 
+        Service Providers:
+           - HARTFORD LIFE AND ACCIDENT INS CO :  (Claims processing | Direct payment from the plan)
+           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+           - MELLON INVESTMENTS CORPORATION :  (Investment management | Investment management fees paid directly by plan)
+           - SSGA TRUST COMPANY :  (Custodial(other than securities) | Custodial(securities) | Investment management | Investment management fees paid directly by plan)
+        Available Investments:
+           - BANK OF NEW YORK MELLON
+                 : CF STOCK INDEX FUND
+           - STATE STREET BANK AND TRUST COMPANY
+                 : US AGGREGATE BOND INDX NL FUND
+    2021: BAYER CORPORATION DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+        Assets: 4393622
+        $/Participant: 
+        Service Providers:
+           - HARTFORD LIFE AND ACCIDENT INS CO :  (Claims processing | Direct payment from the plan)
+           - SSGA TRUST COMPANY :  (Custodial(other than securities) | Custodial(securities) | Investment management | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
+           - MELLON INVESTMENTS CORPORATION :  (Investment management | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
+        Available Investments:
+           - BANK OF NEW YORK MELLON
+                 : CF STOCK INDEX FUND
+           - STATE STREET BANK AND TRUST COMPANY
+                 : US AGGREGATE BOND INDX NL FUND
+    2020: BAYER CORPORATION DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+        Assets: 7065695
+        $/Participant: 
+        Service Providers:
+           - HARTFORD LIFE AND ACCIDENT INS CO :  (Claims processing | Direct payment from the plan)
+           - MELLON INVESTMENTS CORPORATION :  (Investment management | Investment management fees paid directly by plan)
+           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+           - SSGA TRUST COMPANY :  (Custodial(other than securities) | Custodial(securities) | Investment management | Investment management fees paid directly by plan)
+        Available Investments:
+           - BANK OF NEW YORK MELLON
+                 : CF STOCK INDEX FUND
+           - STATE STREET BANK AND TRUST COMPANY
+                 : US AGGREGATE BOND INDX NL FUND
+PA : PITTSBURGH
+    2018: BAYER CORPORATION DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+        Assets: 4243853
+        $/Participant: 
+        Service Providers:
+           - MATRIX ABSENCE MANAGMENT, INC. :  (Claims processing | Direct payment from the plan)
+           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Shareholder servicing fees | Float revenue)
+           - MELLON INVESTMENT CORPORATION :  (Investment management | Investment management fees paid directly by plan)
+           - SSGA TRUST COMPANY :  (Custodial(other than securities) | Custodial(securities) | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
+        Available Investments:
+           - BANK OF NEW YORK MELLON
+                 : CF STOCK INDEX FUND
+           - STATE STREET BANK AND TRUST COMPANY
+                 : US AGGREGATE BOND INDX NL FUND
+    2017: BAYER CORPORATION DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+        Assets: 4209673
+        $/Participant: 
+        Service Providers:
+           - MATRIX ABSENCE MANAGMENT, INC. :  (Claims processing | Direct payment from the plan)
+           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Shareholder servicing fees | Float revenue)
+           - MELLON CAPITAL MANAGEMENT :  (Investment management | Investment management fees paid directly by plan)
+           - SSGA TRUST COMPANY :  (Custodial(other than securities) | Custodial(securities) | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
+        Available Investments:
+           - BANK OF NEW YORK MELLON
+                 : CF STOCK INDEX FUND
+           - STATE STREET BANK AND TRUST COMPANY
+                 : US AGGREGATE BOND INDX NL FUND
 NJ : WHIPPANY
    [001]
     2022: MONSANTO CARIBE RETIREMENT SAVINGS PLAN
@@ -250,97 +340,6 @@ PA : PITTSBURGH
         Benefit Category: Other
         Codes:  4Q
         Participants: 
-MO : ST. LOUIS
-   [503]
-    2022: THE BAYER CORPORATION SUPPLEMENTAL INDIVIDUAL DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-    2021: THE BAYER CORPORATION SUPPLEMENTAL INDIVIDUAL DISABILITY INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-   [510]
-    2022: BAYER CORPORATION DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-        Assets: 4830389
-        $/Participant: 
-        Service Providers:
-           - HARTFORD LIFE AND ACCIDENT INS CO :  (Claims processing | Direct payment from the plan)
-           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-           - MELLON INVESTMENTS CORPORATION :  (Investment management | Investment management fees paid directly by plan)
-           - SSGA TRUST COMPANY :  (Custodial(other than securities) | Custodial(securities) | Investment management | Investment management fees paid directly by plan)
-        Available Investments:
-           - BANK OF NEW YORK MELLON
-                 : CF STOCK INDEX FUND
-           - STATE STREET BANK AND TRUST COMPANY
-                 : US AGGREGATE BOND INDX NL FUND
-    2021: BAYER CORPORATION DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-        Assets: 4393622
-        $/Participant: 
-        Service Providers:
-           - HARTFORD LIFE AND ACCIDENT INS CO :  (Claims processing | Direct payment from the plan)
-           - SSGA TRUST COMPANY :  (Custodial(other than securities) | Custodial(securities) | Investment management | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
-           - MELLON INVESTMENTS CORPORATION :  (Investment management | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
-        Available Investments:
-           - BANK OF NEW YORK MELLON
-                 : CF STOCK INDEX FUND
-           - STATE STREET BANK AND TRUST COMPANY
-                 : US AGGREGATE BOND INDX NL FUND
-    2020: BAYER CORPORATION DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-        Assets: 7065695
-        $/Participant: 
-        Service Providers:
-           - HARTFORD LIFE AND ACCIDENT INS CO :  (Claims processing | Direct payment from the plan)
-           - MELLON INVESTMENTS CORPORATION :  (Investment management | Investment management fees paid directly by plan)
-           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-           - SSGA TRUST COMPANY :  (Custodial(other than securities) | Custodial(securities) | Investment management | Investment management fees paid directly by plan)
-        Available Investments:
-           - BANK OF NEW YORK MELLON
-                 : CF STOCK INDEX FUND
-           - STATE STREET BANK AND TRUST COMPANY
-                 : US AGGREGATE BOND INDX NL FUND
-PA : PITTSBURGH
-    2018: BAYER CORPORATION DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-        Assets: 4243853
-        $/Participant: 
-        Service Providers:
-           - MATRIX ABSENCE MANAGMENT, INC. :  (Claims processing | Direct payment from the plan)
-           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Shareholder servicing fees | Float revenue)
-           - MELLON INVESTMENT CORPORATION :  (Investment management | Investment management fees paid directly by plan)
-           - SSGA TRUST COMPANY :  (Custodial(other than securities) | Custodial(securities) | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
-        Available Investments:
-           - BANK OF NEW YORK MELLON
-                 : CF STOCK INDEX FUND
-           - STATE STREET BANK AND TRUST COMPANY
-                 : US AGGREGATE BOND INDX NL FUND
-    2017: BAYER CORPORATION DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-        Assets: 4209673
-        $/Participant: 
-        Service Providers:
-           - MATRIX ABSENCE MANAGMENT, INC. :  (Claims processing | Direct payment from the plan)
-           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Shareholder servicing fees | Float revenue)
-           - MELLON CAPITAL MANAGEMENT :  (Investment management | Investment management fees paid directly by plan)
-           - SSGA TRUST COMPANY :  (Custodial(other than securities) | Custodial(securities) | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
-        Available Investments:
-           - BANK OF NEW YORK MELLON
-                 : CF STOCK INDEX FUND
-           - STATE STREET BANK AND TRUST COMPANY
-                 : US AGGREGATE BOND INDX NL FUND
 MO : ST. LOUIS
    [002]
     2022: MONSANTO COMPANY PENSION PLAN

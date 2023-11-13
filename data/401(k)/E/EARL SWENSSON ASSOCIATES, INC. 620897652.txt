@@ -50,6 +50,15 @@ TN : NASHVILLE
                  : INVESCO STABLE VALUE RETIREMENT TRU
            - VOYA RETIREMENT INSURANCE AND ANNUITY COMPANY
                  : VARIABLE ANNUITY ACCOUNT D
+   [502]
+    2019: EARL SWENSSON ASSOCIATES DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
+    2018: EARL SWENSSON ASSOCIATES DENTAL PLAN
+        Benefit Category: Dental
+        Codes:  4D
+        Participants: 
    [501]
     2019: EARL SWENSSON ASSOCIATES HEALTH PLAN
         Benefit Category: Healthcare
@@ -65,64 +74,46 @@ TN : NASHVILLE
         Codes:  4A
         Participants: 
     2017: EARL SWENSSON ASSOCIATES, INC. FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E4Q
         Participants: 
    [526]
     2022: EARL SWENSSON ASSOCIATES, INC. WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2021: EARL SWENSSON ASSOCIATES, INC. WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2020: EARL SWENSSON ASSOCIATES, INC. WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
    [513]
     2019: EARL SWENSSON ASSOCIATES, INC. LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2018: EARL SWENSSON ASSOCIATES, INC. LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2017: EARL SWENSSON ASSOCIATES, INC. LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
-        Participants: 
-   [502]
-    2019: EARL SWENSSON ASSOCIATES DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-    2018: EARL SWENSSON ASSOCIATES DENTAL PLAN
-        Benefit Category: Other
-        Codes:  4D
-        Participants: 
-   [503]
-    2019: EARL SWENSSON ASSOCIATES VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
-        Participants: 
-    2018: EARL SWENSSON ASSOCIATES VISION PLAN
-        Benefit Category: Other
-        Codes:  4E
         Participants: 
    [511]
     2019: EARL SWENSSON ASSOCIATES, INC. LONG TERM DISABILITY
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2018: EARL SWENSSON ASSOCIATES, INC. LONG TERM DISABILITY
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2017: EARL SWENSSON ASSOCIATES, INC. LONG TERM DISABILITY
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
    [512]
@@ -137,4 +128,13 @@ TN : NASHVILLE
     2017: EARL SWENSSON ASSOCIATES, INC. LONG TERM CARE
         Benefit Category: Other
         Codes:  4Q
+        Participants: 
+   [503]
+    2019: EARL SWENSSON ASSOCIATES VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
+        Participants: 
+    2018: EARL SWENSSON ASSOCIATES VISION PLAN
+        Benefit Category: Vision
+        Codes:  4E
         Participants: 

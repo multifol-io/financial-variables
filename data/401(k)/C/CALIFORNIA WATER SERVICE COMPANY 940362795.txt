@@ -100,7 +100,7 @@ CA : SAN JOSE
                  : MORLEY STABLE VALUE NET 230
    [504]
     2022: CALIFORNIA WATER SERVICE CO HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Assets: 47627848
@@ -110,86 +110,74 @@ CA : SAN JOSE
            - STATE STREET GLOBAL ADVISORS TRUST COMPANY
                  : S&P 500 (R) INDX NL CTF (CM10CTF)
     2021: CALIFORNIA WATER SERVICE CO HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Assets: 58023760
         $/Participant: 
         RecordKeeper: ANTHEM BLUE CROSS
     2020: CALIFORNIA WATER SERVICE CO HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
         Assets: 49891253
         $/Participant: 
         RecordKeeper: ANTHEM BLUE CROSS
     2019: CALIFORNIA WATER SERVICE CO HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 1529
         Assets: 44641438
         $/Participant: 29196
         RecordKeeper: ANTHEM BLUE CROSS L&H INSURANCE CO
     2018: CALIFORNIA WATER SERVICE CO HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 1451
         Assets: 38206880
         $/Participant: 26331
     2017: CALIFORNIA WATER SERVICE CO HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 1469
         Assets: 38582450
         $/Participant: 26264
    [502]
     2022: CALIFORNIA WATER SERVICE CO LIFE INSURANCE COMPANY
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2021: CALIFORNIA WATER SERVICE CO LIFE INSURANCE COMPANY
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2020: CALIFORNIA WATER SERVICE CO LIFE INSURANCE COMPANY
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 
     2019: CALIFORNIA WATER SERVICE COMPANY LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 1477
     2018: CALIFORNIA WATER SERVICE COMPANY LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 1459
     2017: CALIFORNIA WATER SERVICE COMPANY LIFE INSURANCE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance
         Codes:  4B
         Participants: 1454
    [503]
-    2022: CALIFORNIA WATER SERVICE CO LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2021: CALIFORNIA WATER SERVICE CO LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
-    2020: CALIFORNIA WATER SERVICE CO LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F4H
-        Participants: 
     2019: CALIFORNIA WATER SERVICE CO LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 975
     2018: CALIFORNIA WATER SERVICE CO LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 984
     2017: CALIFORNIA WATER SERVICE CO LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 1008
    [001]
@@ -271,3 +259,16 @@ CA : SAN JOSE
         $/Participant: 279695
         Service Providers:
            - WELLS FARGO BANK, N.A. :  (Shareholder servicing fees)
+   [503]
+    2022: CALIFORNIA WATER SERVICE CO LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2021: CALIFORNIA WATER SERVICE CO LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 
+    2020: CALIFORNIA WATER SERVICE CO LONG TERM DISABILITY PLAN
+        Benefit Category: Short-term disability, Long-term disability
+        Codes:  4F4H
+        Participants: 

@@ -173,7 +173,7 @@ CA : ROSEMEAD
                  : INTERNATIONAL EQUITY COLLECTIVE INV
    [501]
     2022: EDISON INTERNATIONAL WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
         Codes:  4A4B4D4E4L4Q
         Participants: 26915
         Assets: 1435244320
@@ -191,7 +191,7 @@ CA : ROSEMEAD
            - THE BANK OF NEW YORK MELLON
                  : BNYM-MELLON CF SL SIF FUND
     2021: EDISON INTERNATIONAL WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
         Codes:  4A4B4D4E4L4Q
         Participants: 26752
         Assets: 1710692617
@@ -209,7 +209,7 @@ CA : ROSEMEAD
            - THE BANK OF NEW YORK MELLON
                  : BNYM-MELLON CF SL SIF FUND
     2020: EDISON INTERNATIONAL WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
         Codes:  4A4B4D4E4L4Q
         Participants: 26966
         Assets: 1776939223
@@ -227,7 +227,7 @@ CA : ROSEMEAD
            - THE BANK OF NEW YORK MELLON
                  : BNYM-MELLON CF SL SIF FUND
     2019: EDISON INTERNATIONAL WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
         Codes:  4A4B4D4E4L4Q
         Participants: 26640
         Assets: 1677845989
@@ -245,7 +245,7 @@ CA : ROSEMEAD
            - THE BANK OF NEW YORK MELLON
                  : BNYM-MELLON CF SL SIF FUND
     2018: EDISON INTERNATIONAL WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
         Codes:  4A4B4D4E4L4Q
         Participants: 26321
         Assets: 1489488043
@@ -260,7 +260,7 @@ CA : ROSEMEAD
                  : CF COMPLETE STK INDEX FD (MELLON)
                  : CF EAFE EQUITY INDEX FD
     2017: EDISON INTERNATIONAL WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
         Codes:  4A4B4D4E4Q4L
         Participants: 26325
         Assets: 1624069740
@@ -275,6 +275,43 @@ CA : ROSEMEAD
            - MELLON CAPITAL MANAGEMENT
                  : CF COMPLETE STK INDEX FD (MELLON)
                  : CF EAFE EQTY INDEX FD
+   [527]
+    2022: SOUTHERN CALIFORNIA EDISON COMPANY LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 13253
+        Assets: 6379172
+        $/Participant: 481
+    2021: SOUTHERN CALIFORNIA EDISON COMPANY LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 
+        Assets: 5806893
+        $/Participant: 
+    2020: SOUTHERN CALIFORNIA EDISON COMPANY LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 13508
+        Assets: 6259850
+        $/Participant: 463
+    2019: SOUTHERN CALIFORNIA EDISON COMPANY LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 13139
+        Assets: 5664961
+        $/Participant: 431
+    2018: SOUTHERN CALIFORNIA EDISON COMPANY LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 12811
+        Assets: 5893304
+        $/Participant: 460
+    2017: SOUTHERN CALIFORNIA EDISON COMPANY LONG TERM DISABILITY PLAN
+        Benefit Category: Long-term disability
+        Codes:  4H
+        Participants: 12858
+        Assets: 6694882
+        $/Participant: 520
    [004]
     2019: SOUTHERN CALIFORNIA EDISON COMPANY RETIREMENT PLAN TRUST
         Benefit Category: Other
@@ -459,76 +496,6 @@ CA : ROSEMEAD
                  : WAMCO OPPORTUNISTIC INTL
                  : WAMCO OPPORTUNISTIC US HIGH
                  : WESTERN ASSET MBS PORTFOLIO
-   [504]
-    2022: COMPREHENSIVE DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 13180
-        Assets: 651701
-        $/Participant: 49
-    2021: COMPREHENSIVE DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 12917
-    2020: COMPREHENSIVE DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 13425
-        Assets: 212530
-        $/Participant: 15
-    2019: COMPREHENSIVE DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 13043
-    2018: COMPREHENSIVE DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 12693
-        Assets: 210849
-        $/Participant: 16
-    2017: COMPREHENSIVE DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4F
-        Participants: 12835
-        Assets: 3465146
-        $/Participant: 269
-   [527]
-    2022: SOUTHERN CALIFORNIA EDISON COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 13253
-        Assets: 6379172
-        $/Participant: 481
-    2021: SOUTHERN CALIFORNIA EDISON COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 
-        Assets: 5806893
-        $/Participant: 
-    2020: SOUTHERN CALIFORNIA EDISON COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 13508
-        Assets: 6259850
-        $/Participant: 463
-    2019: SOUTHERN CALIFORNIA EDISON COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 13139
-        Assets: 5664961
-        $/Participant: 431
-    2018: SOUTHERN CALIFORNIA EDISON COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 12811
-        Assets: 5893304
-        $/Participant: 460
-    2017: SOUTHERN CALIFORNIA EDISON COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 12858
-        Assets: 6694882
-        $/Participant: 520
    [001]
     2022: THE SOUTHERN CALIFORNIA EDISON COMPANY RETIREMENT PLAN
         Benefit Category: Pension
@@ -705,3 +672,36 @@ CA : ROSEMEAD
         Benefit Category: Severance
         Codes:  4I
         Participants: 12827
+   [504]
+    2022: COMPREHENSIVE DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 13180
+        Assets: 651701
+        $/Participant: 49
+    2021: COMPREHENSIVE DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 12917
+    2020: COMPREHENSIVE DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 13425
+        Assets: 212530
+        $/Participant: 15
+    2019: COMPREHENSIVE DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 13043
+    2018: COMPREHENSIVE DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 12693
+        Assets: 210849
+        $/Participant: 16
+    2017: COMPREHENSIVE DISABILITY PLAN
+        Benefit Category: Short-term disability
+        Codes:  4F
+        Participants: 12835
+        Assets: 3465146
+        $/Participant: 269

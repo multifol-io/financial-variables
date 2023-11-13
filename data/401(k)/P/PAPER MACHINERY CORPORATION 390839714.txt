@@ -39,26 +39,26 @@ WI : MILWAUKEE
         $/Participant: 106520
    [501]
     2021: PAPER MACHINERY CORPORATION GROUP MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
     2020: PAPER MACHINERY CORPORATION GROUP MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 210
     2019: PAPER MACHINERY CORPORATION GROUP MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 192
     2018: PAPER MACHINERY CORPORATION GROUP MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Service Providers:
            - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATO (Contract Administrator)
            - M3 INSURNCE SOLUTIONS, INC. : INSURANCE AGENT (Insurance agents and brokers)
     2017: PAPER MACHINERY CORPORATION GROUP MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental
         Codes:  4A4D
         Participants: 
         Service Providers:
@@ -66,12 +66,12 @@ WI : MILWAUKEE
            - M3 INSURNCE SOLUTIONS, INC. : INSURANCE AGENT (Insurance agents and brokers)
    [503]
     2022: PAPER MACHINERY CORPORATION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life Insurance
+        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
    [001]
     2022: PAPER MACHINERY CORPORATION 401(K) PLAN
-        Benefit Category: Life Insurance, 401(k)
+        Benefit Category: Life insurance, 401(k)
         Codes: 2E2F2G2J2K2S2T3D3F 4B
         Participants: 227
         Assets: 61636070
@@ -95,7 +95,7 @@ WI : MILWAUKEE
            - WILMINGTON TRUST, N.A.
                  : AB US LG CP GTH CIT W SRS CL L
     2021: PAPER MACHINERY CORPORATION PROFIT SHARING & SAVINGS PLAN AND TRUST
-        Benefit Category: Life Insurance, 401(k)
+        Benefit Category: Life insurance, 401(k)
         Codes: 2E2F2G2J2K2S2T3D 4B
         Participants: 249
         Assets: 73102934
@@ -105,7 +105,7 @@ WI : MILWAUKEE
            - BMO HARRIS BANK, NA
                  : ONEAMERICA STABLE VALUE FUND CL Z
     2020: PAPER MACHINERY CORPORATION PROFIT SHARING & SAVINGS PLAN AND TRUST
-        Benefit Category: Life Insurance, 401(k)
+        Benefit Category: Life insurance, 401(k)
         Codes: 2E2F2G2J2K2S2T3D 4B
         Participants: 277
         Assets: 67556268
@@ -115,7 +115,7 @@ WI : MILWAUKEE
            - BMO HARRIS BANK, NA
                  : BMO STABLE VALUE FUND CLASS Z
     2019: PAPER MACHINERY CORPORATION PROFIT SHARING & SAVINGS PLAN AND TRUST
-        Benefit Category: Life Insurance, 401(k)
+        Benefit Category: Life insurance, 401(k)
         Codes: 2E2F2G2J2K2S2T3D 4B
         Participants: 272
         Assets: 65818385
@@ -125,7 +125,7 @@ WI : MILWAUKEE
            - BMO HARRIS BANK, NA
                  : BMO STABLE VALUE FUND CLASS Z
     2018: PAPER MACHINERY CORPORATION PROFIT SHARING & SAVINGS PLAN AND TRUST
-        Benefit Category: Life Insurance, 401(k)
+        Benefit Category: Life insurance, 401(k)
         Codes: 2E2F2G2J2K2S2T3D 4B
         Participants: 276
         Assets: 57901293
@@ -135,7 +135,7 @@ WI : MILWAUKEE
            - BMO HARRIS BANK, NA
                  : BMO STABLE VALUE FUND CLASS I
     2017: PAPER MACHINERY CORPORATION PROFIT SHARING & SAVINGS PLAN AND TRUST
-        Benefit Category: Life Insurance, 401(k)
+        Benefit Category: Life insurance, 401(k)
         Codes: 2E2F2G2J2K2T3D 4B
         Participants: 272
         Assets: 62941286
@@ -146,23 +146,23 @@ WI : MILWAUKEE
                  : BMO STABLE VALUE FUND CLASS I
    [502]
     2021: PAPER MACHINERY CORP GROUP LIFE AND DISABILITY PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
         Codes:  4B4F4H4L
         Participants: 
     2020: PAPER MACHINERY CORP GROUP LIFE AND DISABILITY PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4F4H
         Participants: 230
     2019: PAPER MACHINERY CORP GROUP LIFE AND DISABILITY PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4F4H
         Participants: 229
     2018: PAPER MACHINERY CORP GROUP LIFE AND DISABILITY PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4F4H
         Participants: 
     2017: PAPER MACHINERY CORP GROUP LIFE AND DISABILITY PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Short-term disability, Long-term disability
         Codes:  4B4F4H
         Participants: 
    [503]

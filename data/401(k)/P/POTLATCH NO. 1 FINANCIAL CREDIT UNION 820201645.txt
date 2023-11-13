@@ -69,88 +69,79 @@ ID : LEWISTON
         RecordKeeper: CMFG LIFE INSURANCE COMPANY
    [501]
     2022: GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Short-term disability, Long-term disability
         Codes:  4A4F4H
         Participants: 
     2021: GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Short-term disability, Long-term disability
         Codes:  4A4F4H
         Participants: 
     2020: GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Short-term disability, Long-term disability
         Codes:  4A4F4H
         Participants: 
     2019: GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Short-term disability, Long-term disability
         Codes:  4A4F4H
         Participants: 
    [503]
     2022: MEDICAL, PRESCRIPTION, DENTAL AND VISION PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2021: MEDICAL, PRESCRIPTION, DENTAL AND VISION PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2020: MEDICAL, PRESCRIPTION, DENTAL AND VISION PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2019: MEDICAL, PRESCRIPTION, DENTAL AND VISION PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2018: MEDICAL, PRESCRIPTION, DENTAL AND VISION PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
     2017: MEDICAL, PRESCRIPTION, DENTAL AND VISION PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Dental, Vision
         Codes:  4A4D4E
         Participants: 
    [502]
     2022: GROUP LIFE & AD&D PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2021: GROUP LIFE & AD&D PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2020: GROUP LIFE & AD&D PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2019: GROUP LIFE & AD&D PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2018: GROUP LIFE & AD&D PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
     2017: GROUP LIFE PLAN
-        Benefit Category: Life Insurance
+        Benefit Category: Life insurance, Travel accident
         Codes:  4B4L
         Participants: 
    [501]
     2018: GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
         Participants: 
     2017: GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Long-term disability
         Codes:  4H
-        Participants: 
-   [530]
-    2018: AD&D PLAN FOR EMPLOYEES OF POTLATCH NO 1 FEDERAL CREDIT UNION
-        Benefit Category: Other
-        Codes:  4L
-        Participants: 
-    2017: AD&D PLAN FOR EMPLOYEES OF POTLATCH NO 1 FEDERAL CREDIT UNION
-        Benefit Category: Other
-        Codes:  4L
         Participants: 
    [001]
     2021: POTLATCH NO 1 FINANCIAL CREDIT UNION CASH BALANCE DEFINED BENEFIT PLAN AND TRUST
@@ -214,3 +205,12 @@ ID : LEWISTON
         Assets: 18318032
         $/Participant: 86000
         RecordKeeper: CMFG LIFE INSURANCE COMPANY
+   [530]
+    2018: AD&D PLAN FOR EMPLOYEES OF POTLATCH NO 1 FEDERAL CREDIT UNION
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
+    2017: AD&D PLAN FOR EMPLOYEES OF POTLATCH NO 1 FEDERAL CREDIT UNION
+        Benefit Category: Travel accident
+        Codes:  4L
+        Participants: 
