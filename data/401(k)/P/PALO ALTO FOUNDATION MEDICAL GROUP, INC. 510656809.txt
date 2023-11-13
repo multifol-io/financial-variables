@@ -62,18 +62,6 @@ CA : LOS ALTOS
         Available Investments:
            - PALO ALTO FOUNDATION MEDICAL GROUP, INC.
                  : PAFMG MASTER TRUST
-CA : MOUNTAIN VIEW
-    2017: PALO ALTO FOUNDATION MEDICAL GROUP, INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2R2T3F 4B
-        Participants: 1191
-        Assets: 922747541
-        $/Participant: 774767
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-        Available Investments:
-           - PALO ALTO FOUNDATION MEDICAL GROUP, INC.
-                 : PAFMG MASTER TRUST
-CA : LOS ALTOS
    [002]
     2021: PALO ALTO FOUNDATION MEDICAL GROUP, INC. EMPLOYEES 401(K) PLAN
         Benefit Category: 401(k)
@@ -127,7 +115,7 @@ CA : MOUNTAIN VIEW
 CA : LOS ALTOS
    [501]
     2022: PALO ALTO FOUNDATION MEDICAL GROUP, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
         Service Providers:
@@ -135,7 +123,7 @@ CA : LOS ALTOS
            - UMR, INC. : CLAIMS PROCESSING (Claims processing)
            - METROPOLITAN LIFE INSURANCE COMPANY : CLAIMS PROCESSOR (Claims processing | Contract Administrator)
     2021: PALO ALTO FOUNDATION MEDICAL GROUP, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
         Service Providers:
@@ -143,7 +131,7 @@ CA : LOS ALTOS
            - UMR, INC. : CLAIMS PROCESSING (Claims processing)
            - METROPOLITAN LIFE INSURANCE COMPANY : CLAIMS PROCESSOR (Claims processing | Contract Administrator)
     2020: PALO ALTO FOUNDATION MEDICAL GROUP, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4F4H4Q
         Participants: 
         Service Providers:
@@ -151,7 +139,7 @@ CA : LOS ALTOS
            - UMR, INC. : CLAIMS PROCESSING (Claims processing)
            - METROPOLITAN LIFE INSURANCE COMPANY : CLAIMS PROCESSOR (Claims processing | Contract Administrator)
     2019: PALO ALTO FOUNDATION MEDICAL GROUP, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4F4H4Q
         Participants: 
         Service Providers:
@@ -159,7 +147,7 @@ CA : LOS ALTOS
            - UMR, INC. : CLAIMS PROCESSING (Claims processing)
            - METROPOLITAN LIFE INSURANCE COMPANY : CLAIMS PROCESSOR (Claims processing | Contract Administrator)
     2018: PALO ALTO FOUNDATION MEDICAL GROUP, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4F4H4Q
         Participants: 
         Service Providers:
@@ -168,7 +156,7 @@ CA : LOS ALTOS
            - METROPOLITAN LIFE INSURANCE COMPANY : CLAIMS PROCESSOR (Claims processing | Contract Administrator)
 CA : MOUNTAIN VIEW
     2017: PALO ALTO FOUNDATION MEDICAL GROUP, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4F4H4Q
         Participants: 
         Service Providers:
@@ -227,6 +215,17 @@ CA : MOUNTAIN VIEW
         Participants: 
         Assets: 22143467
         $/Participant: 
+   [001]
+    2017: PALO ALTO FOUNDATION MEDICAL GROUP, INC. 401(K) PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3F 4B
+        Participants: 1191
+        Assets: 922747541
+        $/Participant: 774767
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Available Investments:
+           - PALO ALTO FOUNDATION MEDICAL GROUP, INC.
+                 : PAFMG MASTER TRUST
 CA : LOS ALTOS
    [004]
     2021: PALO ALTO FOUNDATION MEDICAL GROUP, INC. 401(K) MASTER TRUST

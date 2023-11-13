@@ -99,7 +99,7 @@ NY : NEW YORK
         Participants: 
    [531]
     2022: S&P GLOBAL INC. GROUP HEALTH PLAN FOR RETIREES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 4643307
@@ -108,7 +108,7 @@ NY : NEW YORK
            - S&P GLOBAL INC.
                  : S&P VOL EMP BEN HEALTH & WELFARE MT
     2021: S&P GLOBAL INC. GROUP HEALTH PLAN FOR RETIREES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 6259288
@@ -121,7 +121,7 @@ NY : NEW YORK
            - S&P GLOBAL INC.
                  : S&P VOL EMP BEN HEALTH & WELFARE MT
     2020: S&P GLOBAL INC. GROUP HEALTH PLAN FOR RETIREES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 9441705
@@ -134,7 +134,7 @@ NY : NEW YORK
            - S&P GLOBAL INC.
                  : S&P VOL EMP BEN HEALTH & WELFARE MT
     2019: S&P GLOBAL INC. GROUP HEALTH PLAN FOR RETIREES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 12601349
@@ -144,7 +144,7 @@ NY : NEW YORK
            - S&P GLOBAL INC.
                  : S&P VOL EMP BEN HEALTH & WELFARE MT
     2018: S&P GLOBAL INC. GROUP HEALTH PLAN FOR RETIREES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 16771830
@@ -154,7 +154,7 @@ NY : NEW YORK
            - S&P GLOBAL INC.
                  : S&P VOL EMP BEN HEALTH & WELFARE MT
     2017: S&P GLOBAL INC. GROUP HEALTH PLAN FOR RETIREES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 20101776
@@ -163,6 +163,31 @@ NY : NEW YORK
         Available Investments:
            - S&P GLOBAL INC.
                  : S&P VOL EMP BEN HEALTH & WELFARE MT
+   [532]
+    2022: S&P GLOBAL INC. WELFARE PLAN
+        Benefit Category: Life Insurance, Severance
+        Codes:  4B4F4I4L4Q
+        Participants: 
+    2021: S&P GLOBAL INC. WELFARE PLAN
+        Benefit Category: Life Insurance, Severance
+        Codes:  4B4F4I4L4Q
+        Participants: 
+    2020: S&P GLOBAL INC. WELFARE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4F4L4Q
+        Participants: 
+    2019: S&P GLOBAL INC. WELFARE PLAN
+        Benefit Category: Life Insurance, Severance
+        Codes:  4B4F4I4L4Q
+        Participants: 
+    2018: S&P GLOBAL INC. WELFARE PLAN
+        Benefit Category: Life Insurance, Severance
+        Codes:  4B4F4I4L4Q
+        Participants: 
+    2017: S&P GLOBAL INC. WELFARE PLAN
+        Benefit Category: Life Insurance, Severance
+        Codes:  4B4F4I4L4Q
+        Participants: 
    [506]
     2022: S&P GLOBAL INC. LONG-TERM DISABILITY PLAN
         Benefit Category: Other
@@ -218,11 +243,6 @@ NY : NEW YORK
         Available Investments:
            - S&P GLOBAL INC.
                  : S&P VOL EMP BEN HEALTH & WELFARE MT
-   [532]
-    2020: S&P GLOBAL INC. WELFARE PLAN
-        Benefit Category: Other
-        Codes:  4B4F4L4Q
-        Participants: 
    [001]
     2022: EMPLOYEE RETIREMENT PLAN OF S&P GLOBAL INC AND ITS SUBSIDIARIES
         Benefit Category: Pension
@@ -315,27 +335,6 @@ NY : NEW YORK
            - NORTHERN TRUST GLOBAL INVESTMENTS
                  : NTGI-QM COL DLY S&P MIDCAP 400 EQTY
                  : NTGI-QM COLTV DAILY S&P500 EQ INDEX
-   [532]
-    2022: S&P GLOBAL INC. WELFARE PLAN
-        Benefit Category: Severance
-        Codes:  4B4F4I4L4Q
-        Participants: 
-    2021: S&P GLOBAL INC. WELFARE PLAN
-        Benefit Category: Severance
-        Codes:  4B4F4I4L4Q
-        Participants: 
-    2019: S&P GLOBAL INC. WELFARE PLAN
-        Benefit Category: Severance
-        Codes:  4B4F4I4L4Q
-        Participants: 
-    2018: S&P GLOBAL INC. WELFARE PLAN
-        Benefit Category: Severance
-        Codes:  4B4F4I4L4Q
-        Participants: 
-    2017: S&P GLOBAL INC. WELFARE PLAN
-        Benefit Category: Severance
-        Codes:  4B4F4I4L4Q
-        Participants: 
    [533]
     2022: TRANSITION SEVERANCE PLAN OF S&P GLOBAL INC.
         Benefit Category: Severance

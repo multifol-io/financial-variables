@@ -164,29 +164,29 @@ ND : WEST FARGO
                  : DOOSAN MASTER TRUST
    [501]
     2022: DOOSAN HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4F4H4L4E
         Participants: 
     2021: DOOSAN HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4F4H4L4E
         Participants: 
     2020: DOOSAN HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4F4H4L4E
         Participants: 
         Service Providers:
            - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
     2019: DOOSAN HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4F4H4L4E
         Participants: 
     2018: DOOSAN HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4F4H4L
         Participants: 
     2017: DOOSAN HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4F4H4L
         Participants: 
    [586]
@@ -222,6 +222,31 @@ ND : WEST FARGO
         Benefit Category: Healthcare
         Codes:  4A4D
         Participants: 
+   [531]
+    2022: CLARK EQUIPMENT COMPANY MELROE GWINNER PLANT INSURANCE
+        Benefit Category: Life Insurance
+        Codes:  4F4B4H4D4E4Q
+        Participants: 
+    2021: CLARK EQUIPMENT COMPANY MELROE GWINNER PLANT INSURANCE
+        Benefit Category: Life Insurance
+        Codes:  4F4B4H4D4E4Q
+        Participants: 
+    2020: CLARK EQUIPMENT COMPANY MELROE GWINNER PLANT INSURANCE
+        Benefit Category: Life Insurance
+        Codes:  4F4B4H4D4E4Q
+        Participants: 
+    2019: CLARK EQUIPMENT COMPANY MELROE GWINNER PLANT INSURANCE
+        Benefit Category: Life Insurance
+        Codes:  4F4B4H4D4E4Q
+        Participants: 
+    2018: CLARK EQUIPMENT COMPANY MELROE GWINNER PLANT INSURANCE
+        Benefit Category: Life Insurance
+        Codes:  4F4B4H
+        Participants: 
+    2017: CLARK EQUIPMENT COMPANY MELROE GWINNER PLANT INSURANCE
+        Benefit Category: Life Insurance
+        Codes:  4F4B4H
+        Participants: 
    [003]
     2021: CLARK EMPLOYEE STOCK OWNERSHIP PLAN
         Benefit Category: Other
@@ -233,31 +258,6 @@ ND : WEST FARGO
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : DOOSAN MASTER TRUST
-   [531]
-    2022: CLARK EQUIPMENT COMPANY MELROE GWINNER PLANT INSURANCE
-        Benefit Category: Other
-        Codes:  4F4B4H4D4E4Q
-        Participants: 
-    2021: CLARK EQUIPMENT COMPANY MELROE GWINNER PLANT INSURANCE
-        Benefit Category: Other
-        Codes:  4F4B4H4D4E4Q
-        Participants: 
-    2020: CLARK EQUIPMENT COMPANY MELROE GWINNER PLANT INSURANCE
-        Benefit Category: Other
-        Codes:  4F4B4H4D4E4Q
-        Participants: 
-    2019: CLARK EQUIPMENT COMPANY MELROE GWINNER PLANT INSURANCE
-        Benefit Category: Other
-        Codes:  4F4B4H4D4E4Q
-        Participants: 
-    2018: CLARK EQUIPMENT COMPANY MELROE GWINNER PLANT INSURANCE
-        Benefit Category: Other
-        Codes:  4F4B4H
-        Participants: 
-    2017: CLARK EQUIPMENT COMPANY MELROE GWINNER PLANT INSURANCE
-        Benefit Category: Other
-        Codes:  4F4B4H
-        Participants: 
    [002]
     2022: DOOSAN PENSION PLAN NUMBER ONE
         Benefit Category: Pension

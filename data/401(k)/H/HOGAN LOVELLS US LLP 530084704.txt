@@ -45,27 +45,27 @@ DC : WASHINGTON
                  : MANAGED INCOME PORTFOLIO
    [501]
     2022: HOGAN LOVELLS US LLP GROUP HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4L
         Participants: 
     2021: HOGAN LOVELLS US LLP GROUP HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4L
         Participants: 
     2020: HOGAN LOVELLS US LLP GROUP HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4L
         Participants: 
     2019: HOGAN LOVELLS US LLP GROUP HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4L
         Participants: 
     2018: HOGAN LOVELLS US LLP GROUP HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4L
         Participants: 
     2017: HOGAN LOVELLS US LLP GROUP HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4L
         Participants: 
    [506]
@@ -93,6 +93,31 @@ DC : WASHINGTON
         Benefit Category: Healthcare
         Codes:  4A
         Participants: 
+   [502]
+    2022: HOGAN LOVELLS US LLP GROUP LIFE AND AD&D INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+    2021: HOGAN LOVELLS US LLP GROUP LIFE AND AD&D INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+    2020: HOGAN LOVELLS US LLP GROUP LIFE AND AD&D INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+    2019: HOGAN LOVELLS US LLP GROUP LIFE AND AD&D INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+    2018: HOGAN LOVELLS US LLP GROUP LIFE AND AD&D INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+    2017: HOGAN LOVELLS US LLP GROUP LIFE AND AD&D INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
    [001]
     2018: HOGAN LOVELLS US LLP RETIREMENT SAVINGS PLAN
         Benefit Category: Other
@@ -114,31 +139,6 @@ DC : WASHINGTON
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MANAGED INCOME PORTFOLIO
-   [502]
-    2022: HOGAN LOVELLS US LLP GROUP LIFE AND AD&D INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-    2021: HOGAN LOVELLS US LLP GROUP LIFE AND AD&D INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-    2020: HOGAN LOVELLS US LLP GROUP LIFE AND AD&D INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-    2019: HOGAN LOVELLS US LLP GROUP LIFE AND AD&D INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-    2018: HOGAN LOVELLS US LLP GROUP LIFE AND AD&D INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-    2017: HOGAN LOVELLS US LLP GROUP LIFE AND AD&D INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
    [503]
     2022: HOGAN LOVELLS US LLP DISABILITY INCOME INSURANCE PLAN
         Benefit Category: Other

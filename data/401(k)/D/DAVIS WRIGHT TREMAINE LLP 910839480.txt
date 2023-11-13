@@ -16,103 +16,29 @@ WA : SEATTLE
            - WILMINGTON TRUST, N.A.
                  : WILMGT TR CIT BRANDES INT EQ FD
                  : WILMGTTR CIT II GALLIARD RET INC FD
-    2021: DAVIS WRIGHT TREMAINE LLP 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2R2S2T3B 4B
-        Participants: 1973
-        Assets: 700088741
-        $/Participant: 354834
-        RecordKeeper: CHARLES SCHWAB & CO., INC
-        Available Investments:
-           - INVESCO NATIONAL TRUST COMPANY
-                 : INVESCO INTL GROWTH TRUST CLASS I
-           - WELLINGTON TRUST COMPANY, NA
-                 : WELLINGTON CIF II GROWTH
-           - WILLMINGTON TRUST RETIREMENT & INSTITUTIONAL TRUST CO.
-                 : GALLIARD RETIREMENT INCOME TRUST
-           - WILMINGTON TRUST, N.A.
-                 : WILMGT TR CIT BRANDES INT EQ FD
-    2020: DAVIS WRIGHT TREMAINE LLP 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2R2S2T3B 4B
-        Participants: 1916
-        Assets: 648383495
-        $/Participant: 338404
-        RecordKeeper: MSCS FIN SERVICES DIV OF BROADRIDGE
-        Available Investments:
-           - AMERIPRISE TRUST COMPANY
-                 : COLUMBIA TR FOCUSED LARGE CAP GRWTH
-           - INVESCO NATIONAL TRUST COMPANY
-                 : INVESCO INTL GROWTH TRUST CLASS I
-           - WELLINGTON TRUST COMPANY
-                 : WELLINGTON CIF II GROWTH S2
-           - WILLMINGTON TRUST RETIREMENT & INSTITUTIONAL TRUST CO.
-                 : GALLIARD RETIREMENT INCOME TRUST
-    2019: DAVIS WRIGHT TREMAINE LLP 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2R2S2T3B 4B
-        Participants: 1903
-        Assets: 581326975
-        $/Participant: 305479
-        RecordKeeper: MSCS FIN SERVICES DIV OF BROADRIDGE
-        Available Investments:
-           - AMERIPRISE TRUST COMPANY
-                 : COLUMBIA TR FOCUSED LARGE CAP GRWTH
-           - INVESCO NATIONAL TRUST COMPANY
-                 : INVESCO INTL GROWTH TRUST CLASS I
-           - WILLMINGTON TRUST RETIREMENT & INSTITUTIONAL TRUST CO.
-                 : GALLIARD RETIREMENT INCOME TRUST
-    2018: DAVIS WRIGHT TREMAINE LLP 401(K) PROFIT SHARING PLAN AND TRUST
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2R2S2T3B 4B
-        Participants: 1779
-        Assets: 469867598
-        $/Participant: 264118
-        RecordKeeper: MSCS FIN SERVICES DIV OF BROADRIDGE
-        Available Investments:
-           - AMERIPRISE TRUST COMPANY
-                 : COLUMBIA TR FOCUSED LARGE CAP GRWTH
-           - INVESCO NATIONAL TRUST COMPANY
-                 : INVESCO INTL GROWTH TRUST CLASS I
-           - WILLMINGTON TRUST RETIREMENT & INSTITUTIONAL TRUST CO.
-                 : GALLIARD RETIREMENT INCOME TRUST
-    2017: DAVIS WRIGHT TREMAINE LLP 401(K) PROFIT SHARING PLAN AND TRUST
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2R2S2T3B 4B
-        Participants: 1687
-        Assets: 493216920
-        $/Participant: 292363
-        RecordKeeper: MSCS FS DIV OF BROADRIDGE BPO, LLC
-        Available Investments:
-           - AMERIPRISE TRUST COMPANY
-                 : COLUMBIA TR FOCUSED LARGE CAP GRWTH
-           - INVESCO NATIONAL TRUST COMPANY
-                 : INVESCO INTL GROWTH TRUST CLASS I
-           - WILLMINGTON TRUST RETIREMENT & INSTITUTIONAL TRUST CO.
-                 : GALLIARD RETIREMENT INCOME TRUST
    [501]
     2022: PARTNERSHIP GROUP INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2021: PARTNERSHIP GROUP INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4L
         Participants: 
     2020: PARTNERSHIP GROUP INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4L
         Participants: 
     2019: PARTNERSHIP GROUP INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4L
         Participants: 
     2018: PARTNERSHIP GROUP INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4L
         Participants: 
     2017: PARTNERSHIP GROUP INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4L
         Participants: 
    [503]
@@ -140,6 +66,81 @@ WA : SEATTLE
         Benefit Category: Healthcare
         Codes:  4A4S
         Participants: 
+   [001]
+    2021: DAVIS WRIGHT TREMAINE LLP 401(K) PROFIT SHARING PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2A2E2F2G2J2R2S2T3B 4B
+        Participants: 1973
+        Assets: 700088741
+        $/Participant: 354834
+        RecordKeeper: CHARLES SCHWAB & CO., INC
+        Available Investments:
+           - INVESCO NATIONAL TRUST COMPANY
+                 : INVESCO INTL GROWTH TRUST CLASS I
+           - WELLINGTON TRUST COMPANY, NA
+                 : WELLINGTON CIF II GROWTH
+           - WILLMINGTON TRUST RETIREMENT & INSTITUTIONAL TRUST CO.
+                 : GALLIARD RETIREMENT INCOME TRUST
+           - WILMINGTON TRUST, N.A.
+                 : WILMGT TR CIT BRANDES INT EQ FD
+    2020: DAVIS WRIGHT TREMAINE LLP 401(K) PROFIT SHARING PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2A2E2F2G2J2R2S2T3B 4B
+        Participants: 1916
+        Assets: 648383495
+        $/Participant: 338404
+        RecordKeeper: MSCS FIN SERVICES DIV OF BROADRIDGE
+        Available Investments:
+           - AMERIPRISE TRUST COMPANY
+                 : COLUMBIA TR FOCUSED LARGE CAP GRWTH
+           - INVESCO NATIONAL TRUST COMPANY
+                 : INVESCO INTL GROWTH TRUST CLASS I
+           - WELLINGTON TRUST COMPANY
+                 : WELLINGTON CIF II GROWTH S2
+           - WILLMINGTON TRUST RETIREMENT & INSTITUTIONAL TRUST CO.
+                 : GALLIARD RETIREMENT INCOME TRUST
+    2019: DAVIS WRIGHT TREMAINE LLP 401(K) PROFIT SHARING PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2A2E2F2G2J2R2S2T3B 4B
+        Participants: 1903
+        Assets: 581326975
+        $/Participant: 305479
+        RecordKeeper: MSCS FIN SERVICES DIV OF BROADRIDGE
+        Available Investments:
+           - AMERIPRISE TRUST COMPANY
+                 : COLUMBIA TR FOCUSED LARGE CAP GRWTH
+           - INVESCO NATIONAL TRUST COMPANY
+                 : INVESCO INTL GROWTH TRUST CLASS I
+           - WILLMINGTON TRUST RETIREMENT & INSTITUTIONAL TRUST CO.
+                 : GALLIARD RETIREMENT INCOME TRUST
+    2018: DAVIS WRIGHT TREMAINE LLP 401(K) PROFIT SHARING PLAN AND TRUST
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2A2E2F2G2J2R2S2T3B 4B
+        Participants: 1779
+        Assets: 469867598
+        $/Participant: 264118
+        RecordKeeper: MSCS FIN SERVICES DIV OF BROADRIDGE
+        Available Investments:
+           - AMERIPRISE TRUST COMPANY
+                 : COLUMBIA TR FOCUSED LARGE CAP GRWTH
+           - INVESCO NATIONAL TRUST COMPANY
+                 : INVESCO INTL GROWTH TRUST CLASS I
+           - WILLMINGTON TRUST RETIREMENT & INSTITUTIONAL TRUST CO.
+                 : GALLIARD RETIREMENT INCOME TRUST
+    2017: DAVIS WRIGHT TREMAINE LLP 401(K) PROFIT SHARING PLAN AND TRUST
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2A2E2F2G2J2R2S2T3B 4B
+        Participants: 1687
+        Assets: 493216920
+        $/Participant: 292363
+        RecordKeeper: MSCS FS DIV OF BROADRIDGE BPO, LLC
+        Available Investments:
+           - AMERIPRISE TRUST COMPANY
+                 : COLUMBIA TR FOCUSED LARGE CAP GRWTH
+           - INVESCO NATIONAL TRUST COMPANY
+                 : INVESCO INTL GROWTH TRUST CLASS I
+           - WILLMINGTON TRUST RETIREMENT & INSTITUTIONAL TRUST CO.
+                 : GALLIARD RETIREMENT INCOME TRUST
    [002]
     2022: DAVIS WRIGHT TREMAINE LLP CASH BALANCE PENSION PLAN
         Benefit Category: Pension

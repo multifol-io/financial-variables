@@ -2,27 +2,27 @@ MI : AUBURN HILLS
   FCA US LLC  270187394
    [508]
     2022: FCA US LLC MARINE CORP GROUP INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4F
         Participants: 
     2021: FCA US LLC MARINE CORP GROUP INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4F
         Participants: 
     2020: FCA US LLC MARINE CORP GROUP INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4F
         Participants: 
     2019: FCA US LLC MARINE CORP GROUP INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4F
         Participants: 
     2018: FCA US LLC MARINE CORP GROUP INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4F
         Participants: 
     2017: FCA US LLC MARINE CORP GROUP INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4F
         Participants: 
    [565]
@@ -143,6 +143,49 @@ MI : AUBURN HILLS
         Benefit Category: Healthcare
         Codes:  4A4D4E
         Participants: 
+   [564]
+    2022: FCA US LLC GROUP INSURANCE PROGRAM
+        Benefit Category: Life Insurance
+        Codes:  4B4F4H
+        Participants: 
+        Service Providers:
+           - SEDGWICK CLAIMS MANAGEMENT SERVICES :  (Claims processing | Other services | Direct payment from the plan)
+           - MERCER HEALTH & BENEFITS LLC :  (Actuarial | Direct payment from the plan)
+    2021: FCA US LLC GROUP INSURANCE PROGRAM
+        Benefit Category: Life Insurance
+        Codes:  4B4F4H
+        Participants: 
+        Service Providers:
+           - SEDGWICK CLAIMS MANAGEMENT SERVICES :  (Claims processing | Other services | Direct payment from the plan)
+           - MERCER HEALTH & BENEFITS LLC :  (Actuarial | Direct payment from the plan)
+    2020: FCA US LLC GROUP INSURANCE PROGRAM
+        Benefit Category: Life Insurance
+        Codes:  4B4F4H
+        Participants: 
+        Service Providers:
+           - SEDGWICK CLAIMS MANAGEMENT SERVICES :  (Claims processing | Other services | Direct payment from the plan)
+           - MERCER HEALTH & BENEFITS LLC :  (Actuarial | Direct payment from the plan)
+    2019: FCA US LLC GROUP INSURANCE PROGRAM
+        Benefit Category: Life Insurance
+        Codes:  4B4F4H
+        Participants: 
+        Service Providers:
+           - SEDGWICK CLAIMS MANAGEMENT SERVICES :  (Claims processing | Other services | Direct payment from the plan)
+           - MERCER HEALTH & BENEFITS LLC :  (Actuarial | Direct payment from the plan)
+    2018: FCA US LLC GROUP INSURANCE PROGRAM
+        Benefit Category: Life Insurance
+        Codes:  4B4F4H
+        Participants: 
+        Service Providers:
+           - SEDGWICK CLAIMS MANAGEMENT SERVICES :  (Claims processing | Other services | Direct payment from the plan)
+           - MERCER HEALTH & BENEFITS LLC :  (Actuarial | Direct payment from the plan)
+    2017: FCA US LLC GROUP INSURANCE PROGRAM
+        Benefit Category: Life Insurance
+        Codes:  4B4F4H
+        Participants: 
+        Service Providers:
+           - SEDGWICK CLAIMS MANAGEMENT SERVICES :  (Claims processing | Other services | Direct payment from the plan)
+           - MERCER HEALTH & BENEFITS LLC :  (Actuarial | Direct payment from the plan)
    [003]
     2022: FCA US LLC SALARIED EMPLOYEES' SAVINGS PLAN
         Benefit Category: Other
@@ -392,49 +435,6 @@ MI : AUBURN HILLS
         Benefit Category: Other
         Codes:  4Q
         Participants: 
-   [564]
-    2022: FCA US LLC GROUP INSURANCE PROGRAM
-        Benefit Category: Other
-        Codes:  4B4F4H
-        Participants: 
-        Service Providers:
-           - SEDGWICK CLAIMS MANAGEMENT SERVICES :  (Claims processing | Other services | Direct payment from the plan)
-           - MERCER HEALTH & BENEFITS LLC :  (Actuarial | Direct payment from the plan)
-    2021: FCA US LLC GROUP INSURANCE PROGRAM
-        Benefit Category: Other
-        Codes:  4B4F4H
-        Participants: 
-        Service Providers:
-           - SEDGWICK CLAIMS MANAGEMENT SERVICES :  (Claims processing | Other services | Direct payment from the plan)
-           - MERCER HEALTH & BENEFITS LLC :  (Actuarial | Direct payment from the plan)
-    2020: FCA US LLC GROUP INSURANCE PROGRAM
-        Benefit Category: Other
-        Codes:  4B4F4H
-        Participants: 
-        Service Providers:
-           - SEDGWICK CLAIMS MANAGEMENT SERVICES :  (Claims processing | Other services | Direct payment from the plan)
-           - MERCER HEALTH & BENEFITS LLC :  (Actuarial | Direct payment from the plan)
-    2019: FCA US LLC GROUP INSURANCE PROGRAM
-        Benefit Category: Other
-        Codes:  4B4F4H
-        Participants: 
-        Service Providers:
-           - SEDGWICK CLAIMS MANAGEMENT SERVICES :  (Claims processing | Other services | Direct payment from the plan)
-           - MERCER HEALTH & BENEFITS LLC :  (Actuarial | Direct payment from the plan)
-    2018: FCA US LLC GROUP INSURANCE PROGRAM
-        Benefit Category: Other
-        Codes:  4B4F4H
-        Participants: 
-        Service Providers:
-           - SEDGWICK CLAIMS MANAGEMENT SERVICES :  (Claims processing | Other services | Direct payment from the plan)
-           - MERCER HEALTH & BENEFITS LLC :  (Actuarial | Direct payment from the plan)
-    2017: FCA US LLC GROUP INSURANCE PROGRAM
-        Benefit Category: Other
-        Codes:  4B4F4H
-        Participants: 
-        Service Providers:
-           - SEDGWICK CLAIMS MANAGEMENT SERVICES :  (Claims processing | Other services | Direct payment from the plan)
-           - MERCER HEALTH & BENEFITS LLC :  (Actuarial | Direct payment from the plan)
    [569]
     2022: FCA US LLC LIFE SERVICES PROGRAM
         Benefit Category: Other

@@ -65,12 +65,6 @@ IA : PELLA
         Participants: 761
         Assets: 366681303
         $/Participant: 481841
-    2020: PRECISION, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2I2P2Q3I 4B
-        Participants: 838
-        Assets: 354755256
-        $/Participant: 423335
     2019: PRECISION, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
         Benefit Category: Employee Stock Ownership Plan
         Codes: 2E2I2P2Q3I 
@@ -108,11 +102,11 @@ IA : PELLA
         Participants: 
    [541]
     2022: PRECISION, INC. HEALTH & WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4Q
         Participants: 
     2021: PRECISION, INC. HEALTH & WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4Q
         Participants: 
     2020: PRECISION, INC. FLEXIBLE SPENDING ACCOUNT
@@ -131,21 +125,28 @@ IA : PELLA
         Benefit Category: Healthcare
         Codes:  4A
         Participants: 
+   [002]
+    2020: PRECISION, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Life Insurance, Employee Stock Ownership Plan
+        Codes: 2E2I2P2Q3I 4B
+        Participants: 838
+        Assets: 354755256
+        $/Participant: 423335
    [503]
     2020: PRECISION, INC. LIFE AND AD&D INSURANCE PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4E4H4L
         Participants: 
     2019: PRECISION, INC. LIFE AND AD&D INSURANCE PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4E4H4L
         Participants: 
     2018: PRECISION, INC. LIFE AND AD&D INSURANCE PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4E4H4L
         Participants: 
     2017: PRECISION, INC. LIFE AND AD&D INSURANCE PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4E4H4L
         Participants: 
    [515]

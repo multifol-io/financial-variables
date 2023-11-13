@@ -373,6 +373,73 @@ TX : HOUSTON
         Benefit Category: Healthcare
         Codes:  4A
         Participants: 
+   [501]
+    2022: ENBRIDGE EMPLOYEE SERVICES, INC. ANCILLARY BENEFITS PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 539000
+        $/Participant: 
+        Service Providers:
+           - BLACKROCK :  (Investment management)
+        Available Investments:
+           - ENBRIDGE EMPLOYEE SERVICES, INC.
+                 : EESI WELFARE BENEFIT PLANS TRUST
+    2021: ENBRIDGE EMPLOYEE SERVICES, INC. ANCILLARY BENEFITS PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 6800000
+        $/Participant: 
+        Service Providers:
+           - BLACKROCK :  (Investment management)
+        Available Investments:
+           - ENBRIDGE EMPLOYEE SERVICES, INC.
+                 : EESI WELFARE BENEFIT PLANS TRUST
+           - SPECTRA ENERGY CORP
+                 : SPECTRA EMPLOYEE BENEFITS TRUST
+    2020: ENBRIDGE EMPLOYEE SERVICES, INC. ANCILLARY BENEFITS PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 3599000
+        $/Participant: 
+        Available Investments:
+           - ENBRIDGE EMPLOYEE SERVICES, INC.
+                 : EESI WELFARE BENEFIT PLANS TRUST
+           - SPECTRA ENERGY CORP
+                 : SPECTRA EMPLOYEE BENEFITS TRUST
+    2019: ENBRIDGE EMPLOYEE SERVICES, INC. ANCILLARY BENEFITS PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 3342000
+        $/Participant: 
+        Available Investments:
+           - ENBRIDGE EMPLOYEE SERVICES, INC.
+                 : EESI WELFARE BENEFIT PLANS TRUST
+           - SPECTRA ENERGY CORP
+                 : SPECTRA EMPLOYEE BENEFITS TRUST
+    2018: ENBRIDGE EMPLOYEE SERVICES, INC. GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 2594000
+        $/Participant: 
+        Available Investments:
+           - ENBRIDGE EMPLOYEE SERVICES, INC.
+                 : EESI WELFARE BENEFIT PLANS TRUST
+    2017: ENBRIDGE EMPLOYEE SERVICES, INC. GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 3141000
+        $/Participant: 
+        Service Providers:
+           - MCCONNELL & JONES LLP :  (Accounting(including auditing) | Direct payment from the plan)
+        Available Investments:
+           - ENBRIDGE EMPLOYEE SERVICES, INC.
+                 : EESI WELFARE BENEFIT PLANS TRUST
    [003]
     2022: ENBRIDGE EMPLOYEE SERVICES, INC. WELFARE BENEFIT PLANS TRUST
         Benefit Category: Other
@@ -437,73 +504,6 @@ TX : HOUSTON
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A
                  : BGI ACWI EX US SUPERFUND B
                  : BGI EQUITY INDEX FUND B
-   [501]
-    2022: ENBRIDGE EMPLOYEE SERVICES, INC. ANCILLARY BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 539000
-        $/Participant: 
-        Service Providers:
-           - BLACKROCK :  (Investment management)
-        Available Investments:
-           - ENBRIDGE EMPLOYEE SERVICES, INC.
-                 : EESI WELFARE BENEFIT PLANS TRUST
-    2021: ENBRIDGE EMPLOYEE SERVICES, INC. ANCILLARY BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 6800000
-        $/Participant: 
-        Service Providers:
-           - BLACKROCK :  (Investment management)
-        Available Investments:
-           - ENBRIDGE EMPLOYEE SERVICES, INC.
-                 : EESI WELFARE BENEFIT PLANS TRUST
-           - SPECTRA ENERGY CORP
-                 : SPECTRA EMPLOYEE BENEFITS TRUST
-    2020: ENBRIDGE EMPLOYEE SERVICES, INC. ANCILLARY BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 3599000
-        $/Participant: 
-        Available Investments:
-           - ENBRIDGE EMPLOYEE SERVICES, INC.
-                 : EESI WELFARE BENEFIT PLANS TRUST
-           - SPECTRA ENERGY CORP
-                 : SPECTRA EMPLOYEE BENEFITS TRUST
-    2019: ENBRIDGE EMPLOYEE SERVICES, INC. ANCILLARY BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 3342000
-        $/Participant: 
-        Available Investments:
-           - ENBRIDGE EMPLOYEE SERVICES, INC.
-                 : EESI WELFARE BENEFIT PLANS TRUST
-           - SPECTRA ENERGY CORP
-                 : SPECTRA EMPLOYEE BENEFITS TRUST
-    2018: ENBRIDGE EMPLOYEE SERVICES, INC. GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 2594000
-        $/Participant: 
-        Available Investments:
-           - ENBRIDGE EMPLOYEE SERVICES, INC.
-                 : EESI WELFARE BENEFIT PLANS TRUST
-    2017: ENBRIDGE EMPLOYEE SERVICES, INC. GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 3141000
-        $/Participant: 
-        Service Providers:
-           - MCCONNELL & JONES LLP :  (Accounting(including auditing) | Direct payment from the plan)
-        Available Investments:
-           - ENBRIDGE EMPLOYEE SERVICES, INC.
-                 : EESI WELFARE BENEFIT PLANS TRUST
    [503]
     2018: ENBRIDGE EMPLOYEE SERVICES, INC. LONG TERM DISABILITY PLAN
         Benefit Category: Other

@@ -2,7 +2,7 @@ GA : ATLANTA
   EMORY HEALTHCARE INC  582137993
    [501]
     2019: EMORY HEALTHCARE, INC. MASTER WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4F4H4Q
         Participants: 
         Assets: 7694133
@@ -11,7 +11,7 @@ GA : ATLANTA
            - EMORY HEALTHCARE
                  : EHC INC POST RET EMP WELFARE BEN TR
     2018: EMORY HEALTHCARE, INC. MASTER WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4F4H4Q
         Participants: 
         Assets: 6454058
@@ -20,7 +20,7 @@ GA : ATLANTA
            - EMORY HEALTHCARE
                  : EHC INC POST RET EMP WELFARE BEN TR
     2017: EMORY HEALTHCARE, INC. MASTER WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4F4H4Q
         Participants: 
         Assets: 7109979
@@ -28,6 +28,18 @@ GA : ATLANTA
         Available Investments:
            - EMORY HEALTHCARE
                  : EHC INC POST RET EMP WELFARE BEN TR
+    2022: EMORY HEALTHCARE INC MASTER WELFARE BENEFIT
+        Benefit Category: Life Insurance
+        Codes:  4B4F4H4Q
+        Participants: 
+    2021: EMORY HEALTHCARE INC MASTER WELFARE BENEFIT
+        Benefit Category: Life Insurance
+        Codes:  4B4F4H4Q
+        Participants: 
+    2020: EMORY HEALTHCARE INC MASTER WELFARE BENEFIT
+        Benefit Category: Life Insurance
+        Codes:  4B4F4H4Q
+        Participants: 
    [002]
     2022: EMORY HEALTHCARE, INC. RETIREMENT SAVINGS AND MATCHING PLAN
         Benefit Category: Other
@@ -96,19 +108,6 @@ GA : ATLANTA
         Available Investments:
            - TIAA-CREF
                  : CREF
-   [501]
-    2022: EMORY HEALTHCARE INC MASTER WELFARE BENEFIT
-        Benefit Category: Other
-        Codes:  4B4F4H4Q
-        Participants: 
-    2021: EMORY HEALTHCARE INC MASTER WELFARE BENEFIT
-        Benefit Category: Other
-        Codes:  4B4F4H4Q
-        Participants: 
-    2020: EMORY HEALTHCARE INC MASTER WELFARE BENEFIT
-        Benefit Category: Other
-        Codes:  4B4F4H4Q
-        Participants: 
    [001]
     2022: EMORY HEALTHCARE, INC. RETIREMENT PLAN
         Benefit Category: Pension

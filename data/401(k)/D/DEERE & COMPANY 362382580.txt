@@ -2,8 +2,7 @@ IL : MOLINE
   DEERE & COMPANY  362382580
    [003]
     2021: JOHN DEERE SAVINGS AND INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2J3D3H2K2O2G2R 
         Participants: 26358
         Assets: 8208283404
@@ -13,8 +12,7 @@ IL : MOLINE
            - DEERE & COMPANY
                  : JOHN DEERE SAVINGS PLANS MASTER
     2020: JOHN DEERE SAVINGS AND INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2J3D3H2K2O2G2R 
         Participants: 24974
         Assets: 9829073236
@@ -24,8 +22,7 @@ IL : MOLINE
            - DEERE & COMPANY
                  : JOHN DEERE SAVINGS PLANS MASTER
     2019: JOHN DEERE SAVINGS AND INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2J3D3H2K2O2G2R 
         Participants: 25228
         Assets: 7556426549
@@ -35,8 +32,7 @@ IL : MOLINE
            - DEERE & COMPANY
                  : JOHN DEERE SAVINGS PLANS MASTER
     2018: JOHN DEERE SAVINGS AND INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2J3D3H2K2O2G2R 
         Participants: 25754
         Assets: 6942437268
@@ -46,8 +42,7 @@ IL : MOLINE
            - DEERE & COMPANY
                  : JOHN DEERE SAVINGS PLANS MASTER
     2017: JOHN DEERE SAVINGS AND INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2J3D3H2K2O2G2R 
         Participants: 25607
         Assets: 6138868038
@@ -58,8 +53,7 @@ IL : MOLINE
                  : JOHN DEERE SAVINGS PLANS MASTER
    [008]
     2021: JOHN DEERE TAX DEFERRED SAVINGS PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2J3D3H2K2G2O2R 
         Participants: 17250
         Assets: 1282306859
@@ -69,8 +63,7 @@ IL : MOLINE
            - DEERE & CO.
                  : JOHN DEERE SAVINGS PLANS MASTER
     2020: JOHN DEERE TAX DEFERRED SAVINGS PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2J3D3H2K2G2O2R 
         Participants: 15700
         Assets: 1432631137
@@ -80,8 +73,7 @@ IL : MOLINE
            - DEERE & CO.
                  : JOHN DEERE SAVINGS PLANS MASTER
     2019: JOHN DEERE TAX DEFERRED SAVINGS PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2J3D3H2K2G2O2R 
         Participants: 13858
         Assets: 1093254215
@@ -91,8 +83,7 @@ IL : MOLINE
            - DEERE & CO.
                  : JOHN DEERE SAVINGS PLANS MASTER
     2018: JOHN DEERE TAX DEFERRED SAVINGS PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2J3D3H2K2G2O2R 
         Participants: 14136
         Assets: 986077013
@@ -102,8 +93,7 @@ IL : MOLINE
            - DEERE & CO.
                  : JOHN DEERE SAVINGS PLANS MASTER
     2017: JOHN DEERE TAX DEFERRED SAVINGS PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2J3D3H2K2G2O2R 
         Participants: 14294
         Assets: 870726457
@@ -279,6 +269,48 @@ IL : MOLINE
     2017: JOHN DEERE HEALTH BENEFIT PLAN FOR RETIRED SALARY AND RETIRED NON-UNION WAGE EMPLOYEES
         Benefit Category: Healthcare
         Codes:  4A4D
+        Participants: 
+   [503]
+    2021: JOHN DEERE WELFARE PLAN FOR SALARIED EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B4H
+        Participants: 
+    2020: JOHN DEERE WELFARE PLAN FOR SALARIED EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B4H
+        Participants: 
+    2019: JOHN DEERE WELFARE PLAN FOR SALARIED EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B4H
+        Participants: 
+    2018: JOHN DEERE WELFARE PLAN FOR SALARIED EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B4H
+        Participants: 
+    2017: JOHN DEERE WELFARE PLAN FOR SALARIED EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B4H
+        Participants: 
+   [504]
+    2021: JOHN DEERE WELFARE PLAN FOR WAGE EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B4H4C
+        Participants: 
+    2020: JOHN DEERE WELFARE PLAN FOR WAGE EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B4H4C
+        Participants: 
+    2019: JOHN DEERE WELFARE PLAN FOR WAGE EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B4H4C
+        Participants: 
+    2018: JOHN DEERE WELFARE PLAN FOR WAGE EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B4H4C
+        Participants: 
+    2017: JOHN DEERE WELFARE PLAN FOR WAGE EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B4H4C
         Participants: 
    [001]
     2017: JOHN DEERE PENSION PLAN FOR SALARIED EMPLOYEES
@@ -899,48 +931,6 @@ IL : MOLINE
                  : TS&W INTL EQUITY
            - PGIM INC
                  : QMA US SM CP CORE
-   [503]
-    2021: JOHN DEERE WELFARE PLAN FOR SALARIED EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B4H
-        Participants: 
-    2020: JOHN DEERE WELFARE PLAN FOR SALARIED EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B4H
-        Participants: 
-    2019: JOHN DEERE WELFARE PLAN FOR SALARIED EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B4H
-        Participants: 
-    2018: JOHN DEERE WELFARE PLAN FOR SALARIED EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B4H
-        Participants: 
-    2017: JOHN DEERE WELFARE PLAN FOR SALARIED EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B4H
-        Participants: 
-   [504]
-    2021: JOHN DEERE WELFARE PLAN FOR WAGE EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B4H4C
-        Participants: 
-    2020: JOHN DEERE WELFARE PLAN FOR WAGE EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B4H4C
-        Participants: 
-    2019: JOHN DEERE WELFARE PLAN FOR WAGE EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B4H4C
-        Participants: 
-    2018: JOHN DEERE WELFARE PLAN FOR WAGE EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B4H4C
-        Participants: 
-    2017: JOHN DEERE WELFARE PLAN FOR WAGE EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B4H4C
-        Participants: 
    [541]
     2021: JOHN DEERE FLEXIBLE BENEFITS PLAN
         Benefit Category: Other

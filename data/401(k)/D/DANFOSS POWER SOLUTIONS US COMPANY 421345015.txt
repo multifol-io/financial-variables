@@ -1,58 +1,6 @@
 IA : AMES
   DANFOSS POWER SOLUTIONS US COMPANY  421345015
    [003]
-    2022: DANFOSS USA SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 4B
-        Participants: 4456
-        Assets: 425133972
-        $/Participant: 95407
-        RecordKeeper: EMPOWER ADVISORY GROUP, LLC
-        Available Investments:
-           - STATE STREET BANK AND TRUST COMPANY
-                 : SSGA RUSSELL S/M CAP INDEX NL SER C
-           - T. ROWE PRICE
-                 : T. ROWE PRICE RETIRE 2005 TRUST F
-                 : T. ROWE PRICE RETIRE 2010 TRUST F
-                 : T. ROWE PRICE RETIRE 2015 TRUST F
-                 : T. ROWE PRICE RETIRE 2020 TRUST F
-                 : T. ROWE PRICE RETIRE 2025 TRUST F
-                 : T. ROWE PRICE RETIRE 2030 TRUST F
-                 : T. ROWE PRICE RETIRE 2035 TRUST F
-                 : T. ROWE PRICE RETIRE 2040 TRUST F
-                 : T. ROWE PRICE RETIRE 2045 TRUST F
-                 : T. ROWE PRICE RETIRE 2050 TRUST F
-                 : T. ROWE PRICE RETIRE 2055 TRUST F
-                 : T. ROWE PRICE RETIRE 2060 TRUST F
-                 : T. ROWE PRICE RETIRE 2065 TRUST F
-                 : T. ROWE PRICE RETIRE BAL TRUST FTRP
-                 : T. ROWE PRICE STABLE VALUE COMMON T
-    2021: DANFOSS USA SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 4B
-        Participants: 4259
-        Assets: 518498392
-        $/Participant: 121741
-        RecordKeeper: ADVISED ASSETS GROUP, LLC
-        Available Investments:
-           - STATE STREET BANK AND TRUST COMPANY
-                 : SSGA RUSSELL S/M CAP INDEX NL SER C
-           - T. ROWE PRICE
-                 : T. ROWE PRICE RETIRE 2005 TRUST F
-                 : T. ROWE PRICE RETIRE 2010 TRUST F
-                 : T. ROWE PRICE RETIRE 2015 TRUST F
-                 : T. ROWE PRICE RETIRE 2020 TRUST F
-                 : T. ROWE PRICE RETIRE 2025 TRUST F
-                 : T. ROWE PRICE RETIRE 2030 TRUST F
-                 : T. ROWE PRICE RETIRE 2035 TRUST F
-                 : T. ROWE PRICE RETIRE 2040 TRUST F
-                 : T. ROWE PRICE RETIRE 2045 TRUST F
-                 : T. ROWE PRICE RETIRE 2050 TRUST F
-                 : T. ROWE PRICE RETIRE 2055 TRUST F
-                 : T. ROWE PRICE RETIRE 2060 TRUST F
-                 : T. ROWE PRICE RETIRE 2065 TRUST F
-                 : T. ROWE PRICE RETIRE BAL TRUST FTRP
-                 : T. ROWE PRICE STAB VAL COM TRST ATR
     2020: DANFOSS USA SAVINGS PLAN
         Benefit Category: 401(k)
         Codes: 2E2F2G2J2K2S2T 
@@ -258,34 +206,82 @@ IA : AMES
         Participants: 
    [520]
     2022: DANFOSS US HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4H4I4L
         Participants: 
     2021: DANFOSS US HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4H4I4L
         Participants: 
     2020: DANFOSS US HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4H4I4L
         Participants: 
     2019: DANFOSS US HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4H4I4L
         Participants: 
     2018: DANFOSS US HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4H4I4L
         Participants: 
     2017: DANFOSS US HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4L
         Participants: 
+   [003]
+    2022: DANFOSS USA SAVINGS PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2F2G2J2K2S2T 4B
+        Participants: 4456
+        Assets: 425133972
+        $/Participant: 95407
+        RecordKeeper: EMPOWER ADVISORY GROUP, LLC
+        Available Investments:
+           - STATE STREET BANK AND TRUST COMPANY
+                 : SSGA RUSSELL S/M CAP INDEX NL SER C
+           - T. ROWE PRICE
+                 : T. ROWE PRICE RETIRE 2005 TRUST F
+                 : T. ROWE PRICE RETIRE 2010 TRUST F
+                 : T. ROWE PRICE RETIRE 2015 TRUST F
+                 : T. ROWE PRICE RETIRE 2020 TRUST F
+                 : T. ROWE PRICE RETIRE 2025 TRUST F
+                 : T. ROWE PRICE RETIRE 2030 TRUST F
+                 : T. ROWE PRICE RETIRE 2035 TRUST F
+                 : T. ROWE PRICE RETIRE 2040 TRUST F
+                 : T. ROWE PRICE RETIRE 2045 TRUST F
+                 : T. ROWE PRICE RETIRE 2050 TRUST F
+                 : T. ROWE PRICE RETIRE 2055 TRUST F
+                 : T. ROWE PRICE RETIRE 2060 TRUST F
+                 : T. ROWE PRICE RETIRE 2065 TRUST F
+                 : T. ROWE PRICE RETIRE BAL TRUST FTRP
+                 : T. ROWE PRICE STABLE VALUE COMMON T
+    2021: DANFOSS USA SAVINGS PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2F2G2J2K2S2T 4B
+        Participants: 4259
+        Assets: 518498392
+        $/Participant: 121741
+        RecordKeeper: ADVISED ASSETS GROUP, LLC
+        Available Investments:
+           - STATE STREET BANK AND TRUST COMPANY
+                 : SSGA RUSSELL S/M CAP INDEX NL SER C
+           - T. ROWE PRICE
+                 : T. ROWE PRICE RETIRE 2005 TRUST F
+                 : T. ROWE PRICE RETIRE 2010 TRUST F
+                 : T. ROWE PRICE RETIRE 2015 TRUST F
+                 : T. ROWE PRICE RETIRE 2020 TRUST F
+                 : T. ROWE PRICE RETIRE 2025 TRUST F
+                 : T. ROWE PRICE RETIRE 2030 TRUST F
+                 : T. ROWE PRICE RETIRE 2035 TRUST F
+                 : T. ROWE PRICE RETIRE 2040 TRUST F
+                 : T. ROWE PRICE RETIRE 2045 TRUST F
+                 : T. ROWE PRICE RETIRE 2050 TRUST F
+                 : T. ROWE PRICE RETIRE 2055 TRUST F
+                 : T. ROWE PRICE RETIRE 2060 TRUST F
+                 : T. ROWE PRICE RETIRE 2065 TRUST F
+                 : T. ROWE PRICE RETIRE BAL TRUST FTRP
+                 : T. ROWE PRICE STAB VAL COM TRST ATR
    [001]
     2022: DANFOSS POWER SOLUTIONS EMPLOYEES' RETIREMENT PLAN
         Benefit Category: Pension

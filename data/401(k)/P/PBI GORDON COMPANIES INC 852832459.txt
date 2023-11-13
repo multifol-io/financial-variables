@@ -43,8 +43,35 @@ KS : SHAWNEE
                  : PRINCIPAL U.S. PROPERTY SA-Z
            - RELIANCE TRUST COMPANY
                  : METLIFE SV FD SER 25053 CL 0
+   [002]
+    2021: PBI-GORDON COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 567
+        Assets: 341048542
+        $/Participant: 601496
+    2020: PBI-GORDON COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3H3I 
+        Participants: 537
+        Assets: 320290487
+        $/Participant: 596444
+   [507]
+    2022: PBI-GORDON COMPANIES, INC EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare, Life Insurance
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: PBI-GORDON CORPORATION EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare, Life Insurance
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: PBI-GORDON CORPORATION EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare, Life Insurance
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+   [001]
     2021: PBI-GORDON COMPANIES, INC. 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
+        Benefit Category: Life Insurance, 401(k)
         Codes: 2E2F2G2J2K2S2T3H 4B
         Participants: 540
         Assets: 28748749
@@ -88,7 +115,7 @@ KS : SHAWNEE
            - RELIANCE TRUST COMPANY
                  : METLIFE SV FD SER 25053 CL 0
     2020: PBI-GORDON COMPANIES, INC. 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
+        Benefit Category: Life Insurance, 401(k)
         Codes: 2E2F2G2J2K2S2T3H 4B
         Participants: 495
         Assets: 24911166
@@ -131,29 +158,3 @@ KS : SHAWNEE
                  : PRINCIPAL U.S. PROPERTY SA-Z
            - RELIANCE TRUST COMPANY
                  : METLIFE SV FD SER 25053 CL 0
-   [002]
-    2021: PBI-GORDON COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3I 
-        Participants: 567
-        Assets: 341048542
-        $/Participant: 601496
-    2020: PBI-GORDON COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H3I 
-        Participants: 537
-        Assets: 320290487
-        $/Participant: 596444
-   [507]
-    2022: PBI-GORDON COMPANIES, INC EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A4B4D4E4F4H4L4Q
-        Participants: 
-    2021: PBI-GORDON CORPORATION EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A4B4D4E4F4H4L4Q
-        Participants: 
-    2020: PBI-GORDON CORPORATION EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A4B4D4E4F4H
-        Participants: 

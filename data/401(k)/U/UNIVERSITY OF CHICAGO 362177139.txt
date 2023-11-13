@@ -2,7 +2,7 @@ IL : CHICAGO
   UNIVERSITY OF CHICAGO  362177139
    [510]
     2022: THE UNIVERSITY OF CHICAGO HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 102221666
@@ -10,7 +10,7 @@ IL : CHICAGO
         Service Providers:
            - THE NORTHERN TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan | Float revenue | Other fees)
     2021: THE UNIVERSITY OF CHICAGO HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 119003728
@@ -19,7 +19,7 @@ IL : CHICAGO
            - BLACKROCK CORP : INVESTMENT MANAGER (Investment management | Direct payment from the plan)
            - THE NORTHERN TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan | Float revenue | Other fees)
     2020: THE UNIVERSITY OF CHICAGO HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 106262949
@@ -31,7 +31,7 @@ IL : CHICAGO
            - VANGUARD
                  : VANGUARD
     2019: THE UNIVERSITY OF CHICAGO HEALTH CARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 90895418
@@ -65,6 +65,31 @@ IL : CHICAGO
            - WILLIS TOWERS WATSON : ACTUARY (Actuarial | Direct payment from the plan)
            - HEWITT ASSOCIATES LL : CONSULTANT (Consulting(general) | Direct payment from the plan)
            - THOMSON REUTERS : CONSULTING (Consulting(general) | Direct payment from the plan)
+   [508]
+    2022: THE UNIVERSITY OF CHICAGO GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2021: THE UNIVERSITY OF CHICAGO GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2020: THE UNIVERSITY OF CHICAGO GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2019: THE UNIVERSITY OF CHICAGO GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2018: THE UNIVERSITY OF CHICAGO GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2017: THE UNIVERSITY OF CHICAGO GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
    [001]
     2022: THE UNIVERSITY OF CHICAGO CONTRIBUTORY RETIREMENT PLAN
         Benefit Category: Other
@@ -189,31 +214,6 @@ IL : CHICAGO
         Available Investments:
            - TIAA-CREF
                  : TIAA REAL ESTATE
-   [508]
-    2022: THE UNIVERSITY OF CHICAGO GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2021: THE UNIVERSITY OF CHICAGO GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2020: THE UNIVERSITY OF CHICAGO GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2019: THE UNIVERSITY OF CHICAGO GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2018: THE UNIVERSITY OF CHICAGO GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2017: THE UNIVERSITY OF CHICAGO GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
    [509]
     2022: THE UNIVERSITY OF CHICAGO LONG TERM DISABILITY PLAN
         Benefit Category: Other

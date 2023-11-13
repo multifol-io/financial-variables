@@ -2,8 +2,7 @@ OH : COLUMBUS
   AMERICAN ELECTRIC POWER SERVICE CORPORATION  134922641
    [002]
     2022: AEP RETIREMENT SAVINGS 401(K) PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2F2G2J2K2O2R2S2T3F3H2E 
         Participants: 22253
         Assets: 4673367549
@@ -26,8 +25,7 @@ OH : COLUMBUS
                  : STOCK INDEX FUND
                  : TREASURY INFLATION-PROTECTED SECUR
     2021: AEP RETIREMENT SAVINGS 401(K) PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2F2G2J2K2O2R2S2T3F3H2E 
         Participants: 21792
         Assets: 5775515526
@@ -52,8 +50,7 @@ OH : COLUMBUS
                  : STOCK INDEX FUND
                  : TREASURY INFLATION-PROTECTED SECUR
     2020: AEP RETIREMENT SAVINGS 401(K) PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2F2G2J2K2O2R2S2T3F3H2E 
         Participants: 21968
         Assets: 5423127569
@@ -78,8 +75,7 @@ OH : COLUMBUS
                  : STOCK INDEX FUND
                  : TREASURY INFLATION-PROTECTED SECUR
     2019: AEP RETIREMENT SAVINGS 401(K) PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2F2G2J2K2O2R2S2T3F3H2E 
         Participants: 22490
         Assets: 4979177291
@@ -104,8 +100,7 @@ OH : COLUMBUS
                  : STOCK INDEX FUND
                  : TREASURY INFLATION-PROTECTED SECUR
     2018: AMERICAN ELECTRIC POWER SYSTEM RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2F2G2J2K2O2R2S2T3F3H2E 
         Participants: 22459
         Assets: 4292212845
@@ -127,8 +122,7 @@ OH : COLUMBUS
                  : STOCK INDEX FUND
                  : TREASURY INFLATION-PROTECTED SECUR
     2017: AMERICAN ELECTRIC POWER SYSTEM RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2F2G2J2K2O2R2S2T3F3H2E 
         Participants: 22461
         Assets: 4683375321
@@ -220,6 +214,71 @@ OH : COLUMBUS
         Benefit Category: Healthcare
         Codes:  4A4D4E
         Participants: 
+   [504]
+    2022: AMERICAN ELECTRIC POWER SYSTEM LIFE & ACCIDENT INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L4Q
+        Participants: 31520
+        Assets: 76707497
+        $/Participant: 2433
+        RecordKeeper: BUSINESSSOLVER
+        Available Investments:
+           - AMERICAN ELECTRIC POWER SERVICE CORPORATION
+                 : AEP SYSTEM EMPLOYEES BENEFIT TRUST
+    2021: AMERICAN ELECTRIC POWER SYSTEM LIFE & ACCIDENT INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L4Q
+        Participants: 31175
+        Assets: 112445651
+        $/Participant: 3606
+        RecordKeeper: WILLIS TOWERS WATSON ACTUARIAL SERV
+        Available Investments:
+           - AMERICAN ELECTRIC POWER SERVICE CORPORATION
+                 : AEP SYSTEM EMPLOYEES BENEFIT TRUST
+    2020: AMERICAN ELECTRIC POWER SYSTEM LIFE & ACCIDENT INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L4Q
+        Participants: 31324
+        Assets: 109877097
+        $/Participant: 3507
+        RecordKeeper: WILLIS TOWERS WATSON ACTUARIAL SERV
+        Available Investments:
+           - AMERICAN ELECTRIC POWER SERVICE CORPORATION
+                 : AEP SYSTEM EMPLOYEES BENEFIT TRUST
+    2019: AMERICAN ELECTRIC POWER SYSTEM LIFE & ACCIDENT INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L4Q
+        Participants: 31566
+        Assets: 110744739
+        $/Participant: 3508
+        RecordKeeper: BANK OF NEW YORK MELLON
+        Available Investments:
+           - AMERICAN ELECTRIC POWER SYSTEM
+                 : AEP SYSTEM EMPLOYEES BENEFIT TRUST
+    2018: AMERICAN ELECTRIC POWER SYSTEM LIFE & ACCIDENT INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L4Q
+        Participants: 
+        Assets: 100998295
+        $/Participant: 
+        RecordKeeper: PARMS & COMPANY
+        Available Investments:
+           - AMERICAN ELECTRIC POWER SYSTEM
+                 : AEP SYSTEM EMPLOYEES' BENEFIT TRUST
+           - VONTOBEL ASSET MANAGEMENT INC.
+                 : VONTOBEL INDIA FUND
+    2017: AMERICAN ELECTRIC POWER SYSTEM LIFE & ACCIDENT INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L4Q
+        Participants: 
+        Assets: 123485713
+        $/Participant: 
+        RecordKeeper: TOWERS WATSON INVESTMENT SERVICES
+        Available Investments:
+           - AMERICAN ELECTRIC POWER SERVICE CORPORATION
+                 : AEP SYSTEM EMPLOYEES' BENEFIT TRUST
+           - VONTOBEL ASSET MANAGEMENT INC.
+                 : VONTOBEL INDIA FUND
    [502]
     2020: AMERICAN ELECTRIC POWER SYSTEM LONG-TERM DISABILITY PLAN
         Benefit Category: Other
@@ -269,71 +328,6 @@ OH : COLUMBUS
         Available Investments:
            - AMERICAN ELECTRIC POWER SERVICE CORPORATION
                  : AEP SYSTEM EMPLOYEES' BENEFIT TRUST
-   [504]
-    2022: AMERICAN ELECTRIC POWER SYSTEM LIFE & ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L4Q
-        Participants: 31520
-        Assets: 76707497
-        $/Participant: 2433
-        RecordKeeper: BUSINESSSOLVER
-        Available Investments:
-           - AMERICAN ELECTRIC POWER SERVICE CORPORATION
-                 : AEP SYSTEM EMPLOYEES BENEFIT TRUST
-    2021: AMERICAN ELECTRIC POWER SYSTEM LIFE & ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L4Q
-        Participants: 31175
-        Assets: 112445651
-        $/Participant: 3606
-        RecordKeeper: WILLIS TOWERS WATSON ACTUARIAL SERV
-        Available Investments:
-           - AMERICAN ELECTRIC POWER SERVICE CORPORATION
-                 : AEP SYSTEM EMPLOYEES BENEFIT TRUST
-    2020: AMERICAN ELECTRIC POWER SYSTEM LIFE & ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L4Q
-        Participants: 31324
-        Assets: 109877097
-        $/Participant: 3507
-        RecordKeeper: WILLIS TOWERS WATSON ACTUARIAL SERV
-        Available Investments:
-           - AMERICAN ELECTRIC POWER SERVICE CORPORATION
-                 : AEP SYSTEM EMPLOYEES BENEFIT TRUST
-    2019: AMERICAN ELECTRIC POWER SYSTEM LIFE & ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L4Q
-        Participants: 31566
-        Assets: 110744739
-        $/Participant: 3508
-        RecordKeeper: BANK OF NEW YORK MELLON
-        Available Investments:
-           - AMERICAN ELECTRIC POWER SYSTEM
-                 : AEP SYSTEM EMPLOYEES BENEFIT TRUST
-    2018: AMERICAN ELECTRIC POWER SYSTEM LIFE & ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L4Q
-        Participants: 
-        Assets: 100998295
-        $/Participant: 
-        RecordKeeper: PARMS & COMPANY
-        Available Investments:
-           - AMERICAN ELECTRIC POWER SYSTEM
-                 : AEP SYSTEM EMPLOYEES' BENEFIT TRUST
-           - VONTOBEL ASSET MANAGEMENT INC.
-                 : VONTOBEL INDIA FUND
-    2017: AMERICAN ELECTRIC POWER SYSTEM LIFE & ACCIDENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L4Q
-        Participants: 
-        Assets: 123485713
-        $/Participant: 
-        RecordKeeper: TOWERS WATSON INVESTMENT SERVICES
-        Available Investments:
-           - AMERICAN ELECTRIC POWER SERVICE CORPORATION
-                 : AEP SYSTEM EMPLOYEES' BENEFIT TRUST
-           - VONTOBEL ASSET MANAGEMENT INC.
-                 : VONTOBEL INDIA FUND
    [506]
     2022: AMERICAN ELECTRIC POWER LONG TERM CARE INSURANCE PLAN
         Benefit Category: Other

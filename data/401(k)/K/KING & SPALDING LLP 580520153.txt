@@ -1,69 +1,7 @@
 GA : ATLANTA
   KING & SPALDING LLP  580520153
-   [001]
-    2022: KING & SPALDING LLP PROFIT SHARING - 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2R2S2T3B3F 4B
-        Participants: 3085
-        Assets: 899771919
-        $/Participant: 291660
-        RecordKeeper: MCADAM LLC
-        Available Investments:
-           - WILMINGTON TRUST, N.A.
-                 : WILMGTTR CIT II GALLIARD RET INC FD
-    2021: KING & SPALDING LLP PROFIT SHARING - 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2R2S2T3B3F 4B
-        Participants: 2912
-        Assets: 1086473655
-        $/Participant: 373102
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-        Available Investments:
-           - WILMINGTON TRUST, N.A.
-                 : WILMGTTR CIT II GALLIARD RET INC FD
-    2020: KING & SPALDING LLP PROFIT SHARING - 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2R2S2T3B3F 4B
-        Participants: 2749
-        Assets: 925409665
-        $/Participant: 336635
-        RecordKeeper: SPENCE ASSET MANAGEMENT
-        Available Investments:
-           - WILMINGTON TRUST, N.A.
-                 : WILMGTTR CIT II GALLIARD RET INC FD
-    2019: KING & SPALDING LLP PROFIT SHARING - 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2R2S2T3B3F 4B
-        Participants: 2697
-        Assets: 790430043
-        $/Participant: 293077
-        RecordKeeper: SPENCE ASSET MANAGEMENT
-        Available Investments:
-           - WILMINGTON TRUST, N.A.
-                 : WILMGTTR CIT II GALLIARD RET INC FD
-    2018: KING & SPALDING LLP PROFIT SHARING - 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2R2S2T3B3F 4B
-        Participants: 2624
-        Assets: 631717370
-        $/Participant: 240745
-        RecordKeeper: CHARLES SCHWAB BANK
-        Available Investments:
-           - WILMINGTON TRUST RETIREMENT
-                 : GALLIARD RET INCOME FD CL 35
-    2017: KING & SPALDING LLP PROFIT SHARING - 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2R2S2T3B3F 4B
-        Participants: 2522
-        Assets: 675336580
-        $/Participant: 267778
-        RecordKeeper: CHARLES SCHWAB BANK
-        Available Investments:
-           - WILMINGTON TRUST RETIREMENT
-                 : GALLIARD RET INCOME FD CL 35
-   [502]
     2022: KING & SPALDING LLP GROUP LIFE & HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4Q
         Participants: 
         Service Providers:
@@ -71,7 +9,7 @@ GA : ATLANTA
            - WEST HEALTH ADVOCATE SOLUTIONS : CONSULTING (Claims processing | Other services)
            - EXPRESS SCRIPTS : PBM (Claims processing)
     2021: KING & SPALDING LLP GROUP LIFE & HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4Q
         Participants: 
         Service Providers:
@@ -79,7 +17,7 @@ GA : ATLANTA
            - EXPRESS SCRIPTS : PBM (Claims processing)
            - WEST HEALTH ADVOCATE SOLUTIONS : CONSULTING (Claims processing | Other services)
     2020: KING & SPALDING LLP GROUP LIFE & HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4Q
         Participants: 
         Service Providers:
@@ -87,7 +25,7 @@ GA : ATLANTA
            - EXPRESS SCRIPTS : PBM (Claims processing)
            - WEST HEALTH ADVOCATE SOLUTIONS : CONSULTING (Claims processing | Other services)
     2019: KING & SPALDING LLP GROUP LIFE & HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4Q
         Participants: 
         Service Providers:
@@ -95,14 +33,14 @@ GA : ATLANTA
            - WEST HEALTH ADVOCATE SOLUTIONS : CONSULTING (Claims processing | Other services)
            - EXPRESS SCRIPTS : PBM (Claims processing)
     2018: KING & SPALDING LLP GROUP LIFE & HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4Q
         Participants: 
         Service Providers:
            - CIGNA HEALTH AND LIFE INSURANCE COM : TPA (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
            - EXPRESS SCRIPTS, INC. : TPA (Claims processing)
     2017: KING & SPALDING LLP GROUP LIFE & HEALTH PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D
         Participants: 
         Service Providers:
@@ -112,6 +50,67 @@ GA : ATLANTA
         Benefit Category: Healthcare
         Codes:  4A4D4E
         Participants: 
+   [001]
+    2022: KING & SPALDING LLP PROFIT SHARING - 401(K) PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2F2G2J2R2S2T3B3F 4B
+        Participants: 3085
+        Assets: 899771919
+        $/Participant: 291660
+        RecordKeeper: MCADAM LLC
+        Available Investments:
+           - WILMINGTON TRUST, N.A.
+                 : WILMGTTR CIT II GALLIARD RET INC FD
+    2021: KING & SPALDING LLP PROFIT SHARING - 401(K) PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2F2G2J2R2S2T3B3F 4B
+        Participants: 2912
+        Assets: 1086473655
+        $/Participant: 373102
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+        Available Investments:
+           - WILMINGTON TRUST, N.A.
+                 : WILMGTTR CIT II GALLIARD RET INC FD
+    2020: KING & SPALDING LLP PROFIT SHARING - 401(K) PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2F2G2J2R2S2T3B3F 4B
+        Participants: 2749
+        Assets: 925409665
+        $/Participant: 336635
+        RecordKeeper: SPENCE ASSET MANAGEMENT
+        Available Investments:
+           - WILMINGTON TRUST, N.A.
+                 : WILMGTTR CIT II GALLIARD RET INC FD
+    2019: KING & SPALDING LLP PROFIT SHARING - 401(K) PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2F2G2J2R2S2T3B3F 4B
+        Participants: 2697
+        Assets: 790430043
+        $/Participant: 293077
+        RecordKeeper: SPENCE ASSET MANAGEMENT
+        Available Investments:
+           - WILMINGTON TRUST, N.A.
+                 : WILMGTTR CIT II GALLIARD RET INC FD
+    2018: KING & SPALDING LLP PROFIT SHARING - 401(K) PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2F2G2J2R2S2T3B3F 4B
+        Participants: 2624
+        Assets: 631717370
+        $/Participant: 240745
+        RecordKeeper: CHARLES SCHWAB BANK
+        Available Investments:
+           - WILMINGTON TRUST RETIREMENT
+                 : GALLIARD RET INCOME FD CL 35
+    2017: KING & SPALDING LLP PROFIT SHARING - 401(K) PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2F2G2J2R2S2T3B3F 4B
+        Participants: 2522
+        Assets: 675336580
+        $/Participant: 267778
+        RecordKeeper: CHARLES SCHWAB BANK
+        Available Investments:
+           - WILMINGTON TRUST RETIREMENT
+                 : GALLIARD RET INCOME FD CL 35
    [501]
     2022: KING & SPALDING LONG TERM DISABILITY PLAN
         Benefit Category: Other

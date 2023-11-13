@@ -158,36 +158,36 @@ TX : HOUSTON
                  : FIDELITY GROWTH COMMINGLED POOL
    [502]
     2022: MARATHON OIL COMPANY RETIREE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4Q
         Participants: 
     2021: MARATHON OIL COMPANY RETIREE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4Q
         Participants: 
     2020: MARATHON OIL COMPANY RETIREE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4Q
         Participants: 
     2019: MARATHON OIL COMPANY RETIREE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H
         Participants: 
    [504]
     2022: MARATHON OIL COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2021: MARATHON OIL COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2020: MARATHON OIL COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2019: MARATHON OIL COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2018: HEALTH PLAN OF MARATHON OIL COMPANY
@@ -220,6 +220,24 @@ TX : HOUSTON
         Participants: 
         Service Providers:
            - WILLIS TOWERS WATSON :  (Claims processing | Contract Administrator)
+   [502]
+    2018: LEVEL PREMIUM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2017: LEVEL PREMIUM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+   [524]
+    2018: LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2017: LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
    [501]
     2018: ACCIDENTAL DEATH & DISMEMBERMENT PLAN OF MARATHON OIL COMPANY
         Benefit Category: Other
@@ -228,15 +246,6 @@ TX : HOUSTON
     2017: ACCIDENTAL DEATH & DISMEMBERMENT PLAN OF MARATHON OIL COMPANY
         Benefit Category: Other
         Codes:  4L4Q
-        Participants: 
-   [502]
-    2018: LEVEL PREMIUM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2017: LEVEL PREMIUM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
         Participants: 
    [503]
     2018: THE LONG TERM DISABILITY PLAN OF MARATHON OIL COMPANY
@@ -272,15 +281,6 @@ TX : HOUSTON
     2017: OCCUPATIONAL ACCIDENTAL DEATH BENEFIT PLAN OF MARATHON OIL COMPANY
         Benefit Category: Other
         Codes:  4L
-        Participants: 
-   [524]
-    2018: LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2017: LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
         Participants: 
    [530]
     2018: VISION ASSISTANCE PLAN

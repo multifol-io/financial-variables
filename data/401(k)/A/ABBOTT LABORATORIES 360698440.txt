@@ -2,8 +2,7 @@ IL : ABBOTT PARK
   ABBOTT LABORATORIES  360698440
    [334]
     2022: ABBOTT LABORATORIES STOCK RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2G2J2K2O2T3F3H 
         Participants: 59076
         Assets: 13333286000
@@ -38,8 +37,7 @@ IL : ABBOTT PARK
                  : SSGA TARGET RTMT INCOME NL SF M
                  : SSGA US BOND INDEX NL SF K
     2021: ABBOTT LABORATORIES STOCK RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2G2J2K2O2T3F3H 
         Participants: 55929
         Assets: 15685813000
@@ -75,8 +73,7 @@ IL : ABBOTT PARK
                  : SSGA TARGET RTMT INCOME NL SF M
                  : SSGA US BOND INDEX NL SF K
     2020: ABBOTT LABORATORIES STOCK RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2G2J2K2O2T3F3H 
         Participants: 52762
         Assets: 13210569000
@@ -114,8 +111,7 @@ IL : ABBOTT PARK
                  : SSGA TARGET RTMT INCOME NL SF M
                  : SSGA US BOND INDEX NL SF K
     2019: ABBOTT LABORATORIES STOCK RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2G2J2K2O2T3F3H 
         Participants: 50051
         Assets: 11353754000
@@ -152,8 +148,7 @@ IL : ABBOTT PARK
                  : SSGA TARGET RTMT INCOME NL SF M
                  : SSGA US BOND INDEX NL SF K
     2018: ABBOTT LABORATORIES STOCK RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2G2J2K2O2T3F3H 
         Participants: 48247
         Assets: 10155827000
@@ -185,8 +180,7 @@ IL : ABBOTT PARK
                  : SSGA TARGET RTMT INCOME NL SF M
                  : SSGA US BOND INDEX NL SF K
     2017: ABBOTT LABORATORIES STOCK RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2G2J2K2O2T3F3H 
         Participants: 32170
         Assets: 7963645000
@@ -296,6 +290,74 @@ IL : ABBOTT PARK
         Benefit Category: Healthcare
         Codes:  4A4Q
         Participants: 
+   [551]
+    2022: ABBOTT LABORATORIES LIFE ACCIDENT PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+    2021: ABBOTT LABORATORIES LIFE ACCIDENT PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+    2020: ABBOTT LABORATORIES LIFE ACCIDENT PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+        Assets: 1575
+        $/Participant: 
+        Service Providers:
+           - NORTHERN TRUST CORPORATION :  (Custodial(other than securities) | Direct payment from the plan)
+    2019: ABBOTT LABORATORIES LIFE ACCIDENT PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+        Assets: 385808
+        $/Participant: 
+        Service Providers:
+           - NORTHERN TRUST CORPORATION :  (Custodial(other than securities) | Direct payment from the plan)
+    2018: ABBOTT LABORATORIES LIFE ACCIDENT PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+        Assets: 2115648
+        $/Participant: 
+        Service Providers:
+           - NORTHERN TRUST CORPORATION :  (Custodial(other than securities) | Direct payment from the plan)
+    2017: ABBOTT LABORATORIES LIFE ACCIDENT PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+        Assets: 8849336
+        $/Participant: 
+        Service Providers:
+           - NORTHERN TRUST CORPORATION :  (Custodial(other than securities) | Direct payment from the plan)
+   [573]
+    2022: ABBOTT LABORATORIES RETIREE LIFE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2021: ABBOTT LABORATORIES RETIREE LIFE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2020: ABBOTT LABORATORIES RETIREE LIFE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2019: ABBOTT LABORATORIES RETIREE LIFE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2018: ABBOTT LABORATORIES RETIREE LIFE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2017: ABBOTT LABORATORIES RETIREE LIFE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+        Service Providers:
+           - SECURIAN FINANCIAL GROUP INC :  (Claims processing | Contract Administrator | Direct payment from the plan)
    [337]
     2022: ABBOTT LABORATORIES ANNUITY RETIREMENT TRUST
         Benefit Category: Other
@@ -519,74 +581,6 @@ IL : ABBOTT PARK
         Benefit Category: Other
         Codes:  4Q
         Participants: 
-   [551]
-    2022: ABBOTT LABORATORIES LIFE ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-    2021: ABBOTT LABORATORIES LIFE ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-    2020: ABBOTT LABORATORIES LIFE ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-        Assets: 1575
-        $/Participant: 
-        Service Providers:
-           - NORTHERN TRUST CORPORATION :  (Custodial(other than securities) | Direct payment from the plan)
-    2019: ABBOTT LABORATORIES LIFE ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-        Assets: 385808
-        $/Participant: 
-        Service Providers:
-           - NORTHERN TRUST CORPORATION :  (Custodial(other than securities) | Direct payment from the plan)
-    2018: ABBOTT LABORATORIES LIFE ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-        Assets: 2115648
-        $/Participant: 
-        Service Providers:
-           - NORTHERN TRUST CORPORATION :  (Custodial(other than securities) | Direct payment from the plan)
-    2017: ABBOTT LABORATORIES LIFE ACCIDENT PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-        Assets: 8849336
-        $/Participant: 
-        Service Providers:
-           - NORTHERN TRUST CORPORATION :  (Custodial(other than securities) | Direct payment from the plan)
-   [573]
-    2022: ABBOTT LABORATORIES RETIREE LIFE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2021: ABBOTT LABORATORIES RETIREE LIFE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2020: ABBOTT LABORATORIES RETIREE LIFE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2019: ABBOTT LABORATORIES RETIREE LIFE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2018: ABBOTT LABORATORIES RETIREE LIFE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2017: ABBOTT LABORATORIES RETIREE LIFE PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-        Service Providers:
-           - SECURIAN FINANCIAL GROUP INC :  (Claims processing | Contract Administrator | Direct payment from the plan)
    [300]
     2022: ABBOTT - ABBVIE MULTIPLE EMPLOYER PENSION PLAN
         Benefit Category: Pension

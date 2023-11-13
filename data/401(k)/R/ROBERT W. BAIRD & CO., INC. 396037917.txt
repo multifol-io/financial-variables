@@ -86,11 +86,11 @@ WI : MILWAUKEE
            - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
    [510]
     2022: ROBERT W. BAIRD & CO., INC. HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
     2021: ROBERT W. BAIRD & CO., INC. HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
         Service Providers:
@@ -99,7 +99,7 @@ WI : MILWAUKEE
            - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
            - HEALTH ADVOCATE SOLUTIONS, INC. :  (Claims processing)
     2020: ROBERT W. BAIRD & CO., INC. HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
         Service Providers:
@@ -108,11 +108,24 @@ WI : MILWAUKEE
            - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
    [501]
     2018: ROBERT W. BAIRD & CO., INC. LIFE INSURANCE PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B
         Participants: 
     2017: ROBERT W. BAIRD & CO., INC. LIFE INSURANCE PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+   [507]
+    2019: BAIRD GROUP VARIABLE UNIVERSAL LIFE PROGRAM PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2018: BAIRD GROUP VARIABLE UNIVERSAL LIFE PROGRAM PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2017: BAIRD GROUP VARIABLE UNIVERSAL LIFE PROGRAM PLAN
+        Benefit Category: Life Insurance
         Codes:  4B
         Participants: 
    [502]
@@ -162,19 +175,6 @@ WI : MILWAUKEE
     2017: BAIRD LONG TERM CARE COVERAGE PLAN
         Benefit Category: Other
         Codes:  4Q
-        Participants: 
-   [507]
-    2019: BAIRD GROUP VARIABLE UNIVERSAL LIFE PROGRAM PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2018: BAIRD GROUP VARIABLE UNIVERSAL LIFE PROGRAM PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2017: BAIRD GROUP VARIABLE UNIVERSAL LIFE PROGRAM PLAN
-        Benefit Category: Other
-        Codes:  4B
         Participants: 
    [508]
     2019: BAIRD CRITICAL ILLNESS INSURANCE PLAN

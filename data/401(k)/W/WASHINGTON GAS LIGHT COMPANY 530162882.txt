@@ -187,7 +187,7 @@ DC : WASHINGTON
         Participants: 
    [540]
     2022: WASHINGTON GAS LIGHT COMPANY RETIREE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4Q
         Participants: 
         Assets: 573657755
@@ -201,7 +201,7 @@ DC : WASHINGTON
                  : WASHINGTON GAS MGT VEBA
                  : WASHINGTON GAS UNION VEBA
     2021: WASHINGTON GAS LIGHT COMPANY RETIREE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4Q
         Participants: 
         Assets: 768224304
@@ -306,13 +306,58 @@ DC : WASHINGTON
                  : WASHINGTON GAS UNION VEBA
    [551]
     2022: WASHINGTON GAS LIGHT COMPANY EMPLOYEES GROUP WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2021: WASHINGTON GAS LIGHT COMPANY EMPLOYEES GROUP WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4L4Q
         Participants: 1353
+   [501]
+    2020: EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Available Investments:
+           - WASHNGTON GAS LIGHT COMPANY
+                 : WASHINGTON GAS MGT VEBA
+                 : WASHINGTON GAS UNION VEBA
+    2019: EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 75892053
+        $/Participant: 
+        Available Investments:
+           - WASHNGTON GAS LIGHT COMPANY
+                 : WASHINGTON GAS MGT VEBA
+                 : WASHINGTON GAS UNION VEBA
+    2018: EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 62961002
+        $/Participant: 
+        Service Providers:
+           - TOWERS WATSON :  (Actuarial)
+           - GRANT THORNTON :  (Accounting(including auditing))
+        Available Investments:
+           - WASHNGTON GAS LIGHT COMPANY
+                 : WASHINGTON GAS MGT VEBA
+                 : WASHINGTON GAS UNION VEBA
+    2017: EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 63548549
+        $/Participant: 
+        Service Providers:
+           - GRANT THORNTON :  (Accounting(including auditing))
+           - TOWERS WATSON :  (Actuarial)
+        Available Investments:
+           - WASHNGTON GAS LIGHT COMPANY
+                 : WASHINGTON GAS MGT VEBA
+                 : WASHINGTON GAS UNION VEBA
    [005]
     2022: WASHINGTON GAS LIGHT COMPANY TRUST
         Benefit Category: Other
@@ -497,51 +542,6 @@ DC : WASHINGTON
                  : WELLS FARGO STABLE RETURN FUND Q
            - WILLIAM BLAIR
                  : WILLIAM BLAIR SMALL MID CAP GROWTH
-   [501]
-    2020: EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Available Investments:
-           - WASHNGTON GAS LIGHT COMPANY
-                 : WASHINGTON GAS MGT VEBA
-                 : WASHINGTON GAS UNION VEBA
-    2019: EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 75892053
-        $/Participant: 
-        Available Investments:
-           - WASHNGTON GAS LIGHT COMPANY
-                 : WASHINGTON GAS MGT VEBA
-                 : WASHINGTON GAS UNION VEBA
-    2018: EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 62961002
-        $/Participant: 
-        Service Providers:
-           - TOWERS WATSON :  (Actuarial)
-           - GRANT THORNTON :  (Accounting(including auditing))
-        Available Investments:
-           - WASHNGTON GAS LIGHT COMPANY
-                 : WASHINGTON GAS MGT VEBA
-                 : WASHINGTON GAS UNION VEBA
-    2017: EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 63548549
-        $/Participant: 
-        Service Providers:
-           - GRANT THORNTON :  (Accounting(including auditing))
-           - TOWERS WATSON :  (Actuarial)
-        Available Investments:
-           - WASHNGTON GAS LIGHT COMPANY
-                 : WASHINGTON GAS MGT VEBA
-                 : WASHINGTON GAS UNION VEBA
    [505]
     2020: TRAVEL ACCIDENT PLAN
         Benefit Category: Other

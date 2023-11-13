@@ -118,30 +118,6 @@ VT : MONTPELIER
                  : LCG/JENNISON FUND
                  : WESTERN ASSET CR PLS BD
    [005]
-    2022: NATIONAL LIFE INSURANCE COMPANY AGENTS RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2T3D3H 4B
-        Participants: 795
-        Assets: 57403967
-        $/Participant: 72206
-        RecordKeeper: PRUDENTIAL RETIREMENT INSURANCE AND
-        Available Investments:
-           - PRUDENTIAL RETIREMENT INS
-                 : LCG/JENNISON FUND
-                 : WESTERN ASSET CR PLS BD
-           - T. ROWE PRICE TRUST COMPANY
-                 : T ROWE PRICE RTM 2060 TR CL A
-                 : T ROWE PRICE RTM 2065 TR CL A
-                 : T. ROWE PRICE RTM 2010 TR CL A
-                 : T. ROWE PRICE RTM 2015 TR CL A
-                 : T. ROWE PRICE RTM 2020 TR CL A
-                 : T. ROWE PRICE RTM 2025 TR CL A
-                 : T. ROWE PRICE RTM 2030 TR CL A
-                 : T. ROWE PRICE RTM 2035 TR CL A
-                 : T. ROWE PRICE RTM 2040 TR CL A
-                 : T. ROWE PRICE RTM 2045 TR CL A
-                 : T. ROWE PRICE RTM 2050 TR CL A
-                 : T. ROWE PRICE RTM 2055 TR CL A
     2021: NATIONAL LIFE INSURANCE COMPANY AGENTS RETIREMENT
         Benefit Category: 401(k)
         Codes: 2E2F2G2J2T3H3D2R 
@@ -236,27 +212,27 @@ VT : MONTPELIER
                  : WESTERN ASSET CR PLS BD
    [501]
     2022: NATIONAL LIFE INSURANCE COMPANY FIELD GROUP BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
     2021: NATIONAL LIFE INSURANCE COMPANY FIELD GROUP BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
     2020: NATIONAL LIFE INSURANCE COMPANY FIELD GROUP BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
     2019: NATIONAL LIFE INSURANCE COMPANY FIELD GROUP BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
     2018: NATIONAL LIFE INSURANCE COMPANY FIELD GROUP BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4H4Q
         Participants: 
     2017: NATIONAL LIFE INSURANCE COMPANY FIELD GROUP BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4H4Q
         Participants: 
    [513]
@@ -284,6 +260,81 @@ VT : MONTPELIER
         Benefit Category: Healthcare
         Codes:  4A4D
         Participants: 
+   [005]
+    2022: NATIONAL LIFE INSURANCE COMPANY AGENTS RETIREMENT PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2F2G2J2K2R2T3D3H 4B
+        Participants: 795
+        Assets: 57403967
+        $/Participant: 72206
+        RecordKeeper: PRUDENTIAL RETIREMENT INSURANCE AND
+        Available Investments:
+           - PRUDENTIAL RETIREMENT INS
+                 : LCG/JENNISON FUND
+                 : WESTERN ASSET CR PLS BD
+           - T. ROWE PRICE TRUST COMPANY
+                 : T ROWE PRICE RTM 2060 TR CL A
+                 : T ROWE PRICE RTM 2065 TR CL A
+                 : T. ROWE PRICE RTM 2010 TR CL A
+                 : T. ROWE PRICE RTM 2015 TR CL A
+                 : T. ROWE PRICE RTM 2020 TR CL A
+                 : T. ROWE PRICE RTM 2025 TR CL A
+                 : T. ROWE PRICE RTM 2030 TR CL A
+                 : T. ROWE PRICE RTM 2035 TR CL A
+                 : T. ROWE PRICE RTM 2040 TR CL A
+                 : T. ROWE PRICE RTM 2045 TR CL A
+                 : T. ROWE PRICE RTM 2050 TR CL A
+                 : T. ROWE PRICE RTM 2055 TR CL A
+   [505]
+    2022: NATIONAL LIFE GROUP LIFE INSURANCE PLAN FOR EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2021: NATIONAL LIFE GROUP LIFE INSURANCE PLAN FOR EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2020: NATIONAL LIFE GROUP LIFE INSURANCE PLAN FOR EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2019: NATIONAL LIFE GROUP LIFE INSURANCE PLAN FOR EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2018: NATIONAL LIFE GROUP LIFE INSURANCE PLAN FOR EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2017: NATIONAL LIFE GROUP LIFE INSURANCE PLAN FOR EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+   [517]
+    2022: NATIONAL LIFE INSURANCE COMPANY SUPPLEMENTAL SURVIVOR BENEFIT PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4R
+        Participants: 
+    2021: NATIONAL LIFE INSURANCE COMPANY SUPPLEMENTAL SURVIVOR BENEFIT PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2020: NATIONAL LIFE INSURANCE COMPANY SUPPLEMENTAL SURVIVOR BENEFIT PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2019: NATIONAL LIFE INSURANCE COMPANY SUPPLEMENTAL SURVIVOR BENEFIT PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2018: NATIONAL LIFE INSURANCE COMPANY SUPPLEMENTAL SURVIVOR BENEFIT PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2017: NATIONAL LIFE INSURANCE COMPANY SUPPLEMENTAL SURVIVOR BENEFIT PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
    [503]
     2022: NATIONAL LIFE INSURANCE COMPANY GROUP BUSINESS ACCIDENT PLAN
         Benefit Category: Other
@@ -308,31 +359,6 @@ VT : MONTPELIER
     2017: NATIONAL LIFE INSURANCE COMPANY GROUP BUSINESS ACCIDENT PLAN
         Benefit Category: Other
         Codes:  4L
-        Participants: 
-   [505]
-    2022: NATIONAL LIFE GROUP LIFE INSURANCE PLAN FOR EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2021: NATIONAL LIFE GROUP LIFE INSURANCE PLAN FOR EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2020: NATIONAL LIFE GROUP LIFE INSURANCE PLAN FOR EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2019: NATIONAL LIFE GROUP LIFE INSURANCE PLAN FOR EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2018: NATIONAL LIFE GROUP LIFE INSURANCE PLAN FOR EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2017: NATIONAL LIFE GROUP LIFE INSURANCE PLAN FOR EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B
         Participants: 
    [506]
     2022: NATIONAL LIFE INSURANCE COMPANY LONG TERM DISABILITY PLAN FOR HOME OFFICE EMPLOYEES
@@ -433,31 +459,6 @@ VT : MONTPELIER
     2017: NATIONAL LIFE GROUP VISION CARE PLAN FOR EMPLOYEES
         Benefit Category: Other
         Codes:  4E
-        Participants: 
-   [517]
-    2022: NATIONAL LIFE INSURANCE COMPANY SUPPLEMENTAL SURVIVOR BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4B4R
-        Participants: 
-    2021: NATIONAL LIFE INSURANCE COMPANY SUPPLEMENTAL SURVIVOR BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2020: NATIONAL LIFE INSURANCE COMPANY SUPPLEMENTAL SURVIVOR BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2019: NATIONAL LIFE INSURANCE COMPANY SUPPLEMENTAL SURVIVOR BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2018: NATIONAL LIFE INSURANCE COMPANY SUPPLEMENTAL SURVIVOR BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2017: NATIONAL LIFE INSURANCE COMPANY SUPPLEMENTAL SURVIVOR BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4B
         Participants: 
    [333]
     2022: NATIONAL LIFE INSURANCE COMPANY AGENCY EMPLOYEES PENSION PLAN

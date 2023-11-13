@@ -139,29 +139,29 @@ TX : PLANO
                  : VOYA MID CAP GRTH EQ
    [503]
     2022: TOYOTA MOTOR NORTH AMERICA, INC. HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
     2021: TOYOTA MOTOR NORTH AMERICA, INC. HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4G4H4L4Q
         Participants: 
     2020: TOYOTA MOTOR NORTH AMERICA, INC. HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4G4H4L4Q
         Participants: 
    [505]
     2022: TOYOTA MOTOR ENGINEERING AND MANUFACTURING POST-RETIREMENT MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4L4Q
         Participants: 
     2021: TOYOTA MOTOR ENGINEERING AND MANUFACTURING POST-RETIREMENT MEDICAL PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4L4Q
         Participants: 
    [506]
     2022: TOYOTA MOTOR SALES, U.S.A., INC. POST-RETIREMENT MEDICAL PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4L4Q
         Participants: 
         Assets: 203537210
@@ -170,7 +170,7 @@ TX : PLANO
            - NORTHERN TRUST COMPANY : N/A (Custodial(securities) | Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - MOSS ADAMS LLP : N/A (Accounting(including auditing) | Direct payment from the plan)
     2021: TOYOTA MOTOR SALES, U.S.A., INC. POST-RETIREMENT MEDICAL PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4Q
         Participants: 
         Assets: 280249536
@@ -179,7 +179,7 @@ TX : PLANO
            - NORTHERN TRUST COMPANY : N/A (Custodial(securities) | Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - MOSS ADAMS LLP : N/A (Accounting(including auditing) | Direct payment from the plan)
     2020: TOYOTA MOTOR SALES, U.S.A., INC. POST-RETIREMENT MEDICAL PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4Q
         Participants: 
         Assets: 220606383
@@ -187,6 +187,11 @@ TX : PLANO
         Service Providers:
            - NORTHERN TRUST COMPANY : N/A (Custodial(securities) | Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - MOSS ADAMS LLP : N/A (Accounting(including auditing) | Direct payment from the plan)
+   [505]
+    2020: TOYOTA MOTOR ENGINEERING AND MANUFACTURING POST-RETIREMENT MEDICAL PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L4Q
+        Participants: 
    [504]
     2022: TOYOTA MOTOR NORTH AMERICA, INC. HEALTH CARE SPENDING ACCOUNT PLAN
         Benefit Category: Other
@@ -211,11 +216,6 @@ TX : PLANO
     2017: TOYOTA MOTOR NORTH AMERICA, INC. HEALTH CARE SPENDING ACCOUNT PLAN
         Benefit Category: Other
         Codes:  4Q
-        Participants: 
-   [505]
-    2020: TOYOTA MOTOR ENGINEERING AND MANUFACTURING POST-RETIREMENT MEDICAL PLAN
-        Benefit Category: Other
-        Codes:  4B4L4Q
         Participants: 
    [515]
     2022: GROUP LONG TERM CARE (EXECUTIVE)

@@ -133,13 +133,8 @@ PA : YORK
         Service Providers:
            - GROUP BENEFIT SERVICES, INC. :  (Claims processing)
    [002]
-    2020: GLATFELTER INSURANCE GROUP MONEY PURCHASE PENSION PLAN
-        Benefit Category: Other
-        Codes: 2C2H3H 
-        Participants: 0
-        RecordKeeper: CONRAD SIEGEL
     2019: GLATFELTER INSURANCE GROUP MONEY PURCHASE PENSION PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes: 2C2H3H 4B
         Participants: 462
         Assets: 22628088
@@ -150,7 +145,7 @@ PA : YORK
            - MSCI :  (Investment management | Investment management fees paid indirectly by plan)
            - VANGUARD GROUP INC :  (Investment management | Investment management fees paid indirectly by plan)
     2018: GLATFELTER INSURANCE GROUP MONEY PURCHASE PENSION PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes: 2C2H3H 4B
         Participants: 516
         Assets: 23843096
@@ -161,7 +156,7 @@ PA : YORK
            - MSCI :  (Investment management | Investment management fees paid indirectly by plan)
            - VANGUARD GROUP INC :  (Investment management | Investment management fees paid indirectly by plan)
     2017: GLATFELTER INSURANCE GROUP MONEY PURCHASE PENSION PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes: 2C2H 4B
         Participants: 515
         Assets: 26907578
@@ -171,6 +166,37 @@ PA : YORK
            - BLACKROCK FUND ADVISORS :  (Investment management | Investment management fees paid indirectly by plan)
            - HARBOR CAPITAL ADVISORS INC :  (Investment management | Investment management fees paid indirectly by plan)
            - MSCI :  (Investment management | Investment management fees paid indirectly by plan)
+   [502]
+    2022: GLATFELTER INSURANCE GROUP -- GROUP LIFE AD&D PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+    2021: GLATFELTER INSURANCE GROUP -- GROUP LIFE AD&D PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+    2020: GLATFELTER INSURANCE GROUP -- GROUP LIFE AD&D PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+    2019: GLATFELTER INSURANCE GROUP -- GROUP LIFE AD&D PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+    2018: GLATFELTER INSURANCE GROUP -- GROUP LIFE AD&D PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+    2017: GLATFELTER INSURANCE GROUP -- GROUP LIFE AD&D PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+   [002]
+    2020: GLATFELTER INSURANCE GROUP MONEY PURCHASE PENSION PLAN
+        Benefit Category: Other
+        Codes: 2C2H3H 
+        Participants: 0
+        RecordKeeper: CONRAD SIEGEL
    [501]
     2022: GLATFELTER INSURANCE GROUP LONG TERM DISABILITY PLAN
         Benefit Category: Other
@@ -195,29 +221,4 @@ PA : YORK
     2017: GLATFELTER INSURANCE GROUP LONG TERM DISABILITY PLAN
         Benefit Category: Other
         Codes:  4H
-        Participants: 
-   [502]
-    2022: GLATFELTER INSURANCE GROUP -- GROUP LIFE AD&D PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-    2021: GLATFELTER INSURANCE GROUP -- GROUP LIFE AD&D PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-    2020: GLATFELTER INSURANCE GROUP -- GROUP LIFE AD&D PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-    2019: GLATFELTER INSURANCE GROUP -- GROUP LIFE AD&D PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-    2018: GLATFELTER INSURANCE GROUP -- GROUP LIFE AD&D PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-    2017: GLATFELTER INSURANCE GROUP -- GROUP LIFE AD&D PLAN
-        Benefit Category: Other
-        Codes:  4B4L
         Participants: 

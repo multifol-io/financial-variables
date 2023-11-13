@@ -2,19 +2,19 @@ NY : NEW YORK
   NEW YORK LAW SCHOOL  135645885
    [506]
     2022: NEW YORK LAW SCHOOL HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2021: NEW YORK LAW SCHOOL HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2020: NEW YORK LAW SCHOOL HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2019: NEW YORK LAW SCHOOL HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2018: NEW YORK LAW SCHOOL GROUP MEDICAL PLAN
@@ -25,6 +25,15 @@ NY : NEW YORK
         Benefit Category: Healthcare
         Codes:  4A
         Participants: 
+   [502]
+    2018: NEW YORK LAW SCHOOL GROUP LIFE INSURANCE PLAN WITH ADD BENEFIT
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+    2017: NEW YORK LAW SCHOOL GROUP LIFE INSURANCE PLAN WITH ADD BENEFIT
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 151
    [001]
     2022: NEW YORK LAW SCHOOL DEFINED CONTRIBUTION RET. PLAN
         Benefit Category: Other
@@ -100,15 +109,6 @@ NY : NEW YORK
         Available Investments:
            - TIAA-CREF
                  : TIAA REAL ESTATE
-   [502]
-    2018: NEW YORK LAW SCHOOL GROUP LIFE INSURANCE PLAN WITH ADD BENEFIT
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-    2017: NEW YORK LAW SCHOOL GROUP LIFE INSURANCE PLAN WITH ADD BENEFIT
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 151
    [503]
     2018: NEW YORK LAW SCHOOL GROUP LONG-TERM DISABILITY PLAN
         Benefit Category: Other

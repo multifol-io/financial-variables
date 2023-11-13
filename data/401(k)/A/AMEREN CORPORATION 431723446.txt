@@ -2,8 +2,7 @@ MO : ST. LOUIS
   AMEREN CORPORATION  431723446
    [003]
     2022: AMEREN CORPORATION SAVINGS INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2H2J2K2O3H3I2E2T2F2S 
         Participants: 11826
         Assets: 2730985242
@@ -38,8 +37,7 @@ MO : ST. LOUIS
            - WELLINGTON MANAGEMENT COMPANY LLP
                  : WELLINGTON CIF II CORE PLUS BOND P
     2021: AMEREN CORPORATION SAVINGS INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2F2H2J2K2O3H3I 
         Participants: 10576
         Assets: 2451347759
@@ -72,8 +70,7 @@ MO : ST. LOUIS
                  : WELLS FARGO FIXED INCOME FUND F
                  : WELLS FARGO FIXED INCOME FUND L
     2020: AMEREN CORPORATION SAVINGS INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2F2H2J2K2O3H3I2E2T 
         Participants: 11683
         Assets: 3047330234
@@ -123,8 +120,7 @@ MO : ST. LOUIS
                  : WELLS FARGO FIXED INCOME FUND L
                  : WELLS FARGO/BLACKROCK ST INV FUND
     2019: AMEREN CORPORATION SAVINGS INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2F2H2J2K2O3H3I 
         Participants: 11443
         Assets: 2709348496
@@ -199,7 +195,7 @@ MO : ST. LOUIS
                  : AMEREN HEALTH AND WELFARE TRUST
    [511]
     2022: AMEREN RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B
         Participants: 
         Assets: 1078982800
@@ -209,7 +205,7 @@ MO : ST. LOUIS
            - AMEREN CORPORATION
                  : AMEREN HEALTH AND WELFARE TRUST
     2021: AMEREN RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B
         Participants: 9956
         Assets: 970943621
@@ -226,7 +222,7 @@ MO : ST. LOUIS
            - AMEREN CORPORATION
                  : AMEREN HEALTH AND WELFARE TRUST
     2020: AMEREN RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B
         Participants: 9998
         Assets: 1236468964
@@ -236,7 +232,7 @@ MO : ST. LOUIS
            - AMEREN CORPORATION
                  : AMEREN HEALTH AND WELFARE TRUST
     2019: AMEREN RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B
         Participants: 9955
         Assets: 1123103925
@@ -253,6 +249,23 @@ MO : ST. LOUIS
         Available Investments:
            - AMEREN CORPORATION
                  : AMEREN HEALTH AND WELFARE TRUST
+   [503]
+    2022: AMEREN MISCELLANEOUS WELFARE AND FRINGE BENEFIT PLAN
+        Benefit Category: Life Insurance, Severance
+        Codes:  4B4H4I4L4Q
+        Participants: 
+    2021: AMEREN MISCELLANEOUS WELFARE AND FRINGE BENEFIT PLAN
+        Benefit Category: Life Insurance, Severance
+        Codes:  4B4H4I4L4Q
+        Participants: 8819
+    2020: AMEREN MISCELLANEOUS WELFARE AND FRINGE BENEFIT PLAN
+        Benefit Category: Life Insurance, Severance
+        Codes:  4B4H4I4L4Q
+        Participants: 9386
+    2019: AMEREN MISCELLANEOUS WELFARE AND FRINGE BENEFIT PLAN
+        Benefit Category: Life Insurance, Severance
+        Codes:  4B4H4I4L4Q
+        Participants: 9504
    [012]
     2022: AMEREN HEALTH AND WELFARE TRUST
         Benefit Category: Other
@@ -528,20 +541,3 @@ MO : ST. LOUIS
                  : EB TEMPORARY INVESTMENT FUND II
            - THE BANK OF NEW YORK
                  : EB DV STOCK INDEX FUND
-   [503]
-    2022: AMEREN MISCELLANEOUS WELFARE AND FRINGE BENEFIT PLAN
-        Benefit Category: Severance
-        Codes:  4B4H4I4L4Q
-        Participants: 
-    2021: AMEREN MISCELLANEOUS WELFARE AND FRINGE BENEFIT PLAN
-        Benefit Category: Severance
-        Codes:  4B4H4I4L4Q
-        Participants: 8819
-    2020: AMEREN MISCELLANEOUS WELFARE AND FRINGE BENEFIT PLAN
-        Benefit Category: Severance
-        Codes:  4B4H4I4L4Q
-        Participants: 9386
-    2019: AMEREN MISCELLANEOUS WELFARE AND FRINGE BENEFIT PLAN
-        Benefit Category: Severance
-        Codes:  4B4H4I4L4Q
-        Participants: 9504

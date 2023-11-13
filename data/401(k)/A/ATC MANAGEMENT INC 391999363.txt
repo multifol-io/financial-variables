@@ -62,8 +62,7 @@ WI : WAUKESHA
            - STRATEGIC ADVISORS INC : N/A (Investment advisory(plan) | Direct payment from the plan)
    [501]
     2022: ATC MANAGEMENT INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
         Assets: 11996015
@@ -74,7 +73,7 @@ WI : WAUKESHA
            - USBANK : TRUSTEE (Trustee(bank, trust company, or similar))
            - BAKER TILLY : AUDITOR (Accounting(including auditing))
     2021: ATC MANAGEMENT INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Assets: 19950831
@@ -83,7 +82,7 @@ WI : WAUKESHA
            - UMR : CLAIMS PROCESSING (Claims processing)
            - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATO (Contract Administrator)
     2020: ATC MANAGEMENT INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Assets: 25135262
@@ -94,7 +93,7 @@ WI : WAUKESHA
            - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATO (Contract Administrator)
            - MATRIX ABSENCE MANAGEMENT, INC : CLAIMS PROCESSING (Claims processing)
     2019: ATC MANAGEMENT INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Assets: 22892104
@@ -124,6 +123,15 @@ WI : WAUKESHA
            - OPTUMRX,INC. : PHARMACY BENEFIT  MANAGE (Claims processing | Direct payment from the plan | Float revenue | Other fees)
            - UMR : CLAIMS  PROCESSING (Claims processing)
            - U.S.BANK NATIONAL ASSOCIATION : N/A (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue | Investment management fees paid indirectly by plan)
+   [503]
+    2018: GROUP LONG TERM DISABILITY, LIFE AND SUPPLEMENTAL LIFE PLAN FOR EMPLOYEES OF ATC MANAGEMENT INC
+        Benefit Category: Life Insurance
+        Codes:  4B4F4H
+        Participants: 
+    2017: GROUP LONG TERM DISABILITY, LIFE AND SUPPLEMENTAL LIFE PLAN FOR EMPLOYEES OF ATC MANAGEMENT INC
+        Benefit Category: Life Insurance
+        Codes:  4B4F4H
+        Participants: 
    [002]
     2022: ATC INDIVIDUAL ACCOUNT PENSION PLAN
         Benefit Category: Other
@@ -178,15 +186,6 @@ WI : WAUKESHA
            - HEWITT ENNISKNUPP : N/A (Investment advisory(plan) | Direct payment from the plan)
            - STRATEGIC ADVISORS, INC. : N/A (Investment advisory(plan) | Direct payment from the plan)
            - US BANK NATIONAL ASSOCIATION : N/A (Investment advisory(plan) | Trustee(bank, trust company, or similar) | Account maintenance fees | Float revenue | Investment management fees paid directly by plan | Trustee(directed) | Named fiduciary | Direct payment from the plan)
-   [503]
-    2018: GROUP LONG TERM DISABILITY, LIFE AND SUPPLEMENTAL LIFE PLAN FOR EMPLOYEES OF ATC MANAGEMENT INC
-        Benefit Category: Other
-        Codes:  4B4F4H
-        Participants: 
-    2017: GROUP LONG TERM DISABILITY, LIFE AND SUPPLEMENTAL LIFE PLAN FOR EMPLOYEES OF ATC MANAGEMENT INC
-        Benefit Category: Other
-        Codes:  4B4F4H
-        Participants: 
    [504]
     2018: ATC MANAGEMENT INC. EMPLOYEE ASSISTANCE PROGRAM
         Benefit Category: Other

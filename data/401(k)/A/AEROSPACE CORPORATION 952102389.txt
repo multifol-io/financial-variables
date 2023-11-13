@@ -116,13 +116,11 @@ CA : EL SEGUNDO
                  : SS US EXT MARKET C
    [501]
     2022: THE AEROSPACE CORPORATION HEALTH AND WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4Q
         Participants: 
     2021: THE AEROSPACE CORPORATION HEALTH AND WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4Q
         Participants: 
    [502]
@@ -240,6 +238,23 @@ CA : EL SEGUNDO
         Benefit Category: Healthcare
         Codes:  4A
         Participants: 1214
+   [505]
+    2020: AEROSPACE GROUP LIFE
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+    2019: AEROSPACE GROUP LIFE
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+    2018: AEROSPACE GROUP LIFE
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 4408
+    2017: AEROSPACE GROUP LIFE
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 4264
    [003]
     2018: AEROSPACE CORPORATION 401(K) PLAN
         Benefit Category: Other
@@ -318,23 +333,6 @@ CA : EL SEGUNDO
         Benefit Category: Other
         Codes:  4D
         Participants: 3591
-   [505]
-    2020: AEROSPACE GROUP LIFE
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-    2019: AEROSPACE GROUP LIFE
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-    2018: AEROSPACE GROUP LIFE
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 4408
-    2017: AEROSPACE GROUP LIFE
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 4264
    [507]
     2020: LONG TERM DISABILITY
         Benefit Category: Other

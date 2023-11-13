@@ -2,8 +2,7 @@ NC : CHARLOTTE
   BANK OF AMERICA CORPORATION  560906609
    [003]
     2022: THE BANK OF AMERICA 401(K) PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2G2J2K2O2S2T3H3J 
         Participants: 263860
         Assets: 47134026012
@@ -44,8 +43,7 @@ NC : CHARLOTTE
            - WILMINGTON TRUST, N.A.
                  : WILM TR CIT WEST ASSET CORE BD CIT
     2021: THE BANK OF AMERICA 401(K) PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2G2J2K2O2S2T3H3J 
         Participants: 272341
         Assets: 57885369241
@@ -97,8 +95,7 @@ NC : CHARLOTTE
            - WILMINGTON TRUST, N.A.
                  : WILM TR CIT WEST ASSET CORE BD CIT
     2020: THE BANK OF AMERICA 401(K) PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2G2J2K2O2S2T3H3J 
         Participants: 277767
         Assets: 49255129429
@@ -142,8 +139,7 @@ NC : CHARLOTTE
                  : TEMPLETON INTERNATIONAL EQUITY CIT
                  : WILM TR CIT WEST ASSET CORE BD CIT
     2019: THE BANK OF AMERICA 401(K) PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2G2J2K2O2S2T3H3J 
         Participants: 283172
         Assets: 44446556471
@@ -187,8 +183,7 @@ NC : CHARLOTTE
            - WILMINGTON TRUST, N.A.
                  : TEMPLETON INTERNATIONAL EQUITY CIT
     2018: THE BANK OF AMERICA 401(K) PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2G2J2K2O2S2T3H3J 
         Participants: 279148
         Assets: 35915786987
@@ -226,8 +221,7 @@ NC : CHARLOTTE
            - WILMINGTON TRUST, N.A.
                  : TEMPLETON INTERNATIONAL EQUITY CIT
     2017: THE BANK OF AMERICA 401(K) PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2G2J2K2O2S2T3H3J 
         Participants: 249734
         Assets: 26551685260
@@ -266,8 +260,7 @@ NC : CHARLOTTE
                  : TEMPLETON INTERNATIONAL EQUITY CIT
    [011]
     2018: MERRILL LYNCH & CO., INC. 401(K) SAVINGS & INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2G2J2K2O2S2T3H3J 
         Participants: 0
         RecordKeeper: MORRIS DAVIS CHAN & TAN LLP
@@ -303,8 +296,7 @@ NC : CHARLOTTE
            - WILMINGTON TRUST, N.A.
                  : TEMPLETON INTERNATIONAL EQUITY CIT
     2017: MERRILL LYNCH & CO. , INC. 401(K) SAVINGS & INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2G2J2K2O2S2T3H3J 
         Participants: 35022
         Assets: 11835853670
@@ -604,48 +596,42 @@ RI : RIVERSIDE
                  : TEMPLETON INTERNATIONAL EQUITY CIT
    [501]
     2022: BANK OF AMERICA GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
         Assets: 446394115
         $/Participant: 
         RecordKeeper: SUN LIFE ASSURANCE CO OF CANADA
     2021: BANK OF AMERICA GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
         Assets: 455646141
         $/Participant: 
         RecordKeeper: WILLIS TOWERS WATSON
     2020: BANK OF AMERICA GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
         Assets: 421503634
         $/Participant: 
         RecordKeeper: SCRIPTCLAIM SYSTEMS LLC
     2019: BANK OF AMERICA GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
         Assets: 404978752
         $/Participant: 
         RecordKeeper: SUN LIFE ASSURANCE CO OF CANADA
     2018: BANK OF AMERICA GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
         Assets: 399498894
         $/Participant: 
         RecordKeeper: SUN LIFE ASSURANCE CO OF CANADA
     2017: BANK OF AMERICA GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
         Assets: 414968111
@@ -654,42 +640,42 @@ RI : RIVERSIDE
 NC : CHARLOTTE
    [502]
     2022: BANK OF AMERICA RETIREE GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4Q
         Participants: 
         Assets: 115806958
         $/Participant: 
         RecordKeeper: UNITED HEALTH CARE INSURANCE CO.
     2021: BANK OF AMERICA RETIREE GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4Q
         Participants: 
         Assets: 125368101
         $/Participant: 
         RecordKeeper: UNITED HEALTH CARE INSURANCE CO.
     2020: BANK OF AMERICA RETIREE GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4Q
         Participants: 
         Assets: 151669571
         $/Participant: 
         RecordKeeper: CVS PHARMACY, INC.
     2019: BANK OF AMERICA RETIREE GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4Q
         Participants: 
         Assets: 206155056
         $/Participant: 
         RecordKeeper: UNITED HEALTH CARE INSURANCE CO.
     2018: BANK OF AMERICA RETIREE GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4Q
         Participants: 
         Assets: 260311319
         $/Participant: 
         RecordKeeper: UNITED HEALTH CARE INSURANCE CO.
     2017: BANK OF AMERICA RETIREE GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4Q
         Participants: 
         Assets: 308932124

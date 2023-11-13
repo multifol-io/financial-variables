@@ -243,14 +243,14 @@ NJ : MOUNT OLIVE
 NJ : HACKETTSTOWN
    [501]
     2022: MARS, INCORPORATED RETIREE HEALTH CARE AND LIFE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 22814073
         $/Participant: 
         RecordKeeper: UNITED STATES POWER FUND III
     2021: MARS, INCORPORATED RETIREE HEALTH CARE AND LIFE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 57633749
@@ -258,21 +258,21 @@ NJ : HACKETTSTOWN
         RecordKeeper: GMO TAX-MGD INTL EQUITIES FUND III
 NJ : MT. OLIVE
     2020: MARS, INCORPORATED RETIREE HEALTH CARE AND LIFE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 51070947
         $/Participant: 
         RecordKeeper: USPF II INSTITUTIONAL FUND
     2019: MARS, INCORPORATED RETIREE HEALTH CARE AND LIFE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 62947996
         $/Participant: 
         RecordKeeper: UNITED STATES POWER FUND III L. P.
     2018: MARS, INCORPORATED RETIREE HEALTH CARE AND LIFE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 86239318
@@ -338,6 +338,33 @@ NJ : MOUNT OLIVE
     2017: MARS, INCORPORATED FLEXIBLE SPENDING ACCOUNT PLAN
         Benefit Category: Healthcare
         Codes:  4A4D4E
+        Participants: 
+NJ : HACKETTSTOWN
+   [504]
+    2022: MARS, INCORPORATED LIFE BENEFITS PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2021: MARS, INCORPORATED LIFE BENEFITS PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+NJ : MOUNT OLIVE
+    2020: MARS, INCORPORATED LIFE BENEFITS PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2019: MARS, INCORPORATED LIFE BENEFITS PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2018: MARS, INCORPORATED LIFE BENEFITS PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2017: MARS, INCORPORATED LIFE BENEFITS PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
         Participants: 
 NJ : HACKETTSTOWN
    [005]
@@ -542,33 +569,6 @@ NJ : MOUNT OLIVE
     2017: U.S. DEATH BENEFIT PLAN
         Benefit Category: Other
         Codes:  4L
-        Participants: 
-NJ : HACKETTSTOWN
-   [504]
-    2022: MARS, INCORPORATED LIFE BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2021: MARS, INCORPORATED LIFE BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-NJ : MOUNT OLIVE
-    2020: MARS, INCORPORATED LIFE BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2019: MARS, INCORPORATED LIFE BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2018: MARS, INCORPORATED LIFE BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2017: MARS, INCORPORATED LIFE BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4B
         Participants: 
 NJ : HACKETTSTOWN
    [508]

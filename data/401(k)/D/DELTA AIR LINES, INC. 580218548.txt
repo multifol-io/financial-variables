@@ -572,18 +572,15 @@ GA : ATLANTA
            - JP MORGAN CHASE : PARTY-IN-INTEREST (Trustee(bank, trust company, or similar) | Investment advisory(plan))
    [546]
     2022: 2020 VOLUNTARY DEPARTURE PROGRAMS
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Severance
         Codes:  4A4D4E4I
         Participants: 
     2021: 2020 VOLUNTARY DEPARTURE PROGRAMS
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Severance
         Codes:  4A4D4E4I
         Participants: 
     2020: 2020 VOLUNTARY DEPARTURE PROGRAMS
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Severance
         Codes:  4A4D4E4I
         Participants: 
    [547]
@@ -681,52 +678,19 @@ GA : ATLANTA
         Benefit Category: Healthcare
         Codes:  4A
         Participants: 
-   [012]
-    2022: DELTA PILOTS DEFINED CONTRIBUTION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2R2T3F3H 
-        Participants: 2
-        Available Investments:
-           - DELTA AIR LINES, INC.
-                 : DAL, INC. DC PLANS MASTER TRUST
-    2021: DELTA PILOTS DEFINED CONTRIBUTION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2R2T3F3H 
-        Participants: 2
-        Available Investments:
-           - DELTA AIR LINES, INC.
-                 : DAL, INC. DC PLANS MASTER TRUST
-    2020: DELTA PILOTS DEFINED CONTRIBUTION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2R2T3F3H 
-        Participants: 6
-        Available Investments:
-           - DELTA AIR LINES, INC.
-                 : DAL, INC. DC PLANS MASTER TRUST
-    2019: DELTA PILOTS DEFINED CONTRIBUTION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2R2T3F3H 
-        Participants: 11
-        Available Investments:
-           - DELTA AIR LINES, INC.
-                 : DAL, INC. DC PLANS MASTER TRUST
-    2018: DELTA PILOTS DEFINED CONTRIBUTION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2R2T3F3H 
-        Participants: 15
-        Available Investments:
-           - DELTA AIR LINES, INC.
-                 : DAL, INC. DC PLANS MASTER TRUST
-    2017: DELTA PILOTS DEFINED CONTRIBUTION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2R2T3F3H 
-        Participants: 15
-        Available Investments:
-           - DELTA AIR LINES, INC.
-                 : DAL, INC. DC PLANS MASTER TRUST
    [502]
+    2021: DELTA FAMILY-CARE DISABILITY AND SURVIVORSHIP PLAN
+        Benefit Category: Life Insurance, Severance
+        Codes:  4B4C4F4H4I4L4Q
+        Participants: 
+        Assets: 21320868
+        $/Participant: 
+        Service Providers:
+           - SEDGWICK CLAIMS MGT SERVICES : CLMS PROC/CONT ADMIN (Claims processing | Contract Administrator)
+           - BDO USA LLP : AUDITOR (Accounting(including auditing))
+           - JP MORGAN CHASE : PARTY-IN-INTEREST (Trustee(bank, trust company, or similar) | Other fees)
     2020: DELTA FAMILY-CARE DISABILITY AND SURVIVORSHIP PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4F4H4L4Q
         Participants: 
         Assets: 23088191
@@ -737,7 +701,7 @@ GA : ATLANTA
            - BDO USA LLP : AUDITOR (Accounting(including auditing))
            - FRAZIER & DEETER, LLC. : AUDITOR (Accounting(including auditing))
     2019: DELTA FAMILY-CARE DISABILITY AND SURVIVORSHIP PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4F4H4L4Q
         Participants: 
         Assets: 15288465
@@ -747,14 +711,14 @@ GA : ATLANTA
            - FRAZIER & DEETER, LLC. : AUDITOR (Accounting(including auditing))
            - JP MORGAN CHASE : PARTY-IN-INTEREST (Trustee(bank, trust company, or similar) | Other fees)
     2018: DELTA FAMILY-CARE DISABILITY AND SURVIVORSHIP PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4F4H4L4Q
         Participants: 
         Assets: 30494859
         $/Participant: 
         RecordKeeper: FRAZIER & DEETER, LLC.
     2017: DELTA FAMILY-CARE DISABILITY AND SURVIVORSHIP PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4F4H4L4Q
         Participants: 
         Assets: 34712434
@@ -762,7 +726,7 @@ GA : ATLANTA
         RecordKeeper: AMWINS
    [504]
     2021: DELTA PILOTS DISABILITY AND SURVIVORSHIP PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4F4H4L4Q4U
         Participants: 
         Assets: 227540667
@@ -798,7 +762,7 @@ GA : ATLANTA
                  : BLACKROCK RUSSELL 2000 INDEX FUND B
                  : PANAGORA RISK PARITY MULTI ASSET FU
     2020: DELTA PILOTS DISABILITY AND SURVIVORSHIP PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4F4H4L4Q4U
         Participants: 
         Assets: 488309991
@@ -833,7 +797,7 @@ GA : ATLANTA
                  : PANAGORA RISK PARITY MULTI ASSET FU
                  : TENARON CAPITAL MANAGEMENT LP
     2019: DELTA PILOTS DISABILITY AND SURVIVORSHIP PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4F4H4L4Q4U
         Participants: 
         Assets: 566304042
@@ -880,7 +844,7 @@ GA : ATLANTA
                  : TENARON CAPITAL MANAGEMENT LP
                  : YORK EUROPEAN OPPORTUNITIES UNIT TR
     2018: DELTA PILOTS DISABILITY AND SURVIVORSHIP PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4F4H4L4Q4U
         Participants: 
         Assets: 713754681
@@ -931,7 +895,7 @@ GA : ATLANTA
                  : YORK EUROPEAN OPPORTUNITIES UNIT TR
                  : YORK EUROPEAN OPPORTUNITIES UNITS T
     2017: DELTA PILOTS DISABILITY AND SURVIVORSHIP PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4F4H4L4Q4U
         Participants: 
         Assets: 899058253
@@ -996,6 +960,80 @@ GA : ATLANTA
                  : YORK EUROPEAN OPPORTUNITIES UNITS T
                  : ZEBEDEE FOCUS FUND LTD USD
                  : ZP OFF
+   [543]
+    2022: DELTA AIR LINES, INC. OPTIONAL INSURANCES PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L4Q4F
+        Participants: 
+    2021: DELTA AIR LINES, INC. OPTIONAL INSURANCES PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L4Q4F
+        Participants: 
+    2020: DELTA AIR LINES, INC. OPTIONAL INSURANCES PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L4Q
+        Participants: 
+    2019: DELTA AIR LINES, INC. OPTIONAL INSURANCES PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L4Q
+        Participants: 
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY : CLAIMS PROCESSING (Claims processing | Contract Administrator)
+    2018: DELTA AIR LINES, INC. OPTIONAL INSURANCES PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L4Q
+        Participants: 
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY : CLAIMS PROCESSING (Claims processing | Contract Administrator)
+    2017: DELTA AIR LINES, INC. OPTIONAL INSURANCES PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L4Q
+        Participants: 
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY : CLAIMS PROCESSING (Claims processing | Contract Administrator)
+   [012]
+    2022: DELTA PILOTS DEFINED CONTRIBUTION PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2R2T3F3H 
+        Participants: 2
+        Available Investments:
+           - DELTA AIR LINES, INC.
+                 : DAL, INC. DC PLANS MASTER TRUST
+    2021: DELTA PILOTS DEFINED CONTRIBUTION PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2R2T3F3H 
+        Participants: 2
+        Available Investments:
+           - DELTA AIR LINES, INC.
+                 : DAL, INC. DC PLANS MASTER TRUST
+    2020: DELTA PILOTS DEFINED CONTRIBUTION PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2R2T3F3H 
+        Participants: 6
+        Available Investments:
+           - DELTA AIR LINES, INC.
+                 : DAL, INC. DC PLANS MASTER TRUST
+    2019: DELTA PILOTS DEFINED CONTRIBUTION PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2R2T3F3H 
+        Participants: 11
+        Available Investments:
+           - DELTA AIR LINES, INC.
+                 : DAL, INC. DC PLANS MASTER TRUST
+    2018: DELTA PILOTS DEFINED CONTRIBUTION PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2R2T3F3H 
+        Participants: 15
+        Available Investments:
+           - DELTA AIR LINES, INC.
+                 : DAL, INC. DC PLANS MASTER TRUST
+    2017: DELTA PILOTS DEFINED CONTRIBUTION PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2R2T3F3H 
+        Participants: 15
+        Available Investments:
+           - DELTA AIR LINES, INC.
+                 : DAL, INC. DC PLANS MASTER TRUST
    [532]
     2022: DELTA VISION PLAN
         Benefit Category: Other
@@ -1046,37 +1084,6 @@ GA : ATLANTA
         Benefit Category: Other
         Codes:  4Q
         Participants: 
-   [543]
-    2022: DELTA AIR LINES, INC. OPTIONAL INSURANCES PLAN
-        Benefit Category: Other
-        Codes:  4B4L4Q4F
-        Participants: 
-    2021: DELTA AIR LINES, INC. OPTIONAL INSURANCES PLAN
-        Benefit Category: Other
-        Codes:  4B4L4Q4F
-        Participants: 
-    2020: DELTA AIR LINES, INC. OPTIONAL INSURANCES PLAN
-        Benefit Category: Other
-        Codes:  4B4L4Q
-        Participants: 
-    2019: DELTA AIR LINES, INC. OPTIONAL INSURANCES PLAN
-        Benefit Category: Other
-        Codes:  4B4L4Q
-        Participants: 
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY : CLAIMS PROCESSING (Claims processing | Contract Administrator)
-    2018: DELTA AIR LINES, INC. OPTIONAL INSURANCES PLAN
-        Benefit Category: Other
-        Codes:  4B4L4Q
-        Participants: 
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY : CLAIMS PROCESSING (Claims processing | Contract Administrator)
-    2017: DELTA AIR LINES, INC. OPTIONAL INSURANCES PLAN
-        Benefit Category: Other
-        Codes:  4B4L4Q
-        Participants: 
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY : CLAIMS PROCESSING (Claims processing | Contract Administrator)
    [002]
     2021: DELTA RETIREMENT PLAN
         Benefit Category: Pension
@@ -1361,17 +1368,6 @@ GA : ATLANTA
         Available Investments:
            - DELTA AIR LINES, INC.
                  : DELTA MASTER TRUST
-   [502]
-    2021: DELTA FAMILY-CARE DISABILITY AND SURVIVORSHIP PLAN
-        Benefit Category: Severance
-        Codes:  4B4C4F4H4I4L4Q
-        Participants: 
-        Assets: 21320868
-        $/Participant: 
-        Service Providers:
-           - SEDGWICK CLAIMS MGT SERVICES : CLMS PROC/CONT ADMIN (Claims processing | Contract Administrator)
-           - BDO USA LLP : AUDITOR (Accounting(including auditing))
-           - JP MORGAN CHASE : PARTY-IN-INTEREST (Trustee(bank, trust company, or similar) | Other fees)
    [545]
     2019: DELTA AIR LINES, INC. SEVERANCE PROGRAMS PLAN
         Benefit Category: Severance

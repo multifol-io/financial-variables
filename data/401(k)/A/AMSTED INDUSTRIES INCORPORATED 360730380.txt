@@ -165,46 +165,45 @@ IL : CHICAGO
         $/Participant: 387210
    [501]
     2021: AMSTED INDUSTRIES INCORPORATED WELFARE BENEFITS
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L
         Participants: 
     2020: AMSTED INDUSTRIES INCORPORATED WELFARE BENEFITS
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L
         Participants: 
     2019: AMSTED INDUSTRIES INCORPORATED WELFARE BENEFITS
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L
         Participants: 
     2018: AMSTED INDUSTRIES INCORPORATED WELFARE BENEFITS
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L
         Participants: 
     2017: AMSTED INDUSTRIES INCORPORATED WELFARE BENEFITS
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L
         Participants: 
    [502]
     2020: AMSTED INDUSTRIES INCORPORATED RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
     2019: AMSTED INDUSTRIES INCORPORATED RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
     2018: AMSTED INDUSTRIES INCORPORATED RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
     2017: AMSTED INDUSTRIES INCORPORATED RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
+        Participants: 
+    2021: AMSTED INDUSTRIES INCORPORATED RETIREE WELFARE BENEFIT PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
         Participants: 
    [126]
     2021: AMSTED INDUSTRIES CAP, RSP UNION AND JOINT VENTURES MST TRUST
@@ -336,11 +335,6 @@ IL : CHICAGO
                  : VANGUARD TARGET INC
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE
-   [502]
-    2021: AMSTED INDUSTRIES INCORPORATED RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
    [026]
     2021: AMSTED INDUSTRIES INCORPORATED DEFINED BENEFIT PENSION PLAN
         Benefit Category: Pension

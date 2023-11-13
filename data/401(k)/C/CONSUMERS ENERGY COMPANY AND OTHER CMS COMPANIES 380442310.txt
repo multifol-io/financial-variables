@@ -153,8 +153,7 @@ MI : JACKSON
            - VANGUARD FIDUCIARY TRUST
                  : VANGUARD TAR RET 2025 TRUST II
     2018: CONSUMERS ENERGY COMPANY EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2G2J2K2O2S2T3F3H 
         Participants: 10414
         Assets: 1475428863
@@ -191,8 +190,7 @@ MI : JACKSON
            - VANGUARD FIDUCIARY TRUST
                  : VANGUARD TAR RET 2025 TRUST II
     2017: CONSUMERS ENERGY COMPANY EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2G2J2K2O2S2T3F3H 
         Participants: 9745
         Assets: 1547832208
@@ -328,7 +326,7 @@ MI : JACKSON
                  : GRYPHON INTERN EAFE GROWTH FUND
    [518]
     2022: GROUP MEDICAL PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2021: GROUP MEDICAL PLAN FOR ACTIVE EMPLOYEES
@@ -363,6 +361,127 @@ MI : JACKSON
     2020: HEALTH REIMBURSEMENT ARRANGEMENT FOR RETIRED EMPLOYEES OF CONSUMERS ENERGY AND OTHER CMS ENERGY COMPANIES
         Benefit Category: Healthcare
         Codes:  4A
+        Participants: 
+   [502]
+    2022: RETIRED EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 53850857
+        $/Participant: 
+        Service Providers:
+           - DELOITTE TAX : CONSULTANT (Accounting(including auditing) | Consulting(general) | Direct payment from the plan | Consulting fees)
+           - NORTHERN TRUST : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other fees)
+           - NEW ENGLAND PENSION CONSULTANTS : CONSULTANT (Consulting(general) | Investment advisory(plan) | Valuation(appraisals, etc.) | Direct payment from the plan | Consulting fees)
+    2021: RETIRED EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 65036650
+        $/Participant: 
+        Service Providers:
+           - DELOITTE TAX : CONSULTANT (Accounting(including auditing) | Consulting(general) | Direct payment from the plan | Consulting fees)
+           - NORTHERN TRUST : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other fees)
+           - NEW ENGLAND PENSION CONSULTANTS : CONSULTANT (Consulting(general) | Investment advisory(plan) | Valuation(appraisals, etc.) | Direct payment from the plan | Consulting fees)
+    2020: RETIRED EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 58860425
+        $/Participant: 
+        Service Providers:
+           - NEW ENGLAND PENSION CONSULTANTS : CONSULTANT (Consulting(general) | Investment advisory(plan) | Valuation(appraisals, etc.) | Direct payment from the plan | Consulting fees)
+           - NORTHERN TRUST : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other fees)
+           - COMERICA BANK : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other fees)
+    2019: RETIRED EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 53340548
+        $/Participant: 
+        Service Providers:
+           - NEW ENGLAND PENSION CONSULTANTS : CONSULTANT (Consulting(general) | Investment advisory(plan) | Valuation(appraisals, etc.) | Direct payment from the plan | Consulting fees)
+           - COMERICA BANK : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other fees)
+    2018: RETIRED EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 46332475
+        $/Participant: 
+        Service Providers:
+           - NEW ENGLAND PENSION CONSULTANTS : CONSULTANT (Consulting(general) | Investment advisory(plan) | Valuation(appraisals, etc.) | Direct payment from the plan | Consulting fees)
+           - COMERICA BANK : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other fees)
+    2017: RETIRED EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 49260558
+        $/Participant: 
+        Service Providers:
+           - COMERICA BANK : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other fees)
+           - NEW ENGLAND PENSION CONSULTANTS : CONSULTANT (Consulting(general) | Investment advisory(plan) | Valuation(appraisals, etc.) | Direct payment from the plan | Consulting fees)
+   [504]
+    2021: GROUP TERM LIFE INSURANCE PLAN FOR OM&C EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2020: GROUP TERM LIFE INSURANCE PLAN FOR OM&C EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2019: GROUP TERM LIFE INSURANCE PLAN FOR OM&C EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2018: GROUP TERM LIFE INSURANCE PLAN FOR OM&C EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2017: GROUP TERM LIFE INSURANCE PLAN FOR OM&C EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+   [511]
+    2021: GROUP TERM LIFE INSURANCE PLAN FOR SALARIED EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2020: GROUP TERM LIFE INSURANCE PLAN FOR SALARIED EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2019: GROUP TERM LIFE INSURANCE PLAN FOR SALARIED EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2018: GROUP TERM LIFE INSURANCE PLAN FOR SALARIED EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2017: GROUP TERM LIFE INSURANCE PLAN FOR SALARIED EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+   [512]
+    2021: DEPENDENTS GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2020: DEPENDENTS GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2019: DEPENDENTS GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2018: DEPENDENTS GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2017: DEPENDENTS GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
         Participants: 
    [005]
     2022: CONSUMER ENERGY COMPANY MASTER TRUST FOR THE PENSION PLANS
@@ -470,85 +589,6 @@ MI : JACKSON
            - NORTHERN TRUST
                  : S&P 500 INDEX EQUITY STRATEGY
                  : S&P MIDCAP INDEX EQUITY
-   [502]
-    2022: RETIRED EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 53850857
-        $/Participant: 
-        Service Providers:
-           - DELOITTE TAX : CONSULTANT (Accounting(including auditing) | Consulting(general) | Direct payment from the plan | Consulting fees)
-           - NORTHERN TRUST : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other fees)
-           - NEW ENGLAND PENSION CONSULTANTS : CONSULTANT (Consulting(general) | Investment advisory(plan) | Valuation(appraisals, etc.) | Direct payment from the plan | Consulting fees)
-    2021: RETIRED EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 65036650
-        $/Participant: 
-        Service Providers:
-           - DELOITTE TAX : CONSULTANT (Accounting(including auditing) | Consulting(general) | Direct payment from the plan | Consulting fees)
-           - NORTHERN TRUST : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other fees)
-           - NEW ENGLAND PENSION CONSULTANTS : CONSULTANT (Consulting(general) | Investment advisory(plan) | Valuation(appraisals, etc.) | Direct payment from the plan | Consulting fees)
-    2020: RETIRED EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 58860425
-        $/Participant: 
-        Service Providers:
-           - NEW ENGLAND PENSION CONSULTANTS : CONSULTANT (Consulting(general) | Investment advisory(plan) | Valuation(appraisals, etc.) | Direct payment from the plan | Consulting fees)
-           - NORTHERN TRUST : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other fees)
-           - COMERICA BANK : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other fees)
-    2019: RETIRED EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 53340548
-        $/Participant: 
-        Service Providers:
-           - NEW ENGLAND PENSION CONSULTANTS : CONSULTANT (Consulting(general) | Investment advisory(plan) | Valuation(appraisals, etc.) | Direct payment from the plan | Consulting fees)
-           - COMERICA BANK : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other fees)
-    2018: RETIRED EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 46332475
-        $/Participant: 
-        Service Providers:
-           - NEW ENGLAND PENSION CONSULTANTS : CONSULTANT (Consulting(general) | Investment advisory(plan) | Valuation(appraisals, etc.) | Direct payment from the plan | Consulting fees)
-           - COMERICA BANK : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other fees)
-    2017: RETIRED EMPLOYEES GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 49260558
-        $/Participant: 
-        Service Providers:
-           - COMERICA BANK : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other fees)
-           - NEW ENGLAND PENSION CONSULTANTS : CONSULTANT (Consulting(general) | Investment advisory(plan) | Valuation(appraisals, etc.) | Direct payment from the plan | Consulting fees)
-   [504]
-    2021: GROUP TERM LIFE INSURANCE PLAN FOR OM&C EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2020: GROUP TERM LIFE INSURANCE PLAN FOR OM&C EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2019: GROUP TERM LIFE INSURANCE PLAN FOR OM&C EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2018: GROUP TERM LIFE INSURANCE PLAN FOR OM&C EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2017: GROUP TERM LIFE INSURANCE PLAN FOR OM&C EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
    [507]
     2021: GROUP LONG TERM DISABILITY PLAN
         Benefit Category: Other
@@ -590,48 +630,6 @@ MI : JACKSON
     2017: TRAVEL ACCIDENT INSURANCE PLAN
         Benefit Category: Other
         Codes:  4L
-        Participants: 
-   [511]
-    2021: GROUP TERM LIFE INSURANCE PLAN FOR SALARIED EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2020: GROUP TERM LIFE INSURANCE PLAN FOR SALARIED EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2019: GROUP TERM LIFE INSURANCE PLAN FOR SALARIED EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2018: GROUP TERM LIFE INSURANCE PLAN FOR SALARIED EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2017: GROUP TERM LIFE INSURANCE PLAN FOR SALARIED EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-   [512]
-    2021: DEPENDENTS GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2020: DEPENDENTS GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2019: DEPENDENTS GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2018: DEPENDENTS GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2017: DEPENDENTS GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
         Participants: 
    [514]
     2021: FLEXFUND PLAN

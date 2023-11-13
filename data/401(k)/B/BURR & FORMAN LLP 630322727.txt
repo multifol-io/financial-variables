@@ -72,22 +72,6 @@ AL : BIRMINGHAM
                  : GROWTH MANAGED ACCT PORTFOLIO
                  : INCOME MANAGED ACCT PORTFOLIO
                  : MODERATE MANAGED ACCT PORTFOLIO
-    2017: BURR & FORMAN LLP PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2T3B 4B
-        Participants: 657
-        Assets: 168871206
-        $/Participant: 257033
-        RecordKeeper: RAYMOND F JAMES FINANCIAL ADVISORS
-        Available Investments:
-           - WELLS FARGO BANK, N.A.
-                 : STABLE RETURN FUND N15
-           - WILMINGTON TRUST
-                 : AGGRESSIVE MANAGED ACCT PORTFOLIO
-                 : CONSERVATIVE MANAGED ACCT PORTFOLIO
-                 : GROWTH MANAGED ACCT PORTFOLIO
-                 : INCOME MANAGED ACCT PORTFOLIO
-                 : MODERATE MANAGED ACCT PORTFOLIO
    [003]
     2022: BURR & FORMAN LLP EMPLOYEES' 401(K) PLAN
         Benefit Category: 401(k)
@@ -177,29 +161,46 @@ AL : BIRMINGHAM
                  : MODERATE MANAGED ACCOUNT PORTFOLIO
    [501]
     2022: BURR & FORMAN LLP EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2021: BURR & FORMAN LLP EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2020: BURR & FORMAN LLP EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2019: BURR & FORMAN LLP EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2018: BURR & FORMAN LLP EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2017: BURR & FORMAN LLP EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
+   [001]
+    2017: BURR & FORMAN LLP PROFIT SHARING PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2F2G2J2K2R2T3B 4B
+        Participants: 657
+        Assets: 168871206
+        $/Participant: 257033
+        RecordKeeper: RAYMOND F JAMES FINANCIAL ADVISORS
+        Available Investments:
+           - WELLS FARGO BANK, N.A.
+                 : STABLE RETURN FUND N15
+           - WILMINGTON TRUST
+                 : AGGRESSIVE MANAGED ACCT PORTFOLIO
+                 : CONSERVATIVE MANAGED ACCT PORTFOLIO
+                 : GROWTH MANAGED ACCT PORTFOLIO
+                 : INCOME MANAGED ACCT PORTFOLIO
+                 : MODERATE MANAGED ACCT PORTFOLIO
    [004]
     2022: BURR & FORMAN LLP CASH BALANCE PLAN
         Benefit Category: Pension

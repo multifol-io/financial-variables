@@ -10,8 +10,7 @@ AZ : SPRINGVILLE
 PA : RADNOR
    [006]
     2022: LNL AGENTS' 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2G2J2K2O2R2T3H 
         Participants: 1120
         Assets: 239421503
@@ -55,8 +54,7 @@ PA : RADNOR
                  : TARGET RETIREMENT INCOME NON-LENDIN
                  : US BOND INDEX NON-LENDING SERIES
     2021: LNL AGENTS' 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2G2J2K2O2R2T3H 
         Participants: 1165
         Assets: 309884210
@@ -93,8 +91,7 @@ PA : RADNOR
                  : TARGET RETIREMENT INCOME FUND
                  : U.S. BOND INDEX FUND
     2020: LNL AGENTS' 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2G2J2K2O2R2T3H 
         Participants: 1014
         Assets: 288521847
@@ -130,8 +127,7 @@ PA : RADNOR
                  : TARGET RETIREMENT INCOME FUND
                  : U.S. BOND INDEX FUND
     2019: LNL AGENTS' 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2G2J2K2O2R2T3H 
         Participants: 1076
         Assets: 260024415
@@ -167,8 +163,7 @@ PA : RADNOR
                  : TARGET RETIREMENT INCOME FUND
                  : U.S. BOND INDEX FUND
     2018: LNL AGENTS' 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2G2J2K2O2R2T3H 
         Participants: 1126
         Assets: 231512430
@@ -202,8 +197,7 @@ PA : RADNOR
                  : TARGET RETIREMENT INCOME FUND
                  : U.S. BOND INDEX FUND
     2017: LNL AGENTS' 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2G2J2K2O2R2T3H 
         Participants: 1186
         Assets: 260305727
@@ -453,20 +447,20 @@ PA : RADNOR
 OK : BROKEN ARROW
    [501]
     2019: BROTHERTON HOLDINGS INC
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B
         Participants: 101
 PA : RADNOR
    [502]
     2022: LINCOLN NATIONAL LIFE INSURANCE CO AGENTS LIFE, HEALTH & ACCIDENT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 490298
         $/Participant: 
         RecordKeeper: IBM
     2021: LINCOLN NATIONAL LIFE INSURANCE CO AGENTS LIFE, HEALTH & ACCIDENT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 1168404
@@ -476,28 +470,28 @@ PA : RADNOR
            - MITCHELL & TITUS :  (Accounting(including auditing))
            - LINCOLN NATIONAL LIFE INSURANCE CO : SUBSIDIARY (Plan Administrator)
     2020: LINCOLN NATIONAL LIFE INSURANCE CO AGENTS LIFE, HEALTH & ACCIDENT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 1069363
         $/Participant: 
         RecordKeeper: HEALTH EQUITY
     2019: LINCOLN NATIONAL LIFE INSURANCE CO AGENTS LIFE, HEALTH & ACCIDENT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 3688594
         $/Participant: 
         RecordKeeper: IBM WATSON
     2018: LINCOLN NATIONAL LIFE INSURANCE CO AGENTS LIFE, HEALTH & ACCIDENT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 6237317
         $/Participant: 
         RecordKeeper: HEALTH EQUITY
     2017: LINCOLN NATIONAL LIFE INSURANCE CO AGENTS LIFE, HEALTH & ACCIDENT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 8692307
@@ -530,14 +524,14 @@ PA : RADNOR
         Participants: 
    [511]
     2022: LINCOLN NATIONAL LIFE INSURANCE CO LIFE & HEALTH PLAN FOR RETIRED AGENTS
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D
         Participants: 
         Assets: 1722683
         $/Participant: 
         RecordKeeper: LINCOLN NATIONAL LIFE INSURANCE CO
     2021: LINCOLN NATIONAL LIFE INSURANCE CO LIFE & HEALTH PLAN FOR RETIRED AGENTS
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D
         Participants: 
         Assets: 1694026
@@ -548,7 +542,7 @@ PA : RADNOR
            - MEDICAL CARD SYSTEMS :  (Plan Administrator)
            - LINCOLN NATIONAL LIFE INSURANCE CO : SUBSIDIARY (Plan Administrator)
     2020: LINCOLN NATIONAL LIFE INSURANCE CO LIFE & HEALTH PLAN FOR RETIRED AGENTS
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D
         Participants: 
         Assets: 1934412
@@ -560,7 +554,7 @@ PA : RADNOR
            - LINCOLN NATIONAL LIFE INSURANCE CO : SUBSIDIARY (Plan Administrator)
            - MEDICAL CARD SYSTEMS :  (Plan Administrator)
     2019: LINCOLN NATIONAL LIFE INSURANCE CO LIFE & HEALTH PLAN FOR RETIRED AGENTS
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D
         Participants: 
         Assets: 975601
@@ -572,7 +566,7 @@ PA : RADNOR
            - LINCOLN NATIONAL LIFE INSURANCE CO : SUBSIDIARY (Plan Administrator)
            - MEDICAL CARD SYSTEMS :  (Plan Administrator)
     2018: LINCOLN NATIONAL LIFE INSURANCE CO LIFE & HEALTH PLAN FOR RETIRED AGENTS
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D
         Participants: 
         Assets: 941728
@@ -583,12 +577,30 @@ PA : RADNOR
            - MITCHELL & TITUS :  (Accounting(including auditing))
            - MEDICAL CARD SYSTEMS :  (Plan Administrator)
     2017: LINCOLN NATIONAL LIFE INSURANCE CO LIFE & HEALTH PLAN FOR RETIRED AGENTS
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D
         Participants: 
         Assets: 1141317
         $/Participant: 
         RecordKeeper: TOWERS WATSON DELAWARE INC/TRUVEN
+IA : GUTTENBERG
+   [501]
+    2020: GUTTENBERG MUNICIPAL HOSPITAL
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 127
+WI : MILWAUKEE
+    2017: FOUNDERS 3 REAL ESTATE SERVICES BENEFIT PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4F4H4Q
+        Participants: 
+AL : HUNTSVILLE
+   [508]
+    2020: LINCOLN NATIONAL LIFE INSURANCE COMPANY
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 149
+PA : RADNOR
    [005]
     2022: LNL MONEY PURCHASE PLAN
         Benefit Category: Other
@@ -1655,18 +1667,6 @@ PA : RADNOR
         Participants: 
         Assets: 2077054973
         $/Participant: 
-IA : GUTTENBERG
-   [501]
-    2020: GUTTENBERG MUNICIPAL HOSPITAL
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 127
-WI : MILWAUKEE
-    2017: FOUNDERS 3 REAL ESTATE SERVICES BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4B4F4H4Q
-        Participants: 
-PA : RADNOR
    [503]
     2022: LINCOLN NATIONAL LIFE INS CO AGENTS LONG TERM DISABILITY PLAN
         Benefit Category: Other
@@ -1703,11 +1703,6 @@ AL : HUNTSVILLE
         Benefit Category: Other
         Codes:  4E
         Participants: 115
-   [508]
-    2020: LINCOLN NATIONAL LIFE INSURANCE COMPANY
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 149
    [510]
     2021: DESE RESEARCH, INC.
         Benefit Category: Other

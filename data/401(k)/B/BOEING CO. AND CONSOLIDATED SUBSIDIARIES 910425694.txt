@@ -2,8 +2,7 @@ WA : SEATTLE
   BOEING CO. AND CONSOLIDATED SUBSIDIARIES  910425694
    [002]
     2022: THE BOEING COMPANY 401(K) RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2G2J2K2O2S2T3F3H2F 
         Participants: 208803
         Assets: 63503643295
@@ -12,8 +11,7 @@ WA : SEATTLE
            - THE BOEING CO. & CONSOLIDATED SUBS
                  : TBC ESP MT INVESTMENT ACCOUNT
     2021: THE BOEING COMPANY VOLUNTARY INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2G2J2K2O2S2T3F3H2F 
         Participants: 202854
         Assets: 73872504486
@@ -22,8 +20,7 @@ WA : SEATTLE
            - THE BOEING CO. & CONSOLIDATED SUBS
                  : TBC ESP MT INVESTMENT ACCOUNT
     2020: THE BOEING COMPANY VOLUNTARY INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2G2J2K2O2S2T3F3H2F 
         Participants: 207058
         Assets: 68804166623
@@ -32,8 +29,7 @@ WA : SEATTLE
            - THE BOEING CO. & CONSOLIDATED SUBS
                  : TBC ESP MT INVESTMENT ACCOUNT
     2019: THE BOEING COMPANY VOLUNTARY INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2G2J2K2O2S2T3F3H2F 
         Participants: 210869
         Assets: 67171473834
@@ -42,8 +38,7 @@ WA : SEATTLE
            - THE BOEING CO. & CONSOLIDATED SUBS
                  : TBC ESP MT INVESTMENT ACCOUNT
     2018: THE BOEING COMPANY VOLUNTARY INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2G2J2K2O2S2T3F3H2F 
         Participants: 205460
         Assets: 58698479508
@@ -52,8 +47,7 @@ WA : SEATTLE
            - THE BOEING CO. & CONSOLIDATED SUBS
                  : TBC ESP MT INVESTMENT ACCOUNT
     2017: THE BOEING COMPANY VOLUNTARY INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2G2J2K2O2S2T3F3H2F 
         Participants: 198865
         Assets: 60304850561
@@ -153,27 +147,27 @@ WA : SEATTLE
                  : TBCV MT SHORT TERM INVESTMENT FUND
    [503]
     2022: THE BOEING COMPANY EMPLOYEE HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2021: THE BOEING COMPANY EMPLOYEE HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2020: THE BOEING COMPANY EMPLOYEE HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2019: THE BOEING COMPANY EMPLOYEE HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2018: THE BOEING COMPANY EMPLOYEE HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2017: THE BOEING COMPANY EMPLOYEE HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
    [532]
@@ -289,7 +283,7 @@ WA : SEATTLE
            - THE BOEING CO & CONSOLIDATED SUBS
                  : TBCV MT SHORT TERM INVESTMENT FUND
     2021: THE BOEING COMPANY CONSOLIDATED HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
         Assets: 241620238
@@ -310,7 +304,7 @@ WA : SEATTLE
            - THE BOEING CO & CONSOLIDATED SUBS
                  : TBCV MT SHORT TERM INVESTMENT FUND
     2020: THE BOEING COMPANY CONSOLIDATED HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
         Assets: 247742952
@@ -332,7 +326,7 @@ WA : SEATTLE
            - THE BOEING CO & CONSOLIDATED SUBS
                  : TBCV MT SHORT TERM INVESTMENT FUND
     2019: THE BOEING COMPANY CONSOLIDATED HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
         Assets: 230348550
@@ -356,7 +350,7 @@ WA : SEATTLE
            - THE BOEING CO & CONSOLIDATED SUBS
                  : TBCV MT SHORT TERM INVESTMENT FUND
     2018: THE BOEING COMPANY CONSOLIDATED HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
         Assets: 200054988
@@ -382,7 +376,7 @@ WA : SEATTLE
            - THE BOEING CO & CONSOLIDATED SUBS
                  : TBCV MT SHORT TERM INVESTMENT FUND
     2017: THE BOEING COMPANY CONSOLIDATED HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
         Assets: 231386137
@@ -426,6 +420,11 @@ WA : SEATTLE
         Available Investments:
            - THE BOIENG CO & CONSOLIDATED SUBSIDIARIES
                  : TBCV MT SHORT TERM INVESTMENT FUND
+   [720]
+    2022: THE BOEING COMPANY CONSOLIDATED RETIREE WELFARE BENEFIT PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4Q
+        Participants: 
    [062]
     2022: THE BOEING COMPANY EMPLOYEE RETIREMENT PLANS MASTER TRUST
         Benefit Category: Other
@@ -817,11 +816,6 @@ WA : SEATTLE
         Participants: 
         Assets: 891737
         $/Participant: 
-   [720]
-    2022: THE BOEING COMPANY CONSOLIDATED RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4B4Q
-        Participants: 
    [001]
     2022: THE BOEING COMPANY EMPLOYEE RETIREMENT PLAN
         Benefit Category: Pension

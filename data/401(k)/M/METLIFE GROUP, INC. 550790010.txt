@@ -109,23 +109,20 @@ NJ : BRIDGEWATER
                  : SMALL CAP EQUITY - 596
    [511]
     2022: METLIFE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4G4I4L4Q
         Participants: 
     2021: METLIFE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4G4I4L4Q
         Participants: 
     2020: METLIFE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4G4I4L4Q
         Participants: 
    [512]
     2022: METLIFE OPTIONS & CHOICES PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Assets: 1269017360
@@ -145,7 +142,7 @@ NJ : BRIDGEWATER
                  : METLIFE US CREDIT - SA 543
                  : SD GOV CREDIT - SA 573
     2021: METLIFE OPTIONS & CHOICES PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H
         Participants: 
         Assets: 1429187917
@@ -166,7 +163,7 @@ NJ : BRIDGEWATER
                  : METLIFE US CREDIT - SA 543
                  : SD GOV CREDIT - SA 573
     2020: METLIFE OPTIONS & CHOICES PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H
         Participants: 
         Assets: 1481989234
@@ -187,7 +184,7 @@ NJ : BRIDGEWATER
                  : METLIFE US CREDIT - SA 543
                  : SD GOV CREDIT - SA 573
     2019: METLIFE OPTIONS & CHOICES PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H
         Participants: 
         Assets: 1458114766
@@ -212,7 +209,7 @@ NJ : BRIDGEWATER
                  : SMALL CAPITAL INDEX 243
                  : WAMCO LONG DURATION 504
     2018: METLIFE OPTIONS & CHOICES PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H
         Participants: 
         Assets: 1361724099
@@ -235,6 +232,15 @@ NJ : BRIDGEWATER
                  : S&P BARRA VALUE INDEX 089
                  : SMALL CAPITAL INDEX 243
                  : WAMCO LONG DURATION 504
+   [511]
+    2019: METLIFE WELFARE BENEFIT PLAN
+        Benefit Category: Life Insurance, Severance
+        Codes:  4B4G4I4L4Q
+        Participants: 
+    2018: METLIFE WELFARE BENEFIT PLAN
+        Benefit Category: Life Insurance, Severance
+        Codes:  4B4G4I4L4Q
+        Participants: 
    [001]
     2022: METLIFE RETIREMENT PLAN
         Benefit Category: Pension
@@ -404,12 +410,3 @@ NJ : BRIDGEWATER
                  : PRIVATE REAL ESTATE INV TRUST 564
                  : RUSSELL 1000 GROWTH INDEX 723
                  : US LONG GOV/CREDIT BOND 817
-   [511]
-    2019: METLIFE WELFARE BENEFIT PLAN
-        Benefit Category: Severance
-        Codes:  4B4G4I4L4Q
-        Participants: 
-    2018: METLIFE WELFARE BENEFIT PLAN
-        Benefit Category: Severance
-        Codes:  4B4G4I4L4Q
-        Participants: 

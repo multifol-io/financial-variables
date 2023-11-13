@@ -1,66 +1,5 @@
 AL : BIRMINGHAM
   BALCH & BINGHAM LLP  630328165
-   [001]
-    2022: BALCH & BINGHAM LLP 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2A2F2G2K2R3B3D2T3H 4B
-        Participants: 514
-        Assets: 254015136
-        $/Participant: 494192
-        RecordKeeper: RELIANCE TRUST COMPANY
-        Available Investments:
-           - EMPOWER
-                 : WELLS FARGO STABLE VALUE FUND
-    2021: BALCH & BINGHAM LLP 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2A2F2G2K2R3B3D2T3H 4B
-        Participants: 513
-        Assets: 320686358
-        $/Participant: 625119
-        RecordKeeper: WILMINGTON TRUST
-        Available Investments:
-           - MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY
-                 : WELLS FARGO STABLE VALUE
-    2020: BALCH & BINGHAM LLP 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2A2F2G2K2R3D3H2T3B 4B
-        Participants: 540
-        Assets: 280246854
-        $/Participant: 518975
-        RecordKeeper: WILMINGTON TRUST
-        Available Investments:
-           - MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY
-                 : WELLS FARGO STABLE VALUE
-    2019: BALCH & BINGHAM LLP 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2R2T3B3D 4B
-        Participants: 513
-        Assets: 255041505
-        $/Participant: 497156
-        RecordKeeper: WELLS FARGO
-        Available Investments:
-           - MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY
-                 : WELLS FARGO STABLE VALUE
-    2018: BALCH & BINGHAM LLP 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2A2F2G2K2R3D2T3B 4B
-        Participants: 517
-        Assets: 224419060
-        $/Participant: 434079
-        RecordKeeper: WILLIAM BLAIR
-        Available Investments:
-           - MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY
-                 : WELLS FARGO STABLE VALUE
-    2017: BALCH & BINGHAM LLP 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2A2F2G2K2R3D2T3B 4B
-        Participants: 519
-        Assets: 239674965
-        $/Participant: 461801
-        RecordKeeper: PIMCO FUNDS
-        Available Investments:
-           - MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY
-                 : WELLS FARGO STABLE VALUE
    [501]
     2022: BALCH & BINGHAM HEALTH CARE PLAN
         Benefit Category: Healthcare
@@ -219,6 +158,117 @@ AL : BIRMINGHAM
         Benefit Category: Healthcare
         Codes:  4A
         Participants: 373
+   [001]
+    2022: BALCH & BINGHAM LLP 401(K) PROFIT SHARING PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2J2A2F2G2K2R3B3D2T3H 4B
+        Participants: 514
+        Assets: 254015136
+        $/Participant: 494192
+        RecordKeeper: RELIANCE TRUST COMPANY
+        Available Investments:
+           - EMPOWER
+                 : WELLS FARGO STABLE VALUE FUND
+    2021: BALCH & BINGHAM LLP 401(K) PROFIT SHARING PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2J2A2F2G2K2R3B3D2T3H 4B
+        Participants: 513
+        Assets: 320686358
+        $/Participant: 625119
+        RecordKeeper: WILMINGTON TRUST
+        Available Investments:
+           - MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY
+                 : WELLS FARGO STABLE VALUE
+    2020: BALCH & BINGHAM LLP 401(K) PROFIT SHARING PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2J2A2F2G2K2R3D3H2T3B 4B
+        Participants: 540
+        Assets: 280246854
+        $/Participant: 518975
+        RecordKeeper: WILMINGTON TRUST
+        Available Investments:
+           - MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY
+                 : WELLS FARGO STABLE VALUE
+    2019: BALCH & BINGHAM LLP 401(K) PROFIT SHARING PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3B3D 4B
+        Participants: 513
+        Assets: 255041505
+        $/Participant: 497156
+        RecordKeeper: WELLS FARGO
+        Available Investments:
+           - MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY
+                 : WELLS FARGO STABLE VALUE
+    2018: BALCH & BINGHAM LLP 401(K) PROFIT SHARING PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2J2A2F2G2K2R3D2T3B 4B
+        Participants: 517
+        Assets: 224419060
+        $/Participant: 434079
+        RecordKeeper: WILLIAM BLAIR
+        Available Investments:
+           - MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY
+                 : WELLS FARGO STABLE VALUE
+    2017: BALCH & BINGHAM LLP 401(K) PROFIT SHARING PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2J2A2F2G2K2R3D2T3B 4B
+        Participants: 519
+        Assets: 239674965
+        $/Participant: 461801
+        RecordKeeper: PIMCO FUNDS
+        Available Investments:
+           - MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY
+                 : WELLS FARGO STABLE VALUE
+   [505]
+    2022: BALCH & BINGHAM LLP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 351
+    2021: BALCH & BINGHAM LLP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 349
+    2020: BALCH & BINGHAM LLP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 343
+    2019: BALCH & BINGHAM LLP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 349
+    2018: BALCH & BINGHAM LLP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 359
+    2017: BALCH & BINGHAM LLP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 372
+   [506]
+    2022: BALCH & BINGHAM LLP VOLUNTARY LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 113
+    2021: BALCH & BINGHAM LLP VOLUNTARY LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 112
+    2020: BALCH & BINGHAM LLP VOLUNTARY LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 116
+    2019: BALCH & BINGHAM LLP VOLUNTARY LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 110
+    2018: BALCH & BINGHAM LLP VOLUNTARY LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 114
+    2017: BALCH & BINGHAM LLP VOLUNTARY LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 123
    [502]
     2022: BALCH & BINGHAM LONG-TERM DISABILITY PLAN
         Benefit Category: Other
@@ -244,56 +294,6 @@ AL : BIRMINGHAM
         Benefit Category: Other
         Codes:  4H
         Participants: 372
-   [505]
-    2022: BALCH & BINGHAM LLP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 351
-    2021: BALCH & BINGHAM LLP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 349
-    2020: BALCH & BINGHAM LLP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 343
-    2019: BALCH & BINGHAM LLP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 349
-    2018: BALCH & BINGHAM LLP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 359
-    2017: BALCH & BINGHAM LLP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 372
-   [506]
-    2022: BALCH & BINGHAM LLP VOLUNTARY LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 113
-    2021: BALCH & BINGHAM LLP VOLUNTARY LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 112
-    2020: BALCH & BINGHAM LLP VOLUNTARY LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 116
-    2019: BALCH & BINGHAM LLP VOLUNTARY LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 110
-    2018: BALCH & BINGHAM LLP VOLUNTARY LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 114
-    2017: BALCH & BINGHAM LLP VOLUNTARY LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 123
    [507]
     2022: BALCH & BINGHAM VISION PLAN
         Benefit Category: Other

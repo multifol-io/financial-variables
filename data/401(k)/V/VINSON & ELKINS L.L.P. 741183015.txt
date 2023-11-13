@@ -136,8 +136,7 @@ TX : HOUSTON
                  : PARTICIPANT-DIRECTED MTIA D
    [501]
     2022: VINSON & ELKINS L.L.P. GROUP MEDICAL, DENTAL & PRESCRIPTION DRUG PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
         Service Providers:
@@ -145,8 +144,7 @@ TX : HOUSTON
            - AETNA BEHAVIORAL HEALTH, LLC : PLAN ADMINISTRATOR (Plan Administrator)
            - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
     2021: VINSON & ELKINS L.L.P. GROUP MEDICAL, DENTAL & PRESCRIPTION DRUG PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
         Service Providers:
@@ -154,8 +152,7 @@ TX : HOUSTON
            - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - UNUM LIFE INSURANCE CO OF AMERICA : CONTRACT ADMINISTRATOR (Contract Administrator)
     2020: VINSON & ELKINS L.L.P. GROUP MEDICAL, DENTAL & PRESCRIPTION DRUG PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
         Service Providers:
@@ -199,6 +196,45 @@ TX : HOUSTON
     2017: VINSON & ELKINS L.L.P. EMPLOYEE ASSISTANCE PLAN
         Benefit Category: Healthcare
         Codes:  4A
+        Participants: 
+   [502]
+    2019: VINSON & ELKINS L.L.P. GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2018: VINSON & ELKINS L.L.P. GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2017: VINSON & ELKINS L.L.P. GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+   [505]
+    2019: VINSON & ELKINS L.L.P. ACCIDENTAL DEATH & DISMEMBERMENT PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2018: VINSON & ELKINS L.L.P. ACCIDENTAL DEATH & DISMEMBERMENT PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2017: VINSON & ELKINS L.L.P. ACCIDENTAL DEATH & DISMEMBERMENT PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+   [506]
+    2019: VINSON & ELKINS L.L.P. SUPPLEMENTAL ACCIDENTAL DEATH & DISMEMBERMENT PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2018: VINSON & ELKINS L.L.P. SUPPLEMENTAL ACCIDENTAL DEATH & DISMEMBERMENT PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2017: VINSON & ELKINS L.L.P. SUPPLEMENTAL ACCIDENTAL DEATH & DISMEMBERMENT PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
         Participants: 
    [004]
     2022: VINSON & ELKINS L.L.P. RETIREMENT PLAN MASTER TRUST GENERAL FUND
@@ -635,19 +671,6 @@ TX : HOUSTON
         Available Investments:
            - ACADIAN INTL EQTY MANAGED VOL FND
                  : ACADIAN ASSET MANAGEMENT LLC
-   [502]
-    2019: VINSON & ELKINS L.L.P. GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2018: VINSON & ELKINS L.L.P. GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2017: VINSON & ELKINS L.L.P. GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
    [504]
     2019: VINSON & ELKINS L.L.P. LONG-TERM DISABILITY INSURANCE PLAN
         Benefit Category: Other
@@ -660,32 +683,6 @@ TX : HOUSTON
     2017: VINSON & ELKINS L.L.P. LONG-TERM DISABILITY INSURANCE PLAN
         Benefit Category: Other
         Codes:  4H
-        Participants: 
-   [505]
-    2019: VINSON & ELKINS L.L.P. ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2018: VINSON & ELKINS L.L.P. ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2017: VINSON & ELKINS L.L.P. ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-   [506]
-    2019: VINSON & ELKINS L.L.P. SUPPLEMENTAL ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2018: VINSON & ELKINS L.L.P. SUPPLEMENTAL ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2017: VINSON & ELKINS L.L.P. SUPPLEMENTAL ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4B
         Participants: 
    [515]
     2019: VINSON & ELKINS L.L.P. VISION SERVICE PLAN

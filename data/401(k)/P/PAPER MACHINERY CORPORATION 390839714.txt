@@ -1,80 +1,5 @@
 WI : MILWAUKEE
   PAPER MACHINERY CORPORATION  390839714
-   [001]
-    2022: PAPER MACHINERY CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D3F 4B
-        Participants: 227
-        Assets: 61636070
-        $/Participant: 271524
-        Available Investments:
-           - ALTA TRUST
-                 : STABLE VALUE FIXED INCOME CIT
-           - BMO HARRIS BANK N.A.
-                 : ONEAMERICA STBL VAL Z FD
-           - PRINCIPAL LIFE INSURANCE COMPANY
-                 : PRIN LGCP S&P 500 IDX SA-NE
-                 : PRIN MIDCAP S&P 400 IDX SA-NE
-                 : PRIN SMCAP S&P 600 INDEX SA-NE
-           - PUTNAM FIDUCIARY TRUST COMPANY
-                 : PUTNAM LARGE CP VALUE TRUST IA
-           - STATE STREET BANK AND TRUST COMPANY
-                 : STATE ST WD DV EX US IDX II FD
-                 : STATE STREET US BD ID SL XIV
-           - STATE STREET GLOBAL ADVISORS
-                 : STATE STREET EM IDX SL II FD
-           - WILMINGTON TRUST, N.A.
-                 : AB US LG CP GTH CIT W SRS CL L
-    2021: PAPER MACHINERY CORPORATION PROFIT SHARING & SAVINGS PLAN AND TRUST
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 4B
-        Participants: 249
-        Assets: 73102934
-        $/Participant: 293586
-        RecordKeeper: MATRIX TRUST COMPANY
-        Available Investments:
-           - BMO HARRIS BANK, NA
-                 : ONEAMERICA STABLE VALUE FUND CL Z
-    2020: PAPER MACHINERY CORPORATION PROFIT SHARING & SAVINGS PLAN AND TRUST
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 4B
-        Participants: 277
-        Assets: 67556268
-        $/Participant: 243885
-        RecordKeeper: BMO HARRIS BANK, NA
-        Available Investments:
-           - BMO HARRIS BANK, NA
-                 : BMO STABLE VALUE FUND CLASS Z
-    2019: PAPER MACHINERY CORPORATION PROFIT SHARING & SAVINGS PLAN AND TRUST
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 4B
-        Participants: 272
-        Assets: 65818385
-        $/Participant: 241979
-        RecordKeeper: BMO HARRIS BANK, NA
-        Available Investments:
-           - BMO HARRIS BANK, NA
-                 : BMO STABLE VALUE FUND CLASS Z
-    2018: PAPER MACHINERY CORPORATION PROFIT SHARING & SAVINGS PLAN AND TRUST
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 4B
-        Participants: 276
-        Assets: 57901293
-        $/Participant: 209787
-        RecordKeeper: BMO HARRIS BANK, NA
-        Available Investments:
-           - BMO HARRIS BANK, NA
-                 : BMO STABLE VALUE FUND CLASS I
-    2017: PAPER MACHINERY CORPORATION PROFIT SHARING & SAVINGS PLAN AND TRUST
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 4B
-        Participants: 272
-        Assets: 62941286
-        $/Participant: 231401
-        RecordKeeper: BMO HARRIS BANK, NA
-        Available Investments:
-           - BMO HARRIS BANK, NA
-                 : BMO STABLE VALUE FUND CLASS I
    [002]
     2022: PAPER MACHINERY HOLDING CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
         Benefit Category: Employee Stock Ownership Plan
@@ -141,28 +66,103 @@ WI : MILWAUKEE
            - M3 INSURNCE SOLUTIONS, INC. : INSURANCE AGENT (Insurance agents and brokers)
    [503]
     2022: PAPER MACHINERY CORPORATION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
+   [001]
+    2022: PAPER MACHINERY CORPORATION 401(K) PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3F 4B
+        Participants: 227
+        Assets: 61636070
+        $/Participant: 271524
+        Available Investments:
+           - ALTA TRUST
+                 : STABLE VALUE FIXED INCOME CIT
+           - BMO HARRIS BANK N.A.
+                 : ONEAMERICA STBL VAL Z FD
+           - PRINCIPAL LIFE INSURANCE COMPANY
+                 : PRIN LGCP S&P 500 IDX SA-NE
+                 : PRIN MIDCAP S&P 400 IDX SA-NE
+                 : PRIN SMCAP S&P 600 INDEX SA-NE
+           - PUTNAM FIDUCIARY TRUST COMPANY
+                 : PUTNAM LARGE CP VALUE TRUST IA
+           - STATE STREET BANK AND TRUST COMPANY
+                 : STATE ST WD DV EX US IDX II FD
+                 : STATE STREET US BD ID SL XIV
+           - STATE STREET GLOBAL ADVISORS
+                 : STATE STREET EM IDX SL II FD
+           - WILMINGTON TRUST, N.A.
+                 : AB US LG CP GTH CIT W SRS CL L
+    2021: PAPER MACHINERY CORPORATION PROFIT SHARING & SAVINGS PLAN AND TRUST
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 4B
+        Participants: 249
+        Assets: 73102934
+        $/Participant: 293586
+        RecordKeeper: MATRIX TRUST COMPANY
+        Available Investments:
+           - BMO HARRIS BANK, NA
+                 : ONEAMERICA STABLE VALUE FUND CL Z
+    2020: PAPER MACHINERY CORPORATION PROFIT SHARING & SAVINGS PLAN AND TRUST
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 4B
+        Participants: 277
+        Assets: 67556268
+        $/Participant: 243885
+        RecordKeeper: BMO HARRIS BANK, NA
+        Available Investments:
+           - BMO HARRIS BANK, NA
+                 : BMO STABLE VALUE FUND CLASS Z
+    2019: PAPER MACHINERY CORPORATION PROFIT SHARING & SAVINGS PLAN AND TRUST
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 4B
+        Participants: 272
+        Assets: 65818385
+        $/Participant: 241979
+        RecordKeeper: BMO HARRIS BANK, NA
+        Available Investments:
+           - BMO HARRIS BANK, NA
+                 : BMO STABLE VALUE FUND CLASS Z
+    2018: PAPER MACHINERY CORPORATION PROFIT SHARING & SAVINGS PLAN AND TRUST
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 4B
+        Participants: 276
+        Assets: 57901293
+        $/Participant: 209787
+        RecordKeeper: BMO HARRIS BANK, NA
+        Available Investments:
+           - BMO HARRIS BANK, NA
+                 : BMO STABLE VALUE FUND CLASS I
+    2017: PAPER MACHINERY CORPORATION PROFIT SHARING & SAVINGS PLAN AND TRUST
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2F2G2J2K2T3D 4B
+        Participants: 272
+        Assets: 62941286
+        $/Participant: 231401
+        RecordKeeper: BMO HARRIS BANK, NA
+        Available Investments:
+           - BMO HARRIS BANK, NA
+                 : BMO STABLE VALUE FUND CLASS I
    [502]
     2021: PAPER MACHINERY CORP GROUP LIFE AND DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4F4H4L
         Participants: 
     2020: PAPER MACHINERY CORP GROUP LIFE AND DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4F4H
         Participants: 230
     2019: PAPER MACHINERY CORP GROUP LIFE AND DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4F4H
         Participants: 229
     2018: PAPER MACHINERY CORP GROUP LIFE AND DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4F4H
         Participants: 
     2017: PAPER MACHINERY CORP GROUP LIFE AND DISABILITY PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4F4H
         Participants: 
    [503]

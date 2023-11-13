@@ -368,8 +368,7 @@ PA : ALLENTOWN
                  : PRUDENTIAL CORE PLUS BOND FUND 6
    [501]
     2022: PPL EMPLOYEE GROUP HEALTH AND INSURANCE PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L4G
         Participants: 
         Assets: 25257908
@@ -382,8 +381,7 @@ PA : ALLENTOWN
                  : BNYM CF SL AGGREGATE BOND INDEX FUN
                  : BNYM MELLON CF NSL DYNAMIC U.S. EQU
     2021: PPL EMPLOYEE GROUP HEALTH AND INSURANCE PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L
         Participants: 
         Assets: 45266812
@@ -396,8 +394,7 @@ PA : ALLENTOWN
                  : BNYM CF SL AGGREGATE BOND INDEX FUN
                  : BNYM MELLON CF NSL DYNAMIC U.S. EQU
     2020: PPL EMPLOYEE GROUP HEALTH AND INSURANCE PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L
         Participants: 
         Assets: 51025662
@@ -407,8 +404,7 @@ PA : ALLENTOWN
                  : BNYM CF SL AGGREGATE BOND INDEX FUN
                  : BNYM MELLON CF NSL DYNAMIC U.S. EQU
     2019: PPL EMPLOYEE GROUP HEALTH AND INSURANCE PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L
         Participants: 
         Assets: 56193258
@@ -418,15 +414,13 @@ PA : ALLENTOWN
                  : BNYM CF SL AGGREGATE BOND INDEX FUN
                  : BNYM MELLON CF NSL DYNAMIC U.S. EQU
     2018: PPL EMPLOYEE GROUP HEALTH AND INSURANCE PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L
         Participants: 2700
         Assets: 59212448
         $/Participant: 21930
     2017: PPL EMPLOYEE GROUP HEALTH AND INSURANCE PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4H4I4L4Q
         Participants: 
    [520]
@@ -587,6 +581,209 @@ PA : ALLENTOWN
                  : CF DV LONG TERM GOVERNMENT BIF
                  : CF DV NON-SL LONG TERM CREDIT BIF
                  : CF DV STOCK INDEX FUND
+   [522]
+    2022: PPL BARGAINING UNIT RETIREE GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 27126754
+        $/Participant: 
+        Service Providers:
+           - MELLON INVESTMENTS :  (Investment management)
+           - BAKER TILLY US, LLP :  (Accounting(including auditing))
+           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar))
+        Available Investments:
+           - BNY MELLON
+                 : CF NSL LONG TERM CREDIT BIF
+                 : CF SL LONG TERM GOVT BIF
+                 : CF SL STOCK INDEX FUND
+    2021: PPL BARGAINING UNIT RETIREE GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 36676253
+        $/Participant: 
+        Service Providers:
+           - MELLON INVESTMENTS :  (Investment management)
+           - BAKER TILLY US, LLP :  (Accounting(including auditing))
+           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar))
+        Available Investments:
+           - BNY MELLON
+                 : CF NSL LONG TERM CREDIT BIF
+                 : CF SL LONG TERM GOVT BIF
+                 : CF SL STOCK INDEX FUND
+    2020: PPL BARGAINING UNIT RETIREE GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 34034683
+        $/Participant: 
+        Service Providers:
+           - MELLON INVESTMENTS :  (Investment management)
+           - BAKER TILLY US, LLP :  (Accounting(including auditing))
+           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar))
+        Available Investments:
+           - BNY MELLON
+                 : CF DV LONG TERM GOVT BIF
+                 : CF DV NON-SL LONG TERM CREDIT BIF
+                 : CF DV STOCK INDEX FUND
+    2019: PPL BARGAINING UNIT RETIREE GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 30376767
+        $/Participant: 
+        Service Providers:
+           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar))
+           - MELLON INVESTMENTS :  (Investment management)
+           - BAKER TILLY US, LLP :  (Accounting(including auditing))
+        Available Investments:
+           - BNY MELLON
+                 : CF DV LONG TERM GOVT BIF
+                 : CF DV NON-SL LONG TERM CREDIT BIF
+                 : CF DV STOCK INDEX FUND
+    2018: PPL BARGAINING UNIT RETIREE GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 25730396
+        $/Participant: 
+        Service Providers:
+           - MELLON CAPITAL MANAGEMENT CORP :  (Investment management)
+           - BAKER TILLY VICHOW KRAUSE LLP :  (Accounting(including auditing))
+        Available Investments:
+           - BNY MELLON
+                 : CF DV LONG TERM GOVT BIF
+                 : CF DV NON-SL LONG TERM CREDIT BIF
+                 : CF DV STOCK INDEX FUND
+    2017: PPL BARGAINING UNIT RETIREE GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 28699196
+        $/Participant: 
+        Service Providers:
+           - MELLON CAPITAL MANAGEMENT CORP :  (Investment management)
+           - BAKER TILLY VICHOW KRAUSE LLP :  (Accounting(including auditing))
+        Available Investments:
+           - BNY MELLON
+                 : CF DV LONG TERM GOVT BIF
+                 : CF DV NON-SL LONG TERM CREDIT BIF
+                 : CF DV STOCK INDEX FUND
+   [523]
+    2022: PPL MANAGERS COMPENSATION PLAN RETIREE GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 36857220
+        $/Participant: 
+        Service Providers:
+           - MELLON CAPITAL MANAGEMENT CORP :  (Investment management)
+           - BAKER TILLY US, LLP :  (Accounting(including auditing))
+           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar))
+        Available Investments:
+           - BNY MELLON
+                 : CF NSL LONG TERM CREDIT BIF
+                 : CF SL LONG TERM GOVT BIF
+                 : CF SL STOCK INDEX FUND
+    2021: PPL MANAGERS COMPENSATION PLAN RETIREE GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 48805723
+        $/Participant: 
+        Service Providers:
+           - MELLON CAPITAL MANAGEMENT CORP :  (Investment management)
+           - BAKER TILLY US, LLP :  (Accounting(including auditing))
+           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar))
+        Available Investments:
+           - BNY MELLON
+                 : CF NSL LONG TERM CREDIT BIF
+                 : CF SL LONG TERM GOVT BIF
+                 : CF SL STOCK INDEX FUND
+    2020: PPL MANAGERS COMPENSATION PLAN RETIREE GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 44599425
+        $/Participant: 
+        Service Providers:
+           - BAKER TILLY US, LLP :  (Accounting(including auditing))
+           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar))
+           - MELLON CAPITAL MANAGEMENT CORP :  (Investment management)
+        Available Investments:
+           - BNY MELLON
+                 : CF DV LONG TERM GOVT BIF
+                 : CF DV NON-SL LONG TERM CREDIT BIF
+                 : CF DV STOCK INDEX FUND
+    2019: PPL MANAGERS COMPENSATION PLAN RETIREE GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 39048754
+        $/Participant: 
+        Service Providers:
+           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar))
+           - MELLON CAPITAL MANAGEMENT CORP :  (Investment management)
+           - BAKER TILLY US, LLP :  (Accounting(including auditing))
+        Available Investments:
+           - BNY MELLON
+                 : CF DV LONG TERM GOVT BIF
+                 : CF DV NON-SL LONG TERM CREDIT BIF
+                 : CF DV STOCK INDEX FUND
+    2018: PPL MANAGERS COMPENSATION PLAN RETIREE GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 32183409
+        $/Participant: 
+        Service Providers:
+           - MELLON CAPITAL MANAGEMENT CORP :  (Investment management)
+           - BAKER TILLY VIRCHOW KRAUSE, LLP :  (Accounting(including auditing))
+        Available Investments:
+           - BNY MELLON
+                 : CF DV LONG TERM GOVT BIF
+                 : CF DV NON-SL LONG TERM CREDIT BIF
+                 : CF DV STOCK INDEX FUND
+    2017: PPL MANAGERS COMPENSATION PLAN RETIREE GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+        Assets: 34901388
+        $/Participant: 
+        Service Providers:
+           - MELLON CAPITAL MANAGEMENT CORP :  (Investment management)
+           - BAKER TILLY VIRCHOW KRAUSE, LLP :  (Accounting(including auditing))
+        Available Investments:
+           - BNY MELLON
+                 : CF DV LONG TERM GOVT BIF
+                 : CF DV NON-SL LONG TERM CREDIT BIF
+                 : CF DV STOCK INDEX FUND
+   [525]
+    2022: PPL MANAGERS RETIREE GROUP LIFE INSURANCE PLAN II
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+    2021: PPL MANAGERS RETIREE GROUP LIFE INSURANCE PLAN II
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+    2020: PPL MANAGERS RETIREE GROUP LIFE INSURANCE PLAN II
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+    2019: PPL MANAGERS RETIREE GROUP LIFE INSURANCE PLAN II
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+    2018: PPL MANAGERS RETIREE GROUP LIFE INSURANCE PLAN II
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
+    2017: PPL MANAGERS RETIREE GROUP LIFE INSURANCE PLAN II
+        Benefit Category: Life Insurance
+        Codes:  4B4L
+        Participants: 
    [007]
     2022: PPL SERVICES CORPORATION MASTER TRUST
         Benefit Category: Other
@@ -998,209 +1195,6 @@ PA : ALLENTOWN
                  : NT COLLECTIVE S&P 500 INDEX FUND
            - PRUDENTIAL TRUST COMPANY
                  : PRUDENTIAL CORE PLUS BOND FUND 6
-   [522]
-    2022: PPL BARGAINING UNIT RETIREE GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 27126754
-        $/Participant: 
-        Service Providers:
-           - MELLON INVESTMENTS :  (Investment management)
-           - BAKER TILLY US, LLP :  (Accounting(including auditing))
-           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar))
-        Available Investments:
-           - BNY MELLON
-                 : CF NSL LONG TERM CREDIT BIF
-                 : CF SL LONG TERM GOVT BIF
-                 : CF SL STOCK INDEX FUND
-    2021: PPL BARGAINING UNIT RETIREE GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 36676253
-        $/Participant: 
-        Service Providers:
-           - MELLON INVESTMENTS :  (Investment management)
-           - BAKER TILLY US, LLP :  (Accounting(including auditing))
-           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar))
-        Available Investments:
-           - BNY MELLON
-                 : CF NSL LONG TERM CREDIT BIF
-                 : CF SL LONG TERM GOVT BIF
-                 : CF SL STOCK INDEX FUND
-    2020: PPL BARGAINING UNIT RETIREE GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 34034683
-        $/Participant: 
-        Service Providers:
-           - MELLON INVESTMENTS :  (Investment management)
-           - BAKER TILLY US, LLP :  (Accounting(including auditing))
-           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar))
-        Available Investments:
-           - BNY MELLON
-                 : CF DV LONG TERM GOVT BIF
-                 : CF DV NON-SL LONG TERM CREDIT BIF
-                 : CF DV STOCK INDEX FUND
-    2019: PPL BARGAINING UNIT RETIREE GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 30376767
-        $/Participant: 
-        Service Providers:
-           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar))
-           - MELLON INVESTMENTS :  (Investment management)
-           - BAKER TILLY US, LLP :  (Accounting(including auditing))
-        Available Investments:
-           - BNY MELLON
-                 : CF DV LONG TERM GOVT BIF
-                 : CF DV NON-SL LONG TERM CREDIT BIF
-                 : CF DV STOCK INDEX FUND
-    2018: PPL BARGAINING UNIT RETIREE GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 25730396
-        $/Participant: 
-        Service Providers:
-           - MELLON CAPITAL MANAGEMENT CORP :  (Investment management)
-           - BAKER TILLY VICHOW KRAUSE LLP :  (Accounting(including auditing))
-        Available Investments:
-           - BNY MELLON
-                 : CF DV LONG TERM GOVT BIF
-                 : CF DV NON-SL LONG TERM CREDIT BIF
-                 : CF DV STOCK INDEX FUND
-    2017: PPL BARGAINING UNIT RETIREE GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 28699196
-        $/Participant: 
-        Service Providers:
-           - MELLON CAPITAL MANAGEMENT CORP :  (Investment management)
-           - BAKER TILLY VICHOW KRAUSE LLP :  (Accounting(including auditing))
-        Available Investments:
-           - BNY MELLON
-                 : CF DV LONG TERM GOVT BIF
-                 : CF DV NON-SL LONG TERM CREDIT BIF
-                 : CF DV STOCK INDEX FUND
-   [523]
-    2022: PPL MANAGERS COMPENSATION PLAN RETIREE GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 36857220
-        $/Participant: 
-        Service Providers:
-           - MELLON CAPITAL MANAGEMENT CORP :  (Investment management)
-           - BAKER TILLY US, LLP :  (Accounting(including auditing))
-           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar))
-        Available Investments:
-           - BNY MELLON
-                 : CF NSL LONG TERM CREDIT BIF
-                 : CF SL LONG TERM GOVT BIF
-                 : CF SL STOCK INDEX FUND
-    2021: PPL MANAGERS COMPENSATION PLAN RETIREE GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 48805723
-        $/Participant: 
-        Service Providers:
-           - MELLON CAPITAL MANAGEMENT CORP :  (Investment management)
-           - BAKER TILLY US, LLP :  (Accounting(including auditing))
-           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar))
-        Available Investments:
-           - BNY MELLON
-                 : CF NSL LONG TERM CREDIT BIF
-                 : CF SL LONG TERM GOVT BIF
-                 : CF SL STOCK INDEX FUND
-    2020: PPL MANAGERS COMPENSATION PLAN RETIREE GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 44599425
-        $/Participant: 
-        Service Providers:
-           - BAKER TILLY US, LLP :  (Accounting(including auditing))
-           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar))
-           - MELLON CAPITAL MANAGEMENT CORP :  (Investment management)
-        Available Investments:
-           - BNY MELLON
-                 : CF DV LONG TERM GOVT BIF
-                 : CF DV NON-SL LONG TERM CREDIT BIF
-                 : CF DV STOCK INDEX FUND
-    2019: PPL MANAGERS COMPENSATION PLAN RETIREE GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 39048754
-        $/Participant: 
-        Service Providers:
-           - THE BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar))
-           - MELLON CAPITAL MANAGEMENT CORP :  (Investment management)
-           - BAKER TILLY US, LLP :  (Accounting(including auditing))
-        Available Investments:
-           - BNY MELLON
-                 : CF DV LONG TERM GOVT BIF
-                 : CF DV NON-SL LONG TERM CREDIT BIF
-                 : CF DV STOCK INDEX FUND
-    2018: PPL MANAGERS COMPENSATION PLAN RETIREE GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 32183409
-        $/Participant: 
-        Service Providers:
-           - MELLON CAPITAL MANAGEMENT CORP :  (Investment management)
-           - BAKER TILLY VIRCHOW KRAUSE, LLP :  (Accounting(including auditing))
-        Available Investments:
-           - BNY MELLON
-                 : CF DV LONG TERM GOVT BIF
-                 : CF DV NON-SL LONG TERM CREDIT BIF
-                 : CF DV STOCK INDEX FUND
-    2017: PPL MANAGERS COMPENSATION PLAN RETIREE GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-        Assets: 34901388
-        $/Participant: 
-        Service Providers:
-           - MELLON CAPITAL MANAGEMENT CORP :  (Investment management)
-           - BAKER TILLY VIRCHOW KRAUSE, LLP :  (Accounting(including auditing))
-        Available Investments:
-           - BNY MELLON
-                 : CF DV LONG TERM GOVT BIF
-                 : CF DV NON-SL LONG TERM CREDIT BIF
-                 : CF DV STOCK INDEX FUND
-   [525]
-    2022: PPL MANAGERS RETIREE GROUP LIFE INSURANCE PLAN II
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-    2021: PPL MANAGERS RETIREE GROUP LIFE INSURANCE PLAN II
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-    2020: PPL MANAGERS RETIREE GROUP LIFE INSURANCE PLAN II
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-    2019: PPL MANAGERS RETIREE GROUP LIFE INSURANCE PLAN II
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-    2018: PPL MANAGERS RETIREE GROUP LIFE INSURANCE PLAN II
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
-    2017: PPL MANAGERS RETIREE GROUP LIFE INSURANCE PLAN II
-        Benefit Category: Other
-        Codes:  4B4L
-        Participants: 
    [001]
     2022: PPL RETIREMENT PLAN
         Benefit Category: Pension

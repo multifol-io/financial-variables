@@ -130,27 +130,27 @@ TX : FORT WORTH
 TX : DFW AIRPORT
    [501]
     2022: AMERICAN AIRLINES, INC. HEALTH AND WELFARE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4L4Q
         Participants: 107713
     2021: AMERICAN AIRLINES, INC. HEALTH AND WELFARE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4L4Q
         Participants: 104989
     2020: AMERICAN AIRLINES, INC. HEALTH AND WELFARE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4L4Q
         Participants: 93747
     2019: AMERICAN AIRLINES, INC. HEALTH AND WELFARE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4L4Q
         Participants: 96052
     2018: AMERICAN AIRLINES, INC. HEALTH AND WELFARE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4L4Q
         Participants: 91768
     2017: AMERICAN AIRLINES, INC. HEALTH AND WELFARE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4L4Q
         Participants: 94624
         RecordKeeper: MEDICAL REVIEW INSTITUTE OF AMERICA
@@ -218,7 +218,7 @@ TX : DFW AIRPORT
            - ERNST & YOUNG, LLP : ACCOUNTING (Accounting(including auditing))
    [511]
     2022: TWA RETIREE HEALTH AND LIFE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B
         Participants: 7072
         Assets: 2474862
@@ -229,7 +229,7 @@ TX : DFW AIRPORT
            - ALIGHT (AON HEWITT) : CONTRACT ADMINISTRATOR (Contract Administrator)
            - UNITED HEALTHCARE : CLAIMS PROCESSING (Claims processing)
     2021: TWA RETIREE HEALTH AND LIFE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B
         Participants: 7365
         Assets: 2469762
@@ -240,7 +240,7 @@ TX : DFW AIRPORT
            - MAYER HOFFMAN MCCANN, PC : INDEPENDENT AUDITOR (Accounting(including auditing))
            - WILLIS TOWERS WATSON : ACTUARY (Actuarial)
     2020: TWA RETIREE HEALTH AND LIFE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B
         Participants: 7734
         Assets: 2234987
@@ -251,7 +251,7 @@ TX : DFW AIRPORT
            - MAYER HOFFMAN MCCANN, P.C. : INDEPENDENT AUDITOR (Accounting(including auditing))
            - WILLIS TOWERS WATSON : ACTUARY (Actuarial)
     2019: TWA RETIREE HEALTH AND LIFE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B
         Participants: 8123
         Assets: 2019142
@@ -262,7 +262,7 @@ TX : DFW AIRPORT
            - MAYER HOFFMANN MCCANN, PC : AUDITOR (Accounting(including auditing))
            - WILLIS TOWERS WATSON : ACTUARY (Actuarial)
     2018: TWA RETIREE HEALTH AND LIFE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B
         Participants: 8354
         Assets: 2608371
@@ -273,7 +273,7 @@ TX : DFW AIRPORT
            - MAYER HOFFMAN MCCANN : AUDITOR (Accounting(including auditing))
            - WILLIS TOWERS WATSON : ACTUARY (Actuarial)
     2017: TWA RETIREE HEALTH AND LIFE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B
         Participants: 9132
         Assets: 3171710
@@ -285,42 +285,42 @@ TX : DFW AIRPORT
            - WILLIS TOWERS WATSON : ACTUARY (Actuarial)
    [515]
     2022: AMERICAN AIRLINES, INC.HEALTH AND LIFE PLAN FOR RETIREES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B
         Participants: 28030
         Assets: 131219710
         $/Participant: 4681
         RecordKeeper: STATE STREET BANK AND TRUST
     2021: AMERICAN AIRLINES, INC.HEALTH AND LIFE PLAN FOR RETIREES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B
         Participants: 29073
         Assets: 169703939
         $/Participant: 5837
         RecordKeeper: STATE STREET BANK AND TRUST
     2020: AMERICAN AIRLINES, INC.HEALTH AND LIFE PLAN FOR RETIREES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B
         Participants: 30294
         Assets: 171637957
         $/Participant: 5665
         RecordKeeper: STATE STREET BANK & TRUST
     2019: AMERICAN AIRLINES, INC.HEALTH AND LIFE PLAN FOR RETIREES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B
         Participants: 31473
         Assets: 203766905
         $/Participant: 6474
         RecordKeeper: STATE STREET BANK AND TRUST
     2018: AMERICAN AIRLINES, INC.HEALTH AND LIFE PLAN FOR RETIREES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B
         Participants: 32474
         Assets: 225402129
         $/Participant: 6941
         RecordKeeper: STATE STREET BANK AND TRUST
     2017: AMERICAN AIRLINES, INC.HEALTH AND LIFE PLAN FOR RETIREES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B
         Participants: 33839
         Assets: 296624046
@@ -390,6 +390,42 @@ TX : DFW AIRPORT
         Benefit Category: Healthcare
         Codes:  4A
         Participants: 1865
+   [518]
+    2022: AMERICAN AIRLINES, INC. GROUP LIFE AND DISABILITY PLAN FOR CERTAIN LEGACY EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 132
+    2021: AMERICAN AIRLINES, INC. GROUP LIFE AND DISABILITY PLAN FOR CERTAIN LEGACY EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 142
+    2020: AMERICAN AIRLINES, INC. GROUP LIFE AND DISABILITY PLAN FOR CERTAIN LEGACY EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B4H4L4Q
+        Participants: 11408
+    2019: AMERICAN AIRLINES, INC. GROUP LIFE AND DISABILITY PLAN FOR CERTAIN LEGACY EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B4H4L4Q
+        Participants: 11665
+    2018: AMERICAN AIRLINES, INC. GROUP LIFE AND DISABILITY PLAN FOR CERTAIN LEGACY EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B4H4L4Q
+        Participants: 14870
+    2017: AMERICAN AIRLINES, INC. GROUP LIFE AND DISABILITY PLAN FOR CERTAIN LEGACY EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B4F4H4L
+        Participants: 15189
+   [520]
+    2017: AMERICAN AIRLINES, INC PILOT DEPENDENT SURVIVOR WELFARE PLAN FOR CERTAIN LEGACY EMPLOYEES
+        Benefit Category: Life Insurance
+        Codes:  4B4L4Q
+        Participants: 2765
+        Assets: 755799
+        $/Participant: 273
+        Service Providers:
+           - MAYER HOFFMAN MCCANN, PC : ACCOUNTING AUDIT (Accounting(including auditing))
+           - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTATOR (Contract Administrator)
+           - PNC BANK : BANK TRUSTEE (Trustee(discretionary))
 TX : FORT WORTH
    [003]
     2022: AMERICAN AIRLINES, INC. NON-PILOT VARIABLE PLAN
@@ -1251,31 +1287,6 @@ TX : DFW AIRPORT
         Service Providers:
            - HARVEY WATT & COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
            - WILLIS TOWERS WATSON : ACTUARY (Actuarial)
-   [518]
-    2022: AMERICAN AIRLINES, INC. GROUP LIFE AND DISABILITY PLAN FOR CERTAIN LEGACY EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 132
-    2021: AMERICAN AIRLINES, INC. GROUP LIFE AND DISABILITY PLAN FOR CERTAIN LEGACY EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 142
-    2020: AMERICAN AIRLINES, INC. GROUP LIFE AND DISABILITY PLAN FOR CERTAIN LEGACY EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B4H4L4Q
-        Participants: 11408
-    2019: AMERICAN AIRLINES, INC. GROUP LIFE AND DISABILITY PLAN FOR CERTAIN LEGACY EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B4H4L4Q
-        Participants: 11665
-    2018: AMERICAN AIRLINES, INC. GROUP LIFE AND DISABILITY PLAN FOR CERTAIN LEGACY EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B4H4L4Q
-        Participants: 14870
-    2017: AMERICAN AIRLINES, INC. GROUP LIFE AND DISABILITY PLAN FOR CERTAIN LEGACY EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B4F4H4L
-        Participants: 15189
    [519]
     2019: AMERICAN AIRLINES, INC FLIGHT ATTENDANT DISABILITY PLAN FOR CERTAIN LEGACY EMPLOYEES
         Benefit Category: Other
@@ -1296,16 +1307,6 @@ TX : DFW AIRPORT
         Benefit Category: Other
         Codes:  4L4R
         Participants: 2504
-    2017: AMERICAN AIRLINES, INC PILOT DEPENDENT SURVIVOR WELFARE PLAN FOR CERTAIN LEGACY EMPLOYEES
-        Benefit Category: Other
-        Codes:  4B4L4Q
-        Participants: 2765
-        Assets: 755799
-        $/Participant: 273
-        Service Providers:
-           - MAYER HOFFMAN MCCANN, PC : ACCOUNTING AUDIT (Accounting(including auditing))
-           - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTATOR (Contract Administrator)
-           - PNC BANK : BANK TRUSTEE (Trustee(discretionary))
    [521]
     2022: AMERICAN AIRLINES, INC. PILOT DISABILITY PLAN FOR CERTAIN LEGACY PILOTS
         Benefit Category: Other

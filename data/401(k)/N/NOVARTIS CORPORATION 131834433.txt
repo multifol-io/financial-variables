@@ -87,7 +87,7 @@ NY : NEW YORK
 NJ : EAST HANOVER
    [540]
     2022: NOVARTIS CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Service Providers:
@@ -98,7 +98,7 @@ NJ : EAST HANOVER
            - PROGYNY, INC. : BENEFIT ADMINISTRATOR (Plan Administrator)
            - EXPRESS SCRIPTS INC : CLAIMS PROCESSOR (Claims processing)
     2021: NOVARTIS CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Service Providers:
@@ -108,7 +108,7 @@ NJ : EAST HANOVER
            - FLIPT, LLC : CLAIMS PROCESSOR (Claims processing)
            - CENTIVO :  (Contract Administrator)
     2020: NOVARTIS CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Service Providers:
@@ -117,7 +117,7 @@ NJ : EAST HANOVER
            - METROPOLITAN LIFE INSURANCE CO : CLAIMS PROCESSOR ()
            - FLIPT. LLC : CLAIMS PROCESSOR (Claims processing)
     2019: NOVARTIS CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Service Providers:
@@ -130,7 +130,7 @@ NJ : EAST HANOVER
            - SPECTERA INC : CLAIMS PROCESSOR (Contract Administrator)
            - UNITED HEALTHCARE SERVICES INC : CLAIMS PROCESSOR (Claims processing | Other services)
     2018: NOVARTIS CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Service Providers:
@@ -142,7 +142,7 @@ NJ : EAST HANOVER
            - EBCG LLC : INSURANCE BROKER (Insurance agents and brokers)
            - SPECTERA INC : CLAIMS PROCESSOR (Contract Administrator | Claims processing)
     2017: NOVARTIS CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Service Providers:
@@ -246,6 +246,55 @@ NJ : EAST HANOVER
                  : BROAD MARKET INDEX BOND FUND
                  : FOREIGN STOCK INDEX FUND
                  : PRIDEX 500 INDEX ACCOUNT
+   [542]
+    2022: NOVARTIS CORPORATION DEATH BENEFIT AND DISABILITY PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4H4L
+        Participants: 
+        Assets: 37714070
+        $/Participant: 
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
+    2021: NOVARTIS CORPORATION DEATH BENEFIT AND DISABILITY PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4H4L
+        Participants: 
+        Assets: 44092119
+        $/Participant: 
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
+    2020: NOVARTIS CORPORATION DEATH BENEFIT AND DISABILITY PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4H4L
+        Participants: 
+        Assets: 38789604
+        $/Participant: 
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
+    2019: NOVARTIS CORPORATION DEATH BENEFIT AND DISABILITY PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4H4L
+        Participants: 
+        Assets: 37231130
+        $/Participant: 
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
+    2018: NOVARTIS CORPORATION DEATH BENEFIT AND DISABILITY PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4H4L
+        Participants: 
+        Assets: 34762980
+        $/Participant: 
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
+    2017: NOVARTIS CORPORATION DEATH BENEFIT AND DISABILITY PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4H4L
+        Participants: 
+        Assets: 37783997
+        $/Participant: 
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
    [057]
     2022: RETIREMENT PLAN FOR PRIOR ALCON EMPLOYEES
         Benefit Category: Other
@@ -714,55 +763,6 @@ NY : NEW YORK
                  : VANGUARD TARGET RET 2020 TRUST I
                  : VANGUARD TARGET RET INCOME TRUST I
 NJ : EAST HANOVER
-   [542]
-    2022: NOVARTIS CORPORATION DEATH BENEFIT AND DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4B4H4L
-        Participants: 
-        Assets: 37714070
-        $/Participant: 
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2021: NOVARTIS CORPORATION DEATH BENEFIT AND DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4B4H4L
-        Participants: 
-        Assets: 44092119
-        $/Participant: 
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2020: NOVARTIS CORPORATION DEATH BENEFIT AND DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4B4H4L
-        Participants: 
-        Assets: 38789604
-        $/Participant: 
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2019: NOVARTIS CORPORATION DEATH BENEFIT AND DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4B4H4L
-        Participants: 
-        Assets: 37231130
-        $/Participant: 
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2018: NOVARTIS CORPORATION DEATH BENEFIT AND DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4B4H4L
-        Participants: 
-        Assets: 34762980
-        $/Participant: 
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2017: NOVARTIS CORPORATION DEATH BENEFIT AND DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4B4H4L
-        Participants: 
-        Assets: 37783997
-        $/Participant: 
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
    [001]
     2022: PENSION PLAN FOR SALARIED EMPLOYEES OF NOVARTIS CORPORATION
         Benefit Category: Pension

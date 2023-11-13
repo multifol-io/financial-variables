@@ -123,9 +123,26 @@ PA : KENNETT SQUARE
                  : CONS PECO RETIREE MEDICAL TRUST
    [521]
     2022: CONSTELLATION PEPCO HOLDINGS, INC. WELFARE PLAN FOR RETIREES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4E4U
         Participants: 
+   [505]
+    2022: CONSTELLATION EMPLOYEES' LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4U
+        Participants: 
+        Assets: 37965844
+        $/Participant: 
+        Service Providers:
+           - SEGALL, BRYANT & HAMILL : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - NORTHERN TRUST COMPANY : TRUSTEE/CUSTODIAN (Custodial(securities) | Trustee(bank, trust company, or similar) | Investment management fees paid directly by plan | Float revenue | 'Soft dollars' commissions)
+           - MORGAN STANLEY : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - EXELON BUSINESS SERVICES : ADMINISTRATOR (Plan Administrator)
+        Available Investments:
+           - CF BLACKROCK ACWI EQUITY INDEX FUND B
+                 : BLACKROCK INSTITUTIONAL TRUST CO.
+           - MACKAY SHIELDS LLC
+                 : MACKAY SHIELDS HIGH YIELD ACTIVE CO
    [301]
     2022: CONSTELLATION PENSION MASTER TRUST - CASH BALANCE LIABILITY HEDGE FIXED INCOME SECURITIZED
         Benefit Category: Other
@@ -307,23 +324,6 @@ PA : KENNETT SQUARE
         Benefit Category: Other
         Codes:  4H
         Participants: 
-   [505]
-    2022: CONSTELLATION EMPLOYEES' LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4U
-        Participants: 
-        Assets: 37965844
-        $/Participant: 
-        Service Providers:
-           - SEGALL, BRYANT & HAMILL : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - NORTHERN TRUST COMPANY : TRUSTEE/CUSTODIAN (Custodial(securities) | Trustee(bank, trust company, or similar) | Investment management fees paid directly by plan | Float revenue | 'Soft dollars' commissions)
-           - MORGAN STANLEY : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - EXELON BUSINESS SERVICES : ADMINISTRATOR (Plan Administrator)
-        Available Investments:
-           - CF BLACKROCK ACWI EQUITY INDEX FUND B
-                 : BLACKROCK INSTITUTIONAL TRUST CO.
-           - MACKAY SHIELDS LLC
-                 : MACKAY SHIELDS HIGH YIELD ACTIVE CO
    [506]
     2022: CONSTELLATION SUPPLEMENTAL DISABILITY BENEFIT PLAN
         Benefit Category: Other

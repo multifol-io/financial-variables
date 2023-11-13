@@ -2,18 +2,15 @@ MA : BEDFORD
   MITRE CORPORATION  042239742
    [501]
     2022: THE MITRE CORPORATION HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4I4G4H4L4Q
         Participants: 
     2021: THE MITRE CORPORATION HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4I4G4H4L4Q
         Participants: 
     2020: THE MITRE CORPORATION HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4I4G4H4L4Q
         Participants: 
    [530]
@@ -89,6 +86,32 @@ MA : BEDFORD
            - AETNA HEALTH INC : CONTRACT ADMINISTRATIVE (Claims processing)
            - BLUE CROSS & BLUE SHIELD : CONTRACT ADMINISTRATIVE (Claims processing)
            - HARVARDA PILGRIM HEALTH CARE : CONTRACT ADMINISTRATIVE (Claims processing)
+   [503]
+    2019: GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4Q
+        Participants: 
+    2018: GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4Q
+        Participants: 7694
+    2017: GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4Q
+        Participants: 7648
+   [504]
+    2019: THE MITRE CORPORATION GROUP BUSINESS TRAVEL ACCIDENT
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2018: GROUP BUSINESS TRAVEL ACCIDENT
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2017: GROUP BUSINESS TRAVEL ACCIDENT
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 8517
    [001]
     2022: THE MITRE CORPORATION TAX SHELTERED ANNUITY PLAN
         Benefit Category: Other
@@ -224,32 +247,6 @@ MA : BEDFORD
         Benefit Category: Other
         Codes:  4H
         Participants: 5664
-   [503]
-    2019: GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4Q
-        Participants: 
-    2018: GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4Q
-        Participants: 7694
-    2017: GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4Q
-        Participants: 7648
-   [504]
-    2019: THE MITRE CORPORATION GROUP BUSINESS TRAVEL ACCIDENT
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2018: GROUP BUSINESS TRAVEL ACCIDENT
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2017: GROUP BUSINESS TRAVEL ACCIDENT
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 8517
    [509]
     2019: GROUP DENTAL PLAN
         Benefit Category: Other

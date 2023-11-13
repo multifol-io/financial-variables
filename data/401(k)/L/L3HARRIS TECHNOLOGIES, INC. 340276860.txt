@@ -131,7 +131,7 @@ FL : MELBOURNE
                  : WELLS FARGO/BLACKROCK STIF N
    [504]
     2022: L3 TECHNOLOGIES FUNDED GROUP HEALTH AND WELFARE PLAN FOR RETIRED PARTICIPANTS
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 28878000
@@ -141,7 +141,7 @@ FL : MELBOURNE
            - L3HARRIS TECHNOLOGIES, INC.
                  : L3HARRIS MASTER VEBA TRUST
     2021: L3 TECHNOLOGIES FUNDED GROUP HEALTH AND WELFARE PLAN FOR RETIRED PARTICIPANTS
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 39195000
@@ -151,36 +151,32 @@ FL : MELBOURNE
                  : L3HARRIS MASTER VEBA TRUST
    [521]
     2022: L3HARRIS TECHNOLOGIES, INC. GROUP INSURANCE PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
     2021: L3HARRIS TECHNOLOGIES, INC. GROUP INSURANCE PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
     2020: L3HARRIS TECHNOLOGIES, INC. GROUP INSURANCE PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
     2019: L3HARRIS TECHNOLOGIES, INC. GROUP INSURANCE PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4F4H4I4L4Q
         Participants: 
     2018: HARRIS CORPORATION GROUP INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4F4L4Q
         Participants: 
     2017: HARRIS CORPORATION GROUP INSURANCE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4F4L4Q
         Participants: 
    [523]
     2022: L3HARRIS RETIREE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 18573552
@@ -192,7 +188,7 @@ FL : MELBOURNE
                  : NT COMMON AGG BOND INDEX FUND-LEND
                  : NT COMMON S&P 500 INDEX FUND-LEND
     2021: L3HARRIS RETIREE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 22535505
@@ -204,7 +200,7 @@ FL : MELBOURNE
                  : NT COMMON AGG BOND INDEX FUND - LEN
                  : NT COMMON S&P 500 INDEX FUND-LEND
     2020: L3HARRIS RETIREE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 19213520
@@ -219,7 +215,7 @@ FL : MELBOURNE
                  : NT COMMON AGG. BOND INDEX FUND-LEND
                  : NT COMMON S&P 500 INDEX FUND-LEND.
     2019: HARRIS CORPORATION RETIREE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 19765984
@@ -228,7 +224,7 @@ FL : MELBOURNE
            - TCW ASSET MANAGEMENT COMPANY :  (Investment management fees paid directly by plan | Investment management)
            - WELLS FARGO BANK, N.A. :  (Investment management fees paid directly by plan | Trustee(bank, trust company, or similar) | Custodial(securities) | Investment management)
     2017: EXELIS RETIREE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
    [598]
@@ -239,6 +235,24 @@ FL : MELBOURNE
     2017: HARRIS CORPORATION HEALTH CARE REIMBURSEMENT ACCOUNT
         Benefit Category: Healthcare
         Codes:  4A
+        Participants: 
+   [580]
+    2018: HARRIS CORPORATION DEPENDENT LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2017: HARRIS CORPORATION DEPENDENT LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+   [585]
+    2018: HARRIS CORPORATION SUPPLEMENTAL LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2017: HARRIS CORPORATION SUPPLEMENTAL LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
         Participants: 
    [102]
     2020: L3HARRIS MASTER VEBA TRUST
@@ -319,24 +333,6 @@ FL : MELBOURNE
     2017: HARRIS EMPLOYEE ASSISTANCE PLAN
         Benefit Category: Other
         Codes:  4Q
-        Participants: 
-   [580]
-    2018: HARRIS CORPORATION DEPENDENT LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2017: HARRIS CORPORATION DEPENDENT LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-   [585]
-    2018: HARRIS CORPORATION SUPPLEMENTAL LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2017: HARRIS CORPORATION SUPPLEMENTAL LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
         Participants: 
    [599]
     2018: HARRIS VISION CARE PLAN

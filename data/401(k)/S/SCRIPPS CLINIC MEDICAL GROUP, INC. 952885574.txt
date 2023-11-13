@@ -8,69 +8,34 @@ CA : LA JOLLA
         Assets: 661108891
         $/Participant: 494471
         RecordKeeper: FIRST FOUNDATION ADVISORS
-    2021: SCRIPPS CLINIC MEDICAL GROUP, INC. RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2R2T3D 4B
-        Participants: 1243
-        Assets: 780427366
-        $/Participant: 627857
-        RecordKeeper: BUCKINGHAM STRATEGIC WEALTH LL
-    2020: SCRIPPS CLINIC MEDICAL GROUP, INC. RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2R2T3D 4B
-        Participants: 1239
-        Assets: 685387934
-        $/Participant: 553178
-        RecordKeeper: FIRST AFFIRMATIVE FINANCIAL NE
-    2019: SCRIPPS CLINIC MEDICAL GROUP, INC. RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2R2T3D 4B
-        Participants: 1189
-        Assets: 599954222
-        $/Participant: 504587
-        RecordKeeper: CARLSBAD WEALTH ADVISORY GROUP
-    2018: SCRIPPS CLINIC MEDICAL GROUP, INC. RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2R2T3D 4B
-        Participants: 1141
-        Assets: 496672876
-        $/Participant: 435296
-        RecordKeeper: CHARLES SCHWAB BANK
-    2017: SCRIPPS CLINIC MEDICAL GROUP, INC. RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2R2E2T3D2A 4B
-        Participants: 1063
-        Assets: 516532329
-        $/Participant: 485919
-        RecordKeeper: FIRST AFFIRMATIVE FINANCIAL NE
    [501]
     2022: SCRIPPS CLINIC MEDICAL GROUP, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H
         Participants: 937
         RecordKeeper: ANTHEM BLUE CROSS
     2021: SCRIPPS CLINIC MEDICAL GROUP, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H
         Participants: 866
         RecordKeeper: SCRIPPS HEALTH PLAN SERVICES
     2020: SCRIPPS CLINIC MEDICAL GROUP, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H
         Participants: 870
         RecordKeeper: SCRIPPS HEALTH PLAN SERVICES
     2019: SCRIPPS CLINIC MEDICAL GROUP, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H
         Participants: 828
         RecordKeeper: HEALTHCOMP ADMINISTRATORS
     2018: SCRIPPS CLINIC MEDICAL GROUP, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H
         Participants: 785
         RecordKeeper: SCRIPPS HEALTH PLAN SERVICES, INC
     2017: SCRIPPS CLINIC MEDICAL GROUP, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4H
         Participants: 718
         Service Providers:
@@ -80,6 +45,42 @@ CA : LA JOLLA
            - HEALTHCOMP ADMINISTRATORS : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - ANTHEM BLUE CROSS : OTHER FEES (Other fees)
            - MEDICAL EYE SERVICES : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
+   [003]
+    2021: SCRIPPS CLINIC MEDICAL GROUP, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D 4B
+        Participants: 1243
+        Assets: 780427366
+        $/Participant: 627857
+        RecordKeeper: BUCKINGHAM STRATEGIC WEALTH LL
+    2020: SCRIPPS CLINIC MEDICAL GROUP, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D 4B
+        Participants: 1239
+        Assets: 685387934
+        $/Participant: 553178
+        RecordKeeper: FIRST AFFIRMATIVE FINANCIAL NE
+    2019: SCRIPPS CLINIC MEDICAL GROUP, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D 4B
+        Participants: 1189
+        Assets: 599954222
+        $/Participant: 504587
+        RecordKeeper: CARLSBAD WEALTH ADVISORY GROUP
+    2018: SCRIPPS CLINIC MEDICAL GROUP, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D 4B
+        Participants: 1141
+        Assets: 496672876
+        $/Participant: 435296
+        RecordKeeper: CHARLES SCHWAB BANK
+    2017: SCRIPPS CLINIC MEDICAL GROUP, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2F2G2J2K2R2E2T3D2A 4B
+        Participants: 1063
+        Assets: 516532329
+        $/Participant: 485919
+        RecordKeeper: FIRST AFFIRMATIVE FINANCIAL NE
    [004]
     2022: SCRIPPS CLINIC MEDICAL GROUP, INC. CASH BALANCE PENSION PLAN
         Benefit Category: Pension

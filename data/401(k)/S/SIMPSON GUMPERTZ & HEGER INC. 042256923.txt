@@ -50,40 +50,6 @@ MA : WALTHAM
                  : BOSTON TRUST BALANCED RETIREMENT FD
            - FEDERATED INVESTORS TRUST COMPANY
                  : FEDERATED PRIME CASH COLLECTIVE INV
-    2019: SGH PROFIT SHARING & 401(K) PLAN AND TRUST
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2T3D 4B
-        Participants: 899
-        Assets: 295582769
-        $/Participant: 328790
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-        Available Investments:
-           - BOSTON TRUST & INVESTMENT MANAGEMENT COMPANY
-                 : BOSTON TRUST BALANCED RETIREMENT FD
-           - FEDERATED INVESTORS TRUST COMPANY
-                 : FEDERATED PRIME CASH COLLECTIVE INV
-    2018: SGH PROFIT SHARING & 401(K) PLAN AND TRUST
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2T3D 4B
-        Participants: 861
-        Assets: 239404717
-        $/Participant: 278054
-        RecordKeeper: CHARLES SCHWAB BANK
-        Available Investments:
-           - BOSTON TRUST & INVESTMENT MANAGEMENT COMPANY
-                 : BOSTON TRUST BALANCED RETIREMENT FD
-           - FEDERATED INVESTORS TRUST COMPANY
-                 : FEDERATED PRIME CASH COLLECTIVE INV
-    2017: SGH PROFIT SHARING & 401(K) PLAN AND TRUST
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2T3D 4B
-        Participants: 785
-        Assets: 247395681
-        $/Participant: 315153
-        RecordKeeper: CHARLES SCHWAB BANK
-        Available Investments:
-           - BOSTON TRUST & INVESTMENT MANAGEMENT COMPANY
-                 : BOSTON TRUST BALANCED RETIREMENT FD
    [501]
     2022: SGH EMPLOYEE WELFARE PLAN
         Benefit Category: Healthcare
@@ -109,3 +75,38 @@ MA : WALTHAM
         Benefit Category: Healthcare
         Codes:  4A4G4D4E
         Participants: 
+   [001]
+    2019: SGH PROFIT SHARING & 401(K) PLAN AND TRUST
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2F2G2J2T3D 4B
+        Participants: 899
+        Assets: 295582769
+        $/Participant: 328790
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+        Available Investments:
+           - BOSTON TRUST & INVESTMENT MANAGEMENT COMPANY
+                 : BOSTON TRUST BALANCED RETIREMENT FD
+           - FEDERATED INVESTORS TRUST COMPANY
+                 : FEDERATED PRIME CASH COLLECTIVE INV
+    2018: SGH PROFIT SHARING & 401(K) PLAN AND TRUST
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2F2G2J2T3D 4B
+        Participants: 861
+        Assets: 239404717
+        $/Participant: 278054
+        RecordKeeper: CHARLES SCHWAB BANK
+        Available Investments:
+           - BOSTON TRUST & INVESTMENT MANAGEMENT COMPANY
+                 : BOSTON TRUST BALANCED RETIREMENT FD
+           - FEDERATED INVESTORS TRUST COMPANY
+                 : FEDERATED PRIME CASH COLLECTIVE INV
+    2017: SGH PROFIT SHARING & 401(K) PLAN AND TRUST
+        Benefit Category: Life Insurance, 401(k)
+        Codes: 2E2F2G2J2T3D 4B
+        Participants: 785
+        Assets: 247395681
+        $/Participant: 315153
+        RecordKeeper: CHARLES SCHWAB BANK
+        Available Investments:
+           - BOSTON TRUST & INVESTMENT MANAGEMENT COMPANY
+                 : BOSTON TRUST BALANCED RETIREMENT FD

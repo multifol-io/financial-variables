@@ -226,7 +226,7 @@ NM : ALBUQUERQUE
                  : TARGET RET INC TR
    [540]
     2022: NTESS HEALTH AND WELFARE BENEFITS PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4D4E4Q4B4F4H4L
         Participants: 
     2021: NTESS HEALTH BENEFITS PLAN FOR EMPLOYEES
@@ -251,7 +251,7 @@ NM : ALBUQUERQUE
         Participants: 
    [545]
     2022: NTESS HEALTH AND WELFARE BENEFITS PLAN FOR RETIREES
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4D4E4Q4B
         Participants: 
     2021: NTESS HEALTH PLAN FOR RETIREES
@@ -293,53 +293,128 @@ NM : ALBUQUERQUE
         Participants: 
    [506]
     2022: NTESS BASIC GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B
         Participants: 
     2021: NTESS BASIC GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B
         Participants: 
     2020: NTESS BASIC GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B
         Participants: 
     2019: NTESS BASIC GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B
         Participants: 
     2018: NTESS BASIC GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B
         Participants: 
     2017: NTESS BASIC GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B
         Participants: 
    [507]
     2022: NTESS BASIC SUPPLEMENTAL GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4L
         Participants: 
     2021: NTESS BASIC SUPPLEMENTAL GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4L
         Participants: 
     2020: NTESS BASIC SUPPLEMENTAL GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4L
         Participants: 
     2019: NTESS BASIC SUPPLEMENTAL GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4L
         Participants: 
     2018: NTESS BASIC SUPPLEMENTAL GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4L
         Participants: 
     2017: NTESS BASIC SUPPLEMENTAL GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
+        Benefit Category: Life Insurance
         Codes:  4B4L
+        Participants: 
+   [520]
+    2022: NTESS PRIMARY GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2021: NTESS PRIMARY GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2020: NTESS PRIMARY GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2019: NTESS PRIMARY GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2018: NTESS PRIMARY GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2017: NTESS PRIMARY GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+   [521]
+    2022: NTESS VOLUNTARY TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2021: NTESS VOLUNTARY TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2020: NTESS VOLUNTARY TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2019: NTESS VOLUNTARY TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2018: NTESS VOLUNTARY TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2017: NTESS VOLUNTARY TERM LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+   [556]
+    2022: NTESS DEPENDENT GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2021: NTESS DEPENDENT GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2020: NTESS DEPENDENT GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2019: NTESS DEPENDENT GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2018: NTESS DEPENDENT GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 
+    2017: NTESS DEPENDENT GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B
         Participants: 
    [508]
     2022: NTESS ACCIDENT/BUSINESS TRVL ACCIDENT INSURANCE PLN FOR NON-REPRESENTED EMPLOYEES
@@ -437,56 +512,6 @@ NM : ALBUQUERQUE
         Benefit Category: Other
         Codes:  4H
         Participants: 
-   [520]
-    2022: NTESS PRIMARY GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2021: NTESS PRIMARY GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2020: NTESS PRIMARY GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2019: NTESS PRIMARY GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2018: NTESS PRIMARY GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2017: NTESS PRIMARY GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-   [521]
-    2022: NTESS VOLUNTARY TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2021: NTESS VOLUNTARY TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2020: NTESS VOLUNTARY TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2019: NTESS VOLUNTARY TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2018: NTESS VOLUNTARY TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2017: NTESS VOLUNTARY TERM LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
    [550]
     2022: NTESS LONG TERM CARE PLAN
         Benefit Category: Other
@@ -511,31 +536,6 @@ NM : ALBUQUERQUE
     2017: NTESS LONG TERM CARE PLAN
         Benefit Category: Other
         Codes:  4Q
-        Participants: 
-   [556]
-    2022: NTESS DEPENDENT GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2021: NTESS DEPENDENT GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2020: NTESS DEPENDENT GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2019: NTESS DEPENDENT GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2018: NTESS DEPENDENT GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 
-    2017: NTESS DEPENDENT GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B
         Participants: 
    [557]
     2022: NTESS VOLUNTARY GROUP ACCIDENT INSURANCE PLAN

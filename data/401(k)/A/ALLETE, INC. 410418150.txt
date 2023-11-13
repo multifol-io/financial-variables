@@ -2,8 +2,7 @@ MN : DULUTH
   ALLETE, INC.  410418150
    [002]
     2022: ALLETE AND AFFILIATED COMPANIES RETIREMENT SAVINGS AND STOCK OWNERSHIP PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2I2K2O2R2S2T3F3H2J 
         Participants: 2129
         Assets: 484094253
@@ -34,8 +33,7 @@ MN : DULUTH
            - WELLS FARGO
                  : GALLIARD STABLE RETURN FUND Q
     2021: ALLETE AND AFFILIATED COMPANIES RETIREMENT SAVINGS AND STOCK OWNERSHIP PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2I2K2O2R2S2T3F3H2J 
         Participants: 2079
         Assets: 565081764
@@ -56,8 +54,7 @@ MN : DULUTH
            - WELLS FARGO
                  : WELLS FARGO STABLE RETURN FUND Q
     2020: ALLETE AND AFFILIATED COMPANIES RETIREMENT SAVINGS AND STOCK OWNERSHIP PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2I2K2O2R2S2T3F3H2J 
         Participants: 2061
         Assets: 504797739
@@ -78,8 +75,7 @@ MN : DULUTH
            - WELLS FARGO
                  : WELLS FARGO STABLE RETURN FUND Q
     2019: ALLETE AND AFFILIATED COMPANIES RETIREMENT SAVINGS AND STOCK OWNERSHIP PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2I2J2K2O2R2S2T3F3H 
         Participants: 2170
         Assets: 492733301
@@ -102,8 +98,7 @@ MN : DULUTH
            - WELLS FARGO
                  : WELLS FARGO STABLE RETURN FUND Q
     2018: ALLETE AND AFFILIATED COMPANIES RETIREMENT SAVINGS AND STOCK OWNERSHIP PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2I2J2K2O2R2S2T3F3H 
         Participants: 2741
         Assets: 485262348
@@ -126,8 +121,7 @@ MN : DULUTH
            - WELLS FARGO
                  : WELLS FARGO STABLE RETURN FUND Q
     2017: ALLETE AND AFFILIATED COMPANIES RETIREMENT SAVINGS AND STOCK OWNERSHIP PLAN
-        Benefit Category: 401(k)
-        Benefit Category: Employee Stock Ownership Plan
+        Benefit Category: 401(k), Employee Stock Ownership Plan
         Codes: 2E2F2I2J2K2O2P2R2S2T3F3H 
         Participants: 2550
         Assets: 490965533
@@ -161,8 +155,7 @@ MN : DULUTH
                  : WELLS FARGO STABLE RETURN FUND N25
    [599]
     2022: ALLETE AND AFFILIATED COMPANIES WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4H4I4L4U
         Participants: 
         Assets: 170986152
@@ -177,8 +170,7 @@ MN : DULUTH
            - BLUE CROSS BLUE SHIELD : MULTIPLE SERVICE PROVIDER (Insurance agents and brokers)
            - NORTH SHORE BANK OF COMMERCE : TRUSTEE (Trustee(discretionary))
     2021: ALLETE AND AFFILIATED COMPANIES WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4H4I4L4U
         Participants: 
         Assets: 208839576
@@ -191,8 +183,7 @@ MN : DULUTH
            - DELTA DENTAL OF MN : DATA PROCESSING PROVIDER (Claims processing)
            - NORTH SHORE BANK OF COMMERCE : TRUSTEE (Trustee(discretionary))
     2020: ALLETE AND AFFILIATED COMPANIES WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
-        Benefit Category: Severance
+        Benefit Category: Healthcare, Life Insurance, Severance
         Codes:  4A4B4D4E4H4I4L4U
         Participants: 
         Assets: 191690584
@@ -207,6 +198,31 @@ MN : DULUTH
            - REILLY, PENNER & BENTON LLP : INDEPENDENT AUDITOR (Accounting(including auditing))
            - LOCKTON COMPANIES LLC : BROKER (Other commissions)
            - NORTH SHORE BANK OF COMMERCE : TRUSTEE (Trustee(discretionary))
+   [502]
+    2019: ALLETE AND AFFILIATED COMPANIES GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L4U
+        Participants: 
+        Assets: 14784990
+        $/Participant: 
+        Service Providers:
+           - NORTH SHORE BANK OF COMMERCE : TRUSTEE (Investment advisory(participants))
+    2018: ALLETE AND AFFILIATED COMPANIES GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L4U
+        Participants: 
+        Assets: 13301314
+        $/Participant: 
+        Service Providers:
+           - NORTH SHORE BANK OF COMMERCE : TRUSTEE (Investment advisory(participants))
+    2017: ALLETE AND AFFILIATED COMPANIES GROUP LIFE INSURANCE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4L4U
+        Participants: 
+        Assets: 15241802
+        $/Participant: 
+        Service Providers:
+           - NORTH SHORE BANK OF COMMERCE : TRUSTEE (Investment advisory(participants))
    [004]
     2022: ALLETE AND AFFILIATED COMPANIES MASTER PENSION TRUST
         Benefit Category: Other
@@ -298,31 +314,6 @@ MN : DULUTH
                  : MERCER ACTIVE LNG CORP FI PORTFOLIO
                  : MERCER EMERGING MKTS PORTFOLIO
                  : MERCER NON-US CORE EQUITY PORTFOLIO
-   [502]
-    2019: ALLETE AND AFFILIATED COMPANIES GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L4U
-        Participants: 
-        Assets: 14784990
-        $/Participant: 
-        Service Providers:
-           - NORTH SHORE BANK OF COMMERCE : TRUSTEE (Investment advisory(participants))
-    2018: ALLETE AND AFFILIATED COMPANIES GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L4U
-        Participants: 
-        Assets: 13301314
-        $/Participant: 
-        Service Providers:
-           - NORTH SHORE BANK OF COMMERCE : TRUSTEE (Investment advisory(participants))
-    2017: ALLETE AND AFFILIATED COMPANIES GROUP LIFE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4B4L4U
-        Participants: 
-        Assets: 15241802
-        $/Participant: 
-        Service Providers:
-           - NORTH SHORE BANK OF COMMERCE : TRUSTEE (Investment advisory(participants))
    [503]
     2019: ALLETE AND AFFILIATED COMPANIES LONG TERM DISABILITY PLAN
         Benefit Category: Other

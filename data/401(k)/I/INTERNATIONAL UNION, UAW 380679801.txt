@@ -106,11 +106,11 @@ MI : DETROIT
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
    [503]
     2018: LIFE INSURANCE BENEFITS
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4F
         Participants: 1968
     2017: LIFE INSURANCE BENEFITS
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4F
         Participants: 
    [506]
@@ -171,6 +171,23 @@ MI : DETROIT
         Service Providers:
            - BLUE CROSS BLUE SHIELD OF MICHIGAN : TPA (Claims processing)
            - GROUP PLAN : RX DISPENSING FEES (Other fees)
+   [503]
+    2022: LIFE INSURANCE BENEFITS
+        Benefit Category: Life Insurance
+        Codes:  4B4F4L
+        Participants: 
+    2021: LIFE INSURANCE BENEFITS
+        Benefit Category: Life Insurance
+        Codes:  4B4F4L
+        Participants: 
+    2020: LIFE INSURANCE BENEFITS
+        Benefit Category: Life Insurance
+        Codes:  4B4F4L
+        Participants: 
+    2019: LIFE INSURANCE BENEFITS
+        Benefit Category: Life Insurance
+        Codes:  4B4F4L
+        Participants: 
    [006]
     2022: UAW MASTER PENSION TRUST
         Benefit Category: Other
@@ -371,23 +388,6 @@ MI : DETROIT
         Participants: 
         Assets: 58881
         $/Participant: 
-   [503]
-    2022: LIFE INSURANCE BENEFITS
-        Benefit Category: Other
-        Codes:  4B4F4L
-        Participants: 
-    2021: LIFE INSURANCE BENEFITS
-        Benefit Category: Other
-        Codes:  4B4F4L
-        Participants: 
-    2020: LIFE INSURANCE BENEFITS
-        Benefit Category: Other
-        Codes:  4B4F4L
-        Participants: 
-    2019: LIFE INSURANCE BENEFITS
-        Benefit Category: Other
-        Codes:  4B4F4L
-        Participants: 
    [504]
     2021: DELTA DENTAL PLAN OF MICHIGAN
         Benefit Category: Other

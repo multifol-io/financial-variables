@@ -119,7 +119,7 @@ TX : THE WOODLANDS
 TX : HOUSTON
    [501]
     2022: TALEN ENERGY HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Assets: 28977492
@@ -138,7 +138,7 @@ TX : HOUSTON
                  : CF DV STOCK INDEX FUND
 TX : THE WOODLANDS
     2021: TALEN ENERGY HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 2735
         Assets: 41406181
@@ -156,7 +156,7 @@ TX : THE WOODLANDS
                  : CF DV NON-SL LONG-TERM CREDIT BOND
                  : CF DV STOCK INDEX FUND
     2020: TALEN ENERGY HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 2453
         Assets: 59238174
@@ -174,15 +174,15 @@ TX : THE WOODLANDS
                  : CF DV NON-SL LONG-TERM CREDIT BOND
                  : CF DV STOCK INDEX FUND
     2019: TALEN ENERGY SUPPLY, LLC AND AFFILIATES EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2018: TALEN ENERGY SUPPLY, LLC AND AFFILIATES EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2017: TALEN ENERGY SUPPLY, LLC AND AFFILIATES EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
 TX : HOUSTON
@@ -294,6 +294,122 @@ TX : THE WOODLANDS
                  : CF DV NON-SL LONG TERM CREDIT BIF
            - THE BANK OF NEW YORK MELLON
                  : CF DV LONG BOND INDEX GOVT CR BD IN
+                 : CF DV STOCK INDEX FUND
+TX : HOUSTON
+   [522]
+    2022: TALEN ENERGY RETIREE GROUP LIFE INSURANCE PLAN FOR BARGAINING UNIT RETIREES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 352
+        Assets: 5070498
+        $/Participant: 14404
+        Service Providers:
+           - MORGAN STANLEY SMITH BARNEY : CONSULTANT (Consulting(general))
+           - BAKER TILLY US, LLP : ACCOUNTANT/AUDITOR (Accounting(including auditing))
+           - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar))
+           - MELLON INVESTMENTS : INVESTMENT MANAGER (Investment management)
+        Available Investments:
+           - THE BANK OF NEW YORK MELLON
+                 : CF DV LONG-TERM GOVERNMENT BIF
+                 : CF DV NON-SL LONG TERM CREDIT BIF
+                 : CF DV STOCK INDEX FUND
+TX : THE WOODLANDS
+    2021: TALEN ENERGY RETIREE GROUP LIFE INSURANCE PLAN FOR BARGAINING UNIT RETIREES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 337
+        Assets: 7374384
+        $/Participant: 21882
+        Service Providers:
+           - BAKER TILLY US, LLP : ACCOUNTANT/AUDITOR (Accounting(including auditing))
+           - MORGAN STANLEY SMITH BARNEY : CONSULTANT (Consulting(general))
+           - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar))
+           - MELLON INVESTMENTS : INVESTMENT MANAGER (Investment management)
+        Available Investments:
+           - THE BANK OF NEW YORK MELLON
+                 : CF DV LONG-TERM GOVERNMENT BIF
+                 : CF DV NON-SL LONG TERM CREDIT BIF
+                 : CF DV STOCK INDEX FUND
+    2020: TALEN ENERGY RETIREE GROUP LIFE INSURANCE PLAN FOR BARGAINING UNIT RETIREES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 315
+        Assets: 7234587
+        $/Participant: 22966
+        Service Providers:
+           - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar))
+           - BAKER TILLY US, LLP : AUDITOR (Accounting(including auditing))
+           - MORGAN STANLEY SMITH BARNEY : CONSULTANT (Consulting(general))
+           - MELLON INVESTMENTS : INVESTMENT MANAGER (Investment management)
+        Available Investments:
+           - THE BANK OF NEW YORK MELLON
+                 : CF DV LONG-TERM GOVERNMENT BIF
+                 : CF DV NON-SL LONG-TERM CREDIT BIF
+                 : CF DV STOCK INDEX FUND
+    2019: TALEN ENERGY RETIREE GROUP LIFE INSURANCE PLAN FOR BARGAINING UNIT RETIREES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 276
+        Assets: 6720882
+        $/Participant: 24351
+        Service Providers:
+           - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar))
+           - MORGAN STANLEY SMITH BARNEY :  (Consulting(general))
+           - MELLON INVESTMENTS :  (Investment management)
+        Available Investments:
+           - THE BANK OF NEW YORK MELLON
+                 : CF DV LONG BOND INDEX GOVT CR BD IN
+                 : CF DV NON-SL LONG TERM CREDIT BIF
+                 : CF DV STOCK INDEX FUND
+TX : HOUSTON
+   [523]
+    2022: TALEN ENERGY RETIREE GROUP LIFE INSURANCE PLAN FOR SALARIED RETIREES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 439
+        Assets: 5068876
+        $/Participant: 11546
+        Service Providers:
+           - MORGAN STANLEY SMITH BARNEY : CONSULTANT (Consulting(general))
+           - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar))
+           - BAKER TILLY US, LLP : ACCOUNTANT/AUDITOR (Accounting(including auditing))
+           - MELLON INVESTMENTS : INVESTMENT MANAGER (Investment management)
+        Available Investments:
+           - THE BANK OF NEW YORK MELLON
+                 : CF DV LONG-TERM GOVERNMENT BIF
+                 : CF DV NON-SL LONG-TERM CREDIT BIF
+                 : CF DV STOCK INDEX FUND
+TX : THE WOODLANDS
+    2020: TALEN ENERGY RETIREE GROUP LIFE INSURANCE PLAN FOR SALARIED RETIREES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 382
+        Assets: 7455211
+        $/Participant: 19516
+        Service Providers:
+           - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar))
+           - BAKER TILLY US, LLP : AUDITOR (Accounting(including auditing))
+           - MORGAN STANLEY SMITH BARNEY : CONSULTANT (Consulting(general))
+           - MELLON INVESTMENTS : INVESTMENT MANAGER (Investment management)
+        Available Investments:
+           - THE BANK OF NEW YORK MELLON
+                 : CF DV LONG-TERM GOVERNMENT BIF
+                 : CF DV NON-SL LONG-TERM CREDIT BIF
+                 : CF DV STOCK INDEX FUND
+    2019: TALEN ENERGY RETIREE GROUP LIFE INSURANCE PLAN FOR SALARIED RETIREES
+        Benefit Category: Life Insurance
+        Codes:  4B
+        Participants: 358
+        Assets: 6855665
+        $/Participant: 19149
+        Service Providers:
+           - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar))
+           - MORGAN STANLEY SMITH BARNEY :  (Consulting(general))
+           - MELLON INVESTMENTS :  (Investment management)
+        Available Investments:
+           - THE BANK OF NEW YORK MELLON
+                 : CF DV LONG BOND INDEX GOVT CR BD IN
+                 : CF DV NON-SL LONG TERM CREDIT BIF
                  : CF DV STOCK INDEX FUND
    [001]
     2021: TALEN ENERGY RETIREMENT PLANS MASTER TRUST
@@ -492,122 +608,6 @@ TX : THE WOODLANDS
         Participants: 
         Assets: 335931000
         $/Participant: 
-TX : HOUSTON
-   [522]
-    2022: TALEN ENERGY RETIREE GROUP LIFE INSURANCE PLAN FOR BARGAINING UNIT RETIREES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 352
-        Assets: 5070498
-        $/Participant: 14404
-        Service Providers:
-           - MORGAN STANLEY SMITH BARNEY : CONSULTANT (Consulting(general))
-           - BAKER TILLY US, LLP : ACCOUNTANT/AUDITOR (Accounting(including auditing))
-           - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar))
-           - MELLON INVESTMENTS : INVESTMENT MANAGER (Investment management)
-        Available Investments:
-           - THE BANK OF NEW YORK MELLON
-                 : CF DV LONG-TERM GOVERNMENT BIF
-                 : CF DV NON-SL LONG TERM CREDIT BIF
-                 : CF DV STOCK INDEX FUND
-TX : THE WOODLANDS
-    2021: TALEN ENERGY RETIREE GROUP LIFE INSURANCE PLAN FOR BARGAINING UNIT RETIREES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 337
-        Assets: 7374384
-        $/Participant: 21882
-        Service Providers:
-           - BAKER TILLY US, LLP : ACCOUNTANT/AUDITOR (Accounting(including auditing))
-           - MORGAN STANLEY SMITH BARNEY : CONSULTANT (Consulting(general))
-           - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar))
-           - MELLON INVESTMENTS : INVESTMENT MANAGER (Investment management)
-        Available Investments:
-           - THE BANK OF NEW YORK MELLON
-                 : CF DV LONG-TERM GOVERNMENT BIF
-                 : CF DV NON-SL LONG TERM CREDIT BIF
-                 : CF DV STOCK INDEX FUND
-    2020: TALEN ENERGY RETIREE GROUP LIFE INSURANCE PLAN FOR BARGAINING UNIT RETIREES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 315
-        Assets: 7234587
-        $/Participant: 22966
-        Service Providers:
-           - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar))
-           - BAKER TILLY US, LLP : AUDITOR (Accounting(including auditing))
-           - MORGAN STANLEY SMITH BARNEY : CONSULTANT (Consulting(general))
-           - MELLON INVESTMENTS : INVESTMENT MANAGER (Investment management)
-        Available Investments:
-           - THE BANK OF NEW YORK MELLON
-                 : CF DV LONG-TERM GOVERNMENT BIF
-                 : CF DV NON-SL LONG-TERM CREDIT BIF
-                 : CF DV STOCK INDEX FUND
-    2019: TALEN ENERGY RETIREE GROUP LIFE INSURANCE PLAN FOR BARGAINING UNIT RETIREES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 276
-        Assets: 6720882
-        $/Participant: 24351
-        Service Providers:
-           - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar))
-           - MORGAN STANLEY SMITH BARNEY :  (Consulting(general))
-           - MELLON INVESTMENTS :  (Investment management)
-        Available Investments:
-           - THE BANK OF NEW YORK MELLON
-                 : CF DV LONG BOND INDEX GOVT CR BD IN
-                 : CF DV NON-SL LONG TERM CREDIT BIF
-                 : CF DV STOCK INDEX FUND
-TX : HOUSTON
-   [523]
-    2022: TALEN ENERGY RETIREE GROUP LIFE INSURANCE PLAN FOR SALARIED RETIREES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 439
-        Assets: 5068876
-        $/Participant: 11546
-        Service Providers:
-           - MORGAN STANLEY SMITH BARNEY : CONSULTANT (Consulting(general))
-           - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar))
-           - BAKER TILLY US, LLP : ACCOUNTANT/AUDITOR (Accounting(including auditing))
-           - MELLON INVESTMENTS : INVESTMENT MANAGER (Investment management)
-        Available Investments:
-           - THE BANK OF NEW YORK MELLON
-                 : CF DV LONG-TERM GOVERNMENT BIF
-                 : CF DV NON-SL LONG-TERM CREDIT BIF
-                 : CF DV STOCK INDEX FUND
-TX : THE WOODLANDS
-    2020: TALEN ENERGY RETIREE GROUP LIFE INSURANCE PLAN FOR SALARIED RETIREES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 382
-        Assets: 7455211
-        $/Participant: 19516
-        Service Providers:
-           - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar))
-           - BAKER TILLY US, LLP : AUDITOR (Accounting(including auditing))
-           - MORGAN STANLEY SMITH BARNEY : CONSULTANT (Consulting(general))
-           - MELLON INVESTMENTS : INVESTMENT MANAGER (Investment management)
-        Available Investments:
-           - THE BANK OF NEW YORK MELLON
-                 : CF DV LONG-TERM GOVERNMENT BIF
-                 : CF DV NON-SL LONG-TERM CREDIT BIF
-                 : CF DV STOCK INDEX FUND
-    2019: TALEN ENERGY RETIREE GROUP LIFE INSURANCE PLAN FOR SALARIED RETIREES
-        Benefit Category: Other
-        Codes:  4B
-        Participants: 358
-        Assets: 6855665
-        $/Participant: 19149
-        Service Providers:
-           - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar))
-           - MORGAN STANLEY SMITH BARNEY :  (Consulting(general))
-           - MELLON INVESTMENTS :  (Investment management)
-        Available Investments:
-           - THE BANK OF NEW YORK MELLON
-                 : CF DV LONG BOND INDEX GOVT CR BD IN
-                 : CF DV NON-SL LONG TERM CREDIT BIF
-                 : CF DV STOCK INDEX FUND
    [002]
     2021: TALEN ENERGY RETIREMENT PLAN
         Benefit Category: Pension

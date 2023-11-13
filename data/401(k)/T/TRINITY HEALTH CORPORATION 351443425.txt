@@ -118,7 +118,7 @@ MI : LIVONIA
         Participants: 169133
    [506]
     2021: TRINITY HEALTH CORPORATION RETIREE BENEFIT PLAN 506(GRANDFATHERED)
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 141937343
@@ -128,7 +128,7 @@ MI : LIVONIA
            - TRINITY HEALTH CORPORATION
                  : CF SSGA S&P 500 (R) INDX SL CTF FD
     2020: TRINITY HEALTH CORPORATION WELFARE BENEFIT PLAN 506 (GRANDFATHERED)
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 159613058
@@ -138,7 +138,7 @@ MI : LIVONIA
            - TRINITY HEALTH CORPORATION
                  : CF COMERICA LARGE CAP INDEX 584 FD
     2019: TRINITY HEALTH CORPORATION RETIREE BENEFIT PLAN 506 (GRANDFATHERED)
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 118386167
@@ -148,7 +148,7 @@ MI : LIVONIA
            - TRINITY HEALTH CORPORATION
                  : CF COMERICA LARGE CAP INDEX 584 FD
     2018: TRINITY HEALTH CORPORATION RETIREE BENEFIT PLAN 506 (GRANDFATHERED)
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 
         Assets: 111219210
@@ -158,7 +158,7 @@ MI : LIVONIA
            - TRINITY HEALTH CORPORATION
                  : CF COMERICA LARGE CAP INDEX 584 FD
     2017: TRINITY HEALTH CORPORATION RETIREE BENEFIT PLAN 506 (GRANDFATHERED)
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E
         Participants: 3655
         Assets: 102295268
@@ -185,9 +185,34 @@ MI : LIVONIA
         Codes:  4A
         Participants: 
     2017: TRINITY HEALTH CORPORATION RETIREE BENEFIT PLAN 507
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B
         Participants: 419
+   [505]
+    2022: TRINITY HEALTH CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Life Insurance, Severance
+        Codes:  4B4E4F4I4G4H4Q
+        Participants: 
+    2021: TRINITY HEALTH CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Life Insurance, Severance
+        Codes:  4B4E4F4I4G4H4Q
+        Participants: 
+    2020: TRINITY HEALTH CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Life Insurance, Severance
+        Codes:  4B4E4F4I4G4H4Q
+        Participants: 
+    2019: TRINITY HEALTH CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Life Insurance, Severance
+        Codes:  4B4E4F4I4G4H4Q
+        Participants: 
+    2018: TRINITY HEALTH CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Life Insurance, Severance
+        Codes:  4B4E4F4I4G4H4Q
+        Participants: 
+    2017: TRINITY HEALTH CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Life Insurance, Severance
+        Codes:  4B4E4F4I4G4H4Q
+        Participants: 169133
    [014]
     2022: TRINITY HEALTH CORPORATION ERISA 403(B) RETIREMENT PLAN (FROZEN)
         Benefit Category: Other
@@ -318,28 +343,3 @@ MI : LIVONIA
            - STATE STREET GLOBAL ADVISORS TRUST COMPANY
                  : SS DAILY MSCI USA INDEX NL FUND
                  : SS MSCI ACWI EX USA NL FUND
-   [505]
-    2022: TRINITY HEALTH CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Severance
-        Codes:  4B4E4F4I4G4H4Q
-        Participants: 
-    2021: TRINITY HEALTH CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Severance
-        Codes:  4B4E4F4I4G4H4Q
-        Participants: 
-    2020: TRINITY HEALTH CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Severance
-        Codes:  4B4E4F4I4G4H4Q
-        Participants: 
-    2019: TRINITY HEALTH CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Severance
-        Codes:  4B4E4F4I4G4H4Q
-        Participants: 
-    2018: TRINITY HEALTH CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Severance
-        Codes:  4B4E4F4I4G4H4Q
-        Participants: 
-    2017: TRINITY HEALTH CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Severance
-        Codes:  4B4E4F4I4G4H4Q
-        Participants: 169133

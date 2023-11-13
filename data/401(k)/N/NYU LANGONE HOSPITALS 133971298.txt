@@ -62,31 +62,31 @@ NY : NEW YORK CITY
 NY : NEW YORK
    [507]
     2022: NYU LANGONE HOSPITALS HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L
         Participants: 
     2021: NYU LANGONE HOSPITALS HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H
         Participants: 
         RecordKeeper: UNITED HEALTHCARE SERVICES LLC
     2020: NYU LANGONE HOSPITALS HEALTH AND WELFARE PLAN (FORMERLY NYU HOSPITALS CENTER HEALTH AND WELFARE PLAN)
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H
         Participants: 
         RecordKeeper: EMPIRE HEALTHCHOICE ASSURANCE INC
     2019: NYU HOSPITALS CENTER HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H
         Participants: 
         RecordKeeper: EMPIRE HEALTHCHOICE ASSURANCE INC
     2018: NYU HOSPITALS CENTER HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H
         Participants: 
         RecordKeeper: EMPIRE HEALTHCHOICE ASSURANCE INC
     2017: NYU HOSPITALS CENTER HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H
         Participants: 
         Service Providers:
@@ -105,16 +105,16 @@ NY : NEW YORK
         RecordKeeper: EMPIRE HEALTHCHOICE ASSURANCE, INC
    [523]
     2020: WINTHROP-UNIVERSITY HOSPITAL HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L
         Participants: 
         RecordKeeper: EMPIRE HEALTHCHOICE ASSURANCE INC
     2019: WINTHROP-UNIVERSITY HOSPITAL HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L
         Participants: 
     2018: WINTHROP-UNIVERSITY HOSPITAL HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare
+        Benefit Category: Healthcare, Life Insurance
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
    [552]
@@ -162,6 +162,31 @@ NY : NEW YORK
         Participants: 
         Assets: 47110927
         $/Participant: 
+   [515]
+    2022: NYU LANGONE HOSPITALS RETIREE WELFARE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4F4L
+        Participants: 
+    2021: NYU LANGONE HOSPITALS RETIREE WELFARE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4F
+        Participants: 
+    2020: NYU LANGONE HOSPITALS RETIREE WELFARE PLAN (FORMERLY NYU HOSPITALS CENTER RETIREE WELFARE PLAN)
+        Benefit Category: Life Insurance
+        Codes:  4B4F
+        Participants: 
+    2019: NYU HOSPITALS CENTER RETIREE WELFARE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4F
+        Participants: 
+    2018: NYU HOSPITALS CENTER RETIREE WELFARE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4F
+        Participants: 
+    2017: NYU HOSPITALS CENTER RETIREE WELFARE PLAN
+        Benefit Category: Life Insurance
+        Codes:  4B4F
+        Participants: 
    [005]
     2022: NYU LANGONE HOSPITALS 403(B) PLAN
         Benefit Category: Other
@@ -287,31 +312,6 @@ NY : NEW YORK
         Available Investments:
            - METROPOLITAN LIFE INSURANCE COMPANY
                  : HANYS METLIFE STABLE 29228
-   [515]
-    2022: NYU LANGONE HOSPITALS RETIREE WELFARE PLAN
-        Benefit Category: Other
-        Codes:  4B4F4L
-        Participants: 
-    2021: NYU LANGONE HOSPITALS RETIREE WELFARE PLAN
-        Benefit Category: Other
-        Codes:  4B4F
-        Participants: 
-    2020: NYU LANGONE HOSPITALS RETIREE WELFARE PLAN (FORMERLY NYU HOSPITALS CENTER RETIREE WELFARE PLAN)
-        Benefit Category: Other
-        Codes:  4B4F
-        Participants: 
-    2019: NYU HOSPITALS CENTER RETIREE WELFARE PLAN
-        Benefit Category: Other
-        Codes:  4B4F
-        Participants: 
-    2018: NYU HOSPITALS CENTER RETIREE WELFARE PLAN
-        Benefit Category: Other
-        Codes:  4B4F
-        Participants: 
-    2017: NYU HOSPITALS CENTER RETIREE WELFARE PLAN
-        Benefit Category: Other
-        Codes:  4B4F
-        Participants: 
    [516]
     2017: LUTHERAN MEDICAL CENTER DENTAL PLAN FOR NON-UNION EMPLOYEES
         Benefit Category: Other
