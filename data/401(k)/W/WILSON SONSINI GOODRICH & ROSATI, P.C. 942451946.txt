@@ -93,9 +93,14 @@ CA : PALO ALTO
         Benefit Category: Healthcare
         Codes:  4A4D4E
         Participants: 
+   [502]
+    2020: WILSON SONSINI GOODRICH & ROSATI LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
    [005]
     2022: WSGR CASH BALANCE RETIREMENT PLAN
-        Benefit Category: Other
+        Benefit Category: Pension
         Codes: 1C 
         Participants: 266
         Assets: 58767836
@@ -114,7 +119,7 @@ CA : PALO ALTO
                  : RUSSELL MULTI-MANAGER BOND FUND
                  : RUSSELL SMALL CAP FUND
     2021: WSGR CASH BALANCE RETIREMENT PLAN
-        Benefit Category: Other
+        Benefit Category: Pension
         Codes: 1C 
         Participants: 250
         Assets: 60220038
@@ -123,7 +128,7 @@ CA : PALO ALTO
            - CITI INVESTMENT MANAGEMENT :  (Custodial(securities) | Direct payment from the plan | Investment advisory(plan) | Investment management fees paid directly by plan | Investment management)
            - FIRST STATE TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Shareholder servicing fees | Trustee(directed) | Sub - transfer agency fees | Direct payment from the plan | Distribution(12b - 1) fees)
     2020: WSGR CASH BALANCE RETIREMENT PLAN
-        Benefit Category: Other
+        Benefit Category: Pension
         Codes: 1C 
         Participants: 238
         Assets: 52650990
@@ -132,7 +137,7 @@ CA : PALO ALTO
            - CITI INVESTMENT MANAGEMENT :  (Custodial(securities) | Investment advisory(plan) | Investment management)
            - FIRST STATE TRUST COMPANY :  (Shareholder servicing fees | Sub - transfer agency fees | Distribution(12b - 1) fees)
     2019: WSGR CASH BALANCE RETIREMENT PLAN
-        Benefit Category: Other
+        Benefit Category: Pension
         Codes: 1C 
         Participants: 223
         Assets: 39063438
@@ -141,7 +146,7 @@ CA : PALO ALTO
            - CITI INVESTMENT MANAGEMENT :  (Custodial(securities) | Investment advisory(plan) | Investment management)
            - FIRST STATE TRUST COMPANY :  (Shareholder servicing fees | Sub - transfer agency fees | Distribution(12b - 1) fees)
     2018: WSGR CASH BALANCE RETIREMENT PLAN
-        Benefit Category: Other
+        Benefit Category: Pension
         Codes: 1C 
         Participants: 207
         Assets: 27647133
@@ -150,7 +155,7 @@ CA : PALO ALTO
            - CITI INVESTMENT MANAGEMENT :  (Custodial(securities) | Investment advisory(plan) | Investment management)
            - FIRST STATE TRUST COMPANY :  (Shareholder servicing fees | Sub - transfer agency fees | Distribution(12b - 1) fees)
     2017: WSGR CASH BALANCE RETIREMENT PLAN
-        Benefit Category: Other
+        Benefit Category: Pension
         Codes: 1C 
         Participants: 200
         Assets: 21597178
@@ -158,8 +163,3 @@ CA : PALO ALTO
         Service Providers:
            - CITI INVESTMENT MANAGEMENT :  (Custodial(securities) | Investment advisory(plan) | Investment management)
            - FIRST STATE TRUST COMPANY :  (Shareholder servicing fees | Sub - transfer agency fees | Distribution(12b - 1) fees)
-   [502]
-    2020: WILSON SONSINI GOODRICH & ROSATI LONG TERM DISABILITY PLAN
-        Benefit Category: Other
-        Codes:  4H
-        Participants: 

@@ -76,51 +76,6 @@ AL : BIRMINGHAM
         Participants: 
         Service Providers:
            - BLUE CROSS BLUE SHIELD OF ALABAMA : ADMINISTRATIVE SERVICES (Insurance services)
-   [003]
-    2022: CARR ALLISON CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3D 
-        Participants: 165
-        Assets: 13452998
-        $/Participant: 81533
-    2021: CARR ALLISON CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3D 
-        Participants: 153
-        Assets: 14394551
-        $/Participant: 94082
-    2020: CARR ALLISON CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3D 
-        Participants: 128
-        Assets: 12507838
-        $/Participant: 97717
-        Service Providers:
-           - CAHABA WEALTH MANAGEMENT INC. : ADVISOR (Investment advisory(plan))
-    2019: CARR ALLISON CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3D 
-        Participants: 146
-        Assets: 11198237
-        $/Participant: 76700
-        Service Providers:
-           - CAHABA WEALTH MANAGEMENT INC. : ADVISOR (Investment advisory(plan))
-    2018: CARR ALLISON CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3D 
-        Participants: 134
-        Assets: 9165611
-        $/Participant: 68400
-        Service Providers:
-           - CAHABA WEALTH MANAGEMENT INC. : ADVISOR (Investment advisory(plan))
-    2017: CARR,ALLISON,HOWARD,OLIVER & SISSON, PC RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C3D 
-        Participants: 130
-        Assets: 8851210
-        $/Participant: 68086
-        Service Providers:
-           - MERRILL LYNCH PIERCE FENNER : FINANICAL ADVISOR (Investment management fees paid directly by plan | Custodial(other than securities) | Investment management fees paid indirectly by plan | Shareholder servicing fees | Sub - transfer agency fees | Distribution(12b - 1) fees)
    [502]
     2022: CARR, ALLISON, OLIVER & SISSON, PC LIFE/LONG TERM DISABILITY
         Benefit Category: Other
@@ -146,3 +101,48 @@ AL : BIRMINGHAM
         Benefit Category: Other
         Codes:  4B4H
         Participants: 
+   [003]
+    2022: CARR ALLISON CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3D 
+        Participants: 165
+        Assets: 13452998
+        $/Participant: 81533
+    2021: CARR ALLISON CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3D 
+        Participants: 153
+        Assets: 14394551
+        $/Participant: 94082
+    2020: CARR ALLISON CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3D 
+        Participants: 128
+        Assets: 12507838
+        $/Participant: 97717
+        Service Providers:
+           - CAHABA WEALTH MANAGEMENT INC. : ADVISOR (Investment advisory(plan))
+    2019: CARR ALLISON CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3D 
+        Participants: 146
+        Assets: 11198237
+        $/Participant: 76700
+        Service Providers:
+           - CAHABA WEALTH MANAGEMENT INC. : ADVISOR (Investment advisory(plan))
+    2018: CARR ALLISON CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3D 
+        Participants: 134
+        Assets: 9165611
+        $/Participant: 68400
+        Service Providers:
+           - CAHABA WEALTH MANAGEMENT INC. : ADVISOR (Investment advisory(plan))
+    2017: CARR,ALLISON,HOWARD,OLIVER & SISSON, PC RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C3D 
+        Participants: 130
+        Assets: 8851210
+        $/Participant: 68086
+        Service Providers:
+           - MERRILL LYNCH PIERCE FENNER : FINANICAL ADVISOR (Investment management fees paid directly by plan | Custodial(other than securities) | Investment management fees paid indirectly by plan | Shareholder servicing fees | Sub - transfer agency fees | Distribution(12b - 1) fees)

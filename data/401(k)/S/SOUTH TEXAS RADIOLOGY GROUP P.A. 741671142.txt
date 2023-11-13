@@ -78,24 +78,6 @@ TX : SAN ANTONIO
         Benefit Category: Healthcare
         Codes:  4A4B4D
         Participants: 387
-   [002]
-    2022: SOUTH TEXAS RADIOLOGY GROUP P.A. CASH BALANCE PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C3D 
-        Participants: 133
-        Assets: 7649611
-        $/Participant: 57515
-        Service Providers:
-           - CHARLES SCHWAB & CO., INC. :  (Securities brokerage | Direct payment from the plan | Shareholder servicing fees | Securities brokerage commissions and fees)
-    2021: SOUTH TEXAS RADIOLOGY GROUP P.A. CASH BALANCE PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C3D 
-        Participants: 128
-        Assets: 2978433
-        $/Participant: 23269
-        Service Providers:
-           - CHARLES SCHWAB & CO., INC. :  (Securities brokerage | Direct payment from the plan | Shareholder servicing fees | Securities brokerage commissions and fees)
-   [501]
     2021: SOUTH TEXAS RADIOLOGY GROUP, P.A. GROUP HEALTH BENEFIT PLAN
         Benefit Category: Other
         Codes:  4B4H4E4Q
@@ -109,3 +91,20 @@ TX : SAN ANTONIO
         Benefit Category: Other
         Codes:  4H
         Participants: 152
+   [002]
+    2022: SOUTH TEXAS RADIOLOGY GROUP P.A. CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3D 
+        Participants: 133
+        Assets: 7649611
+        $/Participant: 57515
+        Service Providers:
+           - CHARLES SCHWAB & CO., INC. :  (Securities brokerage | Direct payment from the plan | Shareholder servicing fees | Securities brokerage commissions and fees)
+    2021: SOUTH TEXAS RADIOLOGY GROUP P.A. CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3D 
+        Participants: 128
+        Assets: 2978433
+        $/Participant: 23269
+        Service Providers:
+           - CHARLES SCHWAB & CO., INC. :  (Securities brokerage | Direct payment from the plan | Shareholder servicing fees | Securities brokerage commissions and fees)

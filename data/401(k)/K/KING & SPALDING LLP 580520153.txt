@@ -112,49 +112,6 @@ GA : ATLANTA
         Benefit Category: Healthcare
         Codes:  4A4D4E
         Participants: 
-   [003]
-    2022: KING & SPALDING LLP CASH BALANCE PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C3B3F 
-        Participants: 215
-        Assets: 197195072
-        $/Participant: 917186
-        RecordKeeper: SCHWAB RETIREMENT PLAN SERVICES
-    2021: KING & SPALDING LLP CASH BALANCE PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C3B3F 
-        Participants: 205
-        Assets: 170286028
-        $/Participant: 830663
-        RecordKeeper: SCHWAB RETIREMENT PLAN SERVICES
-    2020: KING & SPALDING LLP CASH BALANCE PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C3B3F 
-        Participants: 193
-        Assets: 142869115
-        $/Participant: 740254
-        RecordKeeper: ERNST & YOUNG LLP
-    2019: KING & SPALDING LLP CASH BALANCE PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C3B3F 
-        Participants: 189
-        Assets: 108011011
-        $/Participant: 571486
-        RecordKeeper: ERNST & YOUNG LLP
-    2018: KING & SPALDING LLP CASH BALANCE PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C3B3F 
-        Participants: 184
-        Assets: 86240797
-        $/Participant: 468699
-        RecordKeeper: SCHWAB RETIREMENT PLAN SERVICES INC
-    2017: KING & SPALDING LLP CASH BALANCE PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C3B3F 
-        Participants: 184
-        Assets: 75011780
-        $/Participant: 407672
-        RecordKeeper: SCHWAB RETIREMENT PLAN SERVICES INC
    [501]
     2022: KING & SPALDING LONG TERM DISABILITY PLAN
         Benefit Category: Other
@@ -226,6 +183,49 @@ GA : ATLANTA
         Benefit Category: Other
         Codes:  4Q
         Participants: 
+   [003]
+    2022: KING & SPALDING LLP CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3B3F 
+        Participants: 215
+        Assets: 197195072
+        $/Participant: 917186
+        RecordKeeper: SCHWAB RETIREMENT PLAN SERVICES
+    2021: KING & SPALDING LLP CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3B3F 
+        Participants: 205
+        Assets: 170286028
+        $/Participant: 830663
+        RecordKeeper: SCHWAB RETIREMENT PLAN SERVICES
+    2020: KING & SPALDING LLP CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3B3F 
+        Participants: 193
+        Assets: 142869115
+        $/Participant: 740254
+        RecordKeeper: ERNST & YOUNG LLP
+    2019: KING & SPALDING LLP CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3B3F 
+        Participants: 189
+        Assets: 108011011
+        $/Participant: 571486
+        RecordKeeper: ERNST & YOUNG LLP
+    2018: KING & SPALDING LLP CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3B3F 
+        Participants: 184
+        Assets: 86240797
+        $/Participant: 468699
+        RecordKeeper: SCHWAB RETIREMENT PLAN SERVICES INC
+    2017: KING & SPALDING LLP CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3B3F 
+        Participants: 184
+        Assets: 75011780
+        $/Participant: 407672
+        RecordKeeper: SCHWAB RETIREMENT PLAN SERVICES INC
    [505]
     2022: KING & SPALDING SEVERANCE PAY PLAN
         Benefit Category: Severance

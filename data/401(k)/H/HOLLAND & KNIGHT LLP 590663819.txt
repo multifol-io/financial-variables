@@ -200,77 +200,6 @@ FL : BRANDON
            - DELTA DENTAL INSURANCE COMPANY :  (Contract Administrator)
            - UNUM LIFE INSURANCE COMPANY OF AMER :  (Contract Administrator)
            - VISION SERVICE PLAN :  (Contract Administrator)
-   [003]
-    2019: HOLLAND & KNIGHT CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C1H1I 
-        Participants: 0
-        Service Providers:
-           - SHAW & COMPANY :  (Actuarial)
-           - WELLS FARGO :  (Custodial(securities) | Shareholder servicing fees | Distribution(12b - 1) fees)
-    2018: HOLLAND & KNIGHT CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 221
-        Assets: 46393383
-        $/Participant: 209924
-        Available Investments:
-           - SANFORD C. BERNSTEIN & CO.
-                 : ALLIANCE BERNSTEIN COLLECTIVE TRUST
-    2017: HOLLAND & KNIGHT CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 215
-        Assets: 40221499
-        $/Participant: 187076
-        Available Investments:
-           - SANFORD C. BERNSTEIN & CO.
-                 : ALLIANCE BERNSTEIN COLLECTIVE TRUST
-   [005]
-    2022: HOLLAND & KNIGHT CASH BALANCE PLAN - 2019
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 660
-        Assets: 109574800
-        $/Participant: 166022
-        Service Providers:
-           - ALLIANCEBERNSTEIN LP :  (Investment management)
-        Available Investments:
-           - ALLIANCEBERNSTEIN LP
-                 : AB GLOBAL STRATEGIC CORE EQUITY CT
-    2021: HOLLAND & KNIGHT CASH BALANCE PLAN - 2019
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 507
-        Assets: 79061962
-        $/Participant: 155940
-        Service Providers:
-           - ALLIANCEBERNSTEIN LP :  (Investment management)
-        Available Investments:
-           - ALLIANCEBERNSTEIN LP
-                 : AB GLOBAL STRATEGIC CORE EQUITY CT
-    2020: HOLLAND & KNIGHT CASH BALANCE PLAN - 2019
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 477
-        Assets: 49857307
-        $/Participant: 104522
-        Service Providers:
-           - ALLIANCEBERNSTEIN LP :  (Investment management)
-        Available Investments:
-           - ALLIANCEBERNSTEIN LP
-                 : AB GLOBAL STRATEGIC CORE EQUITY CT
-    2019: HOLLAND & KNIGHT CASH BALANCE PLAN - 2019
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 416
-        Assets: 28186941
-        $/Participant: 67757
-   [006]
-    2021: THOMPSON & KNIGHT CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C1H1I3H 
-        Participants: 0
    [002]
     2022: HOLLAND & KNIGHT DEFINED BENEFIT PENSION PLAN
         Benefit Category: Pension
@@ -336,3 +265,74 @@ FL : BRANDON
         Service Providers:
            - WELLS FARGO :  (Custodial(securities) | Shareholder servicing fees | Distribution(12b - 1) fees)
            - PGIM CORE PLUS BOND FUND :  (Investment management fees paid directly by plan)
+   [003]
+    2019: HOLLAND & KNIGHT CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C1H1I 
+        Participants: 0
+        Service Providers:
+           - SHAW & COMPANY :  (Actuarial)
+           - WELLS FARGO :  (Custodial(securities) | Shareholder servicing fees | Distribution(12b - 1) fees)
+    2018: HOLLAND & KNIGHT CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 221
+        Assets: 46393383
+        $/Participant: 209924
+        Available Investments:
+           - SANFORD C. BERNSTEIN & CO.
+                 : ALLIANCE BERNSTEIN COLLECTIVE TRUST
+    2017: HOLLAND & KNIGHT CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 215
+        Assets: 40221499
+        $/Participant: 187076
+        Available Investments:
+           - SANFORD C. BERNSTEIN & CO.
+                 : ALLIANCE BERNSTEIN COLLECTIVE TRUST
+   [005]
+    2022: HOLLAND & KNIGHT CASH BALANCE PLAN - 2019
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 660
+        Assets: 109574800
+        $/Participant: 166022
+        Service Providers:
+           - ALLIANCEBERNSTEIN LP :  (Investment management)
+        Available Investments:
+           - ALLIANCEBERNSTEIN LP
+                 : AB GLOBAL STRATEGIC CORE EQUITY CT
+    2021: HOLLAND & KNIGHT CASH BALANCE PLAN - 2019
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 507
+        Assets: 79061962
+        $/Participant: 155940
+        Service Providers:
+           - ALLIANCEBERNSTEIN LP :  (Investment management)
+        Available Investments:
+           - ALLIANCEBERNSTEIN LP
+                 : AB GLOBAL STRATEGIC CORE EQUITY CT
+    2020: HOLLAND & KNIGHT CASH BALANCE PLAN - 2019
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 477
+        Assets: 49857307
+        $/Participant: 104522
+        Service Providers:
+           - ALLIANCEBERNSTEIN LP :  (Investment management)
+        Available Investments:
+           - ALLIANCEBERNSTEIN LP
+                 : AB GLOBAL STRATEGIC CORE EQUITY CT
+    2019: HOLLAND & KNIGHT CASH BALANCE PLAN - 2019
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 416
+        Assets: 28186941
+        $/Participant: 67757
+   [006]
+    2021: THOMPSON & KNIGHT CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C1H1I3H 
+        Participants: 0

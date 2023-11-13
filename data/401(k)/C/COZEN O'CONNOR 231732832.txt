@@ -147,32 +147,6 @@ PA : PHILADELPHIA
         Benefit Category: Healthcare
         Codes:  4A4B4D4E4H4L
         Participants: 
-   [003]
-    2022: COZEN O'CONNOR CASH BALANCE PLAN A
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 193
-        Assets: 13729548
-        $/Participant: 71137
-    2021: COZEN O'CONNOR CASH BALANCE PLAN A
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 186
-        Assets: 8023899
-        $/Participant: 43139
-   [004]
-    2022: COZEN O'CONNOR CASH BALANCE PLAN B
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 193
-        Assets: 13730037
-        $/Participant: 71140
-    2021: COZEN O'CONNOR CASH BALANCE PLAN B
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 186
-        Assets: 8023899
-        $/Participant: 43139
    [005]
     2022: COZEN OCONNOR PROFIT SHARING PLAN B
         Benefit Category: Other
@@ -191,3 +165,29 @@ PA : PHILADELPHIA
         Participants: 727
         Assets: 8173979
         $/Participant: 11243
+   [003]
+    2022: COZEN O'CONNOR CASH BALANCE PLAN A
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 193
+        Assets: 13729548
+        $/Participant: 71137
+    2021: COZEN O'CONNOR CASH BALANCE PLAN A
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 186
+        Assets: 8023899
+        $/Participant: 43139
+   [004]
+    2022: COZEN O'CONNOR CASH BALANCE PLAN B
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 193
+        Assets: 13730037
+        $/Participant: 71140
+    2021: COZEN O'CONNOR CASH BALANCE PLAN B
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 186
+        Assets: 8023899
+        $/Participant: 43139

@@ -214,16 +214,6 @@ NY : NEW YORK
         Benefit Category: Healthcare
         Codes:  4A4B4D4E4F4L
         Participants: 
-   [007]
-    2022: HUGHES HUBBARD & REED CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 78
-        Available Investments:
-           - AB GLOBAL CORE EQUITY
-                 : ALLIANCEBERNSTEIN LP
-           - AB GLOBAL STRATEGIC CORE
-                 : ALLIANCEBERNSTEIN LP
    [509]
     2022: HUGHES HUBBARD & REED LLP LONG TERM DISABILITY PLAN
         Benefit Category: Other
@@ -374,3 +364,13 @@ NY : NEW YORK
         Available Investments:
            - JP MORGAN CHASE BANK
                  : JP MORGAN CHASE BK DIVERSIFIED PLUS
+   [007]
+    2022: HUGHES HUBBARD & REED CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 78
+        Available Investments:
+           - AB GLOBAL CORE EQUITY
+                 : ALLIANCEBERNSTEIN LP
+           - AB GLOBAL STRATEGIC CORE
+                 : ALLIANCEBERNSTEIN LP

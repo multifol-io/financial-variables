@@ -183,61 +183,6 @@ MN : MINNEAPOLIS
         Benefit Category: Healthcare
         Codes:  4A
         Participants: 
-   [006]
-    2022: DORSEY & WHITNEY LLP CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 231
-        Assets: 66060848
-        $/Participant: 285977
-        Service Providers:
-           - THE VANGUARD GROUP INC :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
-    2021: DORSEY & WHITNEY LLP CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 226
-        Assets: 68633264
-        $/Participant: 303687
-        Service Providers:
-           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
-           - THE VANGUARD GROUP INC :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-    2020: DORSEY & WHITNEY LLP CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 225
-        Assets: 62589033
-        $/Participant: 278173
-        Service Providers:
-           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
-           - THE VANGUARD GROUP INC :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-    2019: DORSEY & WHITNEY LLP CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 224
-        Assets: 46204250
-        $/Participant: 206268
-        Service Providers:
-           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
-           - THE VANGUARD GROUP INC :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-    2018: DORSEY & WHITNEY LLP CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 212
-        Assets: 34565807
-        $/Participant: 163046
-        Service Providers:
-           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
-           - THE VANGUARD GROUP INC :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-    2017: DORSEY & WHITNEY LLP CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 204
-        Assets: 29295638
-        $/Participant: 143606
-        Service Providers:
-           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
-           - THE VANGUARD GROUP INC :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
    [501]
     2022: DORSEY AND WHITNEY LLP LIFE INSURANCE PLAN
         Benefit Category: Other
@@ -368,3 +313,58 @@ MN : MINNEAPOLIS
         Service Providers:
            - VANGUARD FIDUCIARY TRUST COMPANY : N/A (Investment advisory(plan))
            - U.S. BANK NATIONAL ASSOCIATION : N/A (Trustee(bank, trust company, or similar) | Investment management fees paid indirectly by plan)
+   [006]
+    2022: DORSEY & WHITNEY LLP CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 231
+        Assets: 66060848
+        $/Participant: 285977
+        Service Providers:
+           - THE VANGUARD GROUP INC :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
+    2021: DORSEY & WHITNEY LLP CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 226
+        Assets: 68633264
+        $/Participant: 303687
+        Service Providers:
+           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
+           - THE VANGUARD GROUP INC :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+    2020: DORSEY & WHITNEY LLP CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 225
+        Assets: 62589033
+        $/Participant: 278173
+        Service Providers:
+           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
+           - THE VANGUARD GROUP INC :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+    2019: DORSEY & WHITNEY LLP CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 224
+        Assets: 46204250
+        $/Participant: 206268
+        Service Providers:
+           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
+           - THE VANGUARD GROUP INC :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+    2018: DORSEY & WHITNEY LLP CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 212
+        Assets: 34565807
+        $/Participant: 163046
+        Service Providers:
+           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
+           - THE VANGUARD GROUP INC :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+    2017: DORSEY & WHITNEY LLP CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 204
+        Assets: 29295638
+        $/Participant: 143606
+        Service Providers:
+           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
+           - THE VANGUARD GROUP INC :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)

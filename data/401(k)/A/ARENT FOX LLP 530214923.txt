@@ -252,49 +252,6 @@ DC : WASHINGTON
                  : PRU IFX SEL LT BALANCED
                  : PRU IFX SEL LT CONSER GRO
                  : PRU IFX SEL LT INC & EQU
-   [010]
-    2022: ARENTFOX SCHIFF FLEXIBLE DEFERRAL PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 327
-        Assets: 75083574
-        $/Participant: 229613
-    2021: ARENT FOX FLEXIBLE DEFERRAL PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 212
-        Assets: 68472155
-        $/Participant: 322981
-    2020: ARENT FOX FLEXIBLE DEFERRAL PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 210
-        Assets: 67276341
-        $/Participant: 320363
-    2019: ARENT FOX FLEXIBLE DEFERRAL PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 206
-        Assets: 60137159
-        $/Participant: 291927
-        Service Providers:
-           - CAP FINANCIAL PARTNERS, LLC :  (Direct payment from the plan | Investment management fees paid directly by plan)
-    2018: ARENT FOX FLEXIBLE DEFERRAL PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 192
-        Assets: 50113204
-        $/Participant: 261006
-        Service Providers:
-           - CAP FINANCIAL PARTNERS, LLC :  (Direct payment from the plan | Investment management fees paid directly by plan)
-    2017: ARENT FOX FLEXIBLE DEFERRAL PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 185
-        Assets: 45526393
-        $/Participant: 246088
-        Service Providers:
-           - CAP FINANCIAL PARTNERS, LLC :  (Direct payment from the plan | Investment management fees paid directly by plan)
    [100]
     2022: SCHIFF HARDIN LLP PROFESSIONAL RETIREMENT PLAN MASTER TRUST
         Benefit Category: Other
@@ -303,6 +260,49 @@ DC : WASHINGTON
         Assets: 168916160
         $/Participant: 
         RecordKeeper: GREAT WEST LIFE & ANNUITY INSURANCE
+   [010]
+    2022: ARENTFOX SCHIFF FLEXIBLE DEFERRAL PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 327
+        Assets: 75083574
+        $/Participant: 229613
+    2021: ARENT FOX FLEXIBLE DEFERRAL PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 212
+        Assets: 68472155
+        $/Participant: 322981
+    2020: ARENT FOX FLEXIBLE DEFERRAL PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 210
+        Assets: 67276341
+        $/Participant: 320363
+    2019: ARENT FOX FLEXIBLE DEFERRAL PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 206
+        Assets: 60137159
+        $/Participant: 291927
+        Service Providers:
+           - CAP FINANCIAL PARTNERS, LLC :  (Direct payment from the plan | Investment management fees paid directly by plan)
+    2018: ARENT FOX FLEXIBLE DEFERRAL PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 192
+        Assets: 50113204
+        $/Participant: 261006
+        Service Providers:
+           - CAP FINANCIAL PARTNERS, LLC :  (Direct payment from the plan | Investment management fees paid directly by plan)
+    2017: ARENT FOX FLEXIBLE DEFERRAL PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 185
+        Assets: 45526393
+        $/Participant: 246088
+        Service Providers:
+           - CAP FINANCIAL PARTNERS, LLC :  (Direct payment from the plan | Investment management fees paid directly by plan)
    [013]
     2022: SCHIFF HARDIN LLP EMPLOYEES' PENSION PLAN
         Benefit Category: Pension

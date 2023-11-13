@@ -252,55 +252,6 @@ GA : ATLANTA
         Participants: 
         Service Providers:
            - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
-   [007]
-    2022: TROUTMAN PEPPER CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 484
-        Assets: 124438916
-        $/Participant: 257105
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VANGUARD TARGET RET INC TRUST II
-    2021: TROUTMAN PEPPER CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 471
-        Assets: 112703318
-        $/Participant: 239285
-    2020: TROUTMAN PEPPER CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 290
-        Assets: 79645110
-        $/Participant: 274638
-    2019: TROUTMAN SANDERS LLP CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 286
-        Assets: 70331433
-        $/Participant: 245914
-    2018: TROUTMAN SANDERS LLP CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 281
-        Assets: 47123166
-        $/Participant: 167698
-    2017: TROUTMAN SANDERS LLP CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 280
-        Assets: 36297445
-        $/Participant: 129633
-        RecordKeeper: WELLS FARGO BANK, N.A.
-PA : PHILADELPHIA
-   [012]
-    2020: PEPPER HAMILTON LLP PARTNER PARITY PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 0
-        RecordKeeper: WELLS FARGO BANK, N.A.
-GA : ATLANTA
    [501]
     2022: TROUTMAN PEPPER HAMILTON SANDERS LLP LONG TERM DISABILITY INCOME PLAN
         Benefit Category: Other
@@ -351,3 +302,51 @@ GA : ATLANTA
         Benefit Category: Other
         Codes:  4B4Q
         Participants: 
+   [007]
+    2022: TROUTMAN PEPPER CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 484
+        Assets: 124438916
+        $/Participant: 257105
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VANGUARD TARGET RET INC TRUST II
+    2021: TROUTMAN PEPPER CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 471
+        Assets: 112703318
+        $/Participant: 239285
+    2020: TROUTMAN PEPPER CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 290
+        Assets: 79645110
+        $/Participant: 274638
+    2019: TROUTMAN SANDERS LLP CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 286
+        Assets: 70331433
+        $/Participant: 245914
+    2018: TROUTMAN SANDERS LLP CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 281
+        Assets: 47123166
+        $/Participant: 167698
+    2017: TROUTMAN SANDERS LLP CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 280
+        Assets: 36297445
+        $/Participant: 129633
+        RecordKeeper: WELLS FARGO BANK, N.A.
+PA : PHILADELPHIA
+   [012]
+    2020: PEPPER HAMILTON LLP PARTNER PARITY PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 0
+        RecordKeeper: WELLS FARGO BANK, N.A.

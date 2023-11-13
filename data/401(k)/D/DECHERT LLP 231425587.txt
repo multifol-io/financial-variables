@@ -579,108 +579,6 @@ PA : PHILADELPHIA
         Available Investments:
            - DECHERT LLP
                  : DECHERT RETRMNT SVNGS PLN MSTR TRST
-   [010]
-    2022: DECHERT LLP PARTNERS DEFINED BENEFIT PLAN I
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 268
-        Assets: 30692308
-        $/Participant: 114523
-        Service Providers:
-           - MATRIX TRUST COMPANY :  (Trustee(bank, trust company, or similar))
-        Available Investments:
-           - ALLIANCEBERNSTEIN LP
-                 : AB GLOBAL LOW VOLATILITY COL TRUST
-    2021: DECHERT LLP PARTNERS DEFINED BENEFIT PLAN I
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 241
-        Assets: 29840010
-        $/Participant: 123817
-        Service Providers:
-           - MATRIX TRUST COMPANY :  (Trustee(bank, trust company, or similar))
-        Available Investments:
-           - ALLIANCEBERNSTEIN LP
-                 : AB GLOBAL LOW VOLATILITY COL TRUST
-    2020: DECHERT LLP PARTNERS DEFINED BENEFIT PLAN I
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 250
-        Assets: 23914727
-        $/Participant: 95658
-        Available Investments:
-           - ALLIANCEBERNSTEIN LP
-                 : AB GLOBAL LOW VOLATILITY COL TRUST
-    2019: DECHERT LLP PARTNERS DEFINED BENEFIT PLAN I
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 242
-        Assets: 17272722
-        $/Participant: 71374
-        Service Providers:
-           - ALLIANCE BERNSTEIN L.P :  (Custodial(securities) | Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-        Available Investments:
-           - ALLIANCEBERNSTEIN LP
-                 : AB GLOBAL LOW VOLATILITY COL TRUST
-    2018: DECHERT LLP PARTNERS DEFINED BENEFIT PLAN I
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 235
-        Assets: 10196458
-        $/Participant: 43389
-        Available Investments:
-           - ALLIANCEBERNSTEIN LP
-                 : AB GLOBAL LOW VOLATILITY COL TRUST
-   [011]
-    2022: DECHERT LLP PARTNERS DEFINED BENEFIT PLAN II
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 268
-        Assets: 30481067
-        $/Participant: 113735
-        Service Providers:
-           - MATRIX TRUST COMPANY :  (Trustee(bank, trust company, or similar))
-        Available Investments:
-           - ALLIANCEBERNSTEIN LP
-                 : AB GLOBAL LOW VOLATILITY COL TRUST
-    2021: DECHERT LLP PARTNERS DEFINED BENEFIT PLAN II
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 241
-        Assets: 28791201
-        $/Participant: 119465
-        Service Providers:
-           - MATRIX TRUST COMPANY :  (Trustee(bank, trust company, or similar))
-        Available Investments:
-           - ALLIANCEBERNSTEIN LP
-                 : AB GLOBAL LOW VOLATILITY COL TRUST
-    2020: DECHERT LLP PARTNERS DEFINED BENEFIT PLAN II
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 250
-        Assets: 23245290
-        $/Participant: 92981
-        Available Investments:
-           - ALLIANCEBERNSTEIN LP
-                 : AB GLOBAL LOW VOLATILITY COL TRUST
-    2019: DECHERT LLP PARTNERS DEFINED BENEFIT PLAN II
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 242
-        Assets: 16396599
-        $/Participant: 67754
-        Available Investments:
-           - ALLIANCEBERNSTEIN LP
-                 : AB GLOBAL LOW VOLATILITY COL TRUST
-    2018: DECHERT LLP PARTNERS DEFINED BENEFIT PLAN II
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 235
-        Assets: 10317643
-        $/Participant: 43904
-        Available Investments:
-           - ALLIANCEBERNSTEIN LP
-                 : AB GLOBAL LOW VOLATILITY COL TRUST
    [001]
     2022: DECHERT LLP PENSION PLAN FOR STAFF EMPLOYEES
         Benefit Category: Pension
@@ -793,3 +691,105 @@ PA : PHILADELPHIA
                  : RUSSELL ALL INT MARKETS FUND
                  : RUSSELL GL REAL ESTATE SEC FD
                  : RUSSELL SMALL CAP FUND
+   [010]
+    2022: DECHERT LLP PARTNERS DEFINED BENEFIT PLAN I
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 268
+        Assets: 30692308
+        $/Participant: 114523
+        Service Providers:
+           - MATRIX TRUST COMPANY :  (Trustee(bank, trust company, or similar))
+        Available Investments:
+           - ALLIANCEBERNSTEIN LP
+                 : AB GLOBAL LOW VOLATILITY COL TRUST
+    2021: DECHERT LLP PARTNERS DEFINED BENEFIT PLAN I
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 241
+        Assets: 29840010
+        $/Participant: 123817
+        Service Providers:
+           - MATRIX TRUST COMPANY :  (Trustee(bank, trust company, or similar))
+        Available Investments:
+           - ALLIANCEBERNSTEIN LP
+                 : AB GLOBAL LOW VOLATILITY COL TRUST
+    2020: DECHERT LLP PARTNERS DEFINED BENEFIT PLAN I
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 250
+        Assets: 23914727
+        $/Participant: 95658
+        Available Investments:
+           - ALLIANCEBERNSTEIN LP
+                 : AB GLOBAL LOW VOLATILITY COL TRUST
+    2019: DECHERT LLP PARTNERS DEFINED BENEFIT PLAN I
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 242
+        Assets: 17272722
+        $/Participant: 71374
+        Service Providers:
+           - ALLIANCE BERNSTEIN L.P :  (Custodial(securities) | Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+        Available Investments:
+           - ALLIANCEBERNSTEIN LP
+                 : AB GLOBAL LOW VOLATILITY COL TRUST
+    2018: DECHERT LLP PARTNERS DEFINED BENEFIT PLAN I
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 235
+        Assets: 10196458
+        $/Participant: 43389
+        Available Investments:
+           - ALLIANCEBERNSTEIN LP
+                 : AB GLOBAL LOW VOLATILITY COL TRUST
+   [011]
+    2022: DECHERT LLP PARTNERS DEFINED BENEFIT PLAN II
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 268
+        Assets: 30481067
+        $/Participant: 113735
+        Service Providers:
+           - MATRIX TRUST COMPANY :  (Trustee(bank, trust company, or similar))
+        Available Investments:
+           - ALLIANCEBERNSTEIN LP
+                 : AB GLOBAL LOW VOLATILITY COL TRUST
+    2021: DECHERT LLP PARTNERS DEFINED BENEFIT PLAN II
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 241
+        Assets: 28791201
+        $/Participant: 119465
+        Service Providers:
+           - MATRIX TRUST COMPANY :  (Trustee(bank, trust company, or similar))
+        Available Investments:
+           - ALLIANCEBERNSTEIN LP
+                 : AB GLOBAL LOW VOLATILITY COL TRUST
+    2020: DECHERT LLP PARTNERS DEFINED BENEFIT PLAN II
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 250
+        Assets: 23245290
+        $/Participant: 92981
+        Available Investments:
+           - ALLIANCEBERNSTEIN LP
+                 : AB GLOBAL LOW VOLATILITY COL TRUST
+    2019: DECHERT LLP PARTNERS DEFINED BENEFIT PLAN II
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 242
+        Assets: 16396599
+        $/Participant: 67754
+        Available Investments:
+           - ALLIANCEBERNSTEIN LP
+                 : AB GLOBAL LOW VOLATILITY COL TRUST
+    2018: DECHERT LLP PARTNERS DEFINED BENEFIT PLAN II
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 235
+        Assets: 10317643
+        $/Participant: 43904
+        Available Investments:
+           - ALLIANCEBERNSTEIN LP
+                 : AB GLOBAL LOW VOLATILITY COL TRUST

@@ -289,113 +289,6 @@ NJ : LITTLE FALLS
         Available Investments:
            - ROCHE RETIREE WELFARE BNFTS MSTR TR
                  : ROCHE RETIREE WELFARE BNFTS MSTR TR
-   [011]
-    2022: CONSOLIDATED ROCHE RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C3F3H3J 
-        Participants: 13296
-        Assets: 3049132753
-        $/Participant: 229327
-        RecordKeeper: INSTITUTIONAL PROTECTION SERVICES
-        Available Investments:
-           - GENENTECH INC.
-                 : ROCHE U.S. RETIREMENT PLANS MASTER
-           - HOFFMANN-LA ROCHE INC.
-                 : METROPOLITAN LIFE INSURANCE
-    2021: CONSOLIDATED ROCHE RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C3F3H3J 
-        Participants: 13422
-        Assets: 4101297619
-        $/Participant: 305565
-        RecordKeeper: INSTITUTIONAL PROTECTION SERVICES
-        Available Investments:
-           - GENENTECH INC.
-                 : ROCHE U.S. RETIREMENT PLANS MASTER
-           - HOFFMANN-LA ROCHE INC.
-                 : METROPOLITAN LIFE INSURANCE
-    2020: CONSOLIDATED ROCHE RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C3F3H3J 
-        Participants: 13548
-        Assets: 4140700266
-        $/Participant: 305631
-        RecordKeeper: INSTITUTIONAL PROTECTION SERVICES
-        Available Investments:
-           - GENENTECH INC.
-                 : ROCHE U.S. RETIREMENT PLANS MASTER
-           - HOFFMANN-LA ROCHE INC.
-                 : METROPOLITAN LIFE INSURANCE
-    2019: CONSOLIDATED ROCHE RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C3F3H3J 
-        Participants: 13666
-        Assets: 3674802047
-        $/Participant: 268901
-        Service Providers:
-           - STATE STREET BANK AND TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar) | Claims processing)
-           - FRANK RUSSELL : CONSULTANT (Consulting(general) | Custodial(other than securities) | Custodial(securities))
-           - AMERICAN GENERAL LIFE INSURANCE CO : SERVICE PROVIDER (Consulting(general) | Consulting(pension))
-           - FIDELITY INVESTMENT INSTITUTION : SERVICE PROVIDER (Custodial(other than securities) | Custodial(securities))
-           - CALLAN ASSOCIATES INC. : CONSULTANT (Consulting(general))
-           - HAGER STRATEGIC : SERVICE PROVIDER (Consulting(general) | Consulting(pension))
-           - MERCER : ACTUARY (Actuarial)
-           - RSM US LLP. : AUDITOR (Accounting(including auditing))
-           - DELOITTE : CONSULTANT (Consulting(general))
-           - INSTITUTIONAL PROTECTION SERVICES : SERVICE PROVIDER (Consulting(general) | Consulting(pension))
-        Available Investments:
-           - GENENTECH INC.
-                 : ROCHE U.S. RETIREMENT PLANS MASTER
-           - HOFFMANN-LA ROCHE INC.
-                 : METROPOLITAN LIFE INSURANCE
-    2018: CONSOLIDATED ROCHE RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C3F3H3J 
-        Participants: 13836
-        Assets: 3184227852
-        $/Participant: 230140
-        Service Providers:
-           - STATE STREET BANK AND TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar))
-           - FIDELITY INVESTMENT INSTITUTION : SERVICE PROVIDER (Custodial(other than securities) | Custodial(securities))
-           - FRANK RUSSELL : CONSULTANT (Consulting(general) | Custodial(other than securities) | Custodial(securities))
-           - NEWPORT TRUST COMPANY : CONSULTANT (Consulting(general))
-           - MERCER : ACTUARY (Actuarial)
-           - MERCER HR SERVICES : CONSULTANT (Other fees)
-           - CALLAN ASSOCIATES INC. : CONSULTANT (Consulting(general))
-           - KILPATRICK TOWNSEND : CONSULTANT (Consulting(general))
-           - RSM US LLP. : AUDITOR (Accounting(including auditing))
-           - WILLIS TOWERS WATSON : CONSULTANT (Consulting(general))
-           - DELOITTE : CONSULTANT (Consulting(general))
-           - GLOBAL PRINTING : CONSULTANT (Consulting(general))
-        Available Investments:
-           - GENENTECH INC.
-                 : ROCHE U.S. RETIREMENT PLANS MASTER
-           - HOFFMANN-LA ROCHE INC.
-                 : METROPOLITAN LIFE INSURANCE
-    2017: CONSOLIDATED ROCHE RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C3F3H3J 
-        Participants: 14045
-        Assets: 3414711385
-        $/Participant: 243126
-        Service Providers:
-           - BANK OF NEW YORK MELLON : TRUSTEE - FORMER (Trustee(bank, trust company, or similar))
-           - RSM US LLP. : AUDITOR (Accounting(including auditing))
-           - CALLAN ASSOCIATES INC. : CONSULTANT (Consulting(general))
-           - EVERCORE TRUST COMPANY : CONSULTANT (Consulting(general))
-           - INSTITUTIONAL PROTECTION SERVICES : CONSULTANT (Consulting(general))
-           - DELOITTE : CONSULTANT (Consulting(general))
-           - STATE STREET BANK AND TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar))
-           - MERCER HR SERVICES : CONSULTANT (Other fees)
-           - FIDELITY INVESTMENT INSTITUTION : SERVICE PROVIDER (Custodial(other than securities) | Custodial(securities))
-           - FRANK RUSSELL : CONSULTANT (Consulting(general) | Custodial(other than securities) | Custodial(securities))
-           - WILLIS TOWERS WATSON : CONSULTANT (Consulting(general))
-           - MERCER : ACTUARY (Actuarial)
-        Available Investments:
-           - GENENTECH INC.
-                 : ROCHE U.S. RETIREMENT PLANS MASTER
-           - HOFFMANN-LA ROCHE INC.
-                 : METROPOLITAN LIFE INSURANCE
    [510]
     2022: ROCHE SPECIAL DEATH BENEFIT PLAN
         Benefit Category: Other
@@ -421,6 +314,113 @@ NJ : LITTLE FALLS
         Benefit Category: Other
         Codes:  4L
         Participants: 
+   [011]
+    2022: CONSOLIDATED ROCHE RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C3F3H3J 
+        Participants: 13296
+        Assets: 3049132753
+        $/Participant: 229327
+        RecordKeeper: INSTITUTIONAL PROTECTION SERVICES
+        Available Investments:
+           - GENENTECH INC.
+                 : ROCHE U.S. RETIREMENT PLANS MASTER
+           - HOFFMANN-LA ROCHE INC.
+                 : METROPOLITAN LIFE INSURANCE
+    2021: CONSOLIDATED ROCHE RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C3F3H3J 
+        Participants: 13422
+        Assets: 4101297619
+        $/Participant: 305565
+        RecordKeeper: INSTITUTIONAL PROTECTION SERVICES
+        Available Investments:
+           - GENENTECH INC.
+                 : ROCHE U.S. RETIREMENT PLANS MASTER
+           - HOFFMANN-LA ROCHE INC.
+                 : METROPOLITAN LIFE INSURANCE
+    2020: CONSOLIDATED ROCHE RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C3F3H3J 
+        Participants: 13548
+        Assets: 4140700266
+        $/Participant: 305631
+        RecordKeeper: INSTITUTIONAL PROTECTION SERVICES
+        Available Investments:
+           - GENENTECH INC.
+                 : ROCHE U.S. RETIREMENT PLANS MASTER
+           - HOFFMANN-LA ROCHE INC.
+                 : METROPOLITAN LIFE INSURANCE
+    2019: CONSOLIDATED ROCHE RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C3F3H3J 
+        Participants: 13666
+        Assets: 3674802047
+        $/Participant: 268901
+        Service Providers:
+           - STATE STREET BANK AND TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar) | Claims processing)
+           - FRANK RUSSELL : CONSULTANT (Consulting(general) | Custodial(other than securities) | Custodial(securities))
+           - AMERICAN GENERAL LIFE INSURANCE CO : SERVICE PROVIDER (Consulting(general) | Consulting(pension))
+           - FIDELITY INVESTMENT INSTITUTION : SERVICE PROVIDER (Custodial(other than securities) | Custodial(securities))
+           - CALLAN ASSOCIATES INC. : CONSULTANT (Consulting(general))
+           - HAGER STRATEGIC : SERVICE PROVIDER (Consulting(general) | Consulting(pension))
+           - MERCER : ACTUARY (Actuarial)
+           - RSM US LLP. : AUDITOR (Accounting(including auditing))
+           - DELOITTE : CONSULTANT (Consulting(general))
+           - INSTITUTIONAL PROTECTION SERVICES : SERVICE PROVIDER (Consulting(general) | Consulting(pension))
+        Available Investments:
+           - GENENTECH INC.
+                 : ROCHE U.S. RETIREMENT PLANS MASTER
+           - HOFFMANN-LA ROCHE INC.
+                 : METROPOLITAN LIFE INSURANCE
+    2018: CONSOLIDATED ROCHE RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C3F3H3J 
+        Participants: 13836
+        Assets: 3184227852
+        $/Participant: 230140
+        Service Providers:
+           - STATE STREET BANK AND TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar))
+           - FIDELITY INVESTMENT INSTITUTION : SERVICE PROVIDER (Custodial(other than securities) | Custodial(securities))
+           - FRANK RUSSELL : CONSULTANT (Consulting(general) | Custodial(other than securities) | Custodial(securities))
+           - NEWPORT TRUST COMPANY : CONSULTANT (Consulting(general))
+           - MERCER : ACTUARY (Actuarial)
+           - MERCER HR SERVICES : CONSULTANT (Other fees)
+           - CALLAN ASSOCIATES INC. : CONSULTANT (Consulting(general))
+           - KILPATRICK TOWNSEND : CONSULTANT (Consulting(general))
+           - RSM US LLP. : AUDITOR (Accounting(including auditing))
+           - WILLIS TOWERS WATSON : CONSULTANT (Consulting(general))
+           - DELOITTE : CONSULTANT (Consulting(general))
+           - GLOBAL PRINTING : CONSULTANT (Consulting(general))
+        Available Investments:
+           - GENENTECH INC.
+                 : ROCHE U.S. RETIREMENT PLANS MASTER
+           - HOFFMANN-LA ROCHE INC.
+                 : METROPOLITAN LIFE INSURANCE
+    2017: CONSOLIDATED ROCHE RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C3F3H3J 
+        Participants: 14045
+        Assets: 3414711385
+        $/Participant: 243126
+        Service Providers:
+           - BANK OF NEW YORK MELLON : TRUSTEE - FORMER (Trustee(bank, trust company, or similar))
+           - RSM US LLP. : AUDITOR (Accounting(including auditing))
+           - CALLAN ASSOCIATES INC. : CONSULTANT (Consulting(general))
+           - EVERCORE TRUST COMPANY : CONSULTANT (Consulting(general))
+           - INSTITUTIONAL PROTECTION SERVICES : CONSULTANT (Consulting(general))
+           - DELOITTE : CONSULTANT (Consulting(general))
+           - STATE STREET BANK AND TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar))
+           - MERCER HR SERVICES : CONSULTANT (Other fees)
+           - FIDELITY INVESTMENT INSTITUTION : SERVICE PROVIDER (Custodial(other than securities) | Custodial(securities))
+           - FRANK RUSSELL : CONSULTANT (Consulting(general) | Custodial(other than securities) | Custodial(securities))
+           - WILLIS TOWERS WATSON : CONSULTANT (Consulting(general))
+           - MERCER : ACTUARY (Actuarial)
+        Available Investments:
+           - GENENTECH INC.
+                 : ROCHE U.S. RETIREMENT PLANS MASTER
+           - HOFFMANN-LA ROCHE INC.
+                 : METROPOLITAN LIFE INSURANCE
    [517]
     2022: NUTLEY SITE SEVERANCE PLAN
         Benefit Category: Severance

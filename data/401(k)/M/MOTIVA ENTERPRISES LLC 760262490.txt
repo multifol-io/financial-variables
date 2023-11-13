@@ -369,34 +369,6 @@ TX : HOUSTON
                  : MACQUARIE LARGE CAP VALUE TRUST A
            - VANGUARD
                  : VANGUARD RETIREMENT SAVING TRUST IV
-   [006]
-    2022: MOTIVA CHEMICALS CASH BALANCE PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C3F3H 
-        Participants: 174
-        Assets: 17713200
-        $/Participant: 101800
-        Available Investments:
-           - MOTIVA ENTERPRISES, LLC
-                 : MOTIVA MASTER PENSION TRUST
-    2021: MOTIVA CHEMICALS CASH BALANCE PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C3F3H 
-        Participants: 184
-        Assets: 19973094
-        $/Participant: 108549
-        Available Investments:
-           - MOTIVA ENTERPRISES, LLC
-                 : MOTIVA MASTER PENSION TRUST
-    2020: MOTIVA CHEMICALS CASH BALANCE PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C3F3H 
-        Participants: 192
-        Assets: 19204939
-        $/Participant: 100025
-        Available Investments:
-           - MOTIVA ENTERPRISES, LLC
-                 : MOTIVA MASTER PENSION TRUST
    [003]
     2022: MOTIVA PENSION PLAN
         Benefit Category: Pension
@@ -474,6 +446,34 @@ TX : HOUSTON
                  : GLOBAL ALL CAP EQUITY EX-US INDX NL
                  : U.S. LONG CREDIT BOND INDX NL SF CL
                  : U.S. TOTAL MARKET INDX NL SF CL A
+   [006]
+    2022: MOTIVA CHEMICALS CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3F3H 
+        Participants: 174
+        Assets: 17713200
+        $/Participant: 101800
+        Available Investments:
+           - MOTIVA ENTERPRISES, LLC
+                 : MOTIVA MASTER PENSION TRUST
+    2021: MOTIVA CHEMICALS CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3F3H 
+        Participants: 184
+        Assets: 19973094
+        $/Participant: 108549
+        Available Investments:
+           - MOTIVA ENTERPRISES, LLC
+                 : MOTIVA MASTER PENSION TRUST
+    2020: MOTIVA CHEMICALS CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3F3H 
+        Participants: 192
+        Assets: 19204939
+        $/Participant: 100025
+        Available Investments:
+           - MOTIVA ENTERPRISES, LLC
+                 : MOTIVA MASTER PENSION TRUST
    [502]
     2022: MOTIVA ENTERPRISES LLC SEVERANCE PAY PLAN
         Benefit Category: Severance

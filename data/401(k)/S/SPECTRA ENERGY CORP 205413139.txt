@@ -173,29 +173,6 @@ TX : HOUSTON
                  : CF AGG BOND INDEX FUND
                  : CF DV STOCK INDEX FUND
                  : SE4 CHARITABLE TEMP INV FD
-   [001]
-    2018: SPECTRA ENERGY RETIREMENT CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C1E3F3H 
-        Participants: 0
-        RecordKeeper: HILLSDALE INVESTMENT MANAGEMENT
-        Available Investments:
-           - NORTHERN TRUST
-                 : SEI CORE PROPERTY COLLECTIVE INVT
-                 : SEI STRUCTURED CREDIT COLLECTIVE
-    2017: SPECTRA ENERGY RETIREMENT CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C1E3F3H 
-        Participants: 6513
-        Assets: 641654000
-        $/Participant: 98518
-        Service Providers:
-           - SEI INVESTMENT :  (Investment management fees paid directly by plan)
-           - THE NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar))
-        Available Investments:
-           - NORTHERN TRUST
-                 : SEI CORE PROPERTY COLLECTIVE INVT
-                 : SEI STRUCTURED CREDIT COLLECTIVE
    [107]
     2020: SPECTRA ENERGY CORP EMPLOYEE BENEFITS TRUST
         Benefit Category: Other
@@ -466,6 +443,29 @@ TX : HOUSTON
                  : CF AGG BOND INDEX FUND
                  : CF DV STOCK INDEX FUND
                  : SE4 CHARITABLE TEMP INV FD
+   [001]
+    2018: SPECTRA ENERGY RETIREMENT CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C1E3F3H 
+        Participants: 0
+        RecordKeeper: HILLSDALE INVESTMENT MANAGEMENT
+        Available Investments:
+           - NORTHERN TRUST
+                 : SEI CORE PROPERTY COLLECTIVE INVT
+                 : SEI STRUCTURED CREDIT COLLECTIVE
+    2017: SPECTRA ENERGY RETIREMENT CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C1E3F3H 
+        Participants: 6513
+        Assets: 641654000
+        $/Participant: 98518
+        Service Providers:
+           - SEI INVESTMENT :  (Investment management fees paid directly by plan)
+           - THE NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar))
+        Available Investments:
+           - NORTHERN TRUST
+                 : SEI CORE PROPERTY COLLECTIVE INVT
+                 : SEI STRUCTURED CREDIT COLLECTIVE
    [568]
     2018: SPECTRA ENERGY CORP CHANGE IN CONTROL SEVERANCE BENEFITS PLAN
         Benefit Category: Severance

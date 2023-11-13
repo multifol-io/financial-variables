@@ -93,56 +93,6 @@ CA : MOUNTAIN VIEW
         Benefit Category: Healthcare
         Codes:  4A
         Participants: 
-   [005]
-    2019: FENWICK & WEST LLP PARTNERS' PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C3B3F 
-        Participants: 0
-    2018: FENWICK & WEST LLP PARTNERS' PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C3B3F 
-        Participants: 0
-    2017: FENWICK & WEST LLP PARTNERS' PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 117
-   [006]
-    2022: FENWICK & WEST LLP PARTNERS' PENSION PLAN II
-        Benefit Category: Other
-        Codes: 1C3B3F 
-        Participants: 154
-        Assets: 44791683
-        $/Participant: 290855
-        Service Providers:
-           - CERITY PARTNERS LLC :  (Investment advisory(plan))
-           - CHARLES SCHWAB & CO., INC. :  (Shareholder servicing fees)
-    2021: FENWICK & WEST LLP PARTNERS' PENSION PLAN II
-        Benefit Category: Other
-        Codes: 1C3B3F 
-        Participants: 139
-        Assets: 34599180
-        $/Participant: 248914
-        Service Providers:
-           - BINGHAM, OSBORN & SCARBOROUGH, LLC :  (Investment advisory(plan))
-           - CHARLES SCHWAB & CO., INC. :  (Shareholder servicing fees)
-    2020: FENWICK & WEST LLP PARTNERS' PENSION PLAN II
-        Benefit Category: Other
-        Codes: 1C3B3F 
-        Participants: 126
-        Assets: 25395059
-        $/Participant: 201548
-        Service Providers:
-           - BINGHAM, OSBORN & SCARBOROUGH, LLC :  (Investment advisory(plan))
-           - CHARLES SCHWAB & CO., INC. :  (Shareholder servicing fees)
-    2019: FENWICK & WEST LLP PARTNERS' PENSION PLAN II
-        Benefit Category: Other
-        Codes: 1C3B3F 
-        Participants: 117
-        Assets: 11748462
-        $/Participant: 100414
-        Service Providers:
-           - BINGHAM, OSBORN & SCARBOROUGH, LLC :  (Investment advisory(plan))
-           - CHARLES SCHWAB & CO., INC. :  (Securities brokerage)
    [505]
     2022: FENWICK AND WEST LLP LIFE AND LONG TERM DISABILITY PLAN
         Benefit Category: Other
@@ -168,3 +118,53 @@ CA : MOUNTAIN VIEW
         Benefit Category: Other
         Codes:  4B4L4Q
         Participants: 
+   [005]
+    2019: FENWICK & WEST LLP PARTNERS' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3B3F 
+        Participants: 0
+    2018: FENWICK & WEST LLP PARTNERS' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3B3F 
+        Participants: 0
+    2017: FENWICK & WEST LLP PARTNERS' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 117
+   [006]
+    2022: FENWICK & WEST LLP PARTNERS' PENSION PLAN II
+        Benefit Category: Pension
+        Codes: 1C3B3F 
+        Participants: 154
+        Assets: 44791683
+        $/Participant: 290855
+        Service Providers:
+           - CERITY PARTNERS LLC :  (Investment advisory(plan))
+           - CHARLES SCHWAB & CO., INC. :  (Shareholder servicing fees)
+    2021: FENWICK & WEST LLP PARTNERS' PENSION PLAN II
+        Benefit Category: Pension
+        Codes: 1C3B3F 
+        Participants: 139
+        Assets: 34599180
+        $/Participant: 248914
+        Service Providers:
+           - BINGHAM, OSBORN & SCARBOROUGH, LLC :  (Investment advisory(plan))
+           - CHARLES SCHWAB & CO., INC. :  (Shareholder servicing fees)
+    2020: FENWICK & WEST LLP PARTNERS' PENSION PLAN II
+        Benefit Category: Pension
+        Codes: 1C3B3F 
+        Participants: 126
+        Assets: 25395059
+        $/Participant: 201548
+        Service Providers:
+           - BINGHAM, OSBORN & SCARBOROUGH, LLC :  (Investment advisory(plan))
+           - CHARLES SCHWAB & CO., INC. :  (Shareholder servicing fees)
+    2019: FENWICK & WEST LLP PARTNERS' PENSION PLAN II
+        Benefit Category: Pension
+        Codes: 1C3B3F 
+        Participants: 117
+        Assets: 11748462
+        $/Participant: 100414
+        Service Providers:
+           - BINGHAM, OSBORN & SCARBOROUGH, LLC :  (Investment advisory(plan))
+           - CHARLES SCHWAB & CO., INC. :  (Securities brokerage)

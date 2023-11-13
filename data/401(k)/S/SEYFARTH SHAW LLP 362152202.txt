@@ -77,21 +77,6 @@ IL : CHICAGO
         Codes: 2A2E2F2G3B3H2R2T 
         Participants: 0
         RecordKeeper: CLS INVESTMENTS LLC
-   [008]
-    2022: SEYFARTH SHAW LLP MARKET-BASED PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 210
-        Assets: 40784940
-        $/Participant: 194214
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-    2021: SEYFARTH SHAW LLP MARKET-BASED PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 194
-        Assets: 27837314
-        $/Participant: 143491
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
    [003]
     2022: SEYFARTH SHAW LLP LEGACY PENSION PLAN
         Benefit Category: Pension
@@ -206,3 +191,18 @@ IL : CHICAGO
                  : COLLECTIVE RUSSELL 1000 INDEX
                  : COLLECTIVE RUSSELL 2000 INDEX
                  : COLLECTIVE SHORT TERM INVESTMENT
+   [008]
+    2022: SEYFARTH SHAW LLP MARKET-BASED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 210
+        Assets: 40784940
+        $/Participant: 194214
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+    2021: SEYFARTH SHAW LLP MARKET-BASED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 194
+        Assets: 27837314
+        $/Participant: 143491
+        RecordKeeper: CHARLES SCHWAB & CO., INC.

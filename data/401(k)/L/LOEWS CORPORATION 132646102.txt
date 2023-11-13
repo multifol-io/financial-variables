@@ -136,69 +136,6 @@ NY : NEW YORK
         Benefit Category: Healthcare
         Codes:  4A4B4D
         Participants: 
-   [021]
-    2022: LOEWS CORPORATION CASH BALANCE RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C1H 
-        Participants: 1993
-        Assets: 108679088
-        $/Participant: 54530
-        Service Providers:
-           - BUCK GLOBAL, LLC :  (Actuarial | Direct payment from the plan)
-           - NORTHERN TRUST :  (Trustee(bank, trust company, or similar) | Custodial(securities) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | 'Soft dollars' commissions)
-           - DELOITTE & TOUCHE LLP :  (Accounting(including auditing) | Direct payment from the plan)
-           - KROLL LLC :  (Consulting(general) | Direct payment from the plan)
-           - ALLIANCE BERNSTEIN L.P :  (Investment management fees paid indirectly by plan | 'Soft dollars' commissions)
-           - SEYFARTH & SHAW LLP :  (Legal | Direct payment from the plan)
-           - BARON CAPITAL MANAGEMENT INC. :  (Investment advisory(plan) | Direct payment from the plan)
-        Available Investments:
-           - LOEWS CORPORATION
-                 : LOEWS CO MASTER RETIREMENT TRUST
-    2021: LOEWS CORPORATION CASH BALANCE RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 2071
-        Assets: 135978755
-        $/Participant: 65658
-        Available Investments:
-           - LOEWS CORPORATION
-                 : LOEWS CO MASTER RETIREMENT TRUST
-    2020: LOEWS CORPORATION CASH BALANCE RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 2239
-        Assets: 132092994
-        $/Participant: 58996
-        Available Investments:
-           - LOEWS CORPORATION
-                 : LOEWS CO MASTER RETIREMENT TRUST
-    2019: LOEWS CORPORATION CASH BALANCE RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 2439
-        Assets: 131663078
-        $/Participant: 53982
-        Available Investments:
-           - LOEWS CORPORATION
-                 : LOEWS CO MASTER RETIREMENT TRUST
-    2018: LOEWS CORPORATION CASH BALANCE RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 2426
-        Assets: 107737309
-        $/Participant: 44409
-        Available Investments:
-           - LOEWS CORPORATION
-                 : LOEWS CO MASTER RETIREMENT TRUST
-    2017: LOEWS CORPORATION CASH BALANCE RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 2375
-        Assets: 119280999
-        $/Participant: 50223
-        Available Investments:
-           - LOEWS CORPORATION
-                 : LOEWS CO MASTER RETIREMENT TRUST
    [505]
     2022: LOEWS CORPORATION GROUP TRAVEL ACCIDENT PLAN
         Benefit Category: Other
@@ -274,3 +211,66 @@ NY : NEW YORK
         Service Providers:
            - DELOITTE & TOUCHE LLP :  (Accounting(including auditing) | Direct payment from the plan)
            - TOWERS WATSON DELAWARE, INC. :  (Actuarial | Direct payment from the plan)
+   [021]
+    2022: LOEWS CORPORATION CASH BALANCE RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C1H 
+        Participants: 1993
+        Assets: 108679088
+        $/Participant: 54530
+        Service Providers:
+           - BUCK GLOBAL, LLC :  (Actuarial | Direct payment from the plan)
+           - NORTHERN TRUST :  (Trustee(bank, trust company, or similar) | Custodial(securities) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | 'Soft dollars' commissions)
+           - DELOITTE & TOUCHE LLP :  (Accounting(including auditing) | Direct payment from the plan)
+           - KROLL LLC :  (Consulting(general) | Direct payment from the plan)
+           - ALLIANCE BERNSTEIN L.P :  (Investment management fees paid indirectly by plan | 'Soft dollars' commissions)
+           - SEYFARTH & SHAW LLP :  (Legal | Direct payment from the plan)
+           - BARON CAPITAL MANAGEMENT INC. :  (Investment advisory(plan) | Direct payment from the plan)
+        Available Investments:
+           - LOEWS CORPORATION
+                 : LOEWS CO MASTER RETIREMENT TRUST
+    2021: LOEWS CORPORATION CASH BALANCE RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 2071
+        Assets: 135978755
+        $/Participant: 65658
+        Available Investments:
+           - LOEWS CORPORATION
+                 : LOEWS CO MASTER RETIREMENT TRUST
+    2020: LOEWS CORPORATION CASH BALANCE RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 2239
+        Assets: 132092994
+        $/Participant: 58996
+        Available Investments:
+           - LOEWS CORPORATION
+                 : LOEWS CO MASTER RETIREMENT TRUST
+    2019: LOEWS CORPORATION CASH BALANCE RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 2439
+        Assets: 131663078
+        $/Participant: 53982
+        Available Investments:
+           - LOEWS CORPORATION
+                 : LOEWS CO MASTER RETIREMENT TRUST
+    2018: LOEWS CORPORATION CASH BALANCE RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 2426
+        Assets: 107737309
+        $/Participant: 44409
+        Available Investments:
+           - LOEWS CORPORATION
+                 : LOEWS CO MASTER RETIREMENT TRUST
+    2017: LOEWS CORPORATION CASH BALANCE RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 2375
+        Assets: 119280999
+        $/Participant: 50223
+        Available Investments:
+           - LOEWS CORPORATION
+                 : LOEWS CO MASTER RETIREMENT TRUST

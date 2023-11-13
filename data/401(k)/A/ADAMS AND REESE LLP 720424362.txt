@@ -83,63 +83,6 @@ LA : NEW ORLEANS
         Benefit Category: Healthcare
         Codes:  4A4D4E4Q
         Participants: 
-   [004]
-    2022: ADAMS AND REESE LLP GROUP PENSION PLAN II
-        Benefit Category: Other
-        Codes: 1C3B3H 
-        Participants: 0
-        Service Providers:
-           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
-           - AON CONSULTING, INC. :  (Actuarial | Direct payment from the plan)
-           - COOK STREET CONSULTING :  (Investment advisory(plan) | Direct payment from the plan)
-           - CHARLES SCHWAB BANK :  (Contract Administrator | Custodial(other than securities) | Trustee(bank, trust company, or similar))
-    2021: ADAMS AND REESE LLP GROUP PENSION PLAN II
-        Benefit Category: Other
-        Codes: 1C3B3H 
-        Participants: 118
-        Assets: 61349268
-        $/Participant: 519909
-        Service Providers:
-           - AON CONSULTING, INC. :  (Actuarial | Direct payment from the plan)
-           - COOK STREET CONSULTING :  (Investment advisory(plan) | Direct payment from the plan)
-           - CHARLES SCHWAB BANK :  (Contract Administrator | Custodial(other than securities) | Trustee(bank, trust company, or similar))
-    2020: ADAMS AND REESE LLP GROUP PENSION PLAN II
-        Benefit Category: Other
-        Codes: 1C3B3H 
-        Participants: 129
-        Assets: 61578614
-        $/Participant: 477353
-        Service Providers:
-           - AON CONSULTING, INC. :  (Actuarial | Direct payment from the plan)
-           - COOK STREET CONSULTING :  (Investment advisory(plan) | Direct payment from the plan)
-           - CHARLES SCHWAB BANK :  (Contract Administrator | Custodial(other than securities) | Trustee(bank, trust company, or similar))
-    2019: ADAMS AND REESE LLP GROUP PENSION PLAN II
-        Benefit Category: Other
-        Codes: 1C3B3H 
-        Participants: 134
-        Assets: 52657810
-        $/Participant: 392968
-        Service Providers:
-           - AON CONSULTING :  (Actuarial | Direct payment from the plan)
-           - COOK STREET CONSULTING :  (Investment advisory(plan) | Direct payment from the plan)
-           - CHARLES SCHWAB BANK :  (Contract Administrator | Custodial(other than securities) | Trustee(bank, trust company, or similar))
-    2018: ADAMS AND REESE LLP GROUP PENSION PLAN II
-        Benefit Category: Other
-        Codes: 1C3B3H 
-        Participants: 135
-        Assets: 48356545
-        $/Participant: 358196
-        Service Providers:
-           - AON CONSULTING :  (Actuarial | Direct payment from the plan)
-           - COOK STREET CONSULTING :  (Investment advisory(plan) | Direct payment from the plan)
-           - CHARLES SCHWAB BANK :  (Contract Administrator | Custodial(other than securities) | Trustee(bank, trust company, or similar))
-    2017: ADAMS AND REESE LLP GROUP PENSION PLAN II
-        Benefit Category: Other
-        Codes: 1C3B3H 
-        Participants: 148
-        Assets: 35846784
-        $/Participant: 242208
-        RecordKeeper: SCHWAB RETIREMENT PLAN SERVICES
    [507]
     2022: ADAMS AND REESE LLP GROUP TRAVEL AD&D PLAN
         Benefit Category: Other
@@ -215,3 +158,60 @@ LA : NEW ORLEANS
         Benefit Category: Other
         Codes:  4F4H
         Participants: 
+   [004]
+    2022: ADAMS AND REESE LLP GROUP PENSION PLAN II
+        Benefit Category: Pension
+        Codes: 1C3B3H 
+        Participants: 0
+        Service Providers:
+           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
+           - AON CONSULTING, INC. :  (Actuarial | Direct payment from the plan)
+           - COOK STREET CONSULTING :  (Investment advisory(plan) | Direct payment from the plan)
+           - CHARLES SCHWAB BANK :  (Contract Administrator | Custodial(other than securities) | Trustee(bank, trust company, or similar))
+    2021: ADAMS AND REESE LLP GROUP PENSION PLAN II
+        Benefit Category: Pension
+        Codes: 1C3B3H 
+        Participants: 118
+        Assets: 61349268
+        $/Participant: 519909
+        Service Providers:
+           - AON CONSULTING, INC. :  (Actuarial | Direct payment from the plan)
+           - COOK STREET CONSULTING :  (Investment advisory(plan) | Direct payment from the plan)
+           - CHARLES SCHWAB BANK :  (Contract Administrator | Custodial(other than securities) | Trustee(bank, trust company, or similar))
+    2020: ADAMS AND REESE LLP GROUP PENSION PLAN II
+        Benefit Category: Pension
+        Codes: 1C3B3H 
+        Participants: 129
+        Assets: 61578614
+        $/Participant: 477353
+        Service Providers:
+           - AON CONSULTING, INC. :  (Actuarial | Direct payment from the plan)
+           - COOK STREET CONSULTING :  (Investment advisory(plan) | Direct payment from the plan)
+           - CHARLES SCHWAB BANK :  (Contract Administrator | Custodial(other than securities) | Trustee(bank, trust company, or similar))
+    2019: ADAMS AND REESE LLP GROUP PENSION PLAN II
+        Benefit Category: Pension
+        Codes: 1C3B3H 
+        Participants: 134
+        Assets: 52657810
+        $/Participant: 392968
+        Service Providers:
+           - AON CONSULTING :  (Actuarial | Direct payment from the plan)
+           - COOK STREET CONSULTING :  (Investment advisory(plan) | Direct payment from the plan)
+           - CHARLES SCHWAB BANK :  (Contract Administrator | Custodial(other than securities) | Trustee(bank, trust company, or similar))
+    2018: ADAMS AND REESE LLP GROUP PENSION PLAN II
+        Benefit Category: Pension
+        Codes: 1C3B3H 
+        Participants: 135
+        Assets: 48356545
+        $/Participant: 358196
+        Service Providers:
+           - AON CONSULTING :  (Actuarial | Direct payment from the plan)
+           - COOK STREET CONSULTING :  (Investment advisory(plan) | Direct payment from the plan)
+           - CHARLES SCHWAB BANK :  (Contract Administrator | Custodial(other than securities) | Trustee(bank, trust company, or similar))
+    2017: ADAMS AND REESE LLP GROUP PENSION PLAN II
+        Benefit Category: Pension
+        Codes: 1C3B3H 
+        Participants: 148
+        Assets: 35846784
+        $/Participant: 242208
+        RecordKeeper: SCHWAB RETIREMENT PLAN SERVICES

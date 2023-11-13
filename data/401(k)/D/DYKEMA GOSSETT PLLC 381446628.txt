@@ -175,68 +175,6 @@ MI : DETROIT
         Benefit Category: Healthcare
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
-   [003]
-    2022: DYKEMA GOSSETT PLLC CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B3H 
-        Participants: 110
-        Assets: 31379885
-        $/Participant: 285271
-        Service Providers:
-           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
-           - SEI INVESTMENTS MANAGEMENT CORP :  (Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Investment advisory(plan) | Investment management | Securities brokerage | Other services | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
-           - PLANTE & MORAN, PLLC :  (Accounting(including auditing) | Direct payment from the plan)
-    2021: DYKEMA GOSSETT PLLC CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B3H 
-        Participants: 119
-        Assets: 35670193
-        $/Participant: 299749
-        Service Providers:
-           - SEI INVESTMENTS MANAGEMENT CORP : NONE KNOWN (Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Investment advisory(plan) | Investment management | Securities brokerage | Other services | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
-           - OCTOBER THREE CONSULTING LLC : NONE KNOWN (Actuarial | Direct payment from the plan)
-           - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
-    2020: DYKEMA GOSSETT PLLC CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B3H 
-        Participants: 122
-        Assets: 31542937
-        $/Participant: 258548
-        Service Providers:
-           - SEI INVESTMENTS MANAGEMENT CORP : NONE KNOWN (Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Investment advisory(plan) | Investment management | Securities brokerage | Other services | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
-           - OCTOBER THREE CONSULTING LLC : NONE KNOWN (Actuarial | Direct payment from the plan)
-           - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
-    2019: DYKEMA GOSSETT PLLC CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B3H 
-        Participants: 123
-        Assets: 28818759
-        $/Participant: 234298
-        Service Providers:
-           - SEI INVESTMENTS MANAGEMENT CORP : NONE KNOWN (Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Investment advisory(plan) | Investment management | Securities brokerage | Other services | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
-           - OCTOBER THREE CONSULTING LLC : NONE KNOWN (Actuarial | Direct payment from the plan)
-           - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
-    2018: DYKEMA GOSSETT PLLC CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B3H 
-        Participants: 115
-        Assets: 22558178
-        $/Participant: 196158
-        Service Providers:
-           - OCTOBER THREE CONSULTING LLC : NONE KNOWN (Actuarial | Direct payment from the plan)
-           - SEI INVESTMENTS MANAGEMENT CORP : NONE KNOWN (Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Investment advisory(plan) | Investment management | Securities brokerage | Other services | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
-           - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
-    2017: DYKEMA GOSSETT PLLC CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B3H 
-        Participants: 119
-        Assets: 23417374
-        $/Participant: 196784
-        Service Providers:
-           - OCTOBER THREE CONSULTING LLC : NONE KNOWN (Actuarial | Direct payment from the plan)
-           - SEI INVESTMENTS MANAGEMENT CORP : NONE KNOWN (Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Investment advisory(plan) | Investment management | Securities brokerage | Other services | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
-           - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
-           - BANK OF AMERICA : NONE KNOWN (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | Float revenue)
    [001]
     2022: DYKEMA GOSSETT PLLC RETIREMENT PLAN
         Benefit Category: Pension
@@ -320,5 +258,67 @@ MI : DETROIT
         Service Providers:
            - SEI INVESTMENTS MANAGEMENT CORP : NONE KNOWN (Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Investment advisory(plan) | Investment management | Securities brokerage | Other services | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | 'Soft dollars' commissions)
            - OCTOBER THREE CONSULTING LLC : NONE KNOWN (Actuarial | Direct payment from the plan)
+           - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
+           - BANK OF AMERICA : NONE KNOWN (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | Float revenue)
+   [003]
+    2022: DYKEMA GOSSETT PLLC CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B3H 
+        Participants: 110
+        Assets: 31379885
+        $/Participant: 285271
+        Service Providers:
+           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
+           - SEI INVESTMENTS MANAGEMENT CORP :  (Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Investment advisory(plan) | Investment management | Securities brokerage | Other services | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
+           - PLANTE & MORAN, PLLC :  (Accounting(including auditing) | Direct payment from the plan)
+    2021: DYKEMA GOSSETT PLLC CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B3H 
+        Participants: 119
+        Assets: 35670193
+        $/Participant: 299749
+        Service Providers:
+           - SEI INVESTMENTS MANAGEMENT CORP : NONE KNOWN (Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Investment advisory(plan) | Investment management | Securities brokerage | Other services | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
+           - OCTOBER THREE CONSULTING LLC : NONE KNOWN (Actuarial | Direct payment from the plan)
+           - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
+    2020: DYKEMA GOSSETT PLLC CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B3H 
+        Participants: 122
+        Assets: 31542937
+        $/Participant: 258548
+        Service Providers:
+           - SEI INVESTMENTS MANAGEMENT CORP : NONE KNOWN (Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Investment advisory(plan) | Investment management | Securities brokerage | Other services | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
+           - OCTOBER THREE CONSULTING LLC : NONE KNOWN (Actuarial | Direct payment from the plan)
+           - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
+    2019: DYKEMA GOSSETT PLLC CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B3H 
+        Participants: 123
+        Assets: 28818759
+        $/Participant: 234298
+        Service Providers:
+           - SEI INVESTMENTS MANAGEMENT CORP : NONE KNOWN (Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Investment advisory(plan) | Investment management | Securities brokerage | Other services | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
+           - OCTOBER THREE CONSULTING LLC : NONE KNOWN (Actuarial | Direct payment from the plan)
+           - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
+    2018: DYKEMA GOSSETT PLLC CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B3H 
+        Participants: 115
+        Assets: 22558178
+        $/Participant: 196158
+        Service Providers:
+           - OCTOBER THREE CONSULTING LLC : NONE KNOWN (Actuarial | Direct payment from the plan)
+           - SEI INVESTMENTS MANAGEMENT CORP : NONE KNOWN (Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Investment advisory(plan) | Investment management | Securities brokerage | Other services | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
+           - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
+    2017: DYKEMA GOSSETT PLLC CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B3H 
+        Participants: 119
+        Assets: 23417374
+        $/Participant: 196784
+        Service Providers:
+           - OCTOBER THREE CONSULTING LLC : NONE KNOWN (Actuarial | Direct payment from the plan)
+           - SEI INVESTMENTS MANAGEMENT CORP : NONE KNOWN (Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Investment advisory(plan) | Investment management | Securities brokerage | Other services | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
            - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
            - BANK OF AMERICA : NONE KNOWN (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | Float revenue)

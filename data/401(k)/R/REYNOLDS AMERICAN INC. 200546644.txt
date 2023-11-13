@@ -307,59 +307,6 @@ NC : WINSTON-SALEM
         Benefit Category: Healthcare
         Codes:  4A4D4E
         Participants: 
-   [002]
-    2022: REYNOLDS AMERICAN RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C3H 
-        Participants: 3992
-        Available Investments:
-           - REYNOLDS AMERICAN INC.
-                 : REYNOLDS AMERICAN DEF BEN MASTER TR
-    2021: REYNOLDS AMERICAN RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C3H 
-        Participants: 6210
-        Assets: 2695654132
-        $/Participant: 434082
-        Available Investments:
-           - REYNOLDS AMERICAN INC.
-                 : REYNOLDS AMERICAN DEF BEN MASTER TR
-    2020: REYNOLDS AMERICAN RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C3H 
-        Participants: 13658
-        Assets: 3684311159
-        $/Participant: 269754
-        Available Investments:
-           - REYNOLDS AMERICAN INC.
-                 : REYNOLDS AMERICAN DEF BEN MASTER TR
-    2019: REYNOLDS AMERICAN RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C3H 
-        Participants: 14063
-        Assets: 3363640521
-        $/Participant: 239183
-        Available Investments:
-           - REYNOLDS AMERICAN INC.
-                 : REYNOLDS AMERICAN DEF BEN MASTER TR
-    2018: REYNOLDS AMERICAN RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C3H 
-        Participants: 14439
-        Assets: 3017486730
-        $/Participant: 208981
-        Available Investments:
-           - REYNOLDS AMERICAN INC.
-                 : REYNOLDS AMERICAN DEF BEN MASTER TR
-    2017: REYNOLDS AMERICAN RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C3H 
-        Participants: 14809
-        Assets: 3393413319
-        $/Participant: 229145
-        Available Investments:
-           - REYNOLDS AMERICAN INC.
-                 : REYNOLDS AMERICAN DEF BEN MASTER TR
    [011]
     2022: REYNOLDS AMERICAN DEFINED BENEFIT MASTER TRUST
         Benefit Category: Other
@@ -672,68 +619,6 @@ NC : WINSTON-SALEM
                  : PRUDENTIAL PRISA II
            - WELLINGTON TRUST COMPANY, NA
                  : WELLINGTON MULTI SECTOR
-   [019]
-    2022: PUERTO RICO RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C3C3H 
-        Participants: 176
-        Assets: 18459343
-        $/Participant: 104882
-        Service Providers:
-           - WILLIS TOWERS WATSON :  (Actuarial)
-           - BANCO POPULAR DE PUERTO RICO :  (Trustee(directed))
-           - MAYER HOFFMAN MCCANN P. C. :  (Accounting(including auditing))
-           - ALIGHT :  (Contract Administrator)
-    2021: PUERTO RICO RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C3C3H 
-        Participants: 180
-        Assets: 26029715
-        $/Participant: 144609
-        Service Providers:
-           - WILLIS TOWERS WATSON :  (Actuarial | Consulting(pension))
-           - BANCO POPULAR DE PUERTO RICO :  (Trustee(bank, trust company, or similar))
-           - MAYER HOFFMAN MCCANN P. C. :  (Accounting(including auditing))
-    2020: PUERTO RICO RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C3C3H 
-        Participants: 185
-        Assets: 28932216
-        $/Participant: 156390
-        Service Providers:
-           - WILLIS TOWERS WATSON :  (Actuarial | Consulting(pension))
-           - BANCO POPULAR DE PUERTO RICO :  (Trustee(bank, trust company, or similar))
-           - KPMG LLP :  (Accounting(including auditing))
-    2019: PUERTO RICO RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C3C3H 
-        Participants: 187
-        Assets: 27518621
-        $/Participant: 147158
-        Service Providers:
-           - BANCO POPULAR DE PUERTO RICO :  (Trustee(bank, trust company, or similar))
-           - TOWERS WATSON :  (Actuarial | Consulting(pension))
-           - KPMG LLP :  (Accounting(including auditing))
-    2018: PUERTO RICO RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C3C3H 
-        Participants: 191
-        Assets: 25529685
-        $/Participant: 133663
-        Service Providers:
-           - BANCO POPULAR DE PUERTO RICO :  (Trustee(bank, trust company, or similar))
-           - TOWERS WATSON :  (Actuarial | Consulting(pension))
-           - KPMG LLP :  (Accounting(including auditing))
-    2017: PUERTO RICO RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C3C3H 
-        Participants: 191
-        Assets: 28574518
-        $/Participant: 149604
-        Service Providers:
-           - BANCO POPULAR DE PUERTO RICO :  (Trustee(bank, trust company, or similar))
-           - TOWERS WATSON :  (Actuarial | Consulting(pension))
-           - KPMG LLP :  (Accounting(including auditing))
    [517]
     2022: LORILLARD TOBACCO COMPANY SURVIVOR'S INCOME PLAN
         Benefit Category: Other
@@ -759,6 +644,59 @@ NC : WINSTON-SALEM
         Benefit Category: Other
         Codes:  4L
         Participants: 
+   [002]
+    2022: REYNOLDS AMERICAN RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C3H 
+        Participants: 3992
+        Available Investments:
+           - REYNOLDS AMERICAN INC.
+                 : REYNOLDS AMERICAN DEF BEN MASTER TR
+    2021: REYNOLDS AMERICAN RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C3H 
+        Participants: 6210
+        Assets: 2695654132
+        $/Participant: 434082
+        Available Investments:
+           - REYNOLDS AMERICAN INC.
+                 : REYNOLDS AMERICAN DEF BEN MASTER TR
+    2020: REYNOLDS AMERICAN RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C3H 
+        Participants: 13658
+        Assets: 3684311159
+        $/Participant: 269754
+        Available Investments:
+           - REYNOLDS AMERICAN INC.
+                 : REYNOLDS AMERICAN DEF BEN MASTER TR
+    2019: REYNOLDS AMERICAN RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C3H 
+        Participants: 14063
+        Assets: 3363640521
+        $/Participant: 239183
+        Available Investments:
+           - REYNOLDS AMERICAN INC.
+                 : REYNOLDS AMERICAN DEF BEN MASTER TR
+    2018: REYNOLDS AMERICAN RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C3H 
+        Participants: 14439
+        Assets: 3017486730
+        $/Participant: 208981
+        Available Investments:
+           - REYNOLDS AMERICAN INC.
+                 : REYNOLDS AMERICAN DEF BEN MASTER TR
+    2017: REYNOLDS AMERICAN RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C3H 
+        Participants: 14809
+        Assets: 3393413319
+        $/Participant: 229145
+        Available Investments:
+           - REYNOLDS AMERICAN INC.
+                 : REYNOLDS AMERICAN DEF BEN MASTER TR
    [008]
     2022: RETIREMENT INCOME PLAN FOR CERTAIN RAI AFFILIATES
         Benefit Category: Pension
@@ -814,6 +752,68 @@ NC : WINSTON-SALEM
         Available Investments:
            - REYNOLDS AMERICAN INC.
                  : REYNOLDS AMERICAN DEF BEN MASTER TR
+   [019]
+    2022: PUERTO RICO RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C3C3H 
+        Participants: 176
+        Assets: 18459343
+        $/Participant: 104882
+        Service Providers:
+           - WILLIS TOWERS WATSON :  (Actuarial)
+           - BANCO POPULAR DE PUERTO RICO :  (Trustee(directed))
+           - MAYER HOFFMAN MCCANN P. C. :  (Accounting(including auditing))
+           - ALIGHT :  (Contract Administrator)
+    2021: PUERTO RICO RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C3C3H 
+        Participants: 180
+        Assets: 26029715
+        $/Participant: 144609
+        Service Providers:
+           - WILLIS TOWERS WATSON :  (Actuarial | Consulting(pension))
+           - BANCO POPULAR DE PUERTO RICO :  (Trustee(bank, trust company, or similar))
+           - MAYER HOFFMAN MCCANN P. C. :  (Accounting(including auditing))
+    2020: PUERTO RICO RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C3C3H 
+        Participants: 185
+        Assets: 28932216
+        $/Participant: 156390
+        Service Providers:
+           - WILLIS TOWERS WATSON :  (Actuarial | Consulting(pension))
+           - BANCO POPULAR DE PUERTO RICO :  (Trustee(bank, trust company, or similar))
+           - KPMG LLP :  (Accounting(including auditing))
+    2019: PUERTO RICO RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C3C3H 
+        Participants: 187
+        Assets: 27518621
+        $/Participant: 147158
+        Service Providers:
+           - BANCO POPULAR DE PUERTO RICO :  (Trustee(bank, trust company, or similar))
+           - TOWERS WATSON :  (Actuarial | Consulting(pension))
+           - KPMG LLP :  (Accounting(including auditing))
+    2018: PUERTO RICO RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C3C3H 
+        Participants: 191
+        Assets: 25529685
+        $/Participant: 133663
+        Service Providers:
+           - BANCO POPULAR DE PUERTO RICO :  (Trustee(bank, trust company, or similar))
+           - TOWERS WATSON :  (Actuarial | Consulting(pension))
+           - KPMG LLP :  (Accounting(including auditing))
+    2017: PUERTO RICO RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C3C3H 
+        Participants: 191
+        Assets: 28574518
+        $/Participant: 149604
+        Service Providers:
+           - BANCO POPULAR DE PUERTO RICO :  (Trustee(bank, trust company, or similar))
+           - TOWERS WATSON :  (Actuarial | Consulting(pension))
+           - KPMG LLP :  (Accounting(including auditing))
    [514]
     2022: REYNOLDS AMERICAN SEPARATION PAY PLAN
         Benefit Category: Severance

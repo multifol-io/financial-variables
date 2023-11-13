@@ -152,33 +152,6 @@ MA : BILLERICA
         Benefit Category: Healthcare
         Codes:  4A
         Participants: 535
-   [003]
-    2020: CABOT CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C1I 
-        Participants: 0
-        RecordKeeper: INDEPENDENT INSURANCE ANALYSTS, LLC
-    2019: CABOT CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C1I 
-        Participants: 2387
-        Assets: 148574138
-        $/Participant: 62243
-        RecordKeeper: CARON & BLETZER
-    2018: CABOT CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C1I 
-        Participants: 2496
-        Assets: 140674664
-        $/Participant: 56360
-        RecordKeeper: CARON & BLETZER
-    2017: CABOT CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C1I 
-        Participants: 2595
-        Assets: 158303212
-        $/Participant: 61003
-        RecordKeeper: STATE STREET BANK & TRUST COMPANY
    [548]
     2022: CABOT CORPORATION RETIREE BENEFIT PLAN
         Benefit Category: Other
@@ -204,6 +177,33 @@ MA : BILLERICA
         Benefit Category: Other
         Codes:  4B
         Participants: 918
+   [003]
+    2020: CABOT CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C1I 
+        Participants: 0
+        RecordKeeper: INDEPENDENT INSURANCE ANALYSTS, LLC
+    2019: CABOT CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C1I 
+        Participants: 2387
+        Assets: 148574138
+        $/Participant: 62243
+        RecordKeeper: CARON & BLETZER
+    2018: CABOT CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C1I 
+        Participants: 2496
+        Assets: 140674664
+        $/Participant: 56360
+        RecordKeeper: CARON & BLETZER
+    2017: CABOT CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C1I 
+        Participants: 2595
+        Assets: 158303212
+        $/Participant: 61003
+        RecordKeeper: STATE STREET BANK & TRUST COMPANY
 MA : BOSTON
    [551]
     2018: CABOT CORPORATION 2017/2018 PURIFICATION SOLUTIONS BUSINESS RESTRUCTURING SEVERANCE PAY PLAN

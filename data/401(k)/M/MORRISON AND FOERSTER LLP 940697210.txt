@@ -193,20 +193,6 @@ CA : SAN FRANCISCO
         Benefit Category: Healthcare
         Codes:  4A
         Participants: 
-   [005]
-    2017: MORRISON & FOERSTER LLP SUPPLEMENTAL RETIREMENT PLAN PART I
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 0
-        Service Providers:
-           - MATRIX TRUST COMPANY : N/A (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-   [007]
-    2017: MORRISON & FOERSTER LLP SUPPLEMENTAL RETIREMENT PLAN PART II
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 0
-        Service Providers:
-           - MATRIX TRUST COMPANY : N/A (Trustee(bank, trust company, or similar) | Direct payment from the plan)
    [008]
     2019: MORRISON & FOERSTER LLP RETIREMENT PLAN MASTER TRUST
         Benefit Category: Other
@@ -287,6 +273,20 @@ CA : SAN FRANCISCO
         Benefit Category: Other
         Codes:  4Q
         Participants: 
+   [005]
+    2017: MORRISON & FOERSTER LLP SUPPLEMENTAL RETIREMENT PLAN PART I
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 0
+        Service Providers:
+           - MATRIX TRUST COMPANY : N/A (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+   [007]
+    2017: MORRISON & FOERSTER LLP SUPPLEMENTAL RETIREMENT PLAN PART II
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 0
+        Service Providers:
+           - MATRIX TRUST COMPANY : N/A (Trustee(bank, trust company, or similar) | Direct payment from the plan)
    [009]
     2022: MORRISON & FOERSTER LLP CASH BALANCE RETIREMENT PLAN
         Benefit Category: Pension

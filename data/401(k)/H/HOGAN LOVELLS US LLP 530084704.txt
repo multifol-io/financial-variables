@@ -114,61 +114,6 @@ DC : WASHINGTON
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MANAGED INCOME PORTFOLIO
-   [009]
-    2022: HOGAN LOVELLS US LLP CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 401
-        Assets: 89008916
-        $/Participant: 221967
-        Service Providers:
-           - GALLAGHER BENEFIT SERVICES, INC. :  (Actuarial)
-           - GOLDMAN SACHS ASSET MANAGEMENT,L.P. :  (Trustee(bank, trust company, or similar) | Investment management | Investment management fees paid indirectly by plan | Non - monetary compensation)
-    2021: HOGAN LOVELLS US LLP CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 407
-        Assets: 85564207
-        $/Participant: 210231
-        Service Providers:
-           - GALLAGHER BENEFIT SERVICES, INC. :  (Actuarial)
-           - GOLDMAN SACHS ASSET MANAGEMENT,L.P. :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
-    2020: HOGAN LOVELLS US LLP CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 425
-        Assets: 90139624
-        $/Participant: 212093
-        Service Providers:
-           - GOLDMAN SACHS ASSET MANAGEMENT,L.P. :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
-           - GALLAGHER BENEFIT SERVICES, INC. :  (Actuarial)
-    2019: HOGAN LOVELLS US LLP CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 436
-        Assets: 82536322
-        $/Participant: 189303
-        Service Providers:
-           - GOLDMAN SACHS ASSET MANAGEMENT,L.P. :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
-           - ALTMAN & CRONIN BENEFIT CONSULTANTS :  (Actuarial)
-    2018: HOGAN LOVELLS US LLP CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 439
-        Assets: 78331606
-        $/Participant: 178431
-        Service Providers:
-           - GOLDMAN SACHS ASSET MANAGEMENT,L.P. :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
-           - ALTMAN & CRONIN BENEFIT CONSULTANTS :  (Actuarial)
-    2017: HOGAN LOVELLS US LLP CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 477
-        Assets: 78754676
-        $/Participant: 165104
-        Service Providers:
-           - GOLDMAN SACHS ASSET MANAGEMENT,L.P. :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
-           - ALTMAN & CRONIN :  (Actuarial)
    [502]
     2022: HOGAN LOVELLS US LLP GROUP LIFE AND AD&D INSURANCE PLAN
         Benefit Category: Other
@@ -269,3 +214,58 @@ DC : WASHINGTON
         Benefit Category: Other
         Codes:  4Q
         Participants: 
+   [009]
+    2022: HOGAN LOVELLS US LLP CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 401
+        Assets: 89008916
+        $/Participant: 221967
+        Service Providers:
+           - GALLAGHER BENEFIT SERVICES, INC. :  (Actuarial)
+           - GOLDMAN SACHS ASSET MANAGEMENT,L.P. :  (Trustee(bank, trust company, or similar) | Investment management | Investment management fees paid indirectly by plan | Non - monetary compensation)
+    2021: HOGAN LOVELLS US LLP CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 407
+        Assets: 85564207
+        $/Participant: 210231
+        Service Providers:
+           - GALLAGHER BENEFIT SERVICES, INC. :  (Actuarial)
+           - GOLDMAN SACHS ASSET MANAGEMENT,L.P. :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
+    2020: HOGAN LOVELLS US LLP CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 425
+        Assets: 90139624
+        $/Participant: 212093
+        Service Providers:
+           - GOLDMAN SACHS ASSET MANAGEMENT,L.P. :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
+           - GALLAGHER BENEFIT SERVICES, INC. :  (Actuarial)
+    2019: HOGAN LOVELLS US LLP CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 436
+        Assets: 82536322
+        $/Participant: 189303
+        Service Providers:
+           - GOLDMAN SACHS ASSET MANAGEMENT,L.P. :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
+           - ALTMAN & CRONIN BENEFIT CONSULTANTS :  (Actuarial)
+    2018: HOGAN LOVELLS US LLP CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 439
+        Assets: 78331606
+        $/Participant: 178431
+        Service Providers:
+           - GOLDMAN SACHS ASSET MANAGEMENT,L.P. :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
+           - ALTMAN & CRONIN BENEFIT CONSULTANTS :  (Actuarial)
+    2017: HOGAN LOVELLS US LLP CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 477
+        Assets: 78754676
+        $/Participant: 165104
+        Service Providers:
+           - GOLDMAN SACHS ASSET MANAGEMENT,L.P. :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
+           - ALTMAN & CRONIN :  (Actuarial)

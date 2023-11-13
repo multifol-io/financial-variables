@@ -148,49 +148,6 @@ DC : WASHINGTON
         Benefit Category: Healthcare
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
-   [047]
-    2022: ARNOLD & PORTER CASH BALANCE PLAN AND TRUST
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 358
-        Assets: 147733997
-        $/Participant: 412664
-        Available Investments:
-           - JOHN HANCOCK TRUST COMPANY
-                 : JOHN HANCOCK STRATEGIC FIXED INCOME
-    2021: ARNOLD & PORTER CASH BALANCE PLAN AND TRUST
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 349
-        Assets: 130612516
-        $/Participant: 374247
-        Available Investments:
-           - JOHN HANCOCK TRUST COMPANY
-                 : JOHN HANCOCK STRATEGIC FIXED INCOME
-    2020: ARNOLD & PORTER CASH BALANCE PLAN AND TRUST
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 357
-        Assets: 102008569
-        $/Participant: 285738
-        Available Investments:
-           - JOHN HANCOCK TRUST COMPANY
-                 : JOHN HANCOCK STRATEGIC FIXED INCOME
-    2019: ARNOLD & PORTER CASH BALANCE PLAN AND TRUST
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 333
-        Assets: 64390689
-        $/Participant: 193365
-        Available Investments:
-           - MANULIFE ASSET MANAGEMENT TRUST COMPANY
-                 : MANULIFE AMTC STRATEGIC FIXED INC
-    2018: ARNOLD & PORTER CASH BALANCE PLAN AND TRUST
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 343
-        Assets: 33724956
-        $/Participant: 98323
    [046]
     2019: ARNOLD & PORTER KAYE SCHOLER LLP PENSION PLAN AND TRUST
         Benefit Category: Pension
@@ -218,3 +175,46 @@ DC : WASHINGTON
         Available Investments:
            - MANULIFE ASSET MANAGEMENT TRUST COMPANY
                  : MANULIFE STRATEGIC FIXED INCOME FD
+   [047]
+    2022: ARNOLD & PORTER CASH BALANCE PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 358
+        Assets: 147733997
+        $/Participant: 412664
+        Available Investments:
+           - JOHN HANCOCK TRUST COMPANY
+                 : JOHN HANCOCK STRATEGIC FIXED INCOME
+    2021: ARNOLD & PORTER CASH BALANCE PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 349
+        Assets: 130612516
+        $/Participant: 374247
+        Available Investments:
+           - JOHN HANCOCK TRUST COMPANY
+                 : JOHN HANCOCK STRATEGIC FIXED INCOME
+    2020: ARNOLD & PORTER CASH BALANCE PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 357
+        Assets: 102008569
+        $/Participant: 285738
+        Available Investments:
+           - JOHN HANCOCK TRUST COMPANY
+                 : JOHN HANCOCK STRATEGIC FIXED INCOME
+    2019: ARNOLD & PORTER CASH BALANCE PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 333
+        Assets: 64390689
+        $/Participant: 193365
+        Available Investments:
+           - MANULIFE ASSET MANAGEMENT TRUST COMPANY
+                 : MANULIFE AMTC STRATEGIC FIXED INC
+    2018: ARNOLD & PORTER CASH BALANCE PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 343
+        Assets: 33724956
+        $/Participant: 98323

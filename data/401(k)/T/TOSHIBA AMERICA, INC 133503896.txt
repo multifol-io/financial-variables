@@ -180,17 +180,6 @@ CA : IRVINE
         Benefit Category: Healthcare
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
-   [001]
-    2017: TOSHIBA AMERICA, INC. RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 1C1I3H 
-        Participants: 1904
-        Assets: 103475655
-        $/Participant: 54346
-        RecordKeeper: MILLER KAPLAN ARASE LLP
-        Available Investments:
-           - TOSHIBA AMERICA, INC.
-                 : TOSHIBA AMERICA MASTER TRUST
    [505]
     2017: TOSHIBA AMERICA, INC. LONG TERM CARE PLAN
         Benefit Category: Other
@@ -221,6 +210,16 @@ CA : IRVINE
            - VOLT : OTHER SERVICES (Other services | Direct payment from the plan)
            - BERWYN GROUP : OTHER SERVICES (Other services | Direct payment from the plan)
            - TAI SSC : PLAN ADMINISTRATOR (Employee(plan) | Direct payment from the plan)
+        Available Investments:
+           - TOSHIBA AMERICA, INC.
+                 : TOSHIBA AMERICA MASTER TRUST
+    2017: TOSHIBA AMERICA, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1C1I3H 
+        Participants: 1904
+        Assets: 103475655
+        $/Participant: 54346
+        RecordKeeper: MILLER KAPLAN ARASE LLP
         Available Investments:
            - TOSHIBA AMERICA, INC.
                  : TOSHIBA AMERICA MASTER TRUST

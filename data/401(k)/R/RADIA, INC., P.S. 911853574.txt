@@ -68,25 +68,6 @@ WA : LYNNWOOD
         Benefit Category: Healthcare
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
-   [004]
-    2022: RADIA, INC., P.S. CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 153
-        Assets: 6830800
-        $/Participant: 44645
-        Service Providers:
-           - ALLIANCEBERNSTEIN LP :  (Trustee(bank, trust company, or similar) | Investment management)
-           - MOSS ADANS :  (Accounting(including auditing))
-        Available Investments:
-           - ALLIANCEBERNSTEIN LP
-                 : BERNSTEIN GLOBAL LW VOL P
-    2021: RADIA, INC., P.S. CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 147
-        Assets: 3810500
-        $/Participant: 25921
    [503]
     2022: RADIA INC., P.S. DISABILITY PLAN
         Benefit Category: Other
@@ -112,3 +93,22 @@ WA : LYNNWOOD
         Benefit Category: Other
         Codes:  4F4H
         Participants: 
+   [004]
+    2022: RADIA, INC., P.S. CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 153
+        Assets: 6830800
+        $/Participant: 44645
+        Service Providers:
+           - ALLIANCEBERNSTEIN LP :  (Trustee(bank, trust company, or similar) | Investment management)
+           - MOSS ADANS :  (Accounting(including auditing))
+        Available Investments:
+           - ALLIANCEBERNSTEIN LP
+                 : BERNSTEIN GLOBAL LW VOL P
+    2021: RADIA, INC., P.S. CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 147
+        Assets: 3810500
+        $/Participant: 25921

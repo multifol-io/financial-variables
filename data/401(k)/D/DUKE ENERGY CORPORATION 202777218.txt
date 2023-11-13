@@ -358,75 +358,6 @@ NC : CHARLOTTE
            - UNITED BEHAVIORAL HEALTH DBA OPTUM :  (Claims processing | Plan Administrator | Other services | Other fees)
            - LIBERTY MUTUAL ASSURANCE COMPANY OF :  (Other services | Other fees)
            - LIBERTY MUTUAL ASSURANCE COMPANY OF :  (Other services | Other fees)
-   [001]
-    2022: DUKE ENERGY RETIREMENT CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C1E3F3H 
-        Participants: 18156
-        Assets: 3182000000
-        $/Participant: 175258
-        Service Providers:
-           - NORTHERN TRUST : TRUSTEE (Trustee(bank, trust company, or similar))
-        Available Investments:
-           - DUKE ENERGY CORPORATION
-                 : DUKE ENERGY CORP MASTER TRUST
-    2021: DUKE ENERGY RETIREMENT CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C1E3F3H 
-        Participants: 19202
-        Assets: 4326100000
-        $/Participant: 225294
-        RecordKeeper: CHERRY BEKAERT & HOLLAND LLC
-        Available Investments:
-           - DUKE ENERGY CORPORATION
-                 : DUKE ENERGY CORP MASTER TRUST
-    2020: DUKE ENERGY RETIREMENT CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C1E3F3H 
-        Participants: 20504
-        Assets: 4315900000
-        $/Participant: 210490
-        Service Providers:
-           - NORTHERN TRUST : TRUSTEE (Trustee(bank, trust company, or similar))
-        Available Investments:
-           - DUKE ENERGY CORPORATION
-                 : DUKE ENERGY CORP MASTER TRUST
-    2019: DUKE ENERGY RETIREMENT CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C1E3F3H 
-        Participants: 19330
-        Assets: 3851000000
-        $/Participant: 199224
-        RecordKeeper: MCCONNELL AND JONES
-        Available Investments:
-           - DUKE ENERGY CORPORATION
-                 : DUKE ENERGY CORP MASTER TRUST
-    2018: DUKE ENERGY RETIREMENT CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C1E3F3H 
-        Participants: 20574
-        Assets: 3650200000
-        $/Participant: 177418
-        Service Providers:
-           - MERCER :  (Actuarial)
-           - NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar))
-        Available Investments:
-           - DUKE ENERGY CORPORATION
-                 : DUKE ENERGY CORP MASTER TRUST
-    2017: DUKE ENERGY RETIREMENT CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C1E3F3H 
-        Participants: 43876
-        Assets: 7656100000
-        $/Participant: 174494
-        Service Providers:
-           - AON HEWITT :  (Investment management)
-           - NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar))
-           - TOWERS WATSON :  (Actuarial)
-           - MCCONNELL & JONES :  (Accounting(including auditing))
-        Available Investments:
-           - DUKE ENERGY CORPORATION
-                 : DUKE ENERGY CORP MASTER TRUST
    [005]
     2022: DUKE ENERGY CORPORATION MASTER TRUST
         Benefit Category: Other
@@ -654,65 +585,80 @@ NC : CHARLOTTE
            - STATE STREET BANK AND TRUST CO
                  : SSGA MSCI CANADA INDEX SECURITIES L
                  : SSGA MSCI EAFE INDEX SECURITIES LEN
-   [012]
-    2022: DUKE ENERGY LEGACY PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C1E1I3H 
-        Participants: 25324
-        Assets: 4041400000
-        $/Participant: 159587
-        Service Providers:
-           - NORTHERN TRUST : TRUSTEE (Trustee(bank, trust company, or similar))
-        Available Investments:
-           - DUKE ENERGY CORPORATION
-                 : DUKE ENERGY CORP MASTER TRUST
-    2021: DUKE ENERGY LEGACY PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C1E1I3H 
-        Participants: 26146
-        Assets: 5133400000
-        $/Participant: 196335
-        RecordKeeper: PACIFIC RESOURCES BENEFITS ADVISORS
-        Available Investments:
-           - DUKE ENERGY CORPORATION
-                 : DUKE ENERGY CORP MASTER TRUST
-    2020: DUKE ENERGY LEGACY PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C1E1I3H 
-        Participants: 26677
-        Assets: 5211700000
-        $/Participant: 195363
-        Service Providers:
-           - NORTHERN TRUST : TRUSTEE (Trustee(bank, trust company, or similar))
-        Available Investments:
-           - DUKE ENERGY CORPORATION
-                 : DUKE ENERGY CORP MASTER TRUST
-    2019: DUKE ENERGY LEGACY PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C1E1I3H 
-        Participants: 25759
-        Assets: 4495900000
-        $/Participant: 174537
-        RecordKeeper: MCCONNELL AND JONES
-        Available Investments:
-           - DUKE ENERGY CORPORATION
-                 : DUKE ENERGY CORP MASTER TRUST
-    2018: DUKE ENERGY LEGACY PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C1E1I3H 
-        Participants: 26635
-        Assets: 4143000000
-        $/Participant: 155547
-        Service Providers:
-           - NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar))
-        Available Investments:
-           - DUKE ENERGY CORPORATION
-                 : DUKE ENERGY CORP MASTER TRUST
    [587]
     2020: DUKE ENERGY SEVERANCE PLAN
         Benefit Category: Other
         Codes:  4R
         Participants: 
+   [001]
+    2022: DUKE ENERGY RETIREMENT CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C1E3F3H 
+        Participants: 18156
+        Assets: 3182000000
+        $/Participant: 175258
+        Service Providers:
+           - NORTHERN TRUST : TRUSTEE (Trustee(bank, trust company, or similar))
+        Available Investments:
+           - DUKE ENERGY CORPORATION
+                 : DUKE ENERGY CORP MASTER TRUST
+    2021: DUKE ENERGY RETIREMENT CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C1E3F3H 
+        Participants: 19202
+        Assets: 4326100000
+        $/Participant: 225294
+        RecordKeeper: CHERRY BEKAERT & HOLLAND LLC
+        Available Investments:
+           - DUKE ENERGY CORPORATION
+                 : DUKE ENERGY CORP MASTER TRUST
+    2020: DUKE ENERGY RETIREMENT CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C1E3F3H 
+        Participants: 20504
+        Assets: 4315900000
+        $/Participant: 210490
+        Service Providers:
+           - NORTHERN TRUST : TRUSTEE (Trustee(bank, trust company, or similar))
+        Available Investments:
+           - DUKE ENERGY CORPORATION
+                 : DUKE ENERGY CORP MASTER TRUST
+    2019: DUKE ENERGY RETIREMENT CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C1E3F3H 
+        Participants: 19330
+        Assets: 3851000000
+        $/Participant: 199224
+        RecordKeeper: MCCONNELL AND JONES
+        Available Investments:
+           - DUKE ENERGY CORPORATION
+                 : DUKE ENERGY CORP MASTER TRUST
+    2018: DUKE ENERGY RETIREMENT CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C1E3F3H 
+        Participants: 20574
+        Assets: 3650200000
+        $/Participant: 177418
+        Service Providers:
+           - MERCER :  (Actuarial)
+           - NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar))
+        Available Investments:
+           - DUKE ENERGY CORPORATION
+                 : DUKE ENERGY CORP MASTER TRUST
+    2017: DUKE ENERGY RETIREMENT CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C1E3F3H 
+        Participants: 43876
+        Assets: 7656100000
+        $/Participant: 174494
+        Service Providers:
+           - AON HEWITT :  (Investment management)
+           - NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar))
+           - TOWERS WATSON :  (Actuarial)
+           - MCCONNELL & JONES :  (Accounting(including auditing))
+        Available Investments:
+           - DUKE ENERGY CORPORATION
+                 : DUKE ENERGY CORP MASTER TRUST
    [009]
     2017: CINERGY CORP. UNION EMPLOYEES' RETIREMENT INCOME PLAN
         Benefit Category: Pension
@@ -725,6 +671,60 @@ NC : CHARLOTTE
            - NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar))
            - TOWERS WATSON :  (Actuarial)
            - MCCONNELL & JONES :  (Accounting(including auditing))
+        Available Investments:
+           - DUKE ENERGY CORPORATION
+                 : DUKE ENERGY CORP MASTER TRUST
+   [012]
+    2022: DUKE ENERGY LEGACY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C1E1I3H 
+        Participants: 25324
+        Assets: 4041400000
+        $/Participant: 159587
+        Service Providers:
+           - NORTHERN TRUST : TRUSTEE (Trustee(bank, trust company, or similar))
+        Available Investments:
+           - DUKE ENERGY CORPORATION
+                 : DUKE ENERGY CORP MASTER TRUST
+    2021: DUKE ENERGY LEGACY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C1E1I3H 
+        Participants: 26146
+        Assets: 5133400000
+        $/Participant: 196335
+        RecordKeeper: PACIFIC RESOURCES BENEFITS ADVISORS
+        Available Investments:
+           - DUKE ENERGY CORPORATION
+                 : DUKE ENERGY CORP MASTER TRUST
+    2020: DUKE ENERGY LEGACY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C1E1I3H 
+        Participants: 26677
+        Assets: 5211700000
+        $/Participant: 195363
+        Service Providers:
+           - NORTHERN TRUST : TRUSTEE (Trustee(bank, trust company, or similar))
+        Available Investments:
+           - DUKE ENERGY CORPORATION
+                 : DUKE ENERGY CORP MASTER TRUST
+    2019: DUKE ENERGY LEGACY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C1E1I3H 
+        Participants: 25759
+        Assets: 4495900000
+        $/Participant: 174537
+        RecordKeeper: MCCONNELL AND JONES
+        Available Investments:
+           - DUKE ENERGY CORPORATION
+                 : DUKE ENERGY CORP MASTER TRUST
+    2018: DUKE ENERGY LEGACY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C1E1I3H 
+        Participants: 26635
+        Assets: 4143000000
+        $/Participant: 155547
+        Service Providers:
+           - NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar))
         Available Investments:
            - DUKE ENERGY CORPORATION
                  : DUKE ENERGY CORP MASTER TRUST

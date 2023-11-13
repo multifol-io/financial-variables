@@ -167,31 +167,6 @@ AL : BIRMINGHAM
         Benefit Category: Healthcare
         Codes:  4A4B4E4F4H
         Participants: 
-   [004]
-    2022: MAYNARD, COOPER & GALE, P.C. PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 135
-        Assets: 38261580
-        $/Participant: 283419
-        Service Providers:
-           - REGIONS : 76058 (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-    2021: MAYNARD, COOPER & GALE, P.C. PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 127
-        Assets: 38288745
-        $/Participant: 301486
-        Service Providers:
-           - REGIONS : TRUSTEE (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-    2020: MAYNARD, COOPER & GALE, P.C. PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 120
-        Assets: 31643721
-        $/Participant: 263697
-        Service Providers:
-           - REGIONS : TRUSTEE (Trustee(bank, trust company, or similar) | Direct payment from the plan)
    [099]
     2022: MAYNARD NEXSEN PC 401(K) MASTER TRUST
         Benefit Category: Other
@@ -253,3 +228,28 @@ AL : BIRMINGHAM
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE RETURN C
+   [004]
+    2022: MAYNARD, COOPER & GALE, P.C. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 135
+        Assets: 38261580
+        $/Participant: 283419
+        Service Providers:
+           - REGIONS : 76058 (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+    2021: MAYNARD, COOPER & GALE, P.C. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 127
+        Assets: 38288745
+        $/Participant: 301486
+        Service Providers:
+           - REGIONS : TRUSTEE (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+    2020: MAYNARD, COOPER & GALE, P.C. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 120
+        Assets: 31643721
+        $/Participant: 263697
+        Service Providers:
+           - REGIONS : TRUSTEE (Trustee(bank, trust company, or similar) | Direct payment from the plan)

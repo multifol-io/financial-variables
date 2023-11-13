@@ -173,74 +173,6 @@ NY : NEW YORK
                  : VANGUARD INSTL TOTL ST MARKET IND T
                  : VANGUARD INSTL TTL INT ST MKT IND T
                  : VANGUARD RETIREMENT SAVINGS TRST II
-   [001]
-    2021: DTTS PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C3H 
-        Participants: 2343
-        Assets: 232559184
-        $/Participant: 99257
-        Service Providers:
-           - US BANK :  (Trustee(directed))
-           - CONDUENT HR CONSULTING LLC :  (Consulting(general) | Direct payment from the plan)
-           - LGIMA :  (Insurance agents and brokers | Investment management fees paid directly by plan)
-           - NINETY ONE NORTH AMERICA, INC :  (Investment management | Direct payment from the plan)
-           - GOLDMAN SACHS GROUP UK LTD :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
-           - GOLDMAN SACHS ASSET MANAGEMENT LP :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
-           - SSGA 20+ US STRIPS NON-LEND FD :  (Investment management | Investment management fees paid directly by plan)
-           - SSGA MSCI WORLD INDX NL QP :  (Investment management | Investment management fees paid directly by plan)
-           - STATE STREET FTSE DEVELOPED COMPREH :  (Investment management fees paid directly by plan)
-           - WELLINGTON TRUST COMPANY NA :  (Investment management fees paid indirectly by plan)
-        Available Investments:
-           - STATE STREET GLOBAL ADVISORS TRUST CO
-                 : STATE STREET 20 YR US TREAS. ST NL
-                 : STATE STREET FACTOR BASED NL CTF.
-                 : STATE STREET MSCI WRD IN NL CM TR.
-           - T. ROWE PRICE TRUST COMPANY
-                 : T. ROWE PRICE INTERNATIONAL COMM TR
-           - WILMINGTON TRUST NA
-                 : WILMINGTON TR CIT CRE SUI FLT RT TR
-                 : WTC-CIF II EMG MKT DEBT PORTFOLIO
-    2020: DTTS PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C3H 
-        Participants: 2214
-        Assets: 245647729
-        $/Participant: 110952
-        Service Providers:
-           - US BANK :  (Trustee(directed))
-           - GOLDMAN SACHS ASSET MANAGEMENT LP :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
-           - CONDUENT HR CONSULTING LLC :  (Consulting(general) | Direct payment from the plan)
-           - GOLDMAN SACHS GROUP UK LTD :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
-           - NINETY ONE NORTH AMERICA, INC :  (Investment management | Direct payment from the plan)
-           - SSGA 20+ US STRIPS NON-LEND FD :  (Investment management | Investment management fees paid directly by plan)
-           - INVESTEC ASSET MANAGEMENT NA :  (Investment management)
-           - SSGA MSCI WORLD INDX NL QP :  (Investment management | Investment management fees paid directly by plan)
-    2019: DTTS PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C3H 
-        Participants: 2046
-        Assets: 211791458
-        $/Participant: 103514
-        Service Providers:
-           - US BANK :  (Trustee(directed))
-           - GOLDMAN SACHS ASSET MANAGEMENT LP :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
-           - GOLDMAN SACHS GROUP UK LTD :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
-           - INVESTEC ASSET MANAGEMENT NA :  (Investment management)
-           - SSGA 20+ US STRIPS NON-LEND FD :  (Investment management | Investment management fees paid directly by plan)
-           - STATE STREET FTSE DEV COMP INDEX :  (Investment management | Investment management fees paid directly by plan)
-    2017: DTTS PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C3H 
-        Participants: 1498
-        Assets: 144394941
-        $/Participant: 96391
-        Service Providers:
-           - GOLDMAN SACHS ASSET MANAGEMENT LP :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
-           - US BANK :  (Trustee(directed))
-           - GRAHAM GLOBAL INV II :  (Investment management)
-           - INVESTEC ASSET MANAGEMENT NA :  (Investment management)
-           - GOLDMAN SACHS GROUP UK LTD :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
    [003]
     2021: DTTS PROFIT SHARING PLAN
         Benefit Category: Other
@@ -389,3 +321,71 @@ NY : NEW YORK
                  : VANGUARD INSTL TOTL ST MARKET IND T
                  : VANGUARD INSTL TTL INT ST MKT IND T
                  : VANGUARD RETIREMENT SAVINGS TRST II
+   [001]
+    2021: DTTS PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3H 
+        Participants: 2343
+        Assets: 232559184
+        $/Participant: 99257
+        Service Providers:
+           - US BANK :  (Trustee(directed))
+           - CONDUENT HR CONSULTING LLC :  (Consulting(general) | Direct payment from the plan)
+           - LGIMA :  (Insurance agents and brokers | Investment management fees paid directly by plan)
+           - NINETY ONE NORTH AMERICA, INC :  (Investment management | Direct payment from the plan)
+           - GOLDMAN SACHS GROUP UK LTD :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
+           - GOLDMAN SACHS ASSET MANAGEMENT LP :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
+           - SSGA 20+ US STRIPS NON-LEND FD :  (Investment management | Investment management fees paid directly by plan)
+           - SSGA MSCI WORLD INDX NL QP :  (Investment management | Investment management fees paid directly by plan)
+           - STATE STREET FTSE DEVELOPED COMPREH :  (Investment management fees paid directly by plan)
+           - WELLINGTON TRUST COMPANY NA :  (Investment management fees paid indirectly by plan)
+        Available Investments:
+           - STATE STREET GLOBAL ADVISORS TRUST CO
+                 : STATE STREET 20 YR US TREAS. ST NL
+                 : STATE STREET FACTOR BASED NL CTF.
+                 : STATE STREET MSCI WRD IN NL CM TR.
+           - T. ROWE PRICE TRUST COMPANY
+                 : T. ROWE PRICE INTERNATIONAL COMM TR
+           - WILMINGTON TRUST NA
+                 : WILMINGTON TR CIT CRE SUI FLT RT TR
+                 : WTC-CIF II EMG MKT DEBT PORTFOLIO
+    2020: DTTS PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3H 
+        Participants: 2214
+        Assets: 245647729
+        $/Participant: 110952
+        Service Providers:
+           - US BANK :  (Trustee(directed))
+           - GOLDMAN SACHS ASSET MANAGEMENT LP :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
+           - CONDUENT HR CONSULTING LLC :  (Consulting(general) | Direct payment from the plan)
+           - GOLDMAN SACHS GROUP UK LTD :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
+           - NINETY ONE NORTH AMERICA, INC :  (Investment management | Direct payment from the plan)
+           - SSGA 20+ US STRIPS NON-LEND FD :  (Investment management | Investment management fees paid directly by plan)
+           - INVESTEC ASSET MANAGEMENT NA :  (Investment management)
+           - SSGA MSCI WORLD INDX NL QP :  (Investment management | Investment management fees paid directly by plan)
+    2019: DTTS PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3H 
+        Participants: 2046
+        Assets: 211791458
+        $/Participant: 103514
+        Service Providers:
+           - US BANK :  (Trustee(directed))
+           - GOLDMAN SACHS ASSET MANAGEMENT LP :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
+           - GOLDMAN SACHS GROUP UK LTD :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
+           - INVESTEC ASSET MANAGEMENT NA :  (Investment management)
+           - SSGA 20+ US STRIPS NON-LEND FD :  (Investment management | Investment management fees paid directly by plan)
+           - STATE STREET FTSE DEV COMP INDEX :  (Investment management | Investment management fees paid directly by plan)
+    2017: DTTS PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3H 
+        Participants: 1498
+        Assets: 144394941
+        $/Participant: 96391
+        Service Providers:
+           - GOLDMAN SACHS ASSET MANAGEMENT LP :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)
+           - US BANK :  (Trustee(directed))
+           - GRAHAM GLOBAL INV II :  (Investment management)
+           - INVESTEC ASSET MANAGEMENT NA :  (Investment management)
+           - GOLDMAN SACHS GROUP UK LTD :  (Investment management | Investment management fees paid directly by plan | Non - monetary compensation)

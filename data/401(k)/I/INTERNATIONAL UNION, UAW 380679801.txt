@@ -334,61 +334,6 @@ MI : DETROIT
                  : RUSSELL 3000 (R) INDX NL FUND
            - WESTERN ASSETS MANAGEMENT CO
                  : WESTERN ASSETS US CORE PLUS LLC
-   [008]
-    2022: INTERNATIONAL UAW STAFF CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 400
-        Assets: 14873426
-        $/Participant: 37183
-        Available Investments:
-           - INTERNATIONAL UNION, UAW
-                 : UAW MASTER PENSION TRUST
-    2021: INTERNATIONAL UAW STAFF CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 396
-        Assets: 17203182
-        $/Participant: 43442
-        Available Investments:
-           - INTERNATIONAL UNION, UAW
-                 : UAW MASTER PENSION TRUST
-    2020: INTERNATIONAL UAW STAFF CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 385
-        Assets: 15550788
-        $/Participant: 40391
-        Available Investments:
-           - INTERNATIONAL UNION, UAW
-                 : UAW MASTER PENSION TRUST
-    2019: INTERNATIONAL UAW STAFF CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 381
-        Assets: 14156122
-        $/Participant: 37155
-        Available Investments:
-           - INTERNATIONAL UNION, UAW
-                 : UAW MASTER PENSION TRUST
-    2018: INTERNATIONAL UAW STAFF CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 380
-        Assets: 12426872
-        $/Participant: 32702
-        Available Investments:
-           - INTERNATIONAL UNION, UAW
-                 : UAW MASTER PENSION TRUST
-    2017: INTERNATIONAL UAW STAFF CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C 
-        Participants: 404
-        Assets: 13148497
-        $/Participant: 32545
-        Available Investments:
-           - INTERNATIONAL UNION, UAW
-                 : UAW MASTER PENSION TRUST
    [501]
     2022: UAW OFFICE EMPLOYEES SUB PLAN
         Benefit Category: Other
@@ -638,6 +583,61 @@ MI : DETROIT
         Participants: 201
         Assets: 23829041
         $/Participant: 118552
+        Available Investments:
+           - INTERNATIONAL UNION, UAW
+                 : UAW MASTER PENSION TRUST
+   [008]
+    2022: INTERNATIONAL UAW STAFF CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 400
+        Assets: 14873426
+        $/Participant: 37183
+        Available Investments:
+           - INTERNATIONAL UNION, UAW
+                 : UAW MASTER PENSION TRUST
+    2021: INTERNATIONAL UAW STAFF CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 396
+        Assets: 17203182
+        $/Participant: 43442
+        Available Investments:
+           - INTERNATIONAL UNION, UAW
+                 : UAW MASTER PENSION TRUST
+    2020: INTERNATIONAL UAW STAFF CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 385
+        Assets: 15550788
+        $/Participant: 40391
+        Available Investments:
+           - INTERNATIONAL UNION, UAW
+                 : UAW MASTER PENSION TRUST
+    2019: INTERNATIONAL UAW STAFF CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 381
+        Assets: 14156122
+        $/Participant: 37155
+        Available Investments:
+           - INTERNATIONAL UNION, UAW
+                 : UAW MASTER PENSION TRUST
+    2018: INTERNATIONAL UAW STAFF CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 380
+        Assets: 12426872
+        $/Participant: 32702
+        Available Investments:
+           - INTERNATIONAL UNION, UAW
+                 : UAW MASTER PENSION TRUST
+    2017: INTERNATIONAL UAW STAFF CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C 
+        Participants: 404
+        Assets: 13148497
+        $/Participant: 32545
         Available Investments:
            - INTERNATIONAL UNION, UAW
                  : UAW MASTER PENSION TRUST

@@ -345,45 +345,6 @@ PA : PHILADELPHIA
         Benefit Category: Healthcare
         Codes:  4A
         Participants: 
-   [003]
-    2022: GLAXOSMITHKLINE CASH BALANCE PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C1I3F3H3J 
-        Participants: 39631
-        Assets: 2843381160
-        $/Participant: 71746
-        RecordKeeper: PRICEWATERHOUSECOOPERS LLP
-        Available Investments:
-           - GENESIS ASSET MANAGERS, LP
-                 : THE GENESIS GROUP TRT FOR EE BEN PN
-           - MARATHON ASSET MANAGEMENT LIMITED
-                 : MARATHON-LONDON INTERNATIONAL FUND
-           - STATE STREET BANK AND TRUST COMPANY
-                 : SS DAILY MSCI EMERG MKTS IND NL FD
-                 : STATE STREET MSCI EAFE INDX NL FUND
-                 : STATE STREET S&P 500 FLGSHP NL FUND
-           - STATE STREET GLOBAL ADVISORS TRUST COMPANY
-                 : RUSSELL SM CAP COMPLETENESS R IN NL
-                 : SSGA RUSSELL 3000 INDEX NL FUND
-    2021: GLAXOSMITHKLINE CASH BALANCE PENSION PLAN
-        Benefit Category: Other
-        Codes: 1C1I3F3H3J 
-        Participants: 42943
-        Assets: 3445975479
-        $/Participant: 80245
-        RecordKeeper: PRICEWATERHOUSECOOPERS LLP
-        Available Investments:
-           - GENESIS ASSET MANAGERS, LP
-                 : THE GENESIS GROUP TRT FOR EE BEN PN
-           - MARATHON ASSET MANAGEMENT LIMITED
-                 : MARATHON-LONDON INTERNATIONAL FUND
-           - STATE STREET BANK AND TRUST COMPANY
-                 : SS DAILY MSCI EMERG MKTS IND NL FD
-                 : STATE STREET MSCI EAFE INDX NL FUND
-                 : STATE STREET S&P 500 FLGSHP NL FUND
-           - STATE STREET GLOBAL ADVISORS TRUST COMPANY
-                 : RUSSELL SM CAP COMPLETENESS R IN NL
-                 : SSGA RUSSELL 3000 INDEX NL FUND
    [600]
     2022: GLAXOSMITHKLINE BUSINESS TRAVEL ACCIDENT PLAN
         Benefit Category: Other
@@ -412,6 +373,44 @@ PA : PHILADELPHIA
         Codes:  4L
         Participants: 
    [003]
+    2022: GLAXOSMITHKLINE CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C1I3F3H3J 
+        Participants: 39631
+        Assets: 2843381160
+        $/Participant: 71746
+        RecordKeeper: PRICEWATERHOUSECOOPERS LLP
+        Available Investments:
+           - GENESIS ASSET MANAGERS, LP
+                 : THE GENESIS GROUP TRT FOR EE BEN PN
+           - MARATHON ASSET MANAGEMENT LIMITED
+                 : MARATHON-LONDON INTERNATIONAL FUND
+           - STATE STREET BANK AND TRUST COMPANY
+                 : SS DAILY MSCI EMERG MKTS IND NL FD
+                 : STATE STREET MSCI EAFE INDX NL FUND
+                 : STATE STREET S&P 500 FLGSHP NL FUND
+           - STATE STREET GLOBAL ADVISORS TRUST COMPANY
+                 : RUSSELL SM CAP COMPLETENESS R IN NL
+                 : SSGA RUSSELL 3000 INDEX NL FUND
+    2021: GLAXOSMITHKLINE CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C1I3F3H3J 
+        Participants: 42943
+        Assets: 3445975479
+        $/Participant: 80245
+        RecordKeeper: PRICEWATERHOUSECOOPERS LLP
+        Available Investments:
+           - GENESIS ASSET MANAGERS, LP
+                 : THE GENESIS GROUP TRT FOR EE BEN PN
+           - MARATHON ASSET MANAGEMENT LIMITED
+                 : MARATHON-LONDON INTERNATIONAL FUND
+           - STATE STREET BANK AND TRUST COMPANY
+                 : SS DAILY MSCI EMERG MKTS IND NL FD
+                 : STATE STREET MSCI EAFE INDX NL FUND
+                 : STATE STREET S&P 500 FLGSHP NL FUND
+           - STATE STREET GLOBAL ADVISORS TRUST COMPANY
+                 : RUSSELL SM CAP COMPLETENESS R IN NL
+                 : SSGA RUSSELL 3000 INDEX NL FUND
     2020: GLAXOSMITHKLINE CASH BALANCE PENSION PLAN
         Benefit Category: Pension
         Codes: 1A1C3F3H3J 

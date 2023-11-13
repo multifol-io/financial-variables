@@ -168,96 +168,6 @@ TX : DALLAS
         Benefit Category: Healthcare
         Codes:  4A4B4D4E4H4L
         Participants: 
-   [005]
-    2022: JACKSON WALKER L.L.P. PARTNERS CASH BALANCE PLAN I
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 0
-    2021: JACKSON WALKER L.L.P. PARTNERS CASH BALANCE PLAN I
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 123
-        Assets: 11680008
-        $/Participant: 94959
-        Service Providers:
-           - BOK FINANCIAL CORPORATION :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-    2020: JACKSON WALKER L.L.P. PARTNERS CASH BALANCE PLAN I
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 124
-        Assets: 11649503
-        $/Participant: 93947
-        Service Providers:
-           - BOK FINANCIAL CORPORATION :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-    2019: JACKSON WALKER L.L.P. PARTNERS CASH BALANCE PLAN I
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 125
-        Assets: 12169764
-        $/Participant: 97358
-        Service Providers:
-           - BOK FINANCIAL CORPORATION :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-    2018: JACKSON WALKER L.L.P. PARTNERS CASH BALANCE PLAN I
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 115
-        Assets: 9319234
-        $/Participant: 81036
-        Service Providers:
-           - BOK FINANCIAL CORPORATION :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-    2017: JACKSON WALKER L.L.P. PARTNERS CASH BALANCE PLAN I
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 110
-        Assets: 7035199
-        $/Participant: 63956
-        Service Providers:
-           - BOK FINANCIAL CORPORATION :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-   [006]
-    2022: JACKSON WALKER L.L.P. PARTNERS CASH BALANCE PLAN II
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 0
-    2021: JACKSON WALKER L.L.P. PARTNERS CASH BALANCE PLAN II
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 123
-        Assets: 11678096
-        $/Participant: 94943
-        Service Providers:
-           - BOK FINANCIAL CORPORATION :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-    2020: JACKSON WALKER L.L.P. PARTNERS CASH BALANCE PLAN II
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 124
-        Assets: 11647673
-        $/Participant: 93932
-        Service Providers:
-           - BOK FINANCIAL CORPORATION :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-    2019: JACKSON WALKER L.L.P CASH BALANCE PLAN II
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 125
-        Assets: 12168152
-        $/Participant: 97345
-        Service Providers:
-           - BOK FINANCIAL CORPORATION :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-    2018: JACKSON WALKER L.L.P CASH BALANCE PLAN II
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 115
-        Assets: 10314848
-        $/Participant: 89694
-        Service Providers:
-           - BOK FINANCIAL CORPORATION :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-    2017: JACKSON WALKER L.L.P CASH BALANCE PLAN II
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 110
-        Assets: 7034108
-        $/Participant: 63946
-        Service Providers:
-           - BOK FINANCIAL CORPORATION :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
    [007]
     2020: JACKSON WALKER L.L.P. QUALIFIED PLAN MASTER TRUST
         Benefit Category: Other
@@ -287,16 +197,106 @@ TX : DALLAS
         Available Investments:
            - BOKF, NA
                  : MAP POOLED INVESTMENT TRUST
+   [005]
+    2022: JACKSON WALKER L.L.P. PARTNERS CASH BALANCE PLAN I
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 0
+    2021: JACKSON WALKER L.L.P. PARTNERS CASH BALANCE PLAN I
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 123
+        Assets: 11680008
+        $/Participant: 94959
+        Service Providers:
+           - BOK FINANCIAL CORPORATION :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+    2020: JACKSON WALKER L.L.P. PARTNERS CASH BALANCE PLAN I
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 124
+        Assets: 11649503
+        $/Participant: 93947
+        Service Providers:
+           - BOK FINANCIAL CORPORATION :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+    2019: JACKSON WALKER L.L.P. PARTNERS CASH BALANCE PLAN I
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 125
+        Assets: 12169764
+        $/Participant: 97358
+        Service Providers:
+           - BOK FINANCIAL CORPORATION :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+    2018: JACKSON WALKER L.L.P. PARTNERS CASH BALANCE PLAN I
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 115
+        Assets: 9319234
+        $/Participant: 81036
+        Service Providers:
+           - BOK FINANCIAL CORPORATION :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+    2017: JACKSON WALKER L.L.P. PARTNERS CASH BALANCE PLAN I
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 110
+        Assets: 7035199
+        $/Participant: 63956
+        Service Providers:
+           - BOK FINANCIAL CORPORATION :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+   [006]
+    2022: JACKSON WALKER L.L.P. PARTNERS CASH BALANCE PLAN II
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 0
+    2021: JACKSON WALKER L.L.P. PARTNERS CASH BALANCE PLAN II
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 123
+        Assets: 11678096
+        $/Participant: 94943
+        Service Providers:
+           - BOK FINANCIAL CORPORATION :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+    2020: JACKSON WALKER L.L.P. PARTNERS CASH BALANCE PLAN II
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 124
+        Assets: 11647673
+        $/Participant: 93932
+        Service Providers:
+           - BOK FINANCIAL CORPORATION :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+    2019: JACKSON WALKER L.L.P CASH BALANCE PLAN II
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 125
+        Assets: 12168152
+        $/Participant: 97345
+        Service Providers:
+           - BOK FINANCIAL CORPORATION :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+    2018: JACKSON WALKER L.L.P CASH BALANCE PLAN II
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 115
+        Assets: 10314848
+        $/Participant: 89694
+        Service Providers:
+           - BOK FINANCIAL CORPORATION :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+    2017: JACKSON WALKER L.L.P CASH BALANCE PLAN II
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 110
+        Assets: 7034108
+        $/Participant: 63946
+        Service Providers:
+           - BOK FINANCIAL CORPORATION :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
    [008]
     2022: JACKSON WALKER L.L.P. PARTNERS CASH BALANCE PLAN III
-        Benefit Category: Other
+        Benefit Category: Pension
         Codes: 1C3B 
         Participants: 110
         Assets: 6106000
         $/Participant: 55509
    [009]
     2022: JACKSON WALKER L.L.P. PARTNERS CASH BALANCE PLAN IV
-        Benefit Category: Other
+        Benefit Category: Pension
         Codes: 1C3B 
         Participants: 110
         Assets: 6106000

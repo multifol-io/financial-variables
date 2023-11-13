@@ -94,23 +94,6 @@ MO : SPRINGFIELD
         Benefit Category: Healthcare
         Codes:  4A4B4E4F4H4L4Q
         Participants: 2533
-NC : HIGH POINT
-   [025]
-    2022: DIXON HUGHES GOODMAN LLP CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C1I3B 
-        Participants: 0
-        Service Providers:
-           - OCTOBER THREE CONSULTING LLC :  (Actuarial)
-           - VANGUARD FIDUCIARY TRUST CO :  (Trustee(bank, trust company, or similar))
-    2021: DIXON HUGHES GOODMAN LLP CASH BALANCE PLAN
-        Benefit Category: Other
-        Codes: 1C3B 
-        Participants: 211
-        Assets: 8865457
-        $/Participant: 42016
-MO : SPRINGFIELD
-   [507]
     2022: BKD, LLP ANCILLARY BENEFIT PLANS
         Benefit Category: Other
         Codes:  4B4E4F4H4L4Q
@@ -165,3 +148,18 @@ MO : SPRINGFIELD
         Service Providers:
            - MATRIX TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar) | Shareholder servicing fees | Sub - transfer agency fees | Finders' fees/placement fees | Float revenue | Distribution(12b - 1) fees | Securities brokerage commissions and fees)
            - MSCS FINANCIAL SERVICES : TRUSTEE (Trustee(bank, trust company, or similar) | Shareholder servicing fees | Sub - transfer agency fees | Finders' fees/placement fees | Float revenue | Distribution(12b - 1) fees | Securities brokerage commissions and fees)
+NC : HIGH POINT
+   [025]
+    2022: DIXON HUGHES GOODMAN LLP CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C1I3B 
+        Participants: 0
+        Service Providers:
+           - OCTOBER THREE CONSULTING LLC :  (Actuarial)
+           - VANGUARD FIDUCIARY TRUST CO :  (Trustee(bank, trust company, or similar))
+    2021: DIXON HUGHES GOODMAN LLP CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1C3B 
+        Participants: 211
+        Assets: 8865457
+        $/Participant: 42016
