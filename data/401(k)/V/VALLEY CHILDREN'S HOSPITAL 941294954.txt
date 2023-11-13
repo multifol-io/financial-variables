@@ -1,5 +1,51 @@
 CA : MADERA
   VALLEY CHILDREN'S HOSPITAL  941294954
+   [002]
+    2022: VALLEY CHILDREN'S HOSPITAL DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: 403(b)
+        Codes: 2F2G2L2M2R2T 
+        Participants: 4849
+        Assets: 479263516
+        $/Participant: 98837
+        RecordKeeper: TCG ADVISORY SERVICES LLC
+    2021: VALLEY CHILDREN'S HOSPITAL DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: 403(b)
+        Codes: 2F2G2L2M2R2T 
+        Participants: 4646
+        Assets: 556025422
+        $/Participant: 119678
+        RecordKeeper: TCG ADVISORY SERVICES
+    2020: VALLEY CHILDREN'S HOSPITAL DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: 403(b)
+        Codes: 2F2G2L2M2R2T 
+        Participants: 4631
+        Assets: 495233594
+        $/Participant: 106938
+        RecordKeeper: WHELAN FINANCIAL
+    2019: VALLEY CHILDREN'S HOSPITAL DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: 403(b)
+        Codes: 2F2G2L2M2R2T 
+        Participants: 4583
+        Assets: 435791166
+        $/Participant: 95088
+        RecordKeeper: PAVILION ADVISORY GROUP INC
+    2018: VALLEY CHILDREN'S HOSPITAL DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: 403(b)
+        Codes: 2F2G2L2M2R2T 
+        Participants: 4440
+        Assets: 330631929
+        $/Participant: 74466
+        RecordKeeper: PATHWAYS ADVISORY GROUP INC.
+    2017: VALLEY CHILDRENS HOSPITAL DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: 403(b)
+        Codes: 2F2G2L2M2R2T 
+        Participants: 4285
+        Assets: 336158624
+        $/Participant: 78450
+        RecordKeeper: PATHWAYS ADVISORY GROUP INC.
+        Available Investments:
+           - TRANSAMERICA FINANCIAL LIFE INSURANCE CO
+                 : GUARANTEED POOLED FUND
    [501]
     2022: VALLEY CHILDREN'S HOSPITAL EMPLOYEE HEALTH CARE PLAN
         Benefit Category: Healthcare, Life Insurance
@@ -52,52 +98,6 @@ CA : MADERA
         Codes:  4A4B4D4E4F4H4L
         Participants: 3015
         RecordKeeper: VISION SERVICE PLAN
-   [002]
-    2022: VALLEY CHILDREN'S HOSPITAL DEFINED CONTRIBUTION RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 2F2G2L2M2R2T 
-        Participants: 4849
-        Assets: 479263516
-        $/Participant: 98837
-        RecordKeeper: TCG ADVISORY SERVICES LLC
-    2021: VALLEY CHILDREN'S HOSPITAL DEFINED CONTRIBUTION RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 2F2G2L2M2R2T 
-        Participants: 4646
-        Assets: 556025422
-        $/Participant: 119678
-        RecordKeeper: TCG ADVISORY SERVICES
-    2020: VALLEY CHILDREN'S HOSPITAL DEFINED CONTRIBUTION RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 2F2G2L2M2R2T 
-        Participants: 4631
-        Assets: 495233594
-        $/Participant: 106938
-        RecordKeeper: WHELAN FINANCIAL
-    2019: VALLEY CHILDREN'S HOSPITAL DEFINED CONTRIBUTION RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 2F2G2L2M2R2T 
-        Participants: 4583
-        Assets: 435791166
-        $/Participant: 95088
-        RecordKeeper: PAVILION ADVISORY GROUP INC
-    2018: VALLEY CHILDREN'S HOSPITAL DEFINED CONTRIBUTION RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 2F2G2L2M2R2T 
-        Participants: 4440
-        Assets: 330631929
-        $/Participant: 74466
-        RecordKeeper: PATHWAYS ADVISORY GROUP INC.
-    2017: VALLEY CHILDRENS HOSPITAL DEFINED CONTRIBUTION RETIREMENT PLAN
-        Benefit Category: Other
-        Codes: 2F2G2L2M2R2T 
-        Participants: 4285
-        Assets: 336158624
-        $/Participant: 78450
-        RecordKeeper: PATHWAYS ADVISORY GROUP INC.
-        Available Investments:
-           - TRANSAMERICA FINANCIAL LIFE INSURANCE CO
-                 : GUARANTEED POOLED FUND
    [001]
     2019: VALLEY CHILDRENS HOSPITAL PENSION PLAN
         Benefit Category: Pension

@@ -1,13 +1,5 @@
-AZ : SPRINGVILLE
-  LINCOLN NATIONAL LIFE INSURANCE COMPANY  350472300
-   [001]
-    2018: WHITE MOUNTAIN REGIONAL MEDICAL CENTER 403(B) PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2J2M2T 
-        Participants: 174
-        Assets: 298332
-        $/Participant: 1714
 PA : RADNOR
+  LINCOLN NATIONAL LIFE INSURANCE COMPANY  350472300
    [006]
     2022: LNL AGENTS' 401(K) SAVINGS PLAN
         Benefit Category: 401(k), Employee Stock Ownership Plan
@@ -233,6 +225,15 @@ PA : RADNOR
                  : TARGET RETIREMENT FUND 2060
                  : TARGET RETIREMENT INCOME FUND
                  : U.S. BOND INDEX FUND
+AZ : SPRINGVILLE
+   [001]
+    2018: WHITE MOUNTAIN REGIONAL MEDICAL CENTER 403(B) PLAN
+        Benefit Category: 403(b)
+        Codes: 2F2J2M2T 
+        Participants: 174
+        Assets: 298332
+        $/Participant: 1714
+PA : RADNOR
    [005]
     2017: LNL MONEY PURCHASE PLAN
         Benefit Category: Employee Stock Ownership Plan
