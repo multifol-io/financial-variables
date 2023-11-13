@@ -1,25 +1,9 @@
 WI : MADISON
   NEUGEN LLC  830949021
-   [531]
-    2022: NEUGEN LLC EMPLOYEE WELFARE BENEFIT PLAN FOR REPRESENTED EMPLOYEES
-        Participants: 0
-    2021: NEUGEN LLC EMPLOYEE WELFARE BENEFIT PLAN FOR REPRESENTED EMPLOYEES
-        Participants: 143
-    2020: NEUGEN LLC EMPLOYEE WELFARE PLAN FOR REPRESENTED EMPLOYEES
-        Participants: 127
-    2019: NEUGEN LLC EMPLOYEE WELFARE BENEFIT PLAN FOR REPRESENTED EMPLOYEES
-        Participants: 122
-   [530]
-    2022: NEUGEN LLC EMPLOYEE WELFARE BENEFIT PLAN
-        Participants: 0
-    2021: NEUGEN LLC EMPLOYEE WELFARE BENEFIT PLAN
-        Participants: 266
-    2020: NEUGEN LLC EMPLOYEE WELFARE BENEFIT PLAN
-        Participants: 229
-    2019: NEUGEN LLC EMPLOYEE WELFARE BENEFIT PLAN
-        Participants: 223
    [003]
     2021: NEUGEN LLC EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 455
         Assets: 117864250
         $/Participant: 259042
@@ -28,6 +12,8 @@ WI : MADISON
            - MASSACHUSETTS MUTUAL LIFE INSURANCE
                  : SIA-E5 (NON-CLIENT SAGIC CORE BOND
     2020: NEUGEN LLC EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 448
         Assets: 108019460
         $/Participant: 241114
@@ -36,6 +22,8 @@ WI : MADISON
            - MASSACHUSETTS MUTUAL LIFE INSURANCE
                  : SIA-E5 (NON-CLIENT SAGIC CORE BOND
     2019: NEUGEN LLC EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 433
         Assets: 101996490
         $/Participant: 235557
@@ -43,3 +31,43 @@ WI : MADISON
         Available Investments:
            - MASSACHUSETTS MUTUAL LIFE INSURANCE
                  : SIA-E5 (NON-CLIENT SAGIC CORE BOND
+   [530]
+    2022: NEUGEN LLC EMPLOYEE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4Q4F
+        Participants: 0
+    2021: NEUGEN LLC EMPLOYEE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4Q4F
+        Participants: 266
+    2020: NEUGEN LLC EMPLOYEE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4Q
+        Participants: 229
+    2019: NEUGEN LLC EMPLOYEE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4Q
+        Participants: 223
+   [531]
+    2022: NEUGEN LLC EMPLOYEE WELFARE BENEFIT PLAN FOR REPRESENTED EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4F4Q
+        Participants: 0
+    2021: NEUGEN LLC EMPLOYEE WELFARE BENEFIT PLAN FOR REPRESENTED EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4F4Q
+        Participants: 143
+    2020: NEUGEN LLC EMPLOYEE WELFARE PLAN FOR REPRESENTED EMPLOYEES
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4Q
+        Participants: 127
+    2019: NEUGEN LLC EMPLOYEE WELFARE BENEFIT PLAN FOR REPRESENTED EMPLOYEES
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4Q
+        Participants: 122

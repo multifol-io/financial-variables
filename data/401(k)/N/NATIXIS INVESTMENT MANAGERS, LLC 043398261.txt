@@ -1,28 +1,9 @@
 MA : BOSTON
   NATIXIS INVESTMENT MANAGERS, LLC  043398261
-   [501]
-    2022: NATIXIS HEALTH AND WELFARE BENEFIT PLANS
-        Participants: 
-        Service Providers:
-           - UNUM LIFE INSURANCE CO. OF AMERICA : ADMIN. SERVICE PROVIDER (Claims processing)
-           - EVERNORTH BEHAVIORAL HEALTH : EAP ADMINISTRATOR (Claims processing | Direct payment from the plan | Contract Administrator | Participant communication)
-    2021: NATIXIS HEALTH AND WELFARE BENEFIT PLANS
-        Participants: 
-        Service Providers:
-           - EVERNORTH BEHAVIORAL HEALTH : EAP ADMINISTRATOR (Claims processing | Direct payment from the plan | Contract Administrator | Participant communication)
-    2020: NATIXIS HEALTH AND WELFARE BENEFIT PLANS
-        Participants: 
-        Service Providers:
-           - LIFEWORKS EAP : TPA (Claims processing)
-           - CIGNA BEHAVIORAL HEALTH, INC. : TPA (Claims processing | Direct payment from the plan | Contract Administrator | Participant communication)
-    2019: NATIXIS HEALTH AND WELFARE BENEFIT PLANS
-        Participants: 
-    2018: NATIXIS HEALTH AND WELFARE BENEFIT PLANS
-        Participants: 
-    2017: NATIXIS HEALTH AND WELFARE BENEFIT PLANS
-        Participants: 
    [001]
     2022: 401(K) SAVINGS AND RETIREMENT PLAN, SPONSORED BY NATIXIS INVESTMENT MANAGERS, LLC
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 1679
         Assets: 468064057
         $/Participant: 278775
@@ -35,6 +16,8 @@ MA : BOSTON
                  : SS GBL EQ EX U.S. INDX NL SF CL C
                  : SS RUSL SML/MID CAP NL SF CL C
     2021: 401(K) SAVINGS AND RETIREMENT PLAN, SPONSORED BY NATIXIS INVESTMENT MANAGERS, LLC
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 1587
         Assets: 572994815
         $/Participant: 361055
@@ -47,6 +30,8 @@ MA : BOSTON
                  : SS GBL EQ EX U.S. INDX NL SF CL C
                  : SS RUSL SML/MID CAP NL SF CL C
     2020: 401(K) SAVINGS AND RETIREMENT PLAN, SPONSORED BY NATIXIS INVESTMENT MANAGERS, LLC
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 1592
         Assets: 495720781
         $/Participant: 311382
@@ -60,6 +45,8 @@ MA : BOSTON
                  : SS GBL EQ EX U.S. INDX NL SF CL C
                  : SS RUSL SML/MID CAP NL SF CL C
     2019: 401(K) SAVINGS AND RETIREMENT PLAN, SPONSORED BY NATIXIS INVESTMENT MANAGERS, L.P.
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 1599
         Assets: 437838920
         $/Participant: 273820
@@ -72,6 +59,8 @@ MA : BOSTON
                  : SS GBL EQ EX U.S. INDX NL SF CL C
                  : SS RUSL SML/MID CAP NL SF CL C
     2018: 401(K) SAVINGS AND RETIREMENT PLAN SPONSORED BY NATIXIS INVESTMENT MANAGERS, LP
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 1594
         Assets: 349740003
         $/Participant: 219410
@@ -83,6 +72,8 @@ MA : BOSTON
            - STATE STREET BANK & TRUST COMPANY
                  : SSGA GLOBAL EQ EX US INDEX C
     2017: 401(K) SAVINGS AND RETIREMENT PLAN SPONSORED BY NATIXIS INVESTMENT MANAGERS, LP
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 1557
         Assets: 382721427
         $/Participant: 245806
@@ -92,3 +83,36 @@ MA : BOSTON
                  : WINSLOW LARGE CAP GROWTH Y
            - STATE STREET BANK & TRUST COMPANY
                  : SSGA GLOBAL EQ EX US INDEX C
+   [501]
+    2022: NATIXIS HEALTH AND WELFARE BENEFIT PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+        Service Providers:
+           - UNUM LIFE INSURANCE CO. OF AMERICA : ADMIN. SERVICE PROVIDER (Claims processing)
+           - EVERNORTH BEHAVIORAL HEALTH : EAP ADMINISTRATOR (Claims processing | Direct payment from the plan | Contract Administrator | Participant communication)
+    2021: NATIXIS HEALTH AND WELFARE BENEFIT PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+        Service Providers:
+           - EVERNORTH BEHAVIORAL HEALTH : EAP ADMINISTRATOR (Claims processing | Direct payment from the plan | Contract Administrator | Participant communication)
+    2020: NATIXIS HEALTH AND WELFARE BENEFIT PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+        Service Providers:
+           - LIFEWORKS EAP : TPA (Claims processing)
+           - CIGNA BEHAVIORAL HEALTH, INC. : TPA (Claims processing | Direct payment from the plan | Contract Administrator | Participant communication)
+    2019: NATIXIS HEALTH AND WELFARE BENEFIT PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2018: NATIXIS HEALTH AND WELFARE BENEFIT PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2017: NATIXIS HEALTH AND WELFARE BENEFIT PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 

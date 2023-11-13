@@ -1,14 +1,9 @@
 IL : WARRENVILLE
   FUEL TECH, INC.  205657551
-   [501]
-    2018: FUEL TECH, INC. GROUP HEALTH & MEDICAL PLAN
-        Participants: 
-    2017: FUEL TECH, INC. GROUP HEALTH & MEDICAL PLAN
-        Participants: 
-        Service Providers:
-           - CIGNA GROUP INSURANCE : CLAIM ADMINISTRATOR (Contract Administrator)
    [001]
     2022: FUEL TECH, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 108
         Assets: 26398863
         $/Participant: 244433
@@ -17,6 +12,8 @@ IL : WARRENVILLE
            - INVESCO TRUST COMPANY
                  : INVESCO STABLEVALUE RETIREMENT FUND
     2021: FUEL TECH, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 115
         Assets: 34644111
         $/Participant: 301253
@@ -25,6 +22,8 @@ IL : WARRENVILLE
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE RETIREMENT FUN
     2020: FUEL TECH, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 121
         Assets: 32605748
         $/Participant: 269468
@@ -33,6 +32,8 @@ IL : WARRENVILLE
            - INVESCO NATIONAL TRUST COMPANY
                  : INVESCO STABLE VALUE RETIREMENT FUN
     2019: FUEL TECH, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 127
         Assets: 28853185
         $/Participant: 227190
@@ -41,6 +42,8 @@ IL : WARRENVILLE
            - INVESCO NATIONAL TRUST COMPANY
                  : INVESCO STABLE VALUE RETIREMENT FUN
     2018: FUEL TECH, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 132
         Assets: 23756301
         $/Participant: 179971
@@ -49,6 +52,8 @@ IL : WARRENVILLE
            - INVESCO NATIONAL TRUST COMPANY
                  : INVESCO STABLE VALUE RETIREMENT FUN
     2017: FUEL TECH, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 145
         Assets: 26297653
         $/Participant: 181363
@@ -56,3 +61,14 @@ IL : WARRENVILLE
         Available Investments:
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE RETIREMENT FUN
+   [501]
+    2018: FUEL TECH, INC. GROUP HEALTH & MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4R
+        Participants: 
+    2017: FUEL TECH, INC. GROUP HEALTH & MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 
+        Service Providers:
+           - CIGNA GROUP INSURANCE : CLAIM ADMINISTRATOR (Contract Administrator)

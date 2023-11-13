@@ -1,41 +1,9 @@
-PA : LANCASTER
-  ARMSTRONG FLOORING, INC  474303305
-   [503]
-    2021: SEVERANCE PAY PLAN FOR SALARIED EMPLOYEES OF ARMSTRONG FLOORING, INC
-        Participants: 557
-    2020: SEVERANCE PAY PLAN FOR SALARIED EMPLOYEES OF ARMSTRONG FLOORING, INC.
-        Participants: 527
-    2019: SEVERANCE PAY PLAN FOR SALARIED EMPLOYEES OF ARMSTRONG FLOORING, INC.
-        Participants: 508
-    2018: SEVERANCE PAY PLAN FOR SALARIED EMPLOYEES OF ARMSTRONG FLOORING,INC
-        Participants: 989
-    2017: SEVERANCE PAY PLAN FOR SALARIED EMPLOYEES OF ARMSTRONG FLOORING, INC.
-        Participants: 1111
-   [502]
-    2021: WELFARE BENEFIT PROGRAM FOR RETIREES OF ARMSTRONG FLOORING, INC.
-        Participants: 1959
-    2020: WELFARE BENEFIT PROGRAM FOR RETIREES OF ARMSTRONG FLOORING, INC.
-        Participants: 2174
-    2019: WELFARE BENEFIT PROGRAM FOR RETIREES OF ARMSTRONG FLOORING, INC.
-        Participants: 2243
-    2018: WELFARE BENEFIT PROGRAM FOR RETIREES OF ARMSTRONG FLOORING, INC.
-        Participants: 2123
-    2017: WELFARE BENEFIT PROGRAM FOR RETIREES OF ARMSTRONG FLOORING, INC.
-        Participants: 2156
-   [501]
-    2021: WELFARE BENEFIT PROGRAM FOR EMPLOYEES OF ARMSTRONG FLOORING, INC.
-        Participants: 1309
-    2020: WELFARE BENEFIT PROGRAM FOR EMPLOYEES OF ARMSTRONG FLOORING, INC.
-        Participants: 1300
-    2019: WELFARE BENEFIT PROGRAM FOR EMPLOYEES OF ARMSTRONG FLOORING, INC.
-        Participants: 2693
-    2018: WELFARE BENEFIT PROGRAM FOR EMPLOYEES OF ARMSTRONG FLOORING, INC.
-        Participants: 2979
-    2017: WELFARE BENEFIT PROGRAM FOR EMPLOYEES OF ARMSTRONG FLOORING, INC.
-        Participants: 3125
 NJ : VOORHEES
+  ARMSTRONG FLOORING, INC.  474303305
    [002]
     2022: ARMSTRONG FLOORING INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T2E 
         Participants: 3
         Assets: 134252
         $/Participant: 44750
@@ -45,6 +13,8 @@ NJ : VOORHEES
                  : MIP II CL 1
 PA : LANCASTER
     2021: ARMSTRONG FLOORING INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T2R 
         Participants: 2711
         Assets: 291123781
         $/Participant: 107386
@@ -53,6 +23,8 @@ PA : LANCASTER
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
     2020: ARMSTRONG FLOORING INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T 
         Participants: 2658
         Assets: 272696983
         $/Participant: 102594
@@ -61,6 +33,8 @@ PA : LANCASTER
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
     2019: ARMSTRONG FLOORING INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2R2S2T2G 
         Participants: 2610
         Assets: 254159388
         $/Participant: 97379
@@ -69,6 +43,8 @@ PA : LANCASTER
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
     2018: ARMSTRONG FLOORING INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T2E 
         Participants: 4381
         Assets: 268743272
         $/Participant: 61342
@@ -77,6 +53,8 @@ PA : LANCASTER
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
     2017: ARMSTRONG FLOORING INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T 
         Participants: 4350
         Assets: 298062535
         $/Participant: 68520
@@ -84,9 +62,55 @@ PA : LANCASTER
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
+   [501]
+    2018: WELFARE BENEFIT PROGRAM FOR EMPLOYEES OF ARMSTRONG FLOORING, INC.
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 2979
+    2017: WELFARE BENEFIT PROGRAM FOR EMPLOYEES OF ARMSTRONG FLOORING, INC.
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4H
+        Participants: 3125
+   [502]
+    2018: WELFARE BENEFIT PROGRAM FOR RETIREES OF ARMSTRONG FLOORING, INC.
+        Benefit Category: Healthcare
+        Codes:  4A4B4E
+        Participants: 2123
+    2017: WELFARE BENEFIT PROGRAM FOR RETIREES OF ARMSTRONG FLOORING, INC.
+        Benefit Category: Healthcare
+        Codes:  4A4B4E
+        Participants: 2156
+   [501]
+    2021: WELFARE BENEFIT PROGRAM FOR EMPLOYEES OF ARMSTRONG FLOORING, INC.
+        Benefit Category: Other
+        Codes:  4B4D4H4Q
+        Participants: 1309
+    2020: WELFARE BENEFIT PROGRAM FOR EMPLOYEES OF ARMSTRONG FLOORING, INC.
+        Benefit Category: Other
+        Codes:  4B4E4H4Q
+        Participants: 1300
+    2019: WELFARE BENEFIT PROGRAM FOR EMPLOYEES OF ARMSTRONG FLOORING, INC.
+        Benefit Category: Other
+        Codes:  4B4E4H4Q
+        Participants: 2693
+   [502]
+    2021: WELFARE BENEFIT PROGRAM FOR RETIREES OF ARMSTRONG FLOORING, INC.
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 1959
+    2020: WELFARE BENEFIT PROGRAM FOR RETIREES OF ARMSTRONG FLOORING, INC.
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 2174
+    2019: WELFARE BENEFIT PROGRAM FOR RETIREES OF ARMSTRONG FLOORING, INC.
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 2243
 FL : ESTERO
    [001]
     2022: RETIREMENT INCOME PLAN FOR EMPLOYEES OF ARMSTRONG FLOORING, INC.
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1364
         Assets: 309173948
         $/Participant: 226667
@@ -99,6 +123,8 @@ FL : ESTERO
            - AON :  (Plan Administrator)
            - J.P. MORGAN :  (Trustee(bank, trust company, or similar))
     2021: RETIREMENT INCOME PLAN FOR EMPLOYEES OF ARMSTRONG FLOORING, INC.
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1385
         Assets: 415647233
         $/Participant: 300106
@@ -111,6 +137,8 @@ FL : ESTERO
            - FRANK RUSSELL COMPANY :  (Investment management)
 PA : LANCASTER
     2020: RETIREMENT INCOME PLAN FOR EMPLOYEES OF ARMSTRONG FLOORING, INC.
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1434
         Assets: 417593066
         $/Participant: 291208
@@ -124,6 +152,8 @@ PA : LANCASTER
            - CAP FINANCIAL PARTNERS LLC : N/A (Investment advisory(plan))
            - FRANK RUSSELL COMPANY : N/A (Investment management)
     2019: RETIREMENT INCOME PLAN FOR EMPLOYEES OF ARMSTRONG FLOORING, INC.
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1469
         Assets: 381119249
         $/Participant: 259441
@@ -136,6 +166,8 @@ PA : LANCASTER
            - AON HEWITT : N/A (Plan Administrator)
            - J.P. MORGAN : N/A (Trustee(bank, trust company, or similar))
     2018: RETIREMENT INCOME PLAN FOR EMPLOYEES OF ARMSTRONG FLOORING, INC.
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1963
         Assets: 345559664
         $/Participant: 176036
@@ -148,6 +180,8 @@ PA : LANCASTER
            - MORISON COGEN : N/A (Accounting(including auditing))
            - FRANK RUSSELL COMPANY : N/A (Investment management)
     2017: RETIREMENT INCOME PLAN FOR EMPLOYEES OF ARMSTRONG FLOORING, INC.
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 2086
         Assets: 391259637
         $/Participant: 187564
@@ -157,3 +191,24 @@ PA : LANCASTER
            - AON HEWITT : N/A (Actuarial)
            - ARMSTRONG FLOORING, INC. : EMPLOYER (Employee(plan sponsor))
            - STEVENS & LEE : N/A (Legal)
+   [503]
+    2021: SEVERANCE PAY PLAN FOR SALARIED EMPLOYEES OF ARMSTRONG FLOORING, INC
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 557
+    2020: SEVERANCE PAY PLAN FOR SALARIED EMPLOYEES OF ARMSTRONG FLOORING, INC.
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 527
+    2019: SEVERANCE PAY PLAN FOR SALARIED EMPLOYEES OF ARMSTRONG FLOORING, INC.
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 508
+    2018: SEVERANCE PAY PLAN FOR SALARIED EMPLOYEES OF ARMSTRONG FLOORING,INC
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 989
+    2017: SEVERANCE PAY PLAN FOR SALARIED EMPLOYEES OF ARMSTRONG FLOORING, INC.
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 1111

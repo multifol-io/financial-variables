@@ -1,21 +1,9 @@
 CT : STAMFORD
   NATWEST MARKETS SECURITIES INC.  133172275
-   [530]
-    2022: NATWEST MARKETS U.S. SEVERANCE PAY PLAN
-        Participants: 
-    2021: NATWEST MARKETS U.S. SEVERANCE PAY PLAN
-        Participants: 
-    2020: NATWEST MARKETS U.S. SEVERANCE PAY PLAN
-        Participants: 
-   [520]
-    2022: NATWEST MARKETS HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: NATWEST MARKETS HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: NATWEST MARKETS HEALTH AND WELFARE PLAN
-        Participants: 
    [002]
     2022: NATWEST MARKETS RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3H 
         Participants: 1620
         Assets: 494810467
         $/Participant: 305438
@@ -38,6 +26,8 @@ CT : STAMFORD
            - PRUDENTIAL
                  : PRUDENTIAL CORE PLUS BOND FUND 5
     2021: NATWEST MARKETS RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3H 
         Participants: 1701
         Assets: 641099917
         $/Participant: 376895
@@ -60,6 +50,8 @@ CT : STAMFORD
            - PRUDENTIAL
                  : PRUDENTIAL CORE PLUS BOND FUND 5
     2020: NATWEST MARKETS RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3H 
         Participants: 1816
         Assets: 601830322
         $/Participant: 331404
@@ -81,3 +73,29 @@ CT : STAMFORD
                  : SMARTRETIREMENT 2060
            - PRUDENTIAL
                  : PRUDENTIAL CORE PLUS BOND FUND 5
+   [520]
+    2022: NATWEST MARKETS HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L
+        Participants: 
+    2021: NATWEST MARKETS HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2020: NATWEST MARKETS HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+   [530]
+    2022: NATWEST MARKETS U.S. SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2021: NATWEST MARKETS U.S. SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2020: NATWEST MARKETS U.S. SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

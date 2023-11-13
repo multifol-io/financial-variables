@@ -1,54 +1,59 @@
 CT : MIDDLETOWN
   WESLEYAN UNIVERSITY  060646959
-   [513]
-    2022: WESLEYAN UNIVERSITY RETIREE PHARMACY PROGRAM
-        Participants: 
-    2021: WESLEYAN UNIVERSITY RETIREE PHARMACY PROGRAM
-        Participants: 
-    2020: WESLEYAN UNIVERSITY RETIREE PHARMACY PROGRAM
-        Participants: 
-    2019: WESLEYAN UNIVERSITY RETIREE PHARMACY PROGRAM
-        Participants: 
-    2018: WESLEYAN UNIVERSITY RETIREE PHARMACY PROGRAM
-        Participants: 
-    2017: WESLEYAN UNIVERSITY RETIREE PHARMACY PROGRAM
-        Participants: 
    [511]
     2022: WESLEYAN UNIVERSITY GROUP INSURANCE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
         Participants: 
     2021: WESLEYAN UNIVERSITY GROUP INSURANCE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
         Participants: 
     2020: WESLEYAN UNIVERSITY GROUP INSURANCE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
         Participants: 
     2019: WESLEYAN UNIVERSITY GROUP INSURANCE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
         Participants: 
     2018: WESLEYAN UNIVERSITY GROUP INSURANCE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
         Participants: 
     2017: WESLEYAN UNIVERSITY GROUP INSURANCE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
         Participants: 
-   [002]
-    2019: TAX DEFERRED ANNUITY PLAN FOR EMPLOYEES OF WESLEYAN UNIVERSITY
-        Participants: 0
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2018: TAX DEFERRED ANNUITY PLAN FOR EMPLOYEES OF WESLEYAN UNIVERSITY
-        Participants: 1247
-        Assets: 182577243
-        $/Participant: 146413
-        RecordKeeper: FIDELITY INVESTMENTS
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2017: TAX DEFERRED ANNUITY PLAN FOR EMPLOYEES OF WESLEYAN UNIVERSITY
-        Participants: 1219
-        Assets: 170715909
-        $/Participant: 140045
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
+   [513]
+    2022: WESLEYAN UNIVERSITY RETIREE PHARMACY PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: WESLEYAN UNIVERSITY RETIREE PHARMACY PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2020: WESLEYAN UNIVERSITY RETIREE PHARMACY PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: WESLEYAN UNIVERSITY RETIREE PHARMACY PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: WESLEYAN UNIVERSITY RETIREE PHARMACY PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: WESLEYAN UNIVERSITY RETIREE PHARMACY PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
    [001]
     2021: WESLEYAN UNIVERSITY RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M 
         Participants: 2321
         Assets: 550869903
         $/Participant: 237341
@@ -57,6 +62,8 @@ CT : MIDDLETOWN
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2020: WESLEYAN UNIVERSITY RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M 
         Participants: 2222
         Assets: 621266210
         $/Participant: 279597
@@ -65,6 +72,8 @@ CT : MIDDLETOWN
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2019: WESLEYAN UNIVERSITY RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M 
         Participants: 2214
         Assets: 513709035
         $/Participant: 232027
@@ -73,6 +82,8 @@ CT : MIDDLETOWN
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2018: THE WESLEYAN UNIVERSITY RETIREMENT PLAN FOR STAFF
+        Benefit Category: Other
+        Codes: 2F2G2L2M 
         Participants: 2071
         Assets: 319339586
         $/Participant: 154195
@@ -81,9 +92,38 @@ CT : MIDDLETOWN
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2017: THE WESLEYAN UNIVERSITY RETIREMENT PLAN FOR STAFF
+        Benefit Category: Other
+        Codes: 2F2G2L2M 
         Participants: 2016
         Assets: 309244256
         $/Participant: 153394
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+   [002]
+    2019: TAX DEFERRED ANNUITY PLAN FOR EMPLOYEES OF WESLEYAN UNIVERSITY
+        Benefit Category: Other
+        Codes: 2F2G2K2M 
+        Participants: 0
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2018: TAX DEFERRED ANNUITY PLAN FOR EMPLOYEES OF WESLEYAN UNIVERSITY
+        Benefit Category: Other
+        Codes: 2F2G2K2M 
+        Participants: 1247
+        Assets: 182577243
+        $/Participant: 146413
+        RecordKeeper: FIDELITY INVESTMENTS
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2017: TAX DEFERRED ANNUITY PLAN FOR EMPLOYEES OF WESLEYAN UNIVERSITY
+        Benefit Category: Other
+        Codes: 2F2G2K2M 
+        Participants: 1219
+        Assets: 170715909
+        $/Participant: 140045
         Available Investments:
            - TIAA-CREF
                  : TIAA REAL ESTATE

@@ -1,88 +1,9 @@
 RI : JOHNSTON
   FACTORY MUTUAL INSURANCE COMPANY  050316605
-   [512]
-    2022: FACTORY MUTUAL INSURANCE COMPANY AND ITS PARTICIPATING AFFILIATES SEVERANCE PAY PLAN
-        Participants: 
-    2021: FACTORY MUTUAL INSURANCE COMPANY AND ITS PARTICIPATING AFFILIATES SEVERANCE PAY PLAN
-        Participants: 
-    2020: FACTORY MUTUAL INSURANCE COMPANY AND ITS PARTICIPATING AFFILIATES SEVERANCE PAY PLAN
-        Participants: 
-   [511]
-    2022: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR SENIOR VICE PRESIDENTS
-        Participants: 
-    2021: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR SENIOR VICE PRESIDENTS
-        Participants: 
-    2020: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR SENIOR VICE PRESIDENTS
-        Participants: 
-    2019: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR SENIOR VICE PRESIDENTS
-        Participants: 
-    2018: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR SENIOR VICE PRESIDENTS
-        Participants: 
-    2017: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR SENIOR VICE PRESIDENTS
-        Participants: 
-   [510]
-    2022: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR VICE PRESIDENTS
-        Participants: 
-    2021: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR VICE PRESIDENTS
-        Participants: 
-    2020: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR VICE PRESIDENTS
-        Participants: 
-    2019: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR VICE PRESIDENTS
-        Participants: 
-    2018: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR VICE PRESIDENTS
-        Participants: 
-    2017: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR VICE PRESIDENTS
-        Participants: 
-   [509]
-    2022: FACTORY MUTUAL INSURANCE COMPANY HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2021: FACTORY MUTUAL INSURANCE COMPANY HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2020: FACTORY MUTUAL INSURANCE COMPANY HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2018: FACTORY MUTUAL INSURANCE COMPANY HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2017: FACTORY MUTUAL INSURANCE COMPANY HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-   [506]
-    2022: FACTORY MUTUAL INSURANCE COMPANY POSTRETIREMENT WELFARE PROGRAM
-        Participants: 
-        Assets: 155197107
-        $/Participant: 
-        Service Providers:
-           - JP MORGAN CHASE :  (Trustee(bank, trust company, or similar) | Investment management | Investment management fees paid directly by plan)
-    2021: FACTORY MUTUAL INSURANCE COMPANY POSTRETIREMENT WELFARE PROGRAM
-        Participants: 
-        Assets: 196804032
-        $/Participant: 
-        Service Providers:
-           - JP MORGAN CHASE :  (Trustee(bank, trust company, or similar) | Investment management | Investment management fees paid directly by plan)
-    2020: FACTORY MUTUAL INSURANCE COMPANY POSTRETIREMENT WELFARE PROGRAM
-        Participants: 
-        Assets: 170466413
-        $/Participant: 
-        Service Providers:
-           - JP MORGAN CHASE :  (Trustee(bank, trust company, or similar) | Investment management)
-    2019: FACTORY MUTUAL INSURANCE COMPANY POSTRETIREMENT WELFARE PROGRAM
-        Participants: 
-        Assets: 156273672
-        $/Participant: 
-        Service Providers:
-           - JP MORGAN CHASE :  (Trustee(bank, trust company, or similar) | Investment management)
-    2018: FACTORY MUTUAL INSURANCE COMPANY POSTRETIREMENT WELFARE PROGRAM
-        Participants: 
-        Assets: 137173654
-        $/Participant: 
-        Service Providers:
-           - JP MORGAN CHASE :  (Trustee(bank, trust company, or similar) | Investment management)
-    2017: FACTORY MUTUAL INSURANCE COMPANY POSTRETIREMENT WELFARE PROGRAM
-        Participants: 
-        Assets: 157574949
-        $/Participant: 
-        Service Providers:
-           - JP MORGAN CHASE :  (Trustee(bank, trust company, or similar) | Investment management)
    [003]
     2022: FM GLOBAL 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3F3H 
         Participants: 5602
         Assets: 1429728934
         $/Participant: 255217
@@ -96,6 +17,8 @@ RI : JOHNSTON
            - GEODE CAPITAL MANAGEMENT TRUST
                  : SP 500 INDEX PL CL C
     2021: FM GLOBAL 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F2R 
         Participants: 5268
         Assets: 1837712525
         $/Participant: 348844
@@ -104,6 +27,8 @@ RI : JOHNSTON
            - GEODE CAPITAL MANAGEMENT TRUST
                  : SP 500 INDEX PL CL C
     2020: FM GLOBAL 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F2R 
         Participants: 5214
         Assets: 1630810822
         $/Participant: 312775
@@ -112,6 +37,8 @@ RI : JOHNSTON
            - GEODE CAPITAL MANAGEMENT TRUST
                  : SP 500 INDEX PL CL C
     2019: FM GLOBAL 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3F 
         Participants: 5119
         Assets: 1355470214
         $/Participant: 264791
@@ -120,6 +47,8 @@ RI : JOHNSTON
            - GEODE CAPITAL MANAGEMENT TRUST
                  : SP 500 INDEX PL CL C
     2018: FM GLOBAL 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2E2S2T3F 
         Participants: 5017
         Assets: 1137659407
         $/Participant: 226760
@@ -128,6 +57,8 @@ RI : JOHNSTON
            - GEODE CAPITAL MANAGEMENT TRUST
                  : SP 500 INDEX PL CL C
     2017: FM GLOBAL 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2E2T3F 
         Participants: 4913
         Assets: 1196820140
         $/Participant: 243602
@@ -137,8 +68,130 @@ RI : JOHNSTON
                  : FID US EQ INDX
            - GEODE CAPITAL MANAGEMENT TRUST COMPANY, LLC
                  : SP 500 INDEX PL CL B
+   [506]
+    2022: FACTORY MUTUAL INSURANCE COMPANY POSTRETIREMENT WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F
+        Participants: 
+        Assets: 155197107
+        $/Participant: 
+        Service Providers:
+           - JP MORGAN CHASE :  (Trustee(bank, trust company, or similar) | Investment management | Investment management fees paid directly by plan)
+    2021: FACTORY MUTUAL INSURANCE COMPANY POSTRETIREMENT WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F
+        Participants: 
+        Assets: 196804032
+        $/Participant: 
+        Service Providers:
+           - JP MORGAN CHASE :  (Trustee(bank, trust company, or similar) | Investment management | Investment management fees paid directly by plan)
+    2020: FACTORY MUTUAL INSURANCE COMPANY POSTRETIREMENT WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F
+        Participants: 
+        Assets: 170466413
+        $/Participant: 
+        Service Providers:
+           - JP MORGAN CHASE :  (Trustee(bank, trust company, or similar) | Investment management)
+    2019: FACTORY MUTUAL INSURANCE COMPANY POSTRETIREMENT WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F
+        Participants: 
+        Assets: 156273672
+        $/Participant: 
+        Service Providers:
+           - JP MORGAN CHASE :  (Trustee(bank, trust company, or similar) | Investment management)
+    2018: FACTORY MUTUAL INSURANCE COMPANY POSTRETIREMENT WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F
+        Participants: 
+        Assets: 137173654
+        $/Participant: 
+        Service Providers:
+           - JP MORGAN CHASE :  (Trustee(bank, trust company, or similar) | Investment management)
+    2017: FACTORY MUTUAL INSURANCE COMPANY POSTRETIREMENT WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F
+        Participants: 
+        Assets: 157574949
+        $/Participant: 
+        Service Providers:
+           - JP MORGAN CHASE :  (Trustee(bank, trust company, or similar) | Investment management)
+   [509]
+    2022: FACTORY MUTUAL INSURANCE COMPANY HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: FACTORY MUTUAL INSURANCE COMPANY HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: FACTORY MUTUAL INSURANCE COMPANY HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: FACTORY MUTUAL INSURANCE COMPANY HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2017: FACTORY MUTUAL INSURANCE COMPANY HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+   [510]
+    2022: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR VICE PRESIDENTS
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2021: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR VICE PRESIDENTS
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2020: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR VICE PRESIDENTS
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2019: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR VICE PRESIDENTS
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2018: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR VICE PRESIDENTS
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2017: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR VICE PRESIDENTS
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+   [511]
+    2022: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR SENIOR VICE PRESIDENTS
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2021: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR SENIOR VICE PRESIDENTS
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2020: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR SENIOR VICE PRESIDENTS
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2019: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR SENIOR VICE PRESIDENTS
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2018: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR SENIOR VICE PRESIDENTS
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2017: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR SENIOR VICE PRESIDENTS
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
    [001]
     2022: FACTORY MUTUAL INSURANCE COMPANY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3J3F3H 
         Participants: 8687
         Assets: 2658220492
         $/Participant: 305999
@@ -168,6 +221,8 @@ RI : JOHNSTON
                  : WTC-CTF EMERGING MARKET DEVELOPMENT
                  : WTC-CTF OPPORTUNISTIC FXD INC ALLOC
     2021: FACTORY MUTUAL INSURANCE COMPANY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3J3F3H 
         Participants: 8736
         Assets: 3351646753
         $/Participant: 383659
@@ -195,6 +250,8 @@ RI : JOHNSTON
                  : WTC-CTF EMERGING MARKET DEVELOPMENT
                  : WTC-CTF OPPORTUNISTIC FXD INC ALLOC
     2020: FACTORY MUTUAL INSURANCE COMPANY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3J3F3H 
         Participants: 8694
         Assets: 3080645805
         $/Participant: 354341
@@ -221,6 +278,8 @@ RI : JOHNSTON
                  : WTC-CTF EMERGING MARKET DEVELOPMENT
                  : WTC-CTF OPPORTUNISTIC FXD INC ALLOC
     2019: FACTORY MUTUAL INSURANCE COMPANY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3J3F3H 
         Participants: 8586
         Assets: 2810542400
         $/Participant: 327340
@@ -237,12 +296,29 @@ RI : JOHNSTON
            - SEI TRUST COMPANY
                  : SCHRODER COLLECTIVE INVESTMENT TRUS
     2018: FACTORY MUTUAL INSURANCE COMPANY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3J3F3H 
         Participants: 9509
         Assets: 2530061559
         $/Participant: 266070
         RecordKeeper: GOLDMAN SACHS
     2017: FACTORY MUTUAL INSURANCE COMPANY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3J3F3H 
         Participants: 9499
         Assets: 2671567717
         $/Participant: 281247
         RecordKeeper: GROOM LAW GROUP
+   [512]
+    2022: FACTORY MUTUAL INSURANCE COMPANY AND ITS PARTICIPATING AFFILIATES SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2021: FACTORY MUTUAL INSURANCE COMPANY AND ITS PARTICIPATING AFFILIATES SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2020: FACTORY MUTUAL INSURANCE COMPANY AND ITS PARTICIPATING AFFILIATES SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

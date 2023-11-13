@@ -1,34 +1,17 @@
 MA : LOWELL
-  FRED C. CHURCH, INC.  042445292
-   [507]
-    2021: FRED C. CHURCH, INC. HEALTH AND WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - DELTA DENTAL OF MA : THIRD PARTY ADMINISTRATOR (Claims processing | Contract Administrator)
-    2020: FRED C. CHURCH, INC. HEALTH AND WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - DELTA DENTAL OF MA : THIRD PARTY ADMINISTRATOR (Claims processing | Contract Administrator)
-    2019: FRED C. CHURCH, INC. HEALTH AND WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - DELTA DENTAL OF MA : THIRD PARTY ADMINISTRATOR (Claims processing | Contract Administrator)
-    2018: FRED C. CHURCH, INC. HEALTH AND WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - GUARDIAN : THIRD PARTY ADMINISTRATOR (Claims processing | Contract Administrator)
-    2017: FRED C. CHURCH, INC. HEALTH AND WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - GUARDIAN : THIRD PARTY ADMINISTRATOR (Claims processing | Contract Administrator)
+  FRED C. CHURCH,INC.  042445292
    [003]
     2022: FRED C. CHURCH, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 0
         RecordKeeper: SULLIVAN BILLE, P.C.
         Available Investments:
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND
     2021: FRED C. CHURCH, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 184
         Assets: 43877608
         $/Participant: 238465
@@ -37,6 +20,8 @@ MA : LOWELL
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND
     2020: FRED C. CHURCH, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 182
         Assets: 40646482
         $/Participant: 223332
@@ -45,6 +30,8 @@ MA : LOWELL
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND
     2019: FRED C. CHURCH, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 180
         Assets: 35684334
         $/Participant: 198246
@@ -53,6 +40,8 @@ MA : LOWELL
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND
     2018: FRED C. CHURCH, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 169
         Assets: 29764060
         $/Participant: 176118
@@ -61,6 +50,8 @@ MA : LOWELL
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND
     2017: FRED C. CHURCH, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 167
         Assets: 29887455
         $/Participant: 178966
@@ -70,36 +61,79 @@ MA : LOWELL
                  : PUTNAM STABLE VALUE FUND
    [002]
     2022: FRED C. CHURCH, INC. EMPLOYEES' STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2Q 
         Participants: 152
         Assets: 3736774
         $/Participant: 24584
         RecordKeeper: SULLIVAN BILLE, P.C.
     2021: FRED C. CHURCH, INC. EMPLOYEES' STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2Q 
         Participants: 152
         Assets: 76445418
         $/Participant: 502930
         Service Providers:
            - MORGAN STANLEY SMITH BARNEY LLC : INVESTMENT ADVISOR (Securities brokerage | Securities brokerage commissions and fees | Direct payment from the plan | Custodial(securities) | Other services | Other fees | Investment advisory(plan) | Other investment fees and expenses)
     2020: FRED C. CHURCH, INC. EMPLOYEES' STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2Q 
         Participants: 155
         Assets: 37696822
         $/Participant: 243205
         Service Providers:
            - MORGAN STANLEY SMITH BARNEY LLC : INVESTMENT ADVISOR (Securities brokerage | Securities brokerage commissions and fees | Direct payment from the plan | Custodial(securities) | Other services | Other fees | Investment advisory(plan) | Other investment fees and expenses)
     2019: FRED C. CHURCH, INC. EMPLOYEES' STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2Q 
         Participants: 155
         Assets: 28985790
         $/Participant: 187005
         Service Providers:
            - MORGAN STANLEY SMITH BARNEY LLC : INVESTMENT ADVISOR (Securities brokerage | Securities brokerage commissions and fees | Direct payment from the plan | Custodial(securities) | Other services | Other fees | Investment advisory(plan) | Other investment fees and expenses)
     2018: FRED C. CHURCH, INC. EMPLOYEES' STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2Q 
         Participants: 148
         Assets: 26305939
         $/Participant: 177742
         Service Providers:
            - MORGAN STANLEY SMITH BARNEY LLC : INVESTMENT ADVISOR (Securities brokerage | Securities brokerage commissions and fees | Direct payment from the plan | Custodial(securities) | Other services | Other fees | Investment advisory(plan) | Other investment fees and expenses)
     2017: FRED C. CHURCH, INC. EMPLOYEES' STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2Q 
         Participants: 152
         Assets: 21509395
         $/Participant: 141509
         RecordKeeper: MORGAN STANLEY SMITH BARNEY LLC
+   [507]
+    2021: FRED C. CHURCH, INC. HEALTH AND WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+        Service Providers:
+           - DELTA DENTAL OF MA : THIRD PARTY ADMINISTRATOR (Claims processing | Contract Administrator)
+    2020: FRED C. CHURCH, INC. HEALTH AND WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+        Service Providers:
+           - DELTA DENTAL OF MA : THIRD PARTY ADMINISTRATOR (Claims processing | Contract Administrator)
+    2019: FRED C. CHURCH, INC. HEALTH AND WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+        Service Providers:
+           - DELTA DENTAL OF MA : THIRD PARTY ADMINISTRATOR (Claims processing | Contract Administrator)
+    2018: FRED C. CHURCH, INC. HEALTH AND WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+        Service Providers:
+           - GUARDIAN : THIRD PARTY ADMINISTRATOR (Claims processing | Contract Administrator)
+    2017: FRED C. CHURCH, INC. HEALTH AND WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+        Service Providers:
+           - GUARDIAN : THIRD PARTY ADMINISTRATOR (Claims processing | Contract Administrator)

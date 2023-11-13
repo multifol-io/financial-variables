@@ -1,26 +1,8 @@
 GA : ELLIJAY
   ELLIJAY TELEPHONE COMPANY  580233660
-   [501]
-    2022: ELLIJAY TELEPHONE COMPANY EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - UNITED HEALTHCARE SERVICES : CLAIM PROCESSOR (Claims processing | Other services)
-    2021: ELLIJAY TELEPHONE COMPANY EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - UNITED HEALTHCARE SERVICES : CLAIM PROCESSOR (Claims processing | Other services)
-    2020: ELLIJAY TELEPHONE COMPANY EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - UNITED HEALTHCARE SERVICES : CLAIM PROCESSOR (Claims processing | Other services)
-    2019: ELLIJAY TELEPHONE COMPANY EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2018: ELLIJAY TELEPHONE COMPANY EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2017: ELLIJAY TELEPHONE COMPANY EMPLOYEE BENEFIT PLAN
-        Participants: 
-   [001]
     2022: ELLIJAY TELEPHONE COMPANY PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2J2K2F2G2R3D 
         Participants: 164
         Assets: 35053786
         $/Participant: 213742
@@ -54,6 +36,8 @@ GA : ELLIJAY
                  : PRIN SMCAP S&P 600 INDEX SA-R6
                  : PRIN U.S. PROPERTY SEP ACCT-R6
     2021: ELLIJAY TELEPHONE COMPANY PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2J2K2F2G2R3D 
         Participants: 156
         Assets: 42797410
         $/Participant: 274342
@@ -88,6 +72,8 @@ GA : ELLIJAY
                  : PRIN SMCAP S&P 600 INDEX SA-R6
                  : PRIN U.S. PROPERTY SEP ACCT-R6
     2020: ELLIJAY TELEPHONE COMPANY PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2J2K2F2G2R3D 
         Participants: 157
         Assets: 36528200
         $/Participant: 232663
@@ -122,6 +108,8 @@ GA : ELLIJAY
                  : PRIN SMCAP S&P 600 INDEX SA-R6
                  : PRIN U.S. PROPERTY SEP ACCT-R6
     2019: ELLIJAY TELEPHONE COMPANY PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2J2K2F2G2R3D 
         Participants: 161
         Assets: 30078112
         $/Participant: 186820
@@ -155,6 +143,8 @@ GA : ELLIJAY
                  : PRIN SMCAP S&P 600 INDEX SA-R6
                  : PRIN U.S. PROPERTY SEP ACCT-R6
     2018: ELLIJAY TELEPHONE COMPANY PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3D 
         Participants: 162
         Assets: 23657436
         $/Participant: 146033
@@ -188,6 +178,8 @@ GA : ELLIJAY
                  : PRIN SMCAP S&P 600 INDEX SA-R6
                  : PRIN U.S. PROPERTY SEP ACCT-R6
     2017: ELLIJAY TELEPHONE COMPANY PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3D 
         Participants: 165
         Assets: 24275557
         $/Participant: 147124
@@ -219,3 +211,34 @@ GA : ELLIJAY
                  : PRIN SMALLCAP GROWTH I SA-R6
                  : PRIN SMCAP S&P 600 INDEX SA-R6
                  : PRIN U.S. PROPERTY SEP ACCT-R6
+   [501]
+    2022: ELLIJAY TELEPHONE COMPANY EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+        Service Providers:
+           - UNITED HEALTHCARE SERVICES : CLAIM PROCESSOR (Claims processing | Other services)
+    2021: ELLIJAY TELEPHONE COMPANY EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+        Service Providers:
+           - UNITED HEALTHCARE SERVICES : CLAIM PROCESSOR (Claims processing | Other services)
+    2020: ELLIJAY TELEPHONE COMPANY EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+        Service Providers:
+           - UNITED HEALTHCARE SERVICES : CLAIM PROCESSOR (Claims processing | Other services)
+    2019: ELLIJAY TELEPHONE COMPANY EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2018: ELLIJAY TELEPHONE COMPANY EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2017: ELLIJAY TELEPHONE COMPANY EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 

@@ -1,45 +1,10 @@
 MA : BOSTON
   STATE STREET CORPORATION  042456637
-   [508]
-    2022: SEVERANCE PLAN
-        Participants: 
-    2021: SEVERANCE PLAN
-        Participants: 
-    2020: SEVERANCE PLAN
-        Participants: 
-    2019: SEVERANCE PLAN
-        Participants: 
-    2018: SEVERANCE PLAN
-        Participants: 
-    2017: SEVERANCE PLAN
-        Participants: 
-   [501]
-    2022: EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - THE PRUDENTIAL INSURANCE COMPANY : ADMIN SERVICE (Claims processing | Insurance services | Direct payment from the plan)
-    2021: EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - THE PRUDENTIAL INSURANCE COMPANY : ADMIN SERVICE (Claims processing | Insurance services | Direct payment from the plan)
-    2020: EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - THE PRUDENTIAL INSURANCE COMPANY : ADMIN SERVICE (Claims processing | Insurance services | Direct payment from the plan)
-    2019: EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - THE PRUDENTIAL INSURANCE COMPANY : ADMIN SERVICE (Claims processing | Insurance services | Direct payment from the plan)
-    2018: EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - THE PRUDENTIAL INSURANCE COMPANY : ADMIN SERVICE (Claims processing | Insurance services | Direct payment from the plan)
-    2017: EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - THE PRUDENTIAL INSURANCE COMPANY : ADMIN SERVICE (Claims processing | Insurance services | Direct payment from the plan)
    [002]
     2022: STATE STREET SALARY SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2G2J2K2O2T3F3H2R 
         Participants: 22027
         Assets: 4822585071
         $/Participant: 218939
@@ -66,6 +31,9 @@ MA : BOSTON
            - STATE STREET GLOBAL ADVISORS TRUST
                  : SS S&P 500 INDEX
     2021: STATE STREET SALARY SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2G2J2K2O2T3F3H2R 
         Participants: 20990
         Assets: 5926372605
         $/Participant: 282342
@@ -92,6 +60,9 @@ MA : BOSTON
            - STATE STREET GLOBAL ADVISORS TRUST
                  : SS S&P 500 INDEX
     2020: STATE STREET SALARY SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2G2J2K2O2T3F3H2R 
         Participants: 23199
         Assets: 5237508768
         $/Participant: 225764
@@ -118,6 +89,9 @@ MA : BOSTON
            - STATE STREET GLOBAL ADVISORS TRUST
                  : SS S&P 500 INDEX
     2019: STATE STREET SALARY SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2G2J2K2O2R2T3F3H 
         Participants: 23944
         Assets: 4495385620
         $/Participant: 187745
@@ -142,6 +116,9 @@ MA : BOSTON
                  : SS US BOND INDEX
                  : SS WDGVT EX US IDX
     2018: STATE STREET SALARY SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2J2K2O2R2T3H2G 
         Participants: 24444
         Assets: 3569863950
         $/Participant: 146042
@@ -166,6 +143,9 @@ MA : BOSTON
                  : SS US BOND INDEX
                  : SS WDGVT EX US IDX
     2017: STATE STREET SALARY SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2G2J2K2O2R2T 
         Participants: 24518
         Assets: 3854753142
         $/Participant: 157221
@@ -189,8 +169,47 @@ MA : BOSTON
                  : SS TARGET RET INC
                  : SS US BOND INDEX
                  : SS WDGVT EX US IDX
+   [501]
+    2022: EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+        Service Providers:
+           - THE PRUDENTIAL INSURANCE COMPANY : ADMIN SERVICE (Claims processing | Insurance services | Direct payment from the plan)
+    2021: EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+        Service Providers:
+           - THE PRUDENTIAL INSURANCE COMPANY : ADMIN SERVICE (Claims processing | Insurance services | Direct payment from the plan)
+    2020: EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+        Service Providers:
+           - THE PRUDENTIAL INSURANCE COMPANY : ADMIN SERVICE (Claims processing | Insurance services | Direct payment from the plan)
+    2019: EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+        Service Providers:
+           - THE PRUDENTIAL INSURANCE COMPANY : ADMIN SERVICE (Claims processing | Insurance services | Direct payment from the plan)
+    2018: EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+        Service Providers:
+           - THE PRUDENTIAL INSURANCE COMPANY : ADMIN SERVICE (Claims processing | Insurance services | Direct payment from the plan)
+    2017: EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+        Service Providers:
+           - THE PRUDENTIAL INSURANCE COMPANY : ADMIN SERVICE (Claims processing | Insurance services | Direct payment from the plan)
    [001]
     2022: STATE STREET RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 3H3I1C 
         Participants: 9659
         Assets: 850412431
         $/Participant: 88043
@@ -208,6 +227,8 @@ MA : BOSTON
                  : US AGGREGATE BOND INDEX
                  : US TIPS INDEX SL FUND
     2021: STATE STREET RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 3H3I1C 
         Participants: 9904
         Assets: 1069439439
         $/Participant: 107980
@@ -231,6 +252,8 @@ MA : BOSTON
                  : US AGGREGATE BOND INDEX
                  : US TIPS INDEX SL FUND
     2020: STATE STREET RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 3H3I1C 
         Participants: 10173
         Assets: 1078543754
         $/Participant: 106020
@@ -252,6 +275,8 @@ MA : BOSTON
                  : US AGGREGATE BOND INDEX
                  : US TIPS INDEX SL FUND
     2019: STATE STREET RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 3H3I1C 
         Participants: 10482
         Assets: 983190047
         $/Participant: 93797
@@ -274,6 +299,8 @@ MA : BOSTON
                  : US AGGREGATE BOND INDEX
                  : US TIPS INDEX SL FUND
     2018: STATE STREET RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 3H3I1C 
         Participants: 10789
         Assets: 859987721
         $/Participant: 79709
@@ -297,6 +324,8 @@ MA : BOSTON
                  : STATE STREET RUSSELL 2000 INDEX
                  : U.S. TIPS INDEX SL FUND
     2017: STATE STREET RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 1C 
         Participants: 11249
         Assets: 932628287
         $/Participant: 82907
@@ -319,3 +348,28 @@ MA : BOSTON
                  : RUSSELL 1000 INDEX NL CMCQ
                  : STATE STREET RUSSELL 2000 INDEX
                  : U.S. TIPS INDEX SL FUND
+   [508]
+    2022: SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2021: SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2020: SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2019: SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2018: SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2017: SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

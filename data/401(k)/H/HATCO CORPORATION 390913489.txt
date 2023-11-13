@@ -1,41 +1,89 @@
 WI : MILWAUKEE
   HATCO CORPORATION  390913489
-   [601]
-    2021: HATCO CORPORATION FLEXIBLE BENEFIT PLAN
-        Participants: 
-    2020: HATCO CORPORATION FLEXIBLE BENEFIT PLAN
-        Participants: 
-    2019: HATCO CORPORATION FLEXIBLE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - DIVERSIFIED BENEFIT SERVICES, INC. :  (Other fees)
-    2018: HATCO CORPORATION FLEXIBLE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - DIVERSIFIED BENEFIT SERVICES, INC. :  (Other fees)
-    2017: HATCO CORPORATION FLEXIBLE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - DIVERSIFIED BENEFIT SERVICES INC :  (Other fees)
-   [517]
-    2021: HATCO CORPORATION SECTION 105 HEALTH REIMBURSEMENT ARRANGEMENT PLAN
-        Participants: 
-    2020: HATCO CORPORATION SECTION 105 HEALTH REIMBURSEMENT ARRANGEMENT PLAN
-        Participants: 
-    2019: HATCO CORPORATION SECTION 105 HEALTH REIMBURSEMENT ARRANGEMENT PLAN
-        Participants: 
-        Service Providers:
-           - DIVERSIFIED BENEFIT SERVICES :  (Other fees)
-    2018: HATCO CORPORATION SECTION 105 HEALTH REIMBURSEMENT ARRANGEMENT PLAN
-        Participants: 
-        Service Providers:
-           - DIVERSIFIED BENEFIT SERVICES :  (Other fees)
-    2017: HATCO CORPORATION SECTION 105 HEALTH REIMBURSEMENT ARRANGEMENT PLAN
-        Participants: 
-        Service Providers:
-           - DIVERSIFIED BENEFIT SERVICES INC :  (Other fees)
+   [004]
+    2022: HATCO CORPORATION 401(K) TRUST
+        Benefit Category: 401(k)
+        Codes: 3H2E2F2G2J2K2T3D 
+        Participants: 539
+        Assets: 59752065
+        $/Participant: 110857
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2021: HATCO CORPORATION 401(K) TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
+        Participants: 498
+        Assets: 78071221
+        $/Participant: 156769
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2020: HATCO CORPORATION 401(K) TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
+        Participants: 520
+        Assets: 72712173
+        $/Participant: 139831
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2019: HATCO CORPORATION 401(K) TRUST
+        Benefit Category: 401(k)
+        Codes: 3D2E2F2G2J2K2T 
+        Participants: 518
+        Assets: 63228667
+        $/Participant: 122063
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2018: HATCO CORPORATION 401(K) TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
+        Participants: 514
+        Assets: 56757712
+        $/Participant: 110423
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2017: HATCO CORPORATION 401(K) TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
+        Participants: 513
+        Assets: 62090358
+        $/Participant: 121033
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+   [005]
+    2022: HATCO CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q2I 
+        Participants: 634
+        Assets: 234644699
+        $/Participant: 370102
+    2021: HATCO CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q2I 
+        Participants: 618
+        Assets: 221459741
+        $/Participant: 358349
+    2020: HATCO CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q2I 
+        Participants: 629
+        Assets: 198418642
+        $/Participant: 315450
+    2019: HATCO CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q2I 
+        Participants: 611
+        Assets: 220818743
+        $/Participant: 361405
+    2018: HATCO CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q2I 
+        Participants: 595
+        Assets: 191974998
+        $/Participant: 322647
+    2017: HATCO CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q2I 
+        Participants: 581
+        Assets: 171958261
+        $/Participant: 295969
    [501]
     2021: HATCO EMPLOYEE WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4E
         Participants: 470
         Service Providers:
            - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
@@ -43,6 +91,8 @@ WI : MILWAUKEE
            - HAYS COMPANIES, INC. : BROKER (Other commissions)
            - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATOR (Contract Administrator)
     2020: HATCO EMPLOYEE WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4E
         Participants: 480
         Service Providers:
            - HAYS COMPANIES : BROKER (Insurance agents and brokers)
@@ -50,76 +100,80 @@ WI : MILWAUKEE
            - UNITED HEALTCHARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
            - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATOR (Contract Administrator)
     2019: HATCO EMPLOYEE WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4E
         Participants: 509
         Service Providers:
            - UNITED HEALTHCARE SERVICES, INC : CLAIMS PROCESSOR (Claims processing | Other services)
            - HAYS COMPANIES, INC. : INSURANCE BROKER (Insurance agents and brokers)
            - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATOR (Contract Administrator)
     2018: HATCO EMPLOYEE WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
         Participants: 500
         Service Providers:
            - FINANCIAL LIFE CYCLES INC. : INSURANCE BROKER (Insurance agents and brokers)
            - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATOR (Contract Administrator)
            - UNITED HEALTHCARE SERVICES INC. : CLAIMS PROCESSOR (Claims processing | Other services)
     2017: HATCO EMPLOYEE WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
         Participants: 486
         Service Providers:
            - FINANCIAL LIFE CYCLES, INC. : INSURANCE BROKER (Insurance agents and brokers)
            - DELTA DENTAL OF WISCONSIN : CONTRACT ADMINISTRATOR (Contract Administrator)
            - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
-   [005]
-    2022: HATCO CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 634
-        Assets: 234644699
-        $/Participant: 370102
-    2021: HATCO CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 618
-        Assets: 221459741
-        $/Participant: 358349
-    2020: HATCO CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 629
-        Assets: 198418642
-        $/Participant: 315450
-    2019: HATCO CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 611
-        Assets: 220818743
-        $/Participant: 361405
-    2018: HATCO CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 595
-        Assets: 191974998
-        $/Participant: 322647
-    2017: HATCO CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 581
-        Assets: 171958261
-        $/Participant: 295969
-   [004]
-    2022: HATCO CORPORATION 401(K) TRUST
-        Participants: 539
-        Assets: 59752065
-        $/Participant: 110857
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2021: HATCO CORPORATION 401(K) TRUST
-        Participants: 498
-        Assets: 78071221
-        $/Participant: 156769
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2020: HATCO CORPORATION 401(K) TRUST
-        Participants: 520
-        Assets: 72712173
-        $/Participant: 139831
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2019: HATCO CORPORATION 401(K) TRUST
-        Participants: 518
-        Assets: 63228667
-        $/Participant: 122063
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2018: HATCO CORPORATION 401(K) TRUST
-        Participants: 514
-        Assets: 56757712
-        $/Participant: 110423
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2017: HATCO CORPORATION 401(K) TRUST
-        Participants: 513
-        Assets: 62090358
-        $/Participant: 121033
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+   [601]
+    2021: HATCO CORPORATION FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2020: HATCO CORPORATION FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2019: HATCO CORPORATION FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+        Service Providers:
+           - DIVERSIFIED BENEFIT SERVICES, INC. :  (Other fees)
+    2018: HATCO CORPORATION FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+        Service Providers:
+           - DIVERSIFIED BENEFIT SERVICES, INC. :  (Other fees)
+    2017: HATCO CORPORATION FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+        Service Providers:
+           - DIVERSIFIED BENEFIT SERVICES INC :  (Other fees)
+   [517]
+    2021: HATCO CORPORATION SECTION 105 HEALTH REIMBURSEMENT ARRANGEMENT PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2020: HATCO CORPORATION SECTION 105 HEALTH REIMBURSEMENT ARRANGEMENT PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2019: HATCO CORPORATION SECTION 105 HEALTH REIMBURSEMENT ARRANGEMENT PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+        Service Providers:
+           - DIVERSIFIED BENEFIT SERVICES :  (Other fees)
+    2018: HATCO CORPORATION SECTION 105 HEALTH REIMBURSEMENT ARRANGEMENT PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+        Service Providers:
+           - DIVERSIFIED BENEFIT SERVICES :  (Other fees)
+    2017: HATCO CORPORATION SECTION 105 HEALTH REIMBURSEMENT ARRANGEMENT PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+        Service Providers:
+           - DIVERSIFIED BENEFIT SERVICES INC :  (Other fees)

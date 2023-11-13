@@ -1,41 +1,9 @@
 CT : STAMFORD
   CASTLETON COMMODITIES INTERNATIONAL LLC  061620577
-   [504]
-    2022: CCI GROUP INSURANCE PLAN
-        Participants: 
-    2021: CCI GROUP INSURANCE PLAN
-        Participants: 
-    2020: CCI GROUP INSURANCE PLAN
-        Participants: 
-    2019: CCI GROUP INSURANCE PLAN
-        Participants: 
-    2018: CCI GROUP INSURANCE PLAN
-        Participants: 
-    2017: CCI GROUP INSURANCE PLAN
-        Participants: 
-   [503]
-    2019: CASTLETON COMMODITIES ASSET GROUP INSURANCE PLAN
-        Participants: 
-    2018: CASTLETON COMMODITIES ASSET GROUP INSURANCE PLAN
-        Participants: 
-    2017: CASTLETON COMMODITIES ASSET GROUP INSURANCE PLAN
-        Participants: 
-   [502]
-    2017: CCI SEVERANCE PLAN
-        Participants: 
-   [501]
-    2022: CCI WELFARE BENEFIT PLAN
-        Participants: 
-    2021: CCI WELFARE BENEFIT PLAN
-        Participants: 
-    2020: CCI WELFARE BENEFIT PLAN
-        Participants: 
-    2019: CCI WELFARE BENEFIT PLAN
-        Participants: 
-    2018: CCI WELFARE BENEFIT PLAN
-        Participants: 
    [002]
     2022: CCI RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 3H2E2F2G2J2K2T3D2R 
         Participants: 577
         Assets: 110796983
         $/Participant: 192022
@@ -44,6 +12,8 @@ CT : STAMFORD
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2021: CCI RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 3H2E2F2G2J2K2T3D2R 
         Participants: 613
         Assets: 143520323
         $/Participant: 234127
@@ -52,6 +22,8 @@ CT : STAMFORD
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2020: CCI RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 3H2E2F2G2J2K2T3D2R 
         Participants: 669
         Assets: 125829478
         $/Participant: 188085
@@ -60,6 +32,8 @@ CT : STAMFORD
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2019: CCI RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 685
         Assets: 105663518
         $/Participant: 154253
@@ -68,6 +42,8 @@ CT : STAMFORD
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2018: CCI RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 708
         Assets: 83603170
         $/Participant: 118083
@@ -76,6 +52,8 @@ CT : STAMFORD
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2017: CCI RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D3H 
         Participants: 859
         Assets: 115214177
         $/Participant: 134125
@@ -83,8 +61,69 @@ CT : STAMFORD
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
+   [501]
+    2022: CCI WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2021: CCI WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2020: CCI WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2019: CCI WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2018: CCI WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+   [503]
+    2019: CASTLETON COMMODITIES ASSET GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2018: CASTLETON COMMODITIES ASSET GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2017: CASTLETON COMMODITIES ASSET GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+   [504]
+    2022: CCI GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2021: CCI GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2020: CCI GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2019: CCI GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2018: CCI GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2017: CCI GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
    [001]
     2019: CCI PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 48
         Assets: 12123809
         $/Participant: 252579
@@ -95,6 +134,8 @@ CT : STAMFORD
            - PRUDENTIAL RETIREMENT INSURANCE AND ANNUITY CO.
                  : PRUDENTIAL SHORT-TERM
     2018: CCI PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 221
         Assets: 19198258
         $/Participant: 86869
@@ -104,6 +145,8 @@ CT : STAMFORD
            - PRUDENTIAL RETIREMENT INSURANCE AND ANNUITY CO.
                  : PRUDENTIAL SHORT-TERM
     2017: CCI PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 220
         Assets: 20310046
         $/Participant: 92318
@@ -112,3 +155,8 @@ CT : STAMFORD
         Available Investments:
            - PRUDENTIAL RETIREMENT INSURANCE AND ANNUITY CO.
                  : PRUDENTIAL SHORT-TERM
+   [502]
+    2017: CCI SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

@@ -1,75 +1,8 @@
 NY : NEW YORK
   ALLEN & OVERY LLP  133302093
-   [501]
-    2022: ALLEN & OVERY LLP WELFARE BENEFITS PLAN
-        Participants: 
-    2020: ALLEN & OVERY LLP WELFARE BENEFITS PLAN
-        Participants: 
-    2019: ALLEN & OVERY LLP WELFARE BENEFITS PLAN
-        Participants: 
-    2018: ALLEN & OVERY LLP WELFARE BENEFITS PLAN
-        Participants: 
-    2017: ALLEN & OVERY LLP WELFARE BENEFITS PLAN
-        Participants: 
-   [003]
-    2022: ALLEN & OVERY LLP CASH BALANCE PENSION PLAN
-        Participants: 124
-        Assets: 26630113
-        $/Participant: 214758
-        Service Providers:
-           - CITI PRIVATE BANK :  (Investment advisory(plan))
-           - FIRST STATE TRUST COMPANY :  (Trustee(bank, trust company, or similar))
-   [002]
-    2022: ALLEN & OVERY ASSOCIATES 401(K) PLAN
-        Participants: 450
-        Assets: 36413439
-        $/Participant: 80918
-        RecordKeeper: 
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : FA STABLE VALUE I
-    2021: ALLEN & OVERY ASSOCIATES 401(K) PLAN
-        Participants: 413
-        Assets: 42876654
-        $/Participant: 103817
-        RecordKeeper: 
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : FA STABLE VALUE I
-    2020: ALLEN & OVERY ASSOCIATES 401(K) PLAN
-        Participants: 346
-        Assets: 33733757
-        $/Participant: 97496
-        RecordKeeper: PRICEWATERHOUSECOOPERS LLP
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : FA STABLE VALUE I
-    2019: ALLEN & OVERY ASSOCIATES 401(K) PLAN
-        Participants: 348
-        Assets: 28071567
-        $/Participant: 80665
-        RecordKeeper: MERRILL LYNCH PIERCE FENNER &
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : FA STABLE VALUE I
-    2018: ALLEN & OVERY ASSOCIATES 401(K) PLAN
-        Participants: 353
-        Assets: 21723116
-        $/Participant: 61538
-        RecordKeeper: MERRILL LYNCH PIERCE FENNER &
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : FA STABLE VALUE I
-    2017: ALLEN & OVERY ASSOCIATES 401(K) PLAN
-        Participants: 340
-        Assets: 22112591
-        $/Participant: 65037
-        RecordKeeper: MERRILL LYNCH PIERCE FENNER &
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : FA STABLE VALUE
-   [001]
     2022: ALLEN & OVERY 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2K2S2T3D2A2E2F2G2J 
         Participants: 400
         Assets: 96390049
         $/Participant: 240975
@@ -78,6 +11,8 @@ NY : NEW YORK
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FA STABLE VALUE I
     2021: ALLEN & OVERY 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D 
         Participants: 318
         Assets: 103743770
         $/Participant: 326238
@@ -86,6 +21,8 @@ NY : NEW YORK
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FA STABLE VALUE I
     2020: ALLEN & OVERY 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D 
         Participants: 293
         Assets: 88038172
         $/Participant: 300471
@@ -94,6 +31,8 @@ NY : NEW YORK
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FA STABLE VALUE I
     2019: ALLEN & OVERY 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D 
         Participants: 290
         Assets: 73383595
         $/Participant: 253046
@@ -102,6 +41,8 @@ NY : NEW YORK
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FA STABLE VALUE I
     2018: ALLEN & OVERY 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D 
         Participants: 293
         Assets: 60403648
         $/Participant: 206155
@@ -110,6 +51,8 @@ NY : NEW YORK
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FA STABLE VALUE I
     2017: ALLEN & OVERY 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D 
         Participants: 295
         Assets: 62047211
         $/Participant: 210329
@@ -117,3 +60,95 @@ NY : NEW YORK
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FA STABLE VALUE
+   [002]
+    2022: ALLEN & OVERY ASSOCIATES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D 
+        Participants: 450
+        Assets: 36413439
+        $/Participant: 80918
+        RecordKeeper: 
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : FA STABLE VALUE I
+    2021: ALLEN & OVERY ASSOCIATES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D 
+        Participants: 413
+        Assets: 42876654
+        $/Participant: 103817
+        RecordKeeper: 
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : FA STABLE VALUE I
+    2020: ALLEN & OVERY ASSOCIATES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D 
+        Participants: 346
+        Assets: 33733757
+        $/Participant: 97496
+        RecordKeeper: PRICEWATERHOUSECOOPERS LLP
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : FA STABLE VALUE I
+    2019: ALLEN & OVERY ASSOCIATES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D 
+        Participants: 348
+        Assets: 28071567
+        $/Participant: 80665
+        RecordKeeper: MERRILL LYNCH PIERCE FENNER &
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : FA STABLE VALUE I
+    2018: ALLEN & OVERY ASSOCIATES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D 
+        Participants: 353
+        Assets: 21723116
+        $/Participant: 61538
+        RecordKeeper: MERRILL LYNCH PIERCE FENNER &
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : FA STABLE VALUE I
+    2017: ALLEN & OVERY ASSOCIATES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 3D2E2F2G2J2S2T 
+        Participants: 340
+        Assets: 22112591
+        $/Participant: 65037
+        RecordKeeper: MERRILL LYNCH PIERCE FENNER &
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : FA STABLE VALUE
+   [501]
+    2022: ALLEN & OVERY LLP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: ALLEN & OVERY LLP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: ALLEN & OVERY LLP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: ALLEN & OVERY LLP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2017: ALLEN & OVERY LLP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+   [003]
+    2022: ALLEN & OVERY LLP CASH BALANCE PENSION PLAN
+        Benefit Category: Other
+        Codes: 1C3B 
+        Participants: 124
+        Assets: 26630113
+        $/Participant: 214758
+        Service Providers:
+           - CITI PRIVATE BANK :  (Investment advisory(plan))
+           - FIRST STATE TRUST COMPANY :  (Trustee(bank, trust company, or similar))

@@ -1,33 +1,9 @@
 NC : CHARLOTTE
   ARROWOOD INDEMNITY COMPANY  135358230
-   [741]
-    2022: THE FORMER EMPLOYEE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
-        Participants: 138
-    2021: THE FORMER EMPLOYEE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
-        Participants: 587
-    2020: THE FORMER EMPLOYEE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
-        Participants: 602
-    2019: THE FORMER EMPLOYEE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
-        Participants: 1526
-    2018: THE FORMER EMPLOYEE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
-        Participants: 1709
-    2017: THE FORMER EMPLOYEE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
-        Participants: 1807
-   [501]
-    2022: THE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
-        Participants: 105
-    2021: THE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
-        Participants: 116
-    2020: THE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
-        Participants: 121
-    2019: THE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
-        Participants: 130
-    2018: THE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
-        Participants: 133
-    2017: THE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
-        Participants: 147
    [004]
     2022: THE 401(K) PLAN OF ARROWOOD INDEMNITY COMPANY
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3H 
         Participants: 617
         Assets: 158550023
         $/Participant: 256969
@@ -36,6 +12,8 @@ NC : CHARLOTTE
            - STATE STREET BANK AND TRUST COMPANY
                  : STATE STREET S&P MIDCAP INDEX NL SE
     2021: THE 401(K) PLAN OF ARROWOOD INDEMNITY COMPANY
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3H 
         Participants: 661
         Assets: 200081348
         $/Participant: 302694
@@ -44,6 +22,8 @@ NC : CHARLOTTE
            - STATE STREET BANK AND TRUST COMPANY
                  : STATE STREET S&P MIDCAP INDEX NL SE
     2020: THE 401(K) PLAN OF ARROWOOD INDEMNITY COMPANY
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3H3F 
         Participants: 711
         Assets: 185509780
         $/Participant: 260913
@@ -52,6 +32,8 @@ NC : CHARLOTTE
            - STATE STREET BANK AND TRUST COMPANY
                  : STATE STREET S&P MIDCAP INDEX NL SE
     2019: THE 401(K) PLAN OF ARROWOOD INDEMNITY COMPANY
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3H3F 
         Participants: 758
         Assets: 170602025
         $/Participant: 225068
@@ -60,6 +42,8 @@ NC : CHARLOTTE
            - STATE STREET BANK AND TRUST COMPANY
                  : STATE STREET S&P MIDCAP INDEX NON-L
     2018: THE 401(K) PLAN OF ARROWOOD INDEMNITY COMPANY
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3H3F 
         Participants: 803
         Assets: 148739841
         $/Participant: 185230
@@ -68,6 +52,8 @@ NC : CHARLOTTE
            - STATE STREET BANK AND TRUST COMPANY
                  : STATE STREET S&P MIDCAP INDEX NON-L
     2017: THE 401(K) PLAN OF ARROWOOD INDEMNITY COMPANY
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3H3F 
         Participants: 866
         Assets: 161659256
         $/Participant: 186673
@@ -75,3 +61,59 @@ NC : CHARLOTTE
         Available Investments:
            - STATE STREET BANK AND TRUST COMPANY
                  : STATE STREET S&P MIDCAP INDEX NON-L
+   [501]
+    2022: THE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 105
+    2021: THE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 116
+    2020: THE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 121
+    2019: THE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 130
+    2018: THE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 133
+    2017: THE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 147
+   [741]
+    2022: THE FORMER EMPLOYEE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 138
+    2021: THE FORMER EMPLOYEE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 587
+    2020: THE FORMER EMPLOYEE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 602
+    2019: THE FORMER EMPLOYEE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 1526
+    2018: THE FORMER EMPLOYEE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 1709
+    2017: THE FORMER EMPLOYEE HEALTH & WELFARE BENEFIT PLAN OF ARROWOOD INDEMNITY COMPANY
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 1807

@@ -1,72 +1,9 @@
 IL : ROCK ISLAND
   ROYAL NEIGHBORS OF AMERICA  361711198
-   [508]
-    2022: ROYAL NEIGHBORS OF AMERICA-GROUP TERM DISABILITY-STD INSURANCE PLAN
-        Participants: 126
-    2021: ROYAL NEIGHBORS OF AMERICA-GROUP TERM DISABILITY-STD INSURANCE PLAN
-        Participants: 112
-    2020: ROYAL NEIGHBORS OF AMERICA-GROUP TERM DISABILITY-STD INSURANCE PLAN
-        Participants: 132
-    2019: ROYAL NEIGHBORS OF AMERICA-GROUP TERM DISABILITY-STD INSURANCE PLAN
-        Participants: 110
-    2018: ROYAL NEIGHBORS OF AMERICA-GROUP TERM DISABILITY-STD INSURANCE PLAN
-        Participants: 117
-    2017: ROYAL NEIGHBORS OF AMERICA- GROUP TERM DISABILITY- STD INSURANCE PLAN
-        Participants: 136
-   [507]
-    2022: ROYAL NEIGHBORS OF AMERICA-GROUP TERM DISABILITY-LTD INSURANCE PLAN
-        Participants: 134
-    2021: ROYAL NEIGHBORS OF AMERICA-GROUP TERM DISABILITY-LTD INSURANCE PLAN
-        Participants: 126
-    2020: ROYAL NEIGHBORS OF AMERICA-GROUP TERM DISABILITY-LTD INSURANCE PLAN
-        Participants: 124
-    2019: ROYAL NEIGHBORS OF AMERICA-GROUP TERM DISABILITY-LTD INSURANCE PLAN
-        Participants: 123
-    2018: ROYAL NEIGHBORS OF AMERICA-GROUP TERM DISABILITY-LTD INSURANCE PLAN
-        Participants: 125
-    2017: ROYAL NEIGHBORS OF AMERICA- GROUP TERM DISABILITY- LTD INSURANCE PLAN
-        Participants: 131
-   [503]
-    2022: ROYAL NEIGHBORS OF AMERICA-GROUP TERM LIFE INSURANCE-FOR NATIONAL HEADQUARTERS EMPLOYEES
-        Participants: 289
-    2021: ROYAL NEIGHBORS OF AMERICA-GROUP TERM LIFE INSURANCE-FOR NATIONAL HEADQUARTERS EMPLOYEES
-        Participants: 291
-    2020: ROYAL NEIGHBORS OF AMERICA-GROUP TERM LIFE INSURANCE-FOR NATIONAL HEADQUARTERS EMPLOYEES
-        Participants: 310
-    2019: ROYAL NEIGHBORS OF AMERICA-GROUP TERM LIFE INSURANCE-FOR NATIONAL HEADQUARTERS EMPLOYEES
-        Participants: 295
-    2018: ROYAL NEIGHBORS OF AMERICA-GROUP TERM LIFE INSURANCE-FOR NATIONAL HEADQUARTERS EMPLOYEES
-        Participants: 301
-    2017: ROYAL NEIGHBORS OF AMERICA- GROUP TERM LIFE INSURANCE-FOR NATIONAL HEADQUARTERS EMPLOYEES
-        Participants: 316
-   [502]
-    2022: ROYAL NEIGHBORS OF AMERICA-COMPREHENSIVE MAJOR MEDICAL
-        Participants: 114
-    2021: ROYAL NEIGHBORS OF AMERICA-COMPREHENSIVE MAJOR MEDICAL
-        Participants: 116
-    2020: ROYAL NEIGHBORS OF AMERICA-COMPREHENSIVE MAJOR MEDICAL
-        Participants: 114
-    2019: ROYAL NEIGHBORS OF AMERICA-COMPREHENSIVE MAJOR MEDICAL
-        Participants: 118
-    2018: ROYAL NEIGHBORS OF AMERICA-COMPREHENSIVE MAJOR MEDICAL
-        Participants: 120
-    2017: ROYAL NEIGHBORS OF AMERICA- COMPREHENSIVE MAJOR MEDICAL
-        Participants: 119
-   [501]
-    2022: ROYAL NEIGHBORS OF AMERICA-TRAVEL AND ACCIDENT PLAN
-        Participants: 143
-    2021: ROYAL NEIGHBORS OF AMERICA-TRAVEL AND ACCIDENT PLAN
-        Participants: 141
-    2020: ROYAL NEIGHBORS OF AMERICA-TRAVEL AND ACCIDENT PLAN
-        Participants: 131
-    2019: ROYAL NEIGHBORS OF AMERICA-TRAVEL AND ACCIDENT PLAN
-        Participants: 132
-    2018: ROYAL NEIGHBORS OF AMERICA-TRAVEL AND ACCIDENT PLAN
-        Participants: 131
-    2017: ROYAL NEIGHBORS OF AMERICA- TRAVEL AND ACCIDENT PLAN
-        Participants: 136
    [005]
     2022: ROYAL NEIGHBORS OF AMERICA 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 203
         Assets: 24712028
         $/Participant: 121734
@@ -85,6 +22,8 @@ IL : ROCK ISLAND
            - RELIANCE TRUST COMPANY
                  : REL TRUST NYL ANCH ACCT SER 1
     2021: ROYAL NEIGHBORS OF AMERICA 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 201
         Assets: 28896584
         $/Participant: 143764
@@ -103,6 +42,8 @@ IL : ROCK ISLAND
            - RELIANCE TRUST COMPANY
                  : REL TRUST NYL ANCH ACCT SER 1
     2020: ROYAL NEIGHBORS OF AMERICA 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 194
         Assets: 24149582
         $/Participant: 124482
@@ -120,6 +61,8 @@ IL : ROCK ISLAND
            - RELIANCE TRUST COMPANY
                  : REL TRUST NYL ANCH ACCT SER 1
     2019: ROYAL NEIGHBORS OF AMERICA 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 189
         Assets: 19959378
         $/Participant: 105605
@@ -137,6 +80,8 @@ IL : ROCK ISLAND
            - RELIANCE TRUST COMPANY
                  : REL TRUST NYL ANCH ACCT SER 1
     2018: ROYAL NEIGHBORS OF AMERICA 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 183
         Assets: 15242372
         $/Participant: 83291
@@ -173,6 +118,8 @@ IL : ROCK ISLAND
            - RELIANCE TRUST COMPANY
                  : REL TRUST NYL ANCH ACCT SER 1
     2017: ROYAL NEIGHBORS OF AMERICA 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 187
         Assets: 16946295
         $/Participant: 90621
@@ -207,8 +154,135 @@ IL : ROCK ISLAND
                  : PRIN SMCAP S&P 600 INDEX SA-R6
                  : PRIN U.S. PROPERTY SEP ACCT-R6
                  : PRINCIPAL SMALLCAP SEP ACCT-R6
+   [502]
+    2022: ROYAL NEIGHBORS OF AMERICA-COMPREHENSIVE MAJOR MEDICAL
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4F
+        Participants: 114
+    2021: ROYAL NEIGHBORS OF AMERICA-COMPREHENSIVE MAJOR MEDICAL
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4F
+        Participants: 116
+    2020: ROYAL NEIGHBORS OF AMERICA-COMPREHENSIVE MAJOR MEDICAL
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4F
+        Participants: 114
+    2019: ROYAL NEIGHBORS OF AMERICA-COMPREHENSIVE MAJOR MEDICAL
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4F
+        Participants: 118
+    2018: ROYAL NEIGHBORS OF AMERICA-COMPREHENSIVE MAJOR MEDICAL
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4F
+        Participants: 120
+    2017: ROYAL NEIGHBORS OF AMERICA- COMPREHENSIVE MAJOR MEDICAL
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4F
+        Participants: 119
+   [501]
+    2022: ROYAL NEIGHBORS OF AMERICA-TRAVEL AND ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 143
+    2021: ROYAL NEIGHBORS OF AMERICA-TRAVEL AND ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 141
+    2020: ROYAL NEIGHBORS OF AMERICA-TRAVEL AND ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 131
+    2019: ROYAL NEIGHBORS OF AMERICA-TRAVEL AND ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 132
+    2018: ROYAL NEIGHBORS OF AMERICA-TRAVEL AND ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 131
+    2017: ROYAL NEIGHBORS OF AMERICA- TRAVEL AND ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 136
+   [503]
+    2022: ROYAL NEIGHBORS OF AMERICA-GROUP TERM LIFE INSURANCE-FOR NATIONAL HEADQUARTERS EMPLOYEES
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 289
+    2021: ROYAL NEIGHBORS OF AMERICA-GROUP TERM LIFE INSURANCE-FOR NATIONAL HEADQUARTERS EMPLOYEES
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 291
+    2020: ROYAL NEIGHBORS OF AMERICA-GROUP TERM LIFE INSURANCE-FOR NATIONAL HEADQUARTERS EMPLOYEES
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 310
+    2019: ROYAL NEIGHBORS OF AMERICA-GROUP TERM LIFE INSURANCE-FOR NATIONAL HEADQUARTERS EMPLOYEES
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 295
+    2018: ROYAL NEIGHBORS OF AMERICA-GROUP TERM LIFE INSURANCE-FOR NATIONAL HEADQUARTERS EMPLOYEES
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 301
+    2017: ROYAL NEIGHBORS OF AMERICA- GROUP TERM LIFE INSURANCE-FOR NATIONAL HEADQUARTERS EMPLOYEES
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 316
+   [507]
+    2022: ROYAL NEIGHBORS OF AMERICA-GROUP TERM DISABILITY-LTD INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 134
+    2021: ROYAL NEIGHBORS OF AMERICA-GROUP TERM DISABILITY-LTD INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 126
+    2020: ROYAL NEIGHBORS OF AMERICA-GROUP TERM DISABILITY-LTD INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 124
+    2019: ROYAL NEIGHBORS OF AMERICA-GROUP TERM DISABILITY-LTD INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 123
+    2018: ROYAL NEIGHBORS OF AMERICA-GROUP TERM DISABILITY-LTD INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 125
+    2017: ROYAL NEIGHBORS OF AMERICA- GROUP TERM DISABILITY- LTD INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 131
+   [508]
+    2022: ROYAL NEIGHBORS OF AMERICA-GROUP TERM DISABILITY-STD INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 126
+    2021: ROYAL NEIGHBORS OF AMERICA-GROUP TERM DISABILITY-STD INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 112
+    2020: ROYAL NEIGHBORS OF AMERICA-GROUP TERM DISABILITY-STD INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 132
+    2019: ROYAL NEIGHBORS OF AMERICA-GROUP TERM DISABILITY-STD INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 110
+    2018: ROYAL NEIGHBORS OF AMERICA-GROUP TERM DISABILITY-STD INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 117
+    2017: ROYAL NEIGHBORS OF AMERICA- GROUP TERM DISABILITY- STD INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 136
    [001]
     2022: ROYAL NEIGHBORS OF AMERICA MERGED RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 326
         Assets: 67698271
         $/Participant: 207663
@@ -225,6 +299,8 @@ IL : ROCK ISLAND
            - MASSACHUSETTS MUTUAL LIFE INSURANCE
                  : SIA-G
     2021: ROYAL NEIGHBORS OF AMERICA MERGED RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 338
         Assets: 90171446
         $/Participant: 266779
@@ -241,6 +317,8 @@ IL : ROCK ISLAND
            - MASSACHUSETTS MUTUAL LIFE INSURANCE
                  : SIA-G
     2020: ROYAL NEIGHBORS OF AMERICA MERGED RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 350
         Assets: 90597535
         $/Participant: 258850
@@ -257,6 +335,8 @@ IL : ROCK ISLAND
            - MASSACHUSETTS MUTUAL LIFE INSURANCE
                  : SIA-G
     2019: ROYAL NEIGHBORS OF AMERICA MERGED RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 359
         Assets: 81229924
         $/Participant: 226267
@@ -272,6 +352,8 @@ IL : ROCK ISLAND
            - MASSACHUSETTS MUTUAL LIFE INSURANCE
                  : SIA-G
     2018: ROYAL NEIGHBORS OF AMERICA MERGED RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 374
         Assets: 67595704
         $/Participant: 180737
@@ -296,6 +378,8 @@ IL : ROCK ISLAND
                  : SIA-WF
                  : SIA-Y6
     2017: ROYAL NEIGHBORS OF AMERICA MERGED RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 383
         Assets: 74265143
         $/Participant: 193903

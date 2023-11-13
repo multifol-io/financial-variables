@@ -1,51 +1,9 @@
 DC : WASHINGTON
   AMERICAN CHEMICAL SOCIETY  530196572
-   [503]
-    2022: AMERICAN CHEMICAL SOCIETY WELFARE BENEFIT PLAN
-        Participants: 
-    2021: AMERICAN CHEMICAL SOCIETY WELFARE BENEFIT PLAN
-        Participants: 
-    2020: AMERICAN CHEMICAL SOCIETY WELFARE BENEFIT PLAN
-        Participants: 
-    2019: AMERICAN CHEMICAL SOCIETY WELFARE BENEFIT PLAN
-        Participants: 
-    2018: AMERICAN CHEMICAL SOCIETY WELFARE BENEFIT PLAN
-        Participants: 
-    2017: AMERICAN CHEMICAL SOCIETY WELFARE BENEFIT PLAN
-        Participants: 
-   [003]
-    2022: AMERICAN CHEMICAL SOCIETY ERISA 403(B) PLAN
-        Participants: 2502
-        Assets: 321157863
-        $/Participant: 128360
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2021: AMERICAN CHEMICAL SOCIETY ERISA 403(B) PLAN
-        Participants: 2491
-        Assets: 382045104
-        $/Participant: 153370
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2020: AMERICAN CHEMICAL SOCIETY ERISA 403(B) PLAN
-        Participants: 2606
-        Assets: 339645961
-        $/Participant: 130332
-        RecordKeeper: FIDELITY INV INSTL OPER CO, INC
-    2019: AMERICAN CHEMICAL SOCIETY ERISA 403(B) PLAN
-        Participants: 2652
-        Assets: 291519032
-        $/Participant: 109924
-        RecordKeeper: FIDELITY INV INSTL OPER CO, INC
-    2018: AMERICAN CHEMICAL SOCIETY ERISA 403(B) PLAN
-        Participants: 2469
-        Assets: 237818472
-        $/Participant: 96321
-        RecordKeeper: FIDELITY INV INSTL OPER CO, INC
-    2017: AMERICAN CHEMICAL SOCIETY ERISA 403(B) PLN
-        Participants: 2395
-        Assets: 253650253
-        $/Participant: 105908
-        RecordKeeper: FIDELITY INV INSTL OPER CO, INC
    [002]
     2022: AMERICAN CHEMICAL SOCIETY DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2T2E2F2G2J2K2S 
         Participants: 2351
         Assets: 288779858
         $/Participant: 122832
@@ -54,6 +12,8 @@ DC : WASHINGTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
     2021: AMERICAN CHEMICAL SOCIETY DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2T2E2F2G2J2K2S 
         Participants: 2341
         Assets: 345228206
         $/Participant: 147470
@@ -61,7 +21,50 @@ DC : WASHINGTON
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
+   [003]
+    2022: AMERICAN CHEMICAL SOCIETY ERISA 403(B) PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2E2T2M 
+        Participants: 2502
+        Assets: 321157863
+        $/Participant: 128360
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2021: AMERICAN CHEMICAL SOCIETY ERISA 403(B) PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2E2T2M 
+        Participants: 2491
+        Assets: 382045104
+        $/Participant: 153370
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+   [503]
+    2022: AMERICAN CHEMICAL SOCIETY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2021: AMERICAN CHEMICAL SOCIETY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2020: AMERICAN CHEMICAL SOCIETY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2019: AMERICAN CHEMICAL SOCIETY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: AMERICAN CHEMICAL SOCIETY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: AMERICAN CHEMICAL SOCIETY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+   [002]
     2020: AMERICAN CHEMICAL SOCIETY DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2G2K2S2T 
         Participants: 2332
         Assets: 300606311
         $/Participant: 128904
@@ -70,6 +73,8 @@ DC : WASHINGTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGED INCOME PORTFOLIO
     2019: AMERICAN CHEMICAL SOCIETY DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2G2K2S2T 
         Participants: 2377
         Assets: 256089829
         $/Participant: 107736
@@ -78,6 +83,8 @@ DC : WASHINGTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGED INCOME PORTFOLIO
     2018: AMERICAN CHEMICAL SOCIETY DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2G2K2S2T 
         Participants: 2400
         Assets: 207103561
         $/Participant: 86293
@@ -86,6 +93,8 @@ DC : WASHINGTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGED INCOME PORTFOLIO
     2017: AMERICAN CHEMICAL SOCIETY DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2G2K2S2T 
         Participants: 2359
         Assets: 215840795
         $/Participant: 91496
@@ -93,8 +102,39 @@ DC : WASHINGTON
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGED INCOME PORTFOLIO
+   [003]
+    2020: AMERICAN CHEMICAL SOCIETY ERISA 403(B) PLAN
+        Benefit Category: Other
+        Codes: 2G2M2S2T 
+        Participants: 2606
+        Assets: 339645961
+        $/Participant: 130332
+        RecordKeeper: FIDELITY INV INSTL OPER CO, INC
+    2019: AMERICAN CHEMICAL SOCIETY ERISA 403(B) PLAN
+        Benefit Category: Other
+        Codes: 2G2M2S2T 
+        Participants: 2652
+        Assets: 291519032
+        $/Participant: 109924
+        RecordKeeper: FIDELITY INV INSTL OPER CO, INC
+    2018: AMERICAN CHEMICAL SOCIETY ERISA 403(B) PLAN
+        Benefit Category: Other
+        Codes: 2G2M2S2T 
+        Participants: 2469
+        Assets: 237818472
+        $/Participant: 96321
+        RecordKeeper: FIDELITY INV INSTL OPER CO, INC
+    2017: AMERICAN CHEMICAL SOCIETY ERISA 403(B) PLN
+        Benefit Category: Other
+        Codes: 2G2M2S2T 
+        Participants: 2395
+        Assets: 253650253
+        $/Participant: 105908
+        RecordKeeper: FIDELITY INV INSTL OPER CO, INC
    [001]
     2021: AMERICAN CHEMICAL SOCIETY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I 
         Participants: 2537
         Assets: 545898073
         $/Participant: 215174
@@ -113,6 +153,8 @@ DC : WASHINGTON
            - THE BANK OF NEW YORK MELLON
                  : EB TEMPORARY INVESTMENT FUND
     2020: AMERICAN CHEMICAL SOCIETY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I 
         Participants: 2586
         Assets: 787031968
         $/Participant: 304343
@@ -132,6 +174,8 @@ DC : WASHINGTON
            - THE BANK OF NEW YORK MELLON
                  : EB TEMPORARY INVESTMENT FUND
     2019: AMERICAN CHEMICAL SOCIETY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I 
         Participants: 2648
         Assets: 772506549
         $/Participant: 291732
@@ -151,6 +195,8 @@ DC : WASHINGTON
            - THE BANK OF NEW YORK MELLON
                  : EB TEMPORARY INVESTMENT FUND
     2018: AMERICAN CHEMICAL SOCIETY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I 
         Participants: 2688
         Assets: 863387064
         $/Participant: 321200
@@ -170,6 +216,8 @@ DC : WASHINGTON
            - THE BANK OF NEW YORK MELLON
                  : EB TEMPORARY INVESTMENT FUND
     2017: AMERICAN CHEMICAL SOCIETY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I 
         Participants: 2723
         Assets: 650567365
         $/Participant: 238915

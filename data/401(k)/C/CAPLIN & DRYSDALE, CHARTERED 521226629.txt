@@ -1,44 +1,8 @@
 DC : WASHINGTON
   CAPLIN & DRYSDALE, CHARTERED  521226629
-   [501]
-    2021: CAPLIN & DRYSDALE, CHARTERED HEALTH & WELFARE PLAN
-        Participants: 
-    2020: CAPLIN & DRYSDALE, CHARTERED HEALTH & WELFARE PLAN
-        Participants: 
-    2019: CAPLIN & DRYSDALE, CHARTERED HEALTH & WELFARE PLAN
-        Participants: 
-    2018: CAPLIN & DRYSDALE, CHARTERED HEALTH & WELFARE PLAN
-        Participants: 
-    2017: CAPLIN & DRYSDALE, CHARTERED HEALTH & WELFARE PLAN
-        Participants: 
-   [002]
-    2021: CAPLIN & DRYSDALE, CHARTERED RETIREMENT PLAN AND TRUST SINGLE PLAN B
-        Participants: 60
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC RETIREMENT SAVINGS TRUST III
-    2020: CAPLIN & DRYSDALE, CHARTERED RETIREMENT PLAN AND TRUST SINGLE PLAN B
-        Participants: 48
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC RETIREMENT SAVINGS TRUST III
-    2019: CAPLIN & DRYSDALE, CHARTERED RETIREMENT PLAN AND TRUST SINGLE PLAN B
-        Participants: 47
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VANGUARD RETIREMENT SAVGS TRUST III
-    2018: CAPLIN & DRYSDALE, CHARTERED RETIREMENT PLAN AND TRUST SINGLE PLAN B
-        Participants: 42
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VANGUARD RETIREMENT SAVGS TRUST III
-    2017: CAPLIN & DRYSDALE, CHARTERED RETIREMENT PLAN AND TRUST SINGLE PLAN B
-        Participants: 46
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VANGUARD RETIREMENT SAVINGS TRUST
-   [001]
     2021: CAPLIN & DRYSDALE, CHARTERED RETIREMENT PLAN AND TRUST SINGLE PLAN A
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R 
         Participants: 79
         Assets: 64601411
         $/Participant: 817739
@@ -46,6 +10,8 @@ DC : WASHINGTON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2020: CAPLIN & DRYSDALE, CHARTERED RETIREMENT PLAN AND TRUST SINGLE PLAN A
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R 
         Participants: 90
         Assets: 76552932
         $/Participant: 850588
@@ -53,6 +19,8 @@ DC : WASHINGTON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2019: CAPLIN & DRYSDALE, CHARTERED RETIREMENT PLAN AND TRUST SINGLE PLAN A
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R 
         Participants: 100
         Assets: 72881928
         $/Participant: 728819
@@ -62,6 +30,8 @@ DC : WASHINGTON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVGS TRUST III
     2018: CAPLIN & DRYSDALE, CHARTERED RETIREMENT PLAN AND TRUST SINGLE PLAN A
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R 
         Participants: 105
         Assets: 67624553
         $/Participant: 644043
@@ -72,6 +42,8 @@ DC : WASHINGTON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVGS TRUST III
     2017: CAPLIN & DRYSDALE, CHARTERED RETIREMENT PLAN AND TRUST SINGLE PLAN A
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R 
         Participants: 103
         Assets: 69648245
         $/Participant: 676196
@@ -81,3 +53,60 @@ DC : WASHINGTON
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
+   [002]
+    2021: CAPLIN & DRYSDALE, CHARTERED RETIREMENT PLAN AND TRUST SINGLE PLAN B
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J 
+        Participants: 60
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC RETIREMENT SAVINGS TRUST III
+    2020: CAPLIN & DRYSDALE, CHARTERED RETIREMENT PLAN AND TRUST SINGLE PLAN B
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J 
+        Participants: 48
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC RETIREMENT SAVINGS TRUST III
+    2019: CAPLIN & DRYSDALE, CHARTERED RETIREMENT PLAN AND TRUST SINGLE PLAN B
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J 
+        Participants: 47
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VANGUARD RETIREMENT SAVGS TRUST III
+    2018: CAPLIN & DRYSDALE, CHARTERED RETIREMENT PLAN AND TRUST SINGLE PLAN B
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J 
+        Participants: 42
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VANGUARD RETIREMENT SAVGS TRUST III
+    2017: CAPLIN & DRYSDALE, CHARTERED RETIREMENT PLAN AND TRUST SINGLE PLAN B
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J 
+        Participants: 46
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VANGUARD RETIREMENT SAVINGS TRUST
+   [501]
+    2021: CAPLIN & DRYSDALE, CHARTERED HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4H4D4E4R
+        Participants: 
+    2020: CAPLIN & DRYSDALE, CHARTERED HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4H4D4E
+        Participants: 
+    2019: CAPLIN & DRYSDALE, CHARTERED HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4H4D4E
+        Participants: 
+    2018: CAPLIN & DRYSDALE, CHARTERED HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4H4D4E
+        Participants: 
+    2017: CAPLIN & DRYSDALE, CHARTERED HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4H4D4E
+        Participants: 

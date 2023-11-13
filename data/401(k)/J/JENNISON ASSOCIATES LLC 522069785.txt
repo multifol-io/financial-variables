@@ -1,55 +1,9 @@
 NY : NEW YORK
   JENNISON ASSOCIATES LLC  522069785
-   [502]
-    2022: THE JENNISON ASSOCIATES LLC RETIREE WELFARE BENEFIT PLAN
-        Participants: 
-        Assets: 43442176
-        $/Participant: 
-    2021: THE JENNISON ASSOCIATES LLC RETIREE WELFARE BENEFIT PLAN
-        Participants: 
-        Assets: 49558063
-        $/Participant: 
-    2020: THE JENNISON ASSOCIATES LLC RETIREE WELFARE BENEFIT PLAN
-        Participants: 
-        Assets: 45456268
-        $/Participant: 
-    2019: THE JENNISON ASSOCIATES LLC RETIREE WELFARE BENEFIT PLAN
-        Participants: 23
-        Assets: 42007741
-        $/Participant: 1826423
-    2018: THE JENNISON ASSOCIATES LLC RETIREE WELFARE BENEFIT PLAN
-        Participants: 21
-        Assets: 37422828
-        $/Participant: 1782039
-   [501]
-    2022: THE JENNISON ASSOCIATES LLC WELFARE BENEFIT PLAN
-        Participants: 383
-        Service Providers:
-           - NAVIA BENEFIT SOLUTIONS, INC : NA (Claims processing)
-    2021: THE JENNISON ASSOCIATES LLC WELFARE BENEFIT PLAN
-        Participants: 384
-        Service Providers:
-           - BUSINESS PLANS, INC : NA (Claims processing)
-    2020: THE JENNISON ASSOCIATES LLC WELFARE BENEFIT PLAN
-        Participants: 359
-        Service Providers:
-           - BUSINESS PLANS INC : N/A (Claims processing)
-    2019: THE JENNISON ASSOCIATES LLC WELFARE BENEFIT PLAN
-        Participants: 355
-        Service Providers:
-           - BUSINESSPLANS, INC. : N/A (Claims processing)
-    2018: THE JENNISON ASSOCIATES LLC WELFARE BENEFIT PLAN
-        Participants: 355
-        Service Providers:
-           - BUSINESSPLANS, INC. : CLAIMS PROCESSING (Claims processing)
-    2017: THE JENNISON ASSOCIATES LLC WELFARE BENEFIT PLAN
-        Participants: 
-        Assets: 8144836
-        $/Participant: 
-        Service Providers:
-           - BUSINESSPLANS, INC. : CLAIMS PROCESSING (Claims processing)
    [006]
     2022: JENNISON ASSOCIATES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2K3H2J2T 
         Participants: 609
         Assets: 358829057
         $/Participant: 589210
@@ -64,6 +18,8 @@ NY : NEW YORK
            - PRUDENTIAL RETIREMENT INS.
                  : PRU DAY ONE IFX TARG BAL
     2021: JENNISON ASSOCIATES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2K3H2J2T 
         Participants: 577
         Assets: 449574168
         $/Participant: 779158
@@ -72,6 +28,8 @@ NY : NEW YORK
            - PRUDENTIAL RETIREMENT INS.
                  : PRU DAY ONE IFX TARG BAL
     2020: JENNISON ASSOCIATES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2K3H2J2T 
         Participants: 547
         Assets: 398138307
         $/Participant: 727857
@@ -83,6 +41,8 @@ NY : NEW YORK
            - PRUDENTIAL RETIREMENT INS.
                  : PRU DAY ONE IFX TARG BAL
     2019: JENNISON ASSOCIATES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2K3H2J2T 
         Participants: 548
         Assets: 315113686
         $/Participant: 575024
@@ -91,6 +51,8 @@ NY : NEW YORK
            - PRUDENTIAL RETIREMENT INS.
                  : PRU DAY ONE IFX TARG BAL
     2018: JENNISON ASSOCIATES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2K3H2J2T 
         Participants: 532
         Assets: 251172620
         $/Participant: 472128
@@ -99,6 +61,8 @@ NY : NEW YORK
            - PRUDENTIAL RETIREMENT INS.
                  : PRU DAY ONE IFX TARG BAL
     2017: JENNISON ASSOCIATES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2K3H2J2T 
         Participants: 514
         Assets: 260027014
         $/Participant: 505889
@@ -107,3 +71,73 @@ NY : NEW YORK
            - PRUDENTIAL RETIREMENT INS.
                  : EMERGING MRKTS EQUITY/QMA
                  : PRU DAY ONE IFX TARG BAL
+   [501]
+    2022: THE JENNISON ASSOCIATES LLC WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 383
+        Service Providers:
+           - NAVIA BENEFIT SOLUTIONS, INC : NA (Claims processing)
+    2021: THE JENNISON ASSOCIATES LLC WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 384
+        Service Providers:
+           - BUSINESS PLANS, INC : NA (Claims processing)
+    2020: THE JENNISON ASSOCIATES LLC WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 359
+        Service Providers:
+           - BUSINESS PLANS INC : N/A (Claims processing)
+    2019: THE JENNISON ASSOCIATES LLC WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 355
+        Service Providers:
+           - BUSINESSPLANS, INC. : N/A (Claims processing)
+    2018: THE JENNISON ASSOCIATES LLC WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 355
+        Service Providers:
+           - BUSINESSPLANS, INC. : CLAIMS PROCESSING (Claims processing)
+    2017: THE JENNISON ASSOCIATES LLC WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+        Assets: 8144836
+        $/Participant: 
+        Service Providers:
+           - BUSINESSPLANS, INC. : CLAIMS PROCESSING (Claims processing)
+   [502]
+    2022: THE JENNISON ASSOCIATES LLC RETIREE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Assets: 43442176
+        $/Participant: 
+    2021: THE JENNISON ASSOCIATES LLC RETIREE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Assets: 49558063
+        $/Participant: 
+    2020: THE JENNISON ASSOCIATES LLC RETIREE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Assets: 45456268
+        $/Participant: 
+    2019: THE JENNISON ASSOCIATES LLC RETIREE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 23
+        Assets: 42007741
+        $/Participant: 1826423
+    2018: THE JENNISON ASSOCIATES LLC RETIREE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 21
+        Assets: 37422828
+        $/Participant: 1782039

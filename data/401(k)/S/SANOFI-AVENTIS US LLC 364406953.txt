@@ -1,27 +1,9 @@
 NJ : BRIDGEWATER
-  SANOFI-AVENTIS U.S. LLC  364406953
-   [504]
-    2022: SANOFI US SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
-        Participants: 
-    2021: SANOFI US SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
-        Participants: 
-    2020: SANOFI US SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
-        Participants: 
-   [501]
-    2022: SANOFI-AVENTIS U.S. LLC GROUP HEALTH & WELFARE PLAN
-        Participants: 
-    2021: SANOFI-AVENTIS U.S. LLC GROUP HEALTH & WELFARE PLAN
-        Participants: 
-    2020: SANOFI-AVENTIS U.S. LLC GROUP HEALTH & WELFARE PLAN
-        Participants: 
-    2019: SANOFI-AVENTIS U.S. LLC GROUP HEALTH & WELFARE PLAN
-        Participants: 
-    2018: SANOFI-AVENTIS U.S. LLC GROUP HEALTH & WELFARE PLAN
-        Participants: 
-    2017: SANOFI-AVENTIS U.S. LLC GROUP HEALTH & WELFARE PLAN
-        Participants: 
+  SANOFI-AVENTIS US LLC  364406953
    [005]
     2022: SANOFI U.S. GROUP SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2H2J2K2R3F3H 
         Participants: 27110
         Assets: 6831033842
         $/Participant: 251974
@@ -30,6 +12,8 @@ NJ : BRIDGEWATER
            - SANOFI-AVENTIS US LLC
                  : SANOFI US GROUP SAVINGS MASTER TRST
     2021: SANOFI U.S. GROUP SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2H2J2K2R3F3H 
         Participants: 26282
         Assets: 7987382774
         $/Participant: 303910
@@ -38,6 +22,8 @@ NJ : BRIDGEWATER
            - SANOFI-AVENTIS US LLC
                  : SANOFI US GROUP SAVINGS MASTER TRST
     2020: SANOFI U.S. GROUP SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2H2J2K2R3F3H 
         Participants: 25539
         Assets: 7263345098
         $/Participant: 284402
@@ -46,6 +32,8 @@ NJ : BRIDGEWATER
            - SANOFI-AVENTIS US LLC
                  : SANOFI US GROUP SAVINGS MASTER TRST
     2019: SANOFI U.S. GROUP SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2H2J2K2R3F3H 
         Participants: 25243
         Assets: 6456378235
         $/Participant: 255769
@@ -54,6 +42,8 @@ NJ : BRIDGEWATER
            - SANOFI-AVENTIS US LLC
                  : SANOFI US GROUP SAVINGS MASTER TRST
     2018: SANOFI U.S. GROUP SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2H2J2K2R3F3H 
         Participants: 24855
         Assets: 5522861682
         $/Participant: 222203
@@ -62,6 +52,8 @@ NJ : BRIDGEWATER
            - SANOFI-AVENTIS US LLC
                  : SANOFI US GROUP SAVINGS MASTER TRST
     2017: SANOFI U.S. GROUP SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2H2J2K2R3F3H 
         Participants: 25133
         Assets: 6127534109
         $/Participant: 243804
@@ -69,8 +61,54 @@ NJ : BRIDGEWATER
         Available Investments:
            - SANOFI-AVENTIS US LLC
                  : SANOFI US GROUP SAVINGS MASTER TRST
+   [501]
+    2022: SANOFI-AVENTIS U.S. LLC GROUP HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2021: SANOFI-AVENTIS U.S. LLC GROUP HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2020: SANOFI-AVENTIS U.S. LLC GROUP HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2019: SANOFI-AVENTIS U.S. LLC GROUP HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2018: SANOFI-AVENTIS U.S. LLC GROUP HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2017: SANOFI-AVENTIS U.S. LLC GROUP HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+   [504]
+    2022: SANOFI US SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4C
+        Participants: 
+    2021: SANOFI US SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4C
+        Participants: 
+    2020: SANOFI US SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4C
+        Participants: 
    [003]
     2022: SANOFI US GROUP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E3H 
         Participants: 9293
         Assets: 717824514
         $/Participant: 77243
@@ -78,6 +116,8 @@ NJ : BRIDGEWATER
            - SANOFI-AVENTIS US LLC
                  : SANOFI-AVENTIS US PENSION TRUST
     2021: SANOFI US GROUP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E3H 
         Participants: 9683
         Assets: 1016368932
         $/Participant: 104964
@@ -85,6 +125,8 @@ NJ : BRIDGEWATER
            - SANOFI-AVENTIS US LLC
                  : SANOFI-AVENTIS US PENSION TRUST
     2020: SANOFI US GROUP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E3H 
         Participants: 9884
         Assets: 1049026602
         $/Participant: 106133
@@ -92,6 +134,8 @@ NJ : BRIDGEWATER
            - SANOFI-AVENTIS US LLC
                  : SANOFI-AVENTIS US PENSION TRUST
     2019: SANOFI US GROUP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E3H 
         Participants: 12919
         Assets: 1678750557
         $/Participant: 129944
@@ -99,6 +143,8 @@ NJ : BRIDGEWATER
            - SANOFI-AVENTIS US LLC
                  : SANOFI-AVENTIS US PENSION TRUST
     2018: SANOFI US GROUP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E3H 
         Participants: 13629
         Assets: 1548488925
         $/Participant: 113617
@@ -106,6 +152,8 @@ NJ : BRIDGEWATER
            - SANOFI-AVENTIS US LLC
                  : SANOFI-AVENTIS US PENSION TRUST
     2017: SANOFI US GROUP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E3H 
         Participants: 14212
         Assets: 1840458360
         $/Participant: 129500

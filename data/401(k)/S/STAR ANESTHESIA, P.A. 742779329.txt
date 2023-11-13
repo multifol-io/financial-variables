@@ -1,17 +1,9 @@
 TX : SAN ANTONIO
-  STAR ANESTHESIA  742779329
-    2019: STAR ANESTHESIA, P.A. HEALTH INSURANCE PLAN
-        Participants: 0
-    2018: STAR ANESTHESIA, P.A. HEALTH INSURANCE PLAN
-        Participants: 241
-        Assets: 510907
-        $/Participant: 2119
-    2017: STAR ANESTHESIA, P.A. HEALTH INSURANCE PLAN
-        Participants: 234
-        Assets: 416692
-        $/Participant: 1780
+  STAR ANESTHESIA, P.A.  742779329
    [001]
     2019: STAR ANESTHESIA, P.A. 401(K) PROFIT SHARING PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 136
         Assets: 23359886
         $/Participant: 171763
@@ -25,6 +17,8 @@ TX : SAN ANTONIO
            - CAPFINANCIAL PARTNERS LLC :  (Investment advisory(participants) | Direct payment from the plan)
            - SMITH ANGLIN FINANCIAL LLC :  (Investment advisory(participants) | Direct payment from the plan)
     2018: STAR ANESTHESIA, P.A. 401(K) PROFIT SHARING PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 377
         Assets: 106454515
         $/Participant: 282372
@@ -38,6 +32,8 @@ TX : SAN ANTONIO
            - CAPITAL ADVISORS INC :  (Investment advisory(participants) | Direct payment from the plan)
            - CHARLES SCHWAB BANK :  (Trustee(directed) | Other services | Direct payment from the plan | Investment management fees paid indirectly by plan | Float revenue)
     2017: STAR ANESTHESIA, P.A. 401(K) PROFIT SHARING PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 320
         Assets: 105176486
         $/Participant: 328676
@@ -48,3 +44,20 @@ TX : SAN ANTONIO
            - CHARLES SCHWAB & CO., INC. :  (Securities brokerage | Direct payment from the plan | Shareholder servicing fees | Float revenue | Securities brokerage commissions and fees)
            - EXENCIAL WEALTH ADVISORS LLC :  (Investment advisory(participants) | Direct payment from the plan)
            - CHARLES SCHWAB BANK :  (Trustee(directed) | Other services | Direct payment from the plan | Investment management fees paid indirectly by plan | Float revenue)
+   [501]
+    2019: STAR ANESTHESIA, P.A. HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q4F
+        Participants: 0
+    2018: STAR ANESTHESIA, P.A. HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q4F
+        Participants: 241
+        Assets: 510907
+        $/Participant: 2119
+    2017: STAR ANESTHESIA, P.A. HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q4F
+        Participants: 234
+        Assets: 416692
+        $/Participant: 1780

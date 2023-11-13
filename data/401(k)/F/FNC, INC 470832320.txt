@@ -1,23 +1,9 @@
 NE : OMAHA
   FNC, INC  470832320
-   [502]
-    2017: TRAVEL ACCIDENT INSURANCE PLAN
-        Participants: 
-   [501]
-    2022: FARMERS NATIONAL COMPANY INSURANCE PROGRAMS
-        Participants: 
-    2021: FARMERS NATIONAL COMPANY INSURANCE PROGRAMS
-        Participants: 
-    2020: FARMERS NATIONAL COMPANY INSURANCE PROGRAMS
-        Participants: 
-    2019: FARMERS NATIONAL COMPANY INSURANCE PROGRAMS
-        Participants: 
-    2018: FARMERS NATIONAL COMPANY INSURANCE PROGRAMS
-        Participants: 
-    2017: FARMERS NATIONAL COMPANY INSURANCE PROGRAMS
-        Participants: 
-   [001]
     2021: FNC, INC SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2H2J2K2O2Q2S2T3H 
         Participants: 361
         Assets: 170105510
         $/Participant: 471206
@@ -27,6 +13,9 @@ NE : OMAHA
            - T. ROWE PRICE
                  : T. ROWE PRICE STABLE VALUE COMMON T
     2020: FNC, INC SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2H2J2K2O2Q2S2T3H 
         Participants: 348
         Assets: 146077965
         $/Participant: 419764
@@ -36,6 +25,9 @@ NE : OMAHA
            - T. ROWE PRICE
                  : T. ROWE PRICE STABLE VALUE COMMON T
     2019: FNC, INC SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2H2J2K2O2Q2S2T3H 
         Participants: 363
         Assets: 124861169
         $/Participant: 343970
@@ -45,6 +37,9 @@ NE : OMAHA
            - T. ROWE PRICE
                  : T. ROWE PRICE STABLE VALUE COMMON T
     2018: FNC, INC SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2H2J2K2O2Q2S2T3H 
         Participants: 345
         Assets: 148106035
         $/Participant: 429292
@@ -56,6 +51,9 @@ NE : OMAHA
            - T. ROWE PRICE
                  : T. ROWE PRICE STABLE VALUE COMMON T
     2017: FNC, INC SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2H2J2K2O2Q2S2T3H 
         Participants: 330
         Assets: 139742916
         $/Participant: 423463
@@ -66,3 +64,33 @@ NE : OMAHA
         Available Investments:
            - FEDERATED INVESTORS TRUST COMPANY
                  : FEDERATED CAPITAL PRESERVATION FUND
+   [501]
+    2022: FARMERS NATIONAL COMPANY INSURANCE PROGRAMS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: FARMERS NATIONAL COMPANY INSURANCE PROGRAMS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: FARMERS NATIONAL COMPANY INSURANCE PROGRAMS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: FARMERS NATIONAL COMPANY INSURANCE PROGRAMS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: FARMERS NATIONAL COMPANY INSURANCE PROGRAMS
+        Benefit Category: Other
+        Codes:  4B4D4E4H4L4Q
+        Participants: 
+    2017: FARMERS NATIONAL COMPANY INSURANCE PROGRAMS
+        Benefit Category: Other
+        Codes:  4B4D4E4H4L4Q
+        Participants: 
+   [502]
+    2017: TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 

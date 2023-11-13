@@ -1,20 +1,9 @@
 IL : BLOOMINGTON
   STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY  370533100
-   [524]
-    2022: GROUP HEALTH AND WELFARE PLAN FOR UNITED STATES EMPLOYEES
-        Participants: 
-    2021: GROUP HEALTH AND WELFARE PLAN FOR UNITED STATES EMPLOYEES
-        Participants: 
-    2020: GROUP HEALTH AND WELFARE PLAN FOR UNITED STATES EMPLOYEES
-        Participants: 
-    2019: GROUP HEALTH AND WELFARE PLAN FOR UNITED STATES EMPLOYEES
-        Participants: 
-    2018: GROUP HEALTH AND WELFARE PLAN FOR UNITED STATES EMPLOYEES
-        Participants: 
-    2017: GROUP HEALTH AND WELFARE PLAN FOR UNITED STATES EMPLOYEES
-        Participants: 
    [002]
     2022: STATE FARM 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F3H 
         Participants: 96717
         Assets: 14651519685
         $/Participant: 151488
@@ -40,6 +29,8 @@ IL : BLOOMINGTON
                  : SAVINGS TRUST II
                  : TOTAL INTL STOCK MARKET INDEX TRUST
     2021: STATE FARM 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F3H 
         Participants: 90294
         Assets: 17844540697
         $/Participant: 197627
@@ -65,6 +56,8 @@ IL : BLOOMINGTON
                  : SAVINGS TRUST II
                  : TOTAL INTL STOCK MARKET INDEX TRUST
     2020: STATE FARM 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F3H 
         Participants: 92698
         Assets: 15452791601
         $/Participant: 166700
@@ -90,6 +83,8 @@ IL : BLOOMINGTON
                  : SAVINGS TRUST II
                  : TOTAL INTL STOCK MARKET INDEX TRUST
     2019: STATE FARM 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F3H 
         Participants: 93650
         Assets: 13752670047
         $/Participant: 146851
@@ -116,6 +111,8 @@ IL : BLOOMINGTON
                  : SAVINGS TRUST II
                  : TOTAL INTL STOCK MARKET INDEX TRUST
     2018: STATE FARM 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F3H 
         Participants: 91916
         Assets: 11705474054
         $/Participant: 127349
@@ -137,6 +134,8 @@ IL : BLOOMINGTON
                  : 2065 TRUST SELECT
                  : INCOME TRUST SELECT
     2017: STATE FARM 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3F3H 
         Participants: 95946
         Assets: 12621407342
         $/Participant: 131546
@@ -169,36 +168,79 @@ IL : BLOOMINGTON
                  : TRUST SELECT 2060
                  : TRUST SELECT 2065
                  : TRUST SELECT INCOME
+   [524]
+    2022: GROUP HEALTH AND WELFARE PLAN FOR UNITED STATES EMPLOYEES
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4Q
+        Participants: 
+    2021: GROUP HEALTH AND WELFARE PLAN FOR UNITED STATES EMPLOYEES
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4Q
+        Participants: 
+    2020: GROUP HEALTH AND WELFARE PLAN FOR UNITED STATES EMPLOYEES
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4Q
+        Participants: 
+    2019: GROUP HEALTH AND WELFARE PLAN FOR UNITED STATES EMPLOYEES
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4Q
+        Participants: 
+    2018: GROUP HEALTH AND WELFARE PLAN FOR UNITED STATES EMPLOYEES
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4Q
+        Participants: 
+    2017: GROUP HEALTH AND WELFARE PLAN FOR UNITED STATES EMPLOYEES
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4Q
+        Participants: 
    [001]
     2022: STATE FARM INSURANCE COMPANIES RETIREMENT PLAN FOR UNITED STATES EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A3F3H 
         Participants: 116786
         Assets: 32129102809
         $/Participant: 275110
         RecordKeeper: PRICEWATERHOUSECOOPERS
     2021: STATE FARM INSURANCE COMPANIES RETIREMENT PLAN FOR UNITED STATES EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A3F3H 
         Participants: 118864
         Assets: 36692768890
         $/Participant: 308695
         RecordKeeper: PRICEWATERHOUSECOOPERS
     2020: STATE FARM INSURANCE COMPANIES RETIREMENT PLAN FOR UNITED STATES EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A3F3H 
         Participants: 120188
         Assets: 32187979764
         $/Participant: 267813
         Service Providers:
            - JP MORGAN CHASE BANK, N.A. :  (Custodial(other than securities) | Float revenue | Other investment fees and expenses)
     2019: STATE FARM INSURANCE COMPANIES RETIREMENT PLAN FOR UNITED STATES EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A3F3H 
         Participants: 115665
         Assets: 29274872364
         $/Participant: 253100
         Service Providers:
            - JP MORGAN CHASE BANK, N.A. :  (Custodial(other than securities) | Float revenue | Other investment fees and expenses)
     2018: STATE FARM INSURANCE COMPANIES RETIREMENT PLAN FOR UNITED STATES EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A3F3H 
         Participants: 115118
         Assets: 24978110774
         $/Participant: 216978
         Service Providers:
            - JP MORGAN CHASE BANK, N.A. :  (Custodial(other than securities) | Float revenue | Other investment fees and expenses)
     2017: STATE FARM INSURANCE COMPANIES RETIREMENT PLAN FOR UNITED STATES EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A3F3H 
         Participants: 115257
         Assets: 26483625397
         $/Participant: 229778

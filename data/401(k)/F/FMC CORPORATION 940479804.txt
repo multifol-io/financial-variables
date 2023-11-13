@@ -1,50 +1,9 @@
 PA : PHILADELPHIA
   FMC CORPORATION  940479804
-   [504]
-    2022: FMC CORPORATION WELFARE BENEFITS PROGRAM
-        Participants: 
-    2021: FMC CORPORATION WELFARE BENEFITS PROGRAM
-        Participants: 
-    2020: FMC CORPORATION WELFARE BENEFITS PROGRAM
-        Participants: 
-    2019: FMC CORPORATION WELFARE BENEFITS PROGRAM
-        Participants: 
-    2018: FMC CORPORATION WELFARE BENEFITS PROGRAM
-        Participants: 
-    2017: FMC CORPORATION WELFARE BENEFITS PROGRAM
-        Participants: 
-   [503]
-    2022: FMC RETIREE MEDICAL PLAN
-        Participants: 
-    2021: FMC RETIREE MEDICAL PLAN
-        Participants: 
-    2020: FMC RETIREE MEDICAL PLAN
-        Participants: 
-    2018: FMC RETIREE MEDICAL PLAN
-        Participants: 
-    2017: FMC RETIREE MEDICAL PLAN
-        Participants: 
-   [501]
-    2022: FMC CORPORATION HEALTH PLAN OF PUERTO RICO
-        Participants: 
-    2021: FMC CORPORATION HEALTH PLAN OF PUERTO RICO
-        Participants: 
-    2020: FMC CORPORATION HEALTH PLAN OF PUERTO RICO
-        Participants: 
-    2019: FMC CORPORATION HEALTH PLAN OF PUERTO RICO
-        Participants: 
-    2018: FMC CORPORATION HEALTH PLAN OF PUERTO RICO
-        Participants: 127
-    2017: FMC CORPORATION
-        Participants: 131
-   [099]
-    2017: SAVINGS PLAN FOR FMC EMPLOYEES IN PUERTO RICO
-        Participants: 130
-        Assets: 546618
-        $/Participant: 4204
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
    [061]
     2022: FMC CORPORATION SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F 
         Participants: 2702
         Assets: 573269440
         $/Participant: 212164
@@ -70,6 +29,8 @@ PA : PHILADELPHIA
            - WELLS FARGO BANK, N.A.
                  : WF DISCOVERY E2
     2021: FMC CORPORATION SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2H2J2K2S2T3F2E 
         Participants: 2692
         Assets: 705719442
         $/Participant: 262154
@@ -80,6 +41,8 @@ PA : PHILADELPHIA
            - WELLS FARGO BANK, N.A.
                  : WF DISCOVERY E2
     2020: FMC CORPORATION SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2H2J2K2S2T3F2E 
         Participants: 2846
         Assets: 712986170
         $/Participant: 250522
@@ -88,6 +51,8 @@ PA : PHILADELPHIA
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 2
     2019: FMC CORPORATION SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2H2J2K2S2T3F2E 
         Participants: 2993
         Assets: 633415867
         $/Participant: 211632
@@ -96,6 +61,8 @@ PA : PHILADELPHIA
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 2
     2018: FMC CORPORATION SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2H2J2K2S2T3F 
         Participants: 2957
         Assets: 544407123
         $/Participant: 184107
@@ -104,6 +71,8 @@ PA : PHILADELPHIA
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 2
     2017: FMC CORPORATION SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2T3F3H2E2F2H2J2K2S 
         Participants: 3207
         Assets: 609388783
         $/Participant: 190018
@@ -111,28 +80,123 @@ PA : PHILADELPHIA
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 2
+   [099]
+    2017: SAVINGS PLAN FOR FMC EMPLOYEES IN PUERTO RICO
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2T3J 
+        Participants: 130
+        Assets: 546618
+        $/Participant: 4204
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+   [501]
+    2022: FMC CORPORATION HEALTH PLAN OF PUERTO RICO
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+    2021: FMC CORPORATION HEALTH PLAN OF PUERTO RICO
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+    2020: FMC CORPORATION HEALTH PLAN OF PUERTO RICO
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+    2019: FMC CORPORATION HEALTH PLAN OF PUERTO RICO
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+    2018: FMC CORPORATION HEALTH PLAN OF PUERTO RICO
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 127
+    2017: FMC CORPORATION
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 131
+   [503]
+    2022: FMC RETIREE MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4L
+        Participants: 
+    2021: FMC RETIREE MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4L
+        Participants: 
+    2020: FMC RETIREE MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4L
+        Participants: 
+    2018: FMC RETIREE MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2017: FMC RETIREE MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+   [504]
+    2022: FMC CORPORATION WELFARE BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4G4H4I4L
+        Participants: 
+    2021: FMC CORPORATION WELFARE BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4G4H4I4L
+        Participants: 
+    2020: FMC CORPORATION WELFARE BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4G4H4I4L
+        Participants: 
+    2019: FMC CORPORATION WELFARE BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4G4H4I4L
+        Participants: 
+    2018: FMC CORPORATION WELFARE BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4G4H4I4L4Q
+        Participants: 
+    2017: FMC CORPORATION WELFARE BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4G4H4I4L4Q
+        Participants: 
    [047]
     2022: FMC CORPORATION EMPLOYEES' RETIREMENT PROGRAM
+        Benefit Category: Pension
+        Codes: 1A1B3F3H 
         Participants: 8532
         Assets: 1094561009
         $/Participant: 128288
         RecordKeeper: PENSION BENEFIT INFORMATION
     2021: FMC CORPORATION EMPLOYEES' RETIREMENT PROGRAM
+        Benefit Category: Pension
+        Codes: 1A1B3F3H 
         Participants: 8769
         Assets: 1422903743
         $/Participant: 162265
         RecordKeeper: PENSION BENEFIT INFORMATION
     2020: FMC CORPORATION EMPLOYEES' RETIREMENT PROGRAM
+        Benefit Category: Pension
+        Codes: 1A1B3F 
         Participants: 9013
         Assets: 1558194898
         $/Participant: 172883
         RecordKeeper: PENSION BENEFIT INFORMATION
     2019: FMC CORPORATION EMPLOYEES' RETIREMENT PROGRAM
+        Benefit Category: Pension
+        Codes: 1A1B3F3H 
         Participants: 9242
         Assets: 1449532144
         $/Participant: 156841
         RecordKeeper: PENSION BENEFIT INFORMATION
     2018: FMC CORPORATION EMPLOYEES' RETIREMENT PROGRAM
+        Benefit Category: Pension
+        Codes: 1A1B3F3H 
         Participants: 9458
         Assets: 1295547746
         $/Participant: 136979
@@ -166,6 +230,8 @@ PA : PHILADELPHIA
            - PZENA INVESTMENT MANAGEMENT
                  : PZENA INTERNATIONAL VALUE GROUP
     2017: FMC CORPORATION EMPLOYEES' RETIREMENT PROGRAM
+        Benefit Category: Pension
+        Codes: 1A1B3F3H 
         Participants: 9648
         Assets: 1365052588
         $/Participant: 141485

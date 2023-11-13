@@ -1,20 +1,9 @@
 NY : EAST SYRACUSE
   INFICON, INC.  161591542
-   [501]
-    2022: INFICON, INC. WELFARE BENEFIT PLAN
-        Participants: 
-    2021: INFICON, INC. WELFARE BENEFIT PLAN
-        Participants: 
-    2020: INFICON, INC. WELFARE BENEFIT PLAN
-        Participants: 
-    2019: INFICON, INC. WELFARE BENEFIT PLAN
-        Participants: 
-    2018: INFICON, INC. WELFARE BENEFIT PLAN
-        Participants: 
-    2017: INFICON, INC. WELFARE BENEFIT PLAN
-        Participants: 
    [002]
     2022: INFICON INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H3D 
         Participants: 634
         Assets: 91622982
         $/Participant: 144515
@@ -23,6 +12,8 @@ NY : EAST SYRACUSE
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
     2021: INFICON INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H3D 
         Participants: 517
         Assets: 113668417
         $/Participant: 219861
@@ -31,6 +22,8 @@ NY : EAST SYRACUSE
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
     2020: INFICON INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H3D 
         Participants: 477
         Assets: 99463364
         $/Participant: 208518
@@ -39,6 +32,8 @@ NY : EAST SYRACUSE
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
     2019: INFICON INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 442
         Assets: 82853925
         $/Participant: 187452
@@ -47,6 +42,8 @@ NY : EAST SYRACUSE
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
     2018: INFICON INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 459
         Assets: 65455791
         $/Participant: 142605
@@ -56,6 +53,8 @@ NY : EAST SYRACUSE
                  : MIP CL 1
                  : MIP CL 2
     2017: INFICON INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D2E3H 
         Participants: 403
         Assets: 72384768
         $/Participant: 179614
@@ -63,24 +62,57 @@ NY : EAST SYRACUSE
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
+   [501]
+    2022: INFICON, INC. WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2021: INFICON, INC. WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: INFICON, INC. WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: INFICON, INC. WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: INFICON, INC. WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2017: INFICON, INC. WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
    [001]
     2022: INFICON, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 0
         Service Providers:
            - UBS FINANCIAL SERVICES INC. :  (Investment advisory(plan) | Direct payment from the plan)
     2021: INFICON, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 105
         Assets: 35641009
         $/Participant: 339438
         Service Providers:
            - UBS FINANCIAL SERVICES INC. :  (Investment advisory(plan) | Direct payment from the plan)
     2020: INFICON, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 110
         Assets: 33577122
         $/Participant: 305246
         Service Providers:
            - UBS FINANCIAL SERVICES :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
     2019: INFICON, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 117
         Assets: 32853345
         $/Participant: 280797
@@ -94,6 +126,8 @@ NY : EAST SYRACUSE
            - SILVERBAY CAPITAL MANAGEMENT LLC
                  : ACAP STRATEGIC FUND
     2018: INFICON, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 121
         Assets: 27923381
         $/Participant: 230771
@@ -107,6 +141,8 @@ NY : EAST SYRACUSE
            - SILVERBAY CAPITAL MANAGEMENT LLC
                  : ACAP STRATEGIC FUND
     2017: INFICON, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 128
         Assets: 30938366
         $/Participant: 241705

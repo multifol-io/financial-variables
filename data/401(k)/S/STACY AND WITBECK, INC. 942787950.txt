@@ -1,18 +1,9 @@
 CA : ALAMEDA
   STACY AND WITBECK, INC.  942787950
-   [501]
-    2021: STACY AND WITBECK, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: STACY AND WITBECK, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: STACY AND WITBECK, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: STACY AND WITBECK, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: STACY AND WITBECK, INC. HEALTH AND WELFARE PLAN
-        Participants: 
    [003]
     2021: STACY AND WITBECK, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2T 
         Participants: 488
         Assets: 71933904
         $/Participant: 147405
@@ -35,6 +26,8 @@ CA : ALAMEDA
                  : PRIN LIFETIME HYBR INC CIT Z
                  : PRINCIPAL STABLE VALUE Z FUND
     2020: STACY AND WITBECK, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2T 
         Participants: 487
         Assets: 78806215
         $/Participant: 161819
@@ -57,6 +50,8 @@ CA : ALAMEDA
                  : PRIN LIFETIME HYBR INC CIT Z
                  : PRINCIPAL STABLE VALUE Z FUND
     2019: STACY AND WITBECK, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2T 
         Participants: 464
         Assets: 66485803
         $/Participant: 143288
@@ -79,6 +74,8 @@ CA : ALAMEDA
                  : PRIN LIFETIME HYBR INC CIT Z
                  : PRINCIPAL STABLE VALUE Z FUND
     2018: STACY AND WITBECK, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2T 
         Participants: 427
         Assets: 54972820
         $/Participant: 128741
@@ -101,6 +98,8 @@ CA : ALAMEDA
                  : PRIN LIFETIME HYBR INC CIT Z5
                  : PRINCIPAL STABLE VALUE INST
     2017: STACY AND WITBECK, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2T 
         Participants: 378
         Assets: 44425495
         $/Participant: 117527
@@ -124,22 +123,53 @@ CA : ALAMEDA
                  : PRINCIPAL STABLE VALUE INST
    [001]
     2021: STACY AND WITBECK, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2O2Q 
         Participants: 524
         Assets: 363905463
         $/Participant: 694476
     2020: STACY AND WITBECK, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2O2Q 
         Participants: 439
         Assets: 371470064
         $/Participant: 846173
     2019: STACY AND WITBECK, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2O2Q 
         Participants: 484
         Assets: 323117524
         $/Participant: 667598
     2018: STACY AND WITBECK, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2O2Q 
         Participants: 364
         Assets: 243834409
         $/Participant: 669874
     2017: STACY AND WITBECK, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2O2Q 
         Participants: 393
         Assets: 195061789
         $/Participant: 496340
+   [501]
+    2021: STACY AND WITBECK, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: STACY AND WITBECK, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: STACY AND WITBECK, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: STACY AND WITBECK, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: STACY AND WITBECK, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 

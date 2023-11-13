@@ -1,20 +1,9 @@
 CT : STAMFORD
   PARTNER REINSURANCE COMPANY OF THE U.S.  133031176
-   [501]
-    2022: PARTNERRE US GROUP BENEFITS PLAN
-        Participants: 
-    2021: PARTNERRE US GROUP BENEFITS PLAN
-        Participants: 
-    2020: PARTNERRE US GROUP BENEFITS PLAN
-        Participants: 
-    2019: PARTNERRE US GROUP BENEFITS PLAN
-        Participants: 
-    2018: PARTNERRE US GROUP BENEFITS PLAN
-        Participants: 
-    2017: PARTNERRE US GROUP BENEFITS PLAN
-        Participants: 
    [002]
     2022: PARTNER REINSURANCE COMPANY OF THE U.S. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 490
         Assets: 170738389
         $/Participant: 348445
@@ -35,6 +24,8 @@ CT : STAMFORD
                  : VANGUARD TARGET RET. INC. II
                  : VFTC RETIREMENT SAVINGS TRUST III
     2021: PARTNER REINSURANCE COMPANY OF THE U.S. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 480
         Assets: 207608696
         $/Participant: 432518
@@ -55,6 +46,8 @@ CT : STAMFORD
                  : VANGUARD TARGET RET. INC. II
                  : VFTC RETIREMENT SAVINGS TRUST III
     2020: PARTNER REINSURANCE COMPANY OF THE U.S. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 485
         Assets: 191097136
         $/Participant: 394014
@@ -75,6 +68,8 @@ CT : STAMFORD
                  : VANGUARD TARGET RET. INC. II
                  : VFTC RETIREMENT SAVINGS TRUST III
     2019: PARTNER REINSURANCE COMPANY OF THE U.S. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 473
         Assets: 173218003
         $/Participant: 366211
@@ -95,6 +90,8 @@ CT : STAMFORD
                  : VANGUARD TARGET RET. INC. II
                  : VFTC RETIREMENT SAVINGS TRUST III
     2018: PARTNER REINSURANCE COMPANY OF THE U.S. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 455
         Assets: 151092053
         $/Participant: 332070
@@ -115,6 +112,8 @@ CT : STAMFORD
                  : VANGUARD TARGET RET. INC. III
                  : VFTC RETIREMENT SAVINGS TRUST III
     2017: PARTNER REINSURANCE COMPANY OF THE U.S. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 457
         Assets: 167755259
         $/Participant: 367079
@@ -134,3 +133,28 @@ CT : STAMFORD
                  : VANGUARD TARGET RET. 2060 TRUST II
                  : VANGUARD TARGET RET. INC. II
                  : VFTC RETIREMENT SAVINGS TRUST III
+   [501]
+    2022: PARTNERRE US GROUP BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2021: PARTNERRE US GROUP BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: PARTNERRE US GROUP BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: PARTNERRE US GROUP BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: PARTNERRE US GROUP BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: PARTNERRE US GROUP BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L4Q
+        Participants: 

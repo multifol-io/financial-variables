@@ -1,45 +1,8 @@
 NC : MONROE
   STATE UTILITY CONTRACTORS, INC.  561444827
-   [501]
-    2022: STATE UTILITY CONTRACTORS, INC. EMPLOYEE BENEFIT P
-        Participants: 
-    2021: STATE UTILITY CONTRACTORS, INC. EMPLOYEE BENEFIT P
-        Participants: 
-    2020: STATE UTILITY CONTRACTORS, INC. EMPLOYEE BENEFIT P
-        Participants: 
-    2019: STATE UTILITY CONTRACTORS, INC. EMPLOYEE BENEFIT P
-        Participants: 
-    2018: STATE UTILITY CONTRACTORS, INC. EMPLOYEE BENEFIT P
-        Participants: 
-    2017: STATE UTILITY CONTRACTORS, INC. EMPLOYEE BENEFIT P
-        Participants: 
-   [002]
-    2022: STATE UTILITY CONTRACTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 207
-        Assets: 82312735
-        $/Participant: 397646
-    2021: STATE UTILITY CONTRACTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 218
-        Assets: 42856244
-        $/Participant: 196588
-    2020: STATE UTILITY CONTRACTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 239
-        Assets: 44796490
-        $/Participant: 187433
-    2019: STATE UTILITY CONTRACTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 222
-        Assets: 39677375
-        $/Participant: 178726
-    2018: STATE UTILITY CONTRACTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 234
-        Assets: 29926270
-        $/Participant: 127890
-    2017: STATE UTILITY CONTRACTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 227
-        Assets: 22043736
-        $/Participant: 97108
-   [001]
     2022: STATE UTILITY CONTRACTORS, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 175
         Assets: 12982841
         $/Participant: 74187
@@ -88,6 +51,8 @@ NC : MONROE
                  : VANGUARD ENERGY FUND
                  : VANGUARD TOTAL BOND MARKET IDX
     2021: STATE UTILITY CONTRACTORS, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 175
         Assets: 14817973
         $/Participant: 84674
@@ -138,6 +103,8 @@ NC : MONROE
                  : VANGUARD ENERGY FUND
                  : VANGUARD TOTAL BOND MARKET IDX
     2020: STATE UTILITY CONTRACTORS, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 161
         Assets: 13896686
         $/Participant: 86314
@@ -190,6 +157,8 @@ NC : MONROE
                  : VANGUARD ENERGY FUND
                  : VANGUARD TOTAL BOND MARKET IDX
     2019: STATE UTILITY CONTRACTORS, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 144
         Assets: 12125464
         $/Participant: 84204
@@ -244,6 +213,8 @@ NC : MONROE
                  : VANGUARD ENERGY FUND
                  : VANGUARD TOTAL BOND MARKET IDX
     2018: STATE UTILITY CONTRACTORS, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 143
         Assets: 10120053
         $/Participant: 70769
@@ -297,6 +268,8 @@ NC : MONROE
                  : VANGUARD ENERGY FUND
                  : VANGUARD TOTAL BOND MARKET IDX
     2017: STATE UTILITY CONTRACTORS, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 148
         Assets: 11060713
         $/Participant: 74734
@@ -350,3 +323,65 @@ NC : MONROE
                  : TOTAL STOCK MARKET INDEX
                  : UTILITIES FUND
                  : VANGUARD ENERGY
+   [002]
+    2022: STATE UTILITY CONTRACTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
+        Participants: 207
+        Assets: 82312735
+        $/Participant: 397646
+    2021: STATE UTILITY CONTRACTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2P2Q 
+        Participants: 218
+        Assets: 42856244
+        $/Participant: 196588
+    2020: STATE UTILITY CONTRACTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2P2Q 
+        Participants: 239
+        Assets: 44796490
+        $/Participant: 187433
+    2019: STATE UTILITY CONTRACTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2P2Q 
+        Participants: 222
+        Assets: 39677375
+        $/Participant: 178726
+    2018: STATE UTILITY CONTRACTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q 
+        Participants: 234
+        Assets: 29926270
+        $/Participant: 127890
+    2017: STATE UTILITY CONTRACTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2P2Q 
+        Participants: 227
+        Assets: 22043736
+        $/Participant: 97108
+   [501]
+    2022: STATE UTILITY CONTRACTORS, INC. EMPLOYEE BENEFIT P
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 
+    2021: STATE UTILITY CONTRACTORS, INC. EMPLOYEE BENEFIT P
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 
+    2020: STATE UTILITY CONTRACTORS, INC. EMPLOYEE BENEFIT P
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 
+    2019: STATE UTILITY CONTRACTORS, INC. EMPLOYEE BENEFIT P
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 
+    2018: STATE UTILITY CONTRACTORS, INC. EMPLOYEE BENEFIT P
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 
+    2017: STATE UTILITY CONTRACTORS, INC. EMPLOYEE BENEFIT P
+        Benefit Category: Healthcare
+        Codes:  4A4B4F4H
+        Participants: 

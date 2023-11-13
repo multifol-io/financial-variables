@@ -1,67 +1,143 @@
 IL : LEMONT
-  UCHICAGO ARGONNE, LLC  680628477
-   [533]
-    2022: ARGONNE RETIREE HEALTH REIMBURSEMENT ACCOUNT
-        Participants: 
-        RecordKeeper: ALIGHT SOLUTIONS
-    2021: ARGONNE RETIREE HEALTH REIMBURSEMENT ACCOUNT
-        Participants: 
-        RecordKeeper: ALRIGHT SOLUTIONS
-    2020: ARGONNE RETIREE HEALTH REIMBURSEMENT ACCOUNT
-        Participants: 2656
-        RecordKeeper: ALIGHT SOLUTIONS
-    2019: ARGONNE RETIREE HEALTH REIMBURSEMENT ACCOUNT
-        Participants: 2149
-        RecordKeeper: ALIGHT SOLUTIONS
-    2018: ARGONNE RETIREE HEALTH REIMBURSEMENT ACCOUNT
-        Participants: 3139
-        RecordKeeper: ALIGHT
-    2017: ARGONNE RETIREE HEALTH REIMBURSEMENT ACCOUNT
-        Participants: 3149
-        RecordKeeper: ALIGHT
-   [531]
-    2017: ARGONNE NATIONAL LABORATORY RETIREE RX PLAN
-        Participants: 0
-   [521]
-    2022: ARGONNE NATIONAL LABORATORY SEVERANCE PLAN 521
-        Participants: 
-    2021: ARGONNE NATIONAL LABORATORY SEVERANCE PLAN 521
-        Participants: 
-    2020: ARGONNE NATIONAL LABORATORY SEVERANCE PLAN 521
-        Participants: 3009
-    2019: ARGONNE NATIONAL LABORATORY SEVERANCE PLAN 521
-        Participants: 3015
-    2018: ARGONNE NATIONAL LABORATORY SEVERANCE PLAN
-        Participants: 2840
-    2017: ARGONNE NATIONAL LABORATORY SEVERANCE PLAN
-        Participants: 2781
+  UCHICAGO ARGONNE, LLC ARGONNE NATIONAL LABORATORY  680628477
    [501]
     2022: ARGONNE NATIONAL LABORATORY MASTER WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L4Q
         Participants: 
         Service Providers:
            - EXPRESS SCRIPTS, INC. : PHARMACY BENEFIT MGMT (Claims processing | Direct payment from the plan | Float revenue | Other fees)
     2021: ARGONNE NATIONAL LABORATORY MASTER WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L4Q
         Participants: 
         Service Providers:
            - OPTUMRX, INC. : PHARMACY BENEFIT MGMT (Claims processing | Direct payment from the plan | Float revenue | Other fees)
     2020: ARGONNE NATIONAL LABORATORY MASTER WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
         Participants: 3812
         Service Providers:
            - OPTUMRX, INC : PHARMACY BENEFIT MGMT (Claims processing | Direct payment from the plan | Float revenue | Other fees)
     2019: ARGONNE NATIONAL LABORATORY MASTER WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
         Participants: 3694
         Service Providers:
            - OPTUMRX, INC : PHARMACY BENEFIT MGT (Claims processing | Direct payment from the plan | Float revenue | Other fees)
     2018: ARGONNE NATIONAL LABORATORY MASTER WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q4H
         Participants: 3597
         Service Providers:
            - OPTUMRX INC : PHARMACY BENEFIT MGT (Claims processing | Direct payment from the plan | Float revenue | Other fees)
     2017: ARGONNE NATIONAL LABORATORY MASTER WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q4H
         Participants: 3557
         Service Providers:
            - OPTUMRX, INC : PHARMACY BENEFIT MGT (Claims processing | Direct payment from the plan | Float revenue | Other fees)
+   [531]
+    2017: ARGONNE NATIONAL LABORATORY RETIREE RX PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 0
+   [533]
+    2022: ARGONNE RETIREE HEALTH REIMBURSEMENT ACCOUNT
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        RecordKeeper: ALIGHT SOLUTIONS
+    2021: ARGONNE RETIREE HEALTH REIMBURSEMENT ACCOUNT
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        RecordKeeper: ALRIGHT SOLUTIONS
+    2020: ARGONNE RETIREE HEALTH REIMBURSEMENT ACCOUNT
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 2656
+        RecordKeeper: ALIGHT SOLUTIONS
+    2019: ARGONNE RETIREE HEALTH REIMBURSEMENT ACCOUNT
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 2149
+        RecordKeeper: ALIGHT SOLUTIONS
+    2018: ARGONNE RETIREE HEALTH REIMBURSEMENT ACCOUNT
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 3139
+        RecordKeeper: ALIGHT
+    2017: ARGONNE RETIREE HEALTH REIMBURSEMENT ACCOUNT
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 3149
+        RecordKeeper: ALIGHT
+   [005]
+    2022: ARGONNE NATIONAL LABORATORY 403(B) EMPLOYEE RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M 
+        Participants: 5634
+        Assets: 1428935478
+        $/Participant: 253627
+        RecordKeeper: FID INV INSTL OPS CO
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2021: ARGONNE NATIONAL LABORATORY 403(B) EMPLOYEE RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M 
+        Participants: 5415
+        Assets: 1678778050
+        $/Participant: 310023
+        RecordKeeper: TIAA
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2020: ARGONNE NATIONAL LABORATORY 403(B) EMPLOYEE RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M 
+        Participants: 5265
+        Assets: 1561449581
+        $/Participant: 296571
+        RecordKeeper: TIAA
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2019: ARGONNE NATIONAL LABORATORY 403(B) EMPLOYEE RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M 
+        Participants: 5092
+        Assets: 1440411313
+        $/Participant: 282877
+        RecordKeeper: TIAA
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2018: ARGONNE NATIONAL LABORATORY 403(B) EMPLOYEE RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M 
+        Participants: 4958
+        Assets: 1291333915
+        $/Participant: 260454
+        RecordKeeper: TIAA
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2017: ARGONNE NATIONAL LABORATORY 403(B) EMPLOYEE RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M 
+        Participants: 4898
+        Assets: 1386532888
+        $/Participant: 283081
+        RecordKeeper: TIAA
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
    [009]
     2022: ARGONNE NATIONAL LABORATORY 401(A) RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2L2M2F2G 
         Participants: 4802
         Assets: 823809106
         $/Participant: 171555
@@ -83,6 +159,8 @@ IL : LEMONT
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INC
     2021: ARGONNE NATIONAL LABORATORY 401(A) RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2L2M2F2G 
         Participants: 4711
         Assets: 969314125
         $/Participant: 205755
@@ -104,6 +182,8 @@ IL : LEMONT
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INCOME
     2020: ARGONNE NATIONAL LABORATORY 401(A) RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2L2M2F2G 
         Participants: 4616
         Assets: 885164914
         $/Participant: 191760
@@ -125,6 +205,8 @@ IL : LEMONT
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INCOME
     2019: ARGONNE NATIONAL LABORATORY 401(A) RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2L2M2F2G 
         Participants: 4454
         Assets: 791313429
         $/Participant: 177663
@@ -146,6 +228,8 @@ IL : LEMONT
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INCOME
     2018: ARGONNE NATIONAL LABORATORY 401(A) RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2L2M2F2G 
         Participants: 4357
         Assets: 683341075
         $/Participant: 156837
@@ -167,6 +251,8 @@ IL : LEMONT
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INCOME
     2017: ARGONNE NATIONAL LABORATORY 401(A) RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2L2M2F2G 
         Participants: 4618
         Assets: 722760240
         $/Participant: 156509
@@ -174,52 +260,28 @@ IL : LEMONT
         Available Investments:
            - TIAA - CREF
                  : TIAA REAL ESTATE
-   [005]
-    2022: ARGONNE NATIONAL LABORATORY 403(B) EMPLOYEE RETIREMENT PLAN
-        Participants: 5634
-        Assets: 1428935478
-        $/Participant: 253627
-        RecordKeeper: FID INV INSTL OPS CO
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2021: ARGONNE NATIONAL LABORATORY 403(B) EMPLOYEE RETIREMENT PLAN
-        Participants: 5415
-        Assets: 1678778050
-        $/Participant: 310023
-        RecordKeeper: TIAA
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2020: ARGONNE NATIONAL LABORATORY 403(B) EMPLOYEE RETIREMENT PLAN
-        Participants: 5265
-        Assets: 1561449581
-        $/Participant: 296571
-        RecordKeeper: TIAA
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2019: ARGONNE NATIONAL LABORATORY 403(B) EMPLOYEE RETIREMENT PLAN
-        Participants: 5092
-        Assets: 1440411313
-        $/Participant: 282877
-        RecordKeeper: TIAA
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2018: ARGONNE NATIONAL LABORATORY 403(B) EMPLOYEE RETIREMENT PLAN
-        Participants: 4958
-        Assets: 1291333915
-        $/Participant: 260454
-        RecordKeeper: TIAA
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2017: ARGONNE NATIONAL LABORATORY 403(B) EMPLOYEE RETIREMENT PLAN
-        Participants: 4898
-        Assets: 1386532888
-        $/Participant: 283081
-        RecordKeeper: TIAA
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
+   [521]
+    2022: ARGONNE NATIONAL LABORATORY SEVERANCE PLAN 521
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2021: ARGONNE NATIONAL LABORATORY SEVERANCE PLAN 521
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2020: ARGONNE NATIONAL LABORATORY SEVERANCE PLAN 521
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 3009
+    2019: ARGONNE NATIONAL LABORATORY SEVERANCE PLAN 521
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 3015
+    2018: ARGONNE NATIONAL LABORATORY SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 2840
+    2017: ARGONNE NATIONAL LABORATORY SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 2781

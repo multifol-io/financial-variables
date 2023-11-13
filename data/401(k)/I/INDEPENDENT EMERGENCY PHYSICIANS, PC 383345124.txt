@@ -1,27 +1,8 @@
 MI : FARMINGTON HILLS
   INDEPENDENT EMERGENCY PHYSICIANS, PC  383345124
-   [510]
-    2022: INDEPENDENT EMERGENCY PHYSICIANS HEALTH AND WELFARE PLAN
-        Participants: 218
-    2021: INDEPENDENT EMERGENCY PHYSICIANS HEALTH AND WELFARE PLAN
-        Participants: 246
-    2020: INDEPENDENT EMERGENCY PHYSICIANS HEALTH AND WELFARE PLAN
-        Participants: 230
-    2019: INDEPENDENT EMERGENCY PHYSICIANS HEALTH AND WELFARE PLAN
-        Participants: 213
-    2018: INDEPENDENT EMERGENCY PHYSICIANS, PC HEALTH AND WELFARE PLAN
-        Participants: 192
-    2017: INDEPENDENT EMERGENCY PHYSICIANS, PC HEALTH AND WELFARE PLAN
-        Participants: 185
-        RecordKeeper: BLUE CROSS BLUE SHIELD OF MICHIGAN
-   [003]
-    2017: INDEPENDENT EMERGENCY PHYSICIANS, P.C. CASH BALANCE PENSION PLAN
-        Participants: 0
-   [002]
-    2017: INDEPENDENT EMERGENCY PHYSICIANS, P.C. CASH BALANCE PENSION PLAN
-        Participants: 0
-   [001]
     2022: INDEPENDENT EMERGENCY PHYSICIANS, P.C. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J3D 
         Participants: 349
         Assets: 81349207
         $/Participant: 233092
@@ -30,6 +11,8 @@ MI : FARMINGTON HILLS
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND
     2021: INDEPENDENT EMERGENCY PHYSICIANS, P.C. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J3D 
         Participants: 340
         Assets: 102086373
         $/Participant: 300254
@@ -38,6 +21,8 @@ MI : FARMINGTON HILLS
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND
     2020: INDEPENDENT EMERGENCY PHYSICIANS, P.C. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J3D 
         Participants: 309
         Assets: 85938840
         $/Participant: 278119
@@ -52,6 +37,8 @@ MI : FARMINGTON HILLS
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND
     2019: INDEPENDENT EMERGENCY PHYSICIANS, P.C. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J3D 
         Participants: 308
         Assets: 73175934
         $/Participant: 237584
@@ -66,6 +53,8 @@ MI : FARMINGTON HILLS
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND
     2018: INDEPENDENT EMERGENCY PHYSICIANS, P.C. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J3D 
         Participants: 257
         Assets: 64381765
         $/Participant: 250512
@@ -74,6 +63,8 @@ MI : FARMINGTON HILLS
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND
     2017: INDEPENDENT EMERGENCY PHYSICIANS, P.C. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J3D 
         Participants: 236
         Assets: 65948448
         $/Participant: 279442
@@ -81,3 +72,39 @@ MI : FARMINGTON HILLS
         Available Investments:
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND
+   [510]
+    2022: INDEPENDENT EMERGENCY PHYSICIANS HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4E
+        Participants: 218
+    2021: INDEPENDENT EMERGENCY PHYSICIANS HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4E
+        Participants: 246
+    2020: INDEPENDENT EMERGENCY PHYSICIANS HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4E
+        Participants: 230
+    2019: INDEPENDENT EMERGENCY PHYSICIANS HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4E
+        Participants: 213
+    2018: INDEPENDENT EMERGENCY PHYSICIANS, PC HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4E
+        Participants: 192
+    2017: INDEPENDENT EMERGENCY PHYSICIANS, PC HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4E
+        Participants: 185
+        RecordKeeper: BLUE CROSS BLUE SHIELD OF MICHIGAN
+   [002]
+    2017: INDEPENDENT EMERGENCY PHYSICIANS, P.C. CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1I1A1C 
+        Participants: 0
+   [003]
+    2017: INDEPENDENT EMERGENCY PHYSICIANS, P.C. CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1I1A1C 
+        Participants: 0

@@ -1,20 +1,8 @@
 WA : SEATTLE
   LYNDEN INCORPORATED  911169184
-   [502]
-    2022: LYNDEN INCORPORATED AND PARTICIPATING EMPLOYERS HEALTHCARE PLAN
-        Participants: 
-    2021: LYNDEN INCORPORATED AND PARTICIPATING EMPLOYERS HEALTHCARE PLAN
-        Participants: 
-    2020: LYNDEN INCORPORATED AND PARTICIPATING EMPLOYERS HEALTHCARE PLAN
-        Participants: 
-    2019: LYNDEN INCORPORATED AND PARTICIPATING EMPLOYERS HEALTHCARE PLAN
-        Participants: 
-    2018: LYNDEN INCORPORATED AND PARTICIPATING EMPLOYERS HEALTHCARE PLAN
-        Participants: 
-    2017: LYNDEN INCORPORATED AND PARTICIPATING EMPLOYERS HEALTHCARE PLAN
-        Participants: 
-   [002]
     2022: LYNDEN 401(K) RETIREMENT SAVINGS PLAN & TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 2839
         Assets: 324889241
         $/Participant: 114437
@@ -35,24 +23,9 @@ WA : SEATTLE
                  : VFTC TARGET RET 2070 TR II
                  : VFTC TARGET RET INCOME AND GR TR II
                  : VFTC TARGET RET INCOME TR II
-    2021: LYNDEN 401(K) RETIREMENT SAVINGS PLAN & TRUST
-        Participants: 2787
-        Assets: 397507241
-        $/Participant: 142629
-        RecordKeeper: VANGUARD ADVISERS INC.
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC RETIREMENT SAVINGS TRUST III
-    2020: LYNDEN 401(K) RETIREMENT SAVINGS PLAN & TRUST
-        Participants: 2786
-        Assets: 355399085
-        $/Participant: 127566
-        RecordKeeper: THE VANGUARD GROUP, INC.
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC RETIREMENT SAVINGS TRUST
-                 : VFTC RETIREMENT SAVINGS TRUST III
     2019: LYNDEN 401(K) RETIREMENT SAVINGS PLAN & TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H3J 
         Participants: 2778
         Assets: 297525251
         $/Participant: 107100
@@ -61,6 +34,8 @@ WA : SEATTLE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST
     2018: LYNDEN 401(K) RETIREMENT SAVINGS PLAN & TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H3J 
         Participants: 2624
         Assets: 240650339
         $/Participant: 91711
@@ -69,6 +44,8 @@ WA : SEATTLE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST
     2017: LYNDEN 401(K) RETIREMENT SAVINGS PLAN & TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H3J 
         Participants: 2550
         Assets: 251584302
         $/Participant: 98660
@@ -76,28 +53,87 @@ WA : SEATTLE
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST
+   [502]
+    2022: LYNDEN INCORPORATED AND PARTICIPATING EMPLOYERS HEALTHCARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: LYNDEN INCORPORATED AND PARTICIPATING EMPLOYERS HEALTHCARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: LYNDEN INCORPORATED AND PARTICIPATING EMPLOYERS HEALTHCARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: LYNDEN INCORPORATED AND PARTICIPATING EMPLOYERS HEALTHCARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: LYNDEN INCORPORATED AND PARTICIPATING EMPLOYERS HEALTHCARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: LYNDEN INCORPORATED AND PARTICIPATING EMPLOYERS HEALTHCARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+   [002]
+    2021: LYNDEN 401(K) RETIREMENT SAVINGS PLAN & TRUST
+        Benefit Category: Other
+        Codes: 2E2F2G2I2K2S2T3D3H3J 
+        Participants: 2787
+        Assets: 397507241
+        $/Participant: 142629
+        RecordKeeper: VANGUARD ADVISERS INC.
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC RETIREMENT SAVINGS TRUST III
+    2020: LYNDEN 401(K) RETIREMENT SAVINGS PLAN & TRUST
+        Benefit Category: Other
+        Codes: 2E2F2G2I2K2S2T3D3H3J 
+        Participants: 2786
+        Assets: 355399085
+        $/Participant: 127566
+        RecordKeeper: THE VANGUARD GROUP, INC.
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC RETIREMENT SAVINGS TRUST
+                 : VFTC RETIREMENT SAVINGS TRUST III
    [001]
     2022: LYNDEN PENSION EQUITY PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H 
         Participants: 785
         Assets: 205622510
         $/Participant: 261939
     2021: LYNDEN PENSION EQUITY PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H 
         Participants: 865
         Assets: 254982047
         $/Participant: 294776
     2020: LYNDEN PENSION EQUITY PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H 
         Participants: 923
         Assets: 243757198
         $/Participant: 264092
     2019: LYNDEN PENSION EQUITY PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H 
         Participants: 974
         Assets: 226823358
         $/Participant: 232878
     2018: LYNDEN PENSION EQUITY PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H 
         Participants: 989
         Assets: 181866477
         $/Participant: 183889
     2017: LYNDEN PENSION EQUITY PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H 
         Participants: 1041
         Assets: 182854214
         $/Participant: 175652

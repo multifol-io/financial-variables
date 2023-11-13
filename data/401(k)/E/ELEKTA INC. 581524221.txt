@@ -1,14 +1,9 @@
 GA : ATLANTA
   ELEKTA INC.  581524221
-   [501]
-    2022: ELEKTA INC. HEALTH & WELFARE PLAN
-        Participants: 
-    2021: ELEKTA INC. HEALTH & WELFARE PLAN
-        Participants: 
-    2020: ELEKTA INC. HEALTH & WELFARE PLAN
-        Participants: 
    [001]
     2022: ELEKTA, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3F 
         Participants: 1235
         Assets: 271282603
         $/Participant: 219662
@@ -32,6 +27,8 @@ GA : ATLANTA
                  : T. ROWE PRICE RETIREMENT 2065 TRUST
                  : TRP STABLE VALUE COMMON TRUST FUND
     2021: ELEKTA, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3F 
         Participants: 1253
         Assets: 346311361
         $/Participant: 276385
@@ -52,3 +49,16 @@ GA : ATLANTA
                  : T. ROWE PRICE RETIREMENT 2060 TRUST
                  : T. ROWE PRICE RETIREMENT 2065 TRUST
                  : TRP STABLE VALUE COMMON TRUST FUND
+   [501]
+    2022: ELEKTA INC. HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2021: ELEKTA INC. HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2020: ELEKTA INC. HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 

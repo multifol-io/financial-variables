@@ -1,22 +1,8 @@
 NE : OMAHA
-  TEAM FINANCIAL MANAGEMENT SYSTEMS, INC.  470724913
-   [502]
-    2017: TEAM SOFTWARE EMPLOYEE BENEFIT PLAN
-        Participants: 
-   [002]
-    2019: TEAM FINANCIAL MANAGEMENT SYSTEMS, INC. PROFIT SHARING PLAN
-        Participants: 0
-        RecordKeeper: GREATBANC
-    2018: TEAM FINANCIAL MANAGEMENT SYSTEMS, INC. PROFIT SHARING PLAN
-        Participants: 147
-        Assets: 67995439
-        $/Participant: 462554
-    2017: TEAM FINANCIAL MANAGEMENT SYSTEMS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 130
-        Assets: 30917837
-        $/Participant: 237829
-   [001]
+  TEAM FINANCIAL MANAGEMENT SYSTEMS, INC  470724913
     2020: TEAM FINANCIAL MANAGEMENT SYSTEMS, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 175
         Assets: 33547512
         $/Participant: 191700
@@ -43,6 +29,8 @@ NE : OMAHA
                  : PRIN SMCAP GROWTH I SEP ACCT-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2019: TEAM FINANCIAL MANAGEMENT SYSTEMS, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3C3D3H 
         Participants: 166
         Assets: 32291541
         $/Participant: 194527
@@ -63,6 +51,8 @@ NE : OMAHA
                  : PRIN LIFETIME HY 2065 CIT Z65
                  : PRIN LIFETIME HY INC CIT Z65
     2018: TEAM FINANCIAL MANAGEMENT SYSTEMS, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 146
         Assets: 7239004
         $/Participant: 49582
@@ -80,3 +70,26 @@ NE : OMAHA
                  : PRIN LIFETIME HYBR 2055 CIT R4
                  : PRIN LIFETIME HYBR 2060 CIT R4
                  : PRIN LIFETIME HYBR INC CIT R4
+   [002]
+    2019: TEAM FINANCIAL MANAGEMENT SYSTEMS, INC. PROFIT SHARING PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
+        Participants: 0
+        RecordKeeper: GREATBANC
+    2018: TEAM FINANCIAL MANAGEMENT SYSTEMS, INC. PROFIT SHARING PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 147
+        Assets: 67995439
+        $/Participant: 462554
+    2017: TEAM FINANCIAL MANAGEMENT SYSTEMS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 130
+        Assets: 30917837
+        $/Participant: 237829
+   [502]
+    2017: TEAM SOFTWARE EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4Q
+        Participants: 

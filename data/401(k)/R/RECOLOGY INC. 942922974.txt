@@ -1,20 +1,9 @@
 CA : SAN FRANCISCO
   RECOLOGY INC.  942922974
-   [501]
-    2022: RECOLOGY HEALTH AND WELLNESS BENEFIT PLAN
-        Participants: 
-    2021: RECOLOGY HEALTH AND WELLNESS BENEFIT PLAN
-        Participants: 
-    2020: RECOLOGY HEALTH AND WELLNESS BENEFIT PLAN
-        Participants: 
-    2019: RECOLOGY HEALTH AND WELLNESS BENEFIT PLAN
-        Participants: 
-    2018: RECOLOGY HEALTH AND WELLNESS BENEFIT PLAN
-        Participants: 
-    2017: RECOLOGY HEALTH AND WELLNESS BENEFIT PLAN
-        Participants: 
    [004]
     2022: RECOLOGY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 1750
         Assets: 70256277
         $/Participant: 40146
@@ -23,6 +12,8 @@ CA : SAN FRANCISCO
            - MELLON
                  : BNYM INSIGHT STABLE VALUE FUND
     2021: RECOLOGY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 1626
         Assets: 78253829
         $/Participant: 48126
@@ -31,6 +22,8 @@ CA : SAN FRANCISCO
            - MELLON
                  : BNYM INSIGHT STABLE VALUE FUND
     2020: RECOLOGY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 1551
         Assets: 65510420
         $/Participant: 42237
@@ -41,6 +34,8 @@ CA : SAN FRANCISCO
            - PRUDENTIAL RETIREMENT INS.
                  : DRYDEN S&P 500 INDEX FUND
     2019: RECOLOGY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D2S3H 
         Participants: 1403
         Assets: 52078077
         $/Participant: 37119
@@ -49,6 +44,8 @@ CA : SAN FRANCISCO
            - PRUDENTIAL RETIREMENT INS.
                  : DRYDEN S&P 500 INDEX FUND
     2018: RECOLOGY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D2S3H 
         Participants: 1294
         Assets: 38131735
         $/Participant: 29468
@@ -57,6 +54,8 @@ CA : SAN FRANCISCO
            - PRUDENTIAL RETIREMENT INS.
                  : DRYDEN S&P 500 INDEX FUND
     2017: RECOLOGY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D2S3H 
         Participants: 1128
         Assets: 33521990
         $/Participant: 29718
@@ -64,8 +63,66 @@ CA : SAN FRANCISCO
         Available Investments:
            - PRUDENTIAL RETIREMENT INS.
                  : DRYDEN S&P 500 INDEX FUND
+   [002]
+    2021: RECOLOGY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3H 
+        Participants: 5476
+        Assets: 473983479
+        $/Participant: 86556
+    2020: RECOLOGY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3H 
+        Participants: 5343
+        Assets: 535171935
+        $/Participant: 100163
+    2019: RECOLOGY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3H 
+        Participants: 5346
+        Assets: 532037298
+        $/Participant: 99520
+    2018: RECOLOGY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3H 
+        Participants: 5175
+        Assets: 581047873
+        $/Participant: 112279
+    2017: RECOLOGY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3H 
+        Participants: 4929
+        Assets: 527306028
+        $/Participant: 106980
+   [501]
+    2022: RECOLOGY HEALTH AND WELLNESS BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: RECOLOGY HEALTH AND WELLNESS BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: RECOLOGY HEALTH AND WELLNESS BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: RECOLOGY HEALTH AND WELLNESS BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: RECOLOGY HEALTH AND WELLNESS BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: RECOLOGY HEALTH AND WELLNESS BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
    [003]
     2021: RECOLOGY DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 2287
         Assets: 517789129
         $/Participant: 226405
@@ -93,6 +150,8 @@ CA : SAN FRANCISCO
            - WELLINGTON TRUST COMPANY, NA
                  : WELLINGTON INT RESEARCH EQUITY CIF
     2020: RECOLOGY DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 2318
         Assets: 724660866
         $/Participant: 312623
@@ -119,6 +178,8 @@ CA : SAN FRANCISCO
            - WELLINGTON TRUST COMPANY, NA
                  : WELLINGTON INT RESEARCH EQUITY CIF
     2019: RECOLOGY DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 2307
         Assets: 663378926
         $/Participant: 287550
@@ -156,6 +217,8 @@ CA : SAN FRANCISCO
            - WELLINGTON TRUST COMPANY, NA
                  : WELLINGTON INT RESEARCH EQUITY CIF
     2018: RECOLOGY DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 2269
         Assets: 572954296
         $/Participant: 252514
@@ -178,6 +241,8 @@ CA : SAN FRANCISCO
                  : SMALL CAP VALUE/ CEREDEX
                  : SMALL CAP VALUE/KENNEDY CAPITAL
     2017: RECOLOGY DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 2259
         Assets: 547850426
         $/Participant: 242519
@@ -197,24 +262,3 @@ CA : SAN FRANCISCO
                  : SMALL CAP GROWTH/EMERALD
                  : SMALL CAP VALUE/ CEREDEX
                  : SMALL CAP VALUE/KENNEDY CAPITAL
-   [002]
-    2021: RECOLOGY EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 5476
-        Assets: 473983479
-        $/Participant: 86556
-    2020: RECOLOGY EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 5343
-        Assets: 535171935
-        $/Participant: 100163
-    2019: RECOLOGY EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 5346
-        Assets: 532037298
-        $/Participant: 99520
-    2018: RECOLOGY EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 5175
-        Assets: 581047873
-        $/Participant: 112279
-    2017: RECOLOGY EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 4929
-        Assets: 527306028
-        $/Participant: 106980

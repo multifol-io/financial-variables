@@ -1,45 +1,9 @@
 MA : BOSTON
   WELLINGTON MANAGEMENT COMPANY LLP  300835489
-   [511]
-    2022: WELLINGTON MANAGEMENT COMPANY LLP WELFARE PLAN
-        Participants: 
-    2021: WELLINGTON MANAGEMENT COMPANY LLP WELFARE PLAN
-        Participants: 
-    2020: WELLINGTON MANAGEMENT COMPANY LLP WELFARE PLAN
-        Participants: 
-    2019: WELLINGTON MANAGEMENT COMPANY LLP WELFARE PLAN
-        Participants: 
-    2018: WELLINGTON MANAGEMENT COMPANY LLP WELFARE PLAN
-        Participants: 
-    2017: WELLINGTON MANAGEMENT COMPANY LLP WELFARE PLAN
-        Participants: 
-   [007]
-    2022: WELLINGTON MANAGEMENT COMPANY LLP DEFINED BENEFIT PLAN
-        Participants: 167
-        Assets: 202924060
-        $/Participant: 1215114
-    2021: WELLINGTON MANAGEMENT COMPANY LLP DEFINED BENEFIT PLAN
-        Participants: 159
-        Assets: 233280658
-        $/Participant: 1467173
-    2020: WELLINGTON MANAGEMENT COMPANY LLP DEFINED BENEFIT PLAN
-        Participants: 158
-        Assets: 211626175
-        $/Participant: 1339406
-    2019: WELLINGTON MANAGEMENT COMPANY LLP DEFINED BENEFIT PLAN
-        Participants: 153
-        Assets: 191180686
-        $/Participant: 1249546
-    2018: WELLINGTON MANAGEMENT COMPANY LLP DEFINED BENEFIT PLAN
-        Participants: 146
-        Assets: 145535878
-        $/Participant: 996821
-    2017: WELLINGTON MANAGEMENT COMPANY LLP DEFINED BENEFIT PLAN
-        Participants: 150
-        Assets: 148452899
-        $/Participant: 989685
    [003]
     2022: WELLINGTON RETIREMENT AND PENSION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3H 
         Participants: 4365
         Assets: 2543257148
         $/Participant: 582647
@@ -89,6 +53,8 @@ MA : BOSTON
                  : WTC-CIF US TREAS INFL PROTECTED SEC
                  : WTC-CIF WORLD BOND
     2021: WELLINGTON RETIREMENT AND PENSION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3H 
         Participants: 3827
         Assets: 2942671589
         $/Participant: 768923
@@ -138,6 +104,8 @@ MA : BOSTON
                  : WTC-CIF US TREAS INFL PROTECTED SEC
                  : WTC-CIF WORLD BOND
     2020: WELLINGTON RETIREMENT AND PENSION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3H 
         Participants: 3739
         Assets: 2689768560
         $/Participant: 719381
@@ -206,6 +174,8 @@ MA : BOSTON
                  : WTC-CIF US TREAS INFL PROTECTED SEC
                  : WTC-CIF WORLD BOND
     2019: WELLINGTON RETIREMENT AND PENSION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3H 
         Participants: 3717
         Assets: 2420690499
         $/Participant: 651248
@@ -269,6 +239,8 @@ MA : BOSTON
                  : WTC-CIF US TREAS INFL PROTECTED SEC
                  : WTC-CIF WORLD BOND
     2018: WELLINGTON RETIREMENT AND PENSION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3H 
         Participants: 3677
         Assets: 1979464055
         $/Participant: 538336
@@ -333,6 +305,8 @@ MA : BOSTON
                  : WTC-CIF VALUE
                  : WTC-CIF WORLD BOND
     2017: WELLINGTON RETIREMENT AND PENSION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3H 
         Participants: 3433
         Assets: 2090440120
         $/Participant: 608925
@@ -397,3 +371,71 @@ MA : BOSTON
                  : WTC-CIF US TREAS INFL PROTECTED SEC
                  : WTC-CIF VALUE
                  : WTC-CIF WORLD BOND
+   [511]
+    2022: WELLINGTON MANAGEMENT COMPANY LLP WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2021: WELLINGTON MANAGEMENT COMPANY LLP WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2020: WELLINGTON MANAGEMENT COMPANY LLP WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2019: WELLINGTON MANAGEMENT COMPANY LLP WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2018: WELLINGTON MANAGEMENT COMPANY LLP WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4F4H4I4L4Q
+        Participants: 
+    2017: WELLINGTON MANAGEMENT COMPANY LLP WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4F4H4I4L4Q
+        Participants: 
+   [007]
+    2022: WELLINGTON MANAGEMENT COMPANY LLP DEFINED BENEFIT PLAN
+        Benefit Category: Pension
+        Codes: 1B3H 
+        Participants: 167
+        Assets: 202924060
+        $/Participant: 1215114
+    2021: WELLINGTON MANAGEMENT COMPANY LLP DEFINED BENEFIT PLAN
+        Benefit Category: Pension
+        Codes: 1B3H 
+        Participants: 159
+        Assets: 233280658
+        $/Participant: 1467173
+    2020: WELLINGTON MANAGEMENT COMPANY LLP DEFINED BENEFIT PLAN
+        Benefit Category: Pension
+        Codes: 1B3H 
+        Participants: 158
+        Assets: 211626175
+        $/Participant: 1339406
+    2019: WELLINGTON MANAGEMENT COMPANY LLP DEFINED BENEFIT PLAN
+        Benefit Category: Pension
+        Codes: 1B3H 
+        Participants: 153
+        Assets: 191180686
+        $/Participant: 1249546
+    2018: WELLINGTON MANAGEMENT COMPANY LLP DEFINED BENEFIT PLAN
+        Benefit Category: Pension
+        Codes: 1B3H 
+        Participants: 146
+        Assets: 145535878
+        $/Participant: 996821
+    2017: WELLINGTON MANAGEMENT COMPANY LLP DEFINED BENEFIT PLAN
+        Benefit Category: Pension
+        Codes: 1B3H 
+        Participants: 150
+        Assets: 148452899
+        $/Participant: 989685

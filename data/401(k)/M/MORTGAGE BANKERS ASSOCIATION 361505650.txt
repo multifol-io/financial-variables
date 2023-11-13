@@ -1,41 +1,9 @@
 DC : WASHINGTON
   MORTGAGE BANKERS ASSOCIATION  361505650
-   [505]
-    2017: MBA BUSINESS TRAVEL ACCIDENT
-        Participants: 146
-   [504]
-    2020: HEALTH AND DENTAL PLAN
-        Participants: 
-    2019: HEALTH AND DENTAL PLAN
-        Participants: 
-    2018: HEALTH AND DENTAL PLAN
-        Participants: 
-    2017: HEALTH AND DENTAL PLAN
-        Participants: 
-   [503]
-    2020: DISABILITY PLAN
-        Participants: 
-    2019: DISABILITY PLAN
-        Participants: 
-    2018: DISABILITY PLAN
-        Participants: 
-    2017: DISABILITY PLAN
-        Participants: 
-   [501]
-    2022: MORTGAGE BANKERS ASSOCIATION HEALTH AND WELFARE PLANS
-        Participants: 
-    2021: MORTGAGE BANKERS ASSOCIATION HEALTH AND WELFARE PLANS
-        Participants: 
-    2020: LIFE INSURANCE PLAN
-        Participants: 
-    2019: LIFE INSURANCE PLAN
-        Participants: 
-    2018: LIFE INSURANCE PLAN
-        Participants: 
-    2017: LIFE INSURANCE PLAN
-        Participants: 
    [002]
     2022: THE MORTGAGE BANKERS ASSOCIATION 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 271
         Assets: 62890422
         $/Participant: 232067
@@ -76,6 +44,8 @@ DC : WASHINGTON
                  : VANGUARD SMALL CAP INDEX ADM
                  : VANGUARD TOTAL INTL STOCK INDEX ADM
     2021: MORTGAGE BANKERS ASSOCIATION 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K2S2T 
         Participants: 266
         Assets: 72293398
         $/Participant: 271779
@@ -103,6 +73,8 @@ DC : WASHINGTON
                  : SIA-W7 ULTRA
                  : SIA-WG NEW HORIZONS
     2020: MORTGAGE BANKERS ASSOCIATION 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3D2S2T 
         Participants: 263
         Assets: 62676736
         $/Participant: 238314
@@ -131,6 +103,8 @@ DC : WASHINGTON
                  : SIA-W7 ULTRA
                  : SIA-WG NEW HORIZONS
     2019: MORTGAGE BANKERS ASSOCIATION 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3D2S2T 
         Participants: 258
         Assets: 51799390
         $/Participant: 200772
@@ -160,6 +134,8 @@ DC : WASHINGTON
                  : SIA-W7 ULTRA
                  : SIA-WG NEW HORIZONS
     2018: MORTGAGE BANKERS ASSOCIATION 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3D2S2T 
         Participants: 248
         Assets: 39416024
         $/Participant: 158935
@@ -190,6 +166,8 @@ DC : WASHINGTON
                  : SIA-W7 ULTRA
                  : SIA-WG NEW HORIZONS
     2017: MORTGAGE BANKERS ASSOCIATION 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3D2S2T 
         Participants: 241
         Assets: 40384203
         $/Participant: 167569
@@ -217,15 +195,86 @@ DC : WASHINGTON
                  : SIA-W0 GROWTH
                  : SIA-W7 ULTRA
                  : SIA-WG NEW HORIZONS
+   [501]
+    2022: MORTGAGE BANKERS ASSOCIATION HEALTH AND WELFARE PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4Q
+        Participants: 
+   [504]
+    2020: HEALTH AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2019: HEALTH AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2018: HEALTH AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2017: HEALTH AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+   [501]
+    2021: MORTGAGE BANKERS ASSOCIATION HEALTH AND WELFARE PLANS
+        Benefit Category: Other
+        Codes:  4B4Q
+        Participants: 
+    2020: LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4Q
+        Participants: 
+    2019: LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4Q
+        Participants: 
+    2018: LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4Q
+        Participants: 
+    2017: LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4Q
+        Participants: 
+   [503]
+    2020: DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F4H4Q
+        Participants: 
+    2019: DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F4H4Q
+        Participants: 
+    2018: DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F4H4Q
+        Participants: 
+    2017: DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F4H4Q
+        Participants: 
+   [505]
+    2017: MBA BUSINESS TRAVEL ACCIDENT
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 146
    [001]
     2019: MORTGAGE BANKERS ASSOCIATION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 0
     2018: MORTGAGE BANKERS ASSOCIATION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 0
         Service Providers:
            - AON INVESTMENT CONSULTING, INC. :  (Actuarial | Consulting(pension) | Investment management | Direct payment from the plan)
            - FIRST STATE TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
     2017: MORTGAGE BANKERS ASSOCIATION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 137
         Assets: 29900917
         $/Participant: 218254

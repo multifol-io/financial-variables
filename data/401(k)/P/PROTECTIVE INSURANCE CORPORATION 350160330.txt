@@ -1,22 +1,9 @@
 IN : CARMEL
   PROTECTIVE INSURANCE CORPORATION  350160330
-   [501]
-    2022: PROTECTIVE INSURANCE CORPORATION EMPLOYEE BENEFIT TRUST
-        Participants: 0
-    2021: PROTECTIVE INSURANCE CORPORATION EMPLOYEE BENEFIT TRUST
-        Participants: 
-    2020: PROTECTIVE INSURANCE CORPORATION EMPLOYEE BENEFIT TRUST
-        Participants: 
-    2019: PROTECTIVE INSURANCE CORPORATION EMPLOYEE BENEFIT TRUST
-        Participants: 
-    2018: PROTECTIVE INSURANCE CORPORATION EMPLOYEE BENEFIT TRUST
-        Participants: 531
-        RecordKeeper: ANTHEM INSURANCE COMPANIES, INC.
-    2017: BALDWIN & LYONS, INC. EMPLOYEE BENEFIT TRUST
-        Participants: 470
-        RecordKeeper: ANTHEM INSURANCE COMPANIES, INC.
    [002]
     2022: PROTECTIVE INSURANCE SALARY SAVINGS & PROFIT SHARE PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R3D 
         Participants: 215
         Assets: 65595439
         $/Participant: 305095
@@ -25,6 +12,8 @@ IN : CARMEL
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGEMENT TRUST COMPANY
     2021: PROTECTIVE INSURANCE SALARY SAVINGS & PROFIT SHARE PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R3D 
         Participants: 206
         Assets: 84623455
         $/Participant: 410793
@@ -33,6 +22,8 @@ IN : CARMEL
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGEMENT TRUST COMPANY
     2020: PROTECTIVE INSURANCE SALARY SAVINGS & PROFIT SHARE PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R3D 
         Participants: 661
         Assets: 76343511
         $/Participant: 115496
@@ -41,6 +32,8 @@ IN : CARMEL
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGEMENT TRUST COMPANY
     2019: PROTECTIVE INSURANCE CORPORATION SALARY SAVINGS & PROFIT SHARE PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R3D 
         Participants: 655
         Assets: 65347751
         $/Participant: 99767
@@ -49,6 +42,8 @@ IN : CARMEL
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGEMENT TRUST COMPANY
     2018: PROTECTIVE INSURANCE CORPORATION SALARY SAVINGS & PROFIT SHARE PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R3D 
         Participants: 652
         Assets: 54629452
         $/Participant: 83787
@@ -57,6 +52,8 @@ IN : CARMEL
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGEMENT TRUST COMPANY
     2017: BALDWIN & LYONS, INC. SALARY SAVINGS AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R3D 
         Participants: 603
         Assets: 56256975
         $/Participant: 93295
@@ -64,3 +61,30 @@ IN : CARMEL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGEMENT TRUST COMPANY
+   [501]
+    2022: PROTECTIVE INSURANCE CORPORATION EMPLOYEE BENEFIT TRUST
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 0
+    2021: PROTECTIVE INSURANCE CORPORATION EMPLOYEE BENEFIT TRUST
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: PROTECTIVE INSURANCE CORPORATION EMPLOYEE BENEFIT TRUST
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2019: PROTECTIVE INSURANCE CORPORATION EMPLOYEE BENEFIT TRUST
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2018: PROTECTIVE INSURANCE CORPORATION EMPLOYEE BENEFIT TRUST
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 531
+        RecordKeeper: ANTHEM INSURANCE COMPANIES, INC.
+    2017: BALDWIN & LYONS, INC. EMPLOYEE BENEFIT TRUST
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 470
+        RecordKeeper: ANTHEM INSURANCE COMPANIES, INC.

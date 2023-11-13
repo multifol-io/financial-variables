@@ -1,25 +1,9 @@
 NM : FARMINGTON
-  CITIZENS BANK CAFETERIA PLAN  850021005
-   [503]
-    2022: THE CITIZENS BANK CAFETERIA PLAN
-        Participants: 
-    2021: THE CITIZENS BANK CAFETERIA PLAN
-        Participants: 
-    2020: THE CITIZENS BANK CAFETERIA PLAN
-        Participants: 
-    2019: THE CITIZENS BANK CAFETERIA PLAN
-        Participants: 
-    2018: THE CITIZENS BANK CAFETERIA PLAN
-        Participants: 
-    2017: THE CITIZENS BANK CAFETERIA PLAN
-        Participants: 
-   [502]
-    2018: THE CITIZENS BANK LONG TERM DISABILITY PLAN
-        Participants: 
-    2017: THE CITIZENS BANK LONG TERM DISABILITY PLAN
-        Participants: 
+  CITIZENS BANK  850021005
    [003]
     2022: CITIZENS BANK 401K RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 153
         Assets: 12617415
         $/Participant: 82466
@@ -36,6 +20,8 @@ NM : FARMINGTON
                  : CLEARBRIDGE LARGE CAP GROWTH FUND
                  : WESTERN ASSET CORE PLUS BOND FUND
     2021: CITIZENS BANK 401K RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 159
         Assets: 15468766
         $/Participant: 97287
@@ -50,6 +36,8 @@ NM : FARMINGTON
                  : CLEARBRIDGE LARGE CAP GROWTH FUND
                  : WESTERN ASSET CORE PLUS BOND FUND
     2020: CITIZENS BANK 401K RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 167
         Assets: 14056752
         $/Participant: 84172
@@ -64,22 +52,30 @@ NM : FARMINGTON
                  : CLEARBRIDGE LARGE CAP GROWTH FUND
                  : WESTERN ASSET CORE PLUS BOND FUND
     2019: CITIZENS BANK 401K RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 157
         Assets: 11908666
         $/Participant: 75851
         RecordKeeper: MAINSTREET ADVISORS-CHICAGO
     2018: CITIZENS BANK 401K RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 151
         Assets: 9979161
         $/Participant: 66087
         RecordKeeper: MAINSTREET ADVISORS-CHICAGO
     2017: CITIZENS BANK 401K RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 146
         Assets: 11053873
         $/Participant: 75711
         RecordKeeper: BENEFIT PLANS ADMINISTRATORS
    [002]
     2022: CITIZENS BANK EMPLOYEE STOCK OWNERSHIP AND RETIREMENT SAVINGS PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2P2Q3H3I 
         Participants: 130
         Assets: 22609578
         $/Participant: 173919
@@ -87,6 +83,8 @@ NM : FARMINGTON
            - GREATBANC TRUST COMPANY : N/A (Investment advisory(plan))
            - TRANSITION FINANCE STRATEGIES : N/A (Contract Administrator)
     2021: CITIZENS BANK EMPLOYEE STOCK OWNERSHIP AND RETIREMENT SAVINGS PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2O2Q3H3I 
         Participants: 135
         Assets: 27266756
         $/Participant: 201975
@@ -94,6 +92,8 @@ NM : FARMINGTON
            - GREATBANC TRUST COMPANY : N/A (Investment advisory(plan))
            - TRANSITION FINANCE STRATEGIES : N/A (Contract Administrator)
     2020: CITIZENS BANK EMPLOYEE STOCK OWNERSHIP AND RETIREMENT SAVINGS PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2O2Q3H3I 
         Participants: 131
         Assets: 29672840
         $/Participant: 226510
@@ -102,6 +102,8 @@ NM : FARMINGTON
            - TRANSITION FINANCE STRATEGIES : N/A (Contract Administrator)
            - VINING SPARKS IBG, L.P. : N/A (Valuation(appraisals, etc.))
     2019: CITIZENS BANK EMPLOYEE STOCK OWNERSHIP AND RETIREMENT SAVINGS PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2O2Q3H3I 
         Participants: 123
         Assets: 31642390
         $/Participant: 257255
@@ -110,6 +112,8 @@ NM : FARMINGTON
            - TRANSITION FINANCE STRATEGIES : N/A (Contract Administrator)
            - VINING SPARKS IBG, L.P. : N/A (Valuation(appraisals, etc.))
     2018: CITIZENS BANK EMPLOYEE STOCK OWNERSHIP AND RETIREMENT SAVINGS PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2O2Q3H3I 
         Participants: 122
         Assets: 33433469
         $/Participant: 274044
@@ -119,6 +123,8 @@ NM : FARMINGTON
            - TRANSITION FINANCE STRATEGIES : N/A (Contract Administrator)
            - VINING SPARKS : N/A (Valuation(appraisals, etc.))
     2017: CITIZENS BANK EMPLOYEE STOCK OWNERSHIP AND RETIREMENT SAVINGS PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2O2Q3H3I 
         Participants: 123
         Assets: 36316107
         $/Participant: 295252
@@ -127,3 +133,37 @@ NM : FARMINGTON
            - LEWIS ROCA ROTHGERBER CHRISTIE : N/A (Legal)
            - TRANSITION FINANCE STRATEGIES : N/A (Contract Administrator)
            - VINING SPARKS : N/A (Valuation(appraisals, etc.))
+   [502]
+    2018: THE CITIZENS BANK LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2017: THE CITIZENS BANK LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+   [503]
+    2022: THE CITIZENS BANK CAFETERIA PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2021: THE CITIZENS BANK CAFETERIA PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2020: THE CITIZENS BANK CAFETERIA PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2019: THE CITIZENS BANK CAFETERIA PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2018: THE CITIZENS BANK CAFETERIA PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2017: THE CITIZENS BANK CAFETERIA PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 

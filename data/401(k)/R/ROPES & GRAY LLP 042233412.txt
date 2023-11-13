@@ -1,82 +1,9 @@
 MA : BOSTON
   ROPES & GRAY LLP  042233412
-   [512]
-    2022: ROPES & GRAY LLP EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2021: ROPES & GRAY LLP EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2020: ROPES & GRAY LLP EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2019: ROPES & GRAY LLP EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2018: ROPES & GRAY LLP EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2017: ROPES AND GRAY LLP EMPLOYEE BENEFIT PLAN
-        Participants: 
-   [511]
-    2022: ROPES & GRAY LLP HEALTH CARE REIMBURSEMENT ACCOUNT PLAN
-        Participants: 
-    2021: ROPES & GRAY LLP HEALTH CARE REIMBURSEMENT ACCOUNT PLAN
-        Participants: 
-    2020: ROPES & GRAY LLP HEALTH CARE REIMBURSEMENT ACCOUNT PLAN
-        Participants: 
-    2019: ROPES & GRAY LLP HEALTH CARE REIMBURSEMENT ACCOUNT PLAN
-        Participants: 
-    2018: ROPES & GRAY LLP HEALTH CARE REIMBURSEMENT ACCOUNT PLAN
-        Participants: 
-    2017: ROPES AND GRAY LLP HEALTH CARE REIMBURSEMENT ACCOUNT PLAN
-        Participants: 
-   [067]
-    2022: ROPES & GRAY LLP SUPPLEMENTAL RETIREMENT SHARES PLAN
-        Participants: 388
-        Assets: 199416634
-        $/Participant: 513960
-        Service Providers:
-           - NEUBERGER BERMAN TRUST COMPANY, NA : CUSTODIAN (Custodial(securities))
-           - NEUBERGER BERMAN INVESTMENT ADV LLC : INVESTMENT MANAGER (Investment management)
-           - ENVESTNET : INVESTMENT MANAGER (Investment management)
-    2021: ROPES & GRAY LLP SUPPLEMENTAL RETIREMENT SHARES PLAN
-        Participants: 385
-        Assets: 248530815
-        $/Participant: 645534
-        Service Providers:
-           - NEUBERGER BERMAN TRUST COMPANY, NA : CUSTODIAN (Custodial(securities))
-           - NEUBERGER BERMAN INVESTMENT ADV LLC : INVESTMENT MANAGER (Investment management)
-           - ENVESTNET : INVESTMENT MANAGER (Investment management)
-    2020: ROPES & GRAY LLP SUPPLEMENTAL RETIREMENT SHARES PLAN
-        Participants: 376
-        Assets: 236652620
-        $/Participant: 629395
-        Service Providers:
-           - NEUBERGER BERMAN INVESTMENT ADV LLC : INVESTMENT MANAGER (Investment management)
-           - ENVESTNET : INVESTMENT MANAGER (Investment management)
-           - NEUBERGER BERMAN TRUST COMPANY, NA : CUSTODIAN (Custodial(securities))
-    2019: ROPES & GRAY LLP SUPPLEMENTAL RETIREMENT SHARES PLAN
-        Participants: 370
-        Assets: 195030660
-        $/Participant: 527109
-        Service Providers:
-           - ENVESTNET : INVESTMENT MANAGER (Investment management)
-           - NEUBERGER BERMAN TRUST COMPANY, NA : CUSTODIAN (Custodial(securities))
-           - NEUBERGER BERMAN INVESTMENT ADV LLC : INVESTMENT MANAGER (Investment management)
-    2018: ROPES & GRAY LLP SUPPLEMENTAL RETIREMENT SHARES PLAN
-        Participants: 368
-        Assets: 169110325
-        $/Participant: 459538
-        Service Providers:
-           - ENVESTNET : INVESTMENT MANAGER (Investment management)
-           - NEUBERGER BERMAN TRUST COMPANY, NA : CUSTODIAN (Custodial(securities))
-           - NEUBERGER BERMAN INVESTMENT ADV LLC : INVESTMENT MANAGER (Investment management)
-    2017: ROPES & GRAY LLP SUPPLEMENTAL RETIREMENT SHARES PLAN
-        Participants: 389
-        Assets: 228003656
-        $/Participant: 586127
-        Service Providers:
-           - ENVESTNET : INVESTMENT MANAGER (Investment management)
-           - NEUBERGER BERMAN TRUST COMPANY, NA : CUSTODIAN (Custodial(securities))
-           - NEUBERGER BERMAN INVESTMENT ADV LLC : INVESTMENT MANAGER (Investment management)
    [007]
     2022: ROPES & GRAY LLP RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T 
         Participants: 4401
         Assets: 1085012774
         $/Participant: 246537
@@ -100,6 +27,8 @@ MA : BOSTON
                  : PUTNAM RETIREMENT ADVANTAGE 2060 X
                  : PUTNAM RETIREMENT ADVANTAGE MATUR X
     2021: ROPES & GRAY LLP RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T 
         Participants: 4216
         Assets: 1293868352
         $/Participant: 306894
@@ -123,6 +52,8 @@ MA : BOSTON
                  : PUTNAM RETIREMENT ADVANTAGE 2060 X
                  : PUTNAM RETIREMENT ADVANTAGE MATUR X
     2020: ROPES & GRAY LLP RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T 
         Participants: 3767
         Assets: 1152655348
         $/Participant: 305987
@@ -147,6 +78,8 @@ MA : BOSTON
                  : PUTNAM RETIREMENT ADVANTAGE 2060 X
                  : PUTNAM RETIREMENT ADVANTAGE MATUR X
     2019: ROPES & GRAY LLP RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T 
         Participants: 4019
         Assets: 1012809789
         $/Participant: 252005
@@ -171,6 +104,8 @@ MA : BOSTON
                  : PUTNAM RETIREMENT ADVANTAGE 2060 X
                  : PUTNAM RETIREMENT ADVANTAGE MATUR X
     2018: ROPES & GRAY LLP RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T 
         Participants: 3714
         Assets: 828534413
         $/Participant: 223084
@@ -208,6 +143,8 @@ MA : BOSTON
                  : PUTNAM RETIREMENT ADVANTAGE 2060 X
                  : PUTNAM RETIREMENT ADVANTAGE MATUR X
     2017: ROPES & GRAY LLP RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T 
         Participants: 3578
         Assets: 879943658
         $/Participant: 245931
@@ -231,40 +168,163 @@ MA : BOSTON
                  : JPMORGAN SMARTRETIREMENT 2050 C
                  : JPMORGAN SMARTRETIREMENT 2055 C
                  : JPMORGAN SMARTRETIREMENT INCOME C
+   [511]
+    2022: ROPES & GRAY LLP HEALTH CARE REIMBURSEMENT ACCOUNT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: ROPES & GRAY LLP HEALTH CARE REIMBURSEMENT ACCOUNT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2020: ROPES & GRAY LLP HEALTH CARE REIMBURSEMENT ACCOUNT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: ROPES & GRAY LLP HEALTH CARE REIMBURSEMENT ACCOUNT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: ROPES & GRAY LLP HEALTH CARE REIMBURSEMENT ACCOUNT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: ROPES AND GRAY LLP HEALTH CARE REIMBURSEMENT ACCOUNT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [512]
+    2022: ROPES & GRAY LLP EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: ROPES & GRAY LLP EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: ROPES & GRAY LLP EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: ROPES & GRAY LLP EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: ROPES & GRAY LLP EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: ROPES AND GRAY LLP EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
    [002]
     2022: ROPES & GRAY LLP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 2221
         Assets: 224563372
         $/Participant: 101109
         Service Providers:
            - FNZ TRUST COMPANY : CUSTODIAN (Custodial(securities))
     2021: ROPES & GRAY LLP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 2087
         Assets: 280045647
         $/Participant: 134185
         Service Providers:
            - FNZ TRUST COMPANY : CUSTODIAN (Custodial(securities))
     2020: ROPES & GRAY LLP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1969
         Assets: 248730496
         $/Participant: 126323
         Service Providers:
            - STATE STREET BANK & TRUST COMPANY : CUSTODIAN (Custodial(securities))
     2019: ROPES & GRAY LLP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 2189
         Assets: 197235993
         $/Participant: 90103
         Service Providers:
            - STATE STREET BANK & TRUST COMPANY : CUSTODIAN (Custodial(securities))
     2018: ROPES & GRAY LLP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 2107
         Assets: 169927015
         $/Participant: 80648
         Service Providers:
            - STATE STREET BANK & TRUST COMPANY : CUSTODIAN (Custodial(securities))
     2017: ROPES & GRAY LLP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 2018
         Assets: 165749529
         $/Participant: 82135
         Service Providers:
            - STATE STREET BANK & TRUST COMPANY : CUSTODIAN (Custodial(securities))
+   [067]
+    2022: ROPES & GRAY LLP SUPPLEMENTAL RETIREMENT SHARES PLAN
+        Benefit Category: Pension
+        Codes: 1A 
+        Participants: 388
+        Assets: 199416634
+        $/Participant: 513960
+        Service Providers:
+           - NEUBERGER BERMAN TRUST COMPANY, NA : CUSTODIAN (Custodial(securities))
+           - NEUBERGER BERMAN INVESTMENT ADV LLC : INVESTMENT MANAGER (Investment management)
+           - ENVESTNET : INVESTMENT MANAGER (Investment management)
+    2021: ROPES & GRAY LLP SUPPLEMENTAL RETIREMENT SHARES PLAN
+        Benefit Category: Pension
+        Codes: 1A 
+        Participants: 385
+        Assets: 248530815
+        $/Participant: 645534
+        Service Providers:
+           - NEUBERGER BERMAN TRUST COMPANY, NA : CUSTODIAN (Custodial(securities))
+           - NEUBERGER BERMAN INVESTMENT ADV LLC : INVESTMENT MANAGER (Investment management)
+           - ENVESTNET : INVESTMENT MANAGER (Investment management)
+    2020: ROPES & GRAY LLP SUPPLEMENTAL RETIREMENT SHARES PLAN
+        Benefit Category: Pension
+        Codes: 1A 
+        Participants: 376
+        Assets: 236652620
+        $/Participant: 629395
+        Service Providers:
+           - NEUBERGER BERMAN INVESTMENT ADV LLC : INVESTMENT MANAGER (Investment management)
+           - ENVESTNET : INVESTMENT MANAGER (Investment management)
+           - NEUBERGER BERMAN TRUST COMPANY, NA : CUSTODIAN (Custodial(securities))
+    2019: ROPES & GRAY LLP SUPPLEMENTAL RETIREMENT SHARES PLAN
+        Benefit Category: Pension
+        Codes: 1A 
+        Participants: 370
+        Assets: 195030660
+        $/Participant: 527109
+        Service Providers:
+           - ENVESTNET : INVESTMENT MANAGER (Investment management)
+           - NEUBERGER BERMAN TRUST COMPANY, NA : CUSTODIAN (Custodial(securities))
+           - NEUBERGER BERMAN INVESTMENT ADV LLC : INVESTMENT MANAGER (Investment management)
+    2018: ROPES & GRAY LLP SUPPLEMENTAL RETIREMENT SHARES PLAN
+        Benefit Category: Pension
+        Codes: 1A 
+        Participants: 368
+        Assets: 169110325
+        $/Participant: 459538
+        Service Providers:
+           - ENVESTNET : INVESTMENT MANAGER (Investment management)
+           - NEUBERGER BERMAN TRUST COMPANY, NA : CUSTODIAN (Custodial(securities))
+           - NEUBERGER BERMAN INVESTMENT ADV LLC : INVESTMENT MANAGER (Investment management)
+    2017: ROPES & GRAY LLP SUPPLEMENTAL RETIREMENT SHARES PLAN
+        Benefit Category: Pension
+        Codes: 1A 
+        Participants: 389
+        Assets: 228003656
+        $/Participant: 586127
+        Service Providers:
+           - ENVESTNET : INVESTMENT MANAGER (Investment management)
+           - NEUBERGER BERMAN TRUST COMPANY, NA : CUSTODIAN (Custodial(securities))
+           - NEUBERGER BERMAN INVESTMENT ADV LLC : INVESTMENT MANAGER (Investment management)

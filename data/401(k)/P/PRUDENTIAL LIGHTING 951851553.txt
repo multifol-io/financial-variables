@@ -1,20 +1,9 @@
 CA : LOS ANGELES
-  PRUDENTIAL LIGHTING CORPORATION  951851553
-   [501]
-    2022: PRUDENTIAL LIGHTING CORPORATION HEALTH PLAN
-        Participants: 
-    2021: PRUDENTIAL LIGHTING CORPORATION HEALTH PLAN
-        Participants: 
-    2020: PRUDENTIAL LIGHTING CORPORATION HEALTH PLAN
-        Participants: 
-    2019: PRUDENTIAL LIGHTING CORPORATION HEALTH PLAN
-        Participants: 
-    2018: PRUDENTIAL LIGHTING CORPORATION HEALTH PLAN
-        Participants: 
-    2017: PRUDENTIAL LIGHTING CORPORATION HEALTH PLAN
-        Participants: 
+  PRUDENTIAL LIGHTING  951851553
    [002]
     2022: PRUDENTIAL LIGHTING UNION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D 
         Participants: 132
         Assets: 1589836
         $/Participant: 12044
@@ -30,6 +19,8 @@ CA : LOS ANGELES
                  : STATE ST S&P MD CP IDX NL J
                  : STATE ST US BD IDX SL VIII
     2021: PRUDENTIAL LIGHTING UNION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 121
         Assets: 1826966
         $/Participant: 15098
@@ -43,6 +34,8 @@ CA : LOS ANGELES
                  : STATE ST S&P MD CP IDX NL J
                  : STATE ST US BD IDX SL VIII
     2020: PRUDENTIAL LIGHTING UNION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 123
         Assets: 1713992
         $/Participant: 13934
@@ -55,33 +48,70 @@ CA : LOS ANGELES
                  : STATE ST S&P 500 IDX IX
                  : STATE ST S&P MD CP IDX NL J
                  : STATE ST US BD IDX SL VIII
+   [501]
+    2022: PRUDENTIAL LIGHTING CORPORATION HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L
+        Participants: 
+    2021: PRUDENTIAL LIGHTING CORPORATION HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L
+        Participants: 
+    2020: PRUDENTIAL LIGHTING CORPORATION HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L
+        Participants: 
+    2019: PRUDENTIAL LIGHTING CORPORATION HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L
+        Participants: 
+    2018: PRUDENTIAL LIGHTING CORPORATION HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L
+        Participants: 
+    2017: PRUDENTIAL LIGHTING CORPORATION HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L
+        Participants: 
    [001]
     2022: PRUDENTIAL LIGHTING PROFIT SHARING PLAN AND TRUST
+        Benefit Category: Other
+        Codes: 2E2F2G3D2T 
         Participants: 152
         Assets: 48974590
         $/Participant: 322201
         RecordKeeper: THE PRUDENTIAL INSURANCE COMPANY OF
     2021: PRUDENTIAL LIGHTING PROFIT SHARING PLAN AND TRUST
+        Benefit Category: Other
+        Codes: 2E2F2G3D2T 
         Participants: 153
         Assets: 54882789
         $/Participant: 358711
         RecordKeeper: THE PRUDENTIAL INSURANCE COMPANY OF
     2020: PRUDENTIAL LIGHTING PROFIT SHARING PLAN AND TRUST
+        Benefit Category: Other
+        Codes: 2E2F2G3D2T 
         Participants: 159
         Assets: 51190470
         $/Participant: 321952
         RecordKeeper: CLIFTON LARSON ALLEN LLP
     2019: PRUDENTIAL LIGHTING PROFIT SHARING PLAN AND TRUST
+        Benefit Category: Other
+        Codes: 2E2F2G3D2T 
         Participants: 156
         Assets: 45766702
         $/Participant: 293376
         RecordKeeper: CLIFTONLARSONALLEN LLP
     2018: PRUDENTIAL LIGHTING PROFIT SHARING PLAN
+        Benefit Category: Other
+        Codes: 2E2F2G3D2T 
         Participants: 154
         Assets: 38429600
         $/Participant: 249542
         RecordKeeper: BAY MUTUAL FINANCIAL
     2017: PRUDENTIAL LIGHTING PROFIT SHARING PLAN
+        Benefit Category: Other
+        Codes: 2E2F2G3D2T 
         Participants: 148
         Assets: 38369553
         $/Participant: 259253

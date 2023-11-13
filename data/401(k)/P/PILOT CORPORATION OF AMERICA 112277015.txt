@@ -1,73 +1,111 @@
 FL : JACKSONVILLE
   PILOT CORPORATION OF AMERICA  112277015
-   [501]
-    2022: PILOT CORPORATION WELFARE BENEFIT PLAN
-        Participants: 
-    2021: PILOT CORPORATION WELFARE BENEFIT PLAN
-        Participants: 
-    2020: PILOT CORPORATION WELFARE BENEFIT PLAN
-        Participants: 
-    2019: PILOT CORPORATION WELFARE BENEFIT PLAN
-        Participants: 
-    2018: PILOT CORPORATION WELFARE BENEFIT PLAN
-        Participants: 
-    2017: PILOT CORPORATION WELFARE BENEFIT PLAN
-        Participants: 
-   [003]
-    2022: PILOT PEN 401(K) PLAN
-        Participants: 236
-        Assets: 7641224
-        $/Participant: 32378
-        RecordKeeper: STRATEGIC ADVISORS, INC.
-    2021: PILOT PEN 401(K) PLAN
-        Participants: 210
-        Assets: 8776364
-        $/Participant: 41792
-        RecordKeeper: STRATEGIC ADVISORS, INC.
-    2020: PILOT PEN 401(K) PLAN
-        Participants: 206
-        Assets: 7740665
-        $/Participant: 37576
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2019: PILOT PEN 401(K) PLAN
-        Participants: 220
-        Assets: 6620791
-        $/Participant: 30094
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2018: PILOT PEN 401(K) PLAN
-        Participants: 192
-        Assets: 4674564
-        $/Participant: 24346
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2017: PILOT PEN 401(K) PLAN
-        Participants: 165
-        Assets: 4286858
-        $/Participant: 25980
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
    [002]
     2022: PILOT CORPORATION OF AMERICA EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2T3F3D 
         Participants: 74
     2021: PILOT CORPORATION OF AMERICA EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2T3F3D 
         Participants: 80
     2020: PILOT CORPORATION OF AMERICA EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2T3F3D 
         Participants: 90
     2019: PILOT CORPORATION OF AMERICA EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2T3D3F 
         Participants: 99
         Assets: 10720783
         $/Participant: 108290
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2018: PILOT CORPORATION OF AMERICA EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2J2T3D3F2F2G 
         Participants: 105
         Assets: 9856041
         $/Participant: 93867
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2017: PILOT CORPORATION OF AMERICA EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2T3D3F 
         Participants: 113
         Assets: 10723597
         $/Participant: 94899
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+   [003]
+    2022: PILOT PEN 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3F3D 
+        Participants: 236
+        Assets: 7641224
+        $/Participant: 32378
+        RecordKeeper: STRATEGIC ADVISORS, INC.
+    2021: PILOT PEN 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3F3D 
+        Participants: 210
+        Assets: 8776364
+        $/Participant: 41792
+        RecordKeeper: STRATEGIC ADVISORS, INC.
+    2020: PILOT PEN 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3F3D 
+        Participants: 206
+        Assets: 7740665
+        $/Participant: 37576
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2019: PILOT PEN 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D3F 
+        Participants: 220
+        Assets: 6620791
+        $/Participant: 30094
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2018: PILOT PEN 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D3F 
+        Participants: 192
+        Assets: 4674564
+        $/Participant: 24346
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2017: PILOT PEN 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D3F 
+        Participants: 165
+        Assets: 4286858
+        $/Participant: 25980
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+   [501]
+    2022: PILOT CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2021: PILOT CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: PILOT CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: PILOT CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: PILOT CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2017: PILOT CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
    [001]
     2020: PILOT CORPORATION OF AMERICA PENSION PLAN
+        Benefit Category: Other
+        Codes: 2B3F 
         Participants: 99
         Assets: 27146209
         $/Participant: 274204
@@ -89,6 +127,8 @@ FL : JACKSONVILLE
                  : WELLS FARGO GROWTH CIT CLASS F
                  : WELLS FARGO MFS VALUE CIT F 1685
     2019: PILOT CORPORATION OF AMERICA PENSION PLAN
+        Benefit Category: Other
+        Codes: 2B3F 
         Participants: 106
         Assets: 25894261
         $/Participant: 244285
@@ -109,6 +149,8 @@ FL : JACKSONVILLE
                  : WELLS FARGO GROWTH CIT CLASS F
                  : WELLS FARGO MFS VALUE CIT F 1685
     2018: PILOT CORPORATION OF AMERICA PENSION PLAN
+        Benefit Category: Other
+        Codes: 2B3F 
         Participants: 113
         Assets: 21076997
         $/Participant: 186522
@@ -129,6 +171,8 @@ FL : JACKSONVILLE
                  : WELLS FARGO GROWTH CIT CLASS F
                  : WELLS FARGO MFS VALUE CIT F 1685
     2017: PILOT CORPORATION OF AMERICA PENSION PLAN
+        Benefit Category: Other
+        Codes: 2B3F 
         Participants: 124
         Assets: 23605641
         $/Participant: 190368

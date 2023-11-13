@@ -1,22 +1,19 @@
 CO : DENVER
   QEP RESOURCES, INC.  870287750
-   [501]
-    2020: QEP RESOURCES, INC. UMBRELLA BENEFITS PLAN
-        Participants: 
-    2019: QEP RESOURCES, INC. UMBRELLA BENEFITS PLAN
-        Participants: 
-    2018: QEP RESOURCES, INC. UMBRELLA BENEFITS PLAN
-        Participants: 
-    2017: QEP RESOURCES, INC. UMBRELLA BENEFITS PLAN
-        Participants: 
    [002]
     2020: QEP RESOURCES, INC. EMPLOYEE INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2O2S2T 
         Participants: 0
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
     2019: QEP RESOURCES, INC. EMPLOYEE INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2O2S2T 
         Participants: 591
         Assets: 91002450
         $/Participant: 153980
@@ -25,6 +22,9 @@ CO : DENVER
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
     2018: QEP RESOURCES, INC. EMPLOYEE INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2F2G2J2K2O2S2T2E 
         Participants: 799
         Assets: 104080542
         $/Participant: 130263
@@ -33,6 +33,9 @@ CO : DENVER
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
     2017: QEP RESOURCES, INC. EMPLOYEE INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2O2S2T 
         Participants: 916
         Assets: 121607705
         $/Participant: 132759
@@ -40,9 +43,28 @@ CO : DENVER
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
+   [501]
+    2020: QEP RESOURCES, INC. UMBRELLA BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2019: QEP RESOURCES, INC. UMBRELLA BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2018: QEP RESOURCES, INC. UMBRELLA BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2017: QEP RESOURCES, INC. UMBRELLA BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
 TX : MIDLAND
    [001]
     2022: QEP RESOURCES, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 212
         Assets: 90978963
         $/Participant: 429146
@@ -65,6 +87,8 @@ TX : MIDLAND
            - WELLINGTON TRUST COMPANY NA
                  : WELLINGTON TRUST CORP LONG BOND
     2021: QEP RESOURCES, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 214
         Assets: 125425435
         $/Participant: 586100
@@ -87,6 +111,8 @@ TX : MIDLAND
                  : WELLINGTON TRUST CORP LONG BOND
 CO : DENVER
     2020: QEP RESOURCES, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 214
         Assets: 128061348
         $/Participant: 598417
@@ -108,6 +134,8 @@ CO : DENVER
            - WELLINGTON TRUST COMPANY NA
                  : WELLINGTON TRUST CORP LONG BOND
     2019: QEP RESOURCES, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 214
         Assets: 117939766
         $/Participant: 551120
@@ -132,6 +160,8 @@ CO : DENVER
            - WELLINGTON TRUST COMPANY, NA
                  : WELLINGTON TRUST CORP LONG BOND
     2018: QEP RESOURCES, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 214
         Assets: 98285458
         $/Participant: 459277
@@ -156,6 +186,8 @@ CO : DENVER
            - WELLINGTON TRUST COMPANY, NA
                  : WELLINGTON TRUST CORP LONG BOND
     2017: QEP RESOURCES, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 214
         Assets: 104898167
         $/Participant: 490178

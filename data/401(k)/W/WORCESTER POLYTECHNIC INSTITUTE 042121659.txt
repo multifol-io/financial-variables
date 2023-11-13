@@ -2,44 +2,33 @@ MA : WORCESTER
   WORCESTER POLYTECHNIC INSTITUTE  042121659
    [507]
     2022: WORCESTER POLYTECHNIC INSTITUTE EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
     2021: WORCESTER POLYTECHNIC INSTITUTE EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
     2020: WORCESTER POLYTECHNIC INSTITUTE EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
     2019: WORCESTER POLYTECHNIC INSTITUTE EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L
         Participants: 
     2018: WORCESTER POLYTECHNIC INSTITUTE EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L
         Participants: 
     2017: WORCESTER POLYTECHNIC INSTITUTE EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L
         Participants: 
-   [003]
-    2019: WORCESTER POLYTECHNIC INSTITUTE TAX DEFERRED ANNUITY PLAN
-        Participants: 1314
-        Assets: 111032122
-        $/Participant: 84499
-        RecordKeeper: FIDELITY INV INST OPERATIONS CO
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2018: WORCESTER POLYTECHNIC INSTITUTE TAX DEFERRED ANNUITY PLAN
-        Participants: 1248
-        Assets: 107784044
-        $/Participant: 86365
-        RecordKeeper: FIDELITY INV INST OPERATIONS CO
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2017: WORCESTER POLYTECHNIC INSTITUTE TAX DEFERRED ANNUITY PLAN
-        Participants: 1210
-        Assets: 109733504
-        $/Participant: 90688
-        RecordKeeper: TIAA-TEACHERS INS & ANN ASSC OF AM
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
    [001]
     2022: WORCESTER POLYTECHNIC INSTITUTE DEFINED CONTRIBUTION PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2R2S2T 
         Participants: 2845
         Assets: 557333016
         $/Participant: 195899
@@ -48,6 +37,8 @@ MA : WORCESTER
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2021: WORCESTER POLYTECHNIC INSTITUTE DEFINED CONTRIBUTION PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2R2S2T 
         Participants: 2570
         Assets: 642841461
         $/Participant: 250132
@@ -56,6 +47,8 @@ MA : WORCESTER
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2020: WORCESTER POLYTECHNIC INSTITUTE DEFINED CONTRIBUTION PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2K2M2R2S2T 
         Participants: 2820
         Assets: 582442114
         $/Participant: 206539
@@ -64,6 +57,8 @@ MA : WORCESTER
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2019: WORCESTER POLYTECHNIC INSTITUTE DEFINED CONTRIBUTION PLAN
+        Benefit Category: Other
+        Codes: 2F2G2K2L2M2R 
         Participants: 2372
         Assets: 408985028
         $/Participant: 172422
@@ -72,6 +67,8 @@ MA : WORCESTER
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2018: WORCESTER POLYTECHNIC INSTITUTE DEFINED CONTRIBUTION PLAN
+        Benefit Category: Other
+        Codes: 2F2G2K2L2M2R 
         Participants: 2169
         Assets: 327971052
         $/Participant: 151208
@@ -80,10 +77,43 @@ MA : WORCESTER
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2017: WORCESTER POLYTECHNIC INSTITUTE DEFINED CONTRIBUTION PLAN
+        Benefit Category: Other
+        Codes: 2F2G2K2L2M2R 
         Participants: 2062
         Assets: 346555581
         $/Participant: 168067
         RecordKeeper: TIAA
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+   [003]
+    2019: WORCESTER POLYTECHNIC INSTITUTE TAX DEFERRED ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2R 
+        Participants: 1314
+        Assets: 111032122
+        $/Participant: 84499
+        RecordKeeper: FIDELITY INV INST OPERATIONS CO
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2018: WORCESTER POLYTECHNIC INSTITUTE TAX DEFERRED ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2R 
+        Participants: 1248
+        Assets: 107784044
+        $/Participant: 86365
+        RecordKeeper: FIDELITY INV INST OPERATIONS CO
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2017: WORCESTER POLYTECHNIC INSTITUTE TAX DEFERRED ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2R 
+        Participants: 1210
+        Assets: 109733504
+        $/Participant: 90688
+        RecordKeeper: TIAA-TEACHERS INS & ANN ASSC OF AM
         Available Investments:
            - TIAA-CREF
                  : TIAA REAL ESTATE

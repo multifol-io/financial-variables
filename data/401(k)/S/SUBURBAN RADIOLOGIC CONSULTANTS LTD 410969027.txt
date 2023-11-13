@@ -1,52 +1,9 @@
-MN : MINNEAPOLIS
-  SUBURBAN RADIOLOGIC CONSULTANTS LTD  410969027
-   [504]
-    2020: SUBURBAN RADIOLOGIC CONSULTANTS LTD DENTAL PLAN
-        Participants: 
-    2019: SUBURBAN RADIOLOGIC CONSULTANTS LTD DENTAL PLAN
-        Participants: 
-    2018: SUBURBAN RADIOLOGIC CONSULTANTS LTD DENTAL PLAN
-        Participants: 
-    2017: SUBURBAN RADIOLOGIC CONSULTANTS LTD DENTAL PLAN
-        Participants: 
-   [503]
-    2019: SUBURBAN RADIOLOGIC CONSULTANTS LTD VISION PLAN
-        Participants: 
-   [502]
-    2020: SUBURBAN RADIOLOGIC CONSULTANTS LTD HEALTH PLAN
-        Participants: 
-    2019: SUBURBAN RADIOLOGIC CONSULTANTS LTD HEALTH PLAN
-        Participants: 
-    2018: SUBURBAN RADIOLOGIC CONSULTANTS LTD HEALTH PLAN
-        Participants: 
-    2017: SUBURBAN RADIOLOGIC CONSULTANTS LTD HEALTH PLAN
-        Participants: 
-   [501]
-    2020: SUBURBAN RADIOLOGIC CONSULTANTS LTD LONG-TERM DISABILITY PLAN
-        Participants: 
-    2019: SUBURBAN RADIOLOGIC CONSULTANTS LTD LONG-TERM DISABILITY PLAN
-        Participants: 
-    2018: SUBURBAN RADIOLOGIC CONSULTANTS LTD LONG-TERM DISABILITY PLAN
-        Participants: 
-    2017: SUBURBAN RADIOLOGIC CONSULTANTS LTD LONG-TERM DISABILITY PLAN
-        Participants: 
-MN : BLOOMINGTON
-   [003]
-    2019: SUBURBAN RADIOLOGIC CONSULTANTS, LTD. CASH BALANCE PLAN
-        Participants: 0
-    2018: SUBURBAN RADIOLOGIC CONSULTANTS, LTD. CASH BALANCE PLAN
-        Participants: 300
-        Assets: 22483066
-        $/Participant: 74943
-        RecordKeeper: CLIFTONLARSONALLEN LLP
-    2017: SUBURBAN RADIOLOGIC CONSULTANTS, LTD. CASH BALANCE PLAN
-        Participants: 316
-        Assets: 24299024
-        $/Participant: 76895
-        RecordKeeper: CLIFTONLARSONALLEN LLP
 MN : ROSEVILLE
+  SUBURBAN RADIOLOGIC CONSULTANTS LTD  410969027
    [001]
     2019: SUBURBAN RADIOLOGIC CONSULTANTS LTD PROFIT SHARING
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3D 
         Participants: 0
         RecordKeeper: MILLIMAN, INC.
         Available Investments:
@@ -54,6 +11,8 @@ MN : ROSEVILLE
                  : WELLS FARGO BANK, N.A.
 MN : BLOOMINGTON
     2018: SUBURBAN RADIOLOGIC CONSULTANTS LTD PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3D 
         Participants: 377
         Assets: 134572604
         $/Participant: 356956
@@ -62,6 +21,8 @@ MN : BLOOMINGTON
            - WILMINGTON TRUST RETIREMENT AND INSTITUTIONAL SERVICES COMPANY
                  : WELLS FARGO BANK, N.A.
     2017: SUBURBAN RADIOLOGIC CONSULTANTS LTD PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3D 
         Participants: 400
         Assets: 138345884
         $/Participant: 345864
@@ -69,3 +30,80 @@ MN : BLOOMINGTON
         Available Investments:
            - WILMINGTON TRUST RETIREMENT AND INSTITUTIONAL SERVICES COMPANY
                  : WELLS FARGO BANK, N.A.
+MN : MINNEAPOLIS
+   [502]
+    2020: SUBURBAN RADIOLOGIC CONSULTANTS LTD HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: SUBURBAN RADIOLOGIC CONSULTANTS LTD HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: SUBURBAN RADIOLOGIC CONSULTANTS LTD HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: SUBURBAN RADIOLOGIC CONSULTANTS LTD HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [501]
+    2020: SUBURBAN RADIOLOGIC CONSULTANTS LTD LONG-TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L
+        Participants: 
+    2019: SUBURBAN RADIOLOGIC CONSULTANTS LTD LONG-TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L
+        Participants: 
+    2018: SUBURBAN RADIOLOGIC CONSULTANTS LTD LONG-TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 
+    2017: SUBURBAN RADIOLOGIC CONSULTANTS LTD LONG-TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 
+   [503]
+    2019: SUBURBAN RADIOLOGIC CONSULTANTS LTD VISION PLAN
+        Benefit Category: Other
+        Codes:  4E4R
+        Participants: 
+   [504]
+    2020: SUBURBAN RADIOLOGIC CONSULTANTS LTD DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2019: SUBURBAN RADIOLOGIC CONSULTANTS LTD DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2018: SUBURBAN RADIOLOGIC CONSULTANTS LTD DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2017: SUBURBAN RADIOLOGIC CONSULTANTS LTD DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+MN : BLOOMINGTON
+   [003]
+    2019: SUBURBAN RADIOLOGIC CONSULTANTS, LTD. CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1H1I 
+        Participants: 0
+    2018: SUBURBAN RADIOLOGIC CONSULTANTS, LTD. CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I 
+        Participants: 300
+        Assets: 22483066
+        $/Participant: 74943
+        RecordKeeper: CLIFTONLARSONALLEN LLP
+    2017: SUBURBAN RADIOLOGIC CONSULTANTS, LTD. CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C 
+        Participants: 316
+        Assets: 24299024
+        $/Participant: 76895
+        RecordKeeper: CLIFTONLARSONALLEN LLP

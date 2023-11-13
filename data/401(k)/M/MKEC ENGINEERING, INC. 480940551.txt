@@ -1,68 +1,106 @@
 KS : WICHITA
-  MKEC ENGINEERING, INC  480940551
-   [503]
-    2019: MKEC ENGINEERING, INC. GROUP DENTAL PLAN
-        Participants: 0
-    2018: MKEC ENGINEERING, INC. GROUP DENTAL PLAN
-        Participants: 169
-    2017: MKEC ENGINEERING, INC. GROUP DENTAL PLAN
-        Participants: 164
-   [502]
-    2019: MKEC ENGINEERING, INC GROUP HEALTH PLAN
-        Participants: 0
-        Service Providers:
-           - BLUE CROSS AND BLUE SHIELD OF KANSA :  ()
-    2018: MKEC ENGINEERING, INC. GROUP HEALTH PLAN
-        Participants: 178
-        Service Providers:
-           - BLUE CROSS AND BLUE SHIELD OF KANSA :  ()
-    2017: MKEC ENGINEERING, INC. GROUP HEALTH PLAN
-        Participants: 173
-        Service Providers:
-           - BLUE CROSS AND BLUE SHIELD OF KANSA :  ()
-   [501]
-    2022: MKEC ENGINEERING, INC. EMPLOYEE BENEFIT PLAN
-        Participants: 190
-    2021: MKEC ENGINEERING, INC. EMPLOYEE BENEFIT PLAN
-        Participants: 179
-    2020: MKEC ENGINEERING, INC. EMPLOYEE BENEFIT PLAN
-        Participants: 197
-    2019: MKEC ENGINEERING, INC. LIFE, STD, & LTD PLAN
-        Participants: 185
-    2018: MKEC ENGINEERING, INC. LIFE, STD, & LTD PLAN
-        Participants: 188
-    2017: MKEC ENGINEERING, INC. LIFE, STD, & LTD PLAN
-        Participants: 187
+  MKEC ENGINEERING, INC.  480940551
    [002]
     2022: MKEC ENGINEERING, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2J2K2T3D2E2F2G 
         Participants: 230
         Assets: 51074749
         $/Participant: 222064
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2021: MKEC ENGINEERING, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 230
         Assets: 62849517
         $/Participant: 273258
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2020: MKEC ENGINEERING, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 224
         Assets: 53861097
         $/Participant: 240451
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2019: MKEC ENGINEERING, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 224
         Assets: 44276565
         $/Participant: 197663
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2018: MKEC ENGINEERING, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K3D 
         Participants: 236
         Assets: 35534746
         $/Participant: 150570
         Service Providers:
            - EMPRISE BANK : TRUSTEE (Trustee(bank, trust company, or similar) | Trustee(directed) | Investment advisory(plan) | Participant loan processing | Participant communication | Direct payment from the plan | Account maintenance fees)
     2017: MKEC ENGINEERING, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K3D 
         Participants: 220
         Assets: 37454364
         $/Participant: 170247
         Service Providers:
            - EMPRISE BANK : TRUSTEE (Trustee(bank, trust company, or similar) | Trustee(directed) | Investment advisory(plan) | Participant loan processing | Participant communication | Direct payment from the plan | Account maintenance fees)
+   [501]
+    2022: MKEC ENGINEERING, INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4B4F4H4A4C
+        Participants: 190
+    2021: MKEC ENGINEERING, INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4B4F4H4A4C
+        Participants: 179
+    2020: MKEC ENGINEERING, INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4B4F4H4A4C
+        Participants: 197
+   [502]
+    2019: MKEC ENGINEERING, INC GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4C
+        Participants: 0
+        Service Providers:
+           - BLUE CROSS AND BLUE SHIELD OF KANSA :  ()
+    2018: MKEC ENGINEERING, INC. GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4C
+        Participants: 178
+        Service Providers:
+           - BLUE CROSS AND BLUE SHIELD OF KANSA :  ()
+    2017: MKEC ENGINEERING, INC. GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 173
+        Service Providers:
+           - BLUE CROSS AND BLUE SHIELD OF KANSA :  ()
+   [503]
+    2019: MKEC ENGINEERING, INC. GROUP DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 0
+    2018: MKEC ENGINEERING, INC. GROUP DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 169
+   [501]
+    2019: MKEC ENGINEERING, INC. LIFE, STD, & LTD PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H
+        Participants: 185
+    2018: MKEC ENGINEERING, INC. LIFE, STD, & LTD PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H
+        Participants: 188
+    2017: MKEC ENGINEERING, INC. LIFE, STD, & LTD PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H
+        Participants: 187
+   [503]
+    2017: MKEC ENGINEERING, INC. GROUP DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 164

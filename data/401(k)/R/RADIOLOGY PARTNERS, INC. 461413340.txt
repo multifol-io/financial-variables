@@ -1,37 +1,9 @@
 CA : EL SEGUNDO
   RADIOLOGY PARTNERS, INC.  461413340
-    2022: RADIOLOGY PARTNERS INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: RADIOLOGY PARTNERS INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: RADIOLOGY PARTNERS INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: RADIOLOGY PARTNERS INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: RADIOLOGY PARTNERS INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: RADIOLOGY PARTNERS INC. HEALTH AND WELFARE PLAN
-        Participants: 
-   [003]
-    2022: RADIOLOGY PARTNERS, INC. PARTNER PLAN
-        Participants: 1483
-        Assets: 676867152
-        $/Participant: 456417
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-        Available Investments:
-           - PUTNAM FIDUCIARY TRUST COMPANY
-                 : PUTNAM STABLE VALUE FUND
-   [002]
-    2022: RADIOLOGY PARTNERS, INC. ASSOCIATE PLAN
-        Participants: 967
-        Assets: 78919759
-        $/Participant: 81612
-        RecordKeeper: CHARLES SCHWAB & CO.INC
-        Available Investments:
-           - PUTNAM FIDUCIARY TRUST COMPANY
-                 : PUTNAM STABLE VALUE 20 BPS
    [001]
     2022: RADIOLOGY PARTNERS INC 401K PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D3H 
         Participants: 6601
         Assets: 311732374
         $/Participant: 47225
@@ -40,6 +12,8 @@ CA : EL SEGUNDO
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND
     2021: RADIOLOGY PARTNERS INC 401K PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D3H 
         Participants: 8400
         Assets: 1185867886
         $/Participant: 141174
@@ -49,6 +23,8 @@ CA : EL SEGUNDO
                  : PUTNAM STABLE VALUE 25 BPS
                  : PUTNAM STABLE VALUE FUND
     2020: RADIOLOGY PARTNERS INC 401K PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D 
         Participants: 5002
         Assets: 668562675
         $/Participant: 133659
@@ -57,6 +33,8 @@ CA : EL SEGUNDO
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND
     2019: RADIOLOGY PARTNERS INC 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D 
         Participants: 2472
         Assets: 351790652
         $/Participant: 142310
@@ -65,6 +43,8 @@ CA : EL SEGUNDO
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND
     2018: RADIOLOGY PARTNERS INC 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D 
         Participants: 1858
         Assets: 193624518
         $/Participant: 104211
@@ -75,6 +55,8 @@ CA : EL SEGUNDO
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND
     2017: RADIOLOGY PARTNERS INC 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D 
         Participants: 812
         Assets: 102592869
         $/Participant: 126345
@@ -108,3 +90,50 @@ CA : EL SEGUNDO
                  : TA VANGUARD REIT INDEX RET ACCT
                  : TRANSAMERICA PARTNERS HIGH YEILD BO
                  : TRANSAMERICA PARTNERS STOCK INDEX R
+   [002]
+    2022: RADIOLOGY PARTNERS, INC. ASSOCIATE PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2R2T3D 
+        Participants: 967
+        Assets: 78919759
+        $/Participant: 81612
+        RecordKeeper: CHARLES SCHWAB & CO.INC
+        Available Investments:
+           - PUTNAM FIDUCIARY TRUST COMPANY
+                 : PUTNAM STABLE VALUE 20 BPS
+   [003]
+    2022: RADIOLOGY PARTNERS, INC. PARTNER PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D3H 
+        Participants: 1483
+        Assets: 676867152
+        $/Participant: 456417
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+        Available Investments:
+           - PUTNAM FIDUCIARY TRUST COMPANY
+                 : PUTNAM STABLE VALUE FUND
+   [501]
+    2022: RADIOLOGY PARTNERS INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4Q
+        Participants: 
+    2021: RADIOLOGY PARTNERS INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4Q
+        Participants: 
+    2020: RADIOLOGY PARTNERS INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4Q
+        Participants: 
+    2019: RADIOLOGY PARTNERS INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2018: RADIOLOGY PARTNERS INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: RADIOLOGY PARTNERS INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 

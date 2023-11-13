@@ -1,24 +1,8 @@
-MA : LEXINGTON
-  SHIRE HOLDINGS US AG  611323690
-   [505]
-    2020: SHIRE HOLDINGS US AG SEVERANCE PAY PLAN
-        Participants: 
-    2019: SHIRE HOLDINGS US AG SEVERANCE PAY PLAN
-        Participants: 
-    2018: SHIRE HOLDINGS US AG SEVERANCE PAY PLAN
-        Participants: 
-    2017: SHIRE HOLDINGS US AG SEVERANCE PAY PLAN
-        Participants: 
-   [502]
-    2019: SHIRE HOLDINGS US AG WELFARE PLAN
-        Participants: 
-    2018: SHIRE HOLDINGS US AG WELFARE PLAN
-        Participants: 
-    2017: SHIRE HOLDINGS US AG WELFARE PLAN
-        Participants: 
 PA : EXTON
-   [001]
+  SHIRE HOLDINGS US AG  611323690
     2019: SHIRE HOLDINGS US AG 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T3D3F2E3H 
         Participants: 41
         Assets: 31284692
         $/Participant: 763041
@@ -47,6 +31,8 @@ PA : EXTON
            - WILMINGTON TRUST, N.A.
                  : WT FKLN GROWTH S
     2018: SHIRE HOLDINGS US AG 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2R2E2F2G2J2K2S2T3D3F3H 
         Participants: 18967
         Assets: 1531087287
         $/Participant: 80723
@@ -75,6 +61,8 @@ PA : EXTON
            - WILMINGTON TRUST
                  : WILMINGTON TRUST FRANKLIN GROWTH
     2017: SHIRE HOLDINGS US AG 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T3D3F3H2E 
         Participants: 6988
         Assets: 881647694
         $/Participant: 126165
@@ -96,3 +84,38 @@ PA : EXTON
                  : FIAM TD INCOME CP S
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
+MA : LEXINGTON
+   [502]
+    2019: SHIRE HOLDINGS US AG WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2018: SHIRE HOLDINGS US AG WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4Q
+        Participants: 
+    2017: SHIRE HOLDINGS US AG WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+   [505]
+    2020: SHIRE HOLDINGS US AG SEVERANCE PAY PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4D4E4I
+        Participants: 
+    2019: SHIRE HOLDINGS US AG SEVERANCE PAY PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4D4E4I
+        Participants: 
+    2018: SHIRE HOLDINGS US AG SEVERANCE PAY PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4D4E4I
+        Participants: 
+    2017: SHIRE HOLDINGS US AG SEVERANCE PAY PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4D4E4I
+        Participants: 

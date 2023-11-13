@@ -1,38 +1,8 @@
 NY : OYSTER BAY
   MILL-MAX MFG. CORP.  112246212
-   [501]
-    2022: INSURANCE
-        Participants: 139
-        Service Providers:
-           - MERITAIN HEALTH :  (Contract Administrator)
-           - PREMIER BENEFIT PLANS :  (Insurance agents and brokers)
-    2021: INSURANCE
-        Participants: 144
-        Service Providers:
-           - MERITAIN HEALTH :  (Contract Administrator)
-           - PREMIER BENEFIT PLANS :  (Insurance agents and brokers)
-    2020: INSURANCE
-        Participants: 149
-        Service Providers:
-           - MERITAIN HEALTH :  (Contract Administrator)
-           - PREMIER BENEFIT PLANS :  (Insurance agents and brokers)
-    2019: INSURANCE
-        Participants: 150
-        Service Providers:
-           - PREMIER BENEFIT PLANS :  (Insurance agents and brokers)
-           - MERITAIN HEALTH :  (Contract Administrator)
-    2018: INSURANCE
-        Participants: 151
-        Service Providers:
-           - MERITAIN HEALTH :  (Contract Administrator)
-           - PREMIER BENEFIT PLANS :  (Insurance agents and brokers)
-    2017: INSURANCE
-        Participants: 151
-        Service Providers:
-           - PREMIER BENEFIT PLANS :  (Insurance agents and brokers)
-           - MERITAIN HEALTH :  (Contract Administrator)
-   [001]
     2022: MILL-MAX MANUFACTURING CORPORATION PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 225
         Assets: 67377921
         $/Participant: 299457
@@ -65,6 +35,8 @@ NY : OYSTER BAY
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRIN SMCAP VALUE II SEP ACCT-Z
     2021: MILL-MAX MANUFACTURING CORPORATION PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 211
         Assets: 77584270
         $/Participant: 367697
@@ -97,6 +69,8 @@ NY : OYSTER BAY
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRIN SMCAP VALUE II SEP ACCT-Z
     2020: MILL-MAX MANUFACTURING CORPORATION PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 219
         Assets: 69497141
         $/Participant: 317338
@@ -129,6 +103,8 @@ NY : OYSTER BAY
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRIN SMCAP VALUE II SEP ACCT-Z
     2019: MILL-MAX MANUFACTURING CORPORATION PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 224
         Assets: 60377869
         $/Participant: 269544
@@ -160,6 +136,8 @@ NY : OYSTER BAY
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRIN SMCAP VALUE II SEP ACCT-Z
     2018: MILL-MAX MANUFACTURING CORPORATION PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 208
         Assets: 49910881
         $/Participant: 239956
@@ -184,6 +162,8 @@ NY : OYSTER BAY
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2017: MILL-MAX MANUFACTURING CORPORATION PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 203
         Assets: 51869949
         $/Participant: 255516
@@ -207,3 +187,46 @@ NY : OYSTER BAY
                  : PRIN LGCP S&P 500 INDEX SA-Z
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
+   [501]
+    2022: INSURANCE
+        Benefit Category: Healthcare
+        Codes:  4A4B4H
+        Participants: 139
+        Service Providers:
+           - MERITAIN HEALTH :  (Contract Administrator)
+           - PREMIER BENEFIT PLANS :  (Insurance agents and brokers)
+    2021: INSURANCE
+        Benefit Category: Healthcare
+        Codes:  4A4B4H
+        Participants: 144
+        Service Providers:
+           - MERITAIN HEALTH :  (Contract Administrator)
+           - PREMIER BENEFIT PLANS :  (Insurance agents and brokers)
+    2020: INSURANCE
+        Benefit Category: Healthcare
+        Codes:  4A4B4H
+        Participants: 149
+        Service Providers:
+           - MERITAIN HEALTH :  (Contract Administrator)
+           - PREMIER BENEFIT PLANS :  (Insurance agents and brokers)
+    2019: INSURANCE
+        Benefit Category: Healthcare
+        Codes:  4A4B4H
+        Participants: 150
+        Service Providers:
+           - PREMIER BENEFIT PLANS :  (Insurance agents and brokers)
+           - MERITAIN HEALTH :  (Contract Administrator)
+    2018: INSURANCE
+        Benefit Category: Healthcare
+        Codes:  4A4B4H
+        Participants: 151
+        Service Providers:
+           - MERITAIN HEALTH :  (Contract Administrator)
+           - PREMIER BENEFIT PLANS :  (Insurance agents and brokers)
+    2017: INSURANCE
+        Benefit Category: Healthcare
+        Codes:  4A4B4H
+        Participants: 151
+        Service Providers:
+           - PREMIER BENEFIT PLANS :  (Insurance agents and brokers)
+           - MERITAIN HEALTH :  (Contract Administrator)

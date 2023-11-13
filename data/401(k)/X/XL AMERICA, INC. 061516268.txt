@@ -1,68 +1,9 @@
 CT : STAMFORD
   XL AMERICA, INC.  061516268
-   [501]
-    2022: XL AMERICA, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: XL AMERICA, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: XL AMERICA, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: XL AMERICA, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: XL AMERICA, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: XL AMERICA, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-   [003]
-    2022: XL AMERICA, INC. RETIREMENT PLAN
-        Participants: 306
-        Assets: 41848321
-        $/Participant: 136759
-        Service Providers:
-           - AON CONSULTING : INVESTMENT ADVISOR (Investment advisory(plan))
-           - BANK OF AMERICA : TRUSTEE (Trustee(bank, trust company, or similar))
-        Available Investments:
-           - AON TRUST COMPANY
-                 : AON MULTI-ASSET CREDIT FUND
-           - GLOBAL TRUST COMPANY
-                 : FRANKLIN US LONG DURATION CREDIT
-    2021: XL AMERICA, INC. RETIREMENT PLAN
-        Participants: 308
-        Assets: 55264627
-        $/Participant: 179430
-        Service Providers:
-           - AON CONSULTING : INVESTMENT ADVISOR (Investment advisory(plan))
-           - BANK OF AMERICA : TRUSTEE (Trustee(bank, trust company, or similar))
-        Available Investments:
-           - AON TRUST COMPANY
-                 : AON MULTI-ASSET CREDIT FUND
-           - GLOBAL TRUST COMPANY
-                 : FRANKLIN US LONG DURATION CREDIT
-    2020: XL AMERICA, INC. RETIREMENT PLAN
-        Participants: 310
-        Assets: 55223012
-        $/Participant: 178138
-        Service Providers:
-           - BANK OF AMERICA : TRUSTEE (Trustee(bank, trust company, or similar))
-           - AON CONSULTING : INVESTMENT ADVISOR (Investment advisory(plan))
-    2019: XL AMERICA, INC. RETIREMENT PLAN
-        Participants: 310
-        Assets: 49093544
-        $/Participant: 158366
-        Service Providers:
-           - BANK OF AMERICA : TRUSTEE (Trustee(bank, trust company, or similar))
-    2018: XL AMERICA, INC. RETIREMENT PLAN
-        Participants: 311
-        Assets: 39896116
-        $/Participant: 128283
-        Service Providers:
-           - BANK OF AMERICA : TRUSTEE (Trustee(bank, trust company, or similar))
-    2017: XL AMERICA, INC. RETIREMENT PLAN
-        Participants: 311
-        Assets: 42687266
-        $/Participant: 137258
    [002]
     2022: XL AMERICA, INC. EMPLOYEE SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 3206
         Assets: 1047561405
         $/Participant: 326750
@@ -87,6 +28,8 @@ CT : STAMFORD
            - T. ROWE PRICE
                  : T.ROWE PRICE LARGE CAP GROWTH TRUST
     2021: XL AMERICA, INC. EMPLOYEE SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 3126
         Assets: 1274287198
         $/Participant: 407641
@@ -107,6 +50,8 @@ CT : STAMFORD
                  : STATE STREET TARGET RETIREMENT INCO
                  : STATE STREET U.S. INFLATION PROTECT
     2020: XL AMERICA, INC. EMPLOYEE SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 3153
         Assets: 1126726110
         $/Participant: 357350
@@ -128,6 +73,8 @@ CT : STAMFORD
                  : STATE STREET TARGET RETIREMENT INCO
                  : STATE STREET U.S. INFLATION PROTECT
     2019: XL AMERICA, INC. EMPLOYEE SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 3247
         Assets: 943100385
         $/Participant: 290452
@@ -149,6 +96,8 @@ CT : STAMFORD
                  : STATE STREET TARGET RETIREMENT INCO
                  : STATE STREET U.S. INFLATION PROTECT
     2018: XL AMERICA, INC. EMPLOYEE SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 3162
         Assets: 770134311
         $/Participant: 243559
@@ -170,6 +119,8 @@ CT : STAMFORD
                  : STATE STREET TARGET RETIREMENT INCO
                  : STATE STREET U.S. INFLATION PROTECT
     2017: XL AMERICA, INC. EMPLOYEE SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 3170
         Assets: 810078440
         $/Participant: 255545
@@ -192,3 +143,94 @@ CT : STAMFORD
                  : STATE STREET TARGET RETIREMENT 2060
                  : STATE STREET TARGET RETIREMENT INCO
                  : STATE STREET U.S. INFLATION PROTECT
+   [501]
+    2022: XL AMERICA, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2021: XL AMERICA, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2020: XL AMERICA, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2019: XL AMERICA, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2018: XL AMERICA, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2017: XL AMERICA, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+   [003]
+    2022: XL AMERICA, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
+        Participants: 306
+        Assets: 41848321
+        $/Participant: 136759
+        Service Providers:
+           - AON CONSULTING : INVESTMENT ADVISOR (Investment advisory(plan))
+           - BANK OF AMERICA : TRUSTEE (Trustee(bank, trust company, or similar))
+        Available Investments:
+           - AON TRUST COMPANY
+                 : AON MULTI-ASSET CREDIT FUND
+           - GLOBAL TRUST COMPANY
+                 : FRANKLIN US LONG DURATION CREDIT
+    2021: XL AMERICA, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
+        Participants: 308
+        Assets: 55264627
+        $/Participant: 179430
+        Service Providers:
+           - AON CONSULTING : INVESTMENT ADVISOR (Investment advisory(plan))
+           - BANK OF AMERICA : TRUSTEE (Trustee(bank, trust company, or similar))
+        Available Investments:
+           - AON TRUST COMPANY
+                 : AON MULTI-ASSET CREDIT FUND
+           - GLOBAL TRUST COMPANY
+                 : FRANKLIN US LONG DURATION CREDIT
+    2020: XL AMERICA, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
+        Participants: 310
+        Assets: 55223012
+        $/Participant: 178138
+        Service Providers:
+           - BANK OF AMERICA : TRUSTEE (Trustee(bank, trust company, or similar))
+           - AON CONSULTING : INVESTMENT ADVISOR (Investment advisory(plan))
+    2019: XL AMERICA, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
+        Participants: 310
+        Assets: 49093544
+        $/Participant: 158366
+        Service Providers:
+           - BANK OF AMERICA : TRUSTEE (Trustee(bank, trust company, or similar))
+    2018: XL AMERICA, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
+        Participants: 311
+        Assets: 39896116
+        $/Participant: 128283
+        Service Providers:
+           - BANK OF AMERICA : TRUSTEE (Trustee(bank, trust company, or similar))
+    2017: XL AMERICA, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
+        Participants: 311
+        Assets: 42687266
+        $/Participant: 137258

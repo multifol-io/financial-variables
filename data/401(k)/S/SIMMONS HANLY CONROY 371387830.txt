@@ -1,18 +1,8 @@
 IL : ALTON
   SIMMONS HANLY CONROY  371387830
-   [501]
-    2021: SIMMONS HANLY CONROY EMPLOYEE WELFARE BENEFIT PLAN
-        Participants: 
-    2020: SIMMONS HANLY CONROY EMPLOYEE WELFARE BENEFIT PLAN
-        Participants: 
-    2019: SIMMONS HANLY CONROY EMPLOYEE WELFARE BENEFIT PLAN
-        Participants: 
-    2018: SIMMONS HANLY CONROY EMPLOYEE WELFARE BENEFIT PLAN
-        Participants: 
-    2017: SIMMONS HANLY CONROY EMPLOYEE WELFARE BENEFIT PLAN
-        Participants: 
-   [001]
     2022: SIMMONS HANLY CONROY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 461
         Assets: 94519386
         $/Participant: 205031
@@ -40,6 +30,8 @@ IL : ALTON
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND (15)
     2021: SIMMONS HANLY CONROY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 430
         Assets: 109827947
         $/Participant: 255413
@@ -68,6 +60,8 @@ IL : ALTON
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2020: SIMMONS HANLY CONROY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 433
         Assets: 94294643
         $/Participant: 217770
@@ -96,6 +90,8 @@ IL : ALTON
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2019: SIMMONS HANLY CONROY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 447
         Assets: 78485706
         $/Participant: 175583
@@ -124,6 +120,8 @@ IL : ALTON
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2018: SIMMONS HANLY CONROY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 404
         Assets: 58820953
         $/Participant: 145596
@@ -151,6 +149,8 @@ IL : ALTON
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2017: SIMMONS HANLY CONROY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3C3D3H 
         Participants: 299
         Assets: 52808189
         $/Participant: 176616
@@ -177,3 +177,24 @@ IL : ALTON
                  : PRIN LGCP S&P 500 INDEX SA-Z
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
+   [501]
+    2021: SIMMONS HANLY CONROY EMPLOYEE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2020: SIMMONS HANLY CONROY EMPLOYEE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2019: SIMMONS HANLY CONROY EMPLOYEE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2018: SIMMONS HANLY CONROY EMPLOYEE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2017: SIMMONS HANLY CONROY EMPLOYEE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 

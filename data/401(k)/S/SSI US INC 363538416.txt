@@ -1,42 +1,9 @@
 IL : CHICAGO
   SSI US INC  363538416
-   [510]
-    2022: SPENCER STUART LONG TERM DISABILITY PLAN
-        Participants: 1022
-    2021: SPENCER STUART LONG TERM DISABILITY PLAN
-        Participants: 873
-    2020: SPENCER STUART LONG TERM DISABILITY PLAN
-        Participants: 746
-    2019: SPENCER STUART LONG TERM DISABILITY PLAN
-        Participants: 812
-    2018: SPENCER STUART LONG TERM DISABILITY PLAN
-        Participants: 768
-    2017: SPENCER STUART LONG TERM DISABILITY PLAN
-        Participants: 707
-   [506]
-    2021: SPENCER STUART LIFE INSURANCE PLAN
-        Participants: 987
-    2020: SPENCER STUART LIFE INSURANCE PLAN
-        Participants: 84
-    2019: SPENCER STUART LIFE INSURANCE PLAN
-        Participants: 814
-    2018: SPENCER STUART LIFE INSURANCE PLAN
-        Participants: 806
-    2017: SPENCER STUART LIFE INSURANCE PLAN
-        Participants: 768
-   [501]
-    2022: SPENCER STUART EMPLOYEE HEALTHCARE PLAN
-        Participants: 
-    2021: SPENCER STUART EMPLOYEE HEALTHCARE PLAN
-        Participants: 
-    2020: SPENCER STUART EMPLOYEE HEALTHCARE PLAN
-        Participants: 
-    2019: SPENCER STUART EMPLOYEE HEALTHCARE PLAN
-        Participants: 
-    2018: SPENCER STUART EMPLOYEE HEALTHCARE PLAN
-        Participants: 
    [004]
     2021: SPENCER STUART RETIREMENT BENEFITS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 1541
         Assets: 387365791
         $/Participant: 251372
@@ -45,6 +12,8 @@ IL : CHICAGO
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
                  : RUSSELL 1000 INDEX FUND M
     2020: SPENCER STUART RETIREMENT BENEFITS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 1344
         Assets: 450427642
         $/Participant: 335139
@@ -53,6 +22,8 @@ IL : CHICAGO
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
                  : RUSSELL 1000 INDEX FUND M
     2019: SPENCER STUART RETIREMENT BENEFITS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 1244
         Assets: 364946645
         $/Participant: 293365
@@ -61,6 +32,8 @@ IL : CHICAGO
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
                  : RUSSELL 1000 INDEX FUND M
     2018: SPENCER STUART RETIREMENT BENEFITS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 1218
         Assets: 338062935
         $/Participant: 277555
@@ -69,6 +42,8 @@ IL : CHICAGO
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
                  : RUSSELL 1000 INDEX FUND M
     2017: SPENCER STUART RETIREMENT BENEFITS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 1041
         Assets: 321027988
         $/Participant: 308384
@@ -76,3 +51,70 @@ IL : CHICAGO
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
                  : RUSSELL 1000 INDEX FUND M
+   [501]
+    2022: SPENCER STUART EMPLOYEE HEALTHCARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2021: SPENCER STUART EMPLOYEE HEALTHCARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2020: SPENCER STUART EMPLOYEE HEALTHCARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2019: SPENCER STUART EMPLOYEE HEALTHCARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2018: SPENCER STUART EMPLOYEE HEALTHCARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+   [506]
+    2021: SPENCER STUART LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 987
+    2020: SPENCER STUART LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 84
+    2019: SPENCER STUART LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 814
+    2018: SPENCER STUART LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 806
+    2017: SPENCER STUART LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 768
+   [510]
+    2022: SPENCER STUART LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 1022
+    2021: SPENCER STUART LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 873
+    2020: SPENCER STUART LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 746
+    2019: SPENCER STUART LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 812
+    2018: SPENCER STUART LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 768
+    2017: SPENCER STUART LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 707

@@ -1,20 +1,9 @@
 TX : AUSTIN
   VELOCITY CREDIT UNION  741200165
-   [503]
-    2022: VELOCITY CREDIT UNION HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: VELOCITY CREDIT UNION HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: VELOCITY CREDIT UNION HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: VELOCITY CREDIT UNION HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: VELOCITY CREDIT UNION HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: VELOCITY CREDIT UNION HEALTH AND WELFARE PLAN
-        Participants: 
    [033]
     2022: VELOCITY CREDIT UNION THRIFT AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 252
         Assets: 13452501
         $/Participant: 53382
@@ -23,6 +12,8 @@ TX : AUSTIN
            - STANDARD INSURANCE COMPANY
                  : SEPARATE ACCOUNT A
     2021: VELOCITY CREDIT UNION THRIFT AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 246
         Assets: 15230035
         $/Participant: 61910
@@ -31,6 +22,8 @@ TX : AUSTIN
            - STANDARD INSURANCE COMPANY
                  : SEPARATE ACCOUNT A
     2020: VELOCITY CREDIT UNION THRIFT AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 251
         Assets: 12547003
         $/Participant: 49988
@@ -39,6 +32,8 @@ TX : AUSTIN
            - STANDARD INSURANCE COMPANY
                  : SEPARATE ACCOUNT A
     2019: VELOCITY CREDIT UNION THRIFT AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 242
         Assets: 10468432
         $/Participant: 43257
@@ -47,6 +42,8 @@ TX : AUSTIN
            - STANDARD INSURANCE COMPANY
                  : SEPARATE ACCOUNT A
     2018: VELOCITY CREDIT UNION THRIFT AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 222
         Assets: 9541319
         $/Participant: 42978
@@ -55,6 +52,8 @@ TX : AUSTIN
            - STANDARD INSURANCE COMPANY
                  : SEPARATE ACCOUNT A
     2017: VELOCITY CREDIT UNION THRIFT AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 225
         Assets: 10561623
         $/Participant: 46940
@@ -62,8 +61,35 @@ TX : AUSTIN
         Available Investments:
            - STANDARD INSURANCE COMPANY
                  : SEPARATE ACCOUNT A
+   [503]
+    2022: VELOCITY CREDIT UNION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+    2021: VELOCITY CREDIT UNION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+    2020: VELOCITY CREDIT UNION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+    2019: VELOCITY CREDIT UNION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+    2018: VELOCITY CREDIT UNION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+    2017: VELOCITY CREDIT UNION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
    [012]
     2022: VELOCITY CREDIT UNION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 182
         Assets: 41450244
         $/Participant: 227748
@@ -72,6 +98,8 @@ TX : AUSTIN
            - STANDARD INSURANCE COMPANY
                  : POOLED SEPARATE ACCOUNT A
     2021: VELOCITY CREDIT UNION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 187
         Assets: 52377069
         $/Participant: 280091
@@ -80,6 +108,8 @@ TX : AUSTIN
            - STANDARD INSURANCE COMPANY
                  : POOLED SEPARATE ACCOUNT A
     2020: VELOCITY CREDIT UNION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 231
         Assets: 49127276
         $/Participant: 212672
@@ -88,6 +118,8 @@ TX : AUSTIN
            - STANDARD INSURANCE COMPANY
                  : POOLED SEPARATE ACCOUNT A
     2019: VELOCITY CREDIT UNION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 239
         Assets: 44161434
         $/Participant: 184775
@@ -96,6 +128,8 @@ TX : AUSTIN
            - STANDARD INSURANCE COMPANY
                  : POOLED SEPARATE ACCOUNT A
     2018: VELOCITY CREDIT UNION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 250
         Assets: 38215243
         $/Participant: 152860
@@ -104,6 +138,8 @@ TX : AUSTIN
            - STANDARD INSURANCE COMPANY
                  : POOLED SEPARATE ACCOUNT A
     2017: VELOCITY CREDIT UNION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 250
         Assets: 40490959
         $/Participant: 161963

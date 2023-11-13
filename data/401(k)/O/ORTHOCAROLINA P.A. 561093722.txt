@@ -1,33 +1,8 @@
 NC : CHARLOTTE
   ORTHOCAROLINA P.A.  561093722
-   [503]
-    2022: ORTHOCAROLINA P.A. HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: ORTHOCAROLINA P.A. HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: ORTHOCAROLINA P.A. HEALTH AND WELFARE PLAN
-        Participants: 
-   [003]
-    2022: ORTHOCAROLINA CASH BALANCE PENSION PLAN
-        Participants: 128
-        Assets: 27676697
-        $/Participant: 216224
-        RecordKeeper: BRANCH BANKING & TRUST COMPANY
-        Available Investments:
-           - HAND BENEFITS & TRUST COMPANY
-                 : STERLING CAPITAL CORE FIXED INCOME
-    2021: ORTHOCAROLINA CASH BALANCE PENSION PLAN
-        Participants: 131
-        Assets: 31110527
-        $/Participant: 237484
-        RecordKeeper: BRANCH BANKING & TRUST COMPANY
-    2020: ORTHOCAROLINA CASH BALANCE PENSION PLAN
-        Participants: 128
-        Assets: 34542571
-        $/Participant: 269863
-        RecordKeeper: BRANCH BANKING & TRUST COMPANY
-   [001]
     2022: ORTHOCAROLINA 401(K)AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K 
         Participants: 2609
         Assets: 281375973
         $/Participant: 107848
@@ -48,6 +23,8 @@ NC : CHARLOTTE
                  : VANGUARD TRGT RETRMT 2060 TRUST II
                  : VANGUARD TRGT RETRMT 2065 TRUST II
     2021: ORTHOCAROLINA 401(K)AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K 
         Participants: 2504
         Assets: 343099830
         $/Participant: 137020
@@ -56,6 +33,8 @@ NC : CHARLOTTE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2020: ORTHOCAROLINA 401(K)AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K 
         Participants: 2722
         Assets: 311277832
         $/Participant: 114356
@@ -63,3 +42,41 @@ NC : CHARLOTTE
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
+   [503]
+    2022: ORTHOCAROLINA P.A. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: ORTHOCAROLINA P.A. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: ORTHOCAROLINA P.A. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+   [003]
+    2022: ORTHOCAROLINA CASH BALANCE PENSION PLAN
+        Benefit Category: Other
+        Codes: 1C 
+        Participants: 128
+        Assets: 27676697
+        $/Participant: 216224
+        RecordKeeper: BRANCH BANKING & TRUST COMPANY
+        Available Investments:
+           - HAND BENEFITS & TRUST COMPANY
+                 : STERLING CAPITAL CORE FIXED INCOME
+    2021: ORTHOCAROLINA CASH BALANCE PENSION PLAN
+        Benefit Category: Other
+        Codes: 1C 
+        Participants: 131
+        Assets: 31110527
+        $/Participant: 237484
+        RecordKeeper: BRANCH BANKING & TRUST COMPANY
+    2020: ORTHOCAROLINA CASH BALANCE PENSION PLAN
+        Benefit Category: Other
+        Codes: 1C 
+        Participants: 128
+        Assets: 34542571
+        $/Participant: 269863
+        RecordKeeper: BRANCH BANKING & TRUST COMPANY

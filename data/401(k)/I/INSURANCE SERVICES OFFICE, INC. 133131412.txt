@@ -1,71 +1,10 @@
 NJ : JERSEY CITY
   INSURANCE SERVICES OFFICE, INC.  133131412
-   [502]
-    2022: INSURANCE SERVICES OFFICE BENEFIT PLAN
-        Participants: 
-    2021: INSURANCE SERVICES OFFICE BENEFIT PLAN
-        Participants: 
-    2020: INSURANCE SERVICES OFFICE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - LINCOLN LIFE ASSURANCE COMPANY :  (Other services)
-    2019: INSURANCE SERVICES OFFICE BENEFIT PLAN
-        Participants: 
-    2018: INSURANCE SERVICES OFFICE BENEFIT PLAN
-        Participants: 
-    2017: INSURANCE SERVICES OFFICE BENEFIT PLAN
-        Participants: 
-   [501]
-    2022: INSURANCE SERVICES OFFICE HEALTH & WELFARE PLAN/RETIREE PHARMACY
-        Participants: 
-        Assets: 7875888
-        $/Participant: 
-        Service Providers:
-           - SEGAL :  (Actuarial | Direct payment from the plan)
-           - GENESIS/TASC :  (Insurance services | Direct payment from the plan)
-           - COHNREZNICK LLP :  (Accounting(including auditing) | Direct payment from the plan)
-    2021: INSURANCE SERVICES OFFICE HEALTH & WELFARE PLAN/RETIREE PHARMACY
-        Participants: 
-        Assets: 9708898
-        $/Participant: 
-        Service Providers:
-           - GENESIS/TASC :  (Insurance services | Direct payment from the plan)
-           - SEGAL :  (Actuarial | Direct payment from the plan)
-           - COHNREZNICK LLP :  (Accounting(including auditing) | Direct payment from the plan)
-    2020: INSURANCE SERVICES OFFICE HEALTH & WELFARE PLAN/RETIREE PHARMACY
-        Participants: 
-        Assets: 10681535
-        $/Participant: 
-        Service Providers:
-           - GENESIS/TASC :  (Insurance services | Direct payment from the plan)
-           - SEGAL :  (Actuarial | Direct payment from the plan)
-           - COHNREZNICK LLP :  (Accounting(including auditing) | Direct payment from the plan)
-    2019: INSURANCE SERVICES OFFICE HEALTH & WELFARE PLAN/RETIREE PHARMACY
-        Participants: 
-        Assets: 10725105
-        $/Participant: 
-        Service Providers:
-           - GENESIS/TASC :  (Insurance services | Direct payment from the plan)
-           - SEGAL :  (Actuarial | Direct payment from the plan)
-           - COHNREZNICK LLP :  (Accounting(including auditing) | Direct payment from the plan)
-    2018: INSURANCE SERVICES OFFICE HEALTH & WELFARE PLAN/RETIREE PHARMACY
-        Participants: 
-        Assets: 10112760
-        $/Participant: 
-        Service Providers:
-           - SIBSON CONSULTING :  (Actuarial | Direct payment from the plan)
-           - GENESIS/TASC :  (Insurance services | Direct payment from the plan)
-           - COHNREZNICK LLP :  (Accounting(including auditing) | Direct payment from the plan)
-    2017: INSURANCE SERVICES OFFICE HEALTH & WELFARE PLAN/RETIREE PHARMACY
-        Participants: 
-        Assets: 11285429
-        $/Participant: 
-        Service Providers:
-           - SIBSON CONSULTING :  (Actuarial | Direct payment from the plan)
-           - GENESIS/TASC :  (Insurance services | Direct payment from the plan)
-           - COHNREZNICK LLP :  (Accounting(including auditing) | Direct payment from the plan)
    [003]
     2022: ISO 401(K) SAVINGS AND EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2P2R2S2T3H 
         Participants: 8356
         Assets: 1857158951
         $/Participant: 222254
@@ -94,6 +33,9 @@ NJ : JERSEY CITY
                  : VANGUARD TGT RTMT 2060 TR II FD
                  : VANGUARD TGT RTMT 2065 TR II FD
     2021: ISO 401(K) SAVINGS AND EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2P2R2S2T3H 
         Participants: 8570
         Assets: 2388166925
         $/Participant: 278665
@@ -122,6 +64,9 @@ NJ : JERSEY CITY
                  : VANGUARD TGT RTMT 2060 TR II FD
                  : VANGUARD TGT RTMT 2065 TR II FD
     2020: ISO 401(K) SAVINGS AND EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2P2R2S2T3H 
         Participants: 8296
         Assets: 2272667702
         $/Participant: 273947
@@ -150,6 +95,9 @@ NJ : JERSEY CITY
                  : VANGUARD TGT RTMT 2060 TR II FD
                  : VANGUARD TGT RTMT 2065 TR II FD
     2019: ISO 401(K) SAVINGS AND EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2P2R2S2T3H 
         Participants: 8216
         Assets: 1889583986
         $/Participant: 229988
@@ -183,6 +131,9 @@ NJ : JERSEY CITY
            - WELLS FARGO
                  : BLACKROCK SHORT TERM INV FD S
     2018: ISO 401(K) SAVINGS AND EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2H2J2K2P2R2S2T3H3I 
         Participants: 7889
         Assets: 1542562335
         $/Participant: 195533
@@ -195,6 +146,9 @@ NJ : JERSEY CITY
                  : BLACKROCK SHORT TERM INV FD S
                  : WELLS FARGO STABLE RETURN FUND W
     2017: ISO 401(K) SAVINGS AND EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2H2J2K2P2R2S2T3H3I 
         Participants: 7318
         Assets: 1592606974
         $/Participant: 217628
@@ -206,3 +160,91 @@ NJ : JERSEY CITY
            - WELLS FARGO
                  : WELLS FARGO SHORT-TERM INV FUND S
                  : WELLS FARGO STABLE RETURN FUND W
+   [501]
+    2022: INSURANCE SERVICES OFFICE HEALTH & WELFARE PLAN/RETIREE PHARMACY
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Assets: 7875888
+        $/Participant: 
+        Service Providers:
+           - SEGAL :  (Actuarial | Direct payment from the plan)
+           - GENESIS/TASC :  (Insurance services | Direct payment from the plan)
+           - COHNREZNICK LLP :  (Accounting(including auditing) | Direct payment from the plan)
+    2021: INSURANCE SERVICES OFFICE HEALTH & WELFARE PLAN/RETIREE PHARMACY
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Assets: 9708898
+        $/Participant: 
+        Service Providers:
+           - GENESIS/TASC :  (Insurance services | Direct payment from the plan)
+           - SEGAL :  (Actuarial | Direct payment from the plan)
+           - COHNREZNICK LLP :  (Accounting(including auditing) | Direct payment from the plan)
+    2020: INSURANCE SERVICES OFFICE HEALTH & WELFARE PLAN/RETIREE PHARMACY
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Assets: 10681535
+        $/Participant: 
+        Service Providers:
+           - GENESIS/TASC :  (Insurance services | Direct payment from the plan)
+           - SEGAL :  (Actuarial | Direct payment from the plan)
+           - COHNREZNICK LLP :  (Accounting(including auditing) | Direct payment from the plan)
+    2019: INSURANCE SERVICES OFFICE HEALTH & WELFARE PLAN/RETIREE PHARMACY
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Assets: 10725105
+        $/Participant: 
+        Service Providers:
+           - GENESIS/TASC :  (Insurance services | Direct payment from the plan)
+           - SEGAL :  (Actuarial | Direct payment from the plan)
+           - COHNREZNICK LLP :  (Accounting(including auditing) | Direct payment from the plan)
+    2018: INSURANCE SERVICES OFFICE HEALTH & WELFARE PLAN/RETIREE PHARMACY
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Assets: 10112760
+        $/Participant: 
+        Service Providers:
+           - SIBSON CONSULTING :  (Actuarial | Direct payment from the plan)
+           - GENESIS/TASC :  (Insurance services | Direct payment from the plan)
+           - COHNREZNICK LLP :  (Accounting(including auditing) | Direct payment from the plan)
+    2017: INSURANCE SERVICES OFFICE HEALTH & WELFARE PLAN/RETIREE PHARMACY
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Assets: 11285429
+        $/Participant: 
+        Service Providers:
+           - SIBSON CONSULTING :  (Actuarial | Direct payment from the plan)
+           - GENESIS/TASC :  (Insurance services | Direct payment from the plan)
+           - COHNREZNICK LLP :  (Accounting(including auditing) | Direct payment from the plan)
+   [502]
+    2022: INSURANCE SERVICES OFFICE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2021: INSURANCE SERVICES OFFICE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2020: INSURANCE SERVICES OFFICE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+        Service Providers:
+           - LINCOLN LIFE ASSURANCE COMPANY :  (Other services)
+    2019: INSURANCE SERVICES OFFICE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2018: INSURANCE SERVICES OFFICE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2017: INSURANCE SERVICES OFFICE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 

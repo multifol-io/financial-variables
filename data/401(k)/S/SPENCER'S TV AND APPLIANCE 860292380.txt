@@ -1,46 +1,9 @@
-AZ : TEMPE
-  SPENCER'S AIR CONDITIONING & APPLIANCE, INC.  860292380
-   [501]
-    2021: SPENCER'S TV & APPLIANCE GROUP HEALTH PLAN
-        Participants: 
-    2020: SPENCER'S TV & APPLIANCE GROUP HEALTH PLAN
-        Participants: 
-    2019: SPENCER'S TV & APPLIANCE GROUP HEALTH PLAN
-        Participants: 
-    2018: SPENCER'S TV & APPLIANCE GROUP HEALTH PLAN
-        Participants: 
-    2017: SPENCER'S TV & APPLIANCE GROUP HEALTH PLAN
-        Participants: 
 AZ : CHANDLER
-   [003]
-    2022: SPENCER'S AIR CONDITIONING & APPLIANCE, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 271
-        Assets: 309035135
-        $/Participant: 1140351
-    2021: SPENCER'S AIR CONDITIONING & APPLIANCE, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 265
-        Assets: 243373039
-        $/Participant: 918388
-AZ : TEMPE
-    2020: SPENCER'S AIR CONDITIONING & APPLIANCE, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 245
-        Assets: 181010008
-        $/Participant: 738816
-    2019: SPENCER'S AIR CONDITIONING & APPLIANCE, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 220
-        Assets: 111030003
-        $/Participant: 504681
-    2018: SPENCER'S AIR CONDITIONING & APPLIANCE, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 204
-        Assets: 90719997
-        $/Participant: 444705
-    2017: SPENCER'S AIR CONDITIONING & APPLIANCE, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 190
-        Assets: 62450476
-        $/Participant: 328686
-AZ : CHANDLER
+  SPENCER'S TV AND APPLIANCE  860292380
    [002]
     2022: SPENCER'S TV & APPLIANCE 401K PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3H2E3D2R 4D
         Participants: 285
         Assets: 17756716
         $/Participant: 62304
@@ -49,6 +12,8 @@ AZ : CHANDLER
            - WILMINGTON TRUST FIDUCIARY SERVICES
                  : WT G RETIRE INC F35
     2021: SPENCER'S TV & APPLIANCE 401K PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3H3D2R2E 4D
         Participants: 286
         Assets: 20529151
         $/Participant: 71780
@@ -58,6 +23,8 @@ AZ : CHANDLER
                  : WT G RETIRE INC F35
 AZ : TEMPE
     2020: SPENCER'S TV & APPLIANCE 401K PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 3H2E2F2G2J2K2T3D2R 4D
         Participants: 256
         Assets: 18061174
         $/Participant: 70551
@@ -65,11 +32,9 @@ AZ : TEMPE
         Available Investments:
            - WILMINGTON TRUST FIDUCIARY SERVICES
                  : WT G RETIRE INC F35
-    2019: SPENCER'S AIR CONDITIONING & APPLIANCE, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 220
-        Assets: 111030003
-        $/Participant: 504681
     2018: SPENCER'S TV & APPLIANCE 401K PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 4D
         Participants: 246
         Assets: 14341769
         $/Participant: 58299
@@ -78,12 +43,83 @@ AZ : TEMPE
            - WILMINGTON TRUST FIDUCIARY SERVICES
                  : WT G RETIRE INC F35
     2017: SPENCER'S TV & APPLIANCE 401K PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 4D
         Participants: 246
         Assets: 14342907
         $/Participant: 58304
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
    [001]
     2019: SPENCER'S AIR CONDITIONING & APPLIANCE, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q3I 
         Participants: 220
         Assets: 111030003
         $/Participant: 504681
+   [002]
+    2019: SPENCER'S AIR CONDITIONING & APPLIANCE, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q3I 
+        Participants: 220
+        Assets: 111030003
+        $/Participant: 504681
+AZ : CHANDLER
+   [003]
+    2022: SPENCER'S AIR CONDITIONING & APPLIANCE, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 271
+        Assets: 309035135
+        $/Participant: 1140351
+    2021: SPENCER'S AIR CONDITIONING & APPLIANCE, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q3I 
+        Participants: 265
+        Assets: 243373039
+        $/Participant: 918388
+AZ : TEMPE
+    2020: SPENCER'S AIR CONDITIONING & APPLIANCE, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q3I 
+        Participants: 245
+        Assets: 181010008
+        $/Participant: 738816
+    2019: SPENCER'S AIR CONDITIONING & APPLIANCE, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q3I 
+        Participants: 220
+        Assets: 111030003
+        $/Participant: 504681
+    2018: SPENCER'S AIR CONDITIONING & APPLIANCE, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q3I 
+        Participants: 204
+        Assets: 90719997
+        $/Participant: 444705
+    2017: SPENCER'S AIR CONDITIONING & APPLIANCE, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3H3I 
+        Participants: 190
+        Assets: 62450476
+        $/Participant: 328686
+   [501]
+    2021: SPENCER'S TV & APPLIANCE GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2020: SPENCER'S TV & APPLIANCE GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2019: SPENCER'S TV & APPLIANCE GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+    2018: SPENCER'S TV & APPLIANCE GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+    2017: SPENCER'S TV & APPLIANCE GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 

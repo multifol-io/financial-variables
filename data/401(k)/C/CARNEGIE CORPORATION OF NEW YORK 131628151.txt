@@ -1,89 +1,33 @@
 NY : NEW YORK
   CARNEGIE CORPORATION OF NEW YORK  131628151
-   [503]
-    2022: CARNEGIE CORPORATION OF NY LONG-TERM CARE PLAN
-        Participants: 
-    2021: CARNEGIE CORPORATION OF NY LONG-TERM CARE PLAN
-        Participants: 
-    2020: CARNEGIE CORPORATION OF NY LONG-TERM CARE PLAN
-        Participants: 
-    2019: CARNEGIE CORPORATION OF NY LONG-TERM CARE PLAN
-        Participants: 
-    2018: CARNEGIE CORPORATION OF NY LONG-TERM CARE PLAN
-        Participants: 
-    2017: CARNEGIE CORPORATION OF NY LONG-TERM CARE PLAN
-        Participants: 
-   [501]
     2022: CARNEGIE CORPORATION OF NEW YORK MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
         Participants: 
     2021: CARNEGIE CORPORATION OF NEW YORK MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
         Participants: 
     2020: CARNEGIE CORPORATION OF NEW YORK MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
         Participants: 
     2019: CARNEGIE CORPORATION OF NEW YORK MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
         Participants: 
     2018: CARNEGIE CORPORATION OF NEW YORK MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
         Participants: 
     2017: CARNEGIE CORPORATION OF NEW YORK MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
         Participants: 
-   [003]
-    2022: CARNEGIE CORPORATION OF NEW YORK TAX-DEFERRED ANNUITY PLAN
-        Participants: 163
-        Assets: 26644742
-        $/Participant: 163464
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2021: CARNEGIE CORPORATION OF NEW YORK TAX-DEFERRED ANNUITY PLAN
-        Participants: 138
-        Assets: 29860749
-        $/Participant: 216382
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2020: CARNEGIE CORPORATION OF NEW YORK TAX-DEFERRED ANNUITY PLAN
-        Participants: 126
-        Assets: 25569796
-        $/Participant: 202934
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2019: CARNEGIE CORPORATION OF NEW YORK TAX-DEFERRED ANNUITY PLAN
-        Participants: 126
-        Assets: 22428871
-        $/Participant: 178006
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2018: CARNEGIE CORPORATION OF NEW YORK TAX-DEFERRED ANNUITY PLAN
-        Participants: 147
-        Assets: 18626868
-        $/Participant: 126713
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2017: CARNEGIE CORPORATION OF NEW YORK TAX-DEFERRED ANNUITY PLAN
-        Participants: 143
-        Assets: 17936566
-        $/Participant: 125430
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-   [002]
-    2022: CARNEGIE CORPORATION OF NEW YORK SUPPLEMENTAL PENSION PLAN
-        Participants: 66
-    2021: CARNEGIE CORPORATION OF NEW YORK SUPPLEMENTAL PENSION PLAN
-        Participants: 66
-    2020: CARNEGIE CORPORATION OF NEW YORK SUPPLEMENTAL PENSION PLAN
-        Participants: 68
-    2019: CARNEGIE CORPORATION OF NEW YORK SUPPLEMENTAL PENSION PLAN
-        Participants: 68
-    2018: CARNEGIE CORPORATION OF NEW YORK SUPPLEMENTAL PENSION PLAN
-        Participants: 70
-    2017: CARNEGIE CORPORATION OF NEW YORK SUPPLEMENTAL PENSION PLAN
-        Participants: 73
    [001]
     2022: CARNEGIE CORPORATION OF NEW YORK DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2C2G 
         Participants: 358
         Assets: 78503339
         $/Participant: 219283
@@ -91,6 +35,8 @@ NY : NEW YORK
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2021: CARNEGIE CORPORATION OF NEW YORK DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2C2G 
         Participants: 347
         Assets: 87881293
         $/Participant: 253260
@@ -98,6 +44,8 @@ NY : NEW YORK
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2020: CARNEGIE CORPORATION OF NEW YORK DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2C2G 
         Participants: 333
         Assets: 79334783
         $/Participant: 238242
@@ -105,6 +53,8 @@ NY : NEW YORK
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2019: CARNEGIE CORPORATION OF NEW YORK DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2C2G 
         Participants: 334
         Assets: 71252578
         $/Participant: 213331
@@ -112,6 +62,8 @@ NY : NEW YORK
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2018: CARNEGIE CORPORATION OF NEW YORK DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2C2G 
         Participants: 327
         Assets: 61630713
         $/Participant: 188473
@@ -119,9 +71,116 @@ NY : NEW YORK
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2017: CARNEGIE CORPORATION OF NEW YORK DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2C2G 
         Participants: 322
         Assets: 64631957
         $/Participant: 200720
         Available Investments:
            - TIAA-CREF
                  : TIAA REAL ESTATE
+   [003]
+    2022: CARNEGIE CORPORATION OF NEW YORK TAX-DEFERRED ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2G2L2M 
+        Participants: 163
+        Assets: 26644742
+        $/Participant: 163464
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2021: CARNEGIE CORPORATION OF NEW YORK TAX-DEFERRED ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2G2L2M 
+        Participants: 138
+        Assets: 29860749
+        $/Participant: 216382
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2020: CARNEGIE CORPORATION OF NEW YORK TAX-DEFERRED ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2G2L2M 
+        Participants: 126
+        Assets: 25569796
+        $/Participant: 202934
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2019: CARNEGIE CORPORATION OF NEW YORK TAX-DEFERRED ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2G2L2M 
+        Participants: 126
+        Assets: 22428871
+        $/Participant: 178006
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2018: CARNEGIE CORPORATION OF NEW YORK TAX-DEFERRED ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2G2L2M 
+        Participants: 147
+        Assets: 18626868
+        $/Participant: 126713
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2017: CARNEGIE CORPORATION OF NEW YORK TAX-DEFERRED ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2G2L2M 
+        Participants: 143
+        Assets: 17936566
+        $/Participant: 125430
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+   [503]
+    2022: CARNEGIE CORPORATION OF NY LONG-TERM CARE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2021: CARNEGIE CORPORATION OF NY LONG-TERM CARE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2020: CARNEGIE CORPORATION OF NY LONG-TERM CARE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2019: CARNEGIE CORPORATION OF NY LONG-TERM CARE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2018: CARNEGIE CORPORATION OF NY LONG-TERM CARE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2017: CARNEGIE CORPORATION OF NY LONG-TERM CARE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+   [002]
+    2022: CARNEGIE CORPORATION OF NEW YORK SUPPLEMENTAL PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1D1I 
+        Participants: 66
+    2021: CARNEGIE CORPORATION OF NEW YORK SUPPLEMENTAL PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1D1I 
+        Participants: 66
+    2020: CARNEGIE CORPORATION OF NEW YORK SUPPLEMENTAL PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1D1I 
+        Participants: 68
+    2019: CARNEGIE CORPORATION OF NEW YORK SUPPLEMENTAL PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1D1I 
+        Participants: 68
+    2018: CARNEGIE CORPORATION OF NEW YORK SUPPLEMENTAL PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1D1I 
+        Participants: 70
+    2017: CARNEGIE CORPORATION OF NEW YORK SUPPLEMENTAL PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1D1I 
+        Participants: 73

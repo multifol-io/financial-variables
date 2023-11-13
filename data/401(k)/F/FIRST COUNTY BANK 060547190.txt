@@ -1,20 +1,9 @@
 CT : STAMFORD
   FIRST COUNTY BANK  060547190
-   [501]
-    2022: FIRST COUNTY BANK
-        Participants: 
-    2021: FIRST COUNTY BANK
-        Participants: 
-    2020: FIRST COUNTY BANK
-        Participants: 
-    2019: FIRST COUNTY BANK
-        Participants: 
-    2018: FIRST COUNTY BANK
-        Participants: 
-    2017: FIRST COUNTY BANK
-        Participants: 
    [002]
     2022: FIRST COUNTY BANK SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 292
         Assets: 31048171
         $/Participant: 106329
@@ -48,6 +37,8 @@ CT : STAMFORD
                  : PRIN REAL ESTATE SECS SA-R6
                  : PRIN SMCAP S&P 600 INDEX SA-R6
     2021: FIRST COUNTY BANK SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 297
         Assets: 35948516
         $/Participant: 121038
@@ -77,27 +68,62 @@ CT : STAMFORD
                  : PRIN REAL ESTATE SECS SA-R6
                  : PRIN SMCAP S&P 600 INDEX SA-R6
     2020: FIRST COUNTY BANK SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3D2S2T 
         Participants: 286
         Assets: 28607212
         $/Participant: 100025
         RecordKeeper: WELLS FARGO
     2019: FIRST COUNTY BANK SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3D2S2T 
         Participants: 298
         Assets: 24464948
         $/Participant: 82097
         RecordKeeper: WELLS FARGO
     2018: FIRST COUNTY BANK SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3D2S2T 
         Participants: 298
         Assets: 19254125
         $/Participant: 64611
         RecordKeeper: WELLS FARGO
     2017: FIRST COUNTY BANK SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3D2S2T 
         Participants: 277
         Assets: 19639831
         $/Participant: 70901
         RecordKeeper: WELLS FARGO
+   [501]
+    2022: FIRST COUNTY BANK
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2021: FIRST COUNTY BANK
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2018: FIRST COUNTY BANK
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4Q
+        Participants: 
+    2017: FIRST COUNTY BANK
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2020: FIRST COUNTY BANK
+        Benefit Category: Other
+        Codes:  4B4H4Q4D4E4F
+        Participants: 
+    2019: FIRST COUNTY BANK
+        Benefit Category: Other
+        Codes:  4B4H4Q4D4E4F
+        Participants: 
    [001]
     2022: RETIREMENT PLAN OF FIRST COUNTY BANK
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 208
         Assets: 63131161
         $/Participant: 303515
@@ -116,6 +142,8 @@ CT : STAMFORD
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2021: RETIREMENT PLAN OF FIRST COUNTY BANK
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 240
         Assets: 77534051
         $/Participant: 323058
@@ -148,6 +176,8 @@ CT : STAMFORD
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2020: RETIREMENT PLAN OF FIRST COUNTY BANK
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 269
         Assets: 67866870
         $/Participant: 252293
@@ -183,6 +213,8 @@ CT : STAMFORD
                  : SIA-YH SELECT OVERSEAS
                  : SIA-YX MM S&P 500 INDEX
     2019: RETIREMENT PLAN OF FIRST COUNTY BANK
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 297
         Assets: 58055201
         $/Participant: 195472
@@ -217,6 +249,8 @@ CT : STAMFORD
                  : SIA-YI PREMIER INTERNATIONAL EQUITY
                  : SIA-YX MM S&P 500 INDEX
     2018: RETIREMENT PLAN OF FIRST COUNTY BANK
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 347
         Assets: 45975563
         $/Participant: 132494
@@ -249,6 +283,8 @@ CT : STAMFORD
                  : SIA-YI PREMIER INTERNATIONAL EQUITY
                  : SIA-YX MM S&P 500 INDEX
     2017: RETIREMENT PLAN OF FIRST COUNTY BANK
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 334
         Assets: 52921811
         $/Participant: 158448

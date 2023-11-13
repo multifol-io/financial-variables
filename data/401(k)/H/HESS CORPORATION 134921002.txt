@@ -1,36 +1,198 @@
 TX : HOUSTON
   HESS CORPORATION  134921002
-   [504]
-    2017: HESS CORPORATION SEVERANCE PAY PLAN
-        Participants: 0
-   [503]
-    2022: HESS CORPORATION RETIREES' MEDICAL PLAN
-        Participants: 
-    2021: HESS CORPORATION RETIREES' MEDICAL PLAN
-        Participants: 
-    2020: HESS CORPORATION RETIREES' MEDICAL PLAN
-        Participants: 
-    2019: HESS CORPORATION RETIREES' MEDICAL PLAN
-        Participants: 
-    2018: HESS CORPORATION RETIREES' MEDICAL PLAN
-        Participants: 
-    2017: HESS CORPORATION RETIREES' MEDICAL PLAN
-        Participants: 560
+   [001]
+    2022: HESS CORPORATION EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2K2F 
+        Participants: 3058
+        Assets: 903646847
+        $/Participant: 295502
+        RecordKeeper: GROOM LAW GROUP, CHARTERED
+    2021: HESS CORPORATION EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2K2F 
+        Participants: 3071
+        Assets: 960331606
+        $/Participant: 312709
+        RecordKeeper: GROOM LAW GROUP, CHARTERED
+    2020: HESS CORPORATION EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2K2F 
+        Participants: 3260
+        Assets: 842345465
+        $/Participant: 258388
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2019: HESS CORPORATION EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2K2F 
+        Participants: 3462
+        Assets: 800042617
+        $/Participant: 231092
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2018: HESS CORPORATION EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K 
+        Participants: 3662
+        Assets: 648435928
+        $/Participant: 177071
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2017: HESS CORPORATION EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K 
+        Participants: 3992
+        Assets: 738443300
+        $/Participant: 184980
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
    [501]
     2022: HESS CORPORATION EMPLOYEES' HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q4L4F
         Participants: 
     2021: HESS CORPORATION EMPLOYEES' HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q4L4F
         Participants: 
     2020: HESS CORPORATION EMPLOYEES' HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q4L4F
         Participants: 
     2019: HESS CORPORATION EMPLOYEES' HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q4L4F
         Participants: 
     2018: HESS CORPORATION EMPLOYEES' HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
         Participants: 
     2017: HESS CORPORATION EMPLOYEES' HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
         Participants: 1656
+   [503]
+    2022: HESS CORPORATION RETIREES' MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: HESS CORPORATION RETIREES' MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2020: HESS CORPORATION RETIREES' MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: HESS CORPORATION RETIREES' MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: HESS CORPORATION RETIREES' MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: HESS CORPORATION RETIREES' MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 560
+   [002]
+    2022: HOVENSA LEGACY EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I1H 
+        Participants: 0
+        Service Providers:
+           - BLACKROCK FINANCIAL :  (Investment management | Direct payment from the plan)
+           - GROOM LAW GROUP :  (Legal | Direct payment from the plan)
+           - WILLIS TOWERS WATSON :  (Consulting(pension) | Direct payment from the plan | Investment management fees paid directly by plan)
+           - MERCER :  (Actuarial | Consulting(pension) | Direct payment from the plan | Consulting fees)
+           - FID INV INST OPS CO :  (Consulting(pension) | Consulting(general) | Direct payment from the plan)
+           - NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue)
+           - DEMARCHE ASSOC. :  (Consulting(general) | Direct payment from the plan | Consulting fees)
+        Available Investments:
+           - BLACKROCK INSTITUTIONAL TRUST CO. N.A.
+                 : LONG TERM GOV/CREDIT BOND INDEX FUN
+           - NORTHERN TRUST INVESTMENTS, N.A.
+                 : NTGI COLLECTIVE GOVERNMENT STIF
+    2021: HOVENSA LEGACY EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
+        Participants: 920
+        Assets: 139497491
+        $/Participant: 151627
+        Service Providers:
+           - GROOM LAW GROUP :  (Legal | Direct payment from the plan)
+           - WILLIS TOWERS WATSON :  (Consulting(pension) | Direct payment from the plan | Investment management fees paid directly by plan)
+           - MERCER :  (Actuarial | Consulting(pension) | Direct payment from the plan | Consulting fees)
+           - FID INV INST OPS CO :  (Consulting(pension) | Consulting(general) | Direct payment from the plan)
+           - BLACKROCK FINANCIAL :  (Investment management | Direct payment from the plan)
+           - NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue)
+           - DEMARCHE ASSOC. :  (Consulting(general) | Direct payment from the plan | Consulting fees)
+        Available Investments:
+           - BLACKROCK INSTITUTIONAL TRUST CO. N.A.
+                 : LONG TERM GOV/CREDIT BOND INDEX FUN
+           - NORTHERN TRUST INVESTMENTS, N.A.
+                 : NTGI COLLECTIVE GOVERNMENT STIF
+    2020: HOVENSA LEGACY EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
+        Participants: 935
+        Assets: 150246210
+        $/Participant: 160691
+        Service Providers:
+           - MERCER :  (Actuarial | Consulting(pension) | Direct payment from the plan | Consulting fees)
+           - BLACKROCK FINANCIAL :  (Investment management | Direct payment from the plan)
+           - NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue)
+           - GROOM LAW GROUP :  (Legal | Direct payment from the plan)
+           - FID INV INST OPS CO :  (Consulting(pension) | Consulting(general) | Direct payment from the plan)
+        Available Investments:
+           - BLACKROCK INSTITUTIONAL TRUST CO. N.A.
+                 : LONG TERM GOV/CREDIT BOND INDEX FUN
+           - NORTHERN TRUST INVESTMENTS, N.A.
+                 : NTGI COLLECTIVE GOVERNMENT STIF
+    2019: HOVENSA LEGACY EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
+        Participants: 947
+        Assets: 144841221
+        $/Participant: 152947
+        Service Providers:
+           - MERCER :  (Actuarial | Consulting(pension) | Direct payment from the plan | Consulting fees)
+           - BLACKROCK FINANCIAL :  (Investment management | Direct payment from the plan)
+           - THE NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue)
+        Available Investments:
+           - BLACKROCK INSTITUTIONAL TRUST CO. N.A.
+                 : LONG TERM GOV/CREDIT BOND INDEX FUN
+           - NORTHERN TRUST INVESTMENTS, N.A.
+                 : NTGI COLLECTIVE GOVERNMENT STIF
+    2018: HOVENSA LEGACY EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
+        Participants: 945
+        Assets: 116577440
+        $/Participant: 123362
+        Service Providers:
+           - MERCER :  (Actuarial | Consulting(pension) | Direct payment from the plan | Consulting fees)
+           - THE NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue)
+           - BLACKROCK FINANCIAL :  (Investment management | Direct payment from the plan)
+        Available Investments:
+           - BLACKROCK INSTITUTIONAL TRUST CO. N.A.
+                 : LONG TERM GOV/CREDIT BOND INDEX FUN
+           - NORTHERN TRUST INVESTMENTS, N.A.
+                 : NTGI COLLECTIVE GOVERNMENT STIF
+    2017: HOVENSA LEGACY EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
+        Participants: 956
+        Assets: 121793966
+        $/Participant: 127399
+        Service Providers:
+           - MERCER :  (Actuarial | Consulting(pension) | Direct payment from the plan | Consulting fees)
+           - THE NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue)
+        Available Investments:
+           - NORTHERN TRUST INVESTMENTS, N.A.
+                 : NTGI COLLECTIVE GOVERNMENT STIF
    [333]
     2022: HESS CORPORATION EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C 
         Participants: 8242
         Assets: 1955153770
         $/Participant: 237218
@@ -73,6 +235,8 @@ TX : HOUSTON
                  : WESTERN ASSET MBS PORT
                  : WESTERN ASSET OP US HIGH INCOME
     2021: HESS CORPORATION EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C 
         Participants: 9415
         Assets: 2543091782
         $/Participant: 270110
@@ -117,6 +281,8 @@ TX : HOUSTON
                  : WESTERN ASSET MBS PORT
                  : WESTERN ASSET OP US HIGH INCOME
     2020: HESS CORPORATION EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C 
         Participants: 9341
         Assets: 2214086023
         $/Participant: 237028
@@ -162,6 +328,8 @@ TX : HOUSTON
                  : WESTERN ASSET OP US HIGH INCOME
                  : WESTERN ASSET OPP INT INV GRADE POR
     2019: HESS CORPORATION EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C 
         Participants: 9357
         Assets: 1984087527
         $/Participant: 212043
@@ -203,6 +371,8 @@ TX : HOUSTON
                  : WESTERN ASSET OP US HIGH INCOME
                  : WESTERN ASSET OPP INT INV GRADE POR
     2018: HESS CORPORATION EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 13774
         Assets: 1907532797
         $/Participant: 138487
@@ -244,6 +414,8 @@ TX : HOUSTON
                  : WESTERN ASSET OP US HIGH INCOME
                  : WESTERN ASSET OPP INT INV GRADE POR
     2017: HESS CORPORATION EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 13771
         Assets: 2070034064
         $/Participant: 150318
@@ -281,118 +453,8 @@ TX : HOUSTON
                  : WESTERN ASSET MBS PORT
                  : WESTERN ASSET OP US HIGH INCOME
                  : WESTERN ASSET OPP INT INV GRADE POR
-   [002]
-    2022: HOVENSA LEGACY EMPLOYEES' PENSION PLAN
+   [504]
+    2017: HESS CORPORATION SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
         Participants: 0
-        Service Providers:
-           - BLACKROCK FINANCIAL :  (Investment management | Direct payment from the plan)
-           - GROOM LAW GROUP :  (Legal | Direct payment from the plan)
-           - WILLIS TOWERS WATSON :  (Consulting(pension) | Direct payment from the plan | Investment management fees paid directly by plan)
-           - MERCER :  (Actuarial | Consulting(pension) | Direct payment from the plan | Consulting fees)
-           - FID INV INST OPS CO :  (Consulting(pension) | Consulting(general) | Direct payment from the plan)
-           - NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue)
-           - DEMARCHE ASSOC. :  (Consulting(general) | Direct payment from the plan | Consulting fees)
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST CO. N.A.
-                 : LONG TERM GOV/CREDIT BOND INDEX FUN
-           - NORTHERN TRUST INVESTMENTS, N.A.
-                 : NTGI COLLECTIVE GOVERNMENT STIF
-    2021: HOVENSA LEGACY EMPLOYEES' PENSION PLAN
-        Participants: 920
-        Assets: 139497491
-        $/Participant: 151627
-        Service Providers:
-           - GROOM LAW GROUP :  (Legal | Direct payment from the plan)
-           - WILLIS TOWERS WATSON :  (Consulting(pension) | Direct payment from the plan | Investment management fees paid directly by plan)
-           - MERCER :  (Actuarial | Consulting(pension) | Direct payment from the plan | Consulting fees)
-           - FID INV INST OPS CO :  (Consulting(pension) | Consulting(general) | Direct payment from the plan)
-           - BLACKROCK FINANCIAL :  (Investment management | Direct payment from the plan)
-           - NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue)
-           - DEMARCHE ASSOC. :  (Consulting(general) | Direct payment from the plan | Consulting fees)
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST CO. N.A.
-                 : LONG TERM GOV/CREDIT BOND INDEX FUN
-           - NORTHERN TRUST INVESTMENTS, N.A.
-                 : NTGI COLLECTIVE GOVERNMENT STIF
-    2020: HOVENSA LEGACY EMPLOYEES' PENSION PLAN
-        Participants: 935
-        Assets: 150246210
-        $/Participant: 160691
-        Service Providers:
-           - MERCER :  (Actuarial | Consulting(pension) | Direct payment from the plan | Consulting fees)
-           - BLACKROCK FINANCIAL :  (Investment management | Direct payment from the plan)
-           - NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue)
-           - GROOM LAW GROUP :  (Legal | Direct payment from the plan)
-           - FID INV INST OPS CO :  (Consulting(pension) | Consulting(general) | Direct payment from the plan)
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST CO. N.A.
-                 : LONG TERM GOV/CREDIT BOND INDEX FUN
-           - NORTHERN TRUST INVESTMENTS, N.A.
-                 : NTGI COLLECTIVE GOVERNMENT STIF
-    2019: HOVENSA LEGACY EMPLOYEES' PENSION PLAN
-        Participants: 947
-        Assets: 144841221
-        $/Participant: 152947
-        Service Providers:
-           - MERCER :  (Actuarial | Consulting(pension) | Direct payment from the plan | Consulting fees)
-           - BLACKROCK FINANCIAL :  (Investment management | Direct payment from the plan)
-           - THE NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue)
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST CO. N.A.
-                 : LONG TERM GOV/CREDIT BOND INDEX FUN
-           - NORTHERN TRUST INVESTMENTS, N.A.
-                 : NTGI COLLECTIVE GOVERNMENT STIF
-    2018: HOVENSA LEGACY EMPLOYEES' PENSION PLAN
-        Participants: 945
-        Assets: 116577440
-        $/Participant: 123362
-        Service Providers:
-           - MERCER :  (Actuarial | Consulting(pension) | Direct payment from the plan | Consulting fees)
-           - THE NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue)
-           - BLACKROCK FINANCIAL :  (Investment management | Direct payment from the plan)
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST CO. N.A.
-                 : LONG TERM GOV/CREDIT BOND INDEX FUN
-           - NORTHERN TRUST INVESTMENTS, N.A.
-                 : NTGI COLLECTIVE GOVERNMENT STIF
-    2017: HOVENSA LEGACY EMPLOYEES' PENSION PLAN
-        Participants: 956
-        Assets: 121793966
-        $/Participant: 127399
-        Service Providers:
-           - MERCER :  (Actuarial | Consulting(pension) | Direct payment from the plan | Consulting fees)
-           - THE NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue)
-        Available Investments:
-           - NORTHERN TRUST INVESTMENTS, N.A.
-                 : NTGI COLLECTIVE GOVERNMENT STIF
-   [001]
-    2022: HESS CORPORATION EMPLOYEES' SAVINGS PLAN
-        Participants: 3058
-        Assets: 903646847
-        $/Participant: 295502
-        RecordKeeper: GROOM LAW GROUP, CHARTERED
-    2021: HESS CORPORATION EMPLOYEES' SAVINGS PLAN
-        Participants: 3071
-        Assets: 960331606
-        $/Participant: 312709
-        RecordKeeper: GROOM LAW GROUP, CHARTERED
-    2020: HESS CORPORATION EMPLOYEES' SAVINGS PLAN
-        Participants: 3260
-        Assets: 842345465
-        $/Participant: 258388
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2019: HESS CORPORATION EMPLOYEES' SAVINGS PLAN
-        Participants: 3462
-        Assets: 800042617
-        $/Participant: 231092
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2018: HESS CORPORATION EMPLOYEES' SAVINGS PLAN
-        Participants: 3662
-        Assets: 648435928
-        $/Participant: 177071
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2017: HESS CORPORATION EMPLOYEES' SAVINGS PLAN
-        Participants: 3992
-        Assets: 738443300
-        $/Participant: 184980
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL

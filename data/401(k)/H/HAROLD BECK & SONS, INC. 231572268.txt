@@ -1,29 +1,8 @@
 PA : NEWTOWN
   HAROLD BECK & SONS, INC.  231572268
-   [504]
-    2021: HAROLD BECK AND SONS, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: HAROLD BECK AND SONS, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: HAROLD BECK AND SONS, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: HAROLD BECK AND SONS, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: HAROLD BECK AND SONS, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-   [503]
-    2017: HAROLD BECK & SONS, INC. GROUP TERM LIFE INS PLAN
-        Participants: 
-   [502]
-    2017: HAROLD BECK & SONS, INC. LONG-TERM DISABILITY PLAN
-        Participants: 
-   [002]
-    2021: HAROLD BECK & SONS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 116
-        Assets: 10421131
-        $/Participant: 89837
-   [001]
     2021: HAROLD BECK & SONS, INC. PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 154
         Assets: 56112886
         $/Participant: 364369
@@ -32,6 +11,8 @@ PA : NEWTOWN
            - PRUDENTIAL RETIREMENT INS.
                  : PRUDENTIAL DAY ONE INCOMEFLEX TARGE
     2020: HAROLD BECK & SONS, INC. PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 157
         Assets: 70494800
         $/Participant: 449011
@@ -40,6 +21,8 @@ PA : NEWTOWN
            - PRUDENTIAL RETIREMENT INS.
                  : PRU DAY ONE IFX TARG BAL
     2019: HAROLD BECK & SONS, INC. PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 161
         Assets: 58436143
         $/Participant: 362957
@@ -48,6 +31,8 @@ PA : NEWTOWN
            - PRUDENTIAL RETIREMENT INS.
                  : PRU DAY ONE IFX TARG BAL
     2018: HAROLD BECK & SONS, INC. PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 154
         Assets: 55281550
         $/Participant: 358971
@@ -56,6 +41,8 @@ PA : NEWTOWN
            - PRUDENTIAL RETIREMENT INS.
                  : PRU DAY ONE IFX TARG BAL
     2017: HAROLD BECK & SONS, INC. PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 138
         Assets: 49974632
         $/Participant: 362135
@@ -63,3 +50,41 @@ PA : NEWTOWN
         Available Investments:
            - PRUDENTIAL RETIREMENT INS.
                  : PRU DAY ONE IFX TARG BAL
+   [002]
+    2021: HAROLD BECK & SONS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P3I 
+        Participants: 116
+        Assets: 10421131
+        $/Participant: 89837
+   [504]
+    2021: HAROLD BECK AND SONS, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2020: HAROLD BECK AND SONS, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2019: HAROLD BECK AND SONS, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2018: HAROLD BECK AND SONS, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2017: HAROLD BECK AND SONS, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+   [502]
+    2017: HAROLD BECK & SONS, INC. LONG-TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+   [503]
+    2017: HAROLD BECK & SONS, INC. GROUP TERM LIFE INS PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 

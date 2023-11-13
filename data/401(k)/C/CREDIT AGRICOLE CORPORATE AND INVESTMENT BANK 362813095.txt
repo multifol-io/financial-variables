@@ -1,20 +1,9 @@
 NY : NEW YORK
   CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK  362813095
-   [501]
-    2022: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2021: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2020: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2019: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2018: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2017: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
    [005]
     2022: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
         Participants: 1627
         Assets: 369312254
         $/Participant: 226989
@@ -42,6 +31,8 @@ NY : NEW YORK
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VALUE FD CL M
     2021: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
         Participants: 1554
         Assets: 446974374
         $/Participant: 287628
@@ -60,6 +51,8 @@ NY : NEW YORK
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VALUE FD CL M
     2020: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
         Participants: 1462
         Assets: 390957667
         $/Participant: 267412
@@ -78,6 +71,8 @@ NY : NEW YORK
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VALUE FD CL M
     2019: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
         Participants: 1465
         Assets: 338684034
         $/Participant: 231183
@@ -97,6 +92,8 @@ NY : NEW YORK
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VALUE FD CL M
     2018: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K3H2T2S2R 
         Participants: 1459
         Assets: 287286837
         $/Participant: 196906
@@ -116,6 +113,8 @@ NY : NEW YORK
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VALUE FD CL M
     2017: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K3H2T2S 
         Participants: 1416
         Assets: 304931159
         $/Participant: 215346
@@ -134,88 +133,35 @@ NY : NEW YORK
                  : LIFEPATH INDEX RET NON LEND O
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VALUE FD CL M
-   [004]
-    2022: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK RETIREMENT PLAN
-        Participants: 1228
-        Assets: 152572222
-        $/Participant: 124244
-        Service Providers:
-           - MARCUM LLP :  (Accounting(including auditing) | Direct payment from the plan)
-           - CHARLES SCHWAB & CO., INC. :  (Investment management fees paid indirectly by plan | Shareholder servicing fees)
-    2021: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK RETIREMENT PLAN
-        Participants: 1231
-        Assets: 204397332
-        $/Participant: 166041
-    2020: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK RETIREMENT PLAN
-        Participants: 1235
-        Assets: 202839249
-        $/Participant: 164242
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-    2019: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK RETIREMENT PLAN
-        Participants: 1244
-        Assets: 180854871
-        $/Participant: 145381
-        Service Providers:
-           - CHARLES SCHWAB & CO., INC. :  (Investment management fees paid indirectly by plan | Shareholder servicing fees)
-    2018: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK RETIREMENT PLAN
-        Participants: 1251
-        Assets: 152932764
-        $/Participant: 122248
-        Service Providers:
-           - CHARLES SCHWAB & CO., INC. :  (Investment management)
-           - CHARLES SCHWAB TRUST BANK :  (Investment management)
-    2017: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK RETIREMENT PLAN
-        Participants: 1258
-        Assets: 160460448
-        $/Participant: 127552
-        Service Providers:
-           - CHARLES SCHWAB & CO., INC. :  (Investment management)
-   [003]
-    2017: CREDIT AGRICOLE INDOSUEZ (USA) CASH BALANCE PLAN
-        Participants: 0
-        RecordKeeper: SCHWAB RETIREMENT PLAN SERVICES
-   [002]
-    2022: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK MONEY PURCHASE PENSION PLAN
-        Participants: 284
-        Assets: 34151497
-        $/Participant: 120251
-        Service Providers:
-           - MARCUM LLP :  (Accounting(including auditing) | Direct payment from the plan)
-           - CHARLES SCHWAB & CO., INC. :  (Investment management fees paid indirectly by plan | Shareholder servicing fees)
-    2021: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK MONEY PURCHASE PENSION PLAN
-        Participants: 300
-        Assets: 44635605
-        $/Participant: 148785
-        Service Providers:
-           - CHARLES SCHWAB & CO., INC. :  (Investment management fees paid indirectly by plan | Shareholder servicing fees)
-    2020: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK MONEY PURCHASE PENSION PLAN
-        Participants: 316
-        Assets: 43881103
-        $/Participant: 138864
-        RecordKeeper: SCHWAB RET. PLAN SERVICES, INC.
-    2019: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK MONEY PURCHASE PENSION PLAN
-        Participants: 340
-        Assets: 41910975
-        $/Participant: 123267
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-    2018: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK MONEY PURCHASE PENSION PLAN
-        Participants: 367
-        Assets: 41614830
-        $/Participant: 113391
-        Service Providers:
-           - CHARLES SCHWAB & CO., INC. :  (Investment management)
-           - SCHWAB RET. PLAN SERVICES, INC. :  (Investment management)
-           - CHARLES SCHWAB BANK :  (Investment management)
-    2017: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK MONEY PURCHASE PENSION PLAN
-        Participants: 394
-        Assets: 51064917
-        $/Participant: 129606
-        Service Providers:
-           - ROCATON INVESTMENT ADVISORS, LLC :  (Investment management | Investment management fees paid directly by plan)
-           - SCHWAB RET. PLAN SERVICES, INC. :  (Investment management)
-           - CHARLES SCHWAB & CO., INC. :  (Investment management)
+   [501]
+    2022: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
    [001]
     2022: CREDIT AGRICOLE INDOSUEZ (USA) MONEY PURCHASE PENSION PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2T 
         Participants: 99
         Assets: 10915386
         $/Participant: 110256
@@ -239,6 +185,8 @@ NY : NEW YORK
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VALUE FD CL M
     2021: CREDIT AGRICOLE INDOSUEZ (USA) MONEY PURCHASE PENSION PLAN
+        Benefit Category: Other
+        Codes: 2F2G2C2T 
         Participants: 99
         Assets: 12874718
         $/Participant: 130047
@@ -257,6 +205,8 @@ NY : NEW YORK
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VALUE FD CL M
     2020: CREDIT AGRICOLE INDOSUEZ (USA) MONEY PURCHASE PENSION PLAN
+        Benefit Category: Other
+        Codes: 2F2G2C2T 
         Participants: 102
         Assets: 12321296
         $/Participant: 120797
@@ -273,6 +223,8 @@ NY : NEW YORK
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VALUE FD CL M
     2019: CREDIT AGRICOLE INDOSUEZ (USA) MONEY PURCHASE PENSION PLAN
+        Benefit Category: Other
+        Codes: 2F2G2C2T 
         Participants: 105
         Assets: 10903457
         $/Participant: 103842
@@ -291,6 +243,8 @@ NY : NEW YORK
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VALUE FD CL M
     2018: CREDIT AGRICOLE INDOSUEZ (USA) MONEY PURCHASE PENSION PLAN
+        Benefit Category: Other
+        Codes: 2F2G2C2T 
         Participants: 114
         Assets: 9288329
         $/Participant: 81476
@@ -308,6 +262,8 @@ NY : NEW YORK
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VALUE FD CL M
     2017: CREDIT AGRICOLE INDOSUEZ (USA) MONEY PURCHASE PENSION PLAN
+        Benefit Category: Other
+        Codes: 2F2G2C2T 
         Participants: 117
         Assets: 10259021
         $/Participant: 87683
@@ -324,3 +280,109 @@ NY : NEW YORK
                  : LIFEPATH INDEX RET NON LEND O
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VALUE FD CL M
+   [002]
+    2022: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK MONEY PURCHASE PENSION PLAN
+        Benefit Category: Other
+        Codes: 2C3H 
+        Participants: 284
+        Assets: 34151497
+        $/Participant: 120251
+        Service Providers:
+           - MARCUM LLP :  (Accounting(including auditing) | Direct payment from the plan)
+           - CHARLES SCHWAB & CO., INC. :  (Investment management fees paid indirectly by plan | Shareholder servicing fees)
+    2021: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK MONEY PURCHASE PENSION PLAN
+        Benefit Category: Other
+        Codes: 2C3H 
+        Participants: 300
+        Assets: 44635605
+        $/Participant: 148785
+        Service Providers:
+           - CHARLES SCHWAB & CO., INC. :  (Investment management fees paid indirectly by plan | Shareholder servicing fees)
+    2020: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK MONEY PURCHASE PENSION PLAN
+        Benefit Category: Other
+        Codes: 2C3H 
+        Participants: 316
+        Assets: 43881103
+        $/Participant: 138864
+        RecordKeeper: SCHWAB RET. PLAN SERVICES, INC.
+    2019: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK MONEY PURCHASE PENSION PLAN
+        Benefit Category: Other
+        Codes: 2C3H 
+        Participants: 340
+        Assets: 41910975
+        $/Participant: 123267
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+    2018: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK MONEY PURCHASE PENSION PLAN
+        Benefit Category: Other
+        Codes: 2C3H 
+        Participants: 367
+        Assets: 41614830
+        $/Participant: 113391
+        Service Providers:
+           - CHARLES SCHWAB & CO., INC. :  (Investment management)
+           - SCHWAB RET. PLAN SERVICES, INC. :  (Investment management)
+           - CHARLES SCHWAB BANK :  (Investment management)
+    2017: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK MONEY PURCHASE PENSION PLAN
+        Benefit Category: Other
+        Codes: 2C3H 
+        Participants: 394
+        Assets: 51064917
+        $/Participant: 129606
+        Service Providers:
+           - ROCATON INVESTMENT ADVISORS, LLC :  (Investment management | Investment management fees paid directly by plan)
+           - SCHWAB RET. PLAN SERVICES, INC. :  (Investment management)
+           - CHARLES SCHWAB & CO., INC. :  (Investment management)
+   [003]
+    2017: CREDIT AGRICOLE INDOSUEZ (USA) CASH BALANCE PLAN
+        Benefit Category: Other
+        Codes: 1C1I3H 
+        Participants: 0
+        RecordKeeper: SCHWAB RETIREMENT PLAN SERVICES
+   [004]
+    2022: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1D1I3H 
+        Participants: 1228
+        Assets: 152572222
+        $/Participant: 124244
+        Service Providers:
+           - MARCUM LLP :  (Accounting(including auditing) | Direct payment from the plan)
+           - CHARLES SCHWAB & CO., INC. :  (Investment management fees paid indirectly by plan | Shareholder servicing fees)
+    2021: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1D1I3H 
+        Participants: 1231
+        Assets: 204397332
+        $/Participant: 166041
+    2020: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1D1I 
+        Participants: 1235
+        Assets: 202839249
+        $/Participant: 164242
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+    2019: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1D1I 
+        Participants: 1244
+        Assets: 180854871
+        $/Participant: 145381
+        Service Providers:
+           - CHARLES SCHWAB & CO., INC. :  (Investment management fees paid indirectly by plan | Shareholder servicing fees)
+    2018: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1D1I 
+        Participants: 1251
+        Assets: 152932764
+        $/Participant: 122248
+        Service Providers:
+           - CHARLES SCHWAB & CO., INC. :  (Investment management)
+           - CHARLES SCHWAB TRUST BANK :  (Investment management)
+    2017: CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1D1I 
+        Participants: 1258
+        Assets: 160460448
+        $/Participant: 127552
+        Service Providers:
+           - CHARLES SCHWAB & CO., INC. :  (Investment management)

@@ -1,43 +1,38 @@
 KS : LEAWOOD
-  FIRST FEDERAL BANK OF KANSAS CITY  440246815
-   [501]
-    2022: FIRST FEDERAL BANK EMPLOYEES HEALTH AND WELFARE PLAN
-        Participants: 
-MO : KANSAS CITY
-    2021: FIRST FEDERAL BANK EMPLOYEES HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: FIRST FEDERAL BANK EMPLOYEES HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: FIRST FEDERAL BANK EMPLOYEES HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: FIRST FEDERAL BANK EMPLOYEES HEALTH AND WELFARE PLAN
-        Participants: 191
-    2017: FIRST FEDERAL BANK EMPLOYEES HEALTH AND WELFARE PLAN
-        Participants: 195
-KS : LEAWOOD
+  FIRST FEDERAL BANK  440246815
    [002]
     2022: FIRST FEDERAL BANK OF KANSAS CITY 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2T3D2F 
         Participants: 250
         Assets: 8333796
         $/Participant: 33335
         RecordKeeper: COMMERCE TRUST COMPANY
 MO : KANSAS CITY
     2021: FIRST FEDERAL BANK OF KANSAS CITY FIRST FEDERAL BANK OF KANSAS CITY 401(K) SAVIN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2T3D2F 
         Participants: 254
         Assets: 10255726
         $/Participant: 40376
         RecordKeeper: COMMERCE TRUST COMPANY
     2020: FIRST FEDERAL BANK OF KANSAS CITY FIRST FEDERAL BANK OF KANSAS CITY 401(K) SAVIN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2T3D2F 
         Participants: 264
         Assets: 9469240
         $/Participant: 35868
         RecordKeeper: BKD LLP
     2019: FIRST FEDERAL BANK OF KANSAS CITY FIRST FEDERAL BANK OF KANSAS CITY 401(K) SAVIN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2T3D2F 
         Participants: 256
         Assets: 8127534
         $/Participant: 31748
         RecordKeeper: COMMERCE TRUST COMPANY
     2018: FIRST FEDERAL BANK OF KANSAS CITY FIRST FEDERAL BANK OF KANSAS CITY 401(K) SAVIN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2T3D 
         Participants: 273
         Assets: 7314513
         $/Participant: 26793
@@ -64,6 +59,8 @@ MO : KANSAS CITY
                  : TA VANGUARD TOTAL STOCK MARKET INDE
                  : VICTORY MUNDER MID-CAP CORE GROWTH
     2017: FIRST FEDERAL BANK OF KANSAS CITY 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2T3D 
         Participants: 260
         Assets: 7577878
         $/Participant: 29145
@@ -99,8 +96,37 @@ MO : KANSAS CITY
                  : TA VANGUARD TOTAL STOCK MARKET INDE
                  : VICTORY MUNDER MID-CAP CORE GROWTH
                  : VIRTUS CEREDEX LRG CAP VAL EQTY RET
+KS : LEAWOOD
+   [501]
+    2022: FIRST FEDERAL BANK EMPLOYEES HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+MO : KANSAS CITY
+    2021: FIRST FEDERAL BANK EMPLOYEES HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2020: FIRST FEDERAL BANK EMPLOYEES HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2019: FIRST FEDERAL BANK EMPLOYEES HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2018: FIRST FEDERAL BANK EMPLOYEES HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 191
+    2017: FIRST FEDERAL BANK EMPLOYEES HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
+        Participants: 195
    [001]
     2022: FIRST FEDERAL BANK RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 196
         Assets: 41599667
         $/Participant: 212243
@@ -109,6 +135,8 @@ MO : KANSAS CITY
            - CBIZ :  (Actuarial | Consulting(pension))
            - FORVIS, LLP :  (Accounting(including auditing))
     2021: FIRST FEDERAL BANK RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 201
         Assets: 52345725
         $/Participant: 260426
@@ -117,6 +145,8 @@ MO : KANSAS CITY
            - CBIZ RETIREMENT PLAN SERVICES :  (Actuarial | Consulting(pension))
            - BKD, LLP :  (Accounting(including auditing))
     2020: FIRST FEDERAL BANK RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 201
         Assets: 48203168
         $/Participant: 239816
@@ -125,6 +155,8 @@ MO : KANSAS CITY
            - CBIZ RETIREMENT PLAN SERVICES :  (Actuarial | Consulting(pension))
            - BKD, LLP :  (Accounting(including auditing))
     2019: FIRST FEDERAL BANK RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 209
         Assets: 43551592
         $/Participant: 208380
@@ -132,6 +164,8 @@ MO : KANSAS CITY
            - COMMERCE BANK :  (Investment advisory(plan) | Direct payment from the plan | Shareholder servicing fees | Securities brokerage)
            - CBIZ RETIREMENT PLAN SERVICES :  (Actuarial | Consulting(pension))
     2018: FIRST FEDERAL BANK RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 205
         Assets: 38126403
         $/Participant: 185982
@@ -140,6 +174,8 @@ MO : KANSAS CITY
            - MCCLOUD AND ASSOCIATES, INC. :  (Actuarial)
            - MAYER HOFFMAN MCCANN P.C. :  (Accounting(including auditing))
     2017: FIRST FEDERAL BANK RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 205
         Assets: 38512528
         $/Participant: 187865

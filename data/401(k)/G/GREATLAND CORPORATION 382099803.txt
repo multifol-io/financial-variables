@@ -1,60 +1,30 @@
 MI : GRAND RAPIDS
   GREATLAND CORPORATION  382099803
-   [502]
-    2022: GREATLAND CORPORATION HEALTH & WELFARE PLAN
-        Participants: 
-    2021: GREATLAND CORPORATION HEALTH & WELFARE PLAN
-        Participants: 
-    2020: GREATLAND CORPORATION HEALTH & WELFARE PLAN
-        Participants: 
-    2019: GREATLAND CORPORATION HEALTH & WELFARE PLAN
-        Participants: 
-        Service Providers:
-           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADIMINSTRATOR (Contract Administrator | Insurance agents and brokers)
-    2018: GREATLAND CORPORATION HEALTH & WELFARE PLAN
-        Participants: 
-        Service Providers:
-           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADIMINSTRATOR (Contract Administrator | Insurance agents and brokers)
-    2017: GREATLAND CORPORATION WELFARE PLAN
-        Participants: 
-   [002]
-    2021: GREATLAND CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 129
-        Assets: 79925008
-        $/Participant: 619573
-    2020: GREATLAND CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 133
-        Assets: 77388235
-        $/Participant: 581866
-    2019: GREATLAND CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 137
-        Assets: 68009637
-        $/Participant: 496420
-    2018: GREATLAND CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 124
-        Assets: 59138456
-        $/Participant: 476923
-    2017: GREATLAND CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 131
-        Assets: 47761331
-        $/Participant: 364590
    [001]
     2021: GREATLAND CORPORATION 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3F 
         Participants: 173
         Assets: 71216237
         $/Participant: 411654
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
     2020: GREATLAND CORPORATION 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3F 
         Participants: 171
         Assets: 83450365
         $/Participant: 488013
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
     2019: GREATLAND CORPORATION 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3F 
         Participants: 176
         Assets: 61299517
         $/Participant: 348292
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
     2018: GREATLAND CORPORATION 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3F 
         Participants: 171
         Assets: 53479851
         $/Participant: 312747
@@ -63,6 +33,8 @@ MI : GRAND RAPIDS
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN LGCAP S&P 500 INDEX SA-I5
     2017: GREATLAND CORPORATION 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3F 
         Participants: 164
         Assets: 46531624
         $/Participant: 283729
@@ -70,3 +42,63 @@ MI : GRAND RAPIDS
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN LGCAP S&P 500 INDEX SA-I5
+   [002]
+    2021: GREATLAND CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3F3I 
+        Participants: 129
+        Assets: 79925008
+        $/Participant: 619573
+    2020: GREATLAND CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3F3I 
+        Participants: 133
+        Assets: 77388235
+        $/Participant: 581866
+    2019: GREATLAND CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3F3I 
+        Participants: 137
+        Assets: 68009637
+        $/Participant: 496420
+    2018: GREATLAND CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3F3I 
+        Participants: 124
+        Assets: 59138456
+        $/Participant: 476923
+    2017: GREATLAND CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3F3I 
+        Participants: 131
+        Assets: 47761331
+        $/Participant: 364590
+   [502]
+    2022: GREATLAND CORPORATION HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: GREATLAND CORPORATION HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: GREATLAND CORPORATION HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: GREATLAND CORPORATION HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Service Providers:
+           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADIMINSTRATOR (Contract Administrator | Insurance agents and brokers)
+    2018: GREATLAND CORPORATION HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Service Providers:
+           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADIMINSTRATOR (Contract Administrator | Insurance agents and brokers)
+    2017: GREATLAND CORPORATION WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 

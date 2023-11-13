@@ -1,59 +1,9 @@
 MN : ROSEVILLE
   MIDWEST RADIOLOGY, P.A.  410916626
-   [506]
-    2022: MIDWEST RADIOLOGY, P.A. HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: MIDWEST RADIOLOGY, P.A. HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: MIDWEST RADIOLOGY, P.A. HEALTH AND WELFARE PLAN
-        Participants: 
-MN : ST. PAUL
-   [505]
-    2019: MIDWEST RADIOLOGY GROUP DENTAL
-        Participants: 
-    2018: ST. PAUL RADIOLOGY PA GROUP DENTAL
-        Participants: 
-    2017: ST. PAUL RADIOLOGY PA GROUP DENTAL
-        Participants: 
-   [503]
-    2019: MIDWEST RADIOLOGY VISION
-        Participants: 
-    2017: ST. PAUL RADIOLOGY VISION
-        Participants: 
-   [502]
-    2019: MIDWEST RADIOLOGY LONG TERM DISABILITY, LIFE, ADD AND VOLUNTARY LIFE
-        Participants: 
-    2018: ST. PAUL RADIOLOGY LONG TERM DISABILITY, LIFE, ADD AND VOLUNTARY LIFE
-        Participants: 
-    2017: ST. PAUL RADIOLOGY LONG TERM DISABILITY, LIFE, ADD AND VOLUNTARY LIFE
-        Participants: 
-   [501]
-    2019: MIDWEST RADIOLOGY GROUP MEDICAL PLAN
-        Participants: 
-    2018: ST. PAUL RADIOLOGY PA GROUP MEDICAL PLAN
-        Participants: 
-    2017: ST. PAUL RADIOLOGY PA GROUP MEDICAL PLAN
-        Participants: 
-MN : ROSEVILLE
-   [003]
-    2022: MIDWEST RADIOLOGY, P.A. AND AFFILIATES CASH BALANCE PLAN
-        Participants: 138
-        Assets: 54312143
-        $/Participant: 393566
-    2021: MIDWEST RADIOLOGY, P.A. AND AFFILIATES CASH BALANCE PLAN
-        Participants: 148
-        Assets: 61925944
-        $/Participant: 418418
-    2020: MIDWEST RADIOLOGY, P.A. AND AFFILIATES CASH BALANCE PLAN
-        Participants: 149
-        Assets: 52522271
-        $/Participant: 352498
-    2019: MIDWEST RADIOLOGY, P.A. AND AFFILIATES CASH BALANCE PLAN
-        Participants: 145
-        Assets: 43477240
-        $/Participant: 299843
    [001]
     2022: MIDWEST RADIOLOGY P.A. PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 567
         Assets: 232542345
         $/Participant: 410127
@@ -65,6 +15,8 @@ MN : ROSEVILLE
                  : GALLIARD STABLE RETURN PN
                  : PRIN/BR AGG BD INDEX CIT N
     2021: MIDWEST RADIOLOGY P.A. AND AFFILIATES PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T3D 4B
         Participants: 608
         Assets: 285407536
         $/Participant: 469420
@@ -81,6 +33,8 @@ MN : ROSEVILLE
                  : GALLIARD RETIRE INC FUND CL 45
 MN : ST. PAUL
     2020: MIDWEST RADIOLOGY, P. A. AND AFFILIATES PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R3B 
         Participants: 628
         Assets: 252345764
         $/Participant: 401824
@@ -95,6 +49,8 @@ MN : ST. PAUL
            - WILMINGTON TRUST, N.A.
                  : GALLIARD RETIREMENT INCOME FUND
     2019: MIDWEST RADIOLOGY, P.A. AND AFFILIATES PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R3B 
         Participants: 641
         Assets: 122800514
         $/Participant: 191576
@@ -107,6 +63,8 @@ MN : ST. PAUL
                  : WF BLACKROCK S & P 500 INDEX CIT N
                  : WF BLACKROCK US AGG BD INDEX CIT N
     2018: ST. PAUL RADIOLOGY, P.A. AND AFFILIATES PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R3B 
         Participants: 358
         Assets: 92822147
         $/Participant: 259279
@@ -120,6 +78,8 @@ MN : ST. PAUL
                  : WF BLACKROCK S & P 500 INDEX CIT N
                  : WF BLACKROCK US AGG BD INDEX CIT N
     2017: ST. PAUL RADIOLOGY, P.A. AND AFFILIATES PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R3B 
         Participants: 285
         Assets: 100071153
         $/Participant: 351126
@@ -132,3 +92,92 @@ MN : ST. PAUL
                  : WELLS FARGO STABLE RETURN FD N
                  : WF BLACKROCK S & P 500 INDEX CIT N
                  : WF BLACKROCK US AGG BD INDEX CIT N
+   [501]
+    2019: MIDWEST RADIOLOGY GROUP MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: ST. PAUL RADIOLOGY PA GROUP MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: ST. PAUL RADIOLOGY PA GROUP MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+MN : ROSEVILLE
+   [506]
+    2022: MIDWEST RADIOLOGY, P.A. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: MIDWEST RADIOLOGY, P.A. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: MIDWEST RADIOLOGY, P.A. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+MN : ST. PAUL
+   [502]
+    2019: MIDWEST RADIOLOGY LONG TERM DISABILITY, LIFE, ADD AND VOLUNTARY LIFE
+        Benefit Category: Other
+        Codes:  4B4F4H4L
+        Participants: 
+    2018: ST. PAUL RADIOLOGY LONG TERM DISABILITY, LIFE, ADD AND VOLUNTARY LIFE
+        Benefit Category: Other
+        Codes:  4B4F4H4L
+        Participants: 
+    2017: ST. PAUL RADIOLOGY LONG TERM DISABILITY, LIFE, ADD AND VOLUNTARY LIFE
+        Benefit Category: Other
+        Codes:  4B4F4H4L
+        Participants: 
+   [503]
+    2019: MIDWEST RADIOLOGY VISION
+        Benefit Category: Other
+        Codes:  4E4S
+        Participants: 
+    2017: ST. PAUL RADIOLOGY VISION
+        Benefit Category: Other
+        Codes:  4E4R
+        Participants: 
+   [505]
+    2019: MIDWEST RADIOLOGY GROUP DENTAL
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2018: ST. PAUL RADIOLOGY PA GROUP DENTAL
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2017: ST. PAUL RADIOLOGY PA GROUP DENTAL
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+MN : ROSEVILLE
+   [003]
+    2022: MIDWEST RADIOLOGY, P.A. AND AFFILIATES CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1B1C3H 
+        Participants: 138
+        Assets: 54312143
+        $/Participant: 393566
+    2021: MIDWEST RADIOLOGY, P.A. AND AFFILIATES CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H 
+        Participants: 148
+        Assets: 61925944
+        $/Participant: 418418
+    2020: MIDWEST RADIOLOGY, P.A. AND AFFILIATES CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H 
+        Participants: 149
+        Assets: 52522271
+        $/Participant: 352498
+    2019: MIDWEST RADIOLOGY, P.A. AND AFFILIATES CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H 
+        Participants: 145
+        Assets: 43477240
+        $/Participant: 299843

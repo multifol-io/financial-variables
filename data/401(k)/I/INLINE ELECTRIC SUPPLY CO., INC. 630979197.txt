@@ -1,56 +1,9 @@
 AL : HUNTSVILLE
-  INLINE ELECTRIC SUPPLY COMPANY  630979197
-   [502]
-    2022: INLINE ELECTRIC SUPPLY COMPANY EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2021: INLINE ELECTRIC SUPPLY COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: INLINE ELECTRIC SUPPLY COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: INLINE ELECTRIC SUPPLY COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: INLINE ELECTRIC SUPPLY COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: INLINE ELECTRIC SUPPLY COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-   [501]
-    2021: INLINE ELECTRIC SUPPLY COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: INLINE ELECTRIC SUPPLY COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: INLINE ELECTRIC SUPPLY COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: INLINE ELECTRIC SUPPLY COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: INLINE ELECTRIC SUPPLY COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-   [002]
-    2022: INLINE ELECTRIC EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 277
-        Assets: 163711693
-        $/Participant: 591016
-    2021: INLINE ELECTRIC EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 212
-        Assets: 127186263
-        $/Participant: 599935
-    2020: INLINE ELECTRIC EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 211
-        Assets: 91743468
-        $/Participant: 434803
-    2019: INLINE ELECTRIC EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 181
-        Assets: 66073590
-        $/Participant: 365047
-    2018: INLINE ELECTRIC EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 171
-        Assets: 35883237
-        $/Participant: 209843
-    2017: INLINE ELECTRIC EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 171
-        Assets: 20290365
-        $/Participant: 118657
+  INLINE ELECTRIC SUPPLY CO., INC.  630979197
    [001]
     2022: INLINE ELECTRIC 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 3H2E2F2G2J2K2T3D 
         Participants: 335
         Assets: 17038408
         $/Participant: 50860
@@ -59,6 +12,8 @@ AL : HUNTSVILLE
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE
     2021: INLINE ELECTRIC 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 267
         Assets: 21192652
         $/Participant: 79373
@@ -67,6 +22,8 @@ AL : HUNTSVILLE
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE
     2020: INLINE ELECTRIC 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 223
         Assets: 20098381
         $/Participant: 90127
@@ -75,6 +32,8 @@ AL : HUNTSVILLE
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE
     2019: INLINE ELECTRIC 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 206
         Assets: 16795297
         $/Participant: 81530
@@ -83,6 +42,8 @@ AL : HUNTSVILLE
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE
     2018: INLINE ELECTRIC 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 184
         Assets: 12680563
         $/Participant: 68916
@@ -91,6 +52,8 @@ AL : HUNTSVILLE
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE
     2017: INLINE ELECTRIC 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 179
         Assets: 13299751
         $/Participant: 74300
@@ -98,3 +61,86 @@ AL : HUNTSVILLE
         Available Investments:
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE
+   [002]
+    2022: INLINE ELECTRIC EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 277
+        Assets: 163711693
+        $/Participant: 591016
+    2021: INLINE ELECTRIC EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 212
+        Assets: 127186263
+        $/Participant: 599935
+    2020: INLINE ELECTRIC EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 211
+        Assets: 91743468
+        $/Participant: 434803
+    2019: INLINE ELECTRIC EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 181
+        Assets: 66073590
+        $/Participant: 365047
+    2018: INLINE ELECTRIC EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 171
+        Assets: 35883237
+        $/Participant: 209843
+    2017: INLINE ELECTRIC EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P3I 
+        Participants: 171
+        Assets: 20290365
+        $/Participant: 118657
+   [501]
+    2021: INLINE ELECTRIC SUPPLY COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2020: INLINE ELECTRIC SUPPLY COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: INLINE ELECTRIC SUPPLY COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: INLINE ELECTRIC SUPPLY COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: INLINE ELECTRIC SUPPLY COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [502]
+    2022: INLINE ELECTRIC SUPPLY COMPANY EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2021: INLINE ELECTRIC SUPPLY COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Other
+        Codes:  4B4D4E4F4H4L
+        Participants: 
+    2020: INLINE ELECTRIC SUPPLY COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Other
+        Codes:  4B4D4E4F4H4L
+        Participants: 
+    2019: INLINE ELECTRIC SUPPLY COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Other
+        Codes:  4B4D4E4F4H4L
+        Participants: 
+    2018: INLINE ELECTRIC SUPPLY COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Other
+        Codes:  4B4D4E4F4H4L
+        Participants: 
+    2017: INLINE ELECTRIC SUPPLY COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Other
+        Codes:  4B4D4E4F4H4L
+        Participants: 

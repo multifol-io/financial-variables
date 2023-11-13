@@ -1,32 +1,8 @@
 CT : STAMFORD
   RIVERVIEW INVESTMENT HOLDINGS LLC  823221106
-   [508]
-    2022: RIVERVIEW INVESTMENT HOLDINGS LLC SEVERANCE PLAN
-        Participants: 
-    2021: RIVERVIEW INVESTMENT HOLDINGS LLC SEVERANCE PLAN
-        Participants: 
-    2020: RIVERVIEW INVESTMENT HOLDINGS LLC SEVERANCE PLAN
-        Participants: 
-    2019: RIVERVIEW INVESTMENT HOLDINGS LLC SEVERANCE PLAN
-        Participants: 
-    2018: RIVERVIEW INVESTMENT HOLDINGS LLC SEVERANCE PLAN
-        Participants: 
-   [507]
-    2022: RIVERVIEW WELFARE BENEFIT PLAN
-        Participants: 
-    2021: RIVERVIEW WELFARE BENEFIT PLAN
-        Participants: 
-    2020: RIVERVIEW WELFARE BENEFIT PLAN
-        Participants: 
-    2019: RIVERVIEW WELFARE BENEFIT PLAN
-        Participants: 
-    2018: RIVERVIEW WELFARE BENEFIT PLAN
-        Participants: 
-   [506]
-    2021: RIVERVIEW INVESTMENT HOLDINGS LLC GROUP INSURANCE
-        Participants: 
-   [001]
     2022: RIVERVIEW INVESTMENT HOLDINGS LLC PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3B2E3D2R 
         Participants: 105
         Assets: 26303178
         $/Participant: 250506
@@ -35,6 +11,8 @@ CT : STAMFORD
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2021: RIVERVIEW INVESTMENT HOLDINGS LLC PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3B2E3D2R 
         Participants: 136
         Assets: 34476451
         $/Participant: 253503
@@ -43,6 +21,8 @@ CT : STAMFORD
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2020: RIVERVIEW INVESTMENT HOLDINGS LLC PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3B2E3D2R 
         Participants: 159
         Assets: 32581716
         $/Participant: 204916
@@ -51,6 +31,8 @@ CT : STAMFORD
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2019: RIVERVIEW INVESTMENT HOLDINGS LLC PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T3B2E3D3H 
         Participants: 156
         Assets: 26809568
         $/Participant: 171856
@@ -59,6 +41,8 @@ CT : STAMFORD
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2018: RIVERVIEW INVESTMENT HOLDINGS LLC PLAN
+        Benefit Category: 401(k)
+        Codes: 2S2T3B3D3H2E2F2G2J2K2R 
         Participants: 153
         Assets: 19896061
         $/Participant: 130039
@@ -66,3 +50,50 @@ CT : STAMFORD
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
+   [506]
+    2021: RIVERVIEW INVESTMENT HOLDINGS LLC GROUP INSURANCE
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4H4L4R
+        Participants: 
+   [507]
+    2022: RIVERVIEW WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4H4L4R
+        Participants: 
+    2021: RIVERVIEW WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4H4L
+        Participants: 
+    2020: RIVERVIEW WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4H4L
+        Participants: 
+    2019: RIVERVIEW WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4H4L
+        Participants: 
+    2018: RIVERVIEW WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4H4L
+        Participants: 
+   [508]
+    2022: RIVERVIEW INVESTMENT HOLDINGS LLC SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I4R
+        Participants: 
+    2021: RIVERVIEW INVESTMENT HOLDINGS LLC SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2020: RIVERVIEW INVESTMENT HOLDINGS LLC SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2019: RIVERVIEW INVESTMENT HOLDINGS LLC SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2018: RIVERVIEW INVESTMENT HOLDINGS LLC SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

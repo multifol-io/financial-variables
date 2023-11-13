@@ -1,23 +1,9 @@
 CA : IRVINE
-  TOSHIBA AMERICA, INC.  133503896
-   [510]
-    2022: TOSHIBA AMERICA, INC GROUP WELFARE BENEFIT PLAN
-        Participants: 
-    2021: TOSHIBA AMERICA, INC GROUP WELFARE BENEFIT PLAN
-        Participants: 
-    2020: TOSHIBA AMERICA, INC GROUP WELFARE BENEFIT PLAN
-        Participants: 
-    2019: TOSHIBA AMERICA, INC GROUP WELFARE BENEFIT PLAN
-        Participants: 
-    2018: TOSHIBA AMERICA, INC. GROUP WELFARE BENEFIT PLAN
-        Participants: 
-    2017: TOSHIBA AMERICA, INC. GROUP WELFARE BENEFIT PLAN
-        Participants: 
-   [505]
-    2017: TOSHIBA AMERICA, INC. LONG TERM CARE PLAN
-        Participants: 
+  TOSHIBA AMERICA, INC  133503896
    [010]
     2022: TOSHIBA AMERICA, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F3H 
         Participants: 1776
         Assets: 419668884
         $/Participant: 236300
@@ -43,6 +29,8 @@ CA : IRVINE
                  : TRP U.S. SMALL-CAP VALUE EQ TRUST
                  : TRP U.S. TREASURY MONEY MKT. TRUST
     2021: TOSHIBA AMERICA, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F3H 
         Participants: 1768
         Assets: 533158430
         $/Participant: 301560
@@ -68,6 +56,8 @@ CA : IRVINE
                  : TRP U.S. SMALL-CAP VALUE EQ TRUST
                  : TRP U.S. TREASURY MONEY MKT. TRUST
     2020: TOSHIBA AMERICA, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F3H 
         Participants: 1859
         Assets: 488397885
         $/Participant: 262720
@@ -92,6 +82,8 @@ CA : IRVINE
                  : TRP U.S. SMALL-CAP VALUE EQ TRUST
                  : TRP U.S. TREASURY MONEY MKT. TRUST
     2019: TOSHIBA AMERICA, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F3H 
         Participants: 2224
         Assets: 450284237
         $/Participant: 202465
@@ -116,6 +108,8 @@ CA : IRVINE
                  : TRP U.S. SMALL-CAP VALUE EQ TRUST
                  : TRP U.S. TREASURY MONEY MKT. TRUST
     2018: TOSHIBA AMERICA, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F3H 
         Participants: 2485
         Assets: 415447561
         $/Participant: 167182
@@ -138,6 +132,8 @@ CA : IRVINE
                  : TRP U.S. SMALL-CAP VALUE EQ TRUST
                  : TRP U.S. TREASURY MONEY MKT. TRUST
     2017: TOSHIBA AMERICA, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F3H 
         Participants: 6178
         Assets: 720397295
         $/Participant: 116606
@@ -159,16 +155,63 @@ CA : IRVINE
                  : TRP STABLE VALUE COMMON TRUST FUND
                  : TRP U.S. SMALL-CAP VALUE EQ TRUST
                  : TRP U.S. TREASURY MONEY MKT. TRUST
+   [510]
+    2022: TOSHIBA AMERICA, INC GROUP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2021: TOSHIBA AMERICA, INC GROUP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2020: TOSHIBA AMERICA, INC GROUP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2019: TOSHIBA AMERICA, INC GROUP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+    2018: TOSHIBA AMERICA, INC. GROUP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2017: TOSHIBA AMERICA, INC. GROUP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+   [001]
+    2017: TOSHIBA AMERICA, INC. RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 1C1I3H 
+        Participants: 1904
+        Assets: 103475655
+        $/Participant: 54346
+        RecordKeeper: MILLER KAPLAN ARASE LLP
+        Available Investments:
+           - TOSHIBA AMERICA, INC.
+                 : TOSHIBA AMERICA MASTER TRUST
+   [505]
+    2017: TOSHIBA AMERICA, INC. LONG TERM CARE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
    [001]
     2020: TOSHIBA AMERICA, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I3C 
         Participants: 0
         RecordKeeper: GROOM LAW GROUP
     2019: TOSHIBA AMERICA, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I3C 
         Participants: 1549
         Assets: 84570866
         $/Participant: 54597
         RecordKeeper: MILLER KAPLAN
     2018: TOSHIBA AMERICA, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I3C 
         Participants: 1728
         Assets: 89996458
         $/Participant: 52081
@@ -178,14 +221,6 @@ CA : IRVINE
            - VOLT : OTHER SERVICES (Other services | Direct payment from the plan)
            - BERWYN GROUP : OTHER SERVICES (Other services | Direct payment from the plan)
            - TAI SSC : PLAN ADMINISTRATOR (Employee(plan) | Direct payment from the plan)
-        Available Investments:
-           - TOSHIBA AMERICA, INC.
-                 : TOSHIBA AMERICA MASTER TRUST
-    2017: TOSHIBA AMERICA, INC. RETIREMENT PLAN
-        Participants: 1904
-        Assets: 103475655
-        $/Participant: 54346
-        RecordKeeper: MILLER KAPLAN ARASE LLP
         Available Investments:
            - TOSHIBA AMERICA, INC.
                  : TOSHIBA AMERICA MASTER TRUST

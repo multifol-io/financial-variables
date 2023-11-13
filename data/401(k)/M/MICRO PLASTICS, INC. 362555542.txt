@@ -1,12 +1,9 @@
 AR : FLIPPIN
   MICRO PLASTICS, INC.  362555542
-   [501]
-    2018: MICRO PLASTICS, INC. GROUP INSURANCE PLAN
-        Participants: 
-    2017: MICRO PLASTICS, INC. GROUP INSURANCE PLAN
-        Participants: 
    [002]
     2018: MICRO PLASTICS INC. SAVINGS AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 0
         Service Providers:
            - ADP BROKER-DEALER : RECORD KEEPER (Distribution(12b - 1) fees | Sub - transfer agency fees | Shareholder servicing fees | Other services | Other fees)
@@ -16,6 +13,8 @@ AR : FLIPPIN
                  : STATE ST CASH SERIES US GOVT L
                  : STATE ST S&P 500 IDX IX
     2017: MICRO PLASTICS INC. SAVINGS AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3F3H 
         Participants: 260
         Assets: 5146191
         $/Participant: 19793
@@ -28,12 +27,27 @@ AR : FLIPPIN
                  : STATE ST S&P 500 IDX IX
    [001]
     2019: MICRO PLASTICS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O3F 
         Participants: 0
     2018: MICRO PLASTICS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O3F 
         Participants: 1
         Assets: 846343
         $/Participant: 846343
     2017: MICRO PLASTICS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O3F 
         Participants: 390
         Assets: 5443885
         $/Participant: 13958
+   [501]
+    2018: MICRO PLASTICS, INC. GROUP INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2017: MICRO PLASTICS, INC. GROUP INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 

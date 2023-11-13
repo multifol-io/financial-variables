@@ -1,20 +1,9 @@
 MI : LANSING
   MICHIGAN FARM BUREAU  381718391
-   [506]
-    2022: MICHIGAN FARM BUREAU WELFARE BENEFIT PLAN
-        Participants: 1126
-    2021: MICHIGAN FARM BUREAU WELFARE BENEFIT PLAN
-        Participants: 1079
-    2020: MICHIGAN FARM BUREAU WELFARE BENEFIT PLAN
-        Participants: 1058
-    2019: MICHIGAN FARM BUREAU WELFARE BENEFIT PLAN
-        Participants: 1043
-    2018: MICHIGAN FARM BUREAU WELFARE BENEFIT PLAN
-        Participants: 1022
-    2017: MICHIGAN FARM BUREAU WELFARE BENEFIT PLAN
-        Participants: 1003
    [333]
     2022: FARM BUREAU EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T2U3D3H 
         Participants: 1404
         Assets: 175424929
         $/Participant: 124946
@@ -53,6 +42,8 @@ MI : LANSING
                  : PRIN SMCAP VALUE II SEP ACCT-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
     2021: FARM BUREAU EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 1367
         Assets: 200521627
         $/Participant: 146687
@@ -91,6 +82,8 @@ MI : LANSING
                  : PRIN SMCAP VALUE II SEP ACCT-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
     2020: FARM BUREAU EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 1381
         Assets: 174914845
         $/Participant: 126658
@@ -123,6 +116,8 @@ MI : LANSING
                  : PRIN SMCAP VALUE II SEP ACCT-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
     2019: FARM BUREAU EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 1386
         Assets: 149133645
         $/Participant: 107600
@@ -155,6 +150,8 @@ MI : LANSING
                  : PRIN SMCAP VALUE II SEP ACCT-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
     2018: FARM BUREAU EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 1314
         Assets: 119289993
         $/Participant: 90783
@@ -187,6 +184,8 @@ MI : LANSING
                  : PRIN SMCAP VALUE II SEP ACCT-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
     2017: FARM BUREAU EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2S2T3D3H 
         Participants: 1255
         Assets: 119393916
         $/Participant: 95134
@@ -218,8 +217,35 @@ MI : LANSING
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRIN SMCAP VALUE II SEP ACCT-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
+   [506]
+    2022: MICHIGAN FARM BUREAU WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 1126
+    2021: MICHIGAN FARM BUREAU WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 1079
+    2020: MICHIGAN FARM BUREAU WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 1058
+    2019: MICHIGAN FARM BUREAU WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 1043
+    2018: MICHIGAN FARM BUREAU WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 1022
+    2017: MICHIGAN FARM BUREAU WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 1003
    [001]
     2021: FARM BUREAU EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 945
         Assets: 271417597
         $/Participant: 287214
@@ -234,6 +260,8 @@ MI : LANSING
                  : PRINCIPAL DIV REAL ASSET SA-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
     2020: FARM BUREAU EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 949
         Assets: 339526909
         $/Participant: 357773
@@ -248,6 +276,8 @@ MI : LANSING
                  : PRINCIPAL DIV REAL ASSET SA-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
     2019: FARM BUREAU EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 951
         Assets: 309084856
         $/Participant: 325010
@@ -279,6 +309,8 @@ MI : LANSING
                  : PRINCIPAL DIV REAL ASSET SA-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
     2018: FARM BUREAU EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 952
         Assets: 307657948
         $/Participant: 323170

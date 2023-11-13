@@ -1,20 +1,9 @@
 KY : LEXINGTON
   LBCE HOLDINGS, INC.  611099661
-   [520]
-    2022: LINK-BELT HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: LINK-BELT HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: LINK-BELT HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: LINK-BELT HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: LINK-BELT HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: LINK-BELT HEALTH AND WELFARE PLAN
-        Participants: 
    [002]
     2022: LINK-BELT EMPLOYEES' SAVINGS & INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 1010
         Assets: 125637657
         $/Participant: 124393
@@ -24,6 +13,8 @@ KY : LEXINGTON
                  : TRP EQUITY INDEX TRUST
                  : TRP STABLE VALUE COMMON TRUST FUND
     2021: LINK-BELT EMPLOYEES' SAVINGS & INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2S2T3H 
         Participants: 939
         Assets: 154670087
         $/Participant: 164717
@@ -33,6 +24,8 @@ KY : LEXINGTON
                  : TRP EQUITY INDEX TRUST
                  : TRP STABLE VALUE COMMON TRUST FUND
     2020: LINK-BELT EMPLOYEES' SAVINGS & INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2S2T3H 
         Participants: 915
         Assets: 149058188
         $/Participant: 162905
@@ -42,6 +35,8 @@ KY : LEXINGTON
                  : TRP EQUITY INDEX TRUST
                  : TRP STABLE VALUE COMMON TRUST FUND
     2019: LINK-BELT EMPLOYEES' SAVINGS & INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2S2T3H 
         Participants: 923
         Assets: 130406747
         $/Participant: 141285
@@ -51,6 +46,8 @@ KY : LEXINGTON
                  : TRP EQUITY INDEX TRUST
                  : TRP STABLE VALUE COMMON TRUST FUND
     2018: LINK-BELT EMPLOYEES' SAVINGS & INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2S2T3H 
         Participants: 837
         Assets: 98267569
         $/Participant: 117404
@@ -60,6 +57,8 @@ KY : LEXINGTON
                  : TRP EQUITY INDEX TRUST
                  : TRP STABLE VALUE COMMON TRUST FUND
     2017: LINK-BELT EMPLOYEES' SAVINGS & INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2S2T3H 
         Participants: 771
         Assets: 102453437
         $/Participant: 132883
@@ -68,8 +67,35 @@ KY : LEXINGTON
            - T. ROWE PRICE TRUST COMPANY
                  : TRP EQUITY INDEX TRUST
                  : TRP STABLE VALUE COMMON TRUST FUND
+   [520]
+    2022: LINK-BELT HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q4L
+        Participants: 
+    2021: LINK-BELT HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2020: LINK-BELT HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2019: LINK-BELT HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2018: LINK-BELT HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2017: LINK-BELT HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
    [001]
     2022: LINK-BELT CONSTRUCTION EQUIPMENT COMPANY EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 621
         Assets: 174073313
         $/Participant: 280311
@@ -79,6 +105,8 @@ KY : LEXINGTON
            - BUCK GLOBAL, LLC :  (Investment advisory(plan) | Investment management fees paid directly by plan)
            - DEMING MALONE LIVESAY & OSTROFF :  (Accounting(including auditing) | Direct payment from the plan)
     2021: LINK-BELT CONSTRUCTION EQUIPMENT COMPANY EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 640
         Assets: 220535237
         $/Participant: 344586
@@ -88,6 +116,8 @@ KY : LEXINGTON
            - BUCK GLOBAL, LLC :  (Investment advisory(plan) | Investment management fees paid directly by plan)
            - DEMING MALONE LIVESAY & OSTROFF :  (Accounting(including auditing) | Direct payment from the plan)
     2020: LINK-BELT CONSTRUCTION EQUIPMENT COMPANY EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 652
         Assets: 203240476
         $/Participant: 311718
@@ -97,6 +127,8 @@ KY : LEXINGTON
            - KEY BANK NATIONAL ASSOCIATION :  (Contract Administrator | Custodial(securities) | Other fees | Trustee(bank, trust company, or similar) | Float revenue | Shareholder servicing fees | Direct payment from the plan)
            - DEMING MALONE LIVESAY & OSTROFF :  (Accounting(including auditing) | Direct payment from the plan)
     2019: LINK-BELT CONSTRUCTION EQUIPMENT COMPANY EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 655
         Assets: 163693092
         $/Participant: 249913
@@ -106,6 +138,8 @@ KY : LEXINGTON
            - DEMING MALONE LIVESAY & OSTROFF :  (Accounting(including auditing))
            - BUCK GLOBAL, LLC :  (Investment advisory(plan))
     2018: LINK-BELT CONSTRUCTION EQUIPMENT COMPANY EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 757
         Assets: 133444524
         $/Participant: 176280
@@ -115,6 +149,8 @@ KY : LEXINGTON
            - KEY BANK NATIONAL ASSOCIATION :  (Contract Administrator | Custodial(securities) | Other fees | Trustee(bank, trust company, or similar) | Float revenue | Shareholder servicing fees)
            - DEMING MALONE LIVESAY & OSTROFF :  (Accounting(including auditing))
     2017: LINK-BELT CONSTRUCTION EQUIPMENT COMPANY EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 763
         Assets: 147756670
         $/Participant: 193652

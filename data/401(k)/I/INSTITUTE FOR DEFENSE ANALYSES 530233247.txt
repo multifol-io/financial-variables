@@ -1,69 +1,33 @@
 VA : ALEXANDRIA
   INSTITUTE FOR DEFENSE ANALYSES  530233247
-   [503]
     2022: INSTITUTE FOR DEFENSE ANALYSES GROUP BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4Q
         Participants: 
     2021: INSTITUTE FOR DEFENSE ANALYSES GROUP BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4Q
         Participants: 
     2020: INSTITUTE FOR DEFENSE ANALYSES GROUP BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4Q
         Participants: 
     2019: INSTITUTE FOR DEFENSE ANALYSES GROUP BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4Q
         Participants: 
     2018: INSTITUTE FOR DEFENSE ANALYSES GROUP BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4Q
         Participants: 
     2017: INSTITUTE FOR DEFENSE ANALYSES GROUP BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
         Participants: 
-   [003]
-    2022: INSTITUTE FOR DEFENSE ANALYSES QUALIFIED RETIREMENT PLAN
-        Participants: 2197
-        Assets: 495942320
-        $/Participant: 225736
-        RecordKeeper: VANGUARD GROUP INC
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2021: INSTITUTE FOR DEFENSE ANALYSES QUALIFIED RETIREMENT PLAN
-        Participants: 2103
-        Assets: 584318724
-        $/Participant: 277850
-        RecordKeeper: HUTTON ANDREWS KURTH
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2020: INSTITUTE FOR DEFENSE ANALYSES QUALIFIED RETIREMENT PLAN
-        Participants: 2014
-        Assets: 521817786
-        $/Participant: 259095
-        RecordKeeper: TIAA-TEACHERS INSURANCE AND ANNUITY
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2019: INSTITUTE FOR DEFENSE ANALYSES QUALIFIED RETIREMENT PLAN
-        Participants: 2064
-        Assets: 462888220
-        $/Participant: 224267
-        RecordKeeper: SC&H ATTEST SERVICES, P.C
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2018: INSTITUTE FOR DEFENSE ANALYSES QUALIFIED RETIREMENT PLAN
-        Participants: 1999
-        Assets: 393094326
-        $/Participant: 196645
-        RecordKeeper: TIAA-TEACHERS INSURANCE AND ANNUITY
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2017: INSTITUTE FOR DEFENSE ANALYSES QUALIFIED RETIREMENT PLAN
-        Participants: 1918
-        Assets: 408666804
-        $/Participant: 213069
-        RecordKeeper: TIAA-TEACHERS INSURANCE AND ANNUITY
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
    [002]
     2022: INSTITUTE FOR DEFENSE ANALYSES TAX DEFERRED ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2L2M2G 
         Participants: 2861
         Assets: 719336771
         $/Participant: 251428
@@ -72,6 +36,8 @@ VA : ALEXANDRIA
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2021: INSTITUTE FOR DEFENSE ANALYSES TAX DEFERRED ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2L2M2G 
         Participants: 2716
         Assets: 850640455
         $/Participant: 313196
@@ -80,6 +46,8 @@ VA : ALEXANDRIA
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2020: INSTITUTE FOR DEFENSE ANALYSES TAX DEFERRED ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2L2M2G 
         Participants: 2606
         Assets: 771767061
         $/Participant: 296150
@@ -88,6 +56,8 @@ VA : ALEXANDRIA
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2019: INSTITUTE FOR DEFENSE ANALYSES TAX DEFERRED ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2L2M2G 
         Participants: 2764
         Assets: 682630277
         $/Participant: 246971
@@ -96,6 +66,8 @@ VA : ALEXANDRIA
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2018: INSTITUTE FOR DEFENSE ANALYSES TAX DEFERRED ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2L2M2G 
         Participants: 2739
         Assets: 582962844
         $/Participant: 212837
@@ -104,10 +76,73 @@ VA : ALEXANDRIA
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2017: INSTITUTE FOR DEFENSE ANALYSES TAX DEFERRED ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2L2M2G 
         Participants: 2672
         Assets: 617969085
         $/Participant: 231275
         RecordKeeper: HUNTON & WILLIAMS
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+   [003]
+    2022: INSTITUTE FOR DEFENSE ANALYSES QUALIFIED RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2G2T2L 
+        Participants: 2197
+        Assets: 495942320
+        $/Participant: 225736
+        RecordKeeper: VANGUARD GROUP INC
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2021: INSTITUTE FOR DEFENSE ANALYSES QUALIFIED RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2G2T2L 
+        Participants: 2103
+        Assets: 584318724
+        $/Participant: 277850
+        RecordKeeper: HUTTON ANDREWS KURTH
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2020: INSTITUTE FOR DEFENSE ANALYSES QUALIFIED RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2G2T2L 
+        Participants: 2014
+        Assets: 521817786
+        $/Participant: 259095
+        RecordKeeper: TIAA-TEACHERS INSURANCE AND ANNUITY
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2019: INSTITUTE FOR DEFENSE ANALYSES QUALIFIED RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2G2T2L 
+        Participants: 2064
+        Assets: 462888220
+        $/Participant: 224267
+        RecordKeeper: SC&H ATTEST SERVICES, P.C
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2018: INSTITUTE FOR DEFENSE ANALYSES QUALIFIED RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2G2T2L 
+        Participants: 1999
+        Assets: 393094326
+        $/Participant: 196645
+        RecordKeeper: TIAA-TEACHERS INSURANCE AND ANNUITY
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2017: INSTITUTE FOR DEFENSE ANALYSES QUALIFIED RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2G2T2L 
+        Participants: 1918
+        Assets: 408666804
+        $/Participant: 213069
+        RecordKeeper: TIAA-TEACHERS INSURANCE AND ANNUITY
         Available Investments:
            - TIAA-CREF
                  : TIAA REAL ESTATE

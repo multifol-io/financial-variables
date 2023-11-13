@@ -1,82 +1,9 @@
 MN : MOORHEAD
   AMERICAN CRYSTAL SUGAR COMPANY  840004720
-   [509]
-    2022: AMERICAN CRYSTAL SUGAR COMPANY LONG TERM DISABILITY PLAN
-        Participants: 
-    2021: AMERICAN CRYSTAL SUGAR COMPANY LONG TERM DISABILITY PLAN
-        Participants: 
-    2020: AMERICAN CRYSTAL SUGAR COMPANY LONG TERM DISABILITY PLAN
-        Participants: 
-    2019: AMERICAN CRYSTAL SUGAR COMPANY LONG TERM DISABILITY PLAN
-        Participants: 
-    2018: AMERICAN CRYSTAL SUGAR COMPANY LONG TERM DISABILITY PLAN
-        Participants: 
-    2017: AMERICAN CRYSTAL SUGAR COMPANY LONG TERM DISABILITY PLAN
-        Participants: 
-   [503]
-    2022: GROUP LIFE PLAN
-        Participants: 
-    2021: GROUP LIFE PLAN
-        Participants: 
-    2020: GROUP LIFE PLAN
-        Participants: 
-    2019: GROUP LIFE PLAN
-        Participants: 
-    2018: GROUP LIFE PLAN
-        Participants: 
-    2017: GROUP LIFE PLAN
-        Participants: 
-   [501]
-    2022: GROUP EMPLOYEE HEALTH-DENTAL INSURANCE
-        Participants: 
-    2021: GROUP EMPLOYEE HEALTH-DENTAL INSURANCE
-        Participants: 
-    2020: GROUP EMPLOYEE HEALTH-DENTAL INSURANCE
-        Participants: 
-    2019: GROUP EMPLOYEE HEALTH-DENTAL INSURANCE
-        Participants: 
-    2018: GROUP EMPLOYEE HEALTH-DENTAL INSURANCE
-        Participants: 
-    2017: GROUP EMPLOYEE HEALTH-DENTAL INSURANCE
-        Participants: 
-   [100]
-    2021: AMERICAN CRYSTAL SUGAR COMPANY MASTER TRUST
-        Participants: 0
-        Available Investments:
-           - FISHER INVESTMENTS
-                 : EMERGING MARKETS EQUITY COLL FD
-           - WELLS FARGO BANK NATIONAL ASSOCIATION
-                 : LEGAL & GENERAL S&P COLL INV
-    2020: AMERICAN CRYSTAL SUGAR COMPANY MASTER TRUST
-        Participants: 0
-        Available Investments:
-           - FISHER INVESTMENTS
-                 : EMERGING MARKETS EQUITY COLL FD
-           - WELLS FARGO BANK NATIONAL ASSOCIATION
-                 : LEGAL & GENERAL S&P COLL INV
-    2019: AMERICAN CRYSTAL SUGAR COMPANY MASTER TRUST
-        Participants: 0
-        Available Investments:
-           - FISHER INVESTMENTS
-                 : EMERGING MARKETS EQUITY COLL FD
-           - WELLS FARGO BANK NATIONAL ASSOCIATION
-                 : LEGAL & GENERAL S&P COLL INV
-    2018: AMERICAN CRYSTAL SUGAR COMPANY MASTER TRUST
-        Participants: 0
-        Available Investments:
-           - FISHER INVESTMENTS
-                 : EMERGING MARKETS EQUITY COLL FD
-           - WELLS FARGO BANK NATIONAL ASSOCIATION
-                 : LEGAL & GENERAL S&P 500 COLL INV
-    2017: AMERICAN CRYSTAL SUGAR COMPANY MASTER TRUST
-        Participants: 0
-        Available Investments:
-           - FISHER INVESTMENTS
-                 : EMERGING MARKETS EQUITY COLL FD
-           - WELLS FARGO BANK NATIONAL ASSOCIATION
-                 : LEGAL & GENERAL S&P 500 COLL INV
    [010]
     2022: AMERICAN CRYSTAL SUGAR COMPANY 401(K) PARTNERSHIP PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 2022
         Assets: 172506660
         $/Participant: 85314
@@ -92,6 +19,8 @@ MN : MOORHEAD
                  : LEGAL & GENERAL MSCI EAFE DC A
                  : LEGAL & GENERAL S&P 500 DC A
     2021: AMERICAN CRYSTAL SUGAR COMPANY 401K PARTNERSHIP PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 2036
         Assets: 207417658
         $/Participant: 101875
@@ -107,6 +36,8 @@ MN : MOORHEAD
                  : LEGAL & GENERAL MSCI EAFE DC A
                  : LEGAL & GENERAL S&P 500 DC A
     2020: AMERICAN CRYSTAL SUGAR COMPANY 401K PARTNERSHIP PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 2145
         Assets: 192225440
         $/Participant: 89615
@@ -118,6 +49,8 @@ MN : MOORHEAD
                  : LEGAL & GENERAL COLLE/MSCI EAFE FD
                  : LEGAL & GENERAL COLLE/S&P 500 CIT
     2019: AMERICAN CRYSTAL SUGAR COMPANY 401K PARTNERSHIP PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 2070
         Assets: 170039639
         $/Participant: 82144
@@ -129,6 +62,8 @@ MN : MOORHEAD
                  : LEGAL & GENERAL COLLE/MSCI EAFE FD
                  : LEGAL & GENERAL COLLE/S&P 500 CIT
     2018: AMERICAN CRYSTAL SUGAR COMPANY 401K PARTNERSHIP PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 2076
         Assets: 145810338
         $/Participant: 70236
@@ -141,6 +76,8 @@ MN : MOORHEAD
                  : LEGAL & GENERAL COLLE/MSCI EAFE FD
                  : LEGAL & GENERAL COLLE/S&P 500 CIT
     2017: AMERICAN CRYSTAL SUGAR COMPANY 401K PARTNERSHIP PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 2124
         Assets: 155978436
         $/Participant: 73436
@@ -151,45 +88,131 @@ MN : MOORHEAD
                  : COLUMBIA TRUST STABLE GOVERN 1-10
            - RELIANCE TRUST COMPANY
                  : LEGAL & GENERAL COLLE/S&P 500 CIT
-   [002]
-    2021: RETIREMENT PLAN B FOR EMPLOYEES OF AMERICAN CRYSTAL SUGAR COMPANY
-        Participants: 2114
-        Assets: 179825017
-        $/Participant: 85063
+   [501]
+    2022: GROUP EMPLOYEE HEALTH-DENTAL INSURANCE
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
+        Participants: 
+    2021: GROUP EMPLOYEE HEALTH-DENTAL INSURANCE
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
+        Participants: 
+    2020: GROUP EMPLOYEE HEALTH-DENTAL INSURANCE
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
+        Participants: 
+    2019: GROUP EMPLOYEE HEALTH-DENTAL INSURANCE
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
+        Participants: 
+    2018: GROUP EMPLOYEE HEALTH-DENTAL INSURANCE
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
+        Participants: 
+    2017: GROUP EMPLOYEE HEALTH-DENTAL INSURANCE
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
+        Participants: 
+   [100]
+    2021: AMERICAN CRYSTAL SUGAR COMPANY MASTER TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 0
         Available Investments:
-           - AMERICAN CRYSTAL SUGAR COMPANY
-                 : AMERICAN CRYSTAL SUGAR MASTER TRUST
-    2020: RETIREMENT PLAN B FOR EMPLOYEES OF AMERICAN CRYSTAL SUGAR COMPANY
-        Participants: 2032
-        Assets: 184087945
-        $/Participant: 90594
-        RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
+           - FISHER INVESTMENTS
+                 : EMERGING MARKETS EQUITY COLL FD
+           - WELLS FARGO BANK NATIONAL ASSOCIATION
+                 : LEGAL & GENERAL S&P COLL INV
+    2020: AMERICAN CRYSTAL SUGAR COMPANY MASTER TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 0
         Available Investments:
-           - AMERICAN CRYSTAL SUGAR COMPANY
-                 : AMERICAN CRYSTAL SUGAR MASTER TRUST
-    2019: RETIREMENT PLAN B FOR EMPLOYEES OF AMERICAN CRYSTAL SUGAR COMPANY
-        Participants: 1980
-        Assets: 163934717
-        $/Participant: 82795
+           - FISHER INVESTMENTS
+                 : EMERGING MARKETS EQUITY COLL FD
+           - WELLS FARGO BANK NATIONAL ASSOCIATION
+                 : LEGAL & GENERAL S&P COLL INV
+    2019: AMERICAN CRYSTAL SUGAR COMPANY MASTER TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 0
         Available Investments:
-           - AMERICAN CRYSTAL SUGAR COMPANY
-                 : AMERICAN CRYSTAL SUGAR MASTER TRUST
-    2018: RETIREMENT PLAN B FOR EMPLOYEES OF AMERICAN CRYSTAL SUGAR COMPANY
-        Participants: 1922
-        Assets: 151133033
-        $/Participant: 78633
+           - FISHER INVESTMENTS
+                 : EMERGING MARKETS EQUITY COLL FD
+           - WELLS FARGO BANK NATIONAL ASSOCIATION
+                 : LEGAL & GENERAL S&P COLL INV
+    2018: AMERICAN CRYSTAL SUGAR COMPANY MASTER TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 0
         Available Investments:
-           - AMERICAN CRYSTAL SUGAR COMPANY
-                 : AMERICAN CRYSTAL SUGAR MASTER TRUST
-    2017: RETIREMENT PLAN B FOR EMPLOYEES OF AMERICAN CRYSTAL SUGAR COMPANY
-        Participants: 1892
-        Assets: 150321758
-        $/Participant: 79451
+           - FISHER INVESTMENTS
+                 : EMERGING MARKETS EQUITY COLL FD
+           - WELLS FARGO BANK NATIONAL ASSOCIATION
+                 : LEGAL & GENERAL S&P 500 COLL INV
+    2017: AMERICAN CRYSTAL SUGAR COMPANY MASTER TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 0
         Available Investments:
-           - AMERICAN CRYSTAL SUGAR COMPANY
-                 : AMERICAN CRYSTAL SUGAR MASTER TRUST
+           - FISHER INVESTMENTS
+                 : EMERGING MARKETS EQUITY COLL FD
+           - WELLS FARGO BANK NATIONAL ASSOCIATION
+                 : LEGAL & GENERAL S&P 500 COLL INV
+   [503]
+    2022: GROUP LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2021: GROUP LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2020: GROUP LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2019: GROUP LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2018: GROUP LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2017: GROUP LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+   [509]
+    2022: AMERICAN CRYSTAL SUGAR COMPANY LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2021: AMERICAN CRYSTAL SUGAR COMPANY LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2020: AMERICAN CRYSTAL SUGAR COMPANY LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2019: AMERICAN CRYSTAL SUGAR COMPANY LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2018: AMERICAN CRYSTAL SUGAR COMPANY LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2017: AMERICAN CRYSTAL SUGAR COMPANY LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
    [001]
     2021: RETIREMENT PLAN A FOR EMPLOYEES OF AMERICAN CRYSTAL SUGAR COMPANY
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 455
         Assets: 156323788
         $/Participant: 343568
@@ -197,6 +220,8 @@ MN : MOORHEAD
            - AMERICAN CRYSTAL SUGAR COMPANY
                  : AMERICAN CRYSTAL SUGAR MASTER TRUST
     2020: RETIREMENT PLAN A FOR EMPLOYEES OF AMERICAN CRYSTAL SUGAR COMPANY
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 464
         Assets: 159006890
         $/Participant: 342687
@@ -205,6 +230,8 @@ MN : MOORHEAD
            - AMERICAN CRYSTAL SUGAR COMPANY
                  : AMERICAN CRYSTAL SUGAR MASTER TRUST
     2019: RETIREMENT PLAN A FOR EMPLOYEES OF AMERICAN CRYSTAL SUGAR COMPANY
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 471
         Assets: 140184719
         $/Participant: 297632
@@ -212,6 +239,8 @@ MN : MOORHEAD
            - AMERICAN CRYSTAL SUGAR COMPANY
                  : AMERICAN CRYSTAL SUGAR MASTER TRUST
     2018: RETIREMENT PLAN A FOR EMPLOYEES OF AMERICAN CRYSTAL SUGAR COMPANY
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 485
         Assets: 126415743
         $/Participant: 260651
@@ -219,9 +248,58 @@ MN : MOORHEAD
            - AMERICAN CRYSTAL SUGAR COMPANY
                  : AMERICAN CRYSTAL SUGAR MASTER TRUST
     2017: RETIREMENT PLAN A FOR EMPLOYEES OF AMERICAN CRYSTAL SUGAR COMPANY
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 497
         Assets: 127987134
         $/Participant: 257519
+        Available Investments:
+           - AMERICAN CRYSTAL SUGAR COMPANY
+                 : AMERICAN CRYSTAL SUGAR MASTER TRUST
+   [002]
+    2021: RETIREMENT PLAN B FOR EMPLOYEES OF AMERICAN CRYSTAL SUGAR COMPANY
+        Benefit Category: Pension
+        Codes: 1A 
+        Participants: 2114
+        Assets: 179825017
+        $/Participant: 85063
+        Available Investments:
+           - AMERICAN CRYSTAL SUGAR COMPANY
+                 : AMERICAN CRYSTAL SUGAR MASTER TRUST
+    2020: RETIREMENT PLAN B FOR EMPLOYEES OF AMERICAN CRYSTAL SUGAR COMPANY
+        Benefit Category: Pension
+        Codes: 1A 
+        Participants: 2032
+        Assets: 184087945
+        $/Participant: 90594
+        RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
+        Available Investments:
+           - AMERICAN CRYSTAL SUGAR COMPANY
+                 : AMERICAN CRYSTAL SUGAR MASTER TRUST
+    2019: RETIREMENT PLAN B FOR EMPLOYEES OF AMERICAN CRYSTAL SUGAR COMPANY
+        Benefit Category: Pension
+        Codes: 3D1B 
+        Participants: 1980
+        Assets: 163934717
+        $/Participant: 82795
+        Available Investments:
+           - AMERICAN CRYSTAL SUGAR COMPANY
+                 : AMERICAN CRYSTAL SUGAR MASTER TRUST
+    2018: RETIREMENT PLAN B FOR EMPLOYEES OF AMERICAN CRYSTAL SUGAR COMPANY
+        Benefit Category: Pension
+        Codes: 3D1A 
+        Participants: 1922
+        Assets: 151133033
+        $/Participant: 78633
+        Available Investments:
+           - AMERICAN CRYSTAL SUGAR COMPANY
+                 : AMERICAN CRYSTAL SUGAR MASTER TRUST
+    2017: RETIREMENT PLAN B FOR EMPLOYEES OF AMERICAN CRYSTAL SUGAR COMPANY
+        Benefit Category: Pension
+        Codes: 3D1A 
+        Participants: 1892
+        Assets: 150321758
+        $/Participant: 79451
         Available Investments:
            - AMERICAN CRYSTAL SUGAR COMPANY
                  : AMERICAN CRYSTAL SUGAR MASTER TRUST

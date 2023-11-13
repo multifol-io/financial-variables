@@ -1,19 +1,9 @@
 IL : CHICAGO
   ISMIE MUTUAL INSURANCE COMPANY  362883612
-    2022: ISMIE MUTUAL INSURANCE COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-    2021: ISMIE MUTUAL INSURANCE COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-    2020: ISMIE MUTUAL INSURANCE COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-    2019: ISMIE MUTUAL INSURANCE COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-    2018: ISMIE MUTUAL INSURANCE COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-    2017: ISMIE MUTUAL INSURANCE COMPANY WELFARE BENEFIT PLAN
-        Participants: 
    [001]
     2022: ISMIE MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T 
         Participants: 283
         Assets: 100201614
         $/Participant: 354069
@@ -29,6 +19,8 @@ IL : CHICAGO
            - WILMINGTON TRUST
                  : BLACKROCK RUSSELL 2000 GROWTH INDEX
     2021: ISMIE MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T 
         Participants: 281
         Assets: 121140065
         $/Participant: 431103
@@ -44,6 +36,8 @@ IL : CHICAGO
            - WILMINGTON TRUST
                  : BLACKROCK RUSSELL 2000 GROWTH INDEX
     2020: ISMIE MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T3H 
         Participants: 280
         Assets: 111705794
         $/Participant: 398949
@@ -60,6 +54,8 @@ IL : CHICAGO
            - WILMINGTON TRUST
                  : BLACKROCK RUSSELL 2000 GROWTH INDEX
     2019: ISMIE MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T3H 
         Participants: 277
         Assets: 100685337
         $/Participant: 363484
@@ -76,6 +72,8 @@ IL : CHICAGO
            - WILMINGTON TRUST
                  : BLACKROCK RUSSELL 2000 GROWTH INDEX
     2018: ISMIE MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T3H 
         Participants: 350
         Assets: 87555508
         $/Participant: 250158
@@ -92,6 +90,8 @@ IL : CHICAGO
            - WILMINGTON TRUST
                  : BLACKROCK RUSSELL 2000 GROWTH INDEX
     2017: ISMIE MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T3H 
         Participants: 272
         Assets: 89074990
         $/Participant: 327481
@@ -107,3 +107,28 @@ IL : CHICAGO
                  : SA JANUS BALANCED STRATEGY-SA55DZ
            - WILMINGTON TRUST
                  : BLACKROCK RUSSELL 2000 GROWTH INDEX
+   [501]
+    2022: ISMIE MUTUAL INSURANCE COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: ISMIE MUTUAL INSURANCE COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: ISMIE MUTUAL INSURANCE COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: ISMIE MUTUAL INSURANCE COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: ISMIE MUTUAL INSURANCE COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: ISMIE MUTUAL INSURANCE COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 

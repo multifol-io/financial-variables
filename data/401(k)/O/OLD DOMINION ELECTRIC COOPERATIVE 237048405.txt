@@ -1,15 +1,9 @@
 VA : GLEN ALLEN
   OLD DOMINION ELECTRIC COOPERATIVE  237048405
-   [502]
-    2021: OLD DOMINION ELECTRIC COOPERATIVE DENTAL AND VISION PLAN
-        Participants: 
-    2017: EMPLOYEE WELFARE BENEFITS PLAN
-        Participants: 
-   [501]
-    2022: OLD DOMINION ELECTRIC COOPERATIVE DENTAL AND VISION PLAN
-        Participants: 
    [002]
     2022: ODEC 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T2R 
         Participants: 167
         Assets: 34052722
         $/Participant: 203908
@@ -18,6 +12,8 @@ VA : GLEN ALLEN
            - WILMINGTON TRUST
                  : WILMINGTON TRUST FRANKLIN SM CP VAL
     2021: ODEC 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T2R 
         Participants: 163
         Assets: 42079443
         $/Participant: 258156
@@ -26,6 +22,8 @@ VA : GLEN ALLEN
            - WILMINGTON TRUST
                  : WILMINGTON TRUST FRANKLIN SM CP VAL
     2020: ODEC 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T2R 
         Participants: 158
         Assets: 36388306
         $/Participant: 230305
@@ -34,6 +32,8 @@ VA : GLEN ALLEN
            - TRANSAMERICA RETIREMENT SOLUTIONS
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
     2019: ODEC AND VMDAEC 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T2R 
         Participants: 190
         Assets: 34760116
         $/Participant: 182947
@@ -42,6 +42,8 @@ VA : GLEN ALLEN
            - TRANSAMERICA RETIREMENT SOLUTIONS
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
     2018: ODEC AND VMDAEC 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T2R 
         Participants: 193
         Assets: 29337895
         $/Participant: 152009
@@ -50,6 +52,8 @@ VA : GLEN ALLEN
            - TRANSAMERICA RETIREMENT SOLUTIONS
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
     2017: ODEC AND VMDAEC 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T2R 
         Participants: 199
         Assets: 32906521
         $/Participant: 165359
@@ -57,3 +61,18 @@ VA : GLEN ALLEN
         Available Investments:
            - TRANSAMERICA RETIREMENT SOLUTIONS
                  : STABLE POOLED FUND
+   [502]
+    2017: EMPLOYEE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+   [501]
+    2022: OLD DOMINION ELECTRIC COOPERATIVE DENTAL AND VISION PLAN
+        Benefit Category: Other
+        Codes:  4D4E
+        Participants: 
+   [502]
+    2021: OLD DOMINION ELECTRIC COOPERATIVE DENTAL AND VISION PLAN
+        Benefit Category: Other
+        Codes:  4D4E
+        Participants: 

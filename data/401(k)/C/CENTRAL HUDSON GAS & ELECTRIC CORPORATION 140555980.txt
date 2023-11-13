@@ -1,61 +1,9 @@
 NY : POUGHKEEPSIE
   CENTRAL HUDSON GAS & ELECTRIC CORPORATION  140555980
-   [502]
-    2022: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN FOR RETIREES
-        Participants: 
-        Assets: 116077436
-        $/Participant: 
-        RecordKeeper: EMPIRE HEALTHCHOICE ASSURANCE, INC.
-    2021: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN FOR RETIREES
-        Participants: 
-        Assets: 145074662
-        $/Participant: 
-        RecordKeeper: EMPIRE HEALTHCHOICE ASSURANCE, INC.
-    2020: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN FOR RETIREES
-        Participants: 
-        Assets: 131017535
-        $/Participant: 
-        RecordKeeper: EMPIRE HEALTHCHOICE ASSURANCE, INC.
-    2019: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN FOR RETIREES
-        Participants: 
-        Assets: 119176584
-        $/Participant: 
-        RecordKeeper: EMPIRE HEALTHCHOICE ASSURANCE, INC.
-    2018: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN FOR RETIREES
-        Participants: 
-        Assets: 101008285
-        $/Participant: 
-        RecordKeeper: EMPIRE HEALTHCHOICE ASSURANCE, INC.
-    2017: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN FOR RETIREES
-        Participants: 1152
-        Assets: 111644195
-        $/Participant: 96913
-        Service Providers:
-           - LCG ASSOCIATES, INC. : THIRD-PARTY PROVIDER (Consulting(pension))
-           - MERCER : ACTUARY (Actuarial)
-           - CARON & BLETZER, PLLC : AUDITOR (Accounting(including auditing))
-           - MVP : CLAIMS ADMINISTRATOR (Claims processing)
-           - STATE STREET BANK AND TRUST COMPANY : TRUSTEE (Trustee(directed))
-   [501]
-    2022: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN
-        Participants: 
-    2021: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN
-        Participants: 
-    2020: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN
-        Participants: 
-    2019: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN
-        Participants: 
-    2018: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN
-        Participants: 
-    2017: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN
-        Participants: 848
-   [005]
-    2022: CENTRAL HUDSON GAS & ELECTRIC CORPORATION SUPPLEMENTAL RETIREMENT PLAN
-        Participants: 784
-        Assets: 748973
-        $/Participant: 955
    [004]
     2022: CENTRAL HUDSON GAS & ELECTRIC CORPORATION SAVINGS INCENTIVE PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S 
         Participants: 1492
         Assets: 337407798
         $/Participant: 226144
@@ -79,6 +27,8 @@ NY : POUGHKEEPSIE
            - VOYA RETIREMENT INSURANCE AND ANNUITY CO
                  : SEPARATE ACCOUNT NO 734
     2021: CENTRAL HUDSON GAS & ELECTRIC CORPORATION SAVINGS INCENTIVE PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S 
         Participants: 1418
         Assets: 403504076
         $/Participant: 284558
@@ -87,6 +37,8 @@ NY : POUGHKEEPSIE
            - VOYA RETIREMENT INSURANCE AND ANNUITY CO
                  : SEPARATE ACCOUNT NO 734
     2020: CENTRAL HUDSON GAS & ELECTRIC CORPORATION SAVINGS INCENTIVE PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S 
         Participants: 1386
         Assets: 365729606
         $/Participant: 263874
@@ -95,6 +47,8 @@ NY : POUGHKEEPSIE
            - VOYA RETIREMENT INSURANCE AND ANNUITY CO
                  : SEPARATE ACCOUNT NO 734
     2019: CENTRAL HUDSON GAS & ELECTRIC CORPORATION SAVINGS INCENTIVE PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S 
         Participants: 1401
         Assets: 301125332
         $/Participant: 214935
@@ -103,6 +57,8 @@ NY : POUGHKEEPSIE
            - VOYA RETIREMENT INSURANCE AND ANNUITY CO
                  : SEPARATE ACCOUNT NO 734
     2018: CENTRAL HUDSON GAS & ELECTRIC CORPORATION SAVINGS INCENTIVE PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S 
         Participants: 1340
         Assets: 246723043
         $/Participant: 184121
@@ -111,6 +67,8 @@ NY : POUGHKEEPSIE
            - VOYA RETIREMENT INSURANCE AND ANNUITY CO
                  : SEPARATE ACCOUNT NO 734
     2017: CENTRAL HUDSON GAS & ELECTRIC CORPORATION SAVINGS INCENTIVE PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S 
         Participants: 1336
         Assets: 250864866
         $/Participant: 187773
@@ -118,8 +76,90 @@ NY : POUGHKEEPSIE
         Available Investments:
            - VOYA RETIREMENT INSURANCE AND ANNUITY CO
                  : SEPARATE ACCOUNT NO 734
+   [005]
+    2022: CENTRAL HUDSON GAS & ELECTRIC CORPORATION SUPPLEMENTAL RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2J2T3H 
+        Participants: 784
+        Assets: 748973
+        $/Participant: 955
+   [501]
+    2022: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4B4D4E4F4H4Q4A
+        Participants: 
+    2021: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4B4D4E4F4H4Q4A
+        Participants: 
+    2020: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4B4D4E4F4H4Q4A
+        Participants: 
+    2019: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4B4D4E4F4H4Q4A
+        Participants: 
+    2018: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4B4D4E4F4H4Q4A
+        Participants: 
+    2017: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4B4D4E4F4H4Q4A
+        Participants: 848
+   [502]
+    2022: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN FOR RETIREES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+        Assets: 116077436
+        $/Participant: 
+        RecordKeeper: EMPIRE HEALTHCHOICE ASSURANCE, INC.
+    2021: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN FOR RETIREES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+        Assets: 145074662
+        $/Participant: 
+        RecordKeeper: EMPIRE HEALTHCHOICE ASSURANCE, INC.
+    2020: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN FOR RETIREES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+        Assets: 131017535
+        $/Participant: 
+        RecordKeeper: EMPIRE HEALTHCHOICE ASSURANCE, INC.
+    2019: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN FOR RETIREES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+        Assets: 119176584
+        $/Participant: 
+        RecordKeeper: EMPIRE HEALTHCHOICE ASSURANCE, INC.
+    2018: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN FOR RETIREES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+        Assets: 101008285
+        $/Participant: 
+        RecordKeeper: EMPIRE HEALTHCHOICE ASSURANCE, INC.
+    2017: CENTRAL HUDSON GAS & ELECTRIC CORPORATION WELFARE BENEFIT PLAN FOR RETIREES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 1152
+        Assets: 111644195
+        $/Participant: 96913
+        Service Providers:
+           - LCG ASSOCIATES, INC. : THIRD-PARTY PROVIDER (Consulting(pension))
+           - MERCER : ACTUARY (Actuarial)
+           - CARON & BLETZER, PLLC : AUDITOR (Accounting(including auditing))
+           - MVP : CLAIMS ADMINISTRATOR (Claims processing)
+           - STATE STREET BANK AND TRUST COMPANY : TRUSTEE (Trustee(directed))
    [001]
     2022: RETIREMENT INCOME PLAN OF CENTRAL HUDSON GAS & ELECTRIC CORP.
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 1476
         Assets: 686136490
         $/Participant: 464862
@@ -143,6 +183,8 @@ NY : POUGHKEEPSIE
                  : MSCI EAFE INDEX NL FUND
                  : RUSSELL 3000 (R) INDX NL FUND
     2021: RETIREMENT INCOME PLAN OF CENTRAL HUDSON GAS & ELECTRIC CORP.
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 1508
         Assets: 915606821
         $/Participant: 607166
@@ -161,6 +203,8 @@ NY : POUGHKEEPSIE
                  : MSCI EAFE INDEX NL FUND
                  : RUSSELL 3000 (R) INDX NL FUND
     2020: RETIREMENT INCOME PLAN OF CENTRAL HUDSON GAS & ELECTRIC CORP.
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 1538
         Assets: 863899185
         $/Participant: 561702
@@ -179,6 +223,8 @@ NY : POUGHKEEPSIE
                  : MSCI EAFE INDEX NL FUND
                  : RUSSELL 3000 (R) INDX NL FUND
     2019: RETIREMENT INCOME PLAN OF CENTRAL HUDSON GAS & ELECTRIC CORP.
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 1563
         Assets: 766007690
         $/Participant: 490088
@@ -197,6 +243,8 @@ NY : POUGHKEEPSIE
                  : MSCI EAFE INDEX NL FUND
                  : RUSSELL 3000 (R) INDX NL FUND
     2018: RETIREMENT INCOME PLAN OF CENTRAL HUDSON GAS & ELECTRIC CORP.
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 1606
         Assets: 645002004
         $/Participant: 401620
@@ -216,6 +264,8 @@ NY : POUGHKEEPSIE
                  : MSCI EAFE INDEX NL FUND
                  : RUSSELL 3000 (R) INDX NL FUND
     2017: RETIREMENT INCOME PLAN OF CENTRAL HUDSON GAS & ELECTRIC CORP.
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 1629
         Assets: 721066756
         $/Participant: 442643

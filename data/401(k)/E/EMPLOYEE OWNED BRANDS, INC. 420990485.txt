@@ -1,87 +1,9 @@
 IA : FAIRFIELD
-  DEXTER APACHE HOLDINGS, INC.  420990485
-   [888]
-    2017: DEXTER APACHE HOLDING, INC. DIRECTOR DEFERRED COMPENSATION PLAN
-        Participants: 
-   [505]
-    2022: EMPLOYEE OWNED BRANDS, INC. VISION PLAN
-        Participants: 
-    2021: EMPLOYEE OWNED BRANDS, INC. VISION PLAN
-        Participants: 
-    2020: DEXTER APACHE HOLDINGS, INC. VISION PLAN
-        Participants: 
-    2019: DEXTER APACHE HOLDINGS, INC. VISION PLAN
-        Participants: 
-    2018: DEXTER APACHE HOLDINGS, INC. VISION PLAN
-        Participants: 
-    2017: DEXTER APACHE HOLDINGS, INC. VISION PLAN
-        Participants: 
-   [504]
-    2022: EMPLOYEE OWNED BRANDS, INC. DENTAL PLAN
-        Participants: 
-    2021: EMPLOYEE OWNED BRANDS, INC. DENTAL PLAN
-        Participants: 
-    2020: DEXTER APACHE HOLDINGS, INC. DENTAL PLAN
-        Participants: 
-    2019: DEXTER APACHE HOLDINGS, INC. DENTAL PLAN
-        Participants: 
-    2018: DEXTER APACHE HOLDINGS, INC. DENTAL PLAN
-        Participants: 
-    2017: DEXTER APACHE HOLDINGS, INC. DENTAL PLAN
-        Participants: 
-   [502]
-    2022: EMPLOYEE OWNED BRANDS, INC. EMPLOYEE HEALTH BENEFITS PLAN
-        Participants: 
-    2021: EMPLOYEE OWNED BRANDS, INC. EMPLOYEE HEALTH BENEFITS PLAN
-        Participants: 
-    2020: DEXTER APACHE HOLDINGS, INC. EMPLOYEE HEALTH BENEFITS PLAN
-        Participants: 
-    2019: DEXTER APACHE HOLDINGS, INC. EMPLOYEE HEALTH BENEFITS PLAN
-        Participants: 
-    2018: DEXTER APACHE HOLDINGS, INC. EMPLOYEE HEALTH BENEFITS PLAN
-        Participants: 
-    2017: DEXTER APACHE HOLDINGS, INC. EMPLOYEE HEALTH BENEFITS PLAN
-        Participants: 
-   [501]
-    2022: GROUP INSURANCE FOR EMPLOYEES OF EMPLOYEE OWNED BRANDS, INC.
-        Participants: 
-    2021: GROUP INSURANCE FOR EMPLOYEES OF EMPLOYEE OWNED BRANDS, INC.
-        Participants: 
-    2020: GROUP INSURANCE FOR EMPLOYEES OF DEXTER APACHE HOLDINGS, INC.
-        Participants: 
-    2019: GROUP INSURANCE FOR EMPLOYEES OF DEXTER APACHE HOLDINGS, INC.
-        Participants: 
-    2018: GROUP INSURANCE FOR EMPLOYEES OF DEXTER APACHE HOLDINGS, INC.
-        Participants: 
-    2017: GROUP INSURANCE FOR EMPLOYEES OF DEXTER APACHE HOLDINGS, INC.
-        Participants: 
-   [005]
-    2022: EMPLOYEE OWNED BRANDS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 847
-        Assets: 685782673
-        $/Participant: 809660
-    2021: EMPLOYEE OWNED BRANDS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 820
-        Assets: 738238602
-        $/Participant: 900290
-    2020: DEXTER APACHE HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 723
-        Assets: 675346317
-        $/Participant: 934088
-    2019: DEXTER APACHE HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 719
-        Assets: 703114888
-        $/Participant: 977906
-    2018: DEXTER APACHE HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 647
-        Assets: 587563736
-        $/Participant: 908135
-    2017: DEXTER APACHE HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 614
-        Assets: 533465136
-        $/Participant: 868835
+  EMPLOYEE OWNED BRANDS, INC.  420990485
    [004]
     2022: EMPLOYEE OWNED BRANDS, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3F3H 
         Participants: 1191
         Assets: 49694381
         $/Participant: 41724
@@ -115,6 +37,8 @@ IA : FAIRFIELD
                  : MFS MID CAP GROWTH FD CL CT
                  : MFS MID CAP VALUE FD CL CT
     2021: EMPLOYEE OWNED BRANDS, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3F3H 
         Participants: 1172
         Assets: 60193033
         $/Participant: 51359
@@ -138,6 +62,8 @@ IA : FAIRFIELD
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN LGCP S&P 500 INDEX SA-Z
     2020: DEXTER APACHE HOLDINGS, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3F3H 
         Participants: 1155
         Assets: 56843457
         $/Participant: 49215
@@ -161,6 +87,8 @@ IA : FAIRFIELD
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN LGCAP S&P 500 INDEX SA-R6
     2019: DEXTER APACHE HOLDINGS, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3F3H 
         Participants: 1107
         Assets: 49069673
         $/Participant: 44326
@@ -184,6 +112,8 @@ IA : FAIRFIELD
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN LGCAP S&P 500 INDEX SA-R6
     2018: DEXTER APACHE HOLDINGS, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3F3H 
         Participants: 958
         Assets: 37665145
         $/Participant: 39316
@@ -207,6 +137,8 @@ IA : FAIRFIELD
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN LGCAP S&P 500 INDEX SA-R6
     2017: DEXTER APACHE HOLDINGS, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3F3H 
         Participants: 997
         Assets: 39447446
         $/Participant: 39566
@@ -228,8 +160,152 @@ IA : FAIRFIELD
                  : PRINCIPAL STABLE VALUE SELECT
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN LGCAP S&P 500 INDEX SA-R6
+   [005]
+    2022: EMPLOYEE OWNED BRANDS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3F3H3I 
+        Participants: 847
+        Assets: 685782673
+        $/Participant: 809660
+    2021: EMPLOYEE OWNED BRANDS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3F3H3I 
+        Participants: 820
+        Assets: 738238602
+        $/Participant: 900290
+    2020: DEXTER APACHE HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3F3H3I 
+        Participants: 723
+        Assets: 675346317
+        $/Participant: 934088
+    2019: DEXTER APACHE HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3F3H3I 
+        Participants: 719
+        Assets: 703114888
+        $/Participant: 977906
+    2018: DEXTER APACHE HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3F3H3I 
+        Participants: 647
+        Assets: 587563736
+        $/Participant: 908135
+    2017: DEXTER APACHE HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3F3H3I 
+        Participants: 614
+        Assets: 533465136
+        $/Participant: 868835
+   [502]
+    2022: EMPLOYEE OWNED BRANDS, INC. EMPLOYEE HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: EMPLOYEE OWNED BRANDS, INC. EMPLOYEE HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2020: DEXTER APACHE HOLDINGS, INC. EMPLOYEE HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: DEXTER APACHE HOLDINGS, INC. EMPLOYEE HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: DEXTER APACHE HOLDINGS, INC. EMPLOYEE HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: DEXTER APACHE HOLDINGS, INC. EMPLOYEE HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [501]
+    2022: GROUP INSURANCE FOR EMPLOYEES OF EMPLOYEE OWNED BRANDS, INC.
+        Benefit Category: Other
+        Codes:  4B4F4H4L4Q
+        Participants: 
+    2021: GROUP INSURANCE FOR EMPLOYEES OF EMPLOYEE OWNED BRANDS, INC.
+        Benefit Category: Other
+        Codes:  4B4F4H4L4Q
+        Participants: 
+    2020: GROUP INSURANCE FOR EMPLOYEES OF DEXTER APACHE HOLDINGS, INC.
+        Benefit Category: Other
+        Codes:  4B4F4H4L4Q
+        Participants: 
+    2019: GROUP INSURANCE FOR EMPLOYEES OF DEXTER APACHE HOLDINGS, INC.
+        Benefit Category: Other
+        Codes:  4B4F4H4L4Q
+        Participants: 
+    2018: GROUP INSURANCE FOR EMPLOYEES OF DEXTER APACHE HOLDINGS, INC.
+        Benefit Category: Other
+        Codes:  4B4F4H4L4Q
+        Participants: 
+    2017: GROUP INSURANCE FOR EMPLOYEES OF DEXTER APACHE HOLDINGS, INC.
+        Benefit Category: Other
+        Codes:  4B4F4H4L4Q
+        Participants: 
+   [504]
+    2022: EMPLOYEE OWNED BRANDS, INC. DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2021: EMPLOYEE OWNED BRANDS, INC. DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2020: DEXTER APACHE HOLDINGS, INC. DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2019: DEXTER APACHE HOLDINGS, INC. DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2018: DEXTER APACHE HOLDINGS, INC. DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2017: DEXTER APACHE HOLDINGS, INC. DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+   [505]
+    2022: EMPLOYEE OWNED BRANDS, INC. VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2021: EMPLOYEE OWNED BRANDS, INC. VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2020: DEXTER APACHE HOLDINGS, INC. VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2019: DEXTER APACHE HOLDINGS, INC. VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2018: DEXTER APACHE HOLDINGS, INC. VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2017: DEXTER APACHE HOLDINGS, INC. VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+   [888]
+    2017: DEXTER APACHE HOLDING, INC. DIRECTOR DEFERRED COMPENSATION PLAN
+        Benefit Category: Other
+        Codes:  
+        Participants: 
    [003]
     2018: DEXTER APACHE HOLDINGS, INC. RETIREMENT INCOME PLAN FOR SALARIED EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 0
         RecordKeeper: WELLS FARGO
         Available Investments:
@@ -241,6 +317,8 @@ IA : FAIRFIELD
                  : WF/BR INT EQUITY INDEX CIT F
                  : WF/BR RUSSELL 2000 INDEX CIT F
     2017: DEXTER APACHE HOLDINGS, INC. RETIREMENT INCOME PLAN FOR SALARIED EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 140
         Assets: 12249622
         $/Participant: 87497

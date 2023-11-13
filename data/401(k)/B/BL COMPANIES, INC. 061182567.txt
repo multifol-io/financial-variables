@@ -1,59 +1,8 @@
 CT : MERIDEN
-  BL COMPANIES  061182567
-   [509]
-    2022: BL COMPANIES, INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2021: BL COMPANIES, INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2020: BL COMPANIES, INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-   [502]
-    2022: BL COMPANIES, INC. EMPLOYEE ASSISTANCE PROGRAM
-        Participants: 
-    2021: BL COMPANIES, INC. EMPLOYEE ASSISTANCE PROGRAM
-        Participants: 
-    2020: BL COMPANIES, INC. EMPLOYEE ASSISTANCE PROGRAM
-        Participants: 
-   [501]
-    2022: BL COMPANIES INC. GROUP BENEFIT PLAN
-        Participants: 
-    2021: BL COMPANIES INC. GROUP BENEFIT PLAN
-        Participants: 
-    2020: BL COMPANIES INC. GROUP BENEFIT PLAN
-        Participants: 
-    2019: BL COMPANIES INC. GROUP BENEFIT PLAN
-        Participants: 
-    2018: BL COMPANIES INC. GROUP BENEFIT PLAN
-        Participants: 
-    2017: BL COMPANIES INC. GROUP BENEFIT PLAN
-        Participants: 
-   [003]
-    2022: BL COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 346
-        Assets: 94746005
-        $/Participant: 273832
-    2021: BL COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 333
-        Assets: 77045444
-        $/Participant: 231367
-    2020: BL COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 297
-        Assets: 53947160
-        $/Participant: 181640
-    2019: BL COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 271
-        Assets: 41929917
-        $/Participant: 154722
-    2018: BL COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 271
-        Assets: 36948604
-        $/Participant: 136341
-    2017: BL COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 246
-        Assets: 30152493
-        $/Participant: 122571
-   [001]
+  BL COMPANIES, INC.  061182567
     2022: BL COMPANIES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 502
         Assets: 46575944
         $/Participant: 92780
@@ -74,6 +23,8 @@ CT : MERIDEN
                  : PRIN LIFETIME HYB 2065 CIT Z30
                  : PRIN LIFETIME HYB INC CIT Z30
     2021: BL COMPANIES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 502
         Assets: 52270092
         $/Participant: 104123
@@ -94,6 +45,8 @@ CT : MERIDEN
                  : PRIN LIFETIME HYB 2065 CIT Z30
                  : PRIN LIFETIME HYB INC CIT Z30
     2020: BL COMPANIES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 454
         Assets: 40565084
         $/Participant: 89350
@@ -114,6 +67,8 @@ CT : MERIDEN
                  : PRIN LIFETIME HYB 2065 CIT Z30
                  : PRIN LIFETIME HYB INC CIT Z30
     2019: BL COMPANIES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 393
         Assets: 34985146
         $/Participant: 89020
@@ -133,6 +88,8 @@ CT : MERIDEN
                  : PRIN LIFETIME HYB 2065 CIT Z30
                  : PRIN LIFETIME HYB INC CIT Z30
     2018: BL COMPANIES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 353
         Assets: 26729268
         $/Participant: 75720
@@ -152,6 +109,8 @@ CT : MERIDEN
                  : PRIN LIFETIME HYB 2065 CIT Z30
                  : PRIN LIFETIME HYB INC CIT Z30
     2017: BL COMPANIES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 325
         Assets: 26901844
         $/Participant: 82774
@@ -169,3 +128,91 @@ CT : MERIDEN
                  : PRIN LIFETIME HYBR 2055 CIT R5
                  : PRIN LIFETIME HYBR 2060 CIT R5
                  : PRIN LIFETIME HYBR INC CIT R5
+   [003]
+    2022: BL COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
+        Participants: 346
+        Assets: 94746005
+        $/Participant: 273832
+    2021: BL COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
+        Participants: 333
+        Assets: 77045444
+        $/Participant: 231367
+    2020: BL COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
+        Participants: 297
+        Assets: 53947160
+        $/Participant: 181640
+    2019: BL COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 271
+        Assets: 41929917
+        $/Participant: 154722
+    2018: BL COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
+        Participants: 271
+        Assets: 36948604
+        $/Participant: 136341
+    2017: BL COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
+        Participants: 246
+        Assets: 30152493
+        $/Participant: 122571
+   [501]
+    2022: BL COMPANIES INC. GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2021: BL COMPANIES INC. GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2020: BL COMPANIES INC. GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2019: BL COMPANIES INC. GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2018: BL COMPANIES INC. GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2017: BL COMPANIES INC. GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+   [502]
+    2022: BL COMPANIES, INC. EMPLOYEE ASSISTANCE PROGRAM
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2021: BL COMPANIES, INC. EMPLOYEE ASSISTANCE PROGRAM
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2020: BL COMPANIES, INC. EMPLOYEE ASSISTANCE PROGRAM
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+   [509]
+    2022: BL COMPANIES, INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L4Q
+        Participants: 
+    2021: BL COMPANIES, INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L4Q
+        Participants: 
+    2020: BL COMPANIES, INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L4Q
+        Participants: 

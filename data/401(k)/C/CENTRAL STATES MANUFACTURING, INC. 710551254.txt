@@ -1,69 +1,9 @@
 AR : TONTITOWN
-  CENTRAL STATES MANUFACTURING  710551254
-   [501]
-    2022: CENTRAL STATES MANUFACTURING SECTION 125 CAFETERIA PLAN
-        Participants: 993
-        Service Providers:
-           - MAGELLAN RX MANAGEMENT, LLC : PHARMACY BENEFIT MGT (Claims processing | Direct payment from the plan | Other fees)
-           - CONSOLIDATED ADMIN SERVICES : TPA (Claims processing)
-           - MERITAIN HEALTH :  (Contract Administrator)
-    2021: CENTRAL STATES MANUFACTURING SECTION 125 CAFETERIA PLAN
-        Participants: 931
-        Service Providers:
-           - MERITAIN HEALTH :  (Contract Administrator)
-           - CONSOLIDATED ADMIN SERVICES : TPA (Claims processing)
-AR : LOWELL
-    2020: CENTRAL STATES MANUFACTURING SECTION 125 CAFETERIA PLAN
-        Participants: 828
-        Service Providers:
-           - CONSOLIDATED ADMIN SERVICES : TPA (Claims processing)
-           - BLUEADVANTAGE ADMINISTRATORS OF ARK :  (Contract Administrator)
-    2019: CENTRAL STATES MANUFACTURING SECTION 125 CAFETERIA PLAN
-        Participants: 768
-        Service Providers:
-           - TASC CLIENT SERVICES :  (Contract Administrator)
-           - BLUEADVANTAGE ADMINISTRATORS OF ARK :  (Contract Administrator)
-    2018: CENTRAL STATES MANUFACTURING SECTION 125 CAFETERIA PLAN
-        Participants: 703
-        Service Providers:
-           - BLUEADVANTAGE ADMINISTRATORS OF ARK :  (Contract Administrator)
-           - TASC CLIENT SERVICES :  (Contract Administrator)
-    2017: CENTRAL STATES MANUFACTURING SECTION 125 CAFETERIA PLAN
-        Participants: 761
-        Service Providers:
-           - TASC CLIENT SERVICES :  (Contract Administrator)
-           - BLUEADVANTAGE ADMINISTRATORS OF ARK :  (Contract Administrator)
-AR : TONTITOWN
-   [002]
-    2022: CENTRAL STATES MANUFACTURING, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 1330
-        Assets: 336726227
-        $/Participant: 253177
-    2021: CENTRAL STATES MANUFACTURING, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 1224
-        Assets: 314750833
-        $/Participant: 257149
-AR : LOWELL
-    2020: CENTRAL STATES MANUFACTURING, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 794
-        Assets: 221558997
-        $/Participant: 279041
-    2019: CENTRAL STATES MANUFACTURING, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 773
-        Assets: 183740153
-        $/Participant: 237697
-    2018: CENTRAL STATES MANUFACTURING, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 792
-        Assets: 179133451
-        $/Participant: 226178
-    2017: CENTRAL STATES MANUFACTURING, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 733
-        Assets: 159213509
-        $/Participant: 217208
-        RecordKeeper: PRINCIPAL FINANCIAL GROUP
-AR : TONTITOWN
+  CENTRAL STATES MANUFACTURING, INC.  710551254
    [001]
     2022: CENTRAL STATES MANUFACTURING, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 1321
         Assets: 33404117
         $/Participant: 25286
@@ -75,6 +15,8 @@ AR : TONTITOWN
                  : PRIN REAL ESTATE SECS SA-Z
                  : PRIN SPEC PREF CAP SEC INC PEM
     2021: CENTRAL STATES MANUFACTURING, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 1165
         Assets: 38598364
         $/Participant: 33131
@@ -89,6 +31,8 @@ AR : TONTITOWN
                  : PRIN SMCAP VALUE II SEP ACCT-Z
 AR : LOWELL
     2020: CENTRAL STATES MANUFACTURING, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 1035
         Assets: 36403142
         $/Participant: 35172
@@ -118,6 +62,8 @@ AR : LOWELL
                  : PRIN SMCAP GROWTH I SEP ACCT-Z
                  : PRIN SMCAP VALUE II SEP ACCT-Z
     2019: CENTRAL STATES MANUFACTURING, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 844
         Assets: 23646151
         $/Participant: 28016
@@ -154,6 +100,8 @@ AR : LOWELL
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRIN SMCAP VALUE II SEP ACCT-Z
     2018: CENTRAL STATES MANUFACTURING, INC. 401(K)SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 798
         Assets: 22169963
         $/Participant: 27781
@@ -189,6 +137,8 @@ AR : LOWELL
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRIN SMCAP VALUE II SEP ACCT-Z
     2017: CENTRAL STATES MANUFACTURING, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 781
         Assets: 20914138
         $/Participant: 26778
@@ -222,3 +172,89 @@ AR : LOWELL
                  : PRIN SMCAP GROWTH I SEP ACCT-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRIN SMCAP VALUE II SEP ACCT-Z
+AR : TONTITOWN
+   [002]
+    2022: CENTRAL STATES MANUFACTURING, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2P2Q3I 
+        Participants: 1330
+        Assets: 336726227
+        $/Participant: 253177
+    2021: CENTRAL STATES MANUFACTURING, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2P2Q3F3I 
+        Participants: 1224
+        Assets: 314750833
+        $/Participant: 257149
+AR : LOWELL
+    2020: CENTRAL STATES MANUFACTURING, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2P2Q3F3I 
+        Participants: 794
+        Assets: 221558997
+        $/Participant: 279041
+    2019: CENTRAL STATES MANUFACTURING, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2P2Q3I 
+        Participants: 773
+        Assets: 183740153
+        $/Participant: 237697
+    2018: CENTRAL STATES MANUFACTURING, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2O2Q3I 
+        Participants: 792
+        Assets: 179133451
+        $/Participant: 226178
+    2017: CENTRAL STATES MANUFACTURING, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2O2Q3I 
+        Participants: 733
+        Assets: 159213509
+        $/Participant: 217208
+        RecordKeeper: PRINCIPAL FINANCIAL GROUP
+AR : TONTITOWN
+   [501]
+    2022: CENTRAL STATES MANUFACTURING SECTION 125 CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 993
+        Service Providers:
+           - MAGELLAN RX MANAGEMENT, LLC : PHARMACY BENEFIT MGT (Claims processing | Direct payment from the plan | Other fees)
+           - CONSOLIDATED ADMIN SERVICES : TPA (Claims processing)
+           - MERITAIN HEALTH :  (Contract Administrator)
+    2021: CENTRAL STATES MANUFACTURING SECTION 125 CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 931
+        Service Providers:
+           - MERITAIN HEALTH :  (Contract Administrator)
+           - CONSOLIDATED ADMIN SERVICES : TPA (Claims processing)
+AR : LOWELL
+    2020: CENTRAL STATES MANUFACTURING SECTION 125 CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 828
+        Service Providers:
+           - CONSOLIDATED ADMIN SERVICES : TPA (Claims processing)
+           - BLUEADVANTAGE ADMINISTRATORS OF ARK :  (Contract Administrator)
+    2019: CENTRAL STATES MANUFACTURING SECTION 125 CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 768
+        Service Providers:
+           - TASC CLIENT SERVICES :  (Contract Administrator)
+           - BLUEADVANTAGE ADMINISTRATORS OF ARK :  (Contract Administrator)
+    2018: CENTRAL STATES MANUFACTURING SECTION 125 CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 703
+        Service Providers:
+           - BLUEADVANTAGE ADMINISTRATORS OF ARK :  (Contract Administrator)
+           - TASC CLIENT SERVICES :  (Contract Administrator)
+    2017: CENTRAL STATES MANUFACTURING SECTION 125 CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 761
+        Service Providers:
+           - TASC CLIENT SERVICES :  (Contract Administrator)
+           - BLUEADVANTAGE ADMINISTRATORS OF ARK :  (Contract Administrator)

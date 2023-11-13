@@ -1,19 +1,9 @@
 NY : NEW YORK
   FOX CORPORATION  831825597
-   [504]
-    2019: FOX BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Participants: 
-   [503]
-    2022: FOX CORPORATION GROUP INSURANCE PLAN
-        Participants: 
-    2021: FOX CORPORATION GROUP INSURANCE PLAN
-        Participants: 
-    2020: FOX CORPORATION GROUP INSURANCE PLAN
-        Participants: 
-    2019: FOX CORPORATION GROUP INSURANCE PLAN
-        Participants: 
    [005]
     2022: FOX SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3H 
         Participants: 13730
         Assets: 1773877230
         $/Participant: 129197
@@ -47,6 +37,8 @@ NY : NEW YORK
                  : VFTC TARGET RETIREMENT 2070 TR PLUS
                  : VFTC TARGET RETIREMENT INCOME TRUST
     2021: FOX SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2J2K2R2S2T3H 
         Participants: 12359
         Assets: 2077384719
         $/Participant: 168086
@@ -79,6 +71,8 @@ NY : NEW YORK
                  : VFTC TARGET RETIREMENT 2065 TR PLUS
                  : VFTC TARGET RETIREMENT INCOME TRUST
     2020: FOX SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2J2K2R2S2T3H 
         Participants: 10972
         Assets: 1794656216
         $/Participant: 163566
@@ -110,8 +104,132 @@ NY : NEW YORK
                  : VFTC TARGET RETIREMENT 2060 TR PLUS
                  : VFTC TARGET RETIREMENT 2065 TR PLUS
                  : VFTC TARGET RETIREMENT INCOME TRUST
+   [503]
+    2022: FOX CORPORATION GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: FOX CORPORATION GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: FOX CORPORATION GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: FOX CORPORATION GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4F4H4L
+        Participants: 
+   [504]
+    2019: FOX BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+   [001]
+    2022: FOX PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
+        Participants: 2000
+        Assets: 721704057
+        $/Participant: 360852
+        Service Providers:
+           - MERCER HUMAN RESOURCE CONSULTING :  (Actuarial | Consulting(pension) | Direct payment from the plan)
+           - BUCK CONSULTANTS LLP :  (Actuarial | Consulting(pension) | Direct payment from the plan)
+           - ERNST & YOUNG LLP :  (Accounting(including auditing) | Direct payment from the plan)
+           - COVINGTON & BURLING LLP :  (Legal | Direct payment from the plan)
+           - JP MORGAN CHASE BANK, NA :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+           - MOSS ADAMS LLP :  (Accounting(including auditing) | Direct payment from the plan)
+        Available Investments:
+           - FOX CORPORATION
+                 : FOX MASTER TRUST
+    2021: FOX PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
+        Participants: 2067
+        Assets: 873492854
+        $/Participant: 422589
+        Service Providers:
+           - MERCER HUMAN RESOURCE CONSULTING :  (Actuarial | Consulting(pension) | Direct payment from the plan)
+           - BUCK CONSULTANTS LLP :  (Actuarial | Consulting(pension) | Direct payment from the plan)
+           - ERNST & YOUNG LLP :  (Accounting(including auditing) | Direct payment from the plan)
+           - JP MORGAN CHASE BANK, NA :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+           - MOSS ADAMS LLP :  (Accounting(including auditing) | Direct payment from the plan)
+           - COVINGTON & BURLING LLP :  (Legal | Direct payment from the plan)
+        Available Investments:
+           - FOX CORPORATION
+                 : FOX MASTER TRUST
+    2020: FOX PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
+        Participants: 2147
+        Assets: 788527402
+        $/Participant: 367269
+        Service Providers:
+           - MERCER HUMAN RESOURCE CONSULTING :  (Actuarial | Consulting(pension) | Direct payment from the plan)
+           - BUCK CONSULTANTS LLP :  (Actuarial | Consulting(pension) | Direct payment from the plan)
+           - ERNST & YOUNG LLP :  (Accounting(including auditing) | Direct payment from the plan)
+           - JP MORGAN CHASE BANK, NA :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+           - MOSS ADAMS LLP :  (Accounting(including auditing) | Direct payment from the plan)
+        Available Investments:
+           - FOX CORPORATION
+                 : FOX MASTER TRUST
+           - FOXCORP HOLDINGS, LLC
+                 : NEW FOX MASTER TRUST
+   [002]
+    2022: PENSION PLAN FOR UNION EMPLOYEES OF FOX TELEVISION STATIONS, LLC
+        Benefit Category: Pension
+        Codes: 1A3H 
+        Participants: 409
+        Assets: 42630916
+        $/Participant: 104232
+        Service Providers:
+           - BUCK CONSULTANTS LLP :  (Actuarial | Consulting(pension) | Direct payment from the plan)
+           - ERNST & YOUNG LLP :  (Accounting(including auditing) | Direct payment from the plan)
+           - JP MORGAN CHASE BANK, NA :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+           - MERCER HUMAN RESOURCE CONSULTING :  (Actuarial | Consulting(pension) | Direct payment from the plan)
+           - COVINGTON & BURLING LLP :  (Legal | Direct payment from the plan)
+           - MOSS ADAMS LLP :  (Accounting(including auditing) | Direct payment from the plan)
+        Available Investments:
+           - FOX CORPORATION
+                 : FOX MASTER TRUST
+    2021: PENSION PLAN FOR UNION EMPLOYEES OF FOX TELEVISION STATIONS, LLC
+        Benefit Category: Pension
+        Codes: 1A3H 
+        Participants: 421
+        Assets: 58919223
+        $/Participant: 139950
+        Service Providers:
+           - BUCK CONSULTANTS LLP :  (Actuarial | Consulting(pension) | Direct payment from the plan)
+           - ERNST & YOUNG LLP :  (Accounting(including auditing) | Direct payment from the plan)
+           - JP MORGAN CHASE BANK, NA :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+           - MERCER HUMAN RESOURCE CONSULTING :  (Actuarial | Consulting(pension) | Direct payment from the plan)
+           - MOSS ADAMS LLP :  (Accounting(including auditing) | Direct payment from the plan)
+           - COVINGTON & BURLING LLP :  (Legal | Direct payment from the plan)
+        Available Investments:
+           - FOX CORPORATION
+                 : FOX MASTER TRUST
+    2020: PENSION PLAN FOR UNION EMPLOYEES OF FOX TELEVISION STATIONS, LLC
+        Benefit Category: Pension
+        Codes: 1A3H 
+        Participants: 445
+        Assets: 58986893
+        $/Participant: 132554
+        Service Providers:
+           - BUCK CONSULTANTS LLP :  (Actuarial | Consulting(pension) | Direct payment from the plan)
+           - ERNST & YOUNG LLP :  (Accounting(including auditing) | Direct payment from the plan)
+           - MERCER HUMAN RESOURCE CONSULTING :  (Actuarial | Consulting(pension) | Direct payment from the plan)
+           - JP MORGAN CHASE BANK, NA :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+           - MOSS ADAMS LLP :  (Accounting(including auditing) | Direct payment from the plan)
+        Available Investments:
+           - FOX CORPORATION
+                 : FOX MASTER TRUST
+           - FOXCORP HOLDINGS LLC
+                 : NEW FOX MASTER TRUST
    [003]
     2022: PENSION PLAN OF LOCALS 794 & 819, I.A.T.S.E.
+        Benefit Category: Pension
+        Codes: 1B3H 
         Participants: 385
         Assets: 76432183
         $/Participant: 198525
@@ -126,6 +244,8 @@ NY : NEW YORK
            - FOX CORPORATION
                  : FOX MASTER TRUST
     2021: PENSION PLAN OF LOCALS 794 & 819, I.A.T.S.E.
+        Benefit Category: Pension
+        Codes: 1B3H 
         Participants: 389
         Assets: 100275634
         $/Participant: 257777
@@ -141,6 +261,8 @@ NY : NEW YORK
            - FOX CORPORATION
                  : FOX MASTER TRUST
     2020: PENSION PLAN OF LOCALS 794 & 819, I.A.T.S.E.
+        Benefit Category: Pension
+        Codes: 1B3H 
         Participants: 395
         Assets: 93938964
         $/Participant: 237820
@@ -155,92 +277,4 @@ NY : NEW YORK
            - FOX CORPORATION
                  : FOX MASTER TRUST
            - FOXCORP HOLDINGS LLC
-                 : NEW FOX MASTER TRUST
-   [002]
-    2022: PENSION PLAN FOR UNION EMPLOYEES OF FOX TELEVISION STATIONS, LLC
-        Participants: 409
-        Assets: 42630916
-        $/Participant: 104232
-        Service Providers:
-           - BUCK CONSULTANTS LLP :  (Actuarial | Consulting(pension) | Direct payment from the plan)
-           - ERNST & YOUNG LLP :  (Accounting(including auditing) | Direct payment from the plan)
-           - JP MORGAN CHASE BANK, NA :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-           - MERCER HUMAN RESOURCE CONSULTING :  (Actuarial | Consulting(pension) | Direct payment from the plan)
-           - COVINGTON & BURLING LLP :  (Legal | Direct payment from the plan)
-           - MOSS ADAMS LLP :  (Accounting(including auditing) | Direct payment from the plan)
-        Available Investments:
-           - FOX CORPORATION
-                 : FOX MASTER TRUST
-    2021: PENSION PLAN FOR UNION EMPLOYEES OF FOX TELEVISION STATIONS, LLC
-        Participants: 421
-        Assets: 58919223
-        $/Participant: 139950
-        Service Providers:
-           - BUCK CONSULTANTS LLP :  (Actuarial | Consulting(pension) | Direct payment from the plan)
-           - ERNST & YOUNG LLP :  (Accounting(including auditing) | Direct payment from the plan)
-           - JP MORGAN CHASE BANK, NA :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-           - MERCER HUMAN RESOURCE CONSULTING :  (Actuarial | Consulting(pension) | Direct payment from the plan)
-           - MOSS ADAMS LLP :  (Accounting(including auditing) | Direct payment from the plan)
-           - COVINGTON & BURLING LLP :  (Legal | Direct payment from the plan)
-        Available Investments:
-           - FOX CORPORATION
-                 : FOX MASTER TRUST
-    2020: PENSION PLAN FOR UNION EMPLOYEES OF FOX TELEVISION STATIONS, LLC
-        Participants: 445
-        Assets: 58986893
-        $/Participant: 132554
-        Service Providers:
-           - BUCK CONSULTANTS LLP :  (Actuarial | Consulting(pension) | Direct payment from the plan)
-           - ERNST & YOUNG LLP :  (Accounting(including auditing) | Direct payment from the plan)
-           - MERCER HUMAN RESOURCE CONSULTING :  (Actuarial | Consulting(pension) | Direct payment from the plan)
-           - JP MORGAN CHASE BANK, NA :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-           - MOSS ADAMS LLP :  (Accounting(including auditing) | Direct payment from the plan)
-        Available Investments:
-           - FOX CORPORATION
-                 : FOX MASTER TRUST
-           - FOXCORP HOLDINGS LLC
-                 : NEW FOX MASTER TRUST
-   [001]
-    2022: FOX PENSION PLAN
-        Participants: 2000
-        Assets: 721704057
-        $/Participant: 360852
-        Service Providers:
-           - MERCER HUMAN RESOURCE CONSULTING :  (Actuarial | Consulting(pension) | Direct payment from the plan)
-           - BUCK CONSULTANTS LLP :  (Actuarial | Consulting(pension) | Direct payment from the plan)
-           - ERNST & YOUNG LLP :  (Accounting(including auditing) | Direct payment from the plan)
-           - COVINGTON & BURLING LLP :  (Legal | Direct payment from the plan)
-           - JP MORGAN CHASE BANK, NA :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-           - MOSS ADAMS LLP :  (Accounting(including auditing) | Direct payment from the plan)
-        Available Investments:
-           - FOX CORPORATION
-                 : FOX MASTER TRUST
-    2021: FOX PENSION PLAN
-        Participants: 2067
-        Assets: 873492854
-        $/Participant: 422589
-        Service Providers:
-           - MERCER HUMAN RESOURCE CONSULTING :  (Actuarial | Consulting(pension) | Direct payment from the plan)
-           - BUCK CONSULTANTS LLP :  (Actuarial | Consulting(pension) | Direct payment from the plan)
-           - ERNST & YOUNG LLP :  (Accounting(including auditing) | Direct payment from the plan)
-           - JP MORGAN CHASE BANK, NA :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-           - MOSS ADAMS LLP :  (Accounting(including auditing) | Direct payment from the plan)
-           - COVINGTON & BURLING LLP :  (Legal | Direct payment from the plan)
-        Available Investments:
-           - FOX CORPORATION
-                 : FOX MASTER TRUST
-    2020: FOX PENSION PLAN
-        Participants: 2147
-        Assets: 788527402
-        $/Participant: 367269
-        Service Providers:
-           - MERCER HUMAN RESOURCE CONSULTING :  (Actuarial | Consulting(pension) | Direct payment from the plan)
-           - BUCK CONSULTANTS LLP :  (Actuarial | Consulting(pension) | Direct payment from the plan)
-           - ERNST & YOUNG LLP :  (Accounting(including auditing) | Direct payment from the plan)
-           - JP MORGAN CHASE BANK, NA :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-           - MOSS ADAMS LLP :  (Accounting(including auditing) | Direct payment from the plan)
-        Available Investments:
-           - FOX CORPORATION
-                 : FOX MASTER TRUST
-           - FOXCORP HOLDINGS, LLC
                  : NEW FOX MASTER TRUST

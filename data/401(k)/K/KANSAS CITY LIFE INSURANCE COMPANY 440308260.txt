@@ -1,80 +1,95 @@
 MO : KANSAS CITY
   KANSAS CITY LIFE INSURANCE COMPANY  440308260
-   [503]
-    2022: KANSAS CITY LIFE WELFARE BENEFIT PLAN
-        Participants: 722
-        Service Providers:
-           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
-           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
-    2021: KANSAS CITY LIFE WELFARE BENEFIT PLAN
-        Participants: 750
-        Service Providers:
-           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
-           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
-    2020: KANSAS CITY LIFE WELFARE BENEFIT PLAN
-        Participants: 756
-        Service Providers:
-           - UNITED HEALTHCARE SERVICES, INC : CLAIMS PROCESSOR (Claims processing | Other services)
-           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
-    2019: KANSAS CITY LIFE WELFARE BENEFIT PLAN
-        Participants: 761
-        Service Providers:
-           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
-           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
-    2018: KANSAS CITY LIFE WELFARE BENEFIT PLAN
-        Participants: 800
-        Service Providers:
-           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
-           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
-    2017: KANSAS CITY LIFE WELFARE BENEFIT PLAN
-        Participants: 733
-        Service Providers:
-           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
-           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
-   [501]
-    2021: KANSAS CITY LIFE WELFARE BENEFIT PLAN FOR AGENTS AND GENERAL AGENTS
-        Participants: 104
-    2020: KANSAS CITY LIFE WELFARE BENEFIT PLAN FOR AGENTS AND GENERAL AGENTS
-        Participants: 147
-    2019: KANSAS CITY LIFE WELFARE BENEFIT PLAN FOR AGENTS AND GENERAL AGENTS
-        Participants: 160
-    2018: KANSAS CITY LIFE WELFARE BENEFIT PLAN FOR AGENTS AND GENERAL AGENTS
-        Participants: 136
-    2017: KANSAS CITY LIFE WELFARE BENEFIT PLAN FOR AGENTS AND GENERAL AGENTS
-        Participants: 136
    [003]
     2022: KANSAS CITY LIFE INS. COMPANY SAVINGS AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 551
         Assets: 105941515
         $/Participant: 192271
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
     2021: KANSAS CITY LIFE INSURANCE COMPANY SAVINGS AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 574
         Assets: 141660931
         $/Participant: 246796
         RecordKeeper: WELLS FARGO BANK, N.A.
     2020: KANSAS CITY LIFE INSURANCE COMPANY SAVINGS AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 575
         Assets: 141059558
         $/Participant: 245320
         RecordKeeper: WELLS FARGO BANK, N.A.
     2019: KANSAS CITY LIFE INSURANCE COMPANY SAVINGS AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 576
         Assets: 123523481
         $/Participant: 214450
         RecordKeeper: WELLS FARGO BANK, N.A.
     2018: KANSAS CITY LIFE INSURANCE COMPANY SAVINGS AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 587
         Assets: 109056214
         $/Participant: 185785
         RecordKeeper: WELLS FARGO BANK, N.A.
     2017: KANSAS CITY LIFE INSURANCE COMPANY SAVINGS AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 520
         Assets: 119653562
         $/Participant: 230103
         RecordKeeper: WELLS FARGO BANK, N.A.
+   [503]
+    2022: KANSAS CITY LIFE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 722
+        Service Providers:
+           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
+           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
+    2021: KANSAS CITY LIFE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 750
+        Service Providers:
+           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
+           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
+    2020: KANSAS CITY LIFE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 756
+        Service Providers:
+           - UNITED HEALTHCARE SERVICES, INC : CLAIMS PROCESSOR (Claims processing | Other services)
+           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
+    2019: KANSAS CITY LIFE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 761
+        Service Providers:
+           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
+           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
+    2018: KANSAS CITY LIFE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 800
+        Service Providers:
+           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
+           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
+    2017: KANSAS CITY LIFE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 733
+        Service Providers:
+           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
+           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
    [001]
     2022: KANSAS CITY LIFE INSURANCE COMPANY CASH BALANCE PENSION PLAN
+        Benefit Category: Other
+        Codes: 1C1I 
         Participants: 633
         Assets: 135855000
         $/Participant: 214620
@@ -99,6 +114,8 @@ MO : KANSAS CITY
                  : L&G LONG LIABILITY CORP CIT FUND
                  : L&G TREASURY 3X CIT FUND
     2021: KANSAS CITY LIFE INSURANCE COMPANY CASH BALANCE PENSION PLAN
+        Benefit Category: Other
+        Codes: 1C1I 
         Participants: 677
         Assets: 171562000
         $/Participant: 253415
@@ -123,6 +140,8 @@ MO : KANSAS CITY
                  : L&G LIABILITY TREASURY CIT FUND
                  : L&G LONG LIABILITY CORP CIT FUND
     2020: KANSAS CITY LIFE INSURANCE COMPANY CASH BALANCE PENSION PLAN
+        Benefit Category: Other
+        Codes: 1C1I 
         Participants: 705
         Assets: 166647000
         $/Participant: 236378
@@ -147,6 +166,8 @@ MO : KANSAS CITY
                  : L&G LIABILITY TREASURY CIT FUND
                  : L&G LONG LIABILITY CORP CIT FUND
     2019: KANSAS CITY LIFE INSURANCE COMPANY CASH BALANCE PENSION PLAN
+        Benefit Category: Other
+        Codes: 1C1I 
         Participants: 731
         Assets: 154704000
         $/Participant: 211633
@@ -171,6 +192,8 @@ MO : KANSAS CITY
                  : L&G LIABILITY TREASURY CIT FUND
                  : L&G LONG LIABILITY CORP CIT FUND
     2018: KANSAS CITY LIFE INSURANCE COMPANY CASH BALANCE PENSION PLAN
+        Benefit Category: Other
+        Codes: 1C1I 
         Participants: 762
         Assets: 138014000
         $/Participant: 181120
@@ -198,6 +221,8 @@ MO : KANSAS CITY
                  : S&P 500 (R) FLAGSHIP SL FUND (CM11)
                  : S&P MIDCAP 400 (R) INDX NL FUND (CM
     2017: KANSAS CITY LIFE INSURANCE COMPANY CASH BALANCE PENSION PLAN
+        Benefit Category: Other
+        Codes: 1C1I 
         Participants: 792
         Assets: 151034000
         $/Participant: 190699
@@ -215,3 +240,24 @@ MO : KANSAS CITY
            - STATE STREET GLOBAL ADVISORS
                  : S&P 500 (R) FLAGSHIP SL FUND (CM11)
                  : S&P MIDCAP 400 (R) INDX NL FUND
+   [501]
+    2021: KANSAS CITY LIFE WELFARE BENEFIT PLAN FOR AGENTS AND GENERAL AGENTS
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 104
+    2020: KANSAS CITY LIFE WELFARE BENEFIT PLAN FOR AGENTS AND GENERAL AGENTS
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 147
+    2019: KANSAS CITY LIFE WELFARE BENEFIT PLAN FOR AGENTS AND GENERAL AGENTS
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 160
+    2018: KANSAS CITY LIFE WELFARE BENEFIT PLAN FOR AGENTS AND GENERAL AGENTS
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 136
+    2017: KANSAS CITY LIFE WELFARE BENEFIT PLAN FOR AGENTS AND GENERAL AGENTS
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 136

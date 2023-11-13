@@ -1,35 +1,31 @@
 WI : MERRILL
-  WEINBRENNER SHOE COMPANY, INC  391597573
-   [502]
-    2021: WEINBRENNER SHOE COMPANY, INC COLLECTIVELY BARGAINED GROUP INSURANCE PLAN
-        Participants: 
-    2020: WEINBRENNER SHOE COMPANY, INC COLLECTIVELY BARGAINED GROUP INSURANCE PLAN
-        Participants: 
-    2019: WEINBRENNER SHOE COMPANY, INC. COLLECTIVELY BARGAINED GROUP INSURANCE PLAN
-        Participants: 
-    2018: WEINBRENNER SHOE COMPANY, INC. COLLECTIVELY BARGAINED GROUP INSURANCE PLAN
-        Participants: 
-    2017: WEINBRENNER SHOE COMPANY, INC. COLLECTIVELY BARGAINED GROUP INSURANCE PLAN
-        Participants: 
-   [003]
-    2021: WEINBRENNER SHOE COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 90
-        Assets: 33128689
-        $/Participant: 368096
-    2020: WEINBRENNER SHOE COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 89
-        Assets: 29879242
-        $/Participant: 335721
-    2019: WEINBRENNER SHOE COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 123
-        Assets: 24895554
-        $/Participant: 202402
-    2018: WEINBRENNER SHOE COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 110
-    2017: WEINBRENNER SHOE COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 112
+  WEINBRENNER SHOE COMPANY INC  391597573
+   [001]
+    2022: WEINBRENNER SHOE COMPANY SAVINGS PLAN FOR COLLECTIVELY BARGAINED EMPLOYEES
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2T3D 
+        Participants: 270
+        Assets: 6028397
+        $/Participant: 22327
+        RecordKeeper: CORPORATE RETIREMENT SOLUTIONS LLC
+        Available Investments:
+           - AST WILMINGTON TRUST
+                 : BLACKROCK 1-3 YR GOVT BOND
+                 : BLACKROCK EAFE EQUITY INDEX
+                 : BLACKROCK EMERGING MKTS EQ IDX
+                 : BLACKROCK EQUITY INDEX
+                 : BLACKROCK MID CAP EQUITY INDEX
+                 : BLACKROCK RUSSELL 1000 INDEX
+                 : BLACKROCK RUSSELL 2000 GRO IDX
+                 : BLACKROCK RUSSELL 2000 INDEX
+                 : BLACKROCK RUSSELL 2000 VAL IDX
+                 : BLACKROCK US DEBT INDEX
+           - GALLIARD CAPITAL MANAGEMENT
+                 : GALLIARD STABLE RETURN FUND J
    [002]
     2021: WEINBRENNER SHOE COMPANY, INC. SAVINGS PLAN FOR COLLECTIVELY BARGAINED EMPLOYEES
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2T3D 
         Participants: 295
         Assets: 7490128
         $/Participant: 25390
@@ -49,6 +45,8 @@ WI : MERRILL
            - GALLIARD CAPITAL MANAGEMENT
                  : WELLS FARGO STABLE VALUE FUND
     2020: WEINBRENNER SHOE COMPANY, INC. SAVINGS PLAN FOR COLLECTIVELY BARGAINED EMPLOYEES
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2T3D 
         Participants: 270
         Assets: 7061886
         $/Participant: 26155
@@ -67,6 +65,8 @@ WI : MERRILL
            - GALLIARD CAPITAL MANAGEMENT
                  : WELLS FARGO STABLE VALUE FUND
     2019: WEINBRENNER SHOE COMPANY, INC. SAVINGS PLAN FOR COLLECTIVELY BARGAINED EMPLOYEES
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2T3D 
         Participants: 254
         Assets: 6426737
         $/Participant: 25302
@@ -75,6 +75,8 @@ WI : MERRILL
            - GALLIARD CAPITAL MANAGEMENT
                  : WELLS FARGO STABLE VALUE FUND
     2018: WEINBRENNER SHOE COMPANY, INC. SAVINGS PLAN FOR COLLECTIVELY BARGAINED EMPLOYEES
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2T3D 
         Participants: 262
         Assets: 5588928
         $/Participant: 21331
@@ -83,6 +85,8 @@ WI : MERRILL
            - GALLIARD CAPITAL MANAGEMENT
                  : WELLS FARGO STABLE VALUE FUND
     2017: WEINBRENNER SHOE COMPANY, INC. SAVINGS PLAN FOR COLLECTIVELY BARGAINED EMPLOYEES
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2T3D 
         Participants: 232
         Assets: 6048051
         $/Participant: 26069
@@ -90,23 +94,51 @@ WI : MERRILL
         Available Investments:
            - GALLIARD CAPITAL MANAGEMENT
                  : WELLS FARGO STABLE VALUE FUND
-   [001]
-    2022: WEINBRENNER SHOE COMPANY SAVINGS PLAN FOR COLLECTIVELY BARGAINED EMPLOYEES
-        Participants: 270
-        Assets: 6028397
-        $/Participant: 22327
-        RecordKeeper: CORPORATE RETIREMENT SOLUTIONS LLC
-        Available Investments:
-           - AST WILMINGTON TRUST
-                 : BLACKROCK 1-3 YR GOVT BOND
-                 : BLACKROCK EAFE EQUITY INDEX
-                 : BLACKROCK EMERGING MKTS EQ IDX
-                 : BLACKROCK EQUITY INDEX
-                 : BLACKROCK MID CAP EQUITY INDEX
-                 : BLACKROCK RUSSELL 1000 INDEX
-                 : BLACKROCK RUSSELL 2000 GRO IDX
-                 : BLACKROCK RUSSELL 2000 INDEX
-                 : BLACKROCK RUSSELL 2000 VAL IDX
-                 : BLACKROCK US DEBT INDEX
-           - GALLIARD CAPITAL MANAGEMENT
-                 : GALLIARD STABLE RETURN FUND J
+   [003]
+    2021: WEINBRENNER SHOE COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2I2Q3I 
+        Participants: 90
+        Assets: 33128689
+        $/Participant: 368096
+    2020: WEINBRENNER SHOE COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2I2Q3I 
+        Participants: 89
+        Assets: 29879242
+        $/Participant: 335721
+    2019: WEINBRENNER SHOE COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2I2Q3I 
+        Participants: 123
+        Assets: 24895554
+        $/Participant: 202402
+    2018: WEINBRENNER SHOE COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2I2Q3I 
+        Participants: 110
+    2017: WEINBRENNER SHOE COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2I2Q3I 
+        Participants: 112
+   [502]
+    2021: WEINBRENNER SHOE COMPANY, INC COLLECTIVELY BARGAINED GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2020: WEINBRENNER SHOE COMPANY, INC COLLECTIVELY BARGAINED GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: WEINBRENNER SHOE COMPANY, INC. COLLECTIVELY BARGAINED GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: WEINBRENNER SHOE COMPANY, INC. COLLECTIVELY BARGAINED GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: WEINBRENNER SHOE COMPANY, INC. COLLECTIVELY BARGAINED GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 

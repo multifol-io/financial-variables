@@ -1,41 +1,9 @@
 CA : FOLSOM
-  TAXRESOURCES, INC.  330336176
-   [508]
-    2019: TRI HOLDCO, INC. MEDICAL
-        Participants: 
-   [002]
-    2021: TRI HOLDCO, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 317
-        Assets: 77698279
-        $/Participant: 245104
-        Service Providers:
-           - J. P. MORGAN SECURITIES : INVESTMENT MANAGEMENT (Investment management fees paid directly by plan)
-    2020: TRI HOLDCO, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 310
-        Assets: 68178636
-        $/Participant: 219931
-        Service Providers:
-           - J. P. MORGAN SECURITIES : INVESTMENT MANAGEMENT (Investment management fees paid directly by plan)
-    2019: TRI HOLDCO, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 288
-        Assets: 65934482
-        $/Participant: 228939
-        Service Providers:
-           - J. P. MORGAN SECURITIES : INVESTMENT MANAGEMENT (Investment management fees paid directly by plan)
-    2018: TAXRESOURCES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 322
-        Assets: 60458469
-        $/Participant: 187759
-        Service Providers:
-           - J. P. MORGAN SECURITIES : INVESTMENT MANAGEMENT (Investment management fees paid directly by plan)
-    2017: TAXRESOURCES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 266
-        Assets: 89718640
-        $/Participant: 337288
-        Service Providers:
-           - J. P. MORGAN SECURITIES : INVESTMENT MANAGEMENT (Investment management fees paid directly by plan)
+  TRI HOLDCO, INC.  330336176
    [001]
     2017: TAXRESOURCES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3D 
         Participants: 229
         Assets: 5857013
         $/Participant: 25576
@@ -109,3 +77,49 @@ CA : FOLSOM
                  : VANGUARD SMALL CAP GROW INDEX
                  : VANGUARD VALUE INDEX FUND
                  : WASHINGTON MUTUAL INVESTORS
+   [002]
+    2021: TRI HOLDCO, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P 
+        Participants: 317
+        Assets: 77698279
+        $/Participant: 245104
+        Service Providers:
+           - J. P. MORGAN SECURITIES : INVESTMENT MANAGEMENT (Investment management fees paid directly by plan)
+    2020: TRI HOLDCO, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P 
+        Participants: 310
+        Assets: 68178636
+        $/Participant: 219931
+        Service Providers:
+           - J. P. MORGAN SECURITIES : INVESTMENT MANAGEMENT (Investment management fees paid directly by plan)
+    2019: TRI HOLDCO, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P 
+        Participants: 288
+        Assets: 65934482
+        $/Participant: 228939
+        Service Providers:
+           - J. P. MORGAN SECURITIES : INVESTMENT MANAGEMENT (Investment management fees paid directly by plan)
+    2018: TAXRESOURCES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P 
+        Participants: 322
+        Assets: 60458469
+        $/Participant: 187759
+        Service Providers:
+           - J. P. MORGAN SECURITIES : INVESTMENT MANAGEMENT (Investment management fees paid directly by plan)
+    2017: TAXRESOURCES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P 
+        Participants: 266
+        Assets: 89718640
+        $/Participant: 337288
+        Service Providers:
+           - J. P. MORGAN SECURITIES : INVESTMENT MANAGEMENT (Investment management fees paid directly by plan)
+   [508]
+    2019: TRI HOLDCO, INC. MEDICAL
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 

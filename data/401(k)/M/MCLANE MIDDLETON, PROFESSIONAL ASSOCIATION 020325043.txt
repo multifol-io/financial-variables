@@ -1,57 +1,9 @@
 NH : MANCHESTER
   MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION  020325043
-   [502]
-    2022: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION LIFE INSURANCE PLAN
-        Participants: 205
-    2021: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION LIFE INSURANCE PLAN
-        Participants: 187
-    2020: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION LIFE INSURANCE PLAN
-        Participants: 187
-    2019: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION LIFE INSURANCE PLAN
-        Participants: 183
-    2018: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION LIFE INSURANCE PLAN
-        Participants: 187
-    2017: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION LIFE INSURANCE PLAN
-        Participants: 183
-   [501]
-    2022: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION GROUP BENEFITS PLAN
-        Participants: 157
-        Service Providers:
-           - COMBINED SERVICES LLC DBA SCONE BEN : BROKER (Insurance agents and brokers)
-           - CRONIN GERVINO & WARLICK INC : BROKER (Insurance agents and brokers)
-           - DELTA DENTAL PLAN OF NEW HAMPSHIRE, : DENTAL CLAIMS PROCESSING (Claims processing)
-    2021: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION GROUP BENEFITS PLAN
-        Participants: 136
-        Service Providers:
-           - COMBINED SERVICES LLC DBA CSONE BEN : BROKER (Insurance agents and brokers)
-           - CRONIN GERVINO & WARLICK INC : BROKER (Insurance agents and brokers)
-           - DELTA DENTAL PLAN OF NEW HAMPSHIRE : DENTAL CLAIMS PROCESSING (Claims processing)
-    2020: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION GROUP BENEFITS PLAN
-        Participants: 142
-        Service Providers:
-           - COMBINED SERVICES LLC DBA CSONE BEN : BROKER (Insurance agents and brokers)
-           - CRONIN GERVINO & WARLICK INC : BROKER (Insurance agents and brokers)
-           - DELTA DENTAL PLAN OF NEW HAMPSHIRE : DENTAL CLAIMS PROCESSING (Claims processing)
-    2019: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION GROUP BENEFITS PLAN
-        Participants: 132
-        Service Providers:
-           - COMBINED SERVICES LLC DBA CSONE BEN : BROKER (Insurance agents and brokers)
-           - CRONIN GERVINO & WARLICK INC : BROKER (Insurance agents and brokers)
-           - DELTA DENTAL PLAN OF NEW HAMPSHIRE : DENTAL CLAIMS PROCESSING (Claims processing)
-    2018: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION GROUP BENEFITS PLAN
-        Participants: 137
-        Service Providers:
-           - COMBINED SERVICES LLC DBA CSONE BEN : BROKER (Insurance agents and brokers)
-           - DELTA DENTAL PLAN OF NEW HAMPSHIRE : DENTAL CLAIMS PROCESSING (Claims processing)
-           - CRONIN GERVINO & WARLICK INC : BROKER (Insurance agents and brokers)
-    2017: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION GROUP BENEFITS PLAN
-        Participants: 131
-        Service Providers:
-           - COMBINED SERVICES LLC DBA CSONE BEN : BROKER (Insurance agents and brokers)
-           - CRONIN GERVINO & WARLICK INC : BROKER (Insurance agents and brokers)
-           - DELTA DENTAL PLAN OF NEW HAMPSHIRE : DENTAL CLAIMS PROCESSING (Claims processing)
    [002]
     2022: MCLANE MIDDLETON 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3H2E3D 
         Participants: 295
         Assets: 61336165
         $/Participant: 207919
@@ -60,6 +12,8 @@ NH : MANCHESTER
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VAL M
     2021: MCLANE MIDDLETON 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3H2E3D 
         Participants: 270
         Assets: 76351056
         $/Participant: 282781
@@ -68,6 +22,8 @@ NH : MANCHESTER
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VAL M
     2020: MCLANE MIDDLETON 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D3H2E 
         Participants: 261
         Assets: 67164686
         $/Participant: 257335
@@ -76,6 +32,8 @@ NH : MANCHESTER
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VAL M
     2019: MCLANE MIDDLETON 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 265
         Assets: 56981775
         $/Participant: 215025
@@ -84,6 +42,8 @@ NH : MANCHESTER
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VAL M
     2018: MCLANE MIDDLETON 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 263
         Assets: 45478193
         $/Participant: 172920
@@ -92,6 +52,8 @@ NH : MANCHESTER
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VAL M
     2017: MCLANE MIDDLETON 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 262
         Assets: 50321299
         $/Participant: 192066
@@ -99,8 +61,84 @@ NH : MANCHESTER
         Available Investments:
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VAL M
+   [501]
+    2022: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION GROUP BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 157
+        Service Providers:
+           - COMBINED SERVICES LLC DBA SCONE BEN : BROKER (Insurance agents and brokers)
+           - CRONIN GERVINO & WARLICK INC : BROKER (Insurance agents and brokers)
+           - DELTA DENTAL PLAN OF NEW HAMPSHIRE, : DENTAL CLAIMS PROCESSING (Claims processing)
+    2021: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION GROUP BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 136
+        Service Providers:
+           - COMBINED SERVICES LLC DBA CSONE BEN : BROKER (Insurance agents and brokers)
+           - CRONIN GERVINO & WARLICK INC : BROKER (Insurance agents and brokers)
+           - DELTA DENTAL PLAN OF NEW HAMPSHIRE : DENTAL CLAIMS PROCESSING (Claims processing)
+    2020: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION GROUP BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 142
+        Service Providers:
+           - COMBINED SERVICES LLC DBA CSONE BEN : BROKER (Insurance agents and brokers)
+           - CRONIN GERVINO & WARLICK INC : BROKER (Insurance agents and brokers)
+           - DELTA DENTAL PLAN OF NEW HAMPSHIRE : DENTAL CLAIMS PROCESSING (Claims processing)
+    2019: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION GROUP BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 132
+        Service Providers:
+           - COMBINED SERVICES LLC DBA CSONE BEN : BROKER (Insurance agents and brokers)
+           - CRONIN GERVINO & WARLICK INC : BROKER (Insurance agents and brokers)
+           - DELTA DENTAL PLAN OF NEW HAMPSHIRE : DENTAL CLAIMS PROCESSING (Claims processing)
+    2018: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION GROUP BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 137
+        Service Providers:
+           - COMBINED SERVICES LLC DBA CSONE BEN : BROKER (Insurance agents and brokers)
+           - DELTA DENTAL PLAN OF NEW HAMPSHIRE : DENTAL CLAIMS PROCESSING (Claims processing)
+           - CRONIN GERVINO & WARLICK INC : BROKER (Insurance agents and brokers)
+    2017: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION GROUP BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 131
+        Service Providers:
+           - COMBINED SERVICES LLC DBA CSONE BEN : BROKER (Insurance agents and brokers)
+           - CRONIN GERVINO & WARLICK INC : BROKER (Insurance agents and brokers)
+           - DELTA DENTAL PLAN OF NEW HAMPSHIRE : DENTAL CLAIMS PROCESSING (Claims processing)
+   [502]
+    2022: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 205
+    2021: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 187
+    2020: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 187
+    2019: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 183
+    2018: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 187
+    2017: MCLANE MIDDLETON, PROFESSIONAL ASSOCIATION LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 183
    [001]
     2022: MCLANE MIDDLETON PROFESSIONAL ASSOCIATION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H1I 
         Participants: 252
         Assets: 73696167
         $/Participant: 292445
@@ -110,6 +148,8 @@ NH : MANCHESTER
            - EATON VANCE WATER OAK ADVISORS :  (Investment management)
            - FNZ TRUST COMPANY :  (Trustee(directed))
     2021: MCLANE MIDDLETON PROFESSIONAL ASSOCIATION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H1I 
         Participants: 254
         Assets: 87847363
         $/Participant: 345855
@@ -121,6 +161,8 @@ NH : MANCHESTER
            - COLCHESTER GLOBAL INVESTORS LTD
                  : COLCHESTER GLOBAL BOND FUND
     2020: MCLANE MIDDLETON PROFESSIONAL ASSOCIATION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 260
         Assets: 78664447
         $/Participant: 302555
@@ -134,6 +176,8 @@ NH : MANCHESTER
            - COLCHESTER GLOBAL INVESTORS LTD
                  : COLCHESTER GLOBAL BOND FUND
     2019: MCLANE MIDDLETON PROFESSIONAL ASSOCIATION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 262
         Assets: 71285168
         $/Participant: 272080
@@ -146,6 +190,8 @@ NH : MANCHESTER
            - COLCHESTER GLOBAL INVESTORS LTD
                  : COLCHESTER GLOBAL BOND FUND
     2018: MCLANE MIDDLETON PROFESSIONAL ASSOCIATION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 246
         Assets: 59747842
         $/Participant: 242877
@@ -158,6 +204,8 @@ NH : MANCHESTER
            - COLCHESTER GLOBAL INVESTORS LTD
                  : COLCHESTER GLOBAL BOND FUND
     2017: MCLANE MIDDLETON PROFESSIONAL ASSOCIATION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 246
         Assets: 61756157
         $/Participant: 251041

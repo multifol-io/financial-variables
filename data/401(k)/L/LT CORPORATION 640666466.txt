@@ -1,41 +1,8 @@
 MS : CLEVELAND
   LT CORPORATION  640666466
-   [501]
-    2022: LT CORPORATION HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: LT CORPORATION HEALTH AND WELFARE PLAN
-        Participants: 
-   [002]
-    2022: LT CORPORATION & AFFILIATES EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 456
-        Assets: 130739574
-        $/Participant: 286709
-        Service Providers:
-           - REGIONS BANK : TRUSTEE (Trustee(bank, trust company, or similar) | Other fees)
-    2021: LT CORPORATION & AFFILIATES EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 312
-        Assets: 83707290
-        $/Participant: 268292
-        Service Providers:
-           - REGIONS BANK : TRUSTEE (Trustee(bank, trust company, or similar) | Other fees)
-    2020: LT CORPORATION & AFFILIATES EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 246
-        Assets: 66975921
-        $/Participant: 272259
-    2019: LT CORPORATION & AFFILIATES EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 204
-        Assets: 54079785
-        $/Participant: 265096
-    2018: LT CORPORATION & AFFILIATES EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 188
-        Assets: 45852736
-        $/Participant: 243897
-    2017: LT CORPORATION AND AFFILIATES EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 188
-        Assets: 39777863
-        $/Participant: 211584
-   [001]
     2022: LT CORPORATION & AFFILIATES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 505
         Assets: 17295402
         $/Participant: 34248
@@ -45,6 +12,8 @@ MS : CLEVELAND
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2021: LT CORPORATION & AFFILIATES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 405
         Assets: 18797873
         $/Participant: 46414
@@ -54,6 +23,8 @@ MS : CLEVELAND
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2020: LT CORPORATION & AFFILIATES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 354
         Assets: 12756765
         $/Participant: 36036
@@ -63,6 +34,8 @@ MS : CLEVELAND
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2019: LT CORPORATION & AFFILIATES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 329
         Assets: 11253091
         $/Participant: 34203
@@ -72,6 +45,8 @@ MS : CLEVELAND
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2018: LT CORPORATION & AFFILIATES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 227
         Assets: 6881772
         $/Participant: 30316
@@ -81,6 +56,8 @@ MS : CLEVELAND
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2017: LT CORPORATION & AFFILIATES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 235
         Assets: 7212619
         $/Participant: 30691
@@ -106,3 +83,53 @@ MS : CLEVELAND
                  : PRIN REAL ESTATE SECS SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRINCIPAL SMALLCAP SEP ACCT-Z
+   [002]
+    2022: LT CORPORATION & AFFILIATES EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P3H3I 
+        Participants: 456
+        Assets: 130739574
+        $/Participant: 286709
+        Service Providers:
+           - REGIONS BANK : TRUSTEE (Trustee(bank, trust company, or similar) | Other fees)
+    2021: LT CORPORATION & AFFILIATES EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P3H3I 
+        Participants: 312
+        Assets: 83707290
+        $/Participant: 268292
+        Service Providers:
+           - REGIONS BANK : TRUSTEE (Trustee(bank, trust company, or similar) | Other fees)
+    2020: LT CORPORATION & AFFILIATES EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P3H3I 
+        Participants: 246
+        Assets: 66975921
+        $/Participant: 272259
+    2019: LT CORPORATION & AFFILIATES EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P3H3I 
+        Participants: 204
+        Assets: 54079785
+        $/Participant: 265096
+    2018: LT CORPORATION & AFFILIATES EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P3H3I 
+        Participants: 188
+        Assets: 45852736
+        $/Participant: 243897
+    2017: LT CORPORATION AND AFFILIATES EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P3H3I 
+        Participants: 188
+        Assets: 39777863
+        $/Participant: 211584
+   [501]
+    2022: LT CORPORATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: LT CORPORATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 

@@ -1,53 +1,8 @@
 NY : WOODBURY
-  MAXIM GROUP LLC  043640096
-   [501]
-    2022: MAXIM GROUP LLC INSURANCE PLAN
-        Participants: 
-    2021: MAXIM GROUP LLC INSURANCE PLAN
-        Participants: 
-    2020: MAXIM GROUP LLC INSURANCE PLAN
-        Participants: 121
-    2019: MAXIM GROUP LLC INSURANCE PLAN
-        Participants: 127
-    2018: MAXIM GROUP LLC INSURANCE PLAN
-        Participants: 137
-    2017: MAXIM GROUP LLC INSURANCE PLAN
-        Participants: 139
-   [002]
-    2017: MAXIM GROUP, LLC DEFINED CONTRIBUTION PLAN
-        Participants: 0
-        RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
-        Available Investments:
-           - PRINCIPAL GLOBAL INVESTORS TRUST CO
-                 : MORLEY STABLE VALUE FUND
-                 : PRIN LIFETIME HYB 2010 CIT I25
-                 : PRIN LIFETIME HYB 2020 CIT I25
-                 : PRIN LIFETIME HYB 2030 CIT I25
-                 : PRIN LIFETIME HYB 2040 CIT I25
-                 : PRIN LIFETIME HYB 2050 CIT I25
-                 : PRIN LIFETIME HYB INC CIT I25
-           - PRINCIPAL LIFE INSURANCE COMPANY
-                 : PRIN CAPITAL APPR SA-R6
-                 : PRIN CORE PLUS BOND SEP ACT-I2
-                 : PRIN GOVT & HQ SA-R6
-                 : PRIN INFLATION PROTECT SA-R6
-                 : PRIN INTL SMALLCAP SEP ACCT-I2
-                 : PRIN LARGECAP GROWTH I SA-R6
-                 : PRIN LARGECAP VALUE III SA-R6
-                 : PRIN LGCAP S&P 500 INDEX SA-R6
-                 : PRIN LIFE TM STR INC SA-I3
-                 : PRIN LIFETM 2010 SEP ACCT-I3
-                 : PRIN LIFETM 2020 SEP ACCT-I3
-                 : PRIN LIFETM 2030 SEP ACCT-I3
-                 : PRIN LIFETM 2040 SEP ACCT-I3
-                 : PRIN LIFETM 2050 SEP ACCT-I3
-                 : PRIN LIQUID ASSETS SEP ACCT-R6
-                 : PRIN MIDCAP S&P 400IDX SA-R6
-                 : PRIN MIDCAP SEP ACCT-R6
-                 : PRIN SMCAP S&P 600 INDEX SA-R6
-                 : PRIN SMCAP SEP ACCT-R6
-   [001]
+  MAXIM GROUP, LLC  043640096
     2022: MAXIM GROUP, LLC 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K3B 
         Participants: 247
         Assets: 64251376
         $/Participant: 260127
@@ -84,6 +39,8 @@ NY : WOODBURY
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRINCORE PLUS BOND SEP ACT-Z
     2021: MAXIM GROUP, LLC 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K3B 
         Participants: 246
         Assets: 82888639
         $/Participant: 336945
@@ -120,6 +77,8 @@ NY : WOODBURY
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRINCORE PLUS BOND SEP ACT-Z
     2020: MAXIM GROUP, LLC 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K3B 
         Participants: 252
         Assets: 71832065
         $/Participant: 285047
@@ -155,6 +114,8 @@ NY : WOODBURY
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRINCORE PLUS BOND SEP ACT-Z
     2019: MAXIM GROUP, LLC 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K3B 
         Participants: 258
         Assets: 61356596
         $/Participant: 237816
@@ -190,6 +151,8 @@ NY : WOODBURY
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRINCORE PLUS BOND SEP ACT-Z
     2018: MAXIM GROUP, LLC 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K3B 
         Participants: 263
         Assets: 48824930
         $/Participant: 185646
@@ -225,6 +188,8 @@ NY : WOODBURY
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRINCORE PLUS BOND SEP ACT-Z
     2017: MAXIM GROUP, LLC 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K3B 
         Participants: 250
         Assets: 51500376
         $/Participant: 206001
@@ -261,3 +226,63 @@ NY : WOODBURY
                  : PRIN SMALLCAP SEP ACCT-I3
                  : PRIN SMCAP S&P 600 INDEX SA-R6
                  : PRINCORE PLUS BOND SEP ACT-I2
+   [501]
+    2022: MAXIM GROUP LLC INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+    2021: MAXIM GROUP LLC INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 
+    2020: MAXIM GROUP LLC INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 121
+    2019: MAXIM GROUP LLC INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 127
+    2018: MAXIM GROUP LLC INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 137
+    2017: MAXIM GROUP LLC INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 139
+   [002]
+    2017: MAXIM GROUP, LLC DEFINED CONTRIBUTION PLAN
+        Benefit Category: Other
+        Codes: 2A2E2G3B 
+        Participants: 0
+        RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
+        Available Investments:
+           - PRINCIPAL GLOBAL INVESTORS TRUST CO
+                 : MORLEY STABLE VALUE FUND
+                 : PRIN LIFETIME HYB 2010 CIT I25
+                 : PRIN LIFETIME HYB 2020 CIT I25
+                 : PRIN LIFETIME HYB 2030 CIT I25
+                 : PRIN LIFETIME HYB 2040 CIT I25
+                 : PRIN LIFETIME HYB 2050 CIT I25
+                 : PRIN LIFETIME HYB INC CIT I25
+           - PRINCIPAL LIFE INSURANCE COMPANY
+                 : PRIN CAPITAL APPR SA-R6
+                 : PRIN CORE PLUS BOND SEP ACT-I2
+                 : PRIN GOVT & HQ SA-R6
+                 : PRIN INFLATION PROTECT SA-R6
+                 : PRIN INTL SMALLCAP SEP ACCT-I2
+                 : PRIN LARGECAP GROWTH I SA-R6
+                 : PRIN LARGECAP VALUE III SA-R6
+                 : PRIN LGCAP S&P 500 INDEX SA-R6
+                 : PRIN LIFE TM STR INC SA-I3
+                 : PRIN LIFETM 2010 SEP ACCT-I3
+                 : PRIN LIFETM 2020 SEP ACCT-I3
+                 : PRIN LIFETM 2030 SEP ACCT-I3
+                 : PRIN LIFETM 2040 SEP ACCT-I3
+                 : PRIN LIFETM 2050 SEP ACCT-I3
+                 : PRIN LIQUID ASSETS SEP ACCT-R6
+                 : PRIN MIDCAP S&P 400IDX SA-R6
+                 : PRIN MIDCAP SEP ACCT-R6
+                 : PRIN SMCAP S&P 600 INDEX SA-R6
+                 : PRIN SMCAP SEP ACCT-R6

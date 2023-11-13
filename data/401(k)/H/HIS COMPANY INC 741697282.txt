@@ -1,85 +1,137 @@
 TX : HOUSTON
   HIS COMPANY INC  741697282
-   [505]
-    2022: HIS COMPANY, INC. FRINGE BENEFIT PLAN
-        Participants: 327
-    2017: HIS COMPANY, INC. FRINGE BENEFIT PLAN
-        Participants: 
-   [504]
-    2022: HISCO LONG TERM DISABILITY PLAN
-        Participants: 342
-    2021: HISCO LONG TERM DISABILITY PLAN
-        Participants: 
-    2020: HISCO LONG TERM DISABILITY PLAN
-        Participants: 
-    2019: HISCO LONG TERM DISABILITY PLAN
-        Participants: 
-    2018: HISCO LONG TERM DISABILITY PLAN
-        Participants: 
-    2017: HISCO LONG TERM DISABILITY PLAN
-        Participants: 
-   [502]
-    2022: HIS COMPANY INC SEVERANCE PLAN
-        Participants: 376
-    2020: HIS COMPANY INC SEVERANCE PLAN
-        Participants: 406
-   [501]
-    2022: HISCO EMPLOYEE BENEFIT PLAN
-        Participants: 232
-    2021: HISCO EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2020: HISCO EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2019: HISCO EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2018: HISCO EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2017: HISCO EMPLOYEE BENEFIT PLAN
-        Participants: 
-   [002]
-    2021: HISCO EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 515
-        Assets: 131319838
-        $/Participant: 254989
-    2020: HISCO EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 463
-        Assets: 90733100
-        $/Participant: 195967
-    2019: HISCO EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 426
-        Assets: 81741851
-        $/Participant: 191882
-    2018: HISCO EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 434
-        Assets: 80864947
-        $/Participant: 186324
-    2017: HISCO EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 438
-        Assets: 76230397
-        $/Participant: 174042
-   [001]
     2021: HISCO 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2S2T2E2F2J2G3D 
         Participants: 540
         Assets: 36864238
         $/Participant: 68267
         RecordKeeper: STRATEGIC ADVISORS, INC.
     2020: HISCO 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2S2T2E2F2J2G3D 
         Participants: 552
         Assets: 43968646
         $/Participant: 79653
         RecordKeeper: STRATEGIC ADVISORS, INC.
     2019: HISCO 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2J2S2T3D2E2F2G 
         Participants: 490
         Assets: 36383420
         $/Participant: 74251
         RecordKeeper: STRATEGIC ADVISORS,INC.
     2018: HISCO 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D 
         Participants: 473
         Assets: 35526922
         $/Participant: 75109
         RecordKeeper: STRATEGIC ADVISORS, INC.
     2017: HISCO 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D 
         Participants: 452
         Assets: 31088349
         $/Participant: 68779
         RecordKeeper: GALLAGHER BENEFIT SERVICES
+   [002]
+    2021: HISCO EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3H3I 
+        Participants: 515
+        Assets: 131319838
+        $/Participant: 254989
+    2020: HISCO EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3H3I 
+        Participants: 463
+        Assets: 90733100
+        $/Participant: 195967
+    2019: HISCO EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3H3I 
+        Participants: 426
+        Assets: 81741851
+        $/Participant: 191882
+    2018: HISCO EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3H3I 
+        Participants: 434
+        Assets: 80864947
+        $/Participant: 186324
+    2017: HISCO EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3H3I 
+        Participants: 438
+        Assets: 76230397
+        $/Participant: 174042
+   [501]
+    2022: HISCO EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 232
+    2021: HISCO EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2020: HISCO EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2019: HISCO EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2018: HISCO EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2017: HISCO EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+   [504]
+    2021: HISCO LONG TERM DISABILITY PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4F4H4L4Q
+        Participants: 
+   [505]
+    2022: HIS COMPANY, INC. FRINGE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 327
+    2017: HIS COMPANY, INC. FRINGE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [504]
+    2022: HISCO LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 342
+    2020: HISCO LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L4Q
+        Participants: 
+    2019: HISCO LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L4Q
+        Participants: 
+    2018: HISCO LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L4Q
+        Participants: 
+    2017: HISCO LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L
+        Participants: 
+   [502]
+    2022: HIS COMPANY INC SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 376
+    2020: HIS COMPANY INC SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 406

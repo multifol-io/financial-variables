@@ -1,43 +1,8 @@
 MN : NEW ULM
-  J & R SCHUGEL HOLDINGS, INC.  411239449
-   [502]
-    2021: J & R SCHUGEL HOLDINGS, INC. EMPLOYEE BENEFIT PLAN AND TRUST
-        Participants: 429
-    2020: J & R SCHUGEL HOLDINGS, INC. EMPLOYEE BENEFIT PLAN AND TRUST
-        Participants: 462
-    2019: J & R SCHUGEL HOLDINGS, INC. EMPLOYEE BENEFIT PLAN AND TRUST
-        Participants: 602
-    2018: J & R SCHUGEL HOLDINGS, INC. EMPLOYEE BENEFIT PLAN AND TRUST
-        Participants: 657
-    2017: J & R SCHUGEL HOLDINGS, INC. EMPLOYEE BENEFIT PLAN AND TRUST
-        Participants: 358
-   [002]
-    2022: J&R SCHUGEL TRUCKING, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Participants: 722
-        Assets: 73010366
-        $/Participant: 101122
-    2021: J&R SCHUGEL TRUCKING, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Participants: 746
-        Assets: 75878676
-        $/Participant: 101714
-    2020: J&R SCHUGEL TRUCKING, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Participants: 834
-        Assets: 113988905
-        $/Participant: 136677
-    2019: J & R SCHUGEL TRUCKING, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Participants: 759
-        Assets: 105929048
-        $/Participant: 139563
-    2018: J & R SCHUGEL TRUCKING, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Participants: 374
-        Assets: 113741158
-        $/Participant: 304120
-    2017: J & R SCHUGEL TRUCKING, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Participants: 475
-        Assets: 29062965
-        $/Participant: 61185
-   [001]
+  J&R SCHUGEL HOLDING, INC.  411239449
     2021: J&R SCHUGEL HOLDINGS,INC. RET.PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 807
         Assets: 7412273
         $/Participant: 9184
@@ -46,6 +11,8 @@ MN : NEW ULM
            - INVESCO NATIONAL TRUST COMPANY
                  : INVESCO STABLE VALUE
     2020: J & R SCHUGEL HOLDINGS, INC. RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 722
         Assets: 9095518
         $/Participant: 12597
@@ -54,6 +21,8 @@ MN : NEW ULM
            - INVESCO NATIONAL TRUST COMPANY
                  : INVESCO STABLE VALUE
     2019: J & R SCHUGEL HOLDINGS, INC. RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 901
         Assets: 8758564
         $/Participant: 9720
@@ -62,6 +31,8 @@ MN : NEW ULM
            - INVESCO NATIONAL TRUST COMPANY
                  : INVESCO STABLE VALUE
     2018: J & R SCHUGEL HOLDINGS, INC. RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 537
         Assets: 8661576
         $/Participant: 16129
@@ -70,6 +41,8 @@ MN : NEW ULM
            - INVESCO NATIONAL TRUST COMPANY
                  : INVESCO STABLE VALUE
     2017: J & R SCHUGEL HOLDINGS, INC. RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 602
         Assets: 5460988
         $/Participant: 9071
@@ -77,3 +50,61 @@ MN : NEW ULM
         Available Investments:
            - INVESCO NATIONAL TRUST COMPANY
                  : INVESCO STABLE VALUE
+   [002]
+    2022: J&R SCHUGEL TRUCKING, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2P3I 
+        Participants: 722
+        Assets: 73010366
+        $/Participant: 101122
+    2021: J&R SCHUGEL TRUCKING, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2P3I 
+        Participants: 746
+        Assets: 75878676
+        $/Participant: 101714
+    2020: J&R SCHUGEL TRUCKING, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2P3I 
+        Participants: 834
+        Assets: 113988905
+        $/Participant: 136677
+    2019: J & R SCHUGEL TRUCKING, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2P3I 
+        Participants: 759
+        Assets: 105929048
+        $/Participant: 139563
+    2018: J & R SCHUGEL TRUCKING, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2P3I 
+        Participants: 374
+        Assets: 113741158
+        $/Participant: 304120
+    2017: J & R SCHUGEL TRUCKING, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2P3I 
+        Participants: 475
+        Assets: 29062965
+        $/Participant: 61185
+   [502]
+    2021: J & R SCHUGEL HOLDINGS, INC. EMPLOYEE BENEFIT PLAN AND TRUST
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 429
+    2020: J & R SCHUGEL HOLDINGS, INC. EMPLOYEE BENEFIT PLAN AND TRUST
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4E4F4H4L
+        Participants: 462
+    2019: J & R SCHUGEL HOLDINGS, INC. EMPLOYEE BENEFIT PLAN AND TRUST
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4E
+        Participants: 602
+    2018: J & R SCHUGEL HOLDINGS, INC. EMPLOYEE BENEFIT PLAN AND TRUST
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4E
+        Participants: 657
+    2017: J & R SCHUGEL HOLDINGS, INC. EMPLOYEE BENEFIT PLAN AND TRUST
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4E
+        Participants: 358

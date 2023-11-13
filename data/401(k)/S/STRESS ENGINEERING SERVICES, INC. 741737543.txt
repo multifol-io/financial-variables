@@ -1,45 +1,8 @@
 TX : HOUSTON
   STRESS ENGINEERING SERVICES, INC.  741737543
-   [501]
-    2022: STRESS ENGINEERING SERVICES, INC. WELFARE BENEFITS PLAN
-        Participants: 
-    2021: STRESS ENGINEERING SERVICES, INC. WELFARE BENEFITS PLAN
-        Participants: 
-    2020: STRESS ENGINEERING SERVICES, INC. WELFARE BENEFITS PLAN
-        Participants: 
-    2019: STRESS ENGINEERING SERVICES, INC. WELFARE BENEFITS PLAN
-        Participants: 
-    2018: STRESS ENGINEERING SERVICES, INC. WELFARE BENEFITS PLAN
-        Participants: 
-    2017: STRESS ENGINEERING SERVICES, INC. WELFARE BENEFITS PLAN
-        Participants: 
-   [002]
-    2022: STRESS ENGINEERING SERVICES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 390
-        Assets: 22007433
-        $/Participant: 56429
-    2021: STRESS ENGINEERING SERVICES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 435
-        Assets: 21594433
-        $/Participant: 49642
-    2020: STRESS ENGINEERING SERVICES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 457
-        Assets: 38282174
-        $/Participant: 83768
-    2019: STRESS ENGINEERING SERVICES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 463
-        Assets: 56964448
-        $/Participant: 123033
-    2018: STRESS ENGINEERING SERVICES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 483
-        Assets: 61764362
-        $/Participant: 127876
-    2017: STRESS ENGINEERING SERVICES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 478
-        Assets: 58254229
-        $/Participant: 121870
-   [001]
     2022: STRESS ENGINEERING SERVICES, INC. EMPLOYEES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3D2E 
         Participants: 364
         Assets: 103393523
         $/Participant: 284048
@@ -48,6 +11,8 @@ TX : HOUSTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
     2021: STRESS ENGINEERING SERVICES, INC. EMPLOYEES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H3D 
         Participants: 377
         Assets: 129260032
         $/Participant: 342864
@@ -56,6 +21,8 @@ TX : HOUSTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2020: STRESS ENGINEERING SERVICES, INC. EMPLOYEES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H3D 
         Participants: 406
         Assets: 118514852
         $/Participant: 291908
@@ -64,6 +31,8 @@ TX : HOUSTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2019: STRESS ENGINEERING SERVICES, INC. EMPLOYEES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 411
         Assets: 104770258
         $/Participant: 254915
@@ -72,6 +41,8 @@ TX : HOUSTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2018: STRESS ENGINEERING SERVICES, INC. EMPLOYEES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 402
         Assets: 83976455
         $/Participant: 208896
@@ -80,6 +51,8 @@ TX : HOUSTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2017: STRESS ENGINEERING SERVICES, INC. EMPLOYEES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 433
         Assets: 96660781
         $/Participant: 223235
@@ -87,3 +60,65 @@ TX : HOUSTON
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
+   [002]
+    2022: STRESS ENGINEERING SERVICES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
+        Participants: 390
+        Assets: 22007433
+        $/Participant: 56429
+    2021: STRESS ENGINEERING SERVICES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3H3I 
+        Participants: 435
+        Assets: 21594433
+        $/Participant: 49642
+    2020: STRESS ENGINEERING SERVICES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3H3I 
+        Participants: 457
+        Assets: 38282174
+        $/Participant: 83768
+    2019: STRESS ENGINEERING SERVICES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3H3I 
+        Participants: 463
+        Assets: 56964448
+        $/Participant: 123033
+    2018: STRESS ENGINEERING SERVICES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3H3I 
+        Participants: 483
+        Assets: 61764362
+        $/Participant: 127876
+    2017: STRESS ENGINEERING SERVICES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3H3I 
+        Participants: 478
+        Assets: 58254229
+        $/Participant: 121870
+   [501]
+    2022: STRESS ENGINEERING SERVICES, INC. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: STRESS ENGINEERING SERVICES, INC. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: STRESS ENGINEERING SERVICES, INC. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: STRESS ENGINEERING SERVICES, INC. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: STRESS ENGINEERING SERVICES, INC. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: STRESS ENGINEERING SERVICES, INC. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 

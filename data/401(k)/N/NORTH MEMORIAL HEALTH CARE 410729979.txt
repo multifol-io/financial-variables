@@ -1,42 +1,9 @@
 MN : ROBBINSDALE
   NORTH MEMORIAL HEALTH CARE  410729979
-   [520]
-    2022: NORTH MEMORIAL HEALTH CARE WELFARE BENEFIT PLAN
-        Participants: 
-    2021: NORTH MEMORIAL HEALTH CARE WELFARE BENEFIT PLAN
-        Participants: 
-    2020: NORTH MEMORIAL HEALTH CARE WELFARE BENEFIT PLAN
-        Participants: 
-    2019: NORTH MEMORIAL HEALTH CARE WELFARE BENEFIT PLAN
-        Participants: 
-    2018: NORTH MEMORIAL HEALTH CARE WELFARE BENEFIT PLAN
-        Participants: 
-    2017: NORTH MEMORIAL HEALTH CARE WELFARE BENEFIT PLAN
-        Participants: 
-   [511]
-    2022: NORTH MEMORIAL HEALTH CARE NON-CONTRACT SEVERANCE PAY PLAN
-        Participants: 
-    2021: NORTH MEMORIAL HEALTH CARE NON-CONTRACT SEVERANCE PAY PLAN
-        Participants: 
-    2020: NORTH MEMORIAL HEALTH CARE NON-CONTRACT SEVERANCE PAY PLAN
-        Participants: 
-    2019: NORTH MEMORIAL HEALTH CARE NON-CONTRACT SEVERANCE PAY PLAN
-        Participants: 
-   [507]
-    2022: NORTH MEMORIAL HEALTH CARE FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2021: NORTH MEMORIAL HEALTH CARE FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2020: NORTH MEMORIAL HEALTH CARE FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2019: NORTH MEMORIAL HEALTH CARE FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2018: NORTH MEMORIAL HEALTH CARE FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2017: NORTH MEMORIAL HEALTH CARE FLEXIBLE BENEFITS PLAN
-        Participants: 
    [005]
     2022: NORTH MEMORIAL HEALTH CARE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3H 
         Participants: 6606
         Assets: 482283731
         $/Participant: 73006
@@ -59,6 +26,8 @@ MN : ROBBINSDALE
                  : T. ROWE PRICE RETIREMENT 2055 TRUST
                  : T. ROWE PRICE RETIREMENT 2060 TRUST
     2021: NORTH MEMORIAL HEALTH CARE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3H 
         Participants: 4258
         Assets: 515402046
         $/Participant: 121043
@@ -83,6 +52,8 @@ MN : ROBBINSDALE
                  : T. ROWE PRICE RETIRE 2055 TRUST F
                  : T. ROWE PRICE RETIRE 2060 TRUST F
     2020: NORTH MEMORIAL HEALTH CARE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3H 
         Participants: 5483
         Assets: 466319527
         $/Participant: 85048
@@ -103,6 +74,8 @@ MN : ROBBINSDALE
                  : T. ROWE PRICE RETIRE 2055 TRUST F
                  : T. ROWE PRICE RETIRE 2060 TRUST F
     2019: NORTH MEMORIAL HEALTH CARE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3H 
         Participants: 5698
         Assets: 406620636
         $/Participant: 71361
@@ -123,6 +96,8 @@ MN : ROBBINSDALE
                  : T. ROWE PRICE RETIRE 2055 TRUST F
                  : T. ROWE PRICE RETIRE 2060 TRUST F
     2018: NORTH MEMORIAL HEALTH CARE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T 
         Participants: 5902
         Assets: 331317852
         $/Participant: 56136
@@ -131,6 +106,8 @@ MN : ROBBINSDALE
            - FEDERATED
                  : FEDERATED CAPITAL PRESERVATION ISP
     2017: NORTH MEMORIAL HEALTH CARE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T 
         Participants: 721
         Assets: 355059658
         $/Participant: 492454
@@ -138,8 +115,60 @@ MN : ROBBINSDALE
         Available Investments:
            - FEDERATED
                  : FEDERATED CAPITAL PRESERVATION ISP
+   [507]
+    2022: NORTH MEMORIAL HEALTH CARE FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2021: NORTH MEMORIAL HEALTH CARE FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2020: NORTH MEMORIAL HEALTH CARE FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2019: NORTH MEMORIAL HEALTH CARE FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2018: NORTH MEMORIAL HEALTH CARE FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2017: NORTH MEMORIAL HEALTH CARE FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+   [520]
+    2022: NORTH MEMORIAL HEALTH CARE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: NORTH MEMORIAL HEALTH CARE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: NORTH MEMORIAL HEALTH CARE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: NORTH MEMORIAL HEALTH CARE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4H4E4D4F4L
+        Participants: 
+    2018: NORTH MEMORIAL HEALTH CARE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4H4E4D4F4L
+        Participants: 
+    2017: NORTH MEMORIAL HEALTH CARE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4H4E4D4F4L
+        Participants: 
    [004]
     2020: NORTH MEMORIAL HEALTH CARE MONEY PURCHASE PENSION PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2R2T3H 
         Participants: 0
         RecordKeeper: NATIONAL FINANCIAL SERVICES
         Available Investments:
@@ -158,6 +187,8 @@ MN : ROBBINSDALE
                  : T. ROWE PRICE RETIRE 2055 TRUST F
                  : T. ROWE PRICE RETIRE 2060 TRUST F
     2019: NORTH MEMORIAL HEALTH CARE MONEY PURCHASE PENSION PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2R2T3H 
         Participants: 3319
         Assets: 89618733
         $/Participant: 27001
@@ -178,6 +209,8 @@ MN : ROBBINSDALE
                  : T. ROWE PRICE RETIRE 2055 TRUST F
                  : T. ROWE PRICE RETIRE 2060 TRUST F
     2018: NORTH MEMORIAL HEALTH CARE MONEY PURCHASE PENSION PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2R2T3H 
         Participants: 3443
         Assets: 74579397
         $/Participant: 21661
@@ -186,6 +219,8 @@ MN : ROBBINSDALE
            - FEDERATED
                  : FEDERATED CAPITAL PRESERVATION Y
     2017: NORTH MEMORIAL HEALTH CARE MONEY PURCHASE PENSION PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2R2T 
         Participants: 3472
         Assets: 82641129
         $/Participant: 23802
@@ -195,6 +230,8 @@ MN : ROBBINSDALE
                  : FEDERATED CAPITAL PRESERVATION ISP
    [001]
     2022: NORTH MEMORIAL HEALTH CARE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 847
         Assets: 40291853
         $/Participant: 47570
@@ -208,6 +245,8 @@ MN : ROBBINSDALE
            - SEI TRUST COMPANY
                  : EARNEST PARTNERS SMID CAP CORE
     2021: NORTH MEMORIAL HEALTH CARE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 909
         Assets: 54860429
         $/Participant: 60352
@@ -223,6 +262,8 @@ MN : ROBBINSDALE
            - SEI TRUST COMPANY
                  : EARNEST PARTNERS SMID CAP CORE
     2020: NORTH MEMORIAL HEALTH CARE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 954
         Assets: 52722917
         $/Participant: 55265
@@ -232,6 +273,8 @@ MN : ROBBINSDALE
            - WILLIAM BLAIR & COMPANY, LLC :  (Investment advisory(plan) | Investment management fees paid directly by plan | Securities brokerage commissions and fees)
            - WILLIS TOWERS WATSON US LLC :  (Actuarial | Direct payment from the plan)
     2019: NORTH MEMORIAL HEALTH CARE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 1011
         Assets: 51622331
         $/Participant: 51060
@@ -242,6 +285,8 @@ MN : ROBBINSDALE
            - WILLIAM BLAIR & COMPANY, LLC :  (Investment advisory(plan) | Investment management fees paid directly by plan | Securities brokerage commissions and fees)
            - CAPITAL GUARDIAN TRUST COMPANY :  (Investment advisory(plan) | Investment management fees paid indirectly by plan | Investment management fees paid directly by plan | Securities brokerage commissions and fees)
     2018: NORTH MEMORIAL HEALTH CARE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 1081
         Assets: 47609414
         $/Participant: 44042
@@ -252,6 +297,8 @@ MN : ROBBINSDALE
            - WEDGE CAPITAL MANAGEMENT LLP :  (Investment advisory(plan) | Securities brokerage commissions and fees | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
            - CAPITAL GUARDIAN TRUST COMPANY :  (Investment advisory(plan) | Investment management fees paid indirectly by plan | Investment management fees paid directly by plan | Securities brokerage commissions and fees)
     2017: NORTH MEMORIAL HEALTH CARE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 1178
         Assets: 54956662
         $/Participant: 46652
@@ -261,3 +308,20 @@ MN : ROBBINSDALE
            - WEDGE CAPITAL MANAGEMENT LLP :  (Investment management fees paid indirectly by plan | Investment advisory(plan) | Securities brokerage commissions and fees | Investment management fees paid directly by plan)
            - WILLIAM BLAIR & COMPANY, LLC :  (Investment advisory(plan) | Investment management fees paid directly by plan | Securities brokerage commissions and fees)
            - CAPITAL GUARDIAN TRUST COMPANY :  (Investment advisory(plan) | Investment management fees paid indirectly by plan | Investment management fees paid directly by plan | Securities brokerage commissions and fees)
+   [511]
+    2022: NORTH MEMORIAL HEALTH CARE NON-CONTRACT SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2021: NORTH MEMORIAL HEALTH CARE NON-CONTRACT SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2020: NORTH MEMORIAL HEALTH CARE NON-CONTRACT SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2019: NORTH MEMORIAL HEALTH CARE NON-CONTRACT SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

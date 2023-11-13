@@ -1,59 +1,9 @@
 AZ : PHOENIX
   FENNEMORE CRAIG, P.C.  860293128
-   [503]
-    2022: FENNEMORE CRAIG, P.C. EMPLOYEE SEVERANCE PLAN
-        Participants: 489
-AS : PHOENIX
-    2021: FENNEMORE CRAIG, P.C. EMPLOYEE SEVERANCE PLAN
-        Participants: 359
-AZ : PHOENIX
-    2020: FENNEMORE CRAIG, P.C. EMPLOYEE SEVERANCE PLAN
-        Participants: 335
-    2019: FENNEMORE CRAIG, P.C. EMPLOYEE SEVERANCE PLAN
-        Participants: 288
-    2018: FENNEMORE CRAIG, P.C. EMPLOYEE SEVERANCE PLAN
-        Participants: 280
-    2017: FENNEMORE CRAIG, P.C. EMPLOYEE SEVERANCE PLAN
-        Participants: 327
-   [502]
-    2022: FENNEMORE CRAIG, P.C. INSURED WELFARE PLAN
-        Participants: 465
-    2021: FENNEMORE CRAIG, P.C. INSURED WELFARE PLAN
-        Participants: 341
-    2020: FENNEMORE CRAIG, P.C. INSURED WELFARE PLAN
-        Participants: 317
-    2019: FENNEMORE CRAIG, P.C. INSURED WELFARE PLAN
-        Participants: 267
-    2018: FENNEMORE CRAIG, P.C. INSURED WELFARE PLAN
-        Participants: 263
-    2017: FENNEMORE CRAIG, P.C. INSURED WELFARE PLAN
-        Participants: 318
-   [501]
-    2022: FENNEMORE CRIAG, P.C. MEDICAL AND EAP PLAN
-        Participants: 500
-    2021: FENNEMORE CRAIG, P.C. MEDICAL AND EAP PLAN
-        Participants: 368
-    2020: FENNEMORE CRAIG, P.C. MEDICAL AND EAP PLAN
-        Participants: 341
-    2019: FENNEMORE CRAIG, P.C. MEDICAL AND EAP PLAN
-        Participants: 291
-    2018: FENNEMORE CRAIG, P.C. MEDICAL AND EAP PLAN
-        Participants: 293
-    2017: FENNEMORE CRAIG, P.C. MEDICAL AND EAP PLAN
-        Participants: 335
-   [003]
-    2022: FENNEMORE CRAIG 401(K) PLAN FOR ASSOCIATES AND OF COUNSEL
-        Participants: 137
-        Available Investments:
-           - T. ROWE PRICE
-                 : RETIREMENT TRUSTS, CLASS A
-    2021: FENNEMORE CRAIG 401(K) PLAN FOR ASSOCIATES AND OF COUNSEL
-        Participants: 108
-        Available Investments:
-           - T. ROWE PRICE
-                 : RETIREMENT TRUSTS, CLASS A
    [001]
     2022: FENNEMORE CRAIG RETIREMENT PLAN FOR DIRECTORS AND STAFF
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T 
         Participants: 601
         Assets: 165565098
         $/Participant: 275482
@@ -62,6 +12,8 @@ AZ : PHOENIX
            - T. ROWE PRICE
                  : RETIREMENT TRUSTS, CLASS A
     2021: FENNEMORE CRAIG RETIREMENT PLAN FOR DIRECTORS AND STAFF
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T 
         Participants: 462
         Assets: 183266919
         $/Participant: 396681
@@ -70,6 +22,8 @@ AZ : PHOENIX
            - T. ROWE PRICE
                  : RETIREMENT TRUSTS, CLASS A
     2020: FENNEMORE CRAIG RETIREMENT PLAN FOR DIRECTORS AND STAFF
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T 
         Participants: 436
         Assets: 166418948
         $/Participant: 381694
@@ -78,6 +32,8 @@ AZ : PHOENIX
            - T. ROWE PRICE
                  : RETIREMENT TRUSTS, CLASS A
     2019: RETIREMENT PLAN AND TRUST OF FENNEMORE CRAIG, P.C.
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T 
         Participants: 494
         Assets: 181527555
         $/Participant: 367464
@@ -86,6 +42,8 @@ AZ : PHOENIX
            - T. ROWE PRICE
                  : RETIREMENT TRUSTS, CLASS A
     2018: RETIREMENT PLAN AND TRUST OF FENNEMORE CRAIG, P.C.
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T 
         Participants: 481
         Assets: 153997120
         $/Participant: 320160
@@ -94,6 +52,8 @@ AZ : PHOENIX
            - T. ROWE PRICE
                  : RETIREMENT TRUSTS, CLASS A
     2017: RETIREMENT PLAN AND TRUST OF FENNEMORE CRAIG, P.C.
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T2S 
         Participants: 556
         Assets: 175518891
         $/Participant: 315681
@@ -101,3 +61,95 @@ AZ : PHOENIX
         Available Investments:
            - T. ROWE PRICE
                  : RETIREMENT TRUSTS, CLASS A
+   [003]
+    2022: FENNEMORE CRAIG 401(K) PLAN FOR ASSOCIATES AND OF COUNSEL
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T 
+        Participants: 137
+        Available Investments:
+           - T. ROWE PRICE
+                 : RETIREMENT TRUSTS, CLASS A
+    2021: FENNEMORE CRAIG 401(K) PLAN FOR ASSOCIATES AND OF COUNSEL
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T 
+        Participants: 108
+        Available Investments:
+           - T. ROWE PRICE
+                 : RETIREMENT TRUSTS, CLASS A
+   [501]
+    2022: FENNEMORE CRIAG, P.C. MEDICAL AND EAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
+        Participants: 500
+    2021: FENNEMORE CRAIG, P.C. MEDICAL AND EAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
+        Participants: 368
+    2020: FENNEMORE CRAIG, P.C. MEDICAL AND EAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
+        Participants: 341
+    2019: FENNEMORE CRAIG, P.C. MEDICAL AND EAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
+        Participants: 291
+    2018: FENNEMORE CRAIG, P.C. MEDICAL AND EAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
+        Participants: 293
+    2017: FENNEMORE CRAIG, P.C. MEDICAL AND EAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
+        Participants: 335
+   [502]
+    2022: FENNEMORE CRAIG, P.C. INSURED WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4H4Q
+        Participants: 465
+    2021: FENNEMORE CRAIG, P.C. INSURED WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4H4Q
+        Participants: 341
+    2020: FENNEMORE CRAIG, P.C. INSURED WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4H4Q
+        Participants: 317
+    2019: FENNEMORE CRAIG, P.C. INSURED WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4H4Q
+        Participants: 267
+    2018: FENNEMORE CRAIG, P.C. INSURED WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4H4Q
+        Participants: 263
+    2017: FENNEMORE CRAIG, P.C. INSURED WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4H4Q
+        Participants: 318
+   [503]
+    2022: FENNEMORE CRAIG, P.C. EMPLOYEE SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 489
+AS : PHOENIX
+    2021: FENNEMORE CRAIG, P.C. EMPLOYEE SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 359
+AZ : PHOENIX
+    2020: FENNEMORE CRAIG, P.C. EMPLOYEE SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 335
+    2019: FENNEMORE CRAIG, P.C. EMPLOYEE SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 288
+    2018: FENNEMORE CRAIG, P.C. EMPLOYEE SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 280
+    2017: FENNEMORE CRAIG, P.C. EMPLOYEE SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 327

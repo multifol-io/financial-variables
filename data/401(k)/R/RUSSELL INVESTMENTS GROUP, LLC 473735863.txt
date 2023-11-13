@@ -1,48 +1,9 @@
 WA : SEATTLE
   RUSSELL INVESTMENTS GROUP, LLC  473735863
-   [510]
-    2022: RUSSELL INVESTMENTS GROUP, LLC EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - PREMERA BLUE CROSS : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-           - ESI : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-           - MATRIX ABSENCE MANAGEMENT, INC. :  (Claims processing)
-           - VEBTEGRA : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2021: RUSSELL INVESTMENTS GROUP, LLC EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - DELTA DENTAL OF WASHINGTON : CLAIMS PROCESSING (Contract Administrator)
-           - ESI : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-           - PREMERA BLUE CROSS : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-           - MATRIX ABSENCE MANAGEMENT, INC. :  (Claims processing)
-           - ALLIANT INSURANCE SERVICES INC : BROKER (Insurance agents and brokers)
-           - VEBTEGRA : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2020: RUSSELL INVESTMENTS GROUP, LLC EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - DELTA DENTAL OF WASHINGTON : CLAIMS PROCESSING (Contract Administrator)
-           - WELLSPRING FAMILY SERVICES : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2019: RUSSELL INVESTMENTS GROUP, LLC EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2018: RUSSELL INVESTMENTS GROUP, LLC EMPLOYEE BENEFIT PLAN
-        Participants: 
-   [509]
-    2017: FRANK RUSSELL COMPANY DBA RUSSELL INVESTMENT COMPANY FLEXIBLE BENEFITS PLAN
-        Participants: 
-   [508]
-    2017: FRANK RUSSELL COMPANY SEVERANCE PLAN
-        Participants: 
-   [503]
-    2017: FRANK RUSSELL EMPLOYEE DENTAL BENEFIT PLAN
-        Participants: 
-   [502]
-    2017: FRANK RUSSELL COMPANY EMPLOYEE BENEFIT LIFE AND DISABILITY INSURANCE PLAN
-        Participants: 
-   [501]
-    2017: FRANK RUSSELL COMPANY EMPLOYEE MEDICAL PLAN
-        Participants: 
    [002]
     2022: RUSSELL INVESTMENTS RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T2S 
         Participants: 1585
         Assets: 536571563
         $/Participant: 338530
@@ -63,6 +24,8 @@ WA : SEATTLE
                  : RITC WORLD EQUITY FUND
                  : RUSSELL EQUITY 1000 INDEX FUND
     2021: RUSSELL INVESTMENTS RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T2S 
         Participants: 1577
         Assets: 640212920
         $/Participant: 405968
@@ -83,6 +46,8 @@ WA : SEATTLE
                  : RITC WORLD EQUITY FUND
                  : RUSSELL EQUITY 1000 INDEX FUND
     2020: RUSSELL INVESTMENTS RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T2S 
         Participants: 1600
         Assets: 588616144
         $/Participant: 367885
@@ -103,6 +68,8 @@ WA : SEATTLE
                  : RITC WORLD EQUITY FUND
                  : RUSSELL EQUITY 1000 INDEX FUND
     2019: RUSSELL INVESTMENTS RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T2S 
         Participants: 1680
         Assets: 548304669
         $/Participant: 326371
@@ -123,6 +90,8 @@ WA : SEATTLE
                  : RITC WORLD EQUITY FUND
                  : RUSSELL EQUITY 1000 INDEX FUND
     2018: RUSSELL INVESTMENTS RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T2S 
         Participants: 1706
         Assets: 483329277
         $/Participant: 283311
@@ -143,6 +112,8 @@ WA : SEATTLE
                  : RITC WORLD EQUITY FUND
                  : RUSSELL EQUITY 1000 INDEX FUND
     2017: RUSSELL INVESTMENTS RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T2S 
         Participants: 1765
         Assets: 536138401
         $/Participant: 303761
@@ -162,3 +133,69 @@ WA : SEATTLE
                  : RITC SMALL CAP FUND
                  : RITC WORLD EQUITY FUND
                  : RUSSELL EQUITY 1000 INDEX FUND
+   [501]
+    2017: FRANK RUSSELL COMPANY EMPLOYEE MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+   [509]
+    2017: FRANK RUSSELL COMPANY DBA RUSSELL INVESTMENT COMPANY FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [510]
+    2022: RUSSELL INVESTMENTS GROUP, LLC EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+        Service Providers:
+           - PREMERA BLUE CROSS : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
+           - ESI : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
+           - MATRIX ABSENCE MANAGEMENT, INC. :  (Claims processing)
+           - VEBTEGRA : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
+    2021: RUSSELL INVESTMENTS GROUP, LLC EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+        Service Providers:
+           - DELTA DENTAL OF WASHINGTON : CLAIMS PROCESSING (Contract Administrator)
+           - ESI : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
+           - PREMERA BLUE CROSS : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
+           - MATRIX ABSENCE MANAGEMENT, INC. :  (Claims processing)
+           - ALLIANT INSURANCE SERVICES INC : BROKER (Insurance agents and brokers)
+           - VEBTEGRA : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
+    2020: RUSSELL INVESTMENTS GROUP, LLC EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+        Service Providers:
+           - DELTA DENTAL OF WASHINGTON : CLAIMS PROCESSING (Contract Administrator)
+           - WELLSPRING FAMILY SERVICES : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
+    2019: RUSSELL INVESTMENTS GROUP, LLC EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2018: RUSSELL INVESTMENTS GROUP, LLC EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+   [502]
+    2017: FRANK RUSSELL COMPANY EMPLOYEE BENEFIT LIFE AND DISABILITY INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L
+        Participants: 
+   [503]
+    2017: FRANK RUSSELL EMPLOYEE DENTAL BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+   [508]
+    2017: FRANK RUSSELL COMPANY SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

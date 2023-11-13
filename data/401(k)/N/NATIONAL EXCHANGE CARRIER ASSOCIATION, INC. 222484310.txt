@@ -1,67 +1,8 @@
 NJ : MORRISTOWN
   NATIONAL EXCHANGE CARRIER ASSOCIATION, INC.  222484310
-   [515]
-    2022: FLEXIBLE BENEFITS PLAN
-        Participants: 69
-    2021: FLEXIBLE BENEFITS PLAN
-        Participants: 80
-    2020: FLEXIBLE BENEFITS PLAN
-        Participants: 85
-    2019: FLEXIBLE BENEFITS PLAN
-        Participants: 95
-NJ : WHIPPANY
-    2018: FLEXIBLE BENEFITS PLAN
-        Participants: 99
-    2017: FLEXIBLE BENEFITS PLAN 2017
-        Participants: 101
-NJ : MORRISTOWN
-   [510]
-    2022: FORCE ADJUSTMENT PLAN
-        Participants: 187
-    2021: FORCE ADJUSTMENT PLAN
-        Participants: 189
-    2020: FORCE ADJUSTMENT PLAN
-        Participants: 196
-    2019: FORCE ADJUSTMENT PLAN
-        Participants: 209
-NJ : WHIPPANY
-    2018: FORCE ADJUSTMENT PLAN
-        Participants: 213
-    2017: FORCE ADJUSTMENT PLAN
-        Participants: 217
-NJ : MORRISTOWN
-   [505]
-    2022: GROUP LONG TERM DISABILITY
-        Participants: 160
-    2021: GROUP LONG TERM DISABILITY
-        Participants: 167
-    2020: GROUP LONG TERM DISABILITY
-        Participants: 176
-    2019: GROUP LONG TERM DISABILITY
-        Participants: 187
-NJ : WHIPPANY
-    2018: GROUP LONG TERM DISABILITY
-        Participants: 192
-    2017: GROUP LONG TERM DISABILITY
-        Participants: 197
-NJ : MORRISTOWN
-   [501]
-    2022: GROUP INSURANCE
-        Participants: 167
-    2021: GROUP INSURANCE
-        Participants: 169
-    2020: GROUP INSURANCE
-        Participants: 176
-    2019: GROUP INSURANCE
-        Participants: 188
-NJ : WHIPPANY
-    2018: GROUP INSURANCE
-        Participants: 193
-    2017: GROUP INSURANCE
-        Participants: 197
-NJ : MORRISTOWN
-   [001]
     2022: NATIONAL EXCHANGE CARRIER ASSOCIATION RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T 
         Participants: 229
         Assets: 161791849
         $/Participant: 706514
@@ -85,6 +26,8 @@ NJ : MORRISTOWN
                  : PRIN LGCP S&P 500 INDEX SA-Z
                  : PRIN MIDCAP S&P 400 IDX SA-Z
     2021: NATIONAL EXCHANGE CARRIER ASSOCIATION RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T 
         Participants: 221
         Assets: 199819235
         $/Participant: 904159
@@ -108,6 +51,8 @@ NJ : MORRISTOWN
                  : PRIN LGCP S&P 500 INDEX SA-Z
                  : PRIN MIDCAP S&P 400 IDX SA-Z
     2020: NATIONAL EXCHANGE CARRIER ASSOCIATION RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T 
         Participants: 229
         Assets: 184043696
         $/Participant: 803684
@@ -130,6 +75,8 @@ NJ : MORRISTOWN
                  : PRIN LGCP S&P 500 INDEX SA-Z
                  : PRIN MIDCAP S&P 400 IDX SA-Z
     2019: NATIONAL EXCHANGE CARRIER ASSOCIATION RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T 
         Participants: 232
         Assets: 159306195
         $/Participant: 686664
@@ -154,6 +101,8 @@ NJ : MORRISTOWN
                  : PRIN MIDCAP S&P 400 IDX SA-I5
 NJ : WHIPPANY
     2018: NATIONAL EXCHANGE CARRIER ASSOCIATION RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T 
         Participants: 242
         Assets: 138519482
         $/Participant: 572394
@@ -177,6 +126,8 @@ NJ : WHIPPANY
                  : PRIN LGCAP S&P 500 INDEX SA-I5
                  : PRIN MIDCAP S&P 400 IDX SA-I5
     2017: NATIONAL EXCHANGE CARRIER ASSOCIATION RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T 
         Participants: 247
         Assets: 144083730
         $/Participant: 583334
@@ -185,3 +136,111 @@ NJ : WHIPPANY
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN LGCAP S&P 500 INDEX SA-I5
                  : PRIN MIDCAP S&P 400 IDX SA-I5
+NJ : MORRISTOWN
+   [515]
+    2022: FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4Q
+        Participants: 69
+    2021: FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4Q
+        Participants: 80
+    2020: FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4Q
+        Participants: 85
+    2019: FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4Q
+        Participants: 95
+NJ : WHIPPANY
+    2018: FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4Q
+        Participants: 99
+    2017: FLEXIBLE BENEFITS PLAN 2017
+        Benefit Category: Healthcare
+        Codes:  4A4Q
+        Participants: 101
+NJ : MORRISTOWN
+   [501]
+    2022: GROUP INSURANCE
+        Benefit Category: Other
+        Codes:  4B4L4Q
+        Participants: 167
+    2021: GROUP INSURANCE
+        Benefit Category: Other
+        Codes:  4B4L4Q
+        Participants: 169
+    2020: GROUP INSURANCE
+        Benefit Category: Other
+        Codes:  4B4L4Q
+        Participants: 176
+    2019: GROUP INSURANCE
+        Benefit Category: Other
+        Codes:  4B4L4Q
+        Participants: 188
+NJ : WHIPPANY
+    2018: GROUP INSURANCE
+        Benefit Category: Other
+        Codes:  4B4L4Q
+        Participants: 193
+    2017: GROUP INSURANCE
+        Benefit Category: Other
+        Codes:  4B4L4Q
+        Participants: 197
+NJ : MORRISTOWN
+   [505]
+    2022: GROUP LONG TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 160
+    2021: GROUP LONG TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 167
+    2020: GROUP LONG TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 176
+    2019: GROUP LONG TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 187
+NJ : WHIPPANY
+    2018: GROUP LONG TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 192
+    2017: GROUP LONG TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 197
+NJ : MORRISTOWN
+   [510]
+    2022: FORCE ADJUSTMENT PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 187
+    2021: FORCE ADJUSTMENT PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 189
+    2020: FORCE ADJUSTMENT PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 196
+    2019: FORCE ADJUSTMENT PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 209
+NJ : WHIPPANY
+    2018: FORCE ADJUSTMENT PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 213
+    2017: FORCE ADJUSTMENT PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 217

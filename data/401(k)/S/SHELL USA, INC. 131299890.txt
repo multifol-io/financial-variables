@@ -1,49 +1,9 @@
 TX : HOUSTON
   SHELL USA, INC.  131299890
-   [596]
-    2022: SHELL OIL COMPANY 1996 COLI CONSENT INCENTIVE BENEFIT PLAN
-        Participants: 
-    2021: SHELL OIL COMPANY 1996 COLI CONSENT INCENTIVE BENEFIT PLAN
-        Participants: 
-    2020: SHELL OIL COMPANY 1996 COLI CONSENT INCENTIVE BENEFIT PLAN
-        Participants: 
-    2019: SHELL OIL COMPANY 1996 COLI CONSENT INCENTIVE BENEFIT PLAN
-        Participants: 
-    2018: SHELL OIL COMPANY 1996 COLI CONSENT INCENTIVE BENEFIT PLAN
-        Participants: 
-    2017: SHELL OIL COMPANY 1996 COLI CONSENT INCENTIVE BENEFIT PLAN
-        Participants: 
-   [524]
-    2022: SHELL SEVERANCE PAY PLAN
-        Participants: 
-    2021: SHELL SEVERANCE PAY PLAN
-        Participants: 
-    2020: SHELL SEVERANCE PAY PLAN
-        Participants: 
-    2019: SHELL SEVERANCE PAY PLAN
-        Participants: 
-    2018: SHELL SEVERANCE PAY PLAN
-        Participants: 
-    2017: SHELL SEVERANCE PAY PLAN
-        Participants: 
-   [501]
-    2019: SHELL OIL COMPANY COMPREHENSIVE WELFARE BENEFITS PLAN
-        Participants: 
-        Assets: 114365336
-        $/Participant: 
-        RecordKeeper: GLOBAL HEALTHCARE ALLIANCE
-    2018: SHELL OIL COMPANY COMPREHENSIVE WELFARE BENEFITS PLAN
-        Participants: 
-        Assets: 139138597
-        $/Participant: 
-        RecordKeeper: GLOBAL HEALTHCARE ALLIANCE
-    2017: SHELL OIL COMPANY COMPREHENSIVE WELFARE BENEFITS PLAN
-        Participants: 
-        Assets: 254344984
-        $/Participant: 
-        RecordKeeper: GLOBAL HEALTHCARE ALLIANCE
    [002]
     2022: SHELL PROVIDENT FUND
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T3H 
         Participants: 25739
         Assets: 9510657123
         $/Participant: 369503
@@ -71,6 +31,8 @@ TX : HOUSTON
            - GEODE CAPITAL MANAGEMENT TRUST CO, LLC
                  : SPARTAN 500 INDEX POOL
     2021: SHELL PROVIDENT FUND
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2K3H2J2R2T2S 
         Participants: 27019
         Assets: 11927888007
         $/Participant: 441462
@@ -98,6 +60,8 @@ TX : HOUSTON
            - GEODE CAPITAL MANAGEMENT TRUST CO, LLC
                  : SPARTAN 500 INDEX POOL
     2020: SHELL PROVIDENT FUND
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2K3H2J2R2T2S 
         Participants: 28887
         Assets: 11437065718
         $/Participant: 395924
@@ -143,6 +107,8 @@ TX : HOUSTON
                  : FMTC U.S. EQUITY INDEX COMMINGLED P
                  : LIFEPATH INDEX 2055 FUND F
     2019: SHELL PROVIDENT FUND
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2K3H2J2R2T2S 
         Participants: 30869
         Assets: 11737855574
         $/Participant: 380247
@@ -187,6 +153,8 @@ TX : HOUSTON
                  : FMTC U.S. EQUITY INDEX COMMINGLED P
                  : LIFEPATH INDEX 2055 FUND F
     2018: SHELL PROVIDENT FUND
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2K3H2J2R2T2S 
         Participants: 33454
         Assets: 10105326756
         $/Participant: 302066
@@ -232,6 +200,8 @@ TX : HOUSTON
                  : FMTC U.S. EQUITY INDEX COMMINGLED P
                  : LIFEPATH INDEX 2055 FUND F
     2017: SHELL PROVIDENT FUND
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2K3H2J2R2T2S 
         Participants: 34367
         Assets: 11017074589
         $/Participant: 320571
@@ -276,8 +246,57 @@ TX : HOUSTON
                  : FIDELITY OTC COMMINGLED POOL
                  : FMTC U.S. EQUITY INDEX COMMINGLED P
                  : LIFEPATH INDEX 2055 FUND F
+   [501]
+    2019: SHELL OIL COMPANY COMPREHENSIVE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q4F
+        Participants: 
+        Assets: 114365336
+        $/Participant: 
+        RecordKeeper: GLOBAL HEALTHCARE ALLIANCE
+    2018: SHELL OIL COMPANY COMPREHENSIVE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q4F
+        Participants: 
+        Assets: 139138597
+        $/Participant: 
+        RecordKeeper: GLOBAL HEALTHCARE ALLIANCE
+    2017: SHELL OIL COMPANY COMPREHENSIVE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q4F
+        Participants: 
+        Assets: 254344984
+        $/Participant: 
+        RecordKeeper: GLOBAL HEALTHCARE ALLIANCE
+   [596]
+    2022: SHELL OIL COMPANY 1996 COLI CONSENT INCENTIVE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2021: SHELL OIL COMPANY 1996 COLI CONSENT INCENTIVE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2020: SHELL OIL COMPANY 1996 COLI CONSENT INCENTIVE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2019: SHELL OIL COMPANY 1996 COLI CONSENT INCENTIVE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2018: SHELL OIL COMPANY 1996 COLI CONSENT INCENTIVE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2017: SHELL OIL COMPANY 1996 COLI CONSENT INCENTIVE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
    [001]
     2022: SHELL PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H 
         Participants: 54109
         Assets: 14642588618
         $/Participant: 270612
@@ -300,6 +319,8 @@ TX : HOUSTON
            - WELLINGTON MANAGEMENT COMPANY
                  : WTC CTF EMERGING LOCAL DEBT
     2021: SHELL PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H 
         Participants: 55146
         Assets: 18804942845
         $/Participant: 341002
@@ -322,6 +343,8 @@ TX : HOUSTON
            - WELLINGTON MANAGEMENT COMPANY
                  : WTC CTF EMERGING LOCAL DEBT
     2020: SHELL PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H 
         Participants: 56160
         Assets: 17921249472
         $/Participant: 319110
@@ -344,6 +367,8 @@ TX : HOUSTON
            - WELLINGTON MANAGEMENT COMPANY
                  : WTC CTF EMERGING LOCAL DEBT
     2019: SHELL PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H 
         Participants: 57521
         Assets: 16217999130
         $/Participant: 281949
@@ -366,6 +391,8 @@ TX : HOUSTON
            - WELLINGTON MANAGEMENT COMPANY
                  : WTC CTF EMERGING LOCAL DEBT
     2018: SHELL PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H 
         Participants: 57520
         Assets: 14551954931
         $/Participant: 252989
@@ -388,6 +415,8 @@ TX : HOUSTON
            - WELLINGTON MANAGEMENT COMPANY
                  : WTC CTF EMERGING LOCAL DEBT
     2017: SHELL PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H 
         Participants: 57915
         Assets: 15077089393
         $/Participant: 260331
@@ -407,3 +436,28 @@ TX : HOUSTON
                  : U.S. DEBT INDEX FUND
            - THE BANK OF NEW YORK MELLON
                  : COLLECTIVE TRUST GOVERNMENT STIF
+   [524]
+    2022: SHELL SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2021: SHELL SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2020: SHELL SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2019: SHELL SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2018: SHELL SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2017: SHELL SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

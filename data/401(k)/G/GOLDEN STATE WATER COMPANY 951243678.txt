@@ -1,69 +1,9 @@
 CA : SAN DIMAS
   GOLDEN STATE WATER COMPANY  951243678
-   [509]
-    2022: GOLDEN STATE WATER COMPANY FLEXIBLE BENEFIT PLAN
-        Participants: 
-    2021: GOLDEN STATE WATER COMPANY FLEXIBLE BENEFIT PLAN
-        Participants: 
-    2020: GOLDEN STATE WATER COMPANY FLEXIBLE BENEFIT PLAN
-        Participants: 
-    2019: GOLDEN STATE WATER COMPANY FLEXIBLE BENEFIT PLAN
-        Participants: 
-    2018: GOLDEN STATE WATER COMPANY FLEXIBLE BENEFIT PLAN
-        Participants: 
-    2017: GOLDEN STATE WATER COMPANY FLEXIBLE BENEFIT PLAN
-        Participants: 
-   [501]
-    2022: GSWC WELFARE BENEFITS PLAN FOR ACTIVE AND RETIRED EMPLOYEES
-        Participants: 
-        Assets: 11276985
-        $/Participant: 
-        Service Providers:
-           - MERCER HR CONSULTING :  (Actuarial)
-           - BDO USA, P.C. :  (Accounting(including auditing))
-    2021: GSWC WELFARE BENEFITS PLAN FOR ACTIVE AND RETIRED EMPLOYEES
-        Participants: 
-        Assets: 13930845
-        $/Participant: 
-        Service Providers:
-           - MERCER HR CONSULTING :  (Actuarial)
-           - BDO USA, LLP :  (Accounting(including auditing))
-    2020: GSWC WELFARE BENEFITS PLAN FOR ACTIVE AND RETIRED EMPLOYEES
-        Participants: 
-        Assets: 12430424
-        $/Participant: 
-        Service Providers:
-           - MERCER HR CONSULTING :  (Actuarial)
-           - BDO SEIDMAN LLP :  (Accounting(including auditing))
-           - WELLS FARGO BANK :  (Trustee(bank, trust company, or similar))
-    2019: GSWC WELFARE BENEFITS PLAN FOR ACTIVE AND RETIRED EMPLOYEES
-        Participants: 
-        Assets: 11387185
-        $/Participant: 
-        Service Providers:
-           - MERCER HR CONSULTING :  (Actuarial)
-           - BDO SEIDMAN LLP :  (Accounting(including auditing))
-           - WELLS FARGO BANK :  (Trustee(bank, trust company, or similar))
-    2018: GSWC WELFARE BENEFITS PLAN FOR ACTIVE AND RETIRED EMPLOYEES
-        Participants: 
-        Assets: 10067457
-        $/Participant: 
-        Service Providers:
-           - BDO SEIDMAN LLP :  (Accounting(including auditing))
-           - MERCER HR CONSULTING :  (Actuarial)
-           - WELLS FARGO BANK :  (Trustee(bank, trust company, or similar))
-    2017: GSWC WELFARE BENEFITS PLAN FOR ACTIVE AND RETIRED EMPLOYEES
-        Participants: 
-        Assets: 11079392
-        $/Participant: 
-        Service Providers:
-           - MERCER :  (Actuarial)
-           - BDO SEIDMAN LLP :  (Accounting(including auditing))
-           - WELLS FARGO BANK :  (Trustee(bank, trust company, or similar))
-           - BDO USA, LLP :  (Accounting(including auditing))
-           - O'MELVENY & MYERS LLP :  (Legal)
    [005]
     2021: GOLDEN STATE WATER COMPANY INVESTMENT INCENTIVE PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 1184
         Assets: 172233819
         $/Participant: 145467
@@ -105,6 +45,8 @@ CA : SAN DIMAS
                  : T ROWE PRICE RET 2060 TRUST A
                  : T ROWE PRICE RET 2065 TRUST A
     2020: GOLDEN STATE WATER COMPANY INVESTMENT INCENTIVE PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 1202
         Assets: 219497198
         $/Participant: 182609
@@ -144,6 +86,8 @@ CA : SAN DIMAS
                  : T ROWE PRICE RET 2060 TRUST A
                  : T ROWE PRICE RET 2065 TRUST A
     2019: GOLDEN STATE WATER COMPANY INVESTMENT INCENTIVE PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 1178
         Assets: 195775419
         $/Participant: 166193
@@ -160,6 +104,8 @@ CA : SAN DIMAS
            - PRUDENTIAL CTF
                  : PRUDENTIAL CORE PLUS BOND FUND
     2018: GOLDEN STATE WATER COMPANY INVESTMENT INCENTIVE PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 1178
         Assets: 186304762
         $/Participant: 158153
@@ -176,6 +122,8 @@ CA : SAN DIMAS
            - PRUDENTIAL CTF
                  : PRUDENTIAL CORE PLUS BOND FUND
     2017: GOLDEN STATE WATER COMPANY INVESTMENT INCENTIVE PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 1136
         Assets: 158019571
         $/Participant: 139101
@@ -191,8 +139,96 @@ CA : SAN DIMAS
                  : PRINCIPAL DIV RA CIT T1
            - PRUDENTIAL CTF
                  : PRUDENTIAL CORE PL BD CL 5 CTF
+   [501]
+    2022: GSWC WELFARE BENEFITS PLAN FOR ACTIVE AND RETIRED EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Assets: 11276985
+        $/Participant: 
+        Service Providers:
+           - MERCER HR CONSULTING :  (Actuarial)
+           - BDO USA, P.C. :  (Accounting(including auditing))
+    2021: GSWC WELFARE BENEFITS PLAN FOR ACTIVE AND RETIRED EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Assets: 13930845
+        $/Participant: 
+        Service Providers:
+           - MERCER HR CONSULTING :  (Actuarial)
+           - BDO USA, LLP :  (Accounting(including auditing))
+    2020: GSWC WELFARE BENEFITS PLAN FOR ACTIVE AND RETIRED EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Assets: 12430424
+        $/Participant: 
+        Service Providers:
+           - MERCER HR CONSULTING :  (Actuarial)
+           - BDO SEIDMAN LLP :  (Accounting(including auditing))
+           - WELLS FARGO BANK :  (Trustee(bank, trust company, or similar))
+    2019: GSWC WELFARE BENEFITS PLAN FOR ACTIVE AND RETIRED EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Assets: 11387185
+        $/Participant: 
+        Service Providers:
+           - MERCER HR CONSULTING :  (Actuarial)
+           - BDO SEIDMAN LLP :  (Accounting(including auditing))
+           - WELLS FARGO BANK :  (Trustee(bank, trust company, or similar))
+    2018: GSWC WELFARE BENEFITS PLAN FOR ACTIVE AND RETIRED EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Assets: 10067457
+        $/Participant: 
+        Service Providers:
+           - BDO SEIDMAN LLP :  (Accounting(including auditing))
+           - MERCER HR CONSULTING :  (Actuarial)
+           - WELLS FARGO BANK :  (Trustee(bank, trust company, or similar))
+    2017: GSWC WELFARE BENEFITS PLAN FOR ACTIVE AND RETIRED EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Assets: 11079392
+        $/Participant: 
+        Service Providers:
+           - MERCER :  (Actuarial)
+           - BDO SEIDMAN LLP :  (Accounting(including auditing))
+           - WELLS FARGO BANK :  (Trustee(bank, trust company, or similar))
+           - BDO USA, LLP :  (Accounting(including auditing))
+           - O'MELVENY & MYERS LLP :  (Legal)
+   [509]
+    2022: GOLDEN STATE WATER COMPANY FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4R
+        Participants: 
+    2021: GOLDEN STATE WATER COMPANY FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2020: GOLDEN STATE WATER COMPANY FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2019: GOLDEN STATE WATER COMPANY FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2018: GOLDEN STATE WATER COMPANY FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2017: GOLDEN STATE WATER COMPANY FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
    [001]
     2021: GOLDEN STATE WATER COMPANY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 896
         Assets: 189852822
         $/Participant: 211889
@@ -211,6 +247,8 @@ CA : SAN DIMAS
            - STATE STREET GLOBAL ADVISORS
                  : REIT INDEX NON-LENDING FUND CLASS A
     2020: GOLDEN STATE WATER COMPANY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 905
         Assets: 234157679
         $/Participant: 258737
@@ -229,6 +267,8 @@ CA : SAN DIMAS
            - STATE STREET GLOBAL ADVISORS
                  : REIT INDEX NON-LENDING FUND CLASS A
     2019: GOLDEN STATE WATER COMPANY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 913
         Assets: 209966606
         $/Participant: 229974
@@ -247,6 +287,8 @@ CA : SAN DIMAS
            - STATE STREET GLOBAL ADVISORS
                  : REIT INDEX NON-LENDING FUND CLASS A
     2018: GOLDEN STATE WATER COMPANY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 928
         Assets: 195929094
         $/Participant: 211130
@@ -265,6 +307,8 @@ CA : SAN DIMAS
            - STATE STREET GLOBAL ADVISORS
                  : REIT INDEX NON-LENDING FUND CLASS A
     2017: GOLDEN STATE WATER COMPANY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 935
         Assets: 166441519
         $/Participant: 178012

@@ -1,62 +1,9 @@
 TN : KNOXVILLE
   BUSH BROTHERS & COMPANY  620145910
-   [510]
-    2022: BUSH BROTHERS & COMPANY EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2021: BUSH BROTHERS & COMPANY EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2020: BUSH BROTHERS & COMPANY EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2019: BUSH BROTHERS & COMPANY EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2018: BUSH BROTHERS & COMPANY EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2017: BUSH BROTHERS & COMPANY EMPLOYEE BENEFIT PLAN
-        Participants: 
-   [501]
-    2022: GROUP INSURANCE PLAN AT BUSH BROTHERS & COMPANY
-        Participants: 
-        Assets: 1077151
-        $/Participant: 
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-           - OPTUMRX, INC. : RX ADMINISTRATOR (Claims processing | Direct payment from the plan | Float revenue | Other fees)
-    2021: GROUP INSURANCE PLAN AT BUSH BROTHERS & COMPANY
-        Participants: 
-        Assets: 646705
-        $/Participant: 
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-           - OPTUMRX, INC. : RX ADMINISTRATOR (Claims processing | Direct payment from the plan | Float revenue | Other fees)
-    2020: GROUP INSURANCE PLAN AT BUSH BROTHERS & COMPANY
-        Participants: 
-        Assets: 669452
-        $/Participant: 
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-           - OPTUM : RX ADMINISTRATOR (Claims processing)
-    2019: GROUP INSURANCE PLAN AT BUSH BROTHERS & COMPANY
-        Participants: 
-        Assets: 547882
-        $/Participant: 
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-           - OPTUM : RX ADMINISTRATOR (Claims processing)
-    2018: GROUP INSURANCE PLAN AT BUSH BROTHERS & COMPANY
-        Participants: 
-        Assets: 437350
-        $/Participant: 
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-           - OPTUM : RX ADMINISTRATOR (Claims processing)
-    2017: GROUP INSURANCE PLAN AT BUSH BROTHERS & COMPANY
-        Participants: 
-        Assets: 464745
-        $/Participant: 
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
    [003]
     2022: BUSH BROTHERS & COMPANY EMPLOYEES' 401(K) PLAN AND TRUST AGREEMENT
+        Benefit Category: 401(k)
+        Codes: 2S2E2G2J2F2T3F 
         Participants: 782
         Assets: 50620372
         $/Participant: 64731
@@ -65,6 +12,8 @@ TN : KNOXVILLE
            - MORLEY FINANCIAL SERVICES, INC.
                  : MORLEY STABLE VALUE FUND FEE CLASS
     2021: BUSH BROTHERS & COMPANY EMPLOYEES' 401(K) PLAN AND TRUST AGREEMENT
+        Benefit Category: 401(k)
+        Codes: 2S2E2G2J2F2T3F 
         Participants: 800
         Assets: 65538943
         $/Participant: 81923
@@ -73,6 +22,8 @@ TN : KNOXVILLE
            - UNION BOND & TRUST COMPANY
                  : UNION BOND & TRUST STABLE VALUE FD
     2020: BUSH BROTHERS & COMPANY EMPLOYEES' 401(K) PLAN AND TRUST AGREEMENT
+        Benefit Category: 401(k)
+        Codes: 2J2G2T2E2F3D 
         Participants: 785
         Assets: 58437804
         $/Participant: 74443
@@ -81,6 +32,8 @@ TN : KNOXVILLE
            - UNION BOND AND TRUST COMPANY
                  : UNION BOND & TRUST STABLE VALUE FD
     2019: BUSH BROTHERS & COMPANY EMPLOYEES' 401(K) PLAN AND TRUST AGREEMENT
+        Benefit Category: 401(k)
+        Codes: 2J2G2T2E2F3D 
         Participants: 746
         Assets: 52918444
         $/Participant: 70936
@@ -89,6 +42,8 @@ TN : KNOXVILLE
            - UNION BOND AND TRUST COMPANY
                  : UNION BOND & TRUST STABLE VALUE FD
     2018: BUSH BROTHERS & COMPANY EMPLOYEES' 401(K) PLAN AND TRUST AGREEMENT
+        Benefit Category: 401(k)
+        Codes: 2J2G2T2E2F3D 
         Participants: 784
         Assets: 45349429
         $/Participant: 57843
@@ -97,6 +52,8 @@ TN : KNOXVILLE
            - UNION BOND AND TRUST COMPANY
                  : UNION BOND & TRUST STABLE VALUE FD
     2017: BUSH BROTHERS & COMPANY EMPLOYEES' 401(K) PLAN AND TRUST AGREEMENT
+        Benefit Category: 401(k)
+        Codes: 2J2G2T2E2F3D 
         Participants: 769
         Assets: 48586742
         $/Participant: 63181
@@ -104,8 +61,89 @@ TN : KNOXVILLE
         Available Investments:
            - UNION BOND AND TRUST COMPANY
                  : UNION BOND & TRUST STABLE VALUE FD
+   [501]
+    2022: GROUP INSURANCE PLAN AT BUSH BROTHERS & COMPANY
+        Benefit Category: Healthcare
+        Codes:  4A4F
+        Participants: 
+        Assets: 1077151
+        $/Participant: 
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+           - OPTUMRX, INC. : RX ADMINISTRATOR (Claims processing | Direct payment from the plan | Float revenue | Other fees)
+    2021: GROUP INSURANCE PLAN AT BUSH BROTHERS & COMPANY
+        Benefit Category: Healthcare
+        Codes:  4A4F
+        Participants: 
+        Assets: 646705
+        $/Participant: 
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+           - OPTUMRX, INC. : RX ADMINISTRATOR (Claims processing | Direct payment from the plan | Float revenue | Other fees)
+    2020: GROUP INSURANCE PLAN AT BUSH BROTHERS & COMPANY
+        Benefit Category: Healthcare
+        Codes:  4A4F
+        Participants: 
+        Assets: 669452
+        $/Participant: 
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+           - OPTUM : RX ADMINISTRATOR (Claims processing)
+    2019: GROUP INSURANCE PLAN AT BUSH BROTHERS & COMPANY
+        Benefit Category: Healthcare
+        Codes:  4A4F
+        Participants: 
+        Assets: 547882
+        $/Participant: 
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+           - OPTUM : RX ADMINISTRATOR (Claims processing)
+    2018: GROUP INSURANCE PLAN AT BUSH BROTHERS & COMPANY
+        Benefit Category: Healthcare
+        Codes:  4A4F
+        Participants: 
+        Assets: 437350
+        $/Participant: 
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+           - OPTUM : RX ADMINISTRATOR (Claims processing)
+    2017: GROUP INSURANCE PLAN AT BUSH BROTHERS & COMPANY
+        Benefit Category: Healthcare
+        Codes:  4A4F
+        Participants: 
+        Assets: 464745
+        $/Participant: 
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE CO. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+   [510]
+    2022: BUSH BROTHERS & COMPANY EMPLOYEE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4D4E4F4H4L4Q
+        Participants: 
+    2021: BUSH BROTHERS & COMPANY EMPLOYEE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4D4E4F4H4L4Q
+        Participants: 
+    2020: BUSH BROTHERS & COMPANY EMPLOYEE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4D4E4F4H4L4Q
+        Participants: 
+    2019: BUSH BROTHERS & COMPANY EMPLOYEE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4D4E4F4H4L4Q
+        Participants: 
+    2018: BUSH BROTHERS & COMPANY EMPLOYEE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4D4E4F4H4L4Q
+        Participants: 
+    2017: BUSH BROTHERS & COMPANY EMPLOYEE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4D4E4F4H4L4Q
+        Participants: 
    [001]
     2022: THE RETIREMENT PLAN FOR EMPLOYEES OF BUSH BROTHERS & COMPANY
+        Benefit Category: Pension
+        Codes: 1A3D3F 
         Participants: 723
         Assets: 196259255
         $/Participant: 271451
@@ -113,6 +151,8 @@ TN : KNOXVILLE
            - JANNEY MONTGOMERY SCOTT, LLC :  (Investment management)
            - REGIONS MORGAN KEEGAN TRUST :  (Trustee(bank, trust company, or similar))
     2021: THE RETIREMENT PLAN FOR EMPLOYEES OF BUSH BROTHERS & COMPANY
+        Benefit Category: Pension
+        Codes: 1A3D3F 
         Participants: 737
         Assets: 235192608
         $/Participant: 319121
@@ -121,6 +161,8 @@ TN : KNOXVILLE
            - REGIONS MORGAN KEEGAN TRUST :  (Trustee(bank, trust company, or similar))
            - COULTER & JUSTUS, P.C. :  (Accounting(including auditing))
     2020: THE RETIREMENT PLAN FOR EMPLOYEES OF BUSH BROTHERS & COMPANY
+        Benefit Category: Pension
+        Codes: 1A3D3F 
         Participants: 711
         Assets: 190748572
         $/Participant: 268282
@@ -128,6 +170,8 @@ TN : KNOXVILLE
            - JANNEY MONTGOMERY SCOTT, LLC :  (Investment management)
            - REGIONS MORGAN KEEGAN TRUST :  (Trustee(bank, trust company, or similar))
     2019: THE RETIREMENT PLAN FOR EMPLOYEES OF BUSH BROTHERS & COMPANY
+        Benefit Category: Pension
+        Codes: 1A3D3F 
         Participants: 751
         Assets: 190559849
         $/Participant: 253741
@@ -135,6 +179,8 @@ TN : KNOXVILLE
            - JANNEY MONTGOMERY SCOTT, LLC :  (Investment management)
            - REGIONS MORGAN KEEGAN TRUST :  (Trustee(bank, trust company, or similar))
     2018: THE RETIREMENT PLAN FOR EMPLOYEES OF BUSH BROTHERS & COMPANY
+        Benefit Category: Pension
+        Codes: 1A3D3F 
         Participants: 731
         Assets: 157521641
         $/Participant: 215487
@@ -142,6 +188,8 @@ TN : KNOXVILLE
            - JANNEY MONTGOMERY SCOTT, LLC :  (Investment management)
            - REGIONS MORGAN KEEGAN TRUST :  (Trustee(bank, trust company, or similar))
     2017: THE RETIREMENT PLAN FOR EMPLOYEES OF BUSH BROTHERS & COMPANY
+        Benefit Category: Pension
+        Codes: 1A3D3F 
         Participants: 747
         Assets: 145163492
         $/Participant: 194328

@@ -1,81 +1,36 @@
 MN : MINNEAPOLIS
   BOWMAN AND BROOKE LLP  411510639
-   [507]
-    2022: BOWMAN AND BROOKE HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-   [506]
-    2019: BOWMAN AND BROOKE VOLUNTARY BENEFITS
-        Participants: 
-    2018: BOWMAN AND BROOKE VOLUNTARY BENEFITS
-        Participants: 
-    2017: BOWMAN AND BROOKE VOLUNTARY BENEFITS
-        Participants: 
-   [504]
-    2021: BOWMAN AND BROOKE LONG TERM CARE PLAN
-        Participants: 
-    2020: BOWMAN AND BROOKE LONG TERM CARE PLAN
-        Participants: 
-    2019: BOWMAN AND BROOKE LONG TERM CARE PLAN
-        Participants: 
-    2018: BOWMAN AND BROOKE LONG TERM CARE PLAN
-        Participants: 
-    2017: BOWMAN AND BROOKE LONG TERM CARE PLAN
-        Participants: 
-   [503]
-    2021: BOWMAN AND BROOKE LIFE INSURANCE PLAN
-        Participants: 
-    2020: BOWMAN AND BROOKE LIFE INSURANCE PLAN
-        Participants: 
-    2019: BOWMAN AND BROOKE LIFE INSURANCE PLAN
-        Participants: 
-    2018: BOWMAN AND BROOKE LIFE INSURANCE PLAN
-        Participants: 
-    2017: BOWMAN AND BROOKE LIFE INSURANCE PLAN
-        Participants: 
-   [502]
-    2021: BOWMAN AND BROOKE LONG TERM AND SHORT TERM DISABILITY PLAN
-        Participants: 
-    2020: BOWMAN AND BROOKE LONG TERM AND SHORT TERM DISABILITY PLAN
-        Participants: 
-    2019: BOWMAN AND BROOKE LONG TERM AND SHORT TERM DISABILITY PLAN
-        Participants: 
-    2018: BOWMAN AND BROOKE LONG TERM AND SHORT TERM DISABILITY PLAN
-        Participants: 
-    2017: BOWMAN AND BROOKE LONG TERM AND SHORT TERM DISABILITY PLAN
-        Participants: 
-   [501]
-    2021: BOWMAN AND BROOKE GROUP HEALTH PLAN
-        Participants: 
-    2020: BOWMAN AND BROOKE GROUP HEALTH PLAN
-        Participants: 
-    2019: BOWMAN AND BROOKE GROUP HEALTH PLAN
-        Participants: 
-    2018: BOWMAN AND BROOKE GROUP HEALTH PLAN
-        Participants: 
-    2017: BOWMAN AND BROOKE GROUP HEALTH PLAN
-        Participants: 
-   [001]
     2022: BOWMAN AND BROOKE LLP RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2S2T 
         Participants: 636
         Assets: 156393469
         $/Participant: 245901
         RecordKeeper: MATRIX TRUST COMPANY
     2021: BOWMAN AND BROOKE LLP RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2S2T 
         Participants: 636
         Assets: 207299976
         $/Participant: 325943
         RecordKeeper: MATRIX TRUST COMPANY
     2020: BOWMAN AND BROOKE LLP RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2S2T 
         Participants: 643
         Assets: 186338090
         $/Participant: 289794
         RecordKeeper: BMO HARRIS BANK, NA
     2019: BOWMAN AND BROOKE LLP RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2S2T 
         Participants: 644
         Assets: 164789705
         $/Participant: 255884
         RecordKeeper: BMO HARRIS BANK NA
     2018: BOWMAN AND BROOKE LLP RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2S2T 
         Participants: 636
         Assets: 138770466
         $/Participant: 218192
@@ -84,6 +39,8 @@ MN : MINNEAPOLIS
            - BMO HARRIS BANK, N.A.
                  : BMO STABLE VALUE FUND
     2017: BOWMAN AND BROOKE LLP RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2S2T 
         Participants: 634
         Assets: 143564881
         $/Participant: 226443
@@ -91,3 +48,105 @@ MN : MINNEAPOLIS
         Available Investments:
            - BMO HARRIS BANK, N.A.
                  : BMO STABLE VALUE FUND
+   [501]
+    2021: BOWMAN AND BROOKE GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2020: BOWMAN AND BROOKE GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2019: BOWMAN AND BROOKE GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2018: BOWMAN AND BROOKE GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2017: BOWMAN AND BROOKE GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+   [507]
+    2022: BOWMAN AND BROOKE HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+   [502]
+    2021: BOWMAN AND BROOKE LONG TERM AND SHORT TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 
+    2020: BOWMAN AND BROOKE LONG TERM AND SHORT TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 
+    2019: BOWMAN AND BROOKE LONG TERM AND SHORT TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 
+    2018: BOWMAN AND BROOKE LONG TERM AND SHORT TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 
+    2017: BOWMAN AND BROOKE LONG TERM AND SHORT TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 
+   [503]
+    2021: BOWMAN AND BROOKE LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2020: BOWMAN AND BROOKE LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2019: BOWMAN AND BROOKE LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2018: BOWMAN AND BROOKE LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2017: BOWMAN AND BROOKE LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+   [504]
+    2021: BOWMAN AND BROOKE LONG TERM CARE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2020: BOWMAN AND BROOKE LONG TERM CARE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2019: BOWMAN AND BROOKE LONG TERM CARE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2018: BOWMAN AND BROOKE LONG TERM CARE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2017: BOWMAN AND BROOKE LONG TERM CARE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+   [506]
+    2019: BOWMAN AND BROOKE VOLUNTARY BENEFITS
+        Benefit Category: Other
+        Codes:  4Q4R
+        Participants: 
+    2018: BOWMAN AND BROOKE VOLUNTARY BENEFITS
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2017: BOWMAN AND BROOKE VOLUNTARY BENEFITS
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 

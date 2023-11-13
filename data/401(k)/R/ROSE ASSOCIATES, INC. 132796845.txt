@@ -1,59 +1,8 @@
 NY : NEW YORK
   ROSE ASSOCIATES, INC.  132796845
-   [504]
-    2022: ROSE ASSOCIATES, INC. VISION PLAN
-        Participants: 
-    2021: ROSE ASSOCIATES, INC. VISION PLAN
-        Participants: 
-    2020: ROSE ASSOCIATES, INC. VISION PLAN
-        Participants: 
-    2019: ROSE ASSOCIATES, INC. VISION PLAN
-        Participants: 
-    2018: ROSE ASSOCIATES, INC. VISION PLAN
-        Participants: 
-    2017: ROSE ASSOCIATES, INC. VISION PLAN
-        Participants: 
-   [503]
-    2022: ROSE ASSOCIATES, INC. LIFE INSURANCE AND AD&D PLAN
-        Participants: 
-    2021: ROSE ASSOCIATES, INC. LIFE INSURANCE AND AD&D PLAN
-        Participants: 
-    2020: ROSE ASSOCIATES, INC. LIFE INSURANCE AND AD&D PLAN
-        Participants: 
-    2019: ROSE ASSOCIATES, INC. LIFE INSURANCE AND AD&D PLAN
-        Participants: 
-    2018: ROSE ASSOCIATES, INC. LIFE INSURANCE AND AD&D PLAN
-        Participants: 
-    2017: ROSE ASSOCIATES, INC. LIFE INSURANCE AND AD&D PLAN
-        Participants: 
-   [502]
-    2022: ROSE ASSOCIATES, INC. DENTAL PLAN
-        Participants: 
-    2021: ROSE ASSOCIATES, INC. DENTAL PLAN
-        Participants: 
-    2020: ROSE ASSOCIATES, INC. DENTAL PLAN
-        Participants: 
-    2019: ROSE ASSOCIATES, INC. DENTAL PLAN
-        Participants: 
-    2018: ROSE ASSOCIATES, INC. DENTAL PLAN
-        Participants: 
-    2017: ROSE ASSOCIATES, INC. DENTAL PLAN
-        Participants: 
-   [501]
-    2022: ROSE ASSOCIATES, INC. HEALTH PLAN
-        Participants: 
-    2021: ROSE ASSOCIATES, INC. HEALTH PLAN
-        Participants: 
-    2020: ROSE ASSOCIATES, INC. HEALTH PLAN
-        Participants: 
-    2019: ROSE ASSOCIATES, INC. HEALTH PLAN
-        Participants: 
-    2018: ROSE ASSOCIATES, INC. HEALTH PLAN
-        Participants: 
-    2017: ROSE ASSOCIATES, INC. HEALTH PLAN
-        Participants: 
-   [002]
     2022: ROSE ASSOCIATES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 383
         Assets: 19498470
         $/Participant: 50909
@@ -62,6 +11,8 @@ NY : NEW YORK
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND CLASS 20
     2021: ROSE ASSOCIATES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D3H 
         Participants: 347
         Assets: 22673180
         $/Participant: 65340
@@ -70,6 +21,8 @@ NY : NEW YORK
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND CLASS 20
     2020: ROSE ASSOCIATES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D3H 
         Participants: 336
         Assets: 18320134
         $/Participant: 54524
@@ -78,6 +31,8 @@ NY : NEW YORK
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND CLASS 20
     2019: ROSE ASSOCIATES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D3H 
         Participants: 315
         Assets: 15375592
         $/Participant: 48811
@@ -86,6 +41,8 @@ NY : NEW YORK
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND 20
     2018: ROSE ASSOCIATES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D3H 
         Participants: 311
         Assets: 12312760
         $/Participant: 39590
@@ -94,37 +51,151 @@ NY : NEW YORK
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND 20
     2017: ROSE ASSOCIATES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D 
         Participants: 322
         Assets: 13434071
         $/Participant: 41720
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+   [501]
+    2022: ROSE ASSOCIATES, INC. HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: ROSE ASSOCIATES, INC. HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2020: ROSE ASSOCIATES, INC. HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: ROSE ASSOCIATES, INC. HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: ROSE ASSOCIATES, INC. HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: ROSE ASSOCIATES, INC. HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [502]
+    2022: ROSE ASSOCIATES, INC. DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2021: ROSE ASSOCIATES, INC. DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2020: ROSE ASSOCIATES, INC. DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2019: ROSE ASSOCIATES, INC. DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2018: ROSE ASSOCIATES, INC. DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2017: ROSE ASSOCIATES, INC. DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+   [503]
+    2022: ROSE ASSOCIATES, INC. LIFE INSURANCE AND AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 
+    2021: ROSE ASSOCIATES, INC. LIFE INSURANCE AND AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 
+    2020: ROSE ASSOCIATES, INC. LIFE INSURANCE AND AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 
+    2019: ROSE ASSOCIATES, INC. LIFE INSURANCE AND AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 
+    2018: ROSE ASSOCIATES, INC. LIFE INSURANCE AND AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 
+    2017: ROSE ASSOCIATES, INC. LIFE INSURANCE AND AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 
+   [504]
+    2022: ROSE ASSOCIATES, INC. VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2021: ROSE ASSOCIATES, INC. VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2020: ROSE ASSOCIATES, INC. VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2019: ROSE ASSOCIATES, INC. VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2018: ROSE ASSOCIATES, INC. VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2017: ROSE ASSOCIATES, INC. VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
    [001]
     2022: ROSE ASSOCIATES, INC. PENSION TRUST
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 121
         Assets: 26587041
         $/Participant: 219727
         RecordKeeper: ROBERTS & HOLLAND, LLP
     2021: ROSE ASSOCIATES, INC. PENSION TRUST
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 122
         Assets: 33354717
         $/Participant: 273399
         RecordKeeper: PKF O'CONNOR DAVIES, LLP
     2020: ROSE ASSOCIATES, INC. PENSION TRUST
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 128
         Assets: 32186879
         $/Participant: 251459
         RecordKeeper: ROBERTS & HOLLAND LLP
     2019: ROSE ASSOCIATES, INC. PENSION TRUST
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 128
         Assets: 28859859
         $/Participant: 225467
         RecordKeeper: ROBERTS & HOLLAND LLP
     2018: ROSE ASSOCIATES, INC. PENSION TRUST
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 200
         Assets: 29983122
         $/Participant: 149915
         RecordKeeper: ROBERTS & HOLLAND LLP
     2017: ROSE ASSOCIATES, INC. PENSION TRUST
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 200
         Assets: 32764089
         $/Participant: 163820

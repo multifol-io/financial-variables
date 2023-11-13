@@ -1,64 +1,9 @@
 IA : PELLA
   PRECISION, INC.  421089098
-   [541]
-    2022: PRECISION, INC. HEALTH & WELFARE BENEFITS PLAN
-        Participants: 
-    2021: PRECISION, INC. HEALTH & WELFARE BENEFITS PLAN
-        Participants: 
-    2020: PRECISION, INC. FLEXIBLE SPENDING ACCOUNT
-        Participants: 
-    2019: PRECISION, INC. FLEXIBLE SPENDING ACCOUNT
-        Participants: 
-    2018: PRECISION, INC. FLEXIBLE SPENDING ACCOUNT
-        Participants: 
-    2017: PRECISION, INC. FLEXIBLE SPENDING ACCOUNT
-        Participants: 
-   [515]
-    2020: PRECISION, INC. VISION PLAN
-        Participants: 
-    2019: PRECISION, INC. VISION PLAN
-        Participants: 
-   [510]
-    2020: PRECISION, INC. HEALTH CARE PLAN
-        Participants: 
-    2019: PRECISION, INC. HEALTH CARE PLAN
-        Participants: 
-    2018: PRECISION, INC. HEALTH CARE PLAN
-        Participants: 
-    2017: PRECISION, INC. HEALTH CARE PLAN
-        Participants: 
-   [503]
-    2020: PRECISION, INC. LIFE AND AD&D INSURANCE PLAN
-        Participants: 
-    2019: PRECISION, INC. LIFE AND AD&D INSURANCE PLAN
-        Participants: 
-    2018: PRECISION, INC. LIFE AND AD&D INSURANCE PLAN
-        Participants: 
-    2017: PRECISION, INC. LIFE AND AD&D INSURANCE PLAN
-        Participants: 
-   [002]
-    2021: PRECISION, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Participants: 761
-        Assets: 366681303
-        $/Participant: 481841
-    2020: PRECISION, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Participants: 838
-        Assets: 354755256
-        $/Participant: 423335
-    2019: PRECISION, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Participants: 912
-        Assets: 296755181
-        $/Participant: 325389
-    2018: PRECISION, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 720
-        Assets: 282749328
-        $/Participant: 392707
-    2017: PRECISION, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 648
-        Assets: 315733139
-        $/Participant: 487242
    [001]
     2021: PRECISION, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D3H 
         Participants: 890
         Assets: 37724886
         $/Participant: 42387
@@ -68,6 +13,8 @@ IA : PELLA
                  : PRIN HIGH YIELD SEP ACCT-Z
                  : PRIN REAL ESTATE SECS SA-Z
     2020: PRECISION, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D3H 
         Participants: 843
         Assets: 46930136
         $/Participant: 55670
@@ -77,6 +24,8 @@ IA : PELLA
                  : PRIN HIGH YIELD SEP ACCT-Z
                  : PRIN REAL ESTATE SECS SA-Z
     2019: PRECISION, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D3H 
         Participants: 885
         Assets: 40660321
         $/Participant: 45943
@@ -86,6 +35,8 @@ IA : PELLA
                  : PRIN HIGH YIELD SEP ACCT-Z
                  : PRIN REAL ESTATE SECS SA-Z
     2018: PRECISION, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D3H 
         Participants: 957
         Assets: 35538514
         $/Participant: 37135
@@ -95,6 +46,8 @@ IA : PELLA
                  : PRIN HIGH YIELD SEP ACCT-Z
                  : PRIN REAL ESTATE SECS SA-Z
     2017: PRECISION, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D3H 
         Participants: 744
         Assets: 30165904
         $/Participant: 40545
@@ -105,3 +58,102 @@ IA : PELLA
                  : PRIN REAL ESTATE SECS SA-Z
            - WELLS FARGO MUTUAL FUNDS
                  : WELLS FARGO STABLE RETURN FUND N25
+   [002]
+    2021: PRECISION, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2P2Q3I 
+        Participants: 761
+        Assets: 366681303
+        $/Participant: 481841
+    2020: PRECISION, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2P2Q3I 4B
+        Participants: 838
+        Assets: 354755256
+        $/Participant: 423335
+    2019: PRECISION, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2P2Q3I 
+        Participants: 912
+        Assets: 296755181
+        $/Participant: 325389
+    2018: PRECISION, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2O2Q3I 
+        Participants: 720
+        Assets: 282749328
+        $/Participant: 392707
+    2017: PRECISION, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2O2Q3I 
+        Participants: 648
+        Assets: 315733139
+        $/Participant: 487242
+   [510]
+    2020: PRECISION, INC. HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2019: PRECISION, INC. HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2018: PRECISION, INC. HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+    2017: PRECISION, INC. HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+   [541]
+    2022: PRECISION, INC. HEALTH & WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2021: PRECISION, INC. HEALTH & WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2020: PRECISION, INC. FLEXIBLE SPENDING ACCOUNT
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: PRECISION, INC. FLEXIBLE SPENDING ACCOUNT
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: PRECISION, INC. FLEXIBLE SPENDING ACCOUNT
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: PRECISION, INC. FLEXIBLE SPENDING ACCOUNT
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [503]
+    2020: PRECISION, INC. LIFE AND AD&D INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4E4H4L
+        Participants: 
+    2019: PRECISION, INC. LIFE AND AD&D INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4E4H4L
+        Participants: 
+    2018: PRECISION, INC. LIFE AND AD&D INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4E4H4L
+        Participants: 
+    2017: PRECISION, INC. LIFE AND AD&D INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4E4H4L
+        Participants: 
+   [515]
+    2020: PRECISION, INC. VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2019: PRECISION, INC. VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 

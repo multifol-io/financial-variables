@@ -2,19 +2,29 @@ IL : WOODRIDGE
   GERBER PLUMBING FIXTURES LLC  571143272
    [501]
     2022: EMPLOYEE GROUP INSURANCE BENEFIT
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
         Participants: 
     2021: EMPLOYEE GROUP INSURANCE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
         Participants: 
     2020: EMPLOYEE GROUP INSURANCE BENEFIT
+        Benefit Category: Healthcare
+        Codes:  4A4A4D4E4F4H4Q
         Participants: 
    [006]
     2021: GERBER CONSOLIDATED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1B1I1H 
         Participants: 0
         Service Providers:
            - RSM US LLP : 0 ()
            - FINDLEY : ACTUARIES ()
            - WELLS FARGO : TRUSTEE (Trustee(bank, trust company, or similar))
     2020: GERBER CONSOLIDATED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1B1I 
         Participants: 465
         Assets: 3022534
         $/Participant: 6500
@@ -23,6 +33,8 @@ IL : WOODRIDGE
            - FINDLEY : ACTUARIES (Actuarial)
            - RSM US LLP : AUDITORS (Accounting(including auditing))
     2019: GERBER CONSOLIDATED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1B1I 
         Participants: 477
         Assets: 3118171
         $/Participant: 6537
@@ -46,6 +58,8 @@ IL : WOODRIDGE
                  : WF/TROWE PRICE INST LCG MGD CIT F
                  : WF/VOYA LARGE CAP GROWTH CIT F
     2018: GERBER CONSOLIDATED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1B1I 
         Participants: 485
         Assets: 2588057
         $/Participant: 5336
@@ -69,6 +83,8 @@ IL : WOODRIDGE
                  : WF/TROWE PRICE INST LCG MGD CIT F
                  : WF/VOYA LARGE CAP GROWTH CIT F
     2017: GERBER CONSOLIDATED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1B1I 
         Participants: 1
         Assets: 2860706
         $/Participant: 2860706

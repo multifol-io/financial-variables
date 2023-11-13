@@ -1,21 +1,125 @@
-CA : CONCORD
+CA : OAKLAND
   PG&E CORPORATION  943234914
-   [502]
-    2022: BUSINESS TRAVEL INSURANCE PLAN
-        Participants: 
-    2021: BUSINESS TRAVEL INSURANCE PLAN
-        Participants: 
-    2020: BUSINESS TRAVEL INSURANCE PLAN
-        Participants: 
-    2019: BUSINESS TRAVEL INSURANCE PLAN
-        Participants: 
-    2018: BUSINESS TRAVEL INSURANCE PLAN
-        Participants: 
-    2017: BUSINESS TRAVEL INSURANCE PLAN
-        Participants: 
+   [001]
+    2022: PG&E CORPORATION RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2F2H2J2K2O2R2S2T 
+        Participants: 13047
+        Assets: 3574875000
+        $/Participant: 273999
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Available Investments:
+           - PG & E CORPORATION
+                 : PG & E CORP RSP MASTER TRUST
+CA : CONCORD
+    2021: PG&E CORPORATION RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2H2J2K2O2R2S2T2F 
+        Participants: 13278
+        Assets: 4285257000
+        $/Participant: 322733
+        RecordKeeper: MADISON STREET PRESS
+        Available Investments:
+           - PG&E CORPORATION
+                 : PG&E CORP RSP MASTER TRUST
+    2020: PG&E CORPORATION RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2J2K2O2S2F2T3I2H2R 
+        Participants: 12570
+        Assets: 3781448000
+        $/Participant: 300831
+        RecordKeeper: MADISON STREET PRESS
+        Available Investments:
+           - PG&E CORPORATION
+                 : PG&E CORP RSP MASTER TRUST
+    2019: PG&E CORPORATION RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2H2J2K2O2R2S2F2T3I 
+        Participants: 11785
+        Assets: 3280703000
+        $/Participant: 278379
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Available Investments:
+           - PG&E CORPORATION
+                 : PG&E CORP RSP MASTER TRUST
+    2017: PG&E CORPORATION RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2F2H2J2K2O2R2S2T3I 
+        Participants: 12146
+        Assets: 3250416000
+        $/Participant: 267612
+        RecordKeeper: CURCIO WEBB
+        Available Investments:
+           - PG&E CORPORATION
+                 : PG&E CORP RSP MASTER TRUST
+CA : OAKLAND
+   [002]
+    2022: PG&E CORP. RETIREMENT SAVINGS PLAN FOR UNION-REPRESENTED EMPLOYEES
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2F2H2J2K2O2R2S2T 
+        Participants: 18389
+        Assets: 3725855000
+        $/Participant: 202613
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Available Investments:
+           - PG & E CORPORATION
+                 : PG & E CORP RSP MASTER TRUST
+CA : CONCORD
+    2021: PG&E CORP. RETIREMENT SAVINGS PLAN FOR UNION-REPRESENTED EMPLOYEES
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2R2S2T2F2H2J2K 
+        Participants: 19134
+        Assets: 4358300000
+        $/Participant: 227777
+        RecordKeeper: MADISON STREET PRESS
+        Available Investments:
+           - PG&E CORPORATION
+                 : PG&E CORP RSP MASTER TRUST
+    2020: PG&E CORP. RETIREMENT SAVINGS PLAN FOR UNION-REPRESENTED EMPLOYEES
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2H2J2K2O2S2T3I2F2R 
+        Participants: 18401
+        Assets: 3931868000
+        $/Participant: 213676
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Available Investments:
+           - PG&E CORPORATION
+                 : PG&E CORP RSP MASTER TRUST
+    2019: PG&E CORP. RETIREMENT SAVINGS PLAN FOR UNION REPRESENTED EMPLOYEES
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2H2J2K2O2R2S2T3I2F 
+        Participants: 17314
+        Assets: 3454235000
+        $/Participant: 199505
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Available Investments:
+           - PG&E CORPORATION
+                 : PG&E CORP RSP MASTER TRUST
+    2017: PG&E CORP. RETIREMENT SAVINGS PLAN FOR UNION REPRESENTED EMPLOYEES
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2K2F2H2J2O2R2S2T3I 
+        Participants: 17236
+        Assets: 3393111000
+        $/Participant: 196861
+        RecordKeeper: CURCIO WEBB
+        Available Investments:
+           - PG&E CORPORATION
+                 : PG&E CORP RSP MASTER TRUST
 CA : OAKLAND
    [003]
     2022: PG & E CORPORATION RETIREMENT SAVINGS PLAN MASTER TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 7160341000
         $/Participant: 
@@ -44,6 +148,8 @@ CA : OAKLAND
                  : WORLD EX U.S. INDX NL SF CL C
 CA : CONCORD
     2021: PG & E CORPORATION RETIREMENT SAVINGS PLAN MASTER TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 8514114000
         $/Participant: 
@@ -72,6 +178,8 @@ CA : CONCORD
                  : US SHORT TERM GOVERNMENT/CR BOND
                  : WORLD EX U.S. INDX NL SF CL C
     2020: PG & E CORPORATION RETIREMENT SAVINGS PLAN MASTER TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 7591901000
         $/Participant: 
@@ -99,6 +207,8 @@ CA : CONCORD
                  : US SHORT TERM GOVERNMENT/CR BOND
                  : WORLD EX U.S. INDX NL SF CL C
     2019: PG & E CORPORATION RETIREMENT SAVINGS PLAN MASTER TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 6608049000
         $/Participant: 
@@ -127,6 +237,8 @@ CA : CONCORD
                  : US SHORT TERM GOVERNMENT/CR BOND
                  : WORLD EX U.S. INDX NL SF CL C
     2018: PG & E CORPORATION RETIREMENT SAVINGS PLAN MASTER TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 5758515000
         $/Participant: 
@@ -155,6 +267,8 @@ CA : CONCORD
                  : US SHORT TERM GOVERNMENT/CR BOND
                  : WORLD EX U.S. INDX NL SF CL C
     2017: PG & E CORPORATION RETIREMENT SAVINGS PLAN MASTER TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 6518418000
         $/Participant: 
@@ -182,89 +296,28 @@ CA : CONCORD
                  : U.S. GOVERNMENT INDX NL SF CL C
                  : US SHORT TERM GOVERNMENT/CR BOND
                  : WORLD EX U.S. INDX NL SF CL C
-CA : OAKLAND
-   [002]
-    2022: PG&E CORP. RETIREMENT SAVINGS PLAN FOR UNION-REPRESENTED EMPLOYEES
-        Participants: 18389
-        Assets: 3725855000
-        $/Participant: 202613
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-        Available Investments:
-           - PG & E CORPORATION
-                 : PG & E CORP RSP MASTER TRUST
-CA : CONCORD
-    2021: PG&E CORP. RETIREMENT SAVINGS PLAN FOR UNION-REPRESENTED EMPLOYEES
-        Participants: 19134
-        Assets: 4358300000
-        $/Participant: 227777
-        RecordKeeper: MADISON STREET PRESS
-        Available Investments:
-           - PG&E CORPORATION
-                 : PG&E CORP RSP MASTER TRUST
-    2020: PG&E CORP. RETIREMENT SAVINGS PLAN FOR UNION-REPRESENTED EMPLOYEES
-        Participants: 18401
-        Assets: 3931868000
-        $/Participant: 213676
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-        Available Investments:
-           - PG&E CORPORATION
-                 : PG&E CORP RSP MASTER TRUST
-    2019: PG&E CORP. RETIREMENT SAVINGS PLAN FOR UNION REPRESENTED EMPLOYEES
-        Participants: 17314
-        Assets: 3454235000
-        $/Participant: 199505
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-        Available Investments:
-           - PG&E CORPORATION
-                 : PG&E CORP RSP MASTER TRUST
-    2017: PG&E CORP. RETIREMENT SAVINGS PLAN FOR UNION REPRESENTED EMPLOYEES
-        Participants: 17236
-        Assets: 3393111000
-        $/Participant: 196861
-        RecordKeeper: CURCIO WEBB
-        Available Investments:
-           - PG&E CORPORATION
-                 : PG&E CORP RSP MASTER TRUST
-CA : OAKLAND
-   [001]
-    2022: PG&E CORPORATION RETIREMENT SAVINGS PLAN
-        Participants: 13047
-        Assets: 3574875000
-        $/Participant: 273999
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-        Available Investments:
-           - PG & E CORPORATION
-                 : PG & E CORP RSP MASTER TRUST
-CA : CONCORD
-    2021: PG&E CORPORATION RETIREMENT SAVINGS PLAN
-        Participants: 13278
-        Assets: 4285257000
-        $/Participant: 322733
-        RecordKeeper: MADISON STREET PRESS
-        Available Investments:
-           - PG&E CORPORATION
-                 : PG&E CORP RSP MASTER TRUST
-    2020: PG&E CORPORATION RETIREMENT SAVINGS PLAN
-        Participants: 12570
-        Assets: 3781448000
-        $/Participant: 300831
-        RecordKeeper: MADISON STREET PRESS
-        Available Investments:
-           - PG&E CORPORATION
-                 : PG&E CORP RSP MASTER TRUST
-    2019: PG&E CORPORATION RETIREMENT SAVINGS PLAN
-        Participants: 11785
-        Assets: 3280703000
-        $/Participant: 278379
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-        Available Investments:
-           - PG&E CORPORATION
-                 : PG&E CORP RSP MASTER TRUST
-    2017: PG&E CORPORATION RETIREMENT SAVINGS PLAN
-        Participants: 12146
-        Assets: 3250416000
-        $/Participant: 267612
-        RecordKeeper: CURCIO WEBB
-        Available Investments:
-           - PG&E CORPORATION
-                 : PG&E CORP RSP MASTER TRUST
+   [502]
+    2022: BUSINESS TRAVEL INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2021: BUSINESS TRAVEL INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2020: BUSINESS TRAVEL INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2019: BUSINESS TRAVEL INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2018: BUSINESS TRAVEL INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2017: BUSINESS TRAVEL INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 

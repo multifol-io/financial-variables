@@ -1,23 +1,8 @@
 NY : NEW YORK
-  BLACKROCK INC  320174431
-   [502]
-    2017: BLACKROCK SEVERANCE PAY PLAN
-        Participants: 7044
-   [501]
-    2022: BLACKROCK, INC. HEALTH AND WELFARE BENEFITS PROGRAM
-        Participants: 
-    2021: BLACKROCK, INC. HEALTH AND WELFARE BENEFITS PROGRAM
-        Participants: 
-    2020: BLACKROCK, INC. HEALTH AND WELFARE BENEFITS PROGRAM
-        Participants: 
-    2019: BLACKROCK, INC. HEALTH AND WELFARE BENEFITS PROGRAM
-        Participants: 
-    2018: BLACKROCK, INC. HEALTH AND WELFARE BENEFITS PROGRAM
-        Participants: 
-    2017: BLACKROCK, INC. HEALTH AND WELFARE BENEFITS PROGRAM
-        Participants: 
-   [001]
+  BLACKROCK, INC.  320174431
     2022: BLACKROCK RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 14146
         Assets: 3378346016
         $/Participant: 238819
@@ -47,6 +32,8 @@ NY : NEW YORK
                  : BLACKROCK US DEBT INDEX FUND CLASS
                  : BLACKROCK US TIPS FUND CLASS F
     2021: BLACKROCK RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 12998
         Assets: 3896484366
         $/Participant: 299775
@@ -76,6 +63,8 @@ NY : NEW YORK
                  : BLACKROCK US DEBT INDEX FUND CLASS
                  : BLACKROCK US TIPS FUND CLASS F
     2020: BLACKROCK RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 11902
         Assets: 3277019792
         $/Participant: 275333
@@ -105,6 +94,8 @@ NY : NEW YORK
                  : BLACKROCK US DEBT INDEX FUND CLASS
                  : BLACKROCK US TIPS FUND CLASS F
     2019: BLACKROCK RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 11828
         Assets: 2706131652
         $/Participant: 228790
@@ -135,6 +126,8 @@ NY : NEW YORK
                  : STRATEGIC INCOME OPPORTUNITIES BOND
                  : US DEBT INDEX FUND F
     2018: BLACKROCK RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 11332
         Assets: 2143767337
         $/Participant: 189178
@@ -165,6 +158,8 @@ NY : NEW YORK
                  : STRATEGIC INCOME OPPORTUNITIES BOND
                  : US DEBT INDEX FUND F
     2017: BLACKROCK RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 10562
         Assets: 2207778480
         $/Participant: 209030
@@ -193,3 +188,34 @@ NY : NEW YORK
                  : SHORT-TERM INVESTMENT FUND
                  : STRATEGIC INCOME OPP BOND FUND F
                  : US DEBT INDEX FUND F
+   [501]
+    2022: BLACKROCK, INC. HEALTH AND WELFARE BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2021: BLACKROCK, INC. HEALTH AND WELFARE BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: BLACKROCK, INC. HEALTH AND WELFARE BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: BLACKROCK, INC. HEALTH AND WELFARE BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: BLACKROCK, INC. HEALTH AND WELFARE BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: BLACKROCK, INC. HEALTH AND WELFARE BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+   [502]
+    2017: BLACKROCK SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 7044

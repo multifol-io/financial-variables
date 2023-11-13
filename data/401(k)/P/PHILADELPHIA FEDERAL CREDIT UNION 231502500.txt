@@ -1,53 +1,9 @@
 PA : PHILADELPHIA
   PHILADELPHIA FEDERAL CREDIT UNION  231502500
-   [503]
-    2022: PHILADELPHIA FEDERAL CREDIT UNION WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - INDEPENDENCE ADMINISTRATORS : ADMIN (Claims processing)
-           - DIGITAL INSURANCE : BROKER (Insurance agents and brokers)
-           - TELEMEDICINE MANAGEMENT, INC. :  (Other services | Other fees)
-    2021: PHILADELPHIA FEDERAL CREDIT UNION WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - INDEPENDENCE ADMINISTRATORS : ADMIN (Claims processing)
-           - TELEMEDICINE MANAGEMENT, INC. :  (Other services | Other fees)
-           - DIGITAL INSURANCE : BROKER (Insurance agents and brokers)
-    2020: PHILADELPHIA FEDERAL CREDIT UNION WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - INDEPENDENCE ADMINISTRATORS : ADMIN (Claims processing)
-           - TELEMEDICINE MANAGEMENT, INC. :  (Other services | Other fees)
-           - DIGITAL INSURANCE : BROKER (Insurance agents and brokers)
-    2019: PHILADELPHIA FEDERAL CREDIT UNION WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - INDEPENDENCE ADMINISTRATORS : ADMIN (Claims processing)
-           - DIGITAL INSURANCE : BROKER (Insurance agents and brokers)
-    2018: PHILADELPHIA FEDERAL CREDIT UNION WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - INDEPENDENCE ADMINISTRATORS : ADMIN (Claims processing)
-           - TRINITY BENEFIT ADVISORS : BROKER (Insurance agents and brokers)
-    2017: PHILADELPHIA FEDERAL CREDIT UNION WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - INDEPENDENCE ADMINISTRATORS : ADMIN (Claims processing)
-           - TRINITY BENEFIT ADVISORS : BROKER (Insurance agents and brokers)
    [033]
-    2022: PHILADELPHIA FEDERAL CREDIT UNION CAPITAL ACCUMULATION PLAN
-        Participants: 309
-        Assets: 36434143
-        $/Participant: 117909
-        RecordKeeper: CMFG LIFE INSURANCE COMPANY
-        Available Investments:
-           - CMFG LIFE INSURANCE COMPANY
-                 : CUNA MUTUAL AGGRESSIVE FD
-                 : CUNA MUTUAL DIVERSIFIED EQUITY FUND
-                 : CUNA MUTUAL LIFESTYLE CONSERVATIVE
-                 : CUNA MUTUAL LIFESTYLE INCOME FUND
-                 : CUNA MUTUAL MODERATE FUND
     2021: PHILADELPHIA FEDERAL CREDIT UNION CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3D3H2E 
         Participants: 296
         Assets: 45769931
         $/Participant: 154628
@@ -60,6 +16,8 @@ PA : PHILADELPHIA
                  : CUNA MUTUAL LIFESTYLE INCOME FUND
                  : CUNA MUTUAL MODERATE FUND
     2020: PHILADELPHIA FEDERAL CREDIT UNION CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3D3H 
         Participants: 308
         Assets: 37687220
         $/Participant: 122361
@@ -72,6 +30,8 @@ PA : PHILADELPHIA
                  : CUNA MUTUAL LIFESTYLE INCOME FUND
                  : CUNA MUTUAL LIFESTYLE MODERATE FUND
     2019: PHILADELPHIA FEDERAL CREDIT UNION CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3D3H 
         Participants: 318
         Assets: 32244046
         $/Participant: 101396
@@ -84,6 +44,8 @@ PA : PHILADELPHIA
                  : CUNA MUTUAL LIFESTYLE INCOME FUND
                  : CUNA MUTUAL LIFESTYLE MODERATE FUND
     2018: PHILADELPHIA FEDERAL CREDIT UNION CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3D3H 
         Participants: 365
         Assets: 26345798
         $/Participant: 72180
@@ -96,6 +58,8 @@ PA : PHILADELPHIA
                  : CUNA MUTUAL LIFESTYLE INCOME FUND
                  : CUNA MUTUAL LIFESTYLE MODERATE FUND
     2017: PHILADELPHIA FEDERAL CREDIT UNION CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3D3H 
         Participants: 345
         Assets: 26575864
         $/Participant: 77031
@@ -107,33 +71,106 @@ PA : PHILADELPHIA
                  : CUNA MUTUAL LIFESTYLE CONSERVATIVE
                  : CUNA MUTUAL LIFESTYLE INCOME FUND
                  : CUNA MUTUAL LIFESTYLE MODERATE FUND
+   [503]
+    2022: PHILADELPHIA FEDERAL CREDIT UNION WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+        Service Providers:
+           - INDEPENDENCE ADMINISTRATORS : ADMIN (Claims processing)
+           - DIGITAL INSURANCE : BROKER (Insurance agents and brokers)
+           - TELEMEDICINE MANAGEMENT, INC. :  (Other services | Other fees)
+    2021: PHILADELPHIA FEDERAL CREDIT UNION WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+        Service Providers:
+           - INDEPENDENCE ADMINISTRATORS : ADMIN (Claims processing)
+           - TELEMEDICINE MANAGEMENT, INC. :  (Other services | Other fees)
+           - DIGITAL INSURANCE : BROKER (Insurance agents and brokers)
+    2020: PHILADELPHIA FEDERAL CREDIT UNION WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+        Service Providers:
+           - INDEPENDENCE ADMINISTRATORS : ADMIN (Claims processing)
+           - TELEMEDICINE MANAGEMENT, INC. :  (Other services | Other fees)
+           - DIGITAL INSURANCE : BROKER (Insurance agents and brokers)
+    2019: PHILADELPHIA FEDERAL CREDIT UNION WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+        Service Providers:
+           - INDEPENDENCE ADMINISTRATORS : ADMIN (Claims processing)
+           - DIGITAL INSURANCE : BROKER (Insurance agents and brokers)
+    2018: PHILADELPHIA FEDERAL CREDIT UNION WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+        Service Providers:
+           - INDEPENDENCE ADMINISTRATORS : ADMIN (Claims processing)
+           - TRINITY BENEFIT ADVISORS : BROKER (Insurance agents and brokers)
+    2017: PHILADELPHIA FEDERAL CREDIT UNION WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+        Service Providers:
+           - INDEPENDENCE ADMINISTRATORS : ADMIN (Claims processing)
+           - TRINITY BENEFIT ADVISORS : BROKER (Insurance agents and brokers)
+   [033]
+    2022: PHILADELPHIA FEDERAL CREDIT UNION CAPITAL ACCUMULATION PLAN
+        Benefit Category: Other
+        Codes: 2F2E2G2L2K2S2T3D 
+        Participants: 309
+        Assets: 36434143
+        $/Participant: 117909
+        RecordKeeper: CMFG LIFE INSURANCE COMPANY
+        Available Investments:
+           - CMFG LIFE INSURANCE COMPANY
+                 : CUNA MUTUAL AGGRESSIVE FD
+                 : CUNA MUTUAL DIVERSIFIED EQUITY FUND
+                 : CUNA MUTUAL LIFESTYLE CONSERVATIVE
+                 : CUNA MUTUAL LIFESTYLE INCOME FUND
+                 : CUNA MUTUAL MODERATE FUND
    [001]
     2022: PHILADELPHIA FEDERAL CREDIT UNION DEFINED BENEFIT PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A3D3H 
         Participants: 236
         Assets: 89368326
         $/Participant: 378679
         RecordKeeper: MEMBERS CAPITAL ADVISORS, INC.
     2021: PHILADELPHIA FEDERAL CREDIT UNION DEFINED BENEFIT PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A3D3H 
         Participants: 232
         Assets: 105480620
         $/Participant: 454657
         RecordKeeper: MEMBERS CAPITAL ADVISORS, INC.
     2020: PHILADELPHIA FEDERAL CREDIT UNION DEFINED BENEFIT PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A3D3H 
         Participants: 245
         Assets: 98553909
         $/Participant: 402260
         RecordKeeper: MEMBERS CAPITAL ADVISORS, INC.
     2019: PHILADELPHIA FEDERAL CREDIT UNION DEFINED BENEFIT PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A3D3H 
         Participants: 245
         Assets: 73231698
         $/Participant: 298904
         RecordKeeper: MEMBERS CAPITAL ADVISORS, INC.
     2018: PHILADELPHIA FEDERAL CREDIT UNION DEFINED BENEFIT PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A3D3H 
         Participants: 234
         Assets: 54925721
         $/Participant: 234725
         RecordKeeper: CMFG LIFE INSURANCE COMPANY
     2017: PHILADELPHIA FEDERAL CREDIT UNION DEFINED BENEFIT PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A3D3H 
         Participants: 224
         Assets: 55992021
         $/Participant: 249964

@@ -1,27 +1,9 @@
 OH : AKRON
-  ENERGY HARBOR CORP.  843992199
-   [505]
-    2022: ENERGY HARBOR SEVERANCE BENEFITS PLAN
-        Participants: 1450
-    2021: ENERGY HARBOR SEVERANCE BENEFITS PLAN
-        Participants: 1478
-    2020: ENERGY HARBOR SEVERANCE BENEFITS PLAN
-        Participants: 1550
-   [002]
-    2022: ENERGY HARBOR PENSION PLAN FOR COLLECTIVELY BARGAINED EMPLOYEES
-        Participants: 900
-        Assets: 17727842
-        $/Participant: 19697
-    2021: ENERGY HARBOR PENSION PLAN FOR COLLECTIVELY BARGAINED EMPLOYEES
-        Participants: 908
-        Assets: 19097120
-        $/Participant: 21032
-    2020: ENERGY HARBOR PENSION PLAN FOR COLLECTIVELY BARGAINED EMPLOYEES
-        Participants: 922
-        Assets: 19758986
-        $/Participant: 21430
+  ENERGY HARBOR CORP  843992199
    [001]
     2022: ENERGY HARBOR 401(K) & RETIREMENT CONTRIBUTION PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S3D3H2A2E 
         Participants: 2646
         Assets: 630156312
         $/Participant: 238154
@@ -46,6 +28,8 @@ OH : AKRON
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE B
     2021: ENERGY HARBOR 401(K) & RETIREMENT CONTRIBUTION PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S3D3H 
         Participants: 2599
         Assets: 748220211
         $/Participant: 287887
@@ -73,6 +57,8 @@ OH : AKRON
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE B
     2020: ENERGY HARBOR 401(K) & RETIREMENT CONTRIBUTION
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S3D 
         Participants: 2592
         Assets: 669188274
         $/Participant: 258174
@@ -83,3 +69,35 @@ OH : AKRON
                  : BLACKROCK MSCI ACWI EX-US IMI INDEX
                  : EQUITY INDEX FUND J
                  : US DEBT INDEX FUND M
+   [002]
+    2022: ENERGY HARBOR PENSION PLAN FOR COLLECTIVELY BARGAINED EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A1B1C 
+        Participants: 900
+        Assets: 17727842
+        $/Participant: 19697
+    2021: ENERGY HARBOR PENSION PLAN FOR COLLECTIVELY BARGAINED EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A1B1C 
+        Participants: 908
+        Assets: 19097120
+        $/Participant: 21032
+    2020: ENERGY HARBOR PENSION PLAN FOR COLLECTIVELY BARGAINED EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A1B1C 
+        Participants: 922
+        Assets: 19758986
+        $/Participant: 21430
+   [505]
+    2022: ENERGY HARBOR SEVERANCE BENEFITS PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 1450
+    2021: ENERGY HARBOR SEVERANCE BENEFITS PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 1478
+    2020: ENERGY HARBOR SEVERANCE BENEFITS PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 1550

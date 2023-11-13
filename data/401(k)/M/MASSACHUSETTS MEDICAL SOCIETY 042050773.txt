@@ -1,20 +1,9 @@
 MA : WALTHAM
   MASSACHUSETTS MEDICAL SOCIETY  042050773
-   [501]
-    2022: MASSACHUSETTS MEDICAL SOCIETY WELFARE BENEFIT PLAN
-        Participants: 
-    2021: MASSACHUSETTS MEDICAL SOCIETY WELFARE BENEFIT PLAN
-        Participants: 
-    2020: MASSACHUSETTS MEDICAL SOCIETY WELFARE BENEFIT PLAN
-        Participants: 
-    2019: MASSACHUSETTS MEDICAL SOCIETY WELFARE BENEFIT PLAN
-        Participants: 
-    2018: MASSACHUSETTS MEDICAL SOCIETY WELFARE BENEFIT PLAN
-        Participants: 
-    2017: MASSACHUSETTS MEDICAL SOCIETY WELFARE BENEFIT PLAN
-        Participants: 
    [002]
     2022: THE MASSACHUSETTS MEDICAL SOCIETY SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2K 
         Participants: 640
         Assets: 138308115
         $/Participant: 216106
@@ -42,6 +31,8 @@ MA : WALTHAM
                  : VANGUARD TARGET RETIREMENT 2065 INV
                  : VANGUARD TARGET RETIREMENT INCOME I
     2021: THE MASSACHUSETTS MEDICAL SOCIETY SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2K 
         Participants: 600
         Assets: 165098044
         $/Participant: 275163
@@ -83,6 +74,8 @@ MA : WALTHAM
                  : SIA-UH (MID CAP GROWTH)
                  : SIA-UY (SMALL COMPANY VALUE)
     2020: THE MASSACHUSETTS MEDICAL SOCIETY SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2K 
         Participants: 619
         Assets: 145156995
         $/Participant: 234502
@@ -115,6 +108,8 @@ MA : WALTHAM
                  : SIA UH
                  : SIA UY
     2019: THE MASSACHUSETTS MEDICAL SOCIETY SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2K 
         Participants: 603
         Assets: 124576507
         $/Participant: 206594
@@ -146,6 +141,8 @@ MA : WALTHAM
                  : SIA UH
                  : SIA UY
     2018: THE MASSACHUSETTS MEDICAL SOCIETY SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2K 
         Participants: 602
         Assets: 99935814
         $/Participant: 166006
@@ -177,6 +174,8 @@ MA : WALTHAM
                  : SIA UH
                  : SIA UY
     2017: THE MASSACHUSETTS MEDICAL SOCIETY SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2K 
         Participants: 591
         Assets: 104901283
         $/Participant: 177497
@@ -184,8 +183,35 @@ MA : WALTHAM
         Available Investments:
            - MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY
                  : SIA L1 STABLE RETURN II
+   [501]
+    2022: MASSACHUSETTS MEDICAL SOCIETY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4H4Q
+        Participants: 
+    2021: MASSACHUSETTS MEDICAL SOCIETY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4H4Q
+        Participants: 
+    2020: MASSACHUSETTS MEDICAL SOCIETY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4H4Q
+        Participants: 
+    2019: MASSACHUSETTS MEDICAL SOCIETY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4H4Q
+        Participants: 
+    2018: MASSACHUSETTS MEDICAL SOCIETY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4H4Q
+        Participants: 
+    2017: MASSACHUSETTS MEDICAL SOCIETY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4H4Q
+        Participants: 
    [001]
     2022: MASSACHUSETTS MEDICAL SOCIETY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 471
         Assets: 144521926
         $/Participant: 306840
@@ -200,6 +226,8 @@ MA : WALTHAM
            - STATE STREET BANK AND TRUST COMPANY
                  : US AGGREGATE BOND INDX NL FUND
     2021: MASSACHUSETTS MEDICAL SOCIETY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 491
         Assets: 184363407
         $/Participant: 375485
@@ -214,6 +242,8 @@ MA : WALTHAM
            - STATE STREET BANK AND TRUST COMPANY
                  : US AGGREGATE BOND INDX NL FUND
     2020: MASSACHUSETTS MEDICAL SOCIETY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 506
         Assets: 171144301
         $/Participant: 338229
@@ -229,6 +259,8 @@ MA : WALTHAM
            - STATE STREET BANK AND TRUST COMPANY
                  : US AGGREGATE BOND INDX NL FUND
     2019: MASSACHUSETTS MEDICAL SOCIETY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 509
         Assets: 154100694
         $/Participant: 302751
@@ -244,6 +276,8 @@ MA : WALTHAM
            - STATE STREET BANK AND TRUST COMPANY
                  : US AGGREGATE BOND INDX NL FUND
     2018: MASSACHUSETTS MEDICAL SOCIETY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 513
         Assets: 131224371
         $/Participant: 255797
@@ -260,6 +294,8 @@ MA : WALTHAM
            - STATE STREET BANK AND TRUST COMPANY
                  : US AGGREGATE BOND INDX NL FUND
     2017: MASSACHUSETTS MEDICAL SOCIETY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 521
         Assets: 140942764
         $/Participant: 270523

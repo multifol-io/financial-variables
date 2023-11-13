@@ -1,16 +1,8 @@
 NJ : EWING
   GS1 US, INC.  362746754
-   [510]
-    2022: GS1 US FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2021: GS1 US FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2020: GS1 US FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2019: GS1 US FLEXIBLE BENEFITS PLAN
-        Participants: 
-   [001]
     2022: GS1 US 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 372
         Assets: 77789839
         $/Participant: 209112
@@ -31,6 +23,8 @@ NJ : EWING
                  : TRP RETIRE 2060 A
                  : TRP RETIRE 2065 A
     2021: GS1 US 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2T2E2F2G2J2K 
         Participants: 362
         Assets: 96171346
         $/Participant: 265666
@@ -39,6 +33,8 @@ NJ : EWING
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
                  : MORLEY STABLE VALUE
     2020: GS1 US 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 351
         Assets: 79669113
         $/Participant: 226977
@@ -47,6 +43,8 @@ NJ : EWING
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
                  : MORLEY STABLE VALUE
     2019: GS1 US 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 474
         Assets: 84700075
         $/Participant: 178692
@@ -55,6 +53,8 @@ NJ : EWING
            - UNION BOND & TRUST COMPANY
                  : MORLEY STABLE VALUE
     2018: GS1 US 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 470
         Assets: 68663861
         $/Participant: 146093
@@ -64,6 +64,8 @@ NJ : EWING
                  : MORLEY STABLE VALUE
 NJ : LAWRENCEVILLE
     2017: GS1 US 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 464
         Assets: 71012265
         $/Participant: 153043
@@ -71,3 +73,21 @@ NJ : LAWRENCEVILLE
         Available Investments:
            - UNION BOND & TRUST COMPANY
                  : MORLEY STABLE VALUE
+NJ : EWING
+   [510]
+    2022: GS1 US FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L
+        Participants: 
+    2021: GS1 US FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L
+        Participants: 
+    2020: GS1 US FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L
+        Participants: 
+    2019: GS1 US FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 

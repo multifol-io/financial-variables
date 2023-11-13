@@ -1,18 +1,9 @@
 OH : COLUMBUS
   HEXION INC.  130511250
-   [501]
-    2022: HEXION INC. WELFARE BENEFITS PLAN
-        Participants: 
-    2021: HEXION INC. WELFARE BENEFITS PLAN
-        Participants: 
-    2020: HEXION INC. WELFARE BENEFITS PLAN
-        Participants: 
-    2018: HEXION INC. WELFARE BENEFITS PLAN
-        Participants: 
-    2017: HEXION WELFARE BENEFITS PLAN
-        Participants: 
    [005]
     2022: HEXION INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T2E2R 
         Participants: 1312
         Assets: 299579339
         $/Participant: 228337
@@ -47,6 +38,8 @@ OH : COLUMBUS
                  : GALLIARD STBLE RTN X
                  : WF STABLE VALUE X
     2021: HEXION INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T2E 
         Participants: 1646
         Assets: 469806468
         $/Participant: 285423
@@ -78,6 +71,8 @@ OH : COLUMBUS
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE X
     2020: HEXION INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T2R 
         Participants: 1874
         Assets: 479375927
         $/Participant: 255803
@@ -124,6 +119,8 @@ OH : COLUMBUS
            - WELLS FARGO BANK
                  : FIXED INCOME FUND
     2019: HEXION INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 1938
         Assets: 421198751
         $/Participant: 217336
@@ -148,6 +145,8 @@ OH : COLUMBUS
            - WELLS FARGO BANK
                  : FIXED INCOME FUND
     2018: HEXION INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T2E 
         Participants: 2024
         Assets: 359988660
         $/Participant: 177860
@@ -171,6 +170,8 @@ OH : COLUMBUS
            - WELLS FARGO BANK
                  : FIXED INCOME FUND D
     2017: HEXION INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 2185
         Assets: 395276448
         $/Participant: 180904
@@ -200,8 +201,31 @@ OH : COLUMBUS
                  : NT DAILY TIPS INDEX
            - WELLS FARGO BANK
                  : FIXED INCOME FUND D
+   [501]
+    2022: HEXION INC. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2021: HEXION INC. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2020: HEXION INC. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2018: HEXION INC. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2017: HEXION WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
    [002]
     2022: HEXION INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I3H 
         Participants: 3309
         Assets: 124403087
         $/Participant: 37595
@@ -218,6 +242,8 @@ OH : COLUMBUS
            - THE BANK OF NEW YORK
                  : EB TEMP INVESTMENT FUND
     2021: HEXION INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I3H 
         Participants: 3214
         Assets: 159117954
         $/Participant: 49507
@@ -234,6 +260,8 @@ OH : COLUMBUS
            - THE BANK OF NEW YORK
                  : EB TEMP INVESTMENT FUND
     2020: HEXION INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I3H 
         Participants: 6693
         Assets: 199920748
         $/Participant: 29870
@@ -251,6 +279,8 @@ OH : COLUMBUS
            - THE BANK OF NEW YORK
                  : EB TEMP INVESTMENT FUND
     2019: HEXION INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I3H 
         Participants: 7114
         Assets: 199885104
         $/Participant: 28097
@@ -268,6 +298,8 @@ OH : COLUMBUS
            - THE BANK OF NEW YORK
                  : EB TEMP INVESTMENT FUND
     2018: HEXION INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I3H 
         Participants: 7553
         Assets: 186121487
         $/Participant: 24642
@@ -285,6 +317,8 @@ OH : COLUMBUS
            - THE BANK OF NEW YORK
                  : EB TEMP INVESTMENT FUND
     2017: HEXION INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I3H 
         Participants: 8050
         Assets: 212821562
         $/Participant: 26437

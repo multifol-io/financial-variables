@@ -1,66 +1,9 @@
 CA : SANTA CLARA
   APPLIED MATERIALS, INC.  941655526
-   [543]
-    2021: APPLIED MATERIALS, INC. U.S. 2020 VOLUNTARY EMPLOYEE RETIREMENT PLAN
-        Participants: 719
-   [508]
-    2022: APPLIED MATERIALS, INC. WELFARE PLAN
-        Participants: 
-    2021: APPLIED MATERIALS, INC. WELFARE PLAN
-        Participants: 
-    2020: APPLIED MATERIALS, INC. WELFARE PLAN
-        Participants: 
-    2019: APPLIED MATERIALS, INC. WELFARE PLAN
-        Participants: 
-    2018: APPLIED MATERIALS, INC. WELFARE PLAN
-        Participants: 
-    2017: APPLIED MATERIALS, INC. WELFARE PLAN
-        Participants: 
-   [504]
-    2022: APPLIED MATERIALS, INC. SHORT TERM DISABILITY PLAN
-        Participants: 
-        Assets: 1040455
-        $/Participant: 
-        Service Providers:
-           - SEDGWICK CMS : THIRD PARTY ADMINISTRATO (Claims processing)
-           - ARMANINO, LLP : AUDITORS (Accounting(including auditing))
-    2021: APPLIED MATERIALS, INC. SHORT TERM DISABILITY PLAN
-        Participants: 
-        Assets: 1390804
-        $/Participant: 
-        Service Providers:
-           - SEDGWICK CMS : THIRD PARTY ADMINISTRATO (Claims processing)
-           - ARMANINO, LLP : AUDITORS (Accounting(including auditing))
-    2020: APPLIED MATERIALS, INC. SHORT TERM DISABILITY PLAN
-        Participants: 
-        Assets: 1878333
-        $/Participant: 
-        Service Providers:
-           - SEDGWICK CMS : THIRD PARTY ADMINISTRATO (Claims processing)
-           - ARMANINO, LLP : AUDITORS (Accounting(including auditing))
-    2019: APPLIED MATERIALS, INC. SHORT TERM DISABILITY PLAN
-        Participants: 
-        Assets: 1808715
-        $/Participant: 
-        Service Providers:
-           - SEDGWICK CMS : THIRD PARTY ADMINISTRATO (Claims processing)
-           - ARMANINO, LLP : AUDITORS (Accounting(including auditing))
-    2018: APPLIED MATERIALS, INC. SHORT TERM DISABILITY PLAN
-        Participants: 
-        Assets: 1898740
-        $/Participant: 
-        Service Providers:
-           - SEDGWICK CMS : THIRD PARTY ADMINISTRATO (Claims processing)
-           - ARMANINO MCKENNA, LLP : AUDITORS (Accounting(including auditing))
-    2017: APPLIED MATERIALS, INC. SHORT TERM DISABILITY PLAN
-        Participants: 
-        Assets: 1810264
-        $/Participant: 
-        Service Providers:
-           - SEDGWICK CMS : THIRD PARTY ADMINISTRATO (Claims processing)
-           - ARMANINO MCKENNA, LLP : AUDITORS (Accounting(including auditing))
    [333]
     2022: APPLIED MATERIALS, INC. EMPLOYEE SAVINGS & RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T2E 
         Participants: 19225
         Assets: 4113892451
         $/Participant: 213986
@@ -92,6 +35,8 @@ CA : SANTA CLARA
                  : VANGUARD TARGET 2070
                  : VANGUARD TARGET INC
     2021: APPLIED MATERIALS, INC. EMPLOYEE SAVINGS & RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T2E 
         Participants: 16270
         Assets: 5085193057
         $/Participant: 312550
@@ -116,6 +61,8 @@ CA : SANTA CLARA
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INC
     2020: APPLIED MATERIALS, INC. EMPLOYEE SAVINGS & RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3H2E 
         Participants: 14142
         Assets: 4538031525
         $/Participant: 320890
@@ -140,6 +87,8 @@ CA : SANTA CLARA
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INC
     2019: APPLIED MATERIALS, INC. EMPLOYEE SAVINGS & RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3H2E 
         Participants: 13432
         Assets: 3590660793
         $/Participant: 267321
@@ -167,6 +116,8 @@ CA : SANTA CLARA
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INC
     2018: APPLIED MATERIALS, INC. EMPLOYEE SAVINGS & RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3H2E 
         Participants: 13091
         Assets: 2866041310
         $/Participant: 218932
@@ -194,6 +145,8 @@ CA : SANTA CLARA
                  : VANGUARD TARGET INC
                  : VANGUARD TARGET RET
     2017: APPLIED MATERIALS, INC. EMPLOYEE SAVINGS & RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 12211
         Assets: 2970349842
         $/Participant: 243251
@@ -220,3 +173,88 @@ CA : SANTA CLARA
                  : VANGUARD TARGET 2060
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET RET
+   [508]
+    2022: APPLIED MATERIALS, INC. WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2021: APPLIED MATERIALS, INC. WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: APPLIED MATERIALS, INC. WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: APPLIED MATERIALS, INC. WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: APPLIED MATERIALS, INC. WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2017: APPLIED MATERIALS, INC. WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+   [504]
+    2022: APPLIED MATERIALS, INC. SHORT TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+        Assets: 1040455
+        $/Participant: 
+        Service Providers:
+           - SEDGWICK CMS : THIRD PARTY ADMINISTRATO (Claims processing)
+           - ARMANINO, LLP : AUDITORS (Accounting(including auditing))
+    2021: APPLIED MATERIALS, INC. SHORT TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+        Assets: 1390804
+        $/Participant: 
+        Service Providers:
+           - SEDGWICK CMS : THIRD PARTY ADMINISTRATO (Claims processing)
+           - ARMANINO, LLP : AUDITORS (Accounting(including auditing))
+    2020: APPLIED MATERIALS, INC. SHORT TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+        Assets: 1878333
+        $/Participant: 
+        Service Providers:
+           - SEDGWICK CMS : THIRD PARTY ADMINISTRATO (Claims processing)
+           - ARMANINO, LLP : AUDITORS (Accounting(including auditing))
+    2019: APPLIED MATERIALS, INC. SHORT TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+        Assets: 1808715
+        $/Participant: 
+        Service Providers:
+           - SEDGWICK CMS : THIRD PARTY ADMINISTRATO (Claims processing)
+           - ARMANINO, LLP : AUDITORS (Accounting(including auditing))
+    2018: APPLIED MATERIALS, INC. SHORT TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+        Assets: 1898740
+        $/Participant: 
+        Service Providers:
+           - SEDGWICK CMS : THIRD PARTY ADMINISTRATO (Claims processing)
+           - ARMANINO MCKENNA, LLP : AUDITORS (Accounting(including auditing))
+    2017: APPLIED MATERIALS, INC. SHORT TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+        Assets: 1810264
+        $/Participant: 
+        Service Providers:
+           - SEDGWICK CMS : THIRD PARTY ADMINISTRATO (Claims processing)
+           - ARMANINO MCKENNA, LLP : AUDITORS (Accounting(including auditing))
+   [543]
+    2021: APPLIED MATERIALS, INC. U.S. 2020 VOLUNTARY EMPLOYEE RETIREMENT PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 719

@@ -1,37 +1,95 @@
 MD : BETHESDA
   CENTRUS ENERGY CORP.  522107911
-   [514]
-    2022: CENTRUS ENERGY CORP. 2022 SEVERANCE PLAN
-        Participants: 
-   [513]
-    2021: CENTRUS ENERGY CORP. 2021 SEVERANCE PLAN
-        Participants: 
-   [512]
-    2020: CENTRUS ENERGY CORP. 2020 SEVERANCE PLAN
-        Participants: 
-   [511]
-    2019: CENTRUS ENERGY CORP. 2019 SEVERANCE PLAN
-        Participants: 
-   [510]
-    2018: CENTRUS ENERGY CORP. 2018 SEVERANCE PLAN
-        Participants: 
-    2017: CENTRUS ENERGY CORP. 2017 SEVERANCE PLAN
-        Participants: 
+   [001]
+    2022: CENTRUS SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2E2S 
+        Participants: 875
+        Assets: 183059164
+        $/Participant: 209210
+        RecordKeeper: FIDELITY INVESTMENTS INST OPER CO
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : MANAGED INCOME PORTFOLIO II
+    2021: CENTRUS SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2E2S 
+        Participants: 913
+        Assets: 238282193
+        $/Participant: 260988
+        RecordKeeper: FIDELITY INVESTMENTS INST OPER CO
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : MANAGED INCOME PORTFOLIO II
+    2020: CENTRUS SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2E2S 
+        Participants: 930
+        Assets: 214066494
+        $/Participant: 230179
+        RecordKeeper: FIDELITY INVESTMENTS INST OPER CO
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : MANAGED INCOME PORTFOLIO II
+    2019: CENTRUS SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2E2S 
+        Participants: 981
+        Assets: 192037846
+        $/Participant: 195757
+        RecordKeeper: FIDELITY INVESTMENTS INST OPER CO
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : MANAGED INCOME PORTFOLIO II
+    2018: CENTRUS SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2E 
+        Participants: 990
+        Assets: 175307657
+        $/Participant: 177078
+        RecordKeeper: FIDELITY INVESTMENTS INST OPER CO
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : MANAGED INCOME PORTFOLIO II
+    2017: CENTRUS SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2E 
+        Participants: 1076
+        Assets: 205670585
+        $/Participant: 191143
+        RecordKeeper: FIDELITY INVESTMENTS INST OPER CO
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : MANAGED INCOME PORTFOLIO II
    [503]
     2022: CENTRUS ENERGY CORP. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
     2021: CENTRUS ENERGY CORP. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
     2020: CENTRUS ENERGY CORP. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
     2019: CENTRUS ENERGY CORP. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
     2018: CENTRUS ENERGY CORP. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
     2017: CENTRUS ENERGY CORP. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
    [002]
     2022: EMPLOYEES' RETIREMENT PLAN OF CENTRUS ENERGY CORP.
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 233
         Assets: 27842383
         $/Participant: 119495
@@ -48,6 +106,8 @@ MD : BETHESDA
            - NORTHERN TRUST COMPANY
                  : NT COLLECTIVE SHORT-TERM INVESTMENT
     2021: EMPLOYEES' RETIREMENT PLAN OF CENTRUS ENERGY CORP.
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 237
         Assets: 39792027
         $/Participant: 167898
@@ -63,6 +123,8 @@ MD : BETHESDA
            - NORTHERN TRUST COMPANY
                  : NT COLLECTIVE SHORT-TERM INVESTMENT
     2020: EMPLOYEES' RETIREMENT PLAN OF CENTRUS ENERGY CORP.
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 241
         Assets: 37846451
         $/Participant: 157039
@@ -88,6 +150,8 @@ MD : BETHESDA
                  : RUSSELL INTERNATIONAL FUND
                  : RUSSELL WORLD EQUITY FUND
     2019: EMPLOYEES' RETIREMENT PLAN OF CENTRUS ENERGY CORP.
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 247
         Assets: 34847541
         $/Participant: 141083
@@ -115,6 +179,8 @@ MD : BETHESDA
                  : RUSSELL INTERNATIONAL FUND
                  : RUSSELL WORLD EQUITY FUND
     2018: EMPLOYEES' RETIREMENT PLAN OF CENTRUS ENERGY CORP.
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 255
         Assets: 29975231
         $/Participant: 117549
@@ -140,6 +206,8 @@ MD : BETHESDA
                  : RUSSELL INTERNATIONAL FUND
                  : RUSSELL WORLD EQUITY FUND
     2017: EMPLOYEES' RETIREMENT PLAN OF CENTRUS ENERGY CORP.
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 266
         Assets: 36101640
         $/Participant: 135720
@@ -163,52 +231,32 @@ MD : BETHESDA
                  : RUSSELL EQUITY II FUND
                  : RUSSELL INTERNATIONAL FUND
                  : RUSSELL WORLD EQUITY FUND
-   [001]
-    2022: CENTRUS SAVINGS PROGRAM
-        Participants: 875
-        Assets: 183059164
-        $/Participant: 209210
-        RecordKeeper: FIDELITY INVESTMENTS INST OPER CO
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : MANAGED INCOME PORTFOLIO II
-    2021: CENTRUS SAVINGS PROGRAM
-        Participants: 913
-        Assets: 238282193
-        $/Participant: 260988
-        RecordKeeper: FIDELITY INVESTMENTS INST OPER CO
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : MANAGED INCOME PORTFOLIO II
-    2020: CENTRUS SAVINGS PROGRAM
-        Participants: 930
-        Assets: 214066494
-        $/Participant: 230179
-        RecordKeeper: FIDELITY INVESTMENTS INST OPER CO
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : MANAGED INCOME PORTFOLIO II
-    2019: CENTRUS SAVINGS PROGRAM
-        Participants: 981
-        Assets: 192037846
-        $/Participant: 195757
-        RecordKeeper: FIDELITY INVESTMENTS INST OPER CO
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : MANAGED INCOME PORTFOLIO II
-    2018: CENTRUS SAVINGS PROGRAM
-        Participants: 990
-        Assets: 175307657
-        $/Participant: 177078
-        RecordKeeper: FIDELITY INVESTMENTS INST OPER CO
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : MANAGED INCOME PORTFOLIO II
-    2017: CENTRUS SAVINGS PROGRAM
-        Participants: 1076
-        Assets: 205670585
-        $/Participant: 191143
-        RecordKeeper: FIDELITY INVESTMENTS INST OPER CO
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : MANAGED INCOME PORTFOLIO II
+   [510]
+    2018: CENTRUS ENERGY CORP. 2018 SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2017: CENTRUS ENERGY CORP. 2017 SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+   [511]
+    2019: CENTRUS ENERGY CORP. 2019 SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+   [512]
+    2020: CENTRUS ENERGY CORP. 2020 SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+   [513]
+    2021: CENTRUS ENERGY CORP. 2021 SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+   [514]
+    2022: CENTRUS ENERGY CORP. 2022 SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

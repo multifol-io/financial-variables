@@ -1,71 +1,67 @@
 AK : ANCHORAGE
   ALASKA USA FEDERAL CREDIT UNION  920019874
-   [503]
-    2022: ALASKA USA FEDERAL CREDIT UNION EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2021: ALASKA USA FEDERAL CREDIT UNION EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2020: ALASKA USA FEDERAL CREDIT UNION EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2019: ALASKA USA FEDERAL CREDIT UNION EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2018: ALASKA USA FEDERAL CREDIT UNION EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2017: ALASKA USA FEDERAL CREDIT UNION HEALTH AND WELFARE PLAN
-        Participants: 
-   [333]
-    2022: ALASKA USA DEFINED BENEFIT RETIREMENT PLAN
-        Participants: 303
-        Assets: 176131820
-        $/Participant: 581293
+   [003]
+    2020: ALASKA USA 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D3H 
+        Participants: 0
+        RecordKeeper: MEMBERS CAPITAL ADVISORS, INC. D/B/
+    2019: ALASKA USA 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D3H 
+        Participants: 333
+        Assets: 40982924
+        $/Participant: 123071
+        RecordKeeper: MEMBERS CAPITAL ADVISORS, INC. D/B/
+    2018: ALASKA USA 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D3H 
+        Participants: 348
+        Assets: 35790207
+        $/Participant: 102845
         RecordKeeper: CMFG LIFE INSURANCE COMPANY
-    2021: ALASKA USA DEFINED BENEFIT RETIREMENT PLAN
-        Participants: 340
-        Assets: 245073155
-        $/Participant: 720803
+    2017: ALASKA USA 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D3H 
+        Participants: 679
+        Assets: 39829949
+        $/Participant: 58659
         RecordKeeper: CMFG LIFE INSURANCE COMPANY
-    2020: ALASKA USA DEFINED BENEFIT RETIREMENT PLAN
-        Participants: 375
-        Assets: 262365877
-        $/Participant: 699642
-        RecordKeeper: CMFG LIFE INSURANCE COMPANY
-    2019: ALASKA USA DEFINED BENEFIT RETIREMENT PLAN
-        Participants: 390
-        Assets: 244208400
-        $/Participant: 626175
-        RecordKeeper: CMFG LIFE INSURANCE COMPANY
-    2018: ALASKA USA DEFINED BENEFIT RETIREMENT PLAN
-        Participants: 410
-        Assets: 220901732
-        $/Participant: 538784
-        RecordKeeper: CMFG LIFE INSURANCE COMPANY
-    2017: ALASKA USA DEFINED BENEFIT RETIREMENT PLAN
-        Participants: 433
-        Assets: 245465467
-        $/Participant: 566894
-        RecordKeeper: CMFG LIFE INSURANCE COMPANY
+        Available Investments:
+           - CMFG LIFE INSURANCE COMPANY
+                 : CMFG LIFE INSURANCE COMPANY PSA
    [004]
     2022: GLOBAL 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2K2F2G2J2T3D3H2E 
         Participants: 2649
         Assets: 114002244
         $/Participant: 43035
         RecordKeeper: MEMBERS CAPITAL ADVISORS, INC. DBA
     2021: ALASKA USA 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2K2F2G2J2T3D3H2E 
         Participants: 2269
         Assets: 113100961
         $/Participant: 49846
         RecordKeeper: MEMBERS CAPITAL ADVISORS, INC. D/B/
     2020: ALASKA USA 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2K2F2G2J2T3D3H 
         Participants: 1828
         Assets: 55503714
         $/Participant: 30363
         RecordKeeper: MEMBERS CAPITAL ADVISORS, INC. D/B/
     2019: ALASKA USA 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2K2F2G2J2T3D3H 
         Participants: 1802
         Assets: 43882336
         $/Participant: 24352
         RecordKeeper: MEMBERS CAPITAL ADVISORS, INC. D/B/
     2018: ALASKA USA 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2T3D2K3H 
         Participants: 1722
         Assets: 32941576
         $/Participant: 19129
@@ -74,6 +70,8 @@ AK : ANCHORAGE
            - CMFG LIFE INSURANCE COMPANY
                  : CMFG LIFE INSURANCE COMPANY PSA
     2017: ALASKA USA 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2T2K3D3H 
         Participants: 1746
         Assets: 31827585
         $/Participant: 18228
@@ -81,25 +79,71 @@ AK : ANCHORAGE
         Available Investments:
            - CMFG LIFE INSURANCE COMPANY
                  : CMFG LIFE INSURANCE COMPANY PSA
-   [003]
-    2020: ALASKA USA 401(K) SAVINGS PLAN
-        Participants: 0
-        RecordKeeper: MEMBERS CAPITAL ADVISORS, INC. D/B/
-    2019: ALASKA USA 401(K) SAVINGS PLAN
-        Participants: 333
-        Assets: 40982924
-        $/Participant: 123071
-        RecordKeeper: MEMBERS CAPITAL ADVISORS, INC. D/B/
-    2018: ALASKA USA 401(K) SAVINGS PLAN
-        Participants: 348
-        Assets: 35790207
-        $/Participant: 102845
+   [503]
+    2022: ALASKA USA FEDERAL CREDIT UNION EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2021: ALASKA USA FEDERAL CREDIT UNION EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: ALASKA USA FEDERAL CREDIT UNION EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2019: ALASKA USA FEDERAL CREDIT UNION EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2018: ALASKA USA FEDERAL CREDIT UNION EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2017: ALASKA USA FEDERAL CREDIT UNION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+   [333]
+    2022: ALASKA USA DEFINED BENEFIT RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
+        Participants: 303
+        Assets: 176131820
+        $/Participant: 581293
         RecordKeeper: CMFG LIFE INSURANCE COMPANY
-    2017: ALASKA USA 401(K) SAVINGS PLAN
-        Participants: 679
-        Assets: 39829949
-        $/Participant: 58659
+    2021: ALASKA USA DEFINED BENEFIT RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
+        Participants: 340
+        Assets: 245073155
+        $/Participant: 720803
         RecordKeeper: CMFG LIFE INSURANCE COMPANY
-        Available Investments:
-           - CMFG LIFE INSURANCE COMPANY
-                 : CMFG LIFE INSURANCE COMPANY PSA
+    2020: ALASKA USA DEFINED BENEFIT RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
+        Participants: 375
+        Assets: 262365877
+        $/Participant: 699642
+        RecordKeeper: CMFG LIFE INSURANCE COMPANY
+    2019: ALASKA USA DEFINED BENEFIT RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
+        Participants: 390
+        Assets: 244208400
+        $/Participant: 626175
+        RecordKeeper: CMFG LIFE INSURANCE COMPANY
+    2018: ALASKA USA DEFINED BENEFIT RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
+        Participants: 410
+        Assets: 220901732
+        $/Participant: 538784
+        RecordKeeper: CMFG LIFE INSURANCE COMPANY
+    2017: ALASKA USA DEFINED BENEFIT RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
+        Participants: 433
+        Assets: 245465467
+        $/Participant: 566894
+        RecordKeeper: CMFG LIFE INSURANCE COMPANY

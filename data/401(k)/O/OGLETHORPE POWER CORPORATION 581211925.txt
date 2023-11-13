@@ -1,33 +1,9 @@
 GA : TUCKER
   OGLETHORPE POWER CORPORATION  581211925
-   [520]
-    2022: OGLETHORPE POWER CORPORATION HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: OGLETHORPE POWER CORPORATION HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: OGLETHORPE POWER CORPORATION HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: OGLETHORPE POWER CORPORATION HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: OGLETHORPE POWER CORPORATION HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: OGLETHORPE POWER CORPORATION HEALTH AND WELFARE PLAN
-        Participants: 
-   [503]
-    2022: OPC-TRAVEL ACCIDENT PLAN
-        Participants: 
-    2021: OPC-TRAVEL ACCIDENT PLAN
-        Participants: 
-    2020: OPC-TRAVEL ACCIDENT PLAN
-        Participants: 
-    2019: OPC-TRAVEL ACCIDENT PLAN
-        Participants: 
-    2018: OPC-TRAVEL ACCIDENT PLAN
-        Participants: 
-    2017: OPC-TRAVEL ACCIDENT PLAN
-        Participants: 
    [002]
     2022: OGLETHORPE POWER CORPORATION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 408
         Assets: 166191850
         $/Participant: 407332
@@ -57,6 +33,8 @@ GA : TUCKER
                  : VANGUARD TARGET 2070
                  : VANGUARD TARGET INC
     2021: OGLETHORPE POWER CORPORATION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T2E3D2R 
         Participants: 388
         Assets: 203873239
         $/Participant: 525446
@@ -71,6 +49,8 @@ GA : TUCKER
            - LOOMIS SAYLES TRUST COMPANY, LLC
                  : LS CORE PL FXINC C
     2020: OGLETHORPE POWER CORPORATION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T3D2E 
         Participants: 370
         Assets: 180574966
         $/Participant: 488040
@@ -79,6 +59,8 @@ GA : TUCKER
            - INVESCO TRUST COMPANY
                  : INVESCO STBL VAL A3
     2019: OGLETHORPE POWER CORPORATION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 370
         Assets: 151965226
         $/Participant: 410716
@@ -87,6 +69,8 @@ GA : TUCKER
            - AMVESCAP NATIONAL TRUST COMPANY
                  : INVESCO STBL VAL A3
     2018: OGLETHORPE POWER CORPORATION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 353
         Assets: 121208509
         $/Participant: 343366
@@ -95,6 +79,8 @@ GA : TUCKER
            - AMVESCAP NATIONAL TRUST COMPANY
                  : INVESCO STBL VAL III
     2017: OGLETHORPE POWER CORPORATION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D2R 
         Participants: 342
         Assets: 125409445
         $/Participant: 366694
@@ -102,3 +88,53 @@ GA : TUCKER
         Available Investments:
            - AMVESCAP NATIONAL TRUST COMPANY
                  : INVESCO STBL VAL III
+   [520]
+    2022: OGLETHORPE POWER CORPORATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2021: OGLETHORPE POWER CORPORATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4Q
+        Participants: 
+    2020: OGLETHORPE POWER CORPORATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4Q
+        Participants: 
+    2019: OGLETHORPE POWER CORPORATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4Q
+        Participants: 
+    2018: OGLETHORPE POWER CORPORATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L4Q
+        Participants: 
+    2017: OGLETHORPE POWER CORPORATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L4Q
+        Participants: 
+   [503]
+    2022: OPC-TRAVEL ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2021: OPC-TRAVEL ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2020: OPC-TRAVEL ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2019: OPC-TRAVEL ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2018: OPC-TRAVEL ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2017: OPC-TRAVEL ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 

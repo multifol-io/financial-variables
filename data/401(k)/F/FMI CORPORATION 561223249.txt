@@ -1,33 +1,9 @@
 NC : RALEIGH
   FMI CORPORATION  561223249
-   [501]
-    2021: FMI CORPORATION WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - CIGNA HEALTH & LIFE INS CO : HLTH CARRIER PROVIDER (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-           - DIGITAL INSURANCE : INSURANCE BROKER (Insurance agents and brokers | Insurance services)
-    2020: FMI CORPORATION WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - CIGNA HEALTH & LIFE INS CO : HLTH CARRIER PROVIDER (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-           - DIGITAL INSURANCE : INSURANCE BROKER (Insurance agents and brokers | Insurance services)
-    2019: FMI CORPORATION WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - CIGNA HEALTH & LIFE INS CO : HLTH CARRIER PROVIDER (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-           - DIGITAL INSURANCE : INSURANCE BROKER (Insurance agents and brokers | Insurance services)
-    2018: FMI CORPORATION WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - CIGNA HEALTH & LIFE INS CO : HLTH CARRIER PROVIDER (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-           - DIGITAL INSURANCE : INSURANCE BROKER (Insurance agents and brokers | Insurance services)
-    2017: FMI CORPORATION WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - CIGNA HEALTH & LIFE INS CO : HLTH CARRIER PROVIDER (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-           - DIGITAL INSURANCE : INSURANCE BROKER (Insurance agents and brokers | Insurance services)
    [001]
     2022: FMI CORPORATION RETIREMENT SAVINGS 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R3D2T 
         Participants: 245
         Assets: 50307977
         $/Participant: 205338
@@ -36,6 +12,8 @@ NC : RALEIGH
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST IV
     2021: FMI CORPORATION RETIREMENT SAVINGS 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R3D2T 
         Participants: 219
         Assets: 62167704
         $/Participant: 283870
@@ -44,6 +22,8 @@ NC : RALEIGH
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST IV
     2020: FMI CORPORATION RETIREMENT SAVINGS 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R3D2T 
         Participants: 214
         Assets: 57895409
         $/Participant: 270539
@@ -54,6 +34,8 @@ NC : RALEIGH
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST IV
     2019: FMI CORPORATION RETIREMENT SAVINGS 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R3D2T 
         Participants: 225
         Assets: 50056968
         $/Participant: 222475
@@ -64,6 +46,8 @@ NC : RALEIGH
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST IV
     2018: FMI CORPORATION RETIREMENT SAVINGS 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R3D2T 
         Participants: 268
         Assets: 40439421
         $/Participant: 150893
@@ -79,6 +63,8 @@ NC : RALEIGH
                  : WILMINGTON TR R/IN MANAGED ACCOUNT
                  : WILMINGTON TR R/MODERATE MANAGED AC
     2017: FMI CORPORATION RETIREMENT SAVINGS 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R3D2T 
         Participants: 235
         Assets: 44167862
         $/Participant: 187948
@@ -93,3 +79,39 @@ NC : RALEIGH
                  : WILMINGTON TR R/GR MANAGED ACCOUNT
                  : WILMINGTON TR R/IN MANAGED ACCOUNT
                  : WILMINGTON TR R/MODERATE MANAGED AC
+   [501]
+    2021: FMI CORPORATION WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Service Providers:
+           - CIGNA HEALTH & LIFE INS CO : HLTH CARRIER PROVIDER (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+           - DIGITAL INSURANCE : INSURANCE BROKER (Insurance agents and brokers | Insurance services)
+    2020: FMI CORPORATION WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Service Providers:
+           - CIGNA HEALTH & LIFE INS CO : HLTH CARRIER PROVIDER (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+           - DIGITAL INSURANCE : INSURANCE BROKER (Insurance agents and brokers | Insurance services)
+    2019: FMI CORPORATION WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Service Providers:
+           - CIGNA HEALTH & LIFE INS CO : HLTH CARRIER PROVIDER (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+           - DIGITAL INSURANCE : INSURANCE BROKER (Insurance agents and brokers | Insurance services)
+    2018: FMI CORPORATION WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Service Providers:
+           - CIGNA HEALTH & LIFE INS CO : HLTH CARRIER PROVIDER (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+           - DIGITAL INSURANCE : INSURANCE BROKER (Insurance agents and brokers | Insurance services)
+    2017: FMI CORPORATION WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Service Providers:
+           - CIGNA HEALTH & LIFE INS CO : HLTH CARRIER PROVIDER (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+           - DIGITAL INSURANCE : INSURANCE BROKER (Insurance agents and brokers | Insurance services)

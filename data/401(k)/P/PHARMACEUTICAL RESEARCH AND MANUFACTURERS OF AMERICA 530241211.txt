@@ -1,20 +1,9 @@
 DC : WASHINGTON
   PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA  530241211
-   [501]
-    2022: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA WELFARE BENEFIT PLAN
-        Participants: 
-    2021: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA WELFARE BENEFIT PLAN
-        Participants: 
-    2020: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA WELFARE BENEFIT PLAN
-        Participants: 
-    2019: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA WELFARE BENEFIT PLAN
-        Participants: 
-    2018: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA WELFARE BENEFIT PLAN
-        Participants: 
-    2017: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA WELFARE BENEFIT PLAN
-        Participants: 
    [002]
     2022: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA DEFERRED SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2T2J2F2G2K2E2S 
         Participants: 383
         Assets: 95096938
         $/Participant: 248294
@@ -25,6 +14,8 @@ DC : WASHINGTON
                  : SCG/TIMESSQUARE
                  : TRP GROWTH STK STGY
     2021: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA DEFERRED SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2T2J2F2G2K2E2S 
         Participants: 373
         Assets: 107029116
         $/Participant: 286941
@@ -35,6 +26,8 @@ DC : WASHINGTON
                  : SCG/TIMESSQUARE
                  : TRP GROWTH STK STGY
     2020: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA DEFERRED SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2T2J2F2G2K2E2S 
         Participants: 356
         Assets: 88858017
         $/Participant: 249601
@@ -45,6 +38,8 @@ DC : WASHINGTON
                  : SCG/TIMESSQUARE
                  : TRP GROWTH STK STGY
     2019: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA DEFERRED SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2T2J2F2G2K2E2S 
         Participants: 346
         Assets: 72067554
         $/Participant: 208287
@@ -55,6 +50,8 @@ DC : WASHINGTON
                  : SCG/TIMESSQUARE
                  : TRP GROWTH STK STGY
     2018: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA DEFERRED SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2T2J2F2G2K2E2S 
         Participants: 332
         Assets: 53381179
         $/Participant: 160786
@@ -66,6 +63,8 @@ DC : WASHINGTON
                  : SCG/TIMESSQUARE
                  : TRP GROWTH STK STGY
     2017: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA DEFERRED SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2T2J2F2G2K2E2S 
         Participants: 324
         Assets: 52535497
         $/Participant: 162146
@@ -76,11 +75,40 @@ DC : WASHINGTON
                  : MCG/ARTISAN PARTNER
                  : SCG/TIMESSQUARE
                  : TRP GROWTH STK STGY
+   [501]
+    2022: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 
+    2021: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 
+    2020: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 
+    2019: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 
+    2018: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 
+    2017: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 
    [001]
     2022: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 0
         RecordKeeper: RESOURCES INVESTMENT ADVISORS INC.
     2021: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 240
         Assets: 111483206
         $/Participant: 464513
@@ -88,6 +116,8 @@ DC : WASHINGTON
            - RESOURCES INVESTMENT ADVISORS INC. : RETAINED BY EMPLOYER (Investment advisory(plan))
            - GLOBAL RETIREMENT PARTNERS, LLC : RETAINED BY EMPLOYER (Investment advisory(plan))
     2020: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 240
         Assets: 118855193
         $/Participant: 495229
@@ -98,6 +128,8 @@ DC : WASHINGTON
            - BLACKROCK INSITUTIONAL TRUST COMPANY, N.A.
                  : RUSSELL 2000 INDEX FUND
     2019: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 283
         Assets: 110125704
         $/Participant: 389136
@@ -108,6 +140,8 @@ DC : WASHINGTON
            - BLACKROCK INSITUTIONAL TRUST COMPANY, N.A.
                  : RUSSELL 2000 INDEX FUND
     2018: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 322
         Assets: 98409839
         $/Participant: 305620
@@ -118,6 +152,8 @@ DC : WASHINGTON
            - BLACKROCK INSITUTIONAL TRUST COMPANY, N.A.
                  : RUSSELL 2000 INDEX FUND
     2017: PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 324
         Assets: 101167295
         $/Participant: 312244

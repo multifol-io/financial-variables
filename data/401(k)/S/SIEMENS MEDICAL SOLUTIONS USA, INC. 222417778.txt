@@ -1,83 +1,9 @@
 PA : MALVERN
   SIEMENS MEDICAL SOLUTIONS USA, INC.  222417778
-   [566]
-    2022: SIEMENS MEDICAL SOLUTIONS USA, INC. RETIREE HEALTH REIMBURSEMENT ACCOUNT PLAN
-        Participants: 
-    2021: SIEMENS MEDICAL SOLUTIONS USA, INC. RETIREE HEALTH REIMBURSEMENT ACCOUNT PLAN
-        Participants: 
-    2020: SIEMENS MEDICAL SOLUTIONS USA, INC. RETIREE HEALTH REIMBURSEMENT ACCOUNT PLAN
-        Participants: 
-    2019: SIEMENS MEDICAL SOLUTIONS USA, INC. RETIREE HEALTH REIMBURSEMENT ACCOUNT PLAN
-        Participants: 
-    2018: SIEMENS MEDICAL SOLUTIONS USA, INC. RETIREE HEALTH REIMBURSEMENT ACCOUNT PLAN
-        Participants: 
-   [565]
-    2022: SIEMENS MEDICAL SOLUTIONS USA, INC. GROUP INSURANCE AND FLEXIBLE BENEFITS PROGRAM
-        Participants: 
-    2021: SIEMENS MEDICAL SOLUTIONS USA, INC. GROUP INSURANCE AND FLEXIBLE BENEFITS PROGRAM
-        Participants: 
-    2020: SIEMENS MEDICAL SOLUTIONS USA, INC. GROUP INSURANCE AND FLEXIBLE BENEFITS PROGRAM
-        Participants: 
-    2019: SIEMENS MEDICAL SOLUTIONS USA, INC. GROUP INSURANCE AND FLEXIBLE BENEFITS PROGRAM
-        Participants: 
-    2018: SIEMENS MEDICAL SOLUTIONS USA, INC. GROUP INSURANCE AND FLEXIBLE BENEFITS PROGRAM
-        Participants: 
-   [560]
-    2019: SIEMENS MEDICAL SOLUTIONS USA, INC. ULTRASOUND VSP
-        Participants: 90
-    2018: SIEMENS MEDICAL SOLUTIONS USA, INC., ULTRASOUND VSP
-        Participants: 99
-   [550]
-    2022: SIEMENS HEALTHINEERS MEDICAL SOLUTIONS USA, INC. SEVERANCE BENEFIT PLAN
-        Participants: 7520
-    2021: SIEMENS HEALTHINEERS MEDICAL SOLUTIONS USA, INC. SEVERANCE BENEFIT PLAN
-        Participants: 7123
-    2020: SIEMENS HEALTHINEERS MEDICAL SOLUTIONS USA, INC. SEVERANCE BENEFIT PLAN
-        Participants: 7063
-    2019: SIEMENS HEALTHINEERS MEDICAL SOLUTIONS USA, INC. SEVERANCE BENEFIT PLAN
-        Participants: 6922
-    2018: SIEMENS HEALTHINEERS MEDICAL SOLUTIONS USA, INC. SEVERANCE BENEFIT PLAN
-        Participants: 6484
-    2017: SIEMENS HEALTHINEERS MEDICAL SOLUTIONS USA, INC. SEVERANCE BENEFIT PLAN
-        Participants: 6518
-   [003]
-    2022: SIEMENS HEALTHCARE DIAGNOSTICS INC. PUERTO RICO PENSION PLAN
-        Participants: 164
-        Assets: 4558227
-        $/Participant: 27794
-        Available Investments:
-           - SIEMENS MEDICAL SOLUTIONS USA, INC.
-                 : MASTER TRUST FOR SMS PENSION PLAN
-    2021: SIEMENS HEALTHCARE DIAGNOSTICS INC. PUERTO RICO PENSION PLAN
-        Participants: 167
-        Assets: 5818549
-        $/Participant: 34841
-        Available Investments:
-           - SIEMENS MEDICAL SOLUTIONS USA, INC.
-                 : MASTER TRUST FOR SMS PENSION PLAN
-    2020: SIEMENS HEALTHCARE DIAGNOSTICS INC. PUERTO RICO PENSION PLAN
-        Participants: 169
-        Assets: 6181188
-        $/Participant: 36575
-        Available Investments:
-           - SIEMENS MEDICAL SOLUTIONS USA, INC.
-                 : MASTER TRUST FOR SMS PENSION PLAN
-    2019: SIEMENS HEALTHCARE DIAGNOSTICS INC. PUERTO RICO PENSION PLAN
-        Participants: 169
-        Assets: 5667194
-        $/Participant: 33533
-        Available Investments:
-           - SIEMENS MEDICAL SOLUTIONS USA, INC.
-                 : MASTER TRUST FOR SMS PENSION PLAN
-    2018: SIEMENS HEALTHCARE DIAGNOSTICS INC. PUERTO RICO PENSION PLAN
-        Participants: 171
-        Assets: 5243860
-        $/Participant: 30665
-        Available Investments:
-           - SIEMENS MEDICAL SOLUTIONS USA, INC.
-                 : MASTER TRUST FOR SMS PENSION PLAN
    [002]
     2022: SIEMENS MEDICAL SOLUTIONS USA, INC. SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2H2J2K2R2S2T3F3H 
         Participants: 20626
         Assets: 5104068995
         $/Participant: 247458
@@ -85,6 +11,8 @@ PA : MALVERN
            - SIEMENS MEDICAL SOLUTIONS USA, INC.
                  : MASTER TRUST FOR SMS SAVINGS PLAN
     2021: SIEMENS MEDICAL SOLUTIONS USA, INC. SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2H2J2K2R2S2T3F3H 
         Participants: 20008
         Assets: 6085837042
         $/Participant: 304170
@@ -92,6 +20,8 @@ PA : MALVERN
            - SIEMENS MEDICAL SOLUTIONS USA, INC.
                  : MASTER TRUST FOR SMS SAVINGS PLAN
     2020: SIEMENS MEDICAL SOLUTIONS USA, INC. SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2H2J2K2R2S2T3F3H 
         Participants: 19446
         Assets: 5456894544
         $/Participant: 280617
@@ -99,6 +29,8 @@ PA : MALVERN
            - SIEMENS MEDICAL SOLUTIONS USA, INC.
                  : MASTER TRUST FOR SMS SAVINGS PLAN
     2019: SIEMENS MEDICAL SOLUTIONS USA, INC. SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2H2J2K2R2S3F3H 
         Participants: 19761
         Assets: 4878032388
         $/Participant: 246851
@@ -106,14 +38,60 @@ PA : MALVERN
            - SIEMENS MEDICAL SOLUTIONS USA, INC.
                  : MASTER TRUST FOR SMS SAVINGS PLAN
     2018: SIEMENS MEDICAL SOLUTIONS USA, INC. SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2H2J2K2R3F3H 
         Participants: 19434
         Assets: 4128956419
         $/Participant: 212460
         Available Investments:
            - SIEMENS MEDICAL SOLUTIONS USA, INC.
                  : MASTER TRUST FOR SMS SAVINGS PLAN
+   [565]
+    2022: SIEMENS MEDICAL SOLUTIONS USA, INC. GROUP INSURANCE AND FLEXIBLE BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: SIEMENS MEDICAL SOLUTIONS USA, INC. GROUP INSURANCE AND FLEXIBLE BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: SIEMENS MEDICAL SOLUTIONS USA, INC. GROUP INSURANCE AND FLEXIBLE BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: SIEMENS MEDICAL SOLUTIONS USA, INC. GROUP INSURANCE AND FLEXIBLE BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: SIEMENS MEDICAL SOLUTIONS USA, INC. GROUP INSURANCE AND FLEXIBLE BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+   [566]
+    2022: SIEMENS MEDICAL SOLUTIONS USA, INC. RETIREE HEALTH REIMBURSEMENT ACCOUNT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2021: SIEMENS MEDICAL SOLUTIONS USA, INC. RETIREE HEALTH REIMBURSEMENT ACCOUNT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2020: SIEMENS MEDICAL SOLUTIONS USA, INC. RETIREE HEALTH REIMBURSEMENT ACCOUNT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: SIEMENS MEDICAL SOLUTIONS USA, INC. RETIREE HEALTH REIMBURSEMENT ACCOUNT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: SIEMENS MEDICAL SOLUTIONS USA, INC. RETIREE HEALTH REIMBURSEMENT ACCOUNT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
    [001]
     2022: SIEMENS MEDICAL SOLUTIONS USA, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I3F3H 
         Participants: 9456
         Assets: 813356225
         $/Participant: 86014
@@ -121,6 +99,8 @@ PA : MALVERN
            - SIEMENS MEDICAL SOLUTIONS USA, INC.
                  : MASTER TRUST FOR SMS PENSION PLAN
     2021: SIEMENS MEDICAL SOLUTIONS USA, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I3F3H 
         Participants: 10068
         Assets: 1078063694
         $/Participant: 107078
@@ -128,6 +108,8 @@ PA : MALVERN
            - SIEMENS MEDICAL SOLUTIONS USA, INC.
                  : MASTER TRUST FOR SMS PENSION PLAN
     2020: SIEMENS MEDICAL SOLUTIONS USA, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I3F3H 
         Participants: 10303
         Assets: 1145309630
         $/Participant: 111162
@@ -135,9 +117,91 @@ PA : MALVERN
            - SIEMENS MEDICAL SOLUTIONS USA, INC.
                  : MASTER TRUST FOR SMS PENSION PLAN
     2019: SIEMENS MEDICAL SOLUTIONS USA, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I3F3H 
         Participants: 10611
         Assets: 1080443150
         $/Participant: 101822
         Available Investments:
            - SIEMENS MEDICAL SOLUTIONS USA, INC.
                  : MASTER TRUST FOR SMS PENSION PLAN
+   [003]
+    2022: SIEMENS HEALTHCARE DIAGNOSTICS INC. PUERTO RICO PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
+        Participants: 164
+        Assets: 4558227
+        $/Participant: 27794
+        Available Investments:
+           - SIEMENS MEDICAL SOLUTIONS USA, INC.
+                 : MASTER TRUST FOR SMS PENSION PLAN
+    2021: SIEMENS HEALTHCARE DIAGNOSTICS INC. PUERTO RICO PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
+        Participants: 167
+        Assets: 5818549
+        $/Participant: 34841
+        Available Investments:
+           - SIEMENS MEDICAL SOLUTIONS USA, INC.
+                 : MASTER TRUST FOR SMS PENSION PLAN
+    2020: SIEMENS HEALTHCARE DIAGNOSTICS INC. PUERTO RICO PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
+        Participants: 169
+        Assets: 6181188
+        $/Participant: 36575
+        Available Investments:
+           - SIEMENS MEDICAL SOLUTIONS USA, INC.
+                 : MASTER TRUST FOR SMS PENSION PLAN
+    2019: SIEMENS HEALTHCARE DIAGNOSTICS INC. PUERTO RICO PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
+        Participants: 169
+        Assets: 5667194
+        $/Participant: 33533
+        Available Investments:
+           - SIEMENS MEDICAL SOLUTIONS USA, INC.
+                 : MASTER TRUST FOR SMS PENSION PLAN
+    2018: SIEMENS HEALTHCARE DIAGNOSTICS INC. PUERTO RICO PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
+        Participants: 171
+        Assets: 5243860
+        $/Participant: 30665
+        Available Investments:
+           - SIEMENS MEDICAL SOLUTIONS USA, INC.
+                 : MASTER TRUST FOR SMS PENSION PLAN
+   [550]
+    2022: SIEMENS HEALTHINEERS MEDICAL SOLUTIONS USA, INC. SEVERANCE BENEFIT PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 7520
+    2021: SIEMENS HEALTHINEERS MEDICAL SOLUTIONS USA, INC. SEVERANCE BENEFIT PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 7123
+    2020: SIEMENS HEALTHINEERS MEDICAL SOLUTIONS USA, INC. SEVERANCE BENEFIT PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 7063
+    2019: SIEMENS HEALTHINEERS MEDICAL SOLUTIONS USA, INC. SEVERANCE BENEFIT PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 6922
+    2018: SIEMENS HEALTHINEERS MEDICAL SOLUTIONS USA, INC. SEVERANCE BENEFIT PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 6484
+    2017: SIEMENS HEALTHINEERS MEDICAL SOLUTIONS USA, INC. SEVERANCE BENEFIT PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 6518
+   [560]
+    2019: SIEMENS MEDICAL SOLUTIONS USA, INC. ULTRASOUND VSP
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 90
+    2018: SIEMENS MEDICAL SOLUTIONS USA, INC., ULTRASOUND VSP
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 99

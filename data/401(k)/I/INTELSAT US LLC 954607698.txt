@@ -1,27 +1,9 @@
 VA : MCLEAN
   INTELSAT US LLC  954607698
-   [513]
-    2019: INTELSAT QUALIFYING RETIREE GROUP HEALTH PLAN
-        Participants: 
-    2018: INTELSAT QUALIFYING RETIREE GROUP HEALTH PLAN
-        Participants: 
-    2017: INTELSAT QUALIFYING RETIREE GROUP HEALTH PLAN
-        Participants: 
-   [512]
-    2022: INTELSAT GROUP WELFARE BENEFITS PLAN
-        Participants: 
-    2021: INTELSAT GROUP WELFARE BENEFITS PLAN
-        Participants: 
-    2020: INTELSAT GROUP WELFARE BENEFITS PLAN
-        Participants: 
-    2019: INTELSAT GROUP WELFARE BENEFITS PLAN
-        Participants: 
-    2018: INTELSAT GROUP WELFARE BENEFITS PLAN
-        Participants: 
-    2017: INTELSAT GROUP WELFARE BENEFITS PLAN
-        Participants: 
    [003]
     2022: INTELSAT 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 2268
         Assets: 452586127
         $/Participant: 199552
@@ -45,6 +27,8 @@ VA : MCLEAN
            - WILMINGTON TRUST, N.A.
                  : CLEARBRIDGE SMALL CAP GROWTH CIT
     2021: INTELSAT 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 2120
         Assets: 546988606
         $/Participant: 258013
@@ -68,6 +52,8 @@ VA : MCLEAN
            - WILMINGTON TRUST, N.A.
                  : CLEARBRIDGE SMALL CAP GROWTH CIT
     2020: INTELSAT 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 2008
         Assets: 464281716
         $/Participant: 231215
@@ -91,6 +77,8 @@ VA : MCLEAN
            - WILMINGTON TRUST, N.A.
                  : CLEARBRIDGE SMALL CAP GROWTH CIT
     2019: INTELSAT 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 1647
         Assets: 393102150
         $/Participant: 238677
@@ -99,6 +87,8 @@ VA : MCLEAN
            - T.ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
     2018: INTELSAT 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 1565
         Assets: 320993228
         $/Participant: 205107
@@ -107,6 +97,8 @@ VA : MCLEAN
            - T.ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
     2017: INTELSAT 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 1540
         Assets: 346073758
         $/Participant: 224723
@@ -114,8 +106,48 @@ VA : MCLEAN
         Available Investments:
            - T.ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
+   [512]
+    2022: INTELSAT GROUP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: INTELSAT GROUP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: INTELSAT GROUP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: INTELSAT GROUP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: INTELSAT GROUP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: INTELSAT GROUP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+   [513]
+    2019: INTELSAT QUALIFYING RETIREE GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4R
+        Participants: 
+    2018: INTELSAT QUALIFYING RETIREE GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2017: INTELSAT QUALIFYING RETIREE GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
    [001]
     2021: INTELSAT STAFF RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3F3H 
         Participants: 733
         Assets: 296055216
         $/Participant: 403895
@@ -125,6 +157,8 @@ VA : MCLEAN
                  : SEI CORE PROPERTY COLLECTIVE INVEST
                  : SEI SPECIAL SITUATIONS COLLECTIVE
     2020: INTELSAT STAFF RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3F3H 
         Participants: 744
         Assets: 366602251
         $/Participant: 492744
@@ -134,6 +168,8 @@ VA : MCLEAN
                  : SEI CORE PROPERTY COLLECTIVE INVEST
                  : SEI SPECIAL SITUATIONS COLLECTIVE
     2019: INTELSAT STAFF RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3F3H 
         Participants: 751
         Assets: 334161056
         $/Participant: 444954
@@ -143,6 +179,8 @@ VA : MCLEAN
                  : SEI CORE PROPERTY COLLECTIVE INVEST
                  : SEI SPECIAL SITUATIONS COLLECTIVE
     2018: INTELSAT STAFF RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3F3H 
         Participants: 759
         Assets: 327030155
         $/Participant: 430869
@@ -152,6 +190,8 @@ VA : MCLEAN
                  : SEI CORE PROPERTY COLLECTIVE INVEST
                  : SEI SPECIAL SITUATIONS COLLECTIVE
     2017: INTELSAT STAFF RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3F3H 
         Participants: 768
         Assets: 327443405
         $/Participant: 426358

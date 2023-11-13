@@ -1,85 +1,135 @@
 NE : LINCOLN
   COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST  470708027
-   [507]
-    2022: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP HEALTH PLAN
-        Participants: 151
-    2021: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP HEALTH PLAN
-        Participants: 120
-    2020: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP HEALTH PLAN
-        Participants: 108
-    2019: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP HEALTH PLAN
-        Participants: 105
-   [506]
-    2022: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP DENTAL AND VISION PLAN
-        Participants: 154
-    2021: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP DENTAL & VISION PLAN
-        Participants: 124
-    2020: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP DENTAL & VISION PLAN
-        Participants: 116
-    2019: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP DENTAL AND VISION PLAN
-        Participants: 110
-   [505]
-    2022: CECM LIFE AND DISABILITY II
-        Participants: 203
-    2021: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP LIFE AND DISABILITY PLAN
-        Participants: 194
-    2020: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP LIFE AND DISABILITY PLAN
-        Participants: 162
-    2019: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP LIFE AND DISABILITY PLAN
-        Participants: 148
-    2018: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP LIFE AND DISABILITY PLAN
-        Participants: 140
-    2017: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP LIFE AND DISABILITY PLAN
-        Participants: 134
-   [003]
-    2021: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 174
-        Assets: 59599526
-        $/Participant: 342526
-    2020: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 164
-        Assets: 31856549
-        $/Participant: 194247
-    2019: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 173
-        Assets: 16938332
-        $/Participant: 97909
-    2018: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 161
-        Assets: 10424137
-        $/Participant: 64746
-    2017: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 143
-        Assets: 8843421
-        $/Participant: 61842
    [001]
     2022: COMMONWEALTH ELECTRIC CO. OF THE MIDWEST, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2S2T3D 
         Participants: 225
         Assets: 14639727
         $/Participant: 65065
         RecordKeeper: BENEFIT PLANS, INC.
     2021: COMMONWEALTH ELECTRIC CO. OF THE MIDWEST, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2S2T3D 
         Participants: 168
         Assets: 17866232
         $/Participant: 106346
         RecordKeeper: NATIONWIDE
     2020: COMMONWEALTH ELECTRIC CO. OF THE MIDWEST, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2S2T3D 
         Participants: 150
         Assets: 14939170
         $/Participant: 99594
         RecordKeeper: BENEFIT PLANS, INC.
     2019: COMMONWEALTH ELECTRIC CO. OF THE MIDWEST, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2T3D 
         Participants: 153
         Assets: 13562476
         $/Participant: 88643
         RecordKeeper: BENEFIT PLANS, INC.
     2018: COMMONWEALTH ELECTRIC CO. OF THE MIDWEST, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2T3D 
         Participants: 135
         Assets: 11641803
         $/Participant: 86235
         RecordKeeper: NATIONWIDE
     2017: COMMONWEALTH ELECTRIC CO. OF THE MIDWEST, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2J3D 
         Participants: 135
         Assets: 13797559
         $/Participant: 102204
         RecordKeeper: CLS INVESTMENTS
+   [003]
+    2021: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I3I2P2Q 
+        Participants: 174
+        Assets: 59599526
+        $/Participant: 342526
+    2020: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q2I 
+        Participants: 164
+        Assets: 31856549
+        $/Participant: 194247
+    2019: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q2I 
+        Participants: 173
+        Assets: 16938332
+        $/Participant: 97909
+    2018: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q2I 
+        Participants: 161
+        Assets: 10424137
+        $/Participant: 64746
+    2017: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q2I 
+        Participants: 143
+        Assets: 8843421
+        $/Participant: 61842
+   [507]
+    2022: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 151
+    2021: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 120
+    2020: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 108
+    2019: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 105
+   [505]
+    2022: CECM LIFE AND DISABILITY II
+        Benefit Category: Other
+        Codes:  4B4F4H
+        Participants: 203
+    2021: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP LIFE AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H
+        Participants: 194
+    2020: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP LIFE AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H
+        Participants: 162
+    2019: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP LIFE AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H
+        Participants: 148
+    2018: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP LIFE AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H
+        Participants: 140
+    2017: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP LIFE AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H
+        Participants: 134
+   [506]
+    2022: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP DENTAL AND VISION PLAN
+        Benefit Category: Other
+        Codes:  4D4E
+        Participants: 154
+    2021: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP DENTAL & VISION PLAN
+        Benefit Category: Other
+        Codes:  4D4E
+        Participants: 124
+    2020: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP DENTAL & VISION PLAN
+        Benefit Category: Other
+        Codes:  4D4E
+        Participants: 116
+    2019: COMMONWEALTH ELECTRIC COMPANY OF THE MIDWEST GROUP DENTAL AND VISION PLAN
+        Benefit Category: Other
+        Codes:  4D4E
+        Participants: 110

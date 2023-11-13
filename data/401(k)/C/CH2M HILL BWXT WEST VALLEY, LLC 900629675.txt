@@ -1,63 +1,9 @@
 NY : WEST VALLEY
   CH2M HILL BWXT WEST VALLEY, LLC  900629675
-   [510]
-    2022: WEST VALLEY EMPLOYEE SECURITY & PROTECTION PLAN FOR UNION REPRESENTED EMPLOYEES
-        Participants: 
-    2021: WEST VALLEY EMPLOYEE SECURITY & PROTECTION PLAN FOR UNION REPRESENTED EMPLOYEES
-        Participants: 
-    2020: WEST VALLEY EMPLOYEE SECURITY & PROTECTION PLAN FOR UNION REPRESENTED EMPLOYEES
-        Participants: 
-    2019: WEST VALLEY EMPLOYEE SECURITY & PROTECTION PLAN FOR UNION REPRESENTED EMPLOYEES
-        Participants: 
-    2018: WEST VALLEY EMPLOYEE SECURITY & PROTECTION PLAN FOR UNION REPRESENTED EMPLOYEES
-        Participants: 
-    2017: WEST VALLEY EMPLOYEE SECURITY & PROTECTION PLAN FOR UNION REPRESENTED EMPLOYEES
-        Participants: 
-   [502]
-    2022: WEST VALLEY INVOLUNTARY SEPARATION PLAN
-        Participants: 
-    2021: WEST VALLEY INVOLUNTARY SEPARATION PLAN
-        Participants: 
-    2020: WEST VALLEY INVOLUNTARY SEPARATION PLAN
-        Participants: 
-    2019: WEST VALLEY INVOLUNTARY SEPARATION PLAN
-        Participants: 
-    2018: WEST VALLEY INVOLUNTARY SEPARATION PLAN
-        Participants: 
-    2017: WEST VALLEY INVOLUNTARY SEPARATION PLAN
-        Participants: 
-   [501]
-    2022: WEST VALLEY WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
-           - CHILD AND FAMILY SERVICES EAP :  (Plan Administrator)
-    2021: WEST VALLEY WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
-           - CHILD AND FAMILY SERVICES EAP :  (Plan Administrator)
-    2020: WEST VALLEY WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
-           - CHILD AND FAMILY SERVICES EAP :  (Plan Administrator)
-    2019: WEST VALLEY WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
-           - CHILD AND FAMILY SERVICES EAP :  (Plan Administrator)
-    2018: WEST VALLEY WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
-    2017: WEST VALLEY WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
-           - AETNA BEHAVIORAL HEALTH : PLAN ADMINISTRATOR (Plan Administrator)
    [002]
     2022: WEST VALLEY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3F3H 
         Participants: 407
         Assets: 72365331
         $/Participant: 177801
@@ -70,6 +16,8 @@ NY : WEST VALLEY
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
     2021: WEST VALLEY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3F3H 
         Participants: 373
         Assets: 87718618
         $/Participant: 235170
@@ -80,6 +28,8 @@ NY : WEST VALLEY
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
     2020: WEST VALLEY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3F3H 
         Participants: 312
         Assets: 78868071
         $/Participant: 252782
@@ -90,6 +40,8 @@ NY : WEST VALLEY
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
     2019: WEST VALLEY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3F3H 
         Participants: 296
         Assets: 67676967
         $/Participant: 228638
@@ -100,6 +52,8 @@ NY : WEST VALLEY
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
     2018: WEST VALLEY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3F3H 
         Participants: 304
         Assets: 58957966
         $/Participant: 193940
@@ -112,6 +66,8 @@ NY : WEST VALLEY
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
     2017: WEST VALLEY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3F3H 
         Participants: 327
         Assets: 63142952
         $/Participant: 193097
@@ -123,8 +79,52 @@ NY : WEST VALLEY
                  : TRP US TREASURY MONEY MARKET TRUST
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
+   [501]
+    2022: WEST VALLEY WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
+           - CHILD AND FAMILY SERVICES EAP :  (Plan Administrator)
+    2021: WEST VALLEY WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
+           - CHILD AND FAMILY SERVICES EAP :  (Plan Administrator)
+    2020: WEST VALLEY WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
+           - CHILD AND FAMILY SERVICES EAP :  (Plan Administrator)
+    2019: WEST VALLEY WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
+           - CHILD AND FAMILY SERVICES EAP :  (Plan Administrator)
+    2018: WEST VALLEY WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
+    2017: WEST VALLEY WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
+           - AETNA BEHAVIORAL HEALTH : PLAN ADMINISTRATOR (Plan Administrator)
    [001]
     2022: WEST VALLEY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3F3H 
         Participants: 774
         Assets: 121784198
         $/Participant: 157343
@@ -145,6 +145,8 @@ NY : WEST VALLEY
                  : MERCER US LARGE CAP CORE PASSIVE EQ
                  : MERCER US SMALL/MID CAP EQUITY PORT
     2021: WEST VALLEY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3F3H 
         Participants: 782
         Assets: 151059831
         $/Participant: 193171
@@ -165,6 +167,8 @@ NY : WEST VALLEY
                  : MERCER US LARGE CAP CORE PASSIVE
                  : MERCER US SMALL/MID CAP EQUITY PORT
     2020: WEST VALLEY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3F3H 
         Participants: 793
         Assets: 148247799
         $/Participant: 186945
@@ -185,6 +189,8 @@ NY : WEST VALLEY
                  : MERCER US LARGE CAP CORE PASSIVE EQ
                  : MERCER US SMALL/MID CAP EQUITY PORT
     2019: WEST VALLEY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3F3H 
         Participants: 799
         Assets: 116843867
         $/Participant: 146237
@@ -205,6 +211,8 @@ NY : WEST VALLEY
                  : MERCER US LARGE CAP CORE PASSIVE EQ
                  : MERCER US SMALL/MID CAP EQUITY PORT
     2017: WEST VALLEY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3F3H 
         Participants: 812
         Assets: 106039422
         $/Participant: 130590
@@ -224,3 +232,53 @@ NY : WEST VALLEY
                  : MGI US LARGE CAP PASSIVE EQUITY FUN
                  : MGI US LONG DURATION BOND FUND
                  : MGI US SMALL/MID CAP GROWTH EQUITY
+   [502]
+    2022: WEST VALLEY INVOLUNTARY SEPARATION PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2021: WEST VALLEY INVOLUNTARY SEPARATION PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2020: WEST VALLEY INVOLUNTARY SEPARATION PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2019: WEST VALLEY INVOLUNTARY SEPARATION PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2018: WEST VALLEY INVOLUNTARY SEPARATION PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2017: WEST VALLEY INVOLUNTARY SEPARATION PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+   [510]
+    2022: WEST VALLEY EMPLOYEE SECURITY & PROTECTION PLAN FOR UNION REPRESENTED EMPLOYEES
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2021: WEST VALLEY EMPLOYEE SECURITY & PROTECTION PLAN FOR UNION REPRESENTED EMPLOYEES
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2020: WEST VALLEY EMPLOYEE SECURITY & PROTECTION PLAN FOR UNION REPRESENTED EMPLOYEES
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2019: WEST VALLEY EMPLOYEE SECURITY & PROTECTION PLAN FOR UNION REPRESENTED EMPLOYEES
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2018: WEST VALLEY EMPLOYEE SECURITY & PROTECTION PLAN FOR UNION REPRESENTED EMPLOYEES
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2017: WEST VALLEY EMPLOYEE SECURITY & PROTECTION PLAN FOR UNION REPRESENTED EMPLOYEES
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

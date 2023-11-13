@@ -1,53 +1,9 @@
 NY : UNIONDALE
   RIVKIN RADLER LLP  111853927
-   [511]
-    2017: RIVKIN RADLER LLP FLEXIBLE SPENDING PLAN
-        Participants: 
-   [510]
-    2017: RIVKIN RADLER LLP PREMIUM ONLY PLAN
-        Participants: 
-   [509]
-    2017: RIVKIN RADLER LLP LONG TERM DISABILITY PLAN
-        Participants: 
-   [501]
-    2022: RIVKIN RADLER LLP WELFARE BENEFIT PLAN
-        Participants: 
-        Assets: 845603
-        $/Participant: 
-        Service Providers:
-           - CIGNA HEALTH & LIFE INSURANCE CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2021: RIVKIN RADLER LLP WELFARE BENEFIT PLAN
-        Participants: 
-        Assets: 435925
-        $/Participant: 
-        Service Providers:
-           - CIGNA HEALTH & LIFE INSURANCE CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2020: RIVKIN RADLER LLP WELFARE BENEFIT PLAN
-        Participants: 
-        Assets: 631000
-        $/Participant: 
-        Service Providers:
-           - CIGNA HEALTH & LIFE INSURANCE CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2019: RIVKIN RADLER LLP WELFARE BENEFIT PLAN
-        Participants: 
-        Assets: 326905
-        $/Participant: 
-        Service Providers:
-           - CIGNA HEALTH & LIFE INSURANCE CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2018: RIVKIN RADLER LLP WELFARE BENEFIT PLAN
-        Participants: 
-        Assets: 1046475
-        $/Participant: 
-        Service Providers:
-           - CIGNA HEALTH & LIFE INSURANCE CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2017: RIVKIN RADLER LLP COMPREHENSIVE MEDICAL BENEFITS TRUST PLAN
-        Participants: 
-        Assets: 390175
-        $/Participant: 
-        Service Providers:
-           - CIGNA HEALTH & LIFE INSURANCE CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
    [003]
     2022: RIVKIN RADLER LLP 401(K) SAVINGS & PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D 
         Participants: 549
         Assets: 140056137
         $/Participant: 255111
@@ -59,6 +15,8 @@ NY : UNIONDALE
                  : MID CAP VALUE I1
                  : SMALL CAP GROWTH L1
     2021: RIVKIN RADLER LLP 401(K) SAVINGS & PROFIT SHARING
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K2S2T3D 
         Participants: 484
         Assets: 158779191
         $/Participant: 328056
@@ -70,6 +28,8 @@ NY : UNIONDALE
                  : MID CAP VALUE CIT
                  : SMALL CAP GROWTH CIT
     2020: RIVKIN RADLER LLP 401(K) SAVINGS & PROFIT SHARING
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3D2S2T 
         Participants: 446
         Assets: 139034989
         $/Participant: 311737
@@ -78,17 +38,87 @@ NY : UNIONDALE
            - WILMINGTON TRUST
                  : SMALL CAP GROWTH CIT
     2019: RIVKIN RADLER LLP 401(K) SAVINGS & PROFIT SHARING
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3D2S2T 
         Participants: 448
         Assets: 119230322
         $/Participant: 266139
         RecordKeeper: VANGUARD
     2018: RIVKIN RADLER LLP 401(K) SAVINGS & PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 435
         Assets: 97060778
         $/Participant: 223128
         RecordKeeper: FIDELITY INVESTMENTS
     2017: RIVKIN RADLER LLP 401(K) SAVINGS & PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 408
         Assets: 95920908
         $/Participant: 235100
         RecordKeeper: FIDELITY INVESTMENTS
+   [501]
+    2022: RIVKIN RADLER LLP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 
+        Assets: 845603
+        $/Participant: 
+        Service Providers:
+           - CIGNA HEALTH & LIFE INSURANCE CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+    2021: RIVKIN RADLER LLP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 
+        Assets: 435925
+        $/Participant: 
+        Service Providers:
+           - CIGNA HEALTH & LIFE INSURANCE CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+    2020: RIVKIN RADLER LLP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 
+        Assets: 631000
+        $/Participant: 
+        Service Providers:
+           - CIGNA HEALTH & LIFE INSURANCE CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+    2019: RIVKIN RADLER LLP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 
+        Assets: 326905
+        $/Participant: 
+        Service Providers:
+           - CIGNA HEALTH & LIFE INSURANCE CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+    2018: RIVKIN RADLER LLP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 
+        Assets: 1046475
+        $/Participant: 
+        Service Providers:
+           - CIGNA HEALTH & LIFE INSURANCE CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+    2017: RIVKIN RADLER LLP COMPREHENSIVE MEDICAL BENEFITS TRUST PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L
+        Participants: 
+        Assets: 390175
+        $/Participant: 
+        Service Providers:
+           - CIGNA HEALTH & LIFE INSURANCE CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+   [509]
+    2017: RIVKIN RADLER LLP LONG TERM DISABILITY PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [510]
+    2017: RIVKIN RADLER LLP PREMIUM ONLY PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+   [511]
+    2017: RIVKIN RADLER LLP FLEXIBLE SPENDING PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 

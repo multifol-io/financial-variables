@@ -1,59 +1,9 @@
 WI : MILWAUKEE
   FOLEY & LARDNER LLP  390473800
-   [504]
-    2022: FOLEY & LARDNER LLP GROUP ACCIDENT INSURANCE PLAN
-        Participants: 386
-    2021: FOLEY & LARDNER LLP GROUP ACCIDENT INSURANCE PLAN
-        Participants: 379
-    2020: FOLEY & LARDNER LLP GROUP ACCIDENT INSURANCE PLAN
-        Participants: 365
-    2019: FOLEY & LARDNER LLP GROUP ACCIDENT INSURANCE PLAN
-        Participants: 357
-    2018: FOLEY & LARDNER LLP GROUP ACCIDENT INSURANCE PLAN
-        Participants: 312
-    2017: FOLEY & LARDNER LLP GROUP ACCIDENT INSURANCE PLAN
-        Participants: 286
-   [503]
-    2022: FOLEY & LARDNER LLP GROUP DISABILITY INSURANCE PLAN
-        Participants: 2078
-    2021: FOLEY & LARDNER LLP GROUP DISABILITY INSURANCE PLAN
-        Participants: 2023
-    2020: FOLEY & LARDNER LLP GROUP DISABILITY INSURANCE PLAN
-        Participants: 2065
-    2019: FOLEY & LARDNER LLP GROUP DISABILITY INSURANCE PLAN
-        Participants: 2212
-    2018: FOLEY & LARDNER LLP GROUP DISABILITY INSURANCE PLAN
-        Participants: 1943
-    2017: FOLEY & LARDNER LLP GROUP DISABILITY INSURANCE PLAN
-        Participants: 1805
-   [502]
-    2022: FOLEY & LARDNER LLP GROUP LIFE INSURANCE PLAN
-        Participants: 1986
-    2021: FOLEY & LARDNER LLP GROUP LIFE INSURANCE PLAN
-        Participants: 2012
-    2020: FOLEY & LARDNER LLP GROUP LIFE INSURANCE PLAN
-        Participants: 2050
-    2019: FOLEY & LARDNER LLP GROUP LIFE INSURANCE PLAN
-        Participants: 2163
-    2018: FOLEY & LARDNER LLP GROUP LIFE INSURANCE PLAN
-        Participants: 2129
-    2017: FOLEY & LARDNER LLP GROUP LIFE INSURANCE PLAN
-        Participants: 1751
-   [501]
-    2022: FOLEY & LARDNER LLP GROUP HEALTH INSURANCE PLAN
-        Participants: 1716
-    2021: FOLEY & LARDNER LLP GROUP HEALTH INSURANCE PLAN
-        Participants: 1692
-    2020: FOLEY & LARDNER LLP GROUP HEALTH INSURANCE PLAN
-        Participants: 1709
-    2019: FOLEY & LARDNER LLP GROUP HEALTH INSURANCE PLAN
-        Participants: 1838
-    2018: FOLEY & LARDNER LLP GROUP HEALTH INSURANCE PLAN
-        Participants: 1874
-    2017: FOLEY & LARDNER LLP GROUP HEALTH INSURANCE PLAN
-        Participants: 1492
    [007]
     2021: FOLEY & LARDNER LLP DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3B 
         Participants: 3334
         Assets: 1474998674
         $/Participant: 442411
@@ -62,6 +12,8 @@ WI : MILWAUKEE
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
     2020: FOLEY & LARDNER LLP DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3B 
         Participants: 3336
         Assets: 1368879049
         $/Participant: 410335
@@ -70,6 +22,8 @@ WI : MILWAUKEE
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
     2019: FOLEY & LARDNER LLP DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3B 
         Participants: 3428
         Assets: 1211796422
         $/Participant: 353499
@@ -78,6 +32,8 @@ WI : MILWAUKEE
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
     2018: FOLEY & LARDNER LLP DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3B 
         Participants: 2922
         Assets: 912964311
         $/Participant: 312445
@@ -86,6 +42,8 @@ WI : MILWAUKEE
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
     2017: FOLEY & LARDNER LLP DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3B 
         Participants: 2814
         Assets: 937910285
         $/Participant: 333301
@@ -93,8 +51,141 @@ WI : MILWAUKEE
         Available Investments:
            - UNION BOND & TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
+   [501]
+    2022: FOLEY & LARDNER LLP GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 1716
+    2021: FOLEY & LARDNER LLP GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 1692
+    2020: FOLEY & LARDNER LLP GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 1709
+    2019: FOLEY & LARDNER LLP GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 1838
+    2018: FOLEY & LARDNER LLP GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 1874
+    2017: FOLEY & LARDNER LLP GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 1492
+   [001]
+    2020: FOLEY & LARDNER LLP MASTER PENSION TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Service Providers:
+           - US BANK :  (Trustee(bank, trust company, or similar))
+    2019: FOLEY & LARDNER LLP MASTER PENSION TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 90654873
+        $/Participant: 
+        Service Providers:
+           - US BANK :  (Trustee(bank, trust company, or similar))
+    2018: FOLEY & LARDNER LLP MASTER PENSION TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 130415284
+        $/Participant: 
+        Service Providers:
+           - US BANK :  (Trustee(bank, trust company, or similar))
+    2017: FOLEY & LARDNER LLP MASTER PENSION TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 132000934
+        $/Participant: 
+        Service Providers:
+           - US BANK :  (Trustee(bank, trust company, or similar))
+   [502]
+    2022: FOLEY & LARDNER LLP GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 1986
+    2021: FOLEY & LARDNER LLP GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 2012
+    2020: FOLEY & LARDNER LLP GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 2050
+    2019: FOLEY & LARDNER LLP GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 2163
+    2018: FOLEY & LARDNER LLP GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 2129
+    2017: FOLEY & LARDNER LLP GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 1751
+   [503]
+    2022: FOLEY & LARDNER LLP GROUP DISABILITY INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 2078
+    2021: FOLEY & LARDNER LLP GROUP DISABILITY INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 2023
+    2020: FOLEY & LARDNER LLP GROUP DISABILITY INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 2065
+    2019: FOLEY & LARDNER LLP GROUP DISABILITY INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 2212
+    2018: FOLEY & LARDNER LLP GROUP DISABILITY INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 1943
+    2017: FOLEY & LARDNER LLP GROUP DISABILITY INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 1805
+   [504]
+    2022: FOLEY & LARDNER LLP GROUP ACCIDENT INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 386
+    2021: FOLEY & LARDNER LLP GROUP ACCIDENT INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 379
+    2020: FOLEY & LARDNER LLP GROUP ACCIDENT INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 365
+    2019: FOLEY & LARDNER LLP GROUP ACCIDENT INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 357
+    2018: FOLEY & LARDNER LLP GROUP ACCIDENT INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 312
+    2017: FOLEY & LARDNER LLP GROUP ACCIDENT INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 286
    [003]
     2021: FOLEY & LARDNER LLP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3B3F 
         Participants: 352
         Assets: 51909372
         $/Participant: 147469
@@ -112,6 +203,8 @@ WI : MILWAUKEE
                  : PRINCIPAL OVERSEAS SEP ACCT-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
     2020: FOLEY & LARDNER LLP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3B3F 
         Participants: 365
         Assets: 49850732
         $/Participant: 136577
@@ -131,6 +224,8 @@ WI : MILWAUKEE
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRINCIPAL OVERSEAS SEP ACCT-Z
     2019: FOLEY & LARDNER LLP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3B3F 
         Participants: 744
         Assets: 57936167
         $/Participant: 77871
@@ -149,6 +244,8 @@ WI : MILWAUKEE
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRINCIPAL OVERSEAS SEP ACCT-Z
     2018: FOLEY & LARDNER LLP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 756
         Assets: 54010636
         $/Participant: 71442
@@ -156,32 +253,11 @@ WI : MILWAUKEE
            - FOLEY & LARDNER, LLP
                  : F & L LLP MASTER PENSION TRUST
     2017: FOLEY & LARDNER LLP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 771
         Assets: 60375794
         $/Participant: 78308
         Available Investments:
            - FOLEY & LARDNER, LLP
                  : F & L LLP MASTER PENSION TRUST
-   [001]
-    2020: FOLEY & LARDNER LLP MASTER PENSION TRUST
-        Participants: 
-        Service Providers:
-           - US BANK :  (Trustee(bank, trust company, or similar))
-    2019: FOLEY & LARDNER LLP MASTER PENSION TRUST
-        Participants: 
-        Assets: 90654873
-        $/Participant: 
-        Service Providers:
-           - US BANK :  (Trustee(bank, trust company, or similar))
-    2018: FOLEY & LARDNER LLP MASTER PENSION TRUST
-        Participants: 
-        Assets: 130415284
-        $/Participant: 
-        Service Providers:
-           - US BANK :  (Trustee(bank, trust company, or similar))
-    2017: FOLEY & LARDNER LLP MASTER PENSION TRUST
-        Participants: 
-        Assets: 132000934
-        $/Participant: 
-        Service Providers:
-           - US BANK :  (Trustee(bank, trust company, or similar))

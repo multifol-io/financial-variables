@@ -1,23 +1,9 @@
 OK : OKLAHOMA CITY
   MCAFEE & TAFT A PROFESSIONAL CORPORATION  730781676
-   [503]
-    2017: MCAFEE & TAFT LIFE AND FSA BENEFIT PLAN
-        Participants: 249
-   [501]
-    2022: MCAFEE & TAFT WELFARE BENEFITS PLAN
-        Participants: 
-    2021: MCAFEE & TAFT WELFARE BENEFITS PLAN
-        Participants: 
-    2020: MCAFEE & TAFT WELFARE BENEFITS PLAN
-        Participants: 
-    2019: MCAFEE & TAFT WELFARE BENEFITS PLAN
-        Participants: 
-    2018: MCAFEE & TAFT WELFARE BENEFITS PLAN
-        Participants: 
-    2017: MCAFEE & TAFT WELFARE BENEFITS PLAN
-        Participants: 312
    [001]
     2022: MCAFEE & TAFT RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3D 
         Participants: 346
         Assets: 124126796
         $/Participant: 358747
@@ -30,6 +16,8 @@ OK : OKLAHOMA CITY
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE
     2021: MCAFEE & TAFT RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3D 
         Participants: 359
         Assets: 157293023
         $/Participant: 438142
@@ -38,6 +26,8 @@ OK : OKLAHOMA CITY
            - NEW YORK LIFE INSURANCE COMPANY
                  : STABLE VALUE ACCOUNT
     2020: MCAFEE & TAFT RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D2R2A 
         Participants: 363
         Assets: 146929431
         $/Participant: 404764
@@ -46,6 +36,8 @@ OK : OKLAHOMA CITY
            - NEW YORK LIFE INSURANCE COMPANY
                  : STABLE VALUE ACCOUNT
     2019: MCAFEE & TAFT RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3D 
         Participants: 370
         Assets: 158856214
         $/Participant: 429341
@@ -54,6 +46,8 @@ OK : OKLAHOMA CITY
            - NEW YORK LIFE INSURANCE COMPANY
                  : STABLE VALUE ACCOUNT
     2018: MCAFEE & TAFT RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3D 
         Participants: 360
         Assets: 135016321
         $/Participant: 375045
@@ -62,6 +56,8 @@ OK : OKLAHOMA CITY
            - NEW YORK LIFE INSURANCE COMPANY
                  : STABLE VALUE ACCOUNT
     2017: MCAFEE & TAFT RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T 
         Participants: 371
         Assets: 149323816
         $/Participant: 402490
@@ -69,3 +65,33 @@ OK : OKLAHOMA CITY
         Available Investments:
            - NEW YORK LIFE INSURANCE COMPANY
                  : STABLE VALUE ACCOUNT
+   [501]
+    2022: MCAFEE & TAFT WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2021: MCAFEE & TAFT WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2020: MCAFEE & TAFT WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2019: MCAFEE & TAFT WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2018: MCAFEE & TAFT WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2017: MCAFEE & TAFT WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 312
+   [503]
+    2017: MCAFEE & TAFT LIFE AND FSA BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4L4Q
+        Participants: 249

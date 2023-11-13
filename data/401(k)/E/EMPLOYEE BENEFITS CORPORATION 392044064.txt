@@ -1,62 +1,9 @@
-WI : MIDDLETON
-  EMPLOYEE BENEFITS CORPORATION  392044064
-   [506]
-    2022: EMPLOYEE BENEFITS CORPORATION WRAP PLAN
-        Participants: 
-        Service Providers:
-           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATO (Contract Administrator)
-           - USI INSURANCE SERVICES LLC-WI : INSURANCE AGENT (Insurance agents and brokers)
-    2021: EMPLOYEE BENEFITS CORPORATION WRAP PLAN
-        Participants: 
-        Service Providers:
-           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATO (Contract Administrator)
-           - USI INSURANCE SERVICES LLC-WI : INSURANCE AGENT (Insurance agents and brokers)
-    2020: EMPLOYEE BENEFITS CORPORATION WRAP PLAN
-        Participants: 
-        Service Providers:
-           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATO (Contract Administrator)
-           - USI INSURANCE SERVICES LLC-WI : INSURANCE AGENT (Insurance agents and brokers)
-    2019: EMPLOYEE BENEFITS CORPORATION WRAP PLAN
-        Participants: 
-        Service Providers:
-           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATO (Contract Administrator)
-           - ASSOCIATED BENEFITS & RISK CON : INSURANCE AGENT (Insurance agents and brokers)
-    2018: EMPLOYEE BENEFITS CORPORATION WRAP PLAN
-        Participants: 
-        Service Providers:
-           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATO (Contract Administrator)
-           - ASSOCIATED FINANCIAL GROUP LLC : INSURANCE AGENT (Insurance agents and brokers)
-    2017: EMPLOYEE BENEFITS CORPORATION WRAP PLAN
-        Participants: 
-        Service Providers:
-           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATO (Contract Administrator)
-           - ASSOCIATED FINANCIAL GROUP LLC : INSURANCE AGENT (Insurance agents and brokers)
 WI : MADISON
-   [003]
-    2022: EMPLOYEE BENEFITS CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 148
-        Assets: 57006754
-        $/Participant: 385180
-    2021: EMPLOYEE BENEFITS CORPORATION ESOP
-        Participants: 131
-        Assets: 39438504
-        $/Participant: 301057
-    2020: EMPLOYEE BENEFITS CORPORATION ESOP
-        Participants: 131
-        Assets: 34322925
-        $/Participant: 262007
-    2019: EMPLOYEE BENEFITS CORPORATION ESOP
-        Participants: 121
-        Assets: 31699515
-        $/Participant: 261979
-    2018: EMPLOYEE BENEFITS CORPORATION ESOP
-        Participants: 114
-        Assets: 28585419
-        $/Participant: 250749
-    2017: EMPLOYEE BENEFITS CORPORATION ESOP
-        Participants: 105
+  EMPLOYEE BENEFITS CORPORATION  392044064
    [002]
     2022: EMPLOYEE BENEFITS CORPORATION 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 220
         Assets: 17043867
         $/Participant: 77472
@@ -65,6 +12,8 @@ WI : MADISON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2021: EMPLOYEE BENEFITS CORPORATION 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 200
         Assets: 20255752
         $/Participant: 101278
@@ -73,6 +22,8 @@ WI : MADISON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2020: EMPLOYEE BENEFITS CORPORATION 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 195
         Assets: 16867663
         $/Participant: 86500
@@ -81,6 +32,8 @@ WI : MADISON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2019: EMPLOYEE BENEFITS CORPORATION 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 190
         Assets: 12963400
         $/Participant: 68228
@@ -89,6 +42,8 @@ WI : MADISON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2018: EMPLOYEE BENEFITS CORPORATION 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 187
         Assets: 9334914
         $/Participant: 49919
@@ -97,6 +52,8 @@ WI : MADISON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2017: EMPLOYEE BENEFITS CORPORATION 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 168
         Assets: 10472125
         $/Participant: 62334
@@ -104,3 +61,82 @@ WI : MADISON
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
+   [003]
+    2022: EMPLOYEE BENEFITS CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
+        Participants: 148
+        Assets: 57006754
+        $/Participant: 385180
+    2021: EMPLOYEE BENEFITS CORPORATION ESOP
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
+        Participants: 131
+        Assets: 39438504
+        $/Participant: 301057
+    2020: EMPLOYEE BENEFITS CORPORATION ESOP
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
+        Participants: 131
+        Assets: 34322925
+        $/Participant: 262007
+    2019: EMPLOYEE BENEFITS CORPORATION ESOP
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2Q3I 
+        Participants: 121
+        Assets: 31699515
+        $/Participant: 261979
+    2018: EMPLOYEE BENEFITS CORPORATION ESOP
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2Q3I 
+        Participants: 114
+        Assets: 28585419
+        $/Participant: 250749
+    2017: EMPLOYEE BENEFITS CORPORATION ESOP
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2Q3I 
+        Participants: 105
+WI : MIDDLETON
+   [506]
+    2022: EMPLOYEE BENEFITS CORPORATION WRAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+        Service Providers:
+           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATO (Contract Administrator)
+           - USI INSURANCE SERVICES LLC-WI : INSURANCE AGENT (Insurance agents and brokers)
+    2021: EMPLOYEE BENEFITS CORPORATION WRAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+        Service Providers:
+           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATO (Contract Administrator)
+           - USI INSURANCE SERVICES LLC-WI : INSURANCE AGENT (Insurance agents and brokers)
+    2020: EMPLOYEE BENEFITS CORPORATION WRAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+        Service Providers:
+           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATO (Contract Administrator)
+           - USI INSURANCE SERVICES LLC-WI : INSURANCE AGENT (Insurance agents and brokers)
+    2019: EMPLOYEE BENEFITS CORPORATION WRAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+        Service Providers:
+           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATO (Contract Administrator)
+           - ASSOCIATED BENEFITS & RISK CON : INSURANCE AGENT (Insurance agents and brokers)
+    2018: EMPLOYEE BENEFITS CORPORATION WRAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+        Service Providers:
+           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATO (Contract Administrator)
+           - ASSOCIATED FINANCIAL GROUP LLC : INSURANCE AGENT (Insurance agents and brokers)
+    2017: EMPLOYEE BENEFITS CORPORATION WRAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+        Service Providers:
+           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATO (Contract Administrator)
+           - ASSOCIATED FINANCIAL GROUP LLC : INSURANCE AGENT (Insurance agents and brokers)

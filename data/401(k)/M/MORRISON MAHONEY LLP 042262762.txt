@@ -1,75 +1,30 @@
 MA : BOSTON
   MORRISON MAHONEY LLP  042262762
-   [506]
-    2022: MORRISON MAHONEY LLP WELFARE BENEFIT PLAN
-        Participants: 
-    2021: MORRISON MAHONEY LLP WELFARE BENEFIT PLAN
-        Participants: 
-    2020: MORRISON MAHONEY LLP WELFARE BENEFIT PLAN
-        Participants: 
-    2019: MORRISON MAHONEY LLP WELFARE BENEFIT PLAN
-        Participants: 
-    2018: MORRISON MAHONEY LLP WELFARE BENEFIT PLAN
-        Participants: 
-    2017: MORRISON MAHONEY LLP WELFARE BENEFIT PLAN
-        Participants: 
-   [002]
-    2022: MORRISON MAHONEY LLP ASSOCIATE 401(K) PLAN
-        Participants: 230
-        Assets: 20024848
-        $/Participant: 87064
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2021: MORRISON MAHONEY LLP ASSOCIATE 401(K) PLAN
-        Participants: 203
-        Assets: 26240482
-        $/Participant: 129263
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2020: MORRISON MAHONEY LLP ASSOCIATE 401(K) PLAN
-        Participants: 200
-        Assets: 21018367
-        $/Participant: 105091
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2019: MORRISON MAHONEY LLP ASSOCIATE 401(K) PLAN
-        Participants: 196
-        Assets: 16734826
-        $/Participant: 85381
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : MIP CL 1
-    2018: MORRISON MAHONEY LLP ASSOCIATE 401(K) PLAN
-        Participants: 189
-        Assets: 13256270
-        $/Participant: 70138
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : MIP CL 1
-    2017: MORRISON MAHONEY LLP ASSOCIATE 401(K) PLAN
-        Participants: 187
-        Assets: 14609747
-        $/Participant: 78126
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : MIP CL 1
    [001]
     2022: MORRISON MAHONEY LLP PROFIT SHARING - 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T2E3D2R 
         Participants: 344
         Assets: 74013043
         $/Participant: 215154
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2021: MORRISON MAHONEY LLP PROFIT SHARING - 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D2R2E 
         Participants: 382
         Assets: 96592915
         $/Participant: 252861
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2020: MORRISON MAHONEY LLP PROFIT SHARING - 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D2R 
         Participants: 323
         Assets: 83626100
         $/Participant: 258904
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2019: MORRISON MAHONEY LLP PROFIT SHARING - 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 333
         Assets: 72198662
         $/Participant: 216812
@@ -78,6 +33,8 @@ MA : BOSTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2018: MORRISON MAHONEY LLP PROFIT SHARING - 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 320
         Assets: 59057959
         $/Participant: 184556
@@ -86,6 +43,8 @@ MA : BOSTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2017: MORRISON MAHONEY LLP PROFIT SHARING - 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 328
         Assets: 62667904
         $/Participant: 191060
@@ -93,3 +52,80 @@ MA : BOSTON
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
+   [002]
+    2022: MORRISON MAHONEY LLP ASSOCIATE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2T2G3D2R 
+        Participants: 230
+        Assets: 20024848
+        $/Participant: 87064
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2021: MORRISON MAHONEY LLP ASSOCIATE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2T2G3D2R 
+        Participants: 203
+        Assets: 26240482
+        $/Participant: 129263
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2020: MORRISON MAHONEY LLP ASSOCIATE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2T2G3D 
+        Participants: 200
+        Assets: 21018367
+        $/Participant: 105091
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2019: MORRISON MAHONEY LLP ASSOCIATE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2T3D2G 
+        Participants: 196
+        Assets: 16734826
+        $/Participant: 85381
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : MIP CL 1
+    2018: MORRISON MAHONEY LLP ASSOCIATE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
+        Participants: 189
+        Assets: 13256270
+        $/Participant: 70138
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : MIP CL 1
+    2017: MORRISON MAHONEY LLP ASSOCIATE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
+        Participants: 187
+        Assets: 14609747
+        $/Participant: 78126
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : MIP CL 1
+   [506]
+    2022: MORRISON MAHONEY LLP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 
+    2021: MORRISON MAHONEY LLP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 
+    2020: MORRISON MAHONEY LLP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 
+    2019: MORRISON MAHONEY LLP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 
+    2018: MORRISON MAHONEY LLP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 
+    2017: MORRISON MAHONEY LLP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 

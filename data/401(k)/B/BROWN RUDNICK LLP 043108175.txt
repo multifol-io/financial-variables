@@ -1,57 +1,9 @@
 MA : BOSTON
   BROWN RUDNICK LLP  043108175
-   [505]
-    2021: BROWN RUDNICK WELFARE BENEFIT PLAN
-        Participants: 
-    2020: BROWN RUDNICK WELFARE BENEFIT PLAN
-        Participants: 
-    2019: BROWN RUDNICK WELFARE BENEFIT PLAN
-        Participants: 
-    2018: BROWN RUDNICK WELFARE BENEFIT PLAN
-        Participants: 
-    2017: BROWN RUDNICK WELFARE BENEFIT PLAN
-        Participants: 
-   [006]
-    2022: BROWN RUDNICK LLP 401(K) PROFIT SHARING PLAN B
-        Participants: 315
-        Assets: 31739669
-        $/Participant: 100760
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC RETIREMENT SAVINGS TRUST IV
-    2021: BROWN RUDNICK LLP 401(K) PROFIT SHARING PLAN B
-        Participants: 282
-        Assets: 33899112
-        $/Participant: 120209
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC RETIREMENT SAVINGS TRUST IV
-    2020: BROWN RUDNICK LLP 401(K) PROFIT SHARING PLAN B
-        Participants: 273
-        Assets: 27721610
-        $/Participant: 101544
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC RETIREMENT SAVINGS TRUST IV
-           - WELLS FARGO BANK N.A.
-                 : WELLS FARGO STABLE VALUE FUND C
-    2019: BROWN RUDNICK LLP 401(K) PROFIT SHARING PLAN B
-        Participants: 260
-        Assets: 23851013
-        $/Participant: 91734
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-        Available Investments:
-           - WELLS FARGO BANK N.A.
-                 : WELLS FARGO STABLE VALUE FUND C
-    2018: BROWN RUDNICK LLP 401(K) PROFIT SHARING PLAN B
-        Participants: 227
-        Assets: 1449039
-        $/Participant: 6383
    [003]
     2022: BROWN RUDNICK LLP 401K PROFIT SHARING PLAN A
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3H 
         Participants: 460
         Assets: 109932569
         $/Participant: 238983
@@ -60,6 +12,8 @@ MA : BOSTON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST IV
     2021: BROWN RUDNICK LLP 401K PROFIT SHARING PLAN A
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3H 
         Participants: 427
         Assets: 127963528
         $/Participant: 299680
@@ -68,6 +22,8 @@ MA : BOSTON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST IV
     2020: BROWN RUDNICK LLP 401K PROFIT SHARING PLAN A
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3H 
         Participants: 426
         Assets: 118448119
         $/Participant: 278047
@@ -78,6 +34,8 @@ MA : BOSTON
            - WELLS FARGO BANK N.A.
                  : WELLS FARGO STABLE VALUE FUND C
     2019: BROWN RUDNICK LLP 401K PROFIT SHARING PLAN A
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3H 
         Participants: 446
         Assets: 102067848
         $/Participant: 228851
@@ -86,6 +44,8 @@ MA : BOSTON
            - WELLS FARGO BANK N.A.
                  : WELLS FARGO STABLE VALUE FUND C
     2018: BROWN RUDNICK LLP 401K PROFIT SHARING PLAN A
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3H 
         Participants: 575
         Assets: 102053507
         $/Participant: 177484
@@ -96,6 +56,8 @@ MA : BOSTON
            - WELLS FARGO BANK
                  : WELLS FARGO STABLE VALUE C
     2017: BROWN RUDNICK LLP 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3H 
         Participants: 531
         Assets: 107039489
         $/Participant: 201580
@@ -105,3 +67,73 @@ MA : BOSTON
                  : CAPITAL PRESERVATION FUND
            - WELLS FARGO BANK
                  : WELLS FARGO STABLE VALUE C
+   [006]
+    2022: BROWN RUDNICK LLP 401(K) PROFIT SHARING PLAN B
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3H 
+        Participants: 315
+        Assets: 31739669
+        $/Participant: 100760
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC RETIREMENT SAVINGS TRUST IV
+    2021: BROWN RUDNICK LLP 401(K) PROFIT SHARING PLAN B
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3H 
+        Participants: 282
+        Assets: 33899112
+        $/Participant: 120209
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC RETIREMENT SAVINGS TRUST IV
+    2020: BROWN RUDNICK LLP 401(K) PROFIT SHARING PLAN B
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3D3H 
+        Participants: 273
+        Assets: 27721610
+        $/Participant: 101544
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC RETIREMENT SAVINGS TRUST IV
+           - WELLS FARGO BANK N.A.
+                 : WELLS FARGO STABLE VALUE FUND C
+    2019: BROWN RUDNICK LLP 401(K) PROFIT SHARING PLAN B
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3D3H 
+        Participants: 260
+        Assets: 23851013
+        $/Participant: 91734
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+        Available Investments:
+           - WELLS FARGO BANK N.A.
+                 : WELLS FARGO STABLE VALUE FUND C
+    2018: BROWN RUDNICK LLP 401(K) PROFIT SHARING PLAN B
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3D3H 
+        Participants: 227
+        Assets: 1449039
+        $/Participant: 6383
+   [505]
+    2021: BROWN RUDNICK WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: BROWN RUDNICK WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: BROWN RUDNICK WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: BROWN RUDNICK WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2017: BROWN RUDNICK WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 

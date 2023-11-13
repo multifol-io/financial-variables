@@ -1,47 +1,30 @@
 NY : NEW YORK
   MSD CAPITAL L.P.  742880190
-   [501]
-    2022: MSD CAPITAL L. P. HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE CO : ADMINISTRATION (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Investment management fees paid indirectly by plan | Float revenue)
-    2021: MSD CAPITAL L. P. HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE CO : ADMINISTRATION (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Investment management fees paid indirectly by plan | Float revenue)
-    2020: MSD CAPITAL L. P. HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE CO : ADMINISTRATION (Claims processing | Contract Administrator)
-    2019: MSD CAPITAL L. P. HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE CO : ADMINISTRATION (Claims processing | Contract Administrator)
-    2018: MSD CAPITAL, L. P. HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - CIGNA HEALLTH AND LIFE INSURANCE CO : HEALTH ADMIN (Claims processing | Contract Administrator)
-    2017: MSD CAPITAL, L. P. HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE CO : HEALTH ADMIN (Claims processing | Contract Administrator)
    [001]
     2021: MSD CAPITAL, L.P. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2T3H2E3D 
         Participants: 199
         Assets: 61463346
         $/Participant: 308861
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2020: MSD CAPITAL, L.P. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2T3H2E3D 
         Participants: 184
         Assets: 50626417
         $/Participant: 275143
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2019: MSD CAPITAL, L.P. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2T3D3H2E 
         Participants: 176
         Assets: 41288581
         $/Participant: 234594
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2018: MSD CAPITAL, L.P. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2T3D3H2E 
         Participants: 166
         Assets: 31183965
         $/Participant: 187855
@@ -50,6 +33,8 @@ NY : NEW YORK
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2017: MSD CAPITAL, L.P. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2T3D2E 
         Participants: 171
         Assets: 31456680
         $/Participant: 183957
@@ -57,3 +42,40 @@ NY : NEW YORK
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
+   [501]
+    2022: MSD CAPITAL L. P. HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L
+        Participants: 
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE CO : ADMINISTRATION (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Investment management fees paid indirectly by plan | Float revenue)
+    2021: MSD CAPITAL L. P. HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L
+        Participants: 
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE CO : ADMINISTRATION (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Investment management fees paid indirectly by plan | Float revenue)
+    2020: MSD CAPITAL L. P. HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L
+        Participants: 
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE CO : ADMINISTRATION (Claims processing | Contract Administrator)
+    2019: MSD CAPITAL L. P. HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L
+        Participants: 
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE CO : ADMINISTRATION (Claims processing | Contract Administrator)
+    2018: MSD CAPITAL, L. P. HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L
+        Participants: 
+        Service Providers:
+           - CIGNA HEALLTH AND LIFE INSURANCE CO : HEALTH ADMIN (Claims processing | Contract Administrator)
+    2017: MSD CAPITAL, L. P. HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L
+        Participants: 
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE CO : HEALTH ADMIN (Claims processing | Contract Administrator)

@@ -1,51 +1,77 @@
 IA : CLIVE
   NCMIC GROUP, INC.  421469363
-   [502]
-    2022: NCMIC WELFARE BENEFIT PLAN
-        Participants: 
-    2021: NCMIC WELFARE BENEFIT PLAN
-        Participants: 
-    2020: NCMIC WELFARE BENEFIT PLAN
-        Participants: 
-    2019: NCMIC WELFARE BENEFIT PLAN
-        Participants: 
-    2018: NCMIC WELFARE BENEFIT PLAN
-        Participants: 
-    2017: NCMIC WELFARE BENEFIT PLAN
-        Participants: 
    [002]
     2022: NCMIC GROUP, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2K2T2E2S3D2R2J2F 
         Participants: 242
         Assets: 48475810
         $/Participant: 200313
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2021: NCMIC GROUP, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2J2F2G2K3D2T2R2E2S 
         Participants: 241
         Assets: 63625087
         $/Participant: 264004
         RecordKeeper: T. ROWE PRICE
     2020: NCMIC GROUP, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3D2T 
         Participants: 272
         Assets: 56634437
         $/Participant: 208214
         RecordKeeper: VANGUARD
     2019: NCMIC GROUP, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3D3H2T 
         Participants: 274
         Assets: 40270981
         $/Participant: 146974
         RecordKeeper: VIRTUS MUTUAL FUNDS
     2018: NCMIC GROUP, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3D3H2T 
         Participants: 258
         Assets: 37280406
         $/Participant: 144497
         RecordKeeper: VIRTUS MUTUAL FUNDS
     2017: NCMIC GROUP, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3D3H2T 
         Participants: 247
         Assets: 38201209
         $/Participant: 154660
         RecordKeeper: VIRTUS MUTUAL FUNDS
+   [502]
+    2022: NCMIC WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2021: NCMIC WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2020: NCMIC WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2019: NCMIC WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2018: NCMIC WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2017: NCMIC WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
    [001]
     2020: NCMIC GROUP, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1H 
         Participants: 0
         Service Providers:
            - MASSACHUSETTS MUTUAL LIFE INS. CO. : CONTRACT ADMINISTRATOR (Contract Administrator | Sub - transfer agency fees | Float revenue)
@@ -58,6 +84,8 @@ IA : CLIVE
                  : SIA-JRS
                  : SIA-Q1
     2019: NCMIC GROUP, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 96
         Assets: 39535938
         $/Participant: 411832
@@ -74,6 +102,8 @@ IA : CLIVE
                  : SIA-JRS
                  : SIA-Q1
     2018: NCMIC GROUP, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 96
         Assets: 33717435
         $/Participant: 351223
@@ -106,6 +136,8 @@ IA : CLIVE
                  : SIA-WG
                  : SIA-YT
     2017: NCMIC GROUP, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 96
         Assets: 31856414
         $/Participant: 331837

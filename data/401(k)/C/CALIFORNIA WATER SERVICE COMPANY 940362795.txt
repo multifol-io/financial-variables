@@ -1,65 +1,9 @@
 CA : SAN JOSE
-  CALIFORNIA WATER SERVICE CO  940362795
-   [504]
-    2022: CALIFORNIA WATER SERVICE CO HEALTH CARE PLAN
-        Participants: 
-        Assets: 47627848
-        $/Participant: 
-        RecordKeeper: ANTHEM BLUE CROSS
-        Available Investments:
-           - STATE STREET GLOBAL ADVISORS TRUST COMPANY
-                 : S&P 500 (R) INDX NL CTF (CM10CTF)
-    2021: CALIFORNIA WATER SERVICE CO HEALTH CARE PLAN
-        Participants: 
-        Assets: 58023760
-        $/Participant: 
-        RecordKeeper: ANTHEM BLUE CROSS
-    2020: CALIFORNIA WATER SERVICE CO HEALTH CARE PLAN
-        Participants: 
-        Assets: 49891253
-        $/Participant: 
-        RecordKeeper: ANTHEM BLUE CROSS
-    2019: CALIFORNIA WATER SERVICE CO HEALTH CARE PLAN
-        Participants: 1529
-        Assets: 44641438
-        $/Participant: 29196
-        RecordKeeper: ANTHEM BLUE CROSS L&H INSURANCE CO
-    2018: CALIFORNIA WATER SERVICE CO HEALTH CARE PLAN
-        Participants: 1451
-        Assets: 38206880
-        $/Participant: 26331
-    2017: CALIFORNIA WATER SERVICE CO HEALTH CARE PLAN
-        Participants: 1469
-        Assets: 38582450
-        $/Participant: 26264
-   [503]
-    2022: CALIFORNIA WATER SERVICE CO LONG TERM DISABILITY PLAN
-        Participants: 
-    2021: CALIFORNIA WATER SERVICE CO LONG TERM DISABILITY PLAN
-        Participants: 
-    2020: CALIFORNIA WATER SERVICE CO LONG TERM DISABILITY PLAN
-        Participants: 
-    2019: CALIFORNIA WATER SERVICE CO LONG TERM DISABILITY PLAN
-        Participants: 975
-    2018: CALIFORNIA WATER SERVICE CO LONG TERM DISABILITY PLAN
-        Participants: 984
-    2017: CALIFORNIA WATER SERVICE CO LONG TERM DISABILITY PLAN
-        Participants: 1008
-   [502]
-    2022: CALIFORNIA WATER SERVICE CO LIFE INSURANCE COMPANY
-        Participants: 
-    2021: CALIFORNIA WATER SERVICE CO LIFE INSURANCE COMPANY
-        Participants: 
-    2020: CALIFORNIA WATER SERVICE CO LIFE INSURANCE COMPANY
-        Participants: 
-    2019: CALIFORNIA WATER SERVICE COMPANY LIFE INSURANCE PLAN
-        Participants: 1477
-    2018: CALIFORNIA WATER SERVICE COMPANY LIFE INSURANCE PLAN
-        Participants: 1459
-    2017: CALIFORNIA WATER SERVICE COMPANY LIFE INSURANCE PLAN
-        Participants: 1454
+  CALIFORNIA WATER SERVICE COMPANY  940362795
    [004]
     2022: CALIFORNIA WATER SERVICE COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2I2J2K2R2S2T3D 
         Participants: 1519
         Assets: 288717280
         $/Participant: 190070
@@ -87,6 +31,8 @@ CA : SAN JOSE
                  : VANGUARD TARGET RETIREMENT 2070 TRU
                  : VANGUARD TARGET RETIREMENT INCOME
     2021: CALIFORNIA WATER SERVICE COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2I2J2K2R2S2T3D 
         Participants: 1467
         Assets: 347971858
         $/Participant: 237199
@@ -101,6 +47,8 @@ CA : SAN JOSE
            - WELLS FARGO BANK, N.A
                  : WELLS FARGO STABLE VALUE FUND E
     2020: CALIFORNIA WATER SERVICE COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2I2J2K2R2S2T3D 
         Participants: 1452
         Assets: 311629993
         $/Participant: 214621
@@ -115,6 +63,8 @@ CA : SAN JOSE
            - WELLS FARGO BANK, N.A
                  : WELLS FARGO STABLE VALUE FUND E
     2019: CALIFORNIA WATER SERVICE COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2I2J2K2R2S2T3D 
         Participants: 1426
         Assets: 278623780
         $/Participant: 195388
@@ -129,6 +79,8 @@ CA : SAN JOSE
            - WELLS FARGO BANK, N.A
                  : WELLS FARGO STABLE VALUE FUND E
     2018: CALIFORNIA WATER SERVICE COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2I2J2K2R2S2T3D 
         Participants: 1462
         Assets: 226904881
         $/Participant: 155201
@@ -137,6 +89,8 @@ CA : SAN JOSE
            - UNION BOND & TRUST COMPANY
                  : MORLEY STABLE VALUE NET 230
     2017: CALIFORNIA WATER SERVICE COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2I2J2K2R2S2T3D 
         Participants: 1417
         Assets: 235120370
         $/Participant: 165928
@@ -144,8 +98,104 @@ CA : SAN JOSE
         Available Investments:
            - UNION BOND & TRUST COMPANY
                  : MORLEY STABLE VALUE NET 230
+   [504]
+    2022: CALIFORNIA WATER SERVICE CO HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+        Assets: 47627848
+        $/Participant: 
+        RecordKeeper: ANTHEM BLUE CROSS
+        Available Investments:
+           - STATE STREET GLOBAL ADVISORS TRUST COMPANY
+                 : S&P 500 (R) INDX NL CTF (CM10CTF)
+    2021: CALIFORNIA WATER SERVICE CO HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+        Assets: 58023760
+        $/Participant: 
+        RecordKeeper: ANTHEM BLUE CROSS
+    2020: CALIFORNIA WATER SERVICE CO HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+        Assets: 49891253
+        $/Participant: 
+        RecordKeeper: ANTHEM BLUE CROSS
+    2019: CALIFORNIA WATER SERVICE CO HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 1529
+        Assets: 44641438
+        $/Participant: 29196
+        RecordKeeper: ANTHEM BLUE CROSS L&H INSURANCE CO
+    2018: CALIFORNIA WATER SERVICE CO HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 1451
+        Assets: 38206880
+        $/Participant: 26331
+    2017: CALIFORNIA WATER SERVICE CO HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 1469
+        Assets: 38582450
+        $/Participant: 26264
+   [502]
+    2022: CALIFORNIA WATER SERVICE CO LIFE INSURANCE COMPANY
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2021: CALIFORNIA WATER SERVICE CO LIFE INSURANCE COMPANY
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2020: CALIFORNIA WATER SERVICE CO LIFE INSURANCE COMPANY
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2019: CALIFORNIA WATER SERVICE COMPANY LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 1477
+    2018: CALIFORNIA WATER SERVICE COMPANY LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 1459
+    2017: CALIFORNIA WATER SERVICE COMPANY LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 1454
+   [503]
+    2022: CALIFORNIA WATER SERVICE CO LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 
+    2021: CALIFORNIA WATER SERVICE CO LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 
+    2020: CALIFORNIA WATER SERVICE CO LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 
+    2019: CALIFORNIA WATER SERVICE CO LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 975
+    2018: CALIFORNIA WATER SERVICE CO LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 984
+    2017: CALIFORNIA WATER SERVICE CO LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 1008
    [001]
     2022: CALIFORNIA WATER SERVICE COMPANY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 2288
         Assets: 738152162
         $/Participant: 322618
@@ -162,6 +212,8 @@ CA : SAN JOSE
            - STATE STREET GLOBAL ADVISORS TRUST COMPANY
                  : STATE STREET S&P 500 INDEX NON-LEND
     2021: CALIFORNIA WATER SERVICE COMPANY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 2202
         Assets: 934637805
         $/Participant: 424449
@@ -176,6 +228,8 @@ CA : SAN JOSE
                  : SCHRODER INT
                  : TCW MULTIPLE INVESTMENT TRUST
     2020: CALIFORNIA WATER SERVICE COMPANY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 2156
         Assets: 829640743
         $/Participant: 384805
@@ -190,6 +244,8 @@ CA : SAN JOSE
                  : SCHRODER INT
                  : TCW MULTIPLE INVESTMENT TRUST
     2019: CALIFORNIA WATER SERVICE COMPANY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 2116
         Assets: 667966818
         $/Participant: 315674
@@ -202,10 +258,14 @@ CA : SAN JOSE
                  : SCHRODER INT
                  : TCW MULTIPLE INVESTMENT TRUST
     2018: CALIFORNIA WATER SERVICE COMPANY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 2082
         Assets: 552878511
         $/Participant: 265551
     2017: CALIFORNIA WATER SERVICE COMPANY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 2050
         Assets: 573376139
         $/Participant: 279695

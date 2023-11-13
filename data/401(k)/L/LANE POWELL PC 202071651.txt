@@ -1,20 +1,9 @@
 WA : SEATTLE
   LANE POWELL PC  202071651
-   [505]
-    2022: LANE POWELL PC EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2021: LANE POWELL PC EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2020: LANE POWELL PC EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2019: LANE POWELL PC EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2018: LANE POWELL PC EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2017: LANE POWELL PC EMPLOYEE BENEFIT PLAN
-        Participants: 
    [003]
     2022: LANE POWELL PC 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3F 
         Participants: 635
         Assets: 223690762
         $/Participant: 352268
@@ -40,6 +29,8 @@ WA : SEATTLE
                  : RUSSELL US LARGE CAP EQUITY INDEX
                  : RUSSELL US SM/MID CAP EQUITY
     2021: LANE POWELL PC 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3F 
         Participants: 617
         Assets: 279687338
         $/Participant: 453302
@@ -67,6 +58,8 @@ WA : SEATTLE
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE VALUE C
     2020: LANE POWELL PC 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3F 
         Participants: 612
         Assets: 260402471
         $/Participant: 425494
@@ -97,6 +90,8 @@ WA : SEATTLE
                  : WF BLACKROCK S & P MC INDEX CIT F
                  : WF BLACKROCK U S AGG BD INDEX CIT F
     2019: LANE POWELL PC 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R3D2S2T3F 4B
         Participants: 659
         Assets: 238197065
         $/Participant: 361452
@@ -108,6 +103,8 @@ WA : SEATTLE
                  : WF BLACKROCK S & P MC INDEX CIT F
                  : WF BLACKROCK U S AGG BD INDEX CIT F
     2018: LANE POWELL PC 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R3D2S2T3F 4B
         Participants: 652
         Assets: 200607294
         $/Participant: 307679
@@ -119,6 +116,8 @@ WA : SEATTLE
                  : WF BLACKROCK S & P MC INDEX CIT F
                  : WF BLACKROCK U S AGG BD INDEX CIT F
     2017: LANE POWELL PC 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R3D2S2T3F 4B
         Participants: 669
         Assets: 214473354
         $/Participant: 320587
@@ -131,3 +130,28 @@ WA : SEATTLE
                  : WF BLACKROCK U S AGG BD INDEX CIT F
            - WELLS FARGO BANK, N.A
                  : WELLS FARGO STABLE RETURN FUND F
+   [505]
+    2022: LANE POWELL PC EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2021: LANE POWELL PC EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L
+        Participants: 
+    2020: LANE POWELL PC EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L
+        Participants: 
+    2019: LANE POWELL PC EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L
+        Participants: 
+    2018: LANE POWELL PC EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L
+        Participants: 
+    2017: LANE POWELL PC EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L
+        Participants: 

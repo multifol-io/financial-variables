@@ -1,20 +1,9 @@
 CA : BREA
   GRIFFITH COMPANY  950795590
-   [501]
-    2022: GRIFFITH COMPANY WELFARE BENEFITS PLAN
-        Participants: 
-    2021: GRIFFITH COMPANY WELFARE BENEFITS PLAN
-        Participants: 
-    2020: GRIFFITH COMPANY WELFARE BENEFITS PLAN
-        Participants: 
-    2019: GRIFFITH COMPANY WELFARE BENEFITS PLAN
-        Participants: 
-    2018: GRIFFITH COMPANY WELFARE BENEFITS PLAN
-        Participants: 
-    2017: GRIFFITH COMPANY WELFARE BENEFITS PLAN
-        Participants: 
    [005]
     2022: GRIFFITH COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 230
         Assets: 10506860
         $/Participant: 45682
@@ -25,6 +14,8 @@ CA : BREA
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2021: GRIFFITH COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 213
         Assets: 11502407
         $/Participant: 54001
@@ -35,6 +26,8 @@ CA : BREA
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2020: GRIFFITH COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 209
         Assets: 9642079
         $/Participant: 46134
@@ -58,6 +51,8 @@ CA : BREA
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2019: GRIFFITH COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 201
         Assets: 7939197
         $/Participant: 39498
@@ -82,6 +77,8 @@ CA : BREA
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2018: GRIFFITH COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D 
         Participants: 187
         Assets: 6524888
         $/Participant: 34892
@@ -106,6 +103,8 @@ CA : BREA
                  : PRIN MIDCAP S&P 400 IDX SA-R5
                  : PRIN SMCAP S&P 600 INDEX SA-R5
     2017: GRIFFITH COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 166
         Assets: 6973892
         $/Participant: 42011
@@ -131,30 +130,67 @@ CA : BREA
                  : PRIN SMCAP S&P 600 INDEX SA-R5
    [004]
     2022: GRIFFITH COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
         Participants: 291
         Assets: 118602024
         $/Participant: 407567
     2021: GRIFFITH COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
         Participants: 268
         Assets: 99406802
         $/Participant: 370920
         Service Providers:
            - CITY NATIONAL BANK : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
     2020: GRIFFITH COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
         Participants: 272
         Assets: 70704106
         $/Participant: 259941
         Service Providers:
            - CITY NATIONAL BANK : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
     2019: GRIFFITH COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
         Participants: 266
         Assets: 54543490
         $/Participant: 205050
     2018: GRIFFITH COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
         Participants: 254
         Assets: 36918083
         $/Participant: 145346
     2017: GRIFFITH COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
         Participants: 231
         Assets: 32807360
         $/Participant: 142023
+   [501]
+    2022: GRIFFITH COMPANY WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2021: GRIFFITH COMPANY WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2020: GRIFFITH COMPANY WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2019: GRIFFITH COMPANY WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+    2018: GRIFFITH COMPANY WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+    2017: GRIFFITH COMPANY WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 

@@ -1,19 +1,9 @@
 GA : ATLANTA
   SOCIETE INTERNATIONALE DE TELECOMMUNICATIONS AERONAUTIQUES, S.C.  112133344
-    2022: SITA GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: SITA GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: SITA GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: SITA GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: SITA GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: SITA GROUP HEALTH AND WELFARE PLAN
-        Participants: 
    [002]
     2022: SITA EMPLOYEE 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 1034
         Assets: 250091762
         $/Participant: 241868
@@ -38,6 +28,8 @@ GA : ATLANTA
                  : T. ROWE PRICE RETIREMENT 2065 TRUST
                  : TRP STABLE VALUE COMMON TRUST FUND
     2021: SITA EMPLOYEE 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 1062
         Assets: 352951471
         $/Participant: 332346
@@ -62,6 +54,8 @@ GA : ATLANTA
                  : T. ROWE PRICE RETIREMENT 2065 TRUST
                  : TRP STABLE VALUE COMMON TRUST FUND
     2020: SITA EMPLOYEE 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 1188
         Assets: 360869743
         $/Participant: 303762
@@ -72,6 +66,8 @@ GA : ATLANTA
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
     2019: SITA EMPLOYEE 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 1290
         Assets: 329796924
         $/Participant: 255656
@@ -80,6 +76,8 @@ GA : ATLANTA
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
     2018: SITA EMPLOYEE 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 1307
         Assets: 273662946
         $/Participant: 209382
@@ -88,6 +86,8 @@ GA : ATLANTA
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
     2017: SITA EMPLOYEE 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 1261
         Assets: 280882805
         $/Participant: 222746
@@ -95,3 +95,34 @@ GA : ATLANTA
         Available Investments:
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
+   [501]
+    2022: SITA GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q4G
+        Participants: 
+    2021: SITA GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2020: SITA GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2019: SITA GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2018: SITA GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2017: SITA GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 

@@ -1,26 +1,9 @@
 OK : TULSA
   EXPLORER PIPELINE COMPANY  730785982
-   [501]
-    2022: EXPLORER PIPELINE COMPANY WELFARE BENEFITS PLAN
-        Participants: 673
-        Service Providers:
-           - UMR, INC : CLAIMS PROCESSING (Claims processing)
-    2021: GROUP INSURANCE PLAN
-        Participants: 671
-        Service Providers:
-           - BRIGHTHOUSE LIFE INSURANCE COMPANY : COVERED SERVICE PROVIDER ()
-    2020: GROUP INSURANCE PLAN
-        Participants: 649
-        Service Providers:
-           - BRIGHTHOUSE LIFE INSURANCE COMPANY : COVERED SERVICE PROVIDER ()
-    2019: GROUP INSURANCE PLAN
-        Participants: 628
-    2018: GROUP INSURANCE PLAN
-        Participants: 613
-    2017: GROUP INSURANCE PLAN
-        Participants: 617
    [002]
     2022: EXPLORER PIPELINE COMPANY 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D3H 
         Participants: 290
         Assets: 70481643
         $/Participant: 243040
@@ -33,6 +16,8 @@ OK : TULSA
                  : FLEXPATH STABLE VAL-I1
                  : LARGE CAP GROWTH CIT
     2021: EXPLORER PIPELINE COMPANY 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D3H 
         Participants: 289
         Assets: 81926027
         $/Participant: 283481
@@ -45,6 +30,8 @@ OK : TULSA
                  : FLEXPATH STABLE VAL-I1
                  : LARGE CAP GROWTH CIT
     2020: EXPLORER PIPELINE COMPANY 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D3H 
         Participants: 289
         Assets: 71196618
         $/Participant: 246355
@@ -73,6 +60,8 @@ OK : TULSA
                  : SMALL CAP GROWTH FUND
                  : SMALL CAP VALUE FUND
     2019: EXPLORER PIPELINE COMPANY 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D3H 
         Participants: 284
         Assets: 63566866
         $/Participant: 223826
@@ -98,6 +87,8 @@ OK : TULSA
                  : INTERNATIONAL STOCK FUND
                  : LARGE CAP GROWTH CIT
     2018: EXPLORER PIPELINE COMPANY 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D3H 
         Participants: 284
         Assets: 51862122
         $/Participant: 182613
@@ -121,12 +112,47 @@ OK : TULSA
                  : INTERNATIONAL STOCK FUND
                  : LARGE CAP GROWTH CIT
     2017: EXPLORER PIPELINE COMPANY 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D3H 
         Participants: 283
         Assets: 55826673
         $/Participant: 197267
         RecordKeeper: BOKF, N.A.
+   [501]
+    2022: EXPLORER PIPELINE COMPANY WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4F
+        Participants: 673
+        Service Providers:
+           - UMR, INC : CLAIMS PROCESSING (Claims processing)
+    2021: GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4F
+        Participants: 671
+        Service Providers:
+           - BRIGHTHOUSE LIFE INSURANCE COMPANY : COVERED SERVICE PROVIDER ()
+    2020: GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 649
+        Service Providers:
+           - BRIGHTHOUSE LIFE INSURANCE COMPANY : COVERED SERVICE PROVIDER ()
+    2019: GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 628
+    2018: GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 613
+    2017: GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 617
    [001]
     2022: EXPLORER PIPELINE COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 110
         Assets: 28990139
         $/Participant: 263546
@@ -134,22 +160,32 @@ OK : TULSA
            - WILMINGTON TRUST, N.A.
                  : PUTNAME STABLE VALUE
     2021: EXPLORER PIPELINE COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 117
         Assets: 36026385
         $/Participant: 307917
     2020: EXPLORER PIPELINE COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 119
         Assets: 30194386
         $/Participant: 253734
     2019: EXPLORER PIPELINE COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 130
         Assets: 33732199
         $/Participant: 259478
     2018: EXPLORER PIPELINE COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 134
         Assets: 29695360
         $/Participant: 221607
     2017: EXPLORER PIPELINE COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 143
         Assets: 35525827
         $/Participant: 248432

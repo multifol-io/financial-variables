@@ -1,14 +1,9 @@
 TX : DALLAS
   HR PEROT, PEROT ASSOCIATES  751138655
-   [501]
-    2019: PEROT WELFARE BENEFIT PLAN
-        Participants: 
-    2018: PEROT WELFARE BENEFIT PLAN
-        Participants: 
-    2017: PEROT WELFARE BENEFIT PLAN
-        Participants: 
    [333]
     2019: PEROT EMPLOYEE RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K3D 
         Participants: 120
         Assets: 46984222
         $/Participant: 391535
@@ -17,6 +12,8 @@ TX : DALLAS
            - THE VANGUARD GROUP, INC
                  : VFTC RETIREMENT SAVINGS TRUST III
     2018: PEROT EMPLOYEE RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K3D 
         Participants: 119
         Assets: 39187022
         $/Participant: 329302
@@ -25,9 +22,24 @@ TX : DALLAS
            - THE VANGUARD GROUP, INC
                  : VFTC RETIREMENT SAVINGS TRUST III
     2017: PEROT EMPLOYEE RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K3D 
         Participants: 121
         Assets: 42327777
         $/Participant: 349816
         Available Investments:
            - THE VANGUARD GROUP, INC
                  : VFTC RETIREMENT SAVINGS TRUST III
+   [501]
+    2019: PEROT WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2018: PEROT WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2017: PEROT WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 

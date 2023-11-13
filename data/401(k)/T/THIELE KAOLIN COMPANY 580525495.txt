@@ -1,42 +1,9 @@
 GA : SANDERSVILLE
   THIELE KAOLIN COMPANY  580525495
-   [506]
-    2022: THIELE KAOLIN COMPANY RETIREE HRA PLAN
-        Participants: 
-    2021: THIELE KAOLIN COMPANY RETIREE HRA PLAN
-        Participants: 
-    2020: THIELE KAOLIN COMPANY RETIREE HRA PLAN
-        Participants: 
-    2019: THIELE KAOLIN COMPANY RETIREE HRA PLAN
-        Participants: 
-    2018: THIELE KAOLIN COMPANY RETIREE HRA PLAN
-        Participants: 
-    2017: THIELE KAOLIN COMPANY RETIREE HRA PLAN
-        Participants: 
-   [505]
-    2017: GROUP ACCIDENT DEATH & DISMEMBERMENT
-        Participants: 
-   [503]
-    2017: GROUP ACCIDENT AND SICKNESS
-        Participants: 
-   [502]
-    2017: GROUP LIFE
-        Participants: 
-   [501]
-    2022: THIELE KAOLIN COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: THIELE KAOLIN COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: THIELE KAOLIN COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: THIELE KAOLIN COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: THIELE KAOLIN COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: MAJOR MEDICAL
-        Participants: 
    [002]
     2022: THIELE KAOLIN COMPANY RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D3H 
         Participants: 738
         Assets: 145161355
         $/Participant: 196695
@@ -58,6 +25,8 @@ GA : SANDERSVILLE
                  : T. ROWE PRICE RETIREMENT BLEND 2065
                  : TRP STABLE VALUE COMMON TRUST FUND
     2021: THIELE KAOLIN COMPANY RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D3H 
         Participants: 679
         Assets: 174980683
         $/Participant: 257703
@@ -79,6 +48,8 @@ GA : SANDERSVILLE
                  : TRP RETIREMENT BLEND 2065 TRUST
                  : TRP STABLE VALUE COMMON TRUST FUND
     2020: THIELE KAOLIN COMPANY RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D3H 
         Participants: 591
         Assets: 170153067
         $/Participant: 287907
@@ -100,6 +71,8 @@ GA : SANDERSVILLE
                  : TRP RETIREMENT BLEND 2060 TRUST
                  : TRP STABLE VALUE COMMON TRUST FUND
     2019: THIELE KAOLIN COMPANY RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D3H 
         Participants: 604
         Assets: 157413729
         $/Participant: 260618
@@ -117,6 +90,8 @@ GA : SANDERSVILLE
                  : T. ROWE PRICE RETIREMENT BLEND 2060
                  : TRP STABLE VALUE COMMON TRUST FUND
     2018: THIELE KAOLIN COMPANY RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D3H 
         Participants: 589
         Assets: 133496091
         $/Participant: 226648
@@ -126,6 +101,8 @@ GA : SANDERSVILLE
                  : T. ROWE PRICE EQUITY INDEX TRUST
                  : TRP STABLE VALUE COMMON TRUST FUND
     2017: THIELE KAOLIN COMPANY RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D3H 
         Participants: 577
         Assets: 138365076
         $/Participant: 239800
@@ -134,8 +111,75 @@ GA : SANDERSVILLE
            - T. ROWE PRICE TRUST COMPANY
                  : T. ROWE PRICE EQUITY INDEX TRUST
                  : TRP STABLE VALUE COMMON TRUST FUND
+   [501]
+    2022: THIELE KAOLIN COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2021: THIELE KAOLIN COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2020: THIELE KAOLIN COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2019: THIELE KAOLIN COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2018: THIELE KAOLIN COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2017: MAJOR MEDICAL
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+   [506]
+    2022: THIELE KAOLIN COMPANY RETIREE HRA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: THIELE KAOLIN COMPANY RETIREE HRA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2020: THIELE KAOLIN COMPANY RETIREE HRA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: THIELE KAOLIN COMPANY RETIREE HRA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: THIELE KAOLIN COMPANY RETIREE HRA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: THIELE KAOLIN COMPANY RETIREE HRA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [502]
+    2017: GROUP LIFE
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+   [503]
+    2017: GROUP ACCIDENT AND SICKNESS
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 
+   [505]
+    2017: GROUP ACCIDENT DEATH & DISMEMBERMENT
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
    [001]
     2022: THIELE KAOLIN COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 435
         Assets: 108002367
         $/Participant: 248281
@@ -144,6 +188,8 @@ GA : SANDERSVILLE
            - RIVER & MERCANTILE :  (Actuarial)
            - AGULIS LLC :  (Actuarial)
     2021: THIELE KAOLIN COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 441
         Assets: 144023922
         $/Participant: 326584
@@ -151,6 +197,8 @@ GA : SANDERSVILLE
            - BANK OF AMERICA :  (Trustee(bank, trust company, or similar) | Investment management | Other services | Float revenue)
            - RIVER & MERCANTILE :  (Actuarial)
     2020: THIELE KAOLIN COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 487
         Assets: 138430748
         $/Participant: 284252
@@ -159,6 +207,8 @@ GA : SANDERSVILLE
            - RIVER & MERCANTILE :  (Actuarial)
            - MILLER & MARTIN PLLC :  (Legal)
     2019: THIELE KAOLIN COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 487
         Assets: 135401660
         $/Participant: 278032
@@ -169,12 +219,16 @@ GA : SANDERSVILLE
            - MILLER & MARTIN PLLC :  (Legal)
            - CHERRY BEKAERT LLP :  (Accounting(including auditing))
     2018: THIELE KAOLIN COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 591
         Assets: 126991661
         $/Participant: 214875
         Service Providers:
            - BANK OF AMERICA :  (Trustee(bank, trust company, or similar) | Investment management | Other services | Float revenue)
     2017: THIELE KAOLIN COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 597
         Assets: 140952259
         $/Participant: 236100

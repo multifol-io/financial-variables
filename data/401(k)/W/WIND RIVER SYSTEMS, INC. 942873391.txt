@@ -1,42 +1,9 @@
 CA : ALAMEDA
   WIND RIVER SYSTEMS, INC.  942873391
-   [510]
-    2022: WIND RIVER SYSTEMS, INC. SEVERANCE PLAN
-        Participants: 
-    2021: WIND RIVER SYSTEMS, INC. SEVERANCE PLAN
-        Participants: 
-    2020: WIND RIVER SYSTEMS, INC. SEVERANCE PLAN
-        Participants: 
-    2019: WIND RIVER SYSTEMS, INC. SEVERANCE PLAN
-        Participants: 
-    2018: WIND RIVER SYSTEMS, INC. SEVERANCE PLAN
-        Participants: 
-    2017: WIND RIVER SYSTEMS, INC. SEVERANCE PLAN
-        Participants: 
-   [509]
-    2020: WIND RIVER SYSTEMS, INC. MEDICAL EXPENSE REIMBURSEMENT BENEFIT
-        Participants: 
-    2019: WIND RIVER SYSTEMS, INC. MEDICAL EXPENSE REIMBURSEMENT BENEFIT
-        Participants: 
-    2018: WIND RIVER SYSTEMS, INC. MEDICAL EXPENSE REIMBURSEMENT BENEFIT
-        Participants: 
-    2017: WIND RIVER SYSTEMS, INC. MEDICAL EXPENSE REIMBURSEMENT BENEFIT
-        Participants: 
-   [501]
-    2022: WIND RIVER SYSTEMS, INC. WELFARE BENEFIT PLAN
-        Participants: 
-    2021: WIND RIVER SYSTEMS, INC. WELFARE BENEFIT PLAN
-        Participants: 
-    2020: WIND RIVER SYSTEMS, INC. WELFARE BENEFIT PLAN
-        Participants: 
-    2019: WIND RIVER SYSTEMS, INC. WELFARE BENEFIT PLAN
-        Participants: 
-    2018: WIND RIVER SYSTEMS, INC. WELFARE BENEFIT PLAN
-        Participants: 
-    2017: WIND RIVER SYSTEMS, INC. WELFARE BENEFIT PLAN
-        Participants: 
    [001]
     2022: WIND RIVER SYSTEMS, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3F3H2E3D2R 
         Participants: 968
         Assets: 213171716
         $/Participant: 220218
@@ -45,6 +12,8 @@ CA : ALAMEDA
            - WILMINGTON TRUST, N.A.
                  : PNR LG CP VAL R1
     2021: WIND RIVER SYSTEMS, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3F3H3D2R2E 
         Participants: 895
         Assets: 278740347
         $/Participant: 311441
@@ -53,6 +22,8 @@ CA : ALAMEDA
            - WILMINGTON TRUST, N.A.
                  : PNR LG CP VAL R1
     2020: WIND RIVER SYSTEMS, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3F3D2R3H 
         Participants: 854
         Assets: 243031346
         $/Participant: 284580
@@ -61,17 +32,90 @@ CA : ALAMEDA
            - WILMINGTON TRUST, N.A.
                  : PIONEER LARGE CAP VALUE PORT R1
     2019: WIND RIVER SYSTEMS, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D3F 
         Participants: 852
         Assets: 205624042
         $/Participant: 241342
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2018: WIND RIVER SYSTEMS, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D3F 
         Participants: 883
         Assets: 171109010
         $/Participant: 193781
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2017: WIND RIVER SYSTEMS, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3H 
         Participants: 922
         Assets: 193745453
         $/Participant: 210136
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+   [501]
+    2022: WIND RIVER SYSTEMS, INC. WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: WIND RIVER SYSTEMS, INC. WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: WIND RIVER SYSTEMS, INC. WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: WIND RIVER SYSTEMS, INC. WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: WIND RIVER SYSTEMS, INC. WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: WIND RIVER SYSTEMS, INC. WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+   [509]
+    2020: WIND RIVER SYSTEMS, INC. MEDICAL EXPENSE REIMBURSEMENT BENEFIT
+        Benefit Category: Healthcare
+        Codes:  4A4R
+        Participants: 
+    2019: WIND RIVER SYSTEMS, INC. MEDICAL EXPENSE REIMBURSEMENT BENEFIT
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: WIND RIVER SYSTEMS, INC. MEDICAL EXPENSE REIMBURSEMENT BENEFIT
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: WIND RIVER SYSTEMS, INC. MEDICAL EXPENSE REIMBURSEMENT BENEFIT
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [510]
+    2022: WIND RIVER SYSTEMS, INC. SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2021: WIND RIVER SYSTEMS, INC. SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2020: WIND RIVER SYSTEMS, INC. SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2019: WIND RIVER SYSTEMS, INC. SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2018: WIND RIVER SYSTEMS, INC. SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2017: WIND RIVER SYSTEMS, INC. SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

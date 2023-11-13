@@ -1,29 +1,9 @@
 SC : COLUMBIA
   M. B. KAHN CONSTRUCTION CO., INC.  570347524
-   [511]
-    2022: M. B. KAHN CONSTRUCTION CO., INC. EMPLOYEE HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 279
-        RecordKeeper: AMERICAN BENEFIT SERVICES LLC
-    2021: M. B. KAHN CONSTRUCTION CO., INC. EMPLOYEE HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 279
-        RecordKeeper: AMERICAN BENEFIT SERVICES, LLC
-    2020: M. B. KAHN CONSTRUCTION CO., INC. EMPLOYEE HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 310
-        RecordKeeper: AMERICAN BENEFIT SERVICES, LLC
-    2019: M. B. KAHN CONSTRUCTION CO., INC. EMPLOYEE HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 321
-        Service Providers:
-           - AMERICAN BENEFIT SERVICES, LLC : FSA ADMINISTRATOR (Claims processing | Contract Administrator)
-    2018: M. B. KAHN CONSTRUCTION CO., INC. EMPLOYEE HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 350
-        Service Providers:
-           - AMERICAN BENEFIT SERVICES, LLC : FS ADMINISTRATOR (Claims processing | Contract Administrator)
-    2017: M. B. KAHN CONSTRUCTION CO., INC. EMPLOYEE HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 366
-        Service Providers:
-           - MEDCOM SERVICES INAC. : TPA (Claims processing | Contract Administrator)
    [002]
     2022: M. B. KAHN CONSTRUCTION CO., INC. PROFIT SHARING AND 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2K2F2G3D2T2R 
         Participants: 362
         Assets: 82722759
         $/Participant: 228515
@@ -32,6 +12,8 @@ SC : COLUMBIA
            - AMERITAS LIFE INSURANCE CORP
                  : SEPARATE ACCOUNT G
     2021: M. B. KAHN CONSTRUCTION CO., INC. PROFIT SHARING AND 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2K2F2G3D2T2R 
         Participants: 340
         Assets: 87856416
         $/Participant: 258401
@@ -40,6 +22,8 @@ SC : COLUMBIA
            - AMERITAS LIFE INSURANCE CORP
                  : SEPARATE ACCOUNT G
     2020: M.B. KAHN CONSTRUCTION CO. , INC PROFIT-SHARING AND 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2R2T3D2R 
         Participants: 349
         Assets: 78670585
         $/Participant: 225417
@@ -48,6 +32,8 @@ SC : COLUMBIA
            - AMERITAS LIFE INSURANCE CORP
                  : SEPARATE ACCOUNT G
     2019: M.B. KAHN CONSTRUCTION CO. , INC PROFIT-SHARING AND 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2R2T3D 
         Participants: 372
         Assets: 72569221
         $/Participant: 195078
@@ -56,6 +42,8 @@ SC : COLUMBIA
            - AMERITAS LIFE INSURANCE CORP
                  : SEPARATE ACCOUNT G
     2018: M.B. KAHN CONSTRUCTION CO. , INC PROFIT-SHARING AND 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2R2T3D 
         Participants: 390
         Assets: 64462644
         $/Participant: 165288
@@ -64,6 +52,8 @@ SC : COLUMBIA
            - AMERITAS LIFE INSURANCE CORP
                  : SEPARATE ACCOUNT G
     2017: M.B. KAHN CONSTRUCTION CO. , INC PROFIT-SHARING AND 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2R2T3D 
         Participants: 375
         Assets: 63619153
         $/Participant: 169651
@@ -73,3 +63,37 @@ SC : COLUMBIA
                  : SEPARATE ACCOUNT G
            - GUARDIAN INSURANCE & ANNUITY COMPANY, INC.
                  : GUARDIAN GROUP ADVANTAGE
+   [511]
+    2022: M. B. KAHN CONSTRUCTION CO., INC. EMPLOYEE HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 279
+        RecordKeeper: AMERICAN BENEFIT SERVICES LLC
+    2021: M. B. KAHN CONSTRUCTION CO., INC. EMPLOYEE HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 279
+        RecordKeeper: AMERICAN BENEFIT SERVICES, LLC
+    2020: M. B. KAHN CONSTRUCTION CO., INC. EMPLOYEE HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 310
+        RecordKeeper: AMERICAN BENEFIT SERVICES, LLC
+    2019: M. B. KAHN CONSTRUCTION CO., INC. EMPLOYEE HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 321
+        Service Providers:
+           - AMERICAN BENEFIT SERVICES, LLC : FSA ADMINISTRATOR (Claims processing | Contract Administrator)
+    2018: M. B. KAHN CONSTRUCTION CO., INC. EMPLOYEE HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 350
+        Service Providers:
+           - AMERICAN BENEFIT SERVICES, LLC : FS ADMINISTRATOR (Claims processing | Contract Administrator)
+    2017: M. B. KAHN CONSTRUCTION CO., INC. EMPLOYEE HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 366
+        Service Providers:
+           - MEDCOM SERVICES INAC. : TPA (Claims processing | Contract Administrator)

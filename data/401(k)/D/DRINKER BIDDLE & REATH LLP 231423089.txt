@@ -1,67 +1,9 @@
 PA : PHILADELPHIA
   DRINKER BIDDLE & REATH LLP  231423089
-   [504]
-    2020: DRINKER BIDDLE & REATH LLP WELFARE BENEFIT PLAN
-        Participants: 
-    2019: DRINKER BIDDLE & REATH LLP WELFARE BENEFIT PLAN
-        Participants: 
-    2018: DRINKER BIDDLE & REATH LLP WELFARE BENEFIT PLAN
-        Participants: 
-    2017: DRINKER BIDDLE & REATH LLP WELFARE BENEFIT PLAN
-        Participants: 
-   [009]
-    2018: DRINKER BIDDLE & REATH LLP CASH BALANCE PENSION PLAN II
-        Participants: 262
-        Assets: 17425749
-        $/Participant: 66510
-        Service Providers:
-           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
-           - BROWN BROTHERS HARRIMAN :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - CHARLES SCHWAB BANK :  (Contract Administrator | Direct payment from the plan)
-    2017: DRINKER BIDDLE & REATH LLP CASH BALANCE PENSION PLAN II
-        Participants: 275
-        Assets: 17880605
-        $/Participant: 65020
-        Service Providers:
-           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
-           - BROWN BROTHERS HARRIMAN :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - CHARLES SCHWAB BANK :  (Contract Administrator | Direct payment from the plan)
-   [008]
-    2018: DRINKER BIDDLE & REATH LLP CASH BALANCE PENSION PLAN I
-        Participants: 262
-        Assets: 17426740
-        $/Participant: 66514
-        Service Providers:
-           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
-           - BROWN BROTHERS HARRIMAN :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - CHARLES SCHWAB BANK :  (Contract Administrator | Direct payment from the plan)
-    2017: DRINKER BIDDLE & REATH LLP CASH BALANCE PENSION PLAN I
-        Participants: 275
-        Assets: 17867518
-        $/Participant: 64972
-        Service Providers:
-           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
-           - BROWN BROTHERS HARRIMAN :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - CHARLES SCHWAB BANK :  (Contract Administrator | Direct payment from the plan)
-   [005]
-    2018: DRINKER BIDDLE & REATH LLP RETIREMENT SAVINGS PLAN I
-        Participants: 1123
-        Assets: 266739047
-        $/Participant: 237523
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : MIP CL 1
-    2017: DRINKER BIDDLE & REATH LLP RETIREMENT SAVINGS PLAN I
-        Participants: 1132
-        Assets: 293656938
-        $/Participant: 259414
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : MIP CL 1
    [002]
     2018: DRINKER BIDDLE & REATH LLP RETIREMENT SAVINGS PLAN II
+        Benefit Category: 401(k)
+        Codes: 2J2K2R3B3H2E2F2G 
         Participants: 1426
         Assets: 213056094
         $/Participant: 149408
@@ -70,6 +12,8 @@ PA : PHILADELPHIA
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2017: DRINKER BIDDLE & REATH LLP RETIREMENT SAVINGS PLAN II
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R3B3H 
         Participants: 1413
         Assets: 236427837
         $/Participant: 167323
@@ -77,3 +21,83 @@ PA : PHILADELPHIA
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
+   [005]
+    2018: DRINKER BIDDLE & REATH LLP RETIREMENT SAVINGS PLAN I
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R3B3H 
+        Participants: 1123
+        Assets: 266739047
+        $/Participant: 237523
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : MIP CL 1
+    2017: DRINKER BIDDLE & REATH LLP RETIREMENT SAVINGS PLAN I
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R3B3H 
+        Participants: 1132
+        Assets: 293656938
+        $/Participant: 259414
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : MIP CL 1
+   [504]
+    2020: DRINKER BIDDLE & REATH LLP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2019: DRINKER BIDDLE & REATH LLP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2018: DRINKER BIDDLE & REATH LLP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2017: DRINKER BIDDLE & REATH LLP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+   [008]
+    2018: DRINKER BIDDLE & REATH LLP CASH BALANCE PENSION PLAN I
+        Benefit Category: Other
+        Codes: 1C3B3F 
+        Participants: 262
+        Assets: 17426740
+        $/Participant: 66514
+        Service Providers:
+           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
+           - BROWN BROTHERS HARRIMAN :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - CHARLES SCHWAB BANK :  (Contract Administrator | Direct payment from the plan)
+    2017: DRINKER BIDDLE & REATH LLP CASH BALANCE PENSION PLAN I
+        Benefit Category: Other
+        Codes: 1C3B3F 
+        Participants: 275
+        Assets: 17867518
+        $/Participant: 64972
+        Service Providers:
+           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
+           - BROWN BROTHERS HARRIMAN :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - CHARLES SCHWAB BANK :  (Contract Administrator | Direct payment from the plan)
+   [009]
+    2018: DRINKER BIDDLE & REATH LLP CASH BALANCE PENSION PLAN II
+        Benefit Category: Other
+        Codes: 1C3B3F 
+        Participants: 262
+        Assets: 17425749
+        $/Participant: 66510
+        Service Providers:
+           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
+           - BROWN BROTHERS HARRIMAN :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - CHARLES SCHWAB BANK :  (Contract Administrator | Direct payment from the plan)
+    2017: DRINKER BIDDLE & REATH LLP CASH BALANCE PENSION PLAN II
+        Benefit Category: Other
+        Codes: 1C3B3F 
+        Participants: 275
+        Assets: 17880605
+        $/Participant: 65020
+        Service Providers:
+           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
+           - BROWN BROTHERS HARRIMAN :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - CHARLES SCHWAB BANK :  (Contract Administrator | Direct payment from the plan)

@@ -1,23 +1,9 @@
 CA : MODESTO
   GOULD MEDICAL GROUP, INC.  942151374
-   [004]
-    2022: GOULD MEDICAL GROUP, INC. CASH BALANCE PENSION PLAN
-        Participants: 123
-        Assets: 31253181
-        $/Participant: 254090
-        RecordKeeper: MATRIX TRUST
-    2021: GOULD MEDICAL GROUP, INC. CASH BALANCE PENSION PLAN
-        Participants: 120
-        Assets: 27412317
-        $/Participant: 228435
-        RecordKeeper: MATRIX TRUST
-    2020: GOULD MEDICAL GROUP, INC. CASH BALANCE PENSION PLAN
-        Participants: 120
-        Assets: 26066183
-        $/Participant: 217218
-        RecordKeeper: MATRIX TRUST
    [003]
     2022: GOULD MEDICAL GROUP, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T3D 
         Participants: 595
         Assets: 327693634
         $/Participant: 550745
@@ -30,6 +16,8 @@ CA : MODESTO
                  : SMALL CAP VAL II I1
                  : WT EMERGING MKTS I1
     2021: GOULD MEDICAL GROUP, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T3D 
         Participants: 576
         Assets: 388309017
         $/Participant: 674147
@@ -46,6 +34,8 @@ CA : MODESTO
                  : SMALL CAP VAL II I1
                  : WT EMERGING MKTS I1
     2020: GOULD MEDICAL GROUP, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T3D 
         Participants: 569
         Assets: 356910430
         $/Participant: 627259
@@ -57,6 +47,8 @@ CA : MODESTO
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGED INCOME PORTFOLIO
     2019: GOULD MEDICAL GROUP, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T3D 
         Participants: 545
         Assets: 309768394
         $/Participant: 568382
@@ -67,6 +59,8 @@ CA : MODESTO
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGED INCOME PORTFOLIO
     2018: GOULD MEDICAL GROUP, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T3D 
         Participants: 524
         Assets: 251564443
         $/Participant: 480084
@@ -77,6 +71,8 @@ CA : MODESTO
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGED INCOME PORTFOLIO
     2017: GOULD MEDICAL GROUP, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T3D 
         Participants: 510
         Assets: 265745569
         $/Participant: 521069
@@ -86,3 +82,25 @@ CA : MODESTO
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGED INCOME PORTFOLIO
+   [004]
+    2022: GOULD MEDICAL GROUP, INC. CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1B1C 
+        Participants: 123
+        Assets: 31253181
+        $/Participant: 254090
+        RecordKeeper: MATRIX TRUST
+    2021: GOULD MEDICAL GROUP, INC. CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1B1C 
+        Participants: 120
+        Assets: 27412317
+        $/Participant: 228435
+        RecordKeeper: MATRIX TRUST
+    2020: GOULD MEDICAL GROUP, INC. CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1B1C 
+        Participants: 120
+        Assets: 26066183
+        $/Participant: 217218
+        RecordKeeper: MATRIX TRUST

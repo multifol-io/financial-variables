@@ -1,19 +1,9 @@
 IL : PEORIA
   RLI CORP.  370889946
-    2022: RLI CORP. GENERAL WELFARE BENEFITS PLAN
-        Participants: 
-    2021: RLI CORP. GENERAL WELFARE BENEFITS PLAN
-        Participants: 
-    2020: RLI CORP. GENERAL WELFARE BENEFITS PLAN
-        Participants: 
-    2019: RLI CORP. GENERAL WELFARE BENEFITS PLAN
-        Participants: 
-    2018: RLI CORP. GENERAL WELFARE BENEFITS PLAN
-        Participants: 
-    2017: RLI CORP. GENERAL WELFARE BENEFITS PLAN
-        Participants: 
    [003]
     2022: RLI CORP 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
         Participants: 1273
         Assets: 268593712
         $/Participant: 210992
@@ -39,6 +29,8 @@ IL : PEORIA
                  : VGD TRGT RTMT 2060 TRUST II
                  : VGD TRGT RTMT INC TRUST II
     2021: RLI CORP 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
         Participants: 1169
         Assets: 315428394
         $/Participant: 269827
@@ -49,6 +41,8 @@ IL : PEORIA
                  : PRIN REAL ESTATE SECS SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2020: RLI CORP 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
         Participants: 1119
         Assets: 273185920
         $/Participant: 244133
@@ -59,6 +53,8 @@ IL : PEORIA
                  : PRIN REAL ESTATE SECS SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2019: RLI CORP 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
         Participants: 1137
         Assets: 238596540
         $/Participant: 209847
@@ -70,6 +66,8 @@ IL : PEORIA
                  : PRIN REAL ESTATE SECS SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2018: RLI CORP 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
         Participants: 1132
         Assets: 194923016
         $/Participant: 172193
@@ -81,6 +79,8 @@ IL : PEORIA
                  : PRIN REAL ESTATE SECS SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2017: RLI CORP 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
         Participants: 1104
         Assets: 197104780
         $/Participant: 178536
@@ -93,32 +93,69 @@ IL : PEORIA
                  : PRIN SMCAP S&P 600 INDEX SA-Z
    [002]
     2022: RLI CORP. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2P3H3I 
         Participants: 1170
         Assets: 341695997
         $/Participant: 292047
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
     2021: RLI CORP. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2O3H3I 
         Participants: 1065
         Assets: 288776671
         $/Participant: 271151
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
     2020: RLI CORP. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2O3H3I 
         Participants: 1071
         Assets: 279176134
         $/Participant: 260668
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
     2019: RLI CORP. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2P3H3I 
         Participants: 1071
         Assets: 256088764
         $/Participant: 239111
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
     2018: RLI CORP. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2P3H3I 
         Participants: 1062
         Assets: 211172467
         $/Participant: 198844
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
     2017: RLI CORP. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2P3H3I 
         Participants: 1066
         Assets: 202968675
         $/Participant: 190402
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
+   [501]
+    2022: RLI CORP. GENERAL WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2021: RLI CORP. GENERAL WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: RLI CORP. GENERAL WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: RLI CORP. GENERAL WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: RLI CORP. GENERAL WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2017: RLI CORP. GENERAL WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 

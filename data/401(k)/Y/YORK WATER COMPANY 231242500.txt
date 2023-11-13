@@ -1,20 +1,52 @@
 PA : YORK
-  THE YORK WATER COMPANY  231242500
-   [504]
-    2022: LIFE INSURANCE PLAN
-        Participants: 
-    2021: LIFE INSURANCE PLAN
-        Participants: 
-    2020: LIFE INSURANCE PLAN
-        Participants: 
-    2019: LIFE INSURANCE PLAN
-        Participants: 
-    2018: LIFE INSURANCE PLAN
-        Participants: 
-    2017: LIFE INSURANCE PLAN
-        Participants: 
+  YORK WATER COMPANY  231242500
+   [003]
+    2022: THE YORK WATER COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 3D2J2K2F2G2T2E 
+        Participants: 135
+        Assets: 13282136
+        $/Participant: 98386
+        RecordKeeper: EMPOWER ANNUITY INSURANCE COMPANY
+    2021: THE YORK WATER COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 3D2J2K2F2G2T2E 
+        Participants: 144
+        Assets: 16068790
+        $/Participant: 111588
+        RecordKeeper: GREAT WEST LIFE & ANNUITY INSURANCE
+    2020: THE YORK WATER COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 3D2J2K2F2G2T2E 
+        Participants: 134
+        Assets: 13689725
+        $/Participant: 102162
+        RecordKeeper: GREAT WEST LIFE & ANNUITY INSURANCE
+    2019: THE YORK WATER COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 3D2J2K2F2G2T2E 
+        Participants: 126
+        Assets: 11905909
+        $/Participant: 94491
+        RecordKeeper: GREAT WEST LIFE & ANNUITY INSURANCE
+    2018: THE YORK WATER COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 3D2J2K2F2G2T2E 
+        Participants: 122
+        Assets: 9870018
+        $/Participant: 80901
+        RecordKeeper: MERRILL LYNCH LIFE AGENCY INC
+    2017: THE YORK WATER COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 3D2J2K2F2G2T2E 
+        Participants: 119
+        Assets: 11170920
+        $/Participant: 93873
+        RecordKeeper: GREAT-WEST LIFE & ANNUITY INSURANCE
    [501]
     2022: THE YORK WATER COMPANY HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 
         Service Providers:
            - MCCONKEY BENEFITS & FINANCIAL SVCS : BROKER (Insurance agents and brokers)
@@ -22,6 +54,8 @@ PA : YORK
            - BENEFIT MALL : ADMIN (Claims processing)
            - THE BENECON GROUP : BROKER (Insurance agents and brokers)
     2021: THE YORK WATER COMPANY HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 
         Service Providers:
            - MCCONKEY BENEFITS & FINANCIAL SVCS : BROKER (Insurance agents and brokers)
@@ -29,6 +63,8 @@ PA : YORK
            - BENEFIT MALL : ADMIN (Claims processing)
            - THE BENECON GROUP : BROKER (Insurance agents and brokers)
     2020: THE YORK WATER COMPANY HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 
         Service Providers:
            - AETNA : ADMIN FEES (Claims processing)
@@ -36,6 +72,8 @@ PA : YORK
            - THE BENECON GROUP : BROKER (Insurance agents and brokers)
            - BENEFIT MALL : ADMIN (Claims processing)
     2019: THE YORK WATER COMPANY HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 
         Service Providers:
            - AETNA : ADMIN FEES (Claims processing)
@@ -43,6 +81,8 @@ PA : YORK
            - THE BENECON GROUP : BROKER (Insurance agents and brokers)
            - BENEFIT MALL : ADMIN (Claims processing)
     2018: THE YORK WATER COMPANY HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 
         Service Providers:
            - AETNA : ADMIN FEES (Claims processing)
@@ -50,45 +90,43 @@ PA : YORK
            - THE BENECON GROUP : BROKER (Insurance agents and brokers)
            - BENEFIT MALL : ADMIN (Claims processing)
     2017: THE YORK WATER COMPANY HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 
         Service Providers:
            - AETNA : ADMIN FEES (Claims processing)
            - MCCONKEY BENEFITS & FINANCIAL SVCS. : BROKER (Insurance agents and brokers)
            - THE BENECON GROUP : BROKER (Insurance agents and brokers)
            - BENEFIT MALL : ADMIN (Claims processing)
-   [003]
-    2022: THE YORK WATER COMPANY 401(K) PLAN
-        Participants: 135
-        Assets: 13282136
-        $/Participant: 98386
-        RecordKeeper: EMPOWER ANNUITY INSURANCE COMPANY
-    2021: THE YORK WATER COMPANY 401(K) PLAN
-        Participants: 144
-        Assets: 16068790
-        $/Participant: 111588
-        RecordKeeper: GREAT WEST LIFE & ANNUITY INSURANCE
-    2020: THE YORK WATER COMPANY 401(K) PLAN
-        Participants: 134
-        Assets: 13689725
-        $/Participant: 102162
-        RecordKeeper: GREAT WEST LIFE & ANNUITY INSURANCE
-    2019: THE YORK WATER COMPANY 401(K) PLAN
-        Participants: 126
-        Assets: 11905909
-        $/Participant: 94491
-        RecordKeeper: GREAT WEST LIFE & ANNUITY INSURANCE
-    2018: THE YORK WATER COMPANY 401(K) PLAN
-        Participants: 122
-        Assets: 9870018
-        $/Participant: 80901
-        RecordKeeper: MERRILL LYNCH LIFE AGENCY INC
-    2017: THE YORK WATER COMPANY 401(K) PLAN
-        Participants: 119
-        Assets: 11170920
-        $/Participant: 93873
-        RecordKeeper: GREAT-WEST LIFE & ANNUITY INSURANCE
+   [504]
+    2022: LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2021: LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2020: LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2019: LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2018: LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2017: LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
    [001]
     2022: THE YORK WATER COMPANY PENSION PLAN FOR GENERAL AND ADMINISTRATIVE EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 109
         Assets: 38102821
         $/Participant: 349567
@@ -103,6 +141,8 @@ PA : YORK
            - INVESCO QQQ TRUST :  (Investment management | Investment management fees paid indirectly by plan)
            - TOUCHSTONE :  (Investment management | Investment management fees paid indirectly by plan)
     2021: THE YORK WATER COMPANY PENSION PLAN FOR GENERAL AND ADMINISTRATIVE EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 110
         Assets: 44075661
         $/Participant: 400687
@@ -119,6 +159,8 @@ PA : YORK
            - DOUBLELINE CAPITAL LP :  (Investment management | Investment management fees paid indirectly by plan)
            - STATE STREET BANK AND TRUST COMPANY :  (Investment management | Investment management fees paid indirectly by plan)
     2020: THE YORK WATER COMPANY PENSION PLAN FOR GENERAL AND ADMINISTRATIVE EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 110
         Assets: 37882238
         $/Participant: 344383
@@ -139,6 +181,8 @@ PA : YORK
            - GOLDMAN SACHS ASSET MANAGEMENT LP :  (Investment management | Investment management fees paid indirectly by plan)
            - FIDELITY INVESTMENTS :  (Investment management | Investment management fees paid indirectly by plan)
     2019: THE YORK WATER COMPANY PENSION PLAN FOR GENERAL AND ADMINISTRATIVE EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 111
         Assets: 33523307
         $/Participant: 302011
@@ -159,6 +203,8 @@ PA : YORK
            - VANGUARD GROUP INC :  (Investment management | Investment management fees paid indirectly by plan)
            - LEGG MASON PARTNERS FUND ADVISOR LL :  (Investment management | Investment management fees paid indirectly by plan)
     2018: THE YORK WATER COMPANY PENSION PLAN FOR GENERAL AND ADMINISTRATIVE EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 114
         Assets: 26450183
         $/Participant: 232019
@@ -176,6 +222,8 @@ PA : YORK
            - VOYA INVESTMENTS, LLC :  (Investment management | Investment management fees paid indirectly by plan)
            - LEGG MASON PARTNERS FUND ADVISOR LL :  (Investment management | Investment management fees paid indirectly by plan)
     2017: THE YORK WATER COMPANY PENSION PLAN FOR GENERAL AND ADMINISTRATIVE EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 116
         Assets: 26599421
         $/Participant: 229305

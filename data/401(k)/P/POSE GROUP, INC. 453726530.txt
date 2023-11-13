@@ -1,26 +1,10 @@
-AL : DAPHNE
+AL : SPANISH FORT
   POSE GROUP, INC.  453726530
    [002]
-    2022: POSE GROUP, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 638
-        Assets: 22957558
-        $/Participant: 35983
-        Service Providers:
-           - BANK OF AMERICA :  (Account maintenance fees)
-    2021: POSE GROUP, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 638
-        Assets: 34076956
-        $/Participant: 53412
-        Service Providers:
-           - BANK OF AMERICA :  (Account maintenance fees)
-    2020: POSE GROUP, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 641
-        Assets: 36331236
-        $/Participant: 56678
-        Service Providers:
-           - BANK OF AMERICA :  (Account maintenance fees)
-AL : SPANISH FORT
     2019: POSE GROUP, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2Q3I2E2F2H2J2K2O2S2T 
         Participants: 642
         Assets: 86217193
         $/Participant: 134294
@@ -38,6 +22,9 @@ AL : SPANISH FORT
                  : PUTNAM RETIREMENT ADVANTAGE 2060
                  : PUTNAM RETIREMENT ADVANTAGE MATURIT
     2018: POSE GROUP, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2Q3I2E2F2H2J2K2O2S2T 
         Participants: 642
         Assets: 185879757
         $/Participant: 289532
@@ -55,6 +42,9 @@ AL : SPANISH FORT
                  : PUTNAM RETIREMENT ADVANTAGE 2060
                  : PUTNAM RETIREMENT ADVANTAGE MATURIT
     2017: IMIA GROUP, INC. SAVINGS AND EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2Q3I2E2F2H2J2K2O2S2T 
         Participants: 787
         Assets: 71746092
         $/Participant: 91164
@@ -71,3 +61,28 @@ AL : SPANISH FORT
                  : PUTNAM RETIREMENT ADVANTAGE 2055
                  : PUTNAM RETIREMENT ADVANTAGE 2060
                  : PUTNAM RETIREMENT ADVANTAGE MATURIT
+AL : DAPHNE
+    2022: POSE GROUP, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
+        Participants: 638
+        Assets: 22957558
+        $/Participant: 35983
+        Service Providers:
+           - BANK OF AMERICA :  (Account maintenance fees)
+    2021: POSE GROUP, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
+        Participants: 638
+        Assets: 34076956
+        $/Participant: 53412
+        Service Providers:
+           - BANK OF AMERICA :  (Account maintenance fees)
+    2020: POSE GROUP, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
+        Participants: 641
+        Assets: 36331236
+        $/Participant: 56678
+        Service Providers:
+           - BANK OF AMERICA :  (Account maintenance fees)

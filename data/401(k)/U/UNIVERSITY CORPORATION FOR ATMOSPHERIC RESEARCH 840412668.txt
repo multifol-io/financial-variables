@@ -1,84 +1,54 @@
 CO : BOULDER
   UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH  840412668
-   [515]
-    2022: UCAR EMPLOYEE HEALTH AND WELFARE PLAN
+   [502]
+    2020: GROUP HEALTH INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
         Participants: 
-    2021: UCAR EMPLOYEE HEALTH AND WELFARE PLAN
+    2019: GROUP HEALTH INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
         Participants: 
-   [514]
-    2020: BASIC AD&D PLAN FOR UCAR STAFF
+    2018: GROUP HEALTH INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
         Participants: 
-    2019: BASIC AD&D PLAN FOR UCAR STAFF
-        Participants: 
-    2018: BASIC AD&D PLAN FOR UCAR STAFF
-        Participants: 
-    2017: BASIC AD&D PLAN FOR UCAR STAFF
-        Participants: 
-   [513]
-    2020: LONG TERM DISABILITY PLAN FOR ELIGIBLE UCAR STAFF
-        Participants: 
-    2019: LONG TERM DISABILITY PLAN FOR ELIGIBLE UCAR STAFF
-        Participants: 
-    2018: LONG TERM DISABILITY PLAN FOR ELIGIBLE UCAR STAFF
-        Participants: 
-    2017: LONG TERM DISABILITY PLAN FOR ELIGIBLE UCAR STAFF
-        Participants: 
-   [511]
-    2020: SEVERANCE PAY PROGRAM
-        Participants: 
-    2019: SEVERANCE PAY PROGRAM
-        Participants: 
-    2018: SEVERANCE PAY PROGRAM
-        Participants: 
-    2017: SEVERANCE PAY PROGRAM
+    2017: GROUP HEALTH INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
         Participants: 
    [510]
     2020: HEALTH CARE FLEXIBLE SPENDING ACCOUNT FOR ELIGIBLE UCAR STAFF
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 
     2019: HEALTH CARE FLEXIBLE SPENDING ACCOUNT FOR ELIGIBLE UCAR STAFF
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 
     2018: HEALTH CARE FLEXIBLE SPENDING ACCOUNT FOR ELIGIBLE UCAR STAFF
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 
     2017: HEALTH CARE FLEXIBLE SPENDING ACCOUNT FOR ELIGIBLE UCAR STAFF
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 
-   [507]
-    2020: VOLUNTARY AD&D PLAN FOR UCAR STAFF
+   [515]
+    2022: UCAR EMPLOYEE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4L4Q
         Participants: 
-    2019: VOLUNTARY AD&D PLAN FOR UCAR STAFF
-        Participants: 
-    2018: VOLUNTARY AD&D PLAN FOR UCAR STAFF
-        Participants: 
-    2017: VOLUNTARY AD&D PLAN FOR UCAR STAFF
-        Participants: 
-   [505]
-    2020: TRAVEL ACCIDENT PLAN FOR UCAR STAFF
-        Participants: 
-    2019: TRAVEL ACCIDENT PLAN FOR UCAR STAFF
-        Participants: 
-    2018: TRAVEL ACCIDENT PLAN FOR UCAR STAFF
-        Participants: 
-    2017: TRAVEL ACCIDENT PLAN FOR UCAR STAFF
-        Participants: 
-   [502]
-    2020: GROUP HEALTH INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
-        Participants: 
-    2019: GROUP HEALTH INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
-        Participants: 
-    2018: GROUP HEALTH INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
-        Participants: 
-    2017: GROUP HEALTH INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
-        Participants: 
-   [501]
-    2020: GROUP LIFE INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
-        Participants: 
-    2019: GROUP LIFE INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
-        Participants: 
-    2018: GROUP LIFE INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
-        Participants: 
-    2017: GROUP LIFE INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
+    2021: UCAR EMPLOYEE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4L4Q
         Participants: 
    [001]
     2022: UCAR RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2S2T 
         Participants: 4396
         Assets: 1016981364
         $/Participant: 231342
@@ -87,6 +57,8 @@ CO : BOULDER
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2021: UCAR RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2T 
         Participants: 4261
         Assets: 1165128469
         $/Participant: 273440
@@ -95,6 +67,8 @@ CO : BOULDER
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2020: UCAR RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2T 
         Participants: 4154
         Assets: 1045758023
         $/Participant: 251747
@@ -103,6 +77,8 @@ CO : BOULDER
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2019: UCAR RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2T 
         Participants: 4095
         Assets: 940559529
         $/Participant: 229684
@@ -111,6 +87,8 @@ CO : BOULDER
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2018: UCAR RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2T 
         Participants: 4013
         Assets: 811211943
         $/Participant: 202146
@@ -118,9 +96,113 @@ CO : BOULDER
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2017: UCAR RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2T 
         Participants: 3965
         Assets: 857843070
         $/Participant: 216353
         Available Investments:
            - TIAA-CREF
                  : TIAA REAL ESTATE
+   [501]
+    2020: GROUP LIFE INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2019: GROUP LIFE INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2018: GROUP LIFE INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2017: GROUP LIFE INSURANCE PLAN FOR ELIGIBLE UCAR STAFF
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+   [505]
+    2020: TRAVEL ACCIDENT PLAN FOR UCAR STAFF
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2019: TRAVEL ACCIDENT PLAN FOR UCAR STAFF
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2018: TRAVEL ACCIDENT PLAN FOR UCAR STAFF
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2017: TRAVEL ACCIDENT PLAN FOR UCAR STAFF
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+   [507]
+    2020: VOLUNTARY AD&D PLAN FOR UCAR STAFF
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2019: VOLUNTARY AD&D PLAN FOR UCAR STAFF
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2018: VOLUNTARY AD&D PLAN FOR UCAR STAFF
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2017: VOLUNTARY AD&D PLAN FOR UCAR STAFF
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+   [513]
+    2020: LONG TERM DISABILITY PLAN FOR ELIGIBLE UCAR STAFF
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2019: LONG TERM DISABILITY PLAN FOR ELIGIBLE UCAR STAFF
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2018: LONG TERM DISABILITY PLAN FOR ELIGIBLE UCAR STAFF
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2017: LONG TERM DISABILITY PLAN FOR ELIGIBLE UCAR STAFF
+        Benefit Category: Other
+        Codes:  4H4Q
+        Participants: 
+   [514]
+    2020: BASIC AD&D PLAN FOR UCAR STAFF
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2019: BASIC AD&D PLAN FOR UCAR STAFF
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2018: BASIC AD&D PLAN FOR UCAR STAFF
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2017: BASIC AD&D PLAN FOR UCAR STAFF
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+   [511]
+    2020: SEVERANCE PAY PROGRAM
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2019: SEVERANCE PAY PROGRAM
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2018: SEVERANCE PAY PROGRAM
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2017: SEVERANCE PAY PROGRAM
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

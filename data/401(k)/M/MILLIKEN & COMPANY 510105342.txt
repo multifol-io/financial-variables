@@ -1,20 +1,9 @@
 SC : SPARTANBURG
   MILLIKEN & COMPANY  510105342
-   [501]
-    2022: THE MILLIKEN & COMPANY HEALTH & WELFARE BENEFIT PLAN
-        Participants: 
-    2021: THE MILLIKEN & COMPANY HEALTH & WELFARE BENEFIT PLAN
-        Participants: 
-    2020: THE MILLIKEN & COMPANY HEALTH & WELFARE BENEFIT PLAN
-        Participants: 
-    2019: THE MILLIKEN & COMPANY HEALTH & WELFARE BENEFIT PLAN
-        Participants: 
-    2018: THE MILLIKEN & COMPANY HEALTH & WELFARE BENEFIT PLAN
-        Participants: 
-    2017: THE MILLIKEN & COMPANY HEALTH & WELFARE BENEFIT PLAN
-        Participants: 
    [335]
     2022: THE MILLIKEN RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D3F3H 
         Participants: 10098
         Assets: 1154082573
         $/Participant: 114288
@@ -44,6 +33,8 @@ SC : SPARTANBURG
                  : TRP SM & MID-CAP CORE TR-B
                  : TRP STABLE VALUE COMMON TRUST FUND
     2021: THE MILLIKEN RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D3F3H 
         Participants: 9946
         Assets: 1443509217
         $/Participant: 145134
@@ -79,6 +70,8 @@ SC : SPARTANBURG
                  : T. ROWE PRICE U.S. TR MONEY MKT TST
                  : TRP STABLE VALUE COMMON TRUST FUND
     2020: THE MILLIKEN RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3F3H 
         Participants: 10022
         Assets: 1336150034
         $/Participant: 133321
@@ -100,6 +93,8 @@ SC : SPARTANBURG
                  : T. ROWE PRICE RETIREMENT INC TRUST
                  : T. ROWE PRICE U.S. TR MONEY MKT TST
     2019: THE MILLIKEN RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3F3H 
         Participants: 10662
         Assets: 1243308762
         $/Participant: 116611
@@ -121,6 +116,8 @@ SC : SPARTANBURG
                  : T. ROWE PRICE RETIREMENT INC TRUST
                  : T. ROWE PRICE U.S. TR MONEY MKT TST
     2018: THE MILLIKEN RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3F3H 
         Participants: 10051
         Assets: 1054082238
         $/Participant: 104873
@@ -144,6 +141,8 @@ SC : SPARTANBURG
            - THE BANK OF NEW YORK MELLON
                  : COLLECTIVE TR GOV. SH TM INV. FD
     2017: THE MILLIKEN RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3F3H 
         Participants: 11305
         Assets: 1156786508
         $/Participant: 102325
@@ -166,8 +165,41 @@ SC : SPARTANBURG
                  : T. ROWE PRICE U.S. TR MONEY MKT TST
            - THE BANK OF NEW YORK MELLON
                  : COLLECTIVE TR GOV. SH TM INV. FD
+   [501]
+    2022: THE MILLIKEN & COMPANY HEALTH & WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L
+        Participants: 
+    2021: THE MILLIKEN & COMPANY HEALTH & WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L
+        Participants: 
+    2020: THE MILLIKEN & COMPANY HEALTH & WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L
+        Participants: 
+    2019: THE MILLIKEN & COMPANY HEALTH & WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L
+        Participants: 
+    2018: THE MILLIKEN & COMPANY HEALTH & WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L
+        Participants: 
+    2017: THE MILLIKEN & COMPANY HEALTH & WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L
+        Participants: 
    [333]
     2019: THE MILLIKEN PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3F3H 
         Participants: 6
         Assets: 5266862
         $/Participant: 877810
@@ -183,6 +215,8 @@ SC : SPARTANBURG
            - THE NORTHERN TRUST COMPANY
                  : COLL GOVT SHORT TERM INV FUND
     2018: THE MILLIKEN PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3F3H 
         Participants: 2828
         Assets: 282900112
         $/Participant: 100035
@@ -198,6 +232,8 @@ SC : SPARTANBURG
            - THE NORTHERN TRUST COMPANY
                  : COLL GOVT SHORT TERM INV FUND
     2017: THE MILLIKEN PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3F3H 
         Participants: 2897
         Assets: 305948179
         $/Participant: 105608

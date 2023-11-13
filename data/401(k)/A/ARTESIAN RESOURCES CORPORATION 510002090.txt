@@ -1,22 +1,9 @@
 DE : NEWARK
   ARTESIAN RESOURCES CORPORATION  510002090
-   [504]
-    2022: ARTESIAN RESOURCES CORPORATION WELFARE PLAN
-        Participants: 268
-        Service Providers:
-           - SUN LIFE ASSURANCE COMPANY OF CANAD :  (Other commissions)
-    2021: ARTESIAN RESOURCES CORPORATION WELFARE PLAN
-        Participants: 267
-    2020: ARTESIAN RESOURCES CORPORATION WELFARE PLAN
-        Participants: 272
-    2019: ARTESIAN RESOURCES CORPORATION WELFARE PLAN
-        Participants: 248
-    2018: ARTESIAN RESOURCES CORPORATION WELFARE PLAN
-        Participants: 260
-    2017: ARTESIAN RESOURCES CORPORATION WELFARE PLAN
-        Participants: 263
    [003]
     2022: ARTESIAN 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D2S 
         Participants: 310
         Assets: 67363368
         $/Participant: 217301
@@ -25,6 +12,8 @@ DE : NEWARK
            - T. ROWE PRICE
                  : T. ROWE PRICE STABLE VALUE COMMON T
     2021: ARTESIAN 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T 
         Participants: 307
         Assets: 83229128
         $/Participant: 271104
@@ -32,6 +21,8 @@ DE : NEWARK
            - T. ROWE PRICE
                  : T. ROWE PRICE STABLE VALUE COMMON T
     2020: ARTESIAN RESOURCES CORPORATION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T 
         Participants: 293
         Assets: 72963590
         $/Participant: 249022
@@ -39,6 +30,8 @@ DE : NEWARK
            - PNC BANK, N.A.
                  : T ROWE PRICE SV
     2019: ARTESIAN RESOURCES CORPORATION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 291
         Assets: 62895191
         $/Participant: 216134
@@ -46,6 +39,8 @@ DE : NEWARK
            - PNC BANK, N.A.
                  : PNC STABLE VALUE FUND
     2018: ARTESIAN RESOURCES CORPORATION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 289
         Assets: 51226123
         $/Participant: 177253
@@ -55,6 +50,8 @@ DE : NEWARK
            - PNC BANK, N.A.
                  : PNC STABLE VALUE FUND
     2017: ARTESIAN RESOURCES CORPORATION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 283
         Assets: 55413929
         $/Participant: 195808
@@ -63,3 +60,30 @@ DE : NEWARK
         Available Investments:
            - PNC BANK, N.A.
                  : PNC STABLE VALUE FUND
+   [504]
+    2022: ARTESIAN RESOURCES CORPORATION WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 268
+        Service Providers:
+           - SUN LIFE ASSURANCE COMPANY OF CANAD :  (Other commissions)
+    2021: ARTESIAN RESOURCES CORPORATION WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 267
+    2020: ARTESIAN RESOURCES CORPORATION WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 272
+    2019: ARTESIAN RESOURCES CORPORATION WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 248
+    2018: ARTESIAN RESOURCES CORPORATION WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 260
+    2017: ARTESIAN RESOURCES CORPORATION WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 263

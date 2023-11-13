@@ -1,19 +1,9 @@
 TX : HOUSTON
   DIAMOND OFFSHORE MANAGEMENT COMPANY  133560049
-    2022: DIAMOND OFFSHORE HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2021: DIAMOND OFFSHORE HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2020: DIAMOND OFFSHORE HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2019: DIAMOND OFFSHORE HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2018: DIAMOND OFFSHORE HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2017: DIAMOND OFFSHORE HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
    [001]
     2022: DIAMOND OFFSHORE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2K2T2E2F2G2J 
         Participants: 1615
         Assets: 319390915
         $/Participant: 197765
@@ -41,6 +31,8 @@ TX : HOUSTON
                  : AC SMALL CAP VALUE
                  : PUTN LARGE CP VAL R1
     2021: DIAMOND OFFSHORE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2K2T2E2F2G2J 
         Participants: 1457
         Assets: 420727118
         $/Participant: 288762
@@ -65,6 +57,8 @@ TX : HOUSTON
                  : TRP RETIRE 2060 F
                  : TRP RETIRE BAL F
     2020: DIAMOND OFFSHORE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2K2T2E2F2G2J 
         Participants: 1378
         Assets: 418283032
         $/Participant: 303543
@@ -89,6 +83,8 @@ TX : HOUSTON
                  : TRP RETIRE 2060 F
                  : TRP RETIRE BAL F
     2019: DIAMOND OFFSHORE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 1622
         Assets: 474700871
         $/Participant: 292663
@@ -113,6 +109,8 @@ TX : HOUSTON
                  : TRP RETIRE 2060 F
                  : TRP RETIRE BAL F
     2018: DIAMOND OFFSHORE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 1589
         Assets: 405263497
         $/Participant: 255043
@@ -121,6 +119,8 @@ TX : HOUSTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 2
     2017: DIAMOND OFFSHORE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T2E 
         Participants: 1731
         Assets: 476582670
         $/Participant: 275322
@@ -128,3 +128,28 @@ TX : HOUSTON
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 2
+   [501]
+    2022: DIAMOND OFFSHORE HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: DIAMOND OFFSHORE HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: DIAMOND OFFSHORE HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: DIAMOND OFFSHORE HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: DIAMOND OFFSHORE HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q4L
+        Participants: 
+    2017: DIAMOND OFFSHORE HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q4L
+        Participants: 

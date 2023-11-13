@@ -1,46 +1,9 @@
 TX : HOUSTON
   ENTERPRISE PRODUCTS COMPANY  741675622
-   [505]
-    2022: ENTERPRISE PRODUCTS COMPANY COMPREHENSIVE WELFARE BENEFITS PLAN
-        Participants: 
-    2021: ENTERPRISE PRODUCTS COMPANY COMPREHENSIVE WELFARE BENEFITS PLAN
-        Participants: 
-    2020: ENTERPRISE PRODUCTS COMPANY COMPREHENSIVE WELFARE BENEFITS PLAN
-        Participants: 
-    2019: ENTERPRISE PRODUCTS COMPANY COMPREHENSIVE WELFARE BENEFITS PLAN
-        Participants: 
-    2018: ENTERPRISE PRODUCTS COMPANY COMPREHENSIVE WELFARE BENEFITS PLAN
-        Participants: 
-    2017: ENTERPRISE PRODUCTS COMPANY COMPREHENSIVE WELFARE BENEFITS PLAN
-        Participants: 
-   [005]
-    2017: ENTERPRISE PRODUCTS COMPANY MASTER TRUST
-        Participants: 
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-        Available Investments:
-           - T. ROWE PRICE TRUST COMPANY
-                 : TRP U.S. MID CAP VALUE EQ TR
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VANGUARD TRT II 2010
-                 : VANGUARD TRT II 2015
-                 : VANGUARD TRT II 2020
-                 : VANGUARD TRT II 2025
-                 : VANGUARD TRT II 2030
-                 : VANGUARD TRT II 2035
-                 : VANGUARD TRT II 2040
-                 : VANGUARD TRT II 2045
-                 : VANGUARD TRT II 2050
-                 : VANGUARD TRT II 2055
-                 : VANGUARD TRT II 2060
-                 : VANGUARD TRT II INC
-   [004]
-    2017: ENTERPRISE RETIREMENT PLAN
-        Participants: 0
-        Available Investments:
-           - ENTERPRISE PRODUCTS COMPANY
-                 : ENTERPRISE PRODUCTS CO MASTER TRUST
    [003]
     2022: ENTERPRISE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 3F2A2E2T2F2G2J2K2R 
         Participants: 8528
         Assets: 1868071581
         $/Participant: 219051
@@ -67,6 +30,8 @@ TX : HOUSTON
                  : VANGUARD TARGET 2070
                  : VANGUARD TARGET INC
     2021: ENTERPRISE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 3F3H2A2E2T2F2G2J2K2R 
         Participants: 8028
         Assets: 2275987112
         $/Participant: 283506
@@ -92,6 +57,8 @@ TX : HOUSTON
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INC
     2020: ENTERPRISE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2T3F3H2R2A2E2F2G2J2K 
         Participants: 8131
         Assets: 2046498623
         $/Participant: 251690
@@ -117,6 +84,8 @@ TX : HOUSTON
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INC
     2019: ENTERPRISE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3F3H 
         Participants: 8267
         Assets: 1711065988
         $/Participant: 206975
@@ -142,6 +111,8 @@ TX : HOUSTON
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INC
     2018: ENTERPRISE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T2A3F3H 
         Participants: 8062
         Assets: 1373704525
         $/Participant: 170392
@@ -178,6 +149,8 @@ TX : HOUSTON
                  : VANGUARD TRT II 2060
                  : VANGUARD TRT II INC
     2017: ENTERPRISE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 3H2A2E2F2G2J2K2R2T3F 
         Participants: 7925
         Assets: 1442526962
         $/Participant: 182022
@@ -185,6 +158,61 @@ TX : HOUSTON
         Available Investments:
            - ENTERPRISE PRODUCTS COMPANY
                  : ENTERPRISE PRODUCTS CO MASTER TRUST
+           - T. ROWE PRICE TRUST COMPANY
+                 : TRP U.S. MID CAP VALUE EQ TR
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VANGUARD TRT II 2010
+                 : VANGUARD TRT II 2015
+                 : VANGUARD TRT II 2020
+                 : VANGUARD TRT II 2025
+                 : VANGUARD TRT II 2030
+                 : VANGUARD TRT II 2035
+                 : VANGUARD TRT II 2040
+                 : VANGUARD TRT II 2045
+                 : VANGUARD TRT II 2050
+                 : VANGUARD TRT II 2055
+                 : VANGUARD TRT II 2060
+                 : VANGUARD TRT II INC
+   [505]
+    2022: ENTERPRISE PRODUCTS COMPANY COMPREHENSIVE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: ENTERPRISE PRODUCTS COMPANY COMPREHENSIVE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: ENTERPRISE PRODUCTS COMPANY COMPREHENSIVE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: ENTERPRISE PRODUCTS COMPANY COMPREHENSIVE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: ENTERPRISE PRODUCTS COMPANY COMPREHENSIVE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: ENTERPRISE PRODUCTS COMPANY COMPREHENSIVE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+   [004]
+    2017: ENTERPRISE RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2A2E2F2G2R2T3F3H 
+        Participants: 0
+        Available Investments:
+           - ENTERPRISE PRODUCTS COMPANY
+                 : ENTERPRISE PRODUCTS CO MASTER TRUST
+   [005]
+    2017: ENTERPRISE PRODUCTS COMPANY MASTER TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Available Investments:
            - T. ROWE PRICE TRUST COMPANY
                  : TRP U.S. MID CAP VALUE EQ TR
            - VANGUARD FIDUCIARY TRUST COMPANY

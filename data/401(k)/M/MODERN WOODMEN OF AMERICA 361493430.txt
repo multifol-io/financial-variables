@@ -1,20 +1,9 @@
 IL : ROCK ISLAND
   MODERN WOODMEN OF AMERICA  361493430
-   [501]
-    2022: MODERN WOODMEN OF AMERICA WELFARE BENEFIT PLAN
-        Participants: 
-    2021: MODERN WOODMEN OF AMERICA WELFARE BENEFIT PLAN
-        Participants: 
-    2020: MODERN WOODMEN OF AMERICA WELFARE BENEFIT PLAN
-        Participants: 
-    2019: MODERN WOODMEN OF AMERICA WELFARE BENEFIT PLAN
-        Participants: 
-    2018: MODERN WOODMEN OF AMERICA WELFARE BENEFIT PLAN
-        Participants: 
-    2017: MODERN WOODMEN OF AMERICA BENEFIT WELFARE PLAN
-        Participants: 
    [004]
     2022: MODERN WOODMEN OF AMERICA EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3F 
         Participants: 1564
         Assets: 211441972
         $/Participant: 135193
@@ -24,6 +13,8 @@ IL : ROCK ISLAND
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIRMNT SAVINGS TRUST III
     2021: MODERN WOODMEN OF AMERICA EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3F 
         Participants: 1414
         Assets: 247815560
         $/Participant: 175258
@@ -34,6 +25,8 @@ IL : ROCK ISLAND
                  : VANGUARD RETIRMNT SAVINGS TRUST III
                  : VFTC RETIREMENT SAVINGS TRUST V
     2020: MODERN WOODMEN OF AMERICA EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3F 
         Participants: 1308
         Assets: 219965351
         $/Participant: 168169
@@ -43,6 +36,8 @@ IL : ROCK ISLAND
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST V
     2019: MODERN WOODMEN OF AMERICA EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2T3F 
         Participants: 1323
         Assets: 202966457
         $/Participant: 153413
@@ -52,6 +47,8 @@ IL : ROCK ISLAND
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST V
     2018: MODERN WOODMEN OF AMERICA EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2T3F 
         Participants: 1365
         Assets: 175221694
         $/Participant: 128367
@@ -61,6 +58,8 @@ IL : ROCK ISLAND
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST V
     2017: MODERN WOODMEN OF AMERICA EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2T3F 
         Participants: 1388
         Assets: 185209654
         $/Participant: 133436
@@ -69,8 +68,35 @@ IL : ROCK ISLAND
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST V
+   [501]
+    2022: MODERN WOODMEN OF AMERICA WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 
+    2021: MODERN WOODMEN OF AMERICA WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
+        Participants: 
+    2020: MODERN WOODMEN OF AMERICA WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
+        Participants: 
+    2019: MODERN WOODMEN OF AMERICA WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
+        Participants: 
+    2018: MODERN WOODMEN OF AMERICA WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
+        Participants: 
+    2017: MODERN WOODMEN OF AMERICA BENEFIT WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
+        Participants: 
    [001]
     2022: MODERN WOODMEN OF AMERICA EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1E3F 
         Participants: 2406
         Assets: 741010274
         $/Participant: 307984
@@ -101,6 +127,8 @@ IL : ROCK ISLAND
            - WILMINGTON TRUST, N.A
                  : BRANDES INTERNATIONAL FUNDAMENTAL
     2021: MODERN WOODMEN OF AMERICA EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1E3F 
         Participants: 2358
         Assets: 925448684
         $/Participant: 392471
@@ -129,6 +157,8 @@ IL : ROCK ISLAND
                  : WTC-CIF II INTNL QUALITY GWTH SR 1
                  : WTC-CTF GLOBAL SELECT CAPITAL APP
     2020: MODERN WOODMEN OF AMERICA EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1E3F 
         Participants: 2376
         Assets: 830587952
         $/Participant: 349574
@@ -155,6 +185,8 @@ IL : ROCK ISLAND
                  : WTC-CIF II INTNL QUALITY GWTH SR 1
                  : WTC-CTF GLOBAL SELECT CAPITAL APP
     2019: MODERN WOODMEN OF AMERICA EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1E3F 
         Participants: 2354
         Assets: 706459249
         $/Participant: 300110
@@ -180,6 +212,8 @@ IL : ROCK ISLAND
                  : WTC-CIF II INTNL QUALITY GWTH SR 1
                  : WTC-CTF GLOBAL SELECT CAPITAL APP
     2018: MODERN WOODMEN OF AMERICA EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1E3F 
         Participants: 2362
         Assets: 575603893
         $/Participant: 243693
@@ -205,6 +239,8 @@ IL : ROCK ISLAND
                  : WTC-CIF II WORLD BOND PORTFOLIO
                  : WTC-CTF GLOBAL SELECT CAPITAL APP
     2017: MODERN WOODMEN OF AMERICA EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1E3F 
         Participants: 2384
         Assets: 595649495
         $/Participant: 249852

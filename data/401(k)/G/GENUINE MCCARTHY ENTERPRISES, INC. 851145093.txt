@@ -1,30 +1,8 @@
-MO : DES PERES
-  GENUINE MCCARTHY ENTERPRISES  851145093
-   [501]
-    2022: MCCARTHY EMPLOYEE HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: MCCARTHY EMPLOYEE HEALTH AND WELFARE PLAN
-        Participants: 
 MO : ST. LOUIS
-    2020: MCCARTHY EMPLOYEE HEALTH AND WELFARE PLAN
-        Participants: 
-MO : ST LOUIS
-   [002]
-    2022: MCCARTHY EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 3523
-        Assets: 1201297589
-        $/Participant: 340987
-    2021: MCCARTHY EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 3434
-        Assets: 1077540062
-        $/Participant: 313785
-    2020: MCCARTHY EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 3026
-        Assets: 955241157
-        $/Participant: 315677
-MO : ST. LOUIS
-   [001]
+  GENUINE MCCARTHY ENTERPRISES, INC.  851145093
     2022: MCCARTHY EMPLOYEE RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
         Participants: 6218
         Assets: 462265700
         $/Participant: 74343
@@ -56,6 +34,8 @@ MO : ST. LOUIS
            - STATE STREET GLOBAL ADVISORS
                  : STATE ST TRGT RET 2065 NL P
     2021: MCCARTHY EMPLOYEE RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
         Participants: 6286
         Assets: 534486110
         $/Participant: 85028
@@ -91,6 +71,8 @@ MO : ST. LOUIS
            - WELLS FARGO
                  : WELLS FARGO STABLE RETRN N FD
     2020: MCCARTHY EMPLOYEE RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3H 
         Participants: 4546
         Assets: 452533084
         $/Participant: 99545
@@ -138,3 +120,38 @@ MO : ST. LOUIS
                  : STATE ST TRGT RET 2065 NL P
            - WELLS FARGO
                  : WELLS FARGO STABLE RETRN N FD
+MO : ST LOUIS
+   [002]
+    2022: MCCARTHY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3H3I 
+        Participants: 3523
+        Assets: 1201297589
+        $/Participant: 340987
+    2021: MCCARTHY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3H3I 
+        Participants: 3434
+        Assets: 1077540062
+        $/Participant: 313785
+    2020: MCCARTHY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3H3I 
+        Participants: 3026
+        Assets: 955241157
+        $/Participant: 315677
+MO : DES PERES
+   [501]
+    2022: MCCARTHY EMPLOYEE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2021: MCCARTHY EMPLOYEE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+MO : ST. LOUIS
+    2020: MCCARTHY EMPLOYEE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 

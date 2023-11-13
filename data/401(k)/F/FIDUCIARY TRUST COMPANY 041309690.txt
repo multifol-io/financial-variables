@@ -1,96 +1,94 @@
 MA : BOSTON
   FIDUCIARY TRUST COMPANY  041309690
-   [501]
-    2022: FIDUCIARY TRUST COMPANY CONSOLIDATED HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: FIDUCIARY TRUST COMPANY CONSOLIDATED HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: FIDUCIARY TRUST COMPANY CONSOLIDATED HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: FIDUCIARY TRUST COMPANY CONSOLIDATED HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: FIDUCIARY TRUST COMPANY CONSOLIDATED HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: FIDUCIARY TRUST COMPANY CONSOLIDATED HEALTH AND WELFARE PLAN
-        Participants: 
-   [004]
-    2019: FIDUCIARY TRUST COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 0
-    2018: FIDUCIARY TRUST COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 142
-        Assets: 30540262
-        $/Participant: 215072
-    2017: FIDUCIARY TRUST COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 157
-        Assets: 36704646
-        $/Participant: 233787
    [003]
     2022: FIDUCIARY TRUST COMPANY PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T 
         Participants: 175
         Assets: 48266377
         $/Participant: 275807
         RecordKeeper: THE VANGUARD GROUP, INC.
     2021: FIDUCIARY TRUST COMPANY PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T 
         Participants: 167
         Assets: 61967629
         $/Participant: 371063
         RecordKeeper: THE VANGUARD GROUP, INC.
     2020: FIDUCIARY TRUST COMPANY PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T 
         Participants: 163
         Assets: 56755208
         $/Participant: 348191
         RecordKeeper: THE VANGUARD GROUP, INC.
     2019: FIDUCIARY TRUST COMPANY PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T 
         Participants: 163
         Assets: 52269537
         $/Participant: 320672
         RecordKeeper: THE VANGUARD GROUP, INC.
     2018: FIDUCIARY TRUST COMPANY PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T 
         Participants: 158
         Assets: 41131812
         $/Participant: 260327
         RecordKeeper: THE VANGUARD GROUP, INC.
     2017: FIDUCIARY TRUST COMPANY PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T 
         Participants: 150
         Assets: 45987329
         $/Participant: 306582
         RecordKeeper: THE VANGUARD GROUP, INC.
-   [001]
-    2021: RETIREMENT PLAN FOR EMPLOYEES OF FIDUCIARY TRUST COMPANY
+   [004]
+    2019: FIDUCIARY TRUST COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O3I 
         Participants: 0
-        RecordKeeper: STATE STREET GLOBAL ADVISORS TRUST
-        Available Investments:
-           - STATE STREET GLOBAL ADVISORS
-                 : GLOBAL DEFENSIVE EQUITY NON-LENDING
-                 : INTERMEDIATE US CREDIT
-                 : LONG US CREDIT
-                 : LONG US TREASURY INDEX NL
-                 : MSCI EAFE FUND
-                 : MSCI EMERGING MARKET FUND
-                 : RUSSELL 1000 INDEX
-                 : RUSSELL 2000 INDEX
-                 : SSGA US HIGH QUALITY CORP BOND NL
-                 : US TREASURY STRIPS
-    2020: RETIREMENT PLAN FOR EMPLOYEES OF FIDUCIARY TRUST COMPANY
-        Participants: 171
-        Assets: 40261572
-        $/Participant: 235447
-        Service Providers:
-           - STATE STREET GLOBAL ADVISORS TRUST :  (Custodial(other than securities) | Custodial(securities) | Direct payment from the plan | Investment management fees paid directly by plan | Non - monetary compensation)
-        Available Investments:
-           - STATE STREET GLOBAL ADVISORS
-                 : GLOBAL DEFENSIVE EQUITY NON-LENDING
-                 : INTERMEDIATE US CREDIT
-                 : LONG US CREDIT
-                 : LONG US GOV BOND
-                 : LONG US TREASURY INDEX NL
-                 : MSCI EAFE FUND
-                 : MSCI EMERGING MARKET FUND
-                 : RUSSELL 1000 INDEX
-                 : RUSSELL 2000 INDEX
-                 : SSGA US HIGH QUALITY CORP BOND NL
-                 : US TREASURY STRIPS
+    2018: FIDUCIARY TRUST COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O3I 
+        Participants: 142
+        Assets: 30540262
+        $/Participant: 215072
+    2017: FIDUCIARY TRUST COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O3I 
+        Participants: 157
+        Assets: 36704646
+        $/Participant: 233787
+   [501]
+    2022: FIDUCIARY TRUST COMPANY CONSOLIDATED HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+    2021: FIDUCIARY TRUST COMPANY CONSOLIDATED HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+    2020: FIDUCIARY TRUST COMPANY CONSOLIDATED HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+    2019: FIDUCIARY TRUST COMPANY CONSOLIDATED HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+    2018: FIDUCIARY TRUST COMPANY CONSOLIDATED HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+    2017: FIDUCIARY TRUST COMPANY CONSOLIDATED HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+   [001]
     2019: RETIREMENT PLAN FOR EMPLOYEES OF FIDUCIARY TRUST COMPANY
+        Benefit Category: Other
+        Codes: 1I 
         Participants: 174
         Assets: 37919117
         $/Participant: 217925
@@ -113,6 +111,8 @@ MA : BOSTON
                  : US REIT INDEX
                  : US TREASURY STRIPS
     2018: RETIREMENT PLAN FOR EMPLOYEES OF FIDUCIARY TRUST COMPANY
+        Benefit Category: Other
+        Codes: 1I 
         Participants: 179
         Assets: 33447319
         $/Participant: 186856
@@ -135,6 +135,8 @@ MA : BOSTON
                  : US TIPS FUND
                  : US TREASURY STRIPS
     2017: RETIREMENT PLAN FOR EMPLOYEES OF FIDUCIARY TRUST COMPANY
+        Benefit Category: Other
+        Codes: 1I 
         Participants: 181
         Assets: 37974886
         $/Participant: 209806
@@ -155,4 +157,42 @@ MA : BOSTON
                  : US AGGREGATE BOND INDEX
                  : US REIT INDEX
                  : US TIPS FUND
+                 : US TREASURY STRIPS
+    2021: RETIREMENT PLAN FOR EMPLOYEES OF FIDUCIARY TRUST COMPANY
+        Benefit Category: Pension
+        Codes: 1A1I1H 
+        Participants: 0
+        RecordKeeper: STATE STREET GLOBAL ADVISORS TRUST
+        Available Investments:
+           - STATE STREET GLOBAL ADVISORS
+                 : GLOBAL DEFENSIVE EQUITY NON-LENDING
+                 : INTERMEDIATE US CREDIT
+                 : LONG US CREDIT
+                 : LONG US TREASURY INDEX NL
+                 : MSCI EAFE FUND
+                 : MSCI EMERGING MARKET FUND
+                 : RUSSELL 1000 INDEX
+                 : RUSSELL 2000 INDEX
+                 : SSGA US HIGH QUALITY CORP BOND NL
+                 : US TREASURY STRIPS
+    2020: RETIREMENT PLAN FOR EMPLOYEES OF FIDUCIARY TRUST COMPANY
+        Benefit Category: Pension
+        Codes: 1I1A 
+        Participants: 171
+        Assets: 40261572
+        $/Participant: 235447
+        Service Providers:
+           - STATE STREET GLOBAL ADVISORS TRUST :  (Custodial(other than securities) | Custodial(securities) | Direct payment from the plan | Investment management fees paid directly by plan | Non - monetary compensation)
+        Available Investments:
+           - STATE STREET GLOBAL ADVISORS
+                 : GLOBAL DEFENSIVE EQUITY NON-LENDING
+                 : INTERMEDIATE US CREDIT
+                 : LONG US CREDIT
+                 : LONG US GOV BOND
+                 : LONG US TREASURY INDEX NL
+                 : MSCI EAFE FUND
+                 : MSCI EMERGING MARKET FUND
+                 : RUSSELL 1000 INDEX
+                 : RUSSELL 2000 INDEX
+                 : SSGA US HIGH QUALITY CORP BOND NL
                  : US TREASURY STRIPS

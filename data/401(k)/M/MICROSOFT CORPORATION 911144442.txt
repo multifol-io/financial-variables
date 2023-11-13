@@ -1,46 +1,10 @@
 WA : REDMOND
   MICROSOFT CORPORATION  911144442
-   [507]
-    2022: MICROSOFT CORPORATION SEVERANCE PLAN FOR EMPLOYEES AT LEVELS 65-67
-        Participants: 0
-    2021: MICROSOFT CORPORATION SEVERANCE PLAN FOR EMPLOYEES AT LEVELS 65-67
-        Participants: 22890
-    2020: MICROSOFT CORPORATION SEVERANCE PLAN FOR EMPLOYEES AT LEVEL 65-67
-        Participants: 19757
-    2019: MICROSOFT CORPORATION SEVERANCE PLAN FOR EMPLOYEES AT LEVEL 65-67
-        Participants: 16985
-VA : REDMOND
-    2018: MICROSOFT CORPORATION SEVERANCE PLAN FOR EMPLOYEES AT LEVEL 65-67
-        Participants: 15382
-WA : REDMOND
-   [506]
-    2022: MICROSOFT CORPORATION SEVERANCE PLAN FOR EMPLOYEES AT LEVEL 64 AND BELOW
-        Participants: 0
-    2021: MICROSOFT CORPORATION SEVERANCE PLAN FOR EMPLOYEES AT LEVEL 64 AND BELOW
-        Participants: 68220
-    2020: MICROSOFT CORPORATION SEVERANCE PLAN FOR EMPLOYEES AT LEVEL 64
-        Participants: 63749
-    2019: MICROSOFT CORPORATION SEVERANCE PLAN FOR EMPLOYEES AT LEVEL 64
-        Participants: 58853
-    2018: MICROSOFT CORPORATION SEVERANCE PLAN FOR EMPLOYEES AT LEVEL 64
-        Participants: 55282
-    2017: MICROSOFT CORPORATION SEVERANCE PLAN
-        Participants: 1341
-   [501]
-    2022: MICROSOFT CORPORATION WELFARE PLAN
-        Participants: 0
-    2021: MICROSOFT CORPORATION WELFARE PLAN
-        Participants: 94484
-    2020: MICROSOFT CORPORATION WELFARE PLAN
-        Participants: 85208
-    2019: MICROSOFT CORPORATION WELFARE PLAN
-        Participants: 77747
-    2018: MICROSOFT CORPORATION WELFARE PLAN
-        Participants: 73558
-    2017: MICROSOFT CORPORATION WELFARE PLAN
-        Participants: 68484
    [001]
     2022: MICROSOFT CORPORATION SAVINGS PLUS 401K PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2I2J2K2O2R2T3H 
         Participants: 173630
         Assets: 39602667639
         $/Participant: 228086
@@ -81,6 +45,9 @@ WA : REDMOND
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE VALUE FUND C
     2021: MICROSOFT CORPORATION SAVINGS PLUS 401K PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2I2J2K2O2R2T3H 
         Participants: 155107
         Assets: 48020791784
         $/Participant: 309597
@@ -111,6 +78,9 @@ WA : REDMOND
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE VALUE FUND C
     2020: MICROSOFT CORPORATION SAVINGS PLUS 401K PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2I2J2K2O2R2T3H 
         Participants: 140433
         Assets: 38364078835
         $/Participant: 273184
@@ -137,6 +107,9 @@ WA : REDMOND
                  : VANGUARD RUS 2000 GR TR
                  : VANGUARD S&P 500 IDX TR
     2019: MICROSOFT CORPORATION SAVINGS PLUS 401K PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2I2J2K2O2R2T3H 
         Participants: 116455
         Assets: 27542813107
         $/Participant: 236510
@@ -164,6 +137,9 @@ WA : REDMOND
                  : VANGUARD RUS 2000 GR TR
                  : VANGUARD S&P 500 IDX TR
     2018: MICROSOFT CORPORATION SAVINGS PLUS 401K PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2I2J2K2O2R2T3H 
         Participants: 109109
         Assets: 20391415306
         $/Participant: 186890
@@ -186,6 +162,9 @@ WA : REDMOND
                  : VANGUARD RUS 2000 GR TR
                  : VANGUARD S&P 500 IDX TR
     2017: MICROSOFT CORPORATION SAVINGS PLUS 401(K) PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2I2J2K2O2R2T3H 
         Participants: 101879
         Assets: 20073412522
         $/Participant: 197031
@@ -210,3 +189,75 @@ WA : REDMOND
                  : VANGUARD RUS 1000 VAL TR
                  : VANGUARD RUS 2000 GR TR
                  : VANGUARD S&P 500 IDX TR
+   [501]
+    2022: MICROSOFT CORPORATION WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 0
+    2021: MICROSOFT CORPORATION WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 94484
+    2020: MICROSOFT CORPORATION WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 85208
+    2019: MICROSOFT CORPORATION WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 77747
+    2018: MICROSOFT CORPORATION WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 73558
+    2017: MICROSOFT CORPORATION WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 68484
+   [506]
+    2022: MICROSOFT CORPORATION SEVERANCE PLAN FOR EMPLOYEES AT LEVEL 64 AND BELOW
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 0
+    2021: MICROSOFT CORPORATION SEVERANCE PLAN FOR EMPLOYEES AT LEVEL 64 AND BELOW
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 68220
+    2020: MICROSOFT CORPORATION SEVERANCE PLAN FOR EMPLOYEES AT LEVEL 64
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 63749
+    2019: MICROSOFT CORPORATION SEVERANCE PLAN FOR EMPLOYEES AT LEVEL 64
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 58853
+    2018: MICROSOFT CORPORATION SEVERANCE PLAN FOR EMPLOYEES AT LEVEL 64
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 55282
+    2017: MICROSOFT CORPORATION SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 1341
+   [507]
+    2022: MICROSOFT CORPORATION SEVERANCE PLAN FOR EMPLOYEES AT LEVELS 65-67
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 0
+    2021: MICROSOFT CORPORATION SEVERANCE PLAN FOR EMPLOYEES AT LEVELS 65-67
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 22890
+    2020: MICROSOFT CORPORATION SEVERANCE PLAN FOR EMPLOYEES AT LEVEL 65-67
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 19757
+    2019: MICROSOFT CORPORATION SEVERANCE PLAN FOR EMPLOYEES AT LEVEL 65-67
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 16985
+VA : REDMOND
+    2018: MICROSOFT CORPORATION SEVERANCE PLAN FOR EMPLOYEES AT LEVEL 65-67
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 15382

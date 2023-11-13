@@ -1,20 +1,9 @@
 CA : GALT
   BUILDING MATERIAL DISTRIBUTORS, INC.  953926637
-   [501]
-    2022: BUILDING MATERIAL DISTRIBUTORS HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: BUILDING MATERIALS DISTRIBUTORS HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: BUILDING MATERIALS DISTRIBUTORS HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: BUILDING MATERIALS DISTRIBUTORS HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: BUILDING MATERIAL DISTRIBUTORS HEALTH & WELFARE PLAN
-        Participants: 
-    2017: BUILDING MATERIAL DISTRIBUTORS HEALTH & WELFARE PLAN
-        Participants: 
    [004]
     2022: BMD 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D3H 
         Participants: 1180
         Assets: 28342983
         $/Participant: 24019
@@ -39,6 +28,8 @@ CA : GALT
                  : SMALL CAP GROWTH FD FEE CL I3
                  : SMALL CAP VALUE I3 FUND
     2021: BMD 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D3H 
         Participants: 813
         Assets: 32692228
         $/Participant: 40211
@@ -63,6 +54,8 @@ CA : GALT
                  : SMALL CAP GROWTH FD FEE CL I3
                  : SMALL CAP VALUE I3 FUND
     2020: BMD 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D3H 
         Participants: 581
         Assets: 27599445
         $/Participant: 47503
@@ -86,6 +79,8 @@ CA : GALT
                  : LARGE CAP VALUE I2 FUND
                  : SMALL CAP GROWTH FD FEE CL I3
     2019: BMD 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D3H 
         Participants: 551
         Assets: 23456143
         $/Participant: 42570
@@ -108,6 +103,8 @@ CA : GALT
            - WILMINGTON TRUST, N.A.
                  : LARGE CAP VALUE I2 FUND
     2018: BMD 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D3H 
         Participants: 526
         Assets: 16445246
         $/Participant: 31264
@@ -128,6 +125,8 @@ CA : GALT
                  : PRIN LIFETIME HYBR 2065 CIT R5
                  : PRIN LIFETIME HYBR INC CIT R5
     2017: BMD 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D3H 
         Participants: 221
         Assets: 16442133
         $/Participant: 74398
@@ -148,26 +147,63 @@ CA : GALT
                  : PRIN LIFETIME HYBR INC CIT R5
    [003]
     2022: BUILDING MATERIAL DISTRIBUTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2K2P2Q3H3I 
         Participants: 1187
         Assets: 195148103
         $/Participant: 164404
     2021: BUILDING MATERIAL DISTRIBUTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2K2P2Q3H3I 
         Participants: 818
         Assets: 178004082
         $/Participant: 217608
     2020: BUILDING MATERIAL DISTRIBUTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2K2P2Q3H3I 
         Participants: 627
         Assets: 136369440
         $/Participant: 217495
     2019: BUILDING MATERIAL DISTRIBUTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2K2P2Q3H3I 
         Participants: 584
         Assets: 119879330
         $/Participant: 205272
     2018: BUILDING MATERIAL DISTRIBUTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2K2P2Q3H3I 
         Participants: 548
         Assets: 111425940
         $/Participant: 203332
     2017: BUILDING MATERIAL DISTRIBUTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2K2P2Q3I 
         Participants: 291
         Assets: 90482056
         $/Participant: 310934
+   [501]
+    2022: BUILDING MATERIAL DISTRIBUTORS HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2021: BUILDING MATERIALS DISTRIBUTORS HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2020: BUILDING MATERIALS DISTRIBUTORS HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2019: BUILDING MATERIALS DISTRIBUTORS HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2018: BUILDING MATERIAL DISTRIBUTORS HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 
+    2017: BUILDING MATERIAL DISTRIBUTORS HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 

@@ -1,22 +1,9 @@
 TX : DALLAS
   GALDERMA SERVICES, INC.  751714673
-   [501]
-    2022: GALDERMA SERVICES, INC. COMPREHENSIVE WELFARE BENEFITS PLAN
-        Participants: 
-TX : FORT WORTH
-    2021: GALDERMA SERVICES, INC. COMPREHENSIVE WELFARE BENEFITS PLAN
-        Participants: 931
-    2020: GALDERMA SERVICES, INC. COMPREHENSIVE WELFARE BENEFITS PLAN
-        Participants: 899
-    2019: NSH SERVICES INC. COMPREHENSIVE WELFARE BENEFITS PLAN
-        Participants: 869
-    2018: NSH SERVICES INC. COMPREHENSIVE WELFARE BENEFITS PLAN
-        Participants: 879
-    2017: NSH SERVICES INC. COMPREHENSIVE WELFARE BENEFITS PLAN
-        Participants: 953
-TX : DALLAS
    [001]
     2022: GALDERMA SERVICES, INC. EMPLOYEES' 401(K) AND EMPLOYER CONTRIBUTION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K 
         Participants: 1500
         Assets: 328904788
         $/Participant: 219269
@@ -33,6 +20,8 @@ TX : DALLAS
                  : LORD ABBETT TOTAL RETURN TURST II
 TX : FORT WORTH
     2021: GALDERMA SERVICES, INC. EMPLOYEES' 401(K) AND EMPLOYER CONTRIBUTION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K 
         Participants: 1514
         Assets: 398388971
         $/Participant: 263136
@@ -48,6 +37,8 @@ TX : FORT WORTH
                  : BLACKROCK EQUITY INDEX FUND CL R
                  : LORD ABBETT TOTAL RETURN TURST II
     2020: GALDERMA SERVICES, INC. EMPLOYEES' 401(K) AND EMPLOYER CONTRIBUTION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K 
         Participants: 1400
         Assets: 351716002
         $/Participant: 251225
@@ -56,6 +47,8 @@ TX : FORT WORTH
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RET. SAVINGS TRUST III
     2019: GALDERMA SERVICES, INC. EMPLOYEES' 401(K) AND EMPLOYER CONTRIBUTION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K 
         Participants: 1368
         Assets: 302090030
         $/Participant: 220826
@@ -64,6 +57,8 @@ TX : FORT WORTH
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RET. SAVINGS TRUST III
     2018: NSH SERVICES INC. EMPLOYEES' 401(K) AND EMPLOYER CONTRIBUTION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K 
         Participants: 1362
         Assets: 240866624
         $/Participant: 176847
@@ -71,9 +66,38 @@ TX : FORT WORTH
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RET. SAVINGS TRUST III
     2017: NSH SERVICES INC. EMPLOYEES' 401(K) AND EMPLOYER CONTRIBUTION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K 
         Participants: 1383
         Assets: 262255521
         $/Participant: 189627
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RET. SAVINGS TRUST III
+TX : DALLAS
+   [501]
+    2022: GALDERMA SERVICES, INC. COMPREHENSIVE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4Q
+        Participants: 
+TX : FORT WORTH
+    2021: GALDERMA SERVICES, INC. COMPREHENSIVE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 931
+    2020: GALDERMA SERVICES, INC. COMPREHENSIVE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 899
+    2019: NSH SERVICES INC. COMPREHENSIVE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 869
+    2018: NSH SERVICES INC. COMPREHENSIVE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 879
+    2017: NSH SERVICES INC. COMPREHENSIVE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 953

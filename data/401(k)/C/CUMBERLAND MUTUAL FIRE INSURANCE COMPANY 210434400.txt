@@ -1,72 +1,9 @@
 NJ : BRIDGETON
   CUMBERLAND MUTUAL FIRE INSURANCE COMPANY  210434400
-   [505]
-    2022: CUMBERLAND GROUP VISION PLAN
-        Participants: 
-    2021: CUMBERLAND GROUP VISION PLAN
-        Participants: 
-    2020: CUMBERLAND GROUP VISION PLAN
-        Participants: 
-    2019: CUMBERLAND GROUP VISION PLAN
-        Participants: 
-    2018: CUMBERLAND GROUP VISION PLAN
-        Participants: 
-    2017: CUMBERLAND GROUP VISION PLAN
-        Participants: 
-   [504]
-    2022: CUMBERLAND GROUP PRESCRIPTION DRUG PLAN
-        Participants: 
-    2021: CUMBERLAND GROUP PRESCRIPTION DRUG PLAN
-        Participants: 
-    2020: CUMBERLAND GROUP PRESCRIPTION DRUG PLAN
-        Participants: 
-    2019: CUMBERLAND GROUP PRESCRIPTION DRUG PLAN
-        Participants: 
-    2018: CUMBERLAND GROUP PRESCRIPTION DRUG PLAN
-        Participants: 
-    2017: CUMBERLAND GROUP PRESCRIPTION DRUG PLAN
-        Participants: 
-   [503]
-    2022: CUMBERLAND GROUP LIFE & DISABILITY PLAN
-        Participants: 
-    2021: CUMBERLAND GROUP LIFE & DISABILITY PLAN
-        Participants: 
-    2020: CUMBERLAND GROUP LIFE & DISABILITY PLAN
-        Participants: 
-    2019: CUMBERLAND GROUP LIFE & DISABILITY PLAN
-        Participants: 
-    2018: CUMBERLAND GROUP LIFE & DISABILITY PLAN
-        Participants: 
-    2017: CUMBERLAND GROUP LIFE & DISABILITY PLAN
-        Participants: 
-   [502]
-    2022: CUMBERLAND GROUP DENTAL PLAN
-        Participants: 
-    2021: CUMBERLAND GROUP DENTAL PLAN
-        Participants: 
-    2020: CUMBERLAND GROUP DENTAL PLAN
-        Participants: 
-    2019: CUMBERLAND GROUP DENTAL PLAN
-        Participants: 
-    2018: CUMBERLAND GROUP DENTAL PLAN
-        Participants: 
-    2017: CUMBERLAND GROUP DENTAL PLAN
-        Participants: 
-   [501]
-    2022: CUMBERLAND GROUP HEALTH PLAN
-        Participants: 
-    2021: CUMBERLAND GROUP HEALTH PLAN
-        Participants: 
-    2020: CUMBERLAND GROUP HEALTH PLAN
-        Participants: 
-    2019: CUMBERLAND GROUP HEALTH PLAN
-        Participants: 
-    2018: CUMBERLAND GROUP HEALTH PLAN
-        Participants: 
-    2017: CUMBERLAND GROUP HEALTH PLAN
-        Participants: 
    [003]
     2022: CUMBERLAND INSURANCE GROUP 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 176
         Assets: 28896985
         $/Participant: 164187
@@ -75,6 +12,8 @@ NJ : BRIDGETON
            - AMERIPRISE TRUST COMPANY
                  : COLUMBIA TRUST STBL INC ADM 0
     2021: CUMBERLAND INSURANCE GROUP 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 168
         Assets: 33506656
         $/Participant: 199444
@@ -83,6 +22,8 @@ NJ : BRIDGETON
            - AMERIPRISE TRUST COMPANY
                  : COLUMBIA TRUST STBL INCOME I-0
     2020: CUMBERLAND INSURANCE GROUP 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 174
         Assets: 29114536
         $/Participant: 167324
@@ -91,22 +32,155 @@ NJ : BRIDGETON
            - AMERIPRISE TRUST COMPANY
                  : COLUMBIA TRUST STBL INCOME I-0
     2019: CUMBERLAND INSURANCE GROUP 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 164
         Assets: 23046160
         $/Participant: 140525
         RecordKeeper: MMA SECURITIES, LLC
     2018: CUMBERLAND INSURANCE GROUP 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 164
         Assets: 18648451
         $/Participant: 113710
         RecordKeeper: CENTURION GROUP LLC
     2017: CUMBERLAND INSURANCE GROUP 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 163
         Assets: 19791163
         $/Participant: 121418
         RecordKeeper: CENTURION GROUP LLC
+   [501]
+    2022: CUMBERLAND GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: CUMBERLAND GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2020: CUMBERLAND GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: CUMBERLAND GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: CUMBERLAND GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: CUMBERLAND GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [504]
+    2022: CUMBERLAND GROUP PRESCRIPTION DRUG PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: CUMBERLAND GROUP PRESCRIPTION DRUG PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2020: CUMBERLAND GROUP PRESCRIPTION DRUG PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: CUMBERLAND GROUP PRESCRIPTION DRUG PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: CUMBERLAND GROUP PRESCRIPTION DRUG PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: CUMBERLAND GROUP PRESCRIPTION DRUG PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [502]
+    2022: CUMBERLAND GROUP DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2021: CUMBERLAND GROUP DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2020: CUMBERLAND GROUP DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2019: CUMBERLAND GROUP DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2018: CUMBERLAND GROUP DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2017: CUMBERLAND GROUP DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+   [503]
+    2022: CUMBERLAND GROUP LIFE & DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L
+        Participants: 
+    2021: CUMBERLAND GROUP LIFE & DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L
+        Participants: 
+    2020: CUMBERLAND GROUP LIFE & DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L
+        Participants: 
+    2019: CUMBERLAND GROUP LIFE & DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L
+        Participants: 
+    2018: CUMBERLAND GROUP LIFE & DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L
+        Participants: 
+    2017: CUMBERLAND GROUP LIFE & DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L
+        Participants: 
+   [505]
+    2022: CUMBERLAND GROUP VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2021: CUMBERLAND GROUP VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2020: CUMBERLAND GROUP VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2019: CUMBERLAND GROUP VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2018: CUMBERLAND GROUP VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2017: CUMBERLAND GROUP VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
    [001]
     2019: PENSION PLAN FOR EMPLOYEES OF CUMBERLAND MUTUAL INSURANCE COMPANY
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 47
         Assets: 12153216
         $/Participant: 258579
@@ -117,6 +191,8 @@ NJ : BRIDGETON
                  : PRIN LDI LONG DURATION SA-Z
                  : PRIN LIQUID ASSETS SEP ACCT-Z
     2018: PENSION PLAN FOR EMPLOYEES OF CUMBERLAND MUTUAL INSURANCE COMPANY
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 115
         Assets: 17616850
         $/Participant: 153190
@@ -134,6 +210,8 @@ NJ : BRIDGETON
                  : PRIN U.S. PROPERTY SEP ACCT-R6
                  : PRINCIPAL OVERSEAS SEP ACCT-R6
     2017: PENSION PLAN FOR EMPLOYEES OF CUMBERLAND MUTUAL INSURANCE COMPANY
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 178
         Assets: 19948911
         $/Participant: 112072

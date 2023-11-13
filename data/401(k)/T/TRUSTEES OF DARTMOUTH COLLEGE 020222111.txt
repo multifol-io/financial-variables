@@ -2,24 +2,34 @@ NH : HANOVER
   TRUSTEES OF DARTMOUTH COLLEGE  020222111
    [506]
     2022: THE HEALTH & WELFARE BENEFITS PLAN OF DARTMOUTH COLLEGE
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L4Q
         Participants: 
     2021: THE HEALTH & WELFARE BENEFITS PLAN OF DARTMOUTH COLLEGE
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L4Q
         Participants: 
         Service Providers:
            - CIGNA HEALTH AND LIFE INS COMPANY : CLAIMS ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
            - EXPRESS SCRIPTS, INC. : CLAIMS PROCESSOR (Claims processing)
            - LINCOLN NATIONAL LIFE INS CO : ASO STD (Claims processing | Contract Administrator | Insurance services)
     2020: THE HEALTH & WELFARE BENEFITS PLAN OF DARTMOUTH COLLEGE
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L4Q
         Participants: 
         Service Providers:
            - CIGNA HEALTH AND LIFE INS COMPANY : CLAIMS ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
            - EXPRESS SCRIPTS, INC. : CLAIMS PROCESSOR (Claims processing)
     2019: THE HEALTH & WELFARE BENEFITS PLAN OF DARTMOUTH COLLEGE
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L4Q
         Participants: 
         Service Providers:
            - CIGNA HEALTH AND LIFE INS COMPANY : CLAIMS ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
            - EXPRESS SCRIPTS, INC. : CLAIMS PROCESSOR (Claims processing)
     2018: THE HEALTH & WELFARE BENEFITS PLAN OF DARTMOUTH COLLEGE
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L4Q
         Participants: 
         Service Providers:
            - CIGNA HEALTH AND LIFE INS COMPANY : CLAIMS ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
@@ -27,67 +37,76 @@ NH : HANOVER
            - MATRIX ABSENCE MANAGEMENT, INC. : CLAIMS PROCESSOR (Claims processing)
            - LIBERTY LIFE ASSURANCE CO OF BOSTON : CLAIMS PROCESSOR (Claims processing)
     2017: THE HEALTH & WELFARE BENEFITS PLAN OF DARTMOUTH COLLEGE
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4L4Q
         Participants: 
         RecordKeeper: CROSBY BENEFITS SYSTEM
-   [505]
-    2017: DARTMOUTH COLLEGE TRAVEL ACCIDENT INSURANCE PLAN
-        Participants: 
-   [504]
-    2017: DARTMOUTH COLLEGE TOTAL DISABILITY PLAN
-        Participants: 
+   [001]
+    2022: 403(B) DEFINED CONTRIBUTION RETIREMENT PLAN FOR DARTMOUTH COLLEGE FACULTY AND STAFF
+        Benefit Category: Other
+        Codes: 2A2F2G2L2M2T 
+        Participants: 1078
+        Assets: 328833809
+        $/Participant: 305040
+        RecordKeeper: FIDELITY INV INSTL OPS CO INC.
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2021: 403(B) DEFINED CONTRIBUTION RETIREMENT PLAN FOR DARTMOUTH COLLEGE FACULTY AND STAFF
+        Benefit Category: Other
+        Codes: 2A2F2G2L2M2T 
+        Participants: 1124
+        Assets: 396834570
+        $/Participant: 353055
+        RecordKeeper: FIDELITY INV INSTL OPS CO INC.
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2020: 403(B) DEFINED CONTRIBUTION RETIREMENT PLAN FOR DARTMOUTH COLLEGE FACULTY AND STAFF
+        Benefit Category: Other
+        Codes: 2A2F2G2L2M2T 
+        Participants: 1132
+        Assets: 385281088
+        $/Participant: 340354
+        RecordKeeper: FIDELITY INV INSTL OPS CO INC.
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2019: 403(B) DEFINED CONTRIBUTION RETIREMENT PLAN FOR DARTMOUTH COLLEGE FACULTY AND STAFF
+        Benefit Category: Other
+        Codes: 2A2F2G2L2M2T 
+        Participants: 1210
+        Assets: 381630882
+        $/Participant: 315397
+        RecordKeeper: FIDELITY INV INSTL OPS CO INC.
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2018: 403(B) DEFINED CONTRIBUTION RETIREMENT PLAN FOR DARTMOUTH COLLEGE FACULTY AND STAFF
+        Benefit Category: Other
+        Codes: 2A2F2G2L2M2T 
+        Participants: 1268
+        Assets: 359153220
+        $/Participant: 283243
         Service Providers:
-           - MATRIX ABSENCE MANAGEMENT,INC. :  (Claims processing)
-   [005]
-    2022: 401(A) DEF CONT RET PLAN FOR DARTMOUTH COLLEGE FACULTY/STAFF
-        Participants: 7570
-        Assets: 688171831
-        $/Participant: 90907
-        RecordKeeper: TIAA
+           - TIAA : N/A (Other fees)
         Available Investments:
            - TIAA-CREF
-                 : TIAA REAL ESTATE ACCOUNT
-    2021: 401(A) DEF CONT RET PLAN FOR DARTMOUTH COLLEGE FACULTY/STAFF
-        Participants: 7291
-        Assets: 817432613
-        $/Participant: 112115
-        RecordKeeper: TIAA
+                 : TIAA REAL ESTATE
+    2017: 403(B) DEFINED CONTRIBUTION RETIREMENT PLAN FOR DARTMOUTH COLLEGE FACULTY AND STAFF
+        Benefit Category: Other
+        Codes: 2A2F2G2L2M2T 
+        Participants: 1304
+        Assets: 391371130
+        $/Participant: 300131
+        RecordKeeper: FIDELITY INV INSTIT OPER CO., INC.
         Available Investments:
            - TIAA-CREF
-                 : TIAA REAL ESTATE ACCOUNT
-    2020: 401(A) DEF CONT RET PLAN FOR DARTMOUTH COLLEGE FACULTY/STAFF
-        Participants: 6973
-        Assets: 717820336
-        $/Participant: 102942
-        RecordKeeper: TIAA
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE ACCOUNT
-    2019: 401(A) DEF CONT RET PLAN FOR DARTMOUTH COLLEGE FACULTY/STAFF
-        Participants: 6997
-        Assets: 616284997
-        $/Participant: 88078
-        RecordKeeper: TIAA
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE ACCOUNT
-    2018: 401(A) DEF CONT RET PLAN FOR DARTMOUTH COLLEGE FACULTY/STAFF
-        Participants: 6877
-        Assets: 506912429
-        $/Participant: 73711
-        RecordKeeper: TIAA
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE ACCOUNT
-    2017: 401(A) DEF CONT RET PLAN FOR DARTMOUTH COLLEGE FACULTY/STAFF
-        Participants: 6664
-        Assets: 523558390
-        $/Participant: 78565
-        RecordKeeper: TIAA
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE ACCOUNT
+                 : TIAA REAL ESTATE
    [003]
     2022: SUPPLEMENTAL RETIREMENT ACCOUNTS FOR ALL EMPLOYEES OF DARTMOUTH COLLEGE
+        Benefit Category: Other
+        Codes: 2F2G2L2M 
         Participants: 7461
         Assets: 848987653
         $/Participant: 113790
@@ -96,6 +115,8 @@ NH : HANOVER
            - TIAA-CREF
                  : TIAA REAL ESTATE ACCOUNT
     2021: SUPPLEMENTAL RETIREMENT ACCOUNTS FOR ALL EMPLOYEES OF DARTMOUTH COLLEGE
+        Benefit Category: Other
+        Codes: 2F2G2L2M 
         Participants: 7339
         Assets: 989828819
         $/Participant: 134872
@@ -104,6 +125,8 @@ NH : HANOVER
            - TIAA-CREF
                  : TIAA REAL ESTATE ACCOUNT
     2020: SUPPLEMENTAL RETIREMENT ACCOUNTS FOR ALL EMPLOYEES OF DARTMOUTH COLLEGE
+        Benefit Category: Other
+        Codes: 2F2G2L2M 
         Participants: 7594
         Assets: 873273228
         $/Participant: 114995
@@ -112,6 +135,8 @@ NH : HANOVER
            - TIAA-CREF
                  : TIAA REAL ESTATE ACCOUNT
     2019: SUPPLEMENTAL RETIREMENT ACCOUNTS FOR ALL EMPLOYEES OF DARTMOUTH COLLEGE
+        Benefit Category: Other
+        Codes: 2F2G2L2M 
         Participants: 7716
         Assets: 764995469
         $/Participant: 99144
@@ -120,6 +145,8 @@ NH : HANOVER
            - TIAA-CREF
                  : TIAA REAL ESTATE ACCOUNT
     2018: SUPPLEMENTAL RETIREMENT ACCOUNTS FOR ALL EMPLOYEES OF DARTMOUTH COLLEGE
+        Benefit Category: Other
+        Codes: 2F2G2L2M 
         Participants: 7676
         Assets: 646017836
         $/Participant: 84160
@@ -128,6 +155,8 @@ NH : HANOVER
            - TIAA-CREF
                  : TIAA REAL ESTATE ACCOUNT
     2017: SUPPLEMENTAL RETIREMENT ACCOUNTS FOR ALL EMPLOYEES OF DARTMOUTH COLLEGE
+        Benefit Category: Other
+        Codes: 2F2G2L2M 
         Participants: 8385
         Assets: 665289880
         $/Participant: 79342
@@ -135,8 +164,83 @@ NH : HANOVER
         Available Investments:
            - TIAA-CREF
                  : TIAA REAL ESTATE ACCOUNT
+   [005]
+    2022: 401(A) DEF CONT RET PLAN FOR DARTMOUTH COLLEGE FACULTY/STAFF
+        Benefit Category: Other
+        Codes: 2A2C2F2G2T 
+        Participants: 7570
+        Assets: 688171831
+        $/Participant: 90907
+        RecordKeeper: TIAA
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE ACCOUNT
+    2021: 401(A) DEF CONT RET PLAN FOR DARTMOUTH COLLEGE FACULTY/STAFF
+        Benefit Category: Other
+        Codes: 2A2C2F2G2T 
+        Participants: 7291
+        Assets: 817432613
+        $/Participant: 112115
+        RecordKeeper: TIAA
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE ACCOUNT
+    2020: 401(A) DEF CONT RET PLAN FOR DARTMOUTH COLLEGE FACULTY/STAFF
+        Benefit Category: Other
+        Codes: 2A2C2F2G2T 
+        Participants: 6973
+        Assets: 717820336
+        $/Participant: 102942
+        RecordKeeper: TIAA
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE ACCOUNT
+    2019: 401(A) DEF CONT RET PLAN FOR DARTMOUTH COLLEGE FACULTY/STAFF
+        Benefit Category: Other
+        Codes: 2A2C2F2G2T 
+        Participants: 6997
+        Assets: 616284997
+        $/Participant: 88078
+        RecordKeeper: TIAA
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE ACCOUNT
+    2018: 401(A) DEF CONT RET PLAN FOR DARTMOUTH COLLEGE FACULTY/STAFF
+        Benefit Category: Other
+        Codes: 2A2C2F2G2T 
+        Participants: 6877
+        Assets: 506912429
+        $/Participant: 73711
+        RecordKeeper: TIAA
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE ACCOUNT
+    2017: 401(A) DEF CONT RET PLAN FOR DARTMOUTH COLLEGE FACULTY/STAFF
+        Benefit Category: Other
+        Codes: 2A2C2F2G2T 
+        Participants: 6664
+        Assets: 523558390
+        $/Participant: 78565
+        RecordKeeper: TIAA
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE ACCOUNT
+   [504]
+    2017: DARTMOUTH COLLEGE TOTAL DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+        Service Providers:
+           - MATRIX ABSENCE MANAGEMENT,INC. :  (Claims processing)
+   [505]
+    2017: DARTMOUTH COLLEGE TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
    [002]
     2022: DEFINED BENEFIT RETIREMENT PLAN FOR DARTMOUTH COLLEGE STAFF
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 998
         Assets: 103006113
         $/Participant: 103212
@@ -161,6 +265,8 @@ NH : HANOVER
            - LONG DURATION CORPORATE CREDIT SCREENED FUND
                  : BLACKROCK
     2021: DEFINED BENEFIT RETIREMENT PLAN FOR DARTMOUTH COLLEGE STAFF
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1055
         Assets: 154206852
         $/Participant: 146167
@@ -185,6 +291,8 @@ NH : HANOVER
            - LONG DURATION CORPORATE CREDIT SCREENED FUND
                  : BLACKROCK
     2020: DEFINED BENEFIT RETIREMENT PLAN FOR DARTMOUTH COLLEGE STAFF
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1120
         Assets: 161626927
         $/Participant: 144309
@@ -209,6 +317,8 @@ NH : HANOVER
            - LONG DURATION CORPORATE CREDIT SCREENED FUND
                  : BLACKROCK
     2019: DEFINED BENEFIT RETIREMENT PLAN FOR DARTMOUTH COLLEGE STAFF
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1193
         Assets: 142944023
         $/Participant: 119818
@@ -233,6 +343,8 @@ NH : HANOVER
            - LONG DURATION CORPORATE CREDIT SCREENED FUND
                  : BLACKROCK
     2018: DEFINED BENEFIT RETIREMENT PLAN FOR DARTMOUTH COLLEGE STAFF
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1253
         Assets: 121756039
         $/Participant: 97171
@@ -253,6 +365,8 @@ NH : HANOVER
            - LONG DURATION CORPORATE CREDIT SCREENED FUND
                  : BLACKROCK
     2017: DEFINED BENEFIT RETIREMENT PLAN FOR DARTMOUTH COLLEGE STAFF
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1307
         Assets: 145968012
         $/Participant: 111681
@@ -262,53 +376,3 @@ NH : HANOVER
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
                  : BLACKROCK
-   [001]
-    2022: 403(B) DEFINED CONTRIBUTION RETIREMENT PLAN FOR DARTMOUTH COLLEGE FACULTY AND STAFF
-        Participants: 1078
-        Assets: 328833809
-        $/Participant: 305040
-        RecordKeeper: FIDELITY INV INSTL OPS CO INC.
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2021: 403(B) DEFINED CONTRIBUTION RETIREMENT PLAN FOR DARTMOUTH COLLEGE FACULTY AND STAFF
-        Participants: 1124
-        Assets: 396834570
-        $/Participant: 353055
-        RecordKeeper: FIDELITY INV INSTL OPS CO INC.
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2020: 403(B) DEFINED CONTRIBUTION RETIREMENT PLAN FOR DARTMOUTH COLLEGE FACULTY AND STAFF
-        Participants: 1132
-        Assets: 385281088
-        $/Participant: 340354
-        RecordKeeper: FIDELITY INV INSTL OPS CO INC.
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2019: 403(B) DEFINED CONTRIBUTION RETIREMENT PLAN FOR DARTMOUTH COLLEGE FACULTY AND STAFF
-        Participants: 1210
-        Assets: 381630882
-        $/Participant: 315397
-        RecordKeeper: FIDELITY INV INSTL OPS CO INC.
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2018: 403(B) DEFINED CONTRIBUTION RETIREMENT PLAN FOR DARTMOUTH COLLEGE FACULTY AND STAFF
-        Participants: 1268
-        Assets: 359153220
-        $/Participant: 283243
-        Service Providers:
-           - TIAA : N/A (Other fees)
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2017: 403(B) DEFINED CONTRIBUTION RETIREMENT PLAN FOR DARTMOUTH COLLEGE FACULTY AND STAFF
-        Participants: 1304
-        Assets: 391371130
-        $/Participant: 300131
-        RecordKeeper: FIDELITY INV INSTIT OPER CO., INC.
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE

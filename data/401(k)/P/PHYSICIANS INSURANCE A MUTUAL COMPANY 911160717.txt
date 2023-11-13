@@ -1,10 +1,9 @@
 WA : SEATTLE
   PHYSICIANS INSURANCE A MUTUAL COMPANY  911160717
-   [501]
-    2021: PHYSICIANS INSURANCE HEALTH & WELFARE PLAN
-        Participants: 
    [002]
     2022: PHYSICIANS INSURANCE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 123
         Assets: 27000395
         $/Participant: 219515
@@ -13,6 +12,8 @@ WA : SEATTLE
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
     2021: PHYSICIANS INSURANCE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 121
         Assets: 36860869
         $/Participant: 304635
@@ -21,6 +22,8 @@ WA : SEATTLE
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
     2020: PHYSICIANS INSURANCE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 123
         Assets: 32526056
         $/Participant: 264439
@@ -28,3 +31,8 @@ WA : SEATTLE
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
+   [501]
+    2021: PHYSICIANS INSURANCE HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4R4S
+        Participants: 

@@ -1,57 +1,10 @@
 CA : THOUSAND OAKS
   AMGEN INC.  953540776
-   [518]
-    2022: AMGEN INC. RETIREE MEDICAL SAVINGS ACCOUNT PLAN
-        Participants: 
-        Assets: 164494398
-        $/Participant: 
-    2021: AMGEN INC. RETIREE MEDICAL SAVINGS ACCOUNT PLAN
-        Participants: 
-        Assets: 190776436
-        $/Participant: 
-    2020: AMGEN INC. RETIREE MEDICAL SAVINGS ACCOUNT PLAN
-        Participants: 
-        Assets: 159641174
-        $/Participant: 
-    2019: AMGEN INC. RETIREE MEDICAL SAVINGS ACCOUNT PLAN
-        Participants: 
-        Assets: 128395966
-        $/Participant: 
-    2018: AMGEN INC. RETIREE MEDICAL SAVINGS ACCOUNT PLAN
-        Participants: 
-        Assets: 98637443
-        $/Participant: 
-    2017: AMGEN INC. RETIREE MEDICAL SAVINGS ACCOUNT PLAN
-        Participants: 
-        Assets: 98690290
-        $/Participant: 
-   [517]
-    2020: AMGEN INC. MASTER SEVERANCE BENEFITS PLAN
-        Participants: 
-    2019: AMGEN INC. MASTER SEVERANCE BENEFITS PLAN
-        Participants: 
-    2018: AMGEN INC. MASTER SEVERANCE BENEFITS PLAN
-        Participants: 
-    2017: AMGEN INC. MASTER SEVERANCE BENEFITS PLAN
-        Participants: 
-   [509]
-    2019: OTEZLA CHANGE IN CONTROL SEVERANCE PLAN
-        Participants: 
-   [501]
-    2022: AMGEN INC. MASTER BENEFITS PLAN
-        Participants: 
-    2021: AMGEN INC. MASTER BENEFITS PLAN
-        Participants: 
-    2020: AMGEN INC. MASTER BENEFITS PLAN
-        Participants: 
-    2019: AMGEN INC. MASTER BENEFITS PLAN
-        Participants: 
-    2018: AMGEN INC. MASTER BENEFITS PLAN
-        Participants: 
-    2017: AMGEN INC. MASTER BENEFITS PLAN
-        Participants: 
    [001]
     2022: AMGEN RETIREMENT AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2R2S2T3H2O 
         Participants: 20260
         Assets: 6005374824
         $/Participant: 296415
@@ -84,6 +37,9 @@ CA : THOUSAND OAKS
            - WILMINGTON TRUST
                  : JENNISON INTL EQUITY OPP CIT
     2021: AMGEN RETIREMENT AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2R2S2T3H2O 
         Participants: 18851
         Assets: 7188236831
         $/Participant: 381318
@@ -116,6 +72,9 @@ CA : THOUSAND OAKS
            - WILMINGTON TRUST
                  : JENNISON INTL EQUITY OPP CIT
     2020: AMGEN RETIREMENT AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2R2S2T3H2O 
         Participants: 18645
         Assets: 6766955317
         $/Participant: 362936
@@ -167,6 +126,9 @@ CA : THOUSAND OAKS
            - WILMINGTON TRUST
                  : JENNISON INTL EQUITY OPP CIT
     2019: AMGEN RETIREMENT AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2R2S2T3H2O 
         Participants: 18378
         Assets: 5929843858
         $/Participant: 322659
@@ -212,6 +174,9 @@ CA : THOUSAND OAKS
                  : WELLS FARGO FIXED INCOME FUND F
                  : WELLS FARGO FIXED INCOME FUND L
     2018: AMGEN RETIREMENT AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2R2S2T3H2O 
         Participants: 17328
         Assets: 4838587101
         $/Participant: 279235
@@ -247,6 +212,9 @@ CA : THOUSAND OAKS
                  : WELLS FARGO FIXED INCOME FUND F
                  : WELLS FARGO FIXED INCOME FUND L
     2017: AMGEN RETIREMENT AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2R2S2T3H2O 
         Participants: 17119
         Assets: 5088400258
         $/Participant: 297237
@@ -281,3 +249,87 @@ CA : THOUSAND OAKS
                  : WELLS FARGO FIXED INCOME FUND F
                  : WELLS FARGO FIXED INCOME FUND L
                  : WELLS FARGO STABLE RETURN FUND W
+   [501]
+    2022: AMGEN INC. MASTER BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2021: AMGEN INC. MASTER BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2020: AMGEN INC. MASTER BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2019: AMGEN INC. MASTER BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2018: AMGEN INC. MASTER BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2017: AMGEN INC. MASTER BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+   [518]
+    2022: AMGEN INC. RETIREE MEDICAL SAVINGS ACCOUNT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Assets: 164494398
+        $/Participant: 
+    2021: AMGEN INC. RETIREE MEDICAL SAVINGS ACCOUNT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Assets: 190776436
+        $/Participant: 
+    2020: AMGEN INC. RETIREE MEDICAL SAVINGS ACCOUNT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Assets: 159641174
+        $/Participant: 
+    2019: AMGEN INC. RETIREE MEDICAL SAVINGS ACCOUNT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Assets: 128395966
+        $/Participant: 
+    2018: AMGEN INC. RETIREE MEDICAL SAVINGS ACCOUNT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Assets: 98637443
+        $/Participant: 
+    2017: AMGEN INC. RETIREE MEDICAL SAVINGS ACCOUNT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Assets: 98690290
+        $/Participant: 
+   [509]
+    2019: OTEZLA CHANGE IN CONTROL SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+   [517]
+    2020: AMGEN INC. MASTER SEVERANCE BENEFITS PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2019: AMGEN INC. MASTER SEVERANCE BENEFITS PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2018: AMGEN INC. MASTER SEVERANCE BENEFITS PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2017: AMGEN INC. MASTER SEVERANCE BENEFITS PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

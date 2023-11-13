@@ -1,46 +1,8 @@
 IL : SOUTH ELGIN
   HAUMILLER ENGINEERING COMPANY  362519124
-   [501]
-    2022: HAUMILLER ENGINEERING COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: HAUMILLER ENGINEERING COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: HAUMILLER ENGINEERING COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: HAUMILLER ENGINEERING COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-   [004]
-    2022: HAUMILLER ENGINEERING CO. MONEY PURCHASE PENSION PLAN
-        Participants: 132
-        Assets: 15228613
-        $/Participant: 115368
-    2021: HAUMILLER ENGINEERING CO. MONEY PURCHASE PENSION PLAN
-        Participants: 129
-    2020: HAUMILLER ENGINEERING CO. MONEY PURCHASE PENSION PLAN
-        Participants: 111
-    2019: HAUMILLER ENGINEERING CO. MONEY PURCHASE PENSION PLAN
-        Participants: 110
-    2018: HAUMILLER ENGINEERING CO. MONEY PURCHASE PENSION PLAN
-        Participants: 112
-    2017: HAUMILLER ENGINEERING CO. MONEY PURCHASE PENSION PLAN
-        Participants: 109
-   [003]
-    2022: HAUMILLER ENGINEERING CO. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 132
-        Assets: 35771047
-        $/Participant: 270992
-    2021: HAUMILLER ENGINEERING CO. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 129
-    2020: HAUMILLER ENGINEERING CO. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 111
-    2019: HAUMILLER ENGINEERING CO. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 110
-    2018: HAUMILLER ENGINEERING CO. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 112
-    2017: HAUMILLER ENGINEERING CO. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 109
-   [001]
     2022: HAUMILLER ENGINEERING 401K
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 205
         Assets: 10751880
         $/Participant: 52448
@@ -49,6 +11,8 @@ IL : SOUTH ELGIN
            - RELIANCE TRUST COMPANY
                  : NYL ANCHOR ACCOUNT 0
     2021: HAUMILLER ENGINEERING 401K
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 169
         Assets: 10597425
         $/Participant: 62706
@@ -57,6 +21,8 @@ IL : SOUTH ELGIN
            - RELIANCE TRUST COMPANY
                  : NYL ANCHOR ACCOUNT 0
     2020: HAUMILLER ENGINEERING 401K
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 150
         Assets: 8801839
         $/Participant: 58678
@@ -65,6 +31,8 @@ IL : SOUTH ELGIN
            - RELIANCE TRUST COMPANY
                  : NYL ANCHOR ACCOUNT 0
     2019: HAUMILLER ENGINEERING 401K
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 126
         Assets: 7247090
         $/Participant: 57516
@@ -73,6 +41,8 @@ IL : SOUTH ELGIN
            - RELIANCE TRUST COMPANY
                  : NYL ANCHOR ACCOUNT 0
     2018: HAUMILLER ENGINEERING 401K
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 144
         Assets: 6979742
         $/Participant: 48470
@@ -81,6 +51,8 @@ IL : SOUTH ELGIN
            - RELIANCE TRUST COMPANY
                  : NYL ANCHOR ACCOUNT 0
     2017: HAUMILLER ENGINEERING 401K
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 127
         Assets: 6808320
         $/Participant: 53608
@@ -88,3 +60,74 @@ IL : SOUTH ELGIN
         Available Investments:
            - RELIANCE TRUST COMPANY
                  : NYL ANCHOR ACCOUNT 0
+   [003]
+    2022: HAUMILLER ENGINEERING CO. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2I2Q 
+        Participants: 132
+        Assets: 35771047
+        $/Participant: 270992
+    2021: HAUMILLER ENGINEERING CO. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2I2Q 
+        Participants: 129
+    2020: HAUMILLER ENGINEERING CO. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2I2Q 
+        Participants: 111
+    2019: HAUMILLER ENGINEERING CO. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2I2Q 
+        Participants: 110
+    2018: HAUMILLER ENGINEERING CO. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2I2Q 
+        Participants: 112
+    2017: HAUMILLER ENGINEERING CO. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2I2Q 
+        Participants: 109
+   [004]
+    2022: HAUMILLER ENGINEERING CO. MONEY PURCHASE PENSION PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2C2Q 
+        Participants: 132
+        Assets: 15228613
+        $/Participant: 115368
+    2021: HAUMILLER ENGINEERING CO. MONEY PURCHASE PENSION PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2C2Q 
+        Participants: 129
+    2020: HAUMILLER ENGINEERING CO. MONEY PURCHASE PENSION PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2C2Q 
+        Participants: 111
+    2019: HAUMILLER ENGINEERING CO. MONEY PURCHASE PENSION PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2C2Q 
+        Participants: 110
+    2018: HAUMILLER ENGINEERING CO. MONEY PURCHASE PENSION PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2C2Q 
+        Participants: 112
+    2017: HAUMILLER ENGINEERING CO. MONEY PURCHASE PENSION PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2C2Q 
+        Participants: 109
+   [501]
+    2022: HAUMILLER ENGINEERING COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2021: HAUMILLER ENGINEERING COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: HAUMILLER ENGINEERING COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: HAUMILLER ENGINEERING COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4F4H4L
+        Participants: 

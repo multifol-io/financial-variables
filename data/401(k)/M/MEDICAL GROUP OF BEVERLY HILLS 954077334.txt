@@ -1,53 +1,76 @@
-CA : BEVERLY HILLS
-  MEDICAL GROUP OF BEVERLY HILLS, INC.  954077334
-   [501]
-    2021: MEDICAL GROUP OF BEVERLY HILLS, INC. WELFARE BENEFITS PLAN
-        Participants: 
-    2020: MEDICAL GROUP OF BEVERLY HILLS, INC. WELFARE BENEFITS PLAN
-        Participants: 
-    2019: MEDICAL GROUP OF BEVERLY HILLS, INC. WELFARE BENEFITS PLAN
-        Participants: 
-    2018: MEDICAL GROUP OF BEVERLY HILLS, INC. WELFARE BENEFITS PLAN
-        Participants: 
-    2017: MEDICAL GROUP OF BEVERLY HILLS, INC. WELFARE BENEFITS PLAN
-        Participants: 
 CA : LOS ANGELES
-   [002]
-    2022: MEDICAL GROUP OF BEVERLY HILLS DEFINED BENEFIT PENSION PLAN
-        Participants: 157
-        Assets: 27453430
-        $/Participant: 174862
-        Service Providers:
-           - MATRIX TRUST COMPANY : CUSTODIAN (Custodial(securities) | Securities brokerage)
-   [001]
+  MEDICAL GROUP OF BEVERLY HILLS  954077334
     2022: MEDICAL GROUP OF BEVERLY HILLS, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2S2T3D 
         Participants: 282
         Assets: 110085981
         $/Participant: 390375
         RecordKeeper: EMPOWER ANNUITY INS CO OF AMERICA
     2021: MEDICAL GROUP OF BEVERLY HILLS, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2S2T3D 
         Participants: 253
         Assets: 126378735
         $/Participant: 499520
         RecordKeeper: GREAT-WEST LIFE & ANNUTIY INSURANCE
 CA : BEVERLY HILLS
     2020: MEDICAL GROUP OF BEVERLY HILLS, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2T3D 
         Participants: 237
         Assets: 106956093
         $/Participant: 451291
         RecordKeeper: QBI, LLC
     2019: MEDICAL GROUP OF BEVERLY HILLS, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2T3D 
         Participants: 225
         Assets: 86163906
         $/Participant: 382950
         RecordKeeper: MERRILL LYNCH PIERCE FENNER SMITH
     2018: MEDICAL GROUP OF BEVERLY HILLS, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2H2J3D 
         Participants: 210
         Assets: 66771505
         $/Participant: 317959
         RecordKeeper: MERRILL LYNCH PIERCE FENNER SMITH
     2017: MEDICAL GROUP OF BEVERLY HILLS, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2H2J3D 
         Participants: 201
         Assets: 63545308
         $/Participant: 316145
         RecordKeeper: MERRILL LYNCH PIERCE FENNER & SMITH
+   [501]
+    2021: MEDICAL GROUP OF BEVERLY HILLS, INC. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2020: MEDICAL GROUP OF BEVERLY HILLS, INC. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+    2019: MEDICAL GROUP OF BEVERLY HILLS, INC. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+    2018: MEDICAL GROUP OF BEVERLY HILLS, INC. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+    2017: MEDICAL GROUP OF BEVERLY HILLS, INC. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+CA : LOS ANGELES
+   [002]
+    2022: MEDICAL GROUP OF BEVERLY HILLS DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3D 
+        Participants: 157
+        Assets: 27453430
+        $/Participant: 174862
+        Service Providers:
+           - MATRIX TRUST COMPANY : CUSTODIAN (Custodial(securities) | Securities brokerage)

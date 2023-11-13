@@ -1,55 +1,9 @@
 CA : FOLSOM
   CALIFORNIA INDEPENDENT SYSTEM OPERATOR CORPORATION  943274043
-   [502]
-    2019: CALIFORNIA INDEPENDENT SYSTEM OPERATOR IRC SECTION 125 FLEXIBLE SPENDING PLAN
-        Participants: 
-    2018: CALIFORNIA INDEPENDENT SYSTEM OPERATOR IRC SECTION 125 FLEXIBLE SPENDING PLAN
-        Participants: 
-    2017: CALIFORNIA INDEPENDENT SYSTEM OPERATOR IRC SECTION 125 FLEXIBLE SPENDING PLAN
-        Participants: 
-   [501]
-    2022: CALIFORNIA INDEPENDENT SYSTEM OPERATOR HEALTH & WELFARE PLAN
-        Participants: 
-    2021: CALIFORNIA INDEPENDENT SYSTEM OPERATOR HEALTH & WELFARE PLAN
-        Participants: 
-    2020: CALIFORNIA INDEPENDENT SYSTEM OPERATOR HEALTH & WELFARE PLAN
-        Participants: 
-    2019: CALIFORNIA INDEPENDENT SYSTEM OPERATOR HEALTH & WELFARE PLAN
-        Participants: 
-    2018: CALIFORNIA INDEPENDENT SYSTEM OPERATOR HEALTH & WELFARE PLAN
-        Participants: 
-        RecordKeeper: ANTHEM BLUE CROSS LIFE & HEALTH
-    2017: CALIFORNIA INDEPENDENT SYSTEM OPERATOR HEALTH & WELFARE PLAN
-        Participants: 
-        Service Providers:
-           - RON FILICE ENTERPRISES, INC : INSURANCE BROKER (Insurance agents and brokers)
-   [002]
-    2022: WELFARE BENEFIT PLANS TRUST
-        Participants: 
-        Assets: 17782148
-        $/Participant: 
-    2021: WELFARE BENEFIT PLANS TRUST
-        Participants: 
-        Assets: 21160178
-        $/Participant: 
-    2020: WELFARE BENEFIT PLANS TRUST
-        Participants: 
-        Assets: 19301395
-        $/Participant: 
-    2019: WELFARE BENEFIT PLANS TRUST
-        Participants: 
-        Assets: 17039657
-        $/Participant: 
-    2018: WELFARE BENEFIT PLANS TRUST
-        Participants: 
-        Assets: 10373921
-        $/Participant: 
-    2017: WELFARE BENEFIT PLANS TRUST
-        Participants: 
-        Assets: 11047901
-        $/Participant: 
    [001]
     2022: CALIFORNIA ISO RETIREMENT SAVINGS BENEFITS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T3D 
         Participants: 900
         Assets: 332397892
         $/Participant: 369330
@@ -58,6 +12,8 @@ CA : FOLSOM
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE TRUST
     2021: CALIFORNIA ISO RETIREMENT SAVINGS BENEFITS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T3D 
         Participants: 824
         Assets: 398254248
         $/Participant: 483318
@@ -66,6 +22,8 @@ CA : FOLSOM
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE TRUST
     2020: CALIFORNIA ISO RETIREMENT SAVINGS BENEFITS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T3D 
         Participants: 808
         Assets: 351984046
         $/Participant: 435623
@@ -74,6 +32,8 @@ CA : FOLSOM
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE TRUST
     2019: CALIFORNIA ISO RETIREMENT SAVINGS BENEFITS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T3D 
         Participants: 788
         Assets: 293674025
         $/Participant: 372682
@@ -82,6 +42,8 @@ CA : FOLSOM
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE TRUST
     2018: CALIFORNIA ISO RETIREMENT SAVINGS BENEFITS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T3D 
         Participants: 767
         Assets: 239183691
         $/Participant: 311843
@@ -90,6 +52,8 @@ CA : FOLSOM
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE TRUST
     2017: CALIFORNIA ISO RETIREMENT SAVINGS BENEFITS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T3D 
         Participants: 743
         Assets: 248781927
         $/Participant: 334834
@@ -97,3 +61,81 @@ CA : FOLSOM
         Available Investments:
            - INVESCO NATIONAL TRUST COMPANY
                  : INVESCO STABLE VALUE TRUST
+   [501]
+    2022: CALIFORNIA INDEPENDENT SYSTEM OPERATOR HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2021: CALIFORNIA INDEPENDENT SYSTEM OPERATOR HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2020: CALIFORNIA INDEPENDENT SYSTEM OPERATOR HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2019: CALIFORNIA INDEPENDENT SYSTEM OPERATOR HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2018: CALIFORNIA INDEPENDENT SYSTEM OPERATOR HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+        RecordKeeper: ANTHEM BLUE CROSS LIFE & HEALTH
+    2017: CALIFORNIA INDEPENDENT SYSTEM OPERATOR HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+        Service Providers:
+           - RON FILICE ENTERPRISES, INC : INSURANCE BROKER (Insurance agents and brokers)
+   [502]
+    2019: CALIFORNIA INDEPENDENT SYSTEM OPERATOR IRC SECTION 125 FLEXIBLE SPENDING PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2018: CALIFORNIA INDEPENDENT SYSTEM OPERATOR IRC SECTION 125 FLEXIBLE SPENDING PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2017: CALIFORNIA INDEPENDENT SYSTEM OPERATOR IRC SECTION 125 FLEXIBLE SPENDING PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+   [002]
+    2022: WELFARE BENEFIT PLANS TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 17782148
+        $/Participant: 
+    2021: WELFARE BENEFIT PLANS TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 21160178
+        $/Participant: 
+    2020: WELFARE BENEFIT PLANS TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 19301395
+        $/Participant: 
+    2019: WELFARE BENEFIT PLANS TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 17039657
+        $/Participant: 
+    2018: WELFARE BENEFIT PLANS TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 10373921
+        $/Participant: 
+    2017: WELFARE BENEFIT PLANS TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 11047901
+        $/Participant: 

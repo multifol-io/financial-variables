@@ -1,31 +1,9 @@
 MA : WORCESTER
   DAVID CLARK COMPANY INCORPORATED  042557451
-   [501]
-    2021: DAVID CLARK COMPANY INCORPORATED EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2020: DAVID CLARK COMPANY INCORPORATED EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2019: DAVID CLARK COMPANY INCORPORATED EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2018: DAVID CLARK COMPANY INCORPORATED EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2017: DAVID CLARK COMPANY INCORPORATED EMPLOYEE BENEFITS PLAN
-        Participants: 
-   [003]
-    2019: DAVID CLARK COMPANY INCORPORATED EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 233
-        Assets: 177935000
-        $/Participant: 763669
-    2018: DAVID CLARK COMPANY INCORPORATED EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 229
-        Assets: 155420000
-        $/Participant: 678689
-    2017: DAVID CLARK COMPANY INCORPORATED EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 227
-        Assets: 139412500
-        $/Participant: 614151
    [002]
     2020: DAVID CLARK COMPANY INCORPORATED 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3H 
         Participants: 320
         Assets: 61001628
         $/Participant: 190630
@@ -34,6 +12,8 @@ MA : WORCESTER
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2019: DAVID CLARK COMPANY INCORPORATED 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3H 
         Participants: 328
         Assets: 51873252
         $/Participant: 158150
@@ -42,6 +22,8 @@ MA : WORCESTER
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2018: DAVID CLARK COMPANY INCORPORATED 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3H 
         Participants: 300
         Assets: 43711854
         $/Participant: 145706
@@ -50,6 +32,8 @@ MA : WORCESTER
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2017: DAVID CLARK COMPANY INCORPORATED 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3H 
         Participants: 293
         Assets: 44675118
         $/Participant: 152474
@@ -57,3 +41,43 @@ MA : WORCESTER
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
+   [003]
+    2019: DAVID CLARK COMPANY INCORPORATED EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2P2Q3I 
+        Participants: 233
+        Assets: 177935000
+        $/Participant: 763669
+    2018: DAVID CLARK COMPANY INCORPORATED EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2P2Q3I 
+        Participants: 229
+        Assets: 155420000
+        $/Participant: 678689
+    2017: DAVID CLARK COMPANY INCORPORATED EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2P2Q3I 
+        Participants: 227
+        Assets: 139412500
+        $/Participant: 614151
+   [501]
+    2021: DAVID CLARK COMPANY INCORPORATED EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2020: DAVID CLARK COMPANY INCORPORATED EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4Q
+        Participants: 
+    2019: DAVID CLARK COMPANY INCORPORATED EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4Q
+        Participants: 
+    2018: DAVID CLARK COMPANY INCORPORATED EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4Q
+        Participants: 
+    2017: DAVID CLARK COMPANY INCORPORATED EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4Q
+        Participants: 

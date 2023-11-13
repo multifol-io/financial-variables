@@ -1,20 +1,9 @@
 MA : CAMBRIDGE
   CHARLES STARK DRAPER LABORATORY, INC.  042505372
-   [519]
-    2022: WELFARE BENEFIT PLAN
-        Participants: 
-    2021: WELFARE BENEFIT PLAN
-        Participants: 
-    2020: WELFARE BENEFIT PLAN
-        Participants: 
-    2019: WELFARE BENEFIT PLAN
-        Participants: 
-    2018: WELFARE BENEFIT PLAN
-        Participants: 
-    2017: WELFARE BENEFIT PLAN
-        Participants: 
    [510]
     2022: THE CHARLES STARK DRAPER LABORATORY, INC. RETIRED EMPLOYEES MEDICAL BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 
         Assets: 22812975
         $/Participant: 
@@ -26,6 +15,8 @@ MA : CAMBRIDGE
                  : US AGGREGATE BONDS INDX NL CMX7
                  : US TIPS INDX NL CTF CMY5
     2021: THE CHARLES STARK DRAPER LABORATORY, INC. RETIRED EMPLOYEES MEDICAL BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 
         Assets: 27223107
         $/Participant: 
@@ -37,6 +28,8 @@ MA : CAMBRIDGE
                  : US AGGREGATE BONDS INDX NL CMX7
                  : US TIPS INDX NL CTF CMY5
     2020: THE CHARLES STARK DRAPER LABORATORY, INC. RETIRED EMPLOYEES MEDICAL BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 
         Assets: 24413330
         $/Participant: 
@@ -49,6 +42,8 @@ MA : CAMBRIDGE
                  : US AGGREGATE BONDS INDX NL CTF CMX7
                  : US TIPS INDX NL CTF CMY5
     2019: THE CHARLES STARK DRAPER LABORATORY, INC. RETIRED EMPLOYEES MEDICAL BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 
         Assets: 22155241
         $/Participant: 
@@ -61,17 +56,115 @@ MA : CAMBRIDGE
                  : US AGGREGATE BONDS INDX NL CTF CMX7
                  : US TIPS INDX NL CTF CMY5
     2018: THE CHARLES STARK DRAPER LABORATORY, INC. RETIRED EMPLOYEES MEDICAL BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 
         Assets: 18530468
         $/Participant: 
         RecordKeeper: TIAA
     2017: THE CHARLES STARK DRAPER LABORATORY, INC. RETIRED EMPLOYEES MEDICAL BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 
         Assets: 20588268
         $/Participant: 
         RecordKeeper: TIAA
+   [519]
+    2022: WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2021: WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2020: WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2019: WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2018: WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4L
+        Participants: 
+    2017: WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4L
+        Participants: 
+   [001]
+    2022: RETIREMENT PLAN FOR DRAPER EMPLOYEES
+        Benefit Category: Other
+        Codes: 1I2F2G2L2M2T 
+        Participants: 4252
+        Assets: 1045827916
+        $/Participant: 245961
+        RecordKeeper: TIAA
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2021: RETIREMENT PLAN FOR DRAPER EMPLOYEES
+        Benefit Category: Other
+        Codes: 1I2F2G2L2M2T 
+        Participants: 3956
+        Assets: 1209207900
+        $/Participant: 305664
+        RecordKeeper: TIAA
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2020: RETIREMENT PLAN FOR DRAPER EMPLOYEES
+        Benefit Category: Other
+        Codes: 1I2F2G2L2M2T 
+        Participants: 3924
+        Assets: 1104537775
+        $/Participant: 281482
+        RecordKeeper: TIAA
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2019: RETIREMENT PLAN FOR DRAPER EMPLOYEES
+        Benefit Category: Other
+        Codes: 1I2F2G2L2M2T 
+        Participants: 3800
+        Assets: 988326478
+        $/Participant: 260085
+        RecordKeeper: TIAA
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2018: RETIREMENT PLAN FOR DRAPER EMPLOYEES
+        Benefit Category: Other
+        Codes: 2F2G2L2M2T2S1I 
+        Participants: 3560
+        Assets: 857342902
+        $/Participant: 240826
+        RecordKeeper: TIAA
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2017: RETIREMENT PLAN FOR DRAPER EMPLOYEES
+        Benefit Category: Other
+        Codes: 2F2G2L2M2T 
+        Participants: 3511
+        Assets: 908470271
+        $/Participant: 258749
+        RecordKeeper: TIAA
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
    [003]
     2022: THE CHARLES STARK DRAPER LABORATORY, INC. SUPPLEMENTAL RETIREMENT ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2T 
         Participants: 2353
         Assets: 357310294
         $/Participant: 151853
@@ -80,6 +173,8 @@ MA : CAMBRIDGE
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2021: THE CHARLES STARK DRAPER LABORATORY, INC. SUPPLEMENTAL RETIREMENT ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2T 
         Participants: 2226
         Assets: 409176829
         $/Participant: 183817
@@ -89,6 +184,8 @@ MA : CAMBRIDGE
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2020: THE CHARLES STARK DRAPER LABORATORY, INC. SUPPLEMENTAL RETIREMENT ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2T 
         Participants: 2192
         Assets: 365396493
         $/Participant: 166695
@@ -98,6 +195,8 @@ MA : CAMBRIDGE
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2019: THE CHARLES STARK DRAPER LABORATORY, INC. SUPPLEMENTAL RETIREMENT ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2T 
         Participants: 2226
         Assets: 320713137
         $/Participant: 144075
@@ -107,6 +206,8 @@ MA : CAMBRIDGE
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2018: THE CHARLES STARK DRAPER LABORATORY, INC. SUPPLEMENTAL RETIREMENT ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2T 
         Participants: 2115
         Assets: 267167190
         $/Participant: 126320
@@ -114,6 +215,8 @@ MA : CAMBRIDGE
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2017: THE CHARLES STARK DRAPER LABORATORY, INC. SUPPLEMENTAL RETIREMENT ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2T 
         Participants: 2068
         Assets: 280932381
         $/Participant: 135847
@@ -122,6 +225,8 @@ MA : CAMBRIDGE
                  : TIAA REAL ESTATE
    [002]
     2021: RETIREMENT PLAN FOR EMPLOYEES OF THE CHARLES STARK DRAPER LABORATORY, INC.
+        Benefit Category: Pension
+        Codes: 1A1C1F3F3H 
         Participants: 705
         Assets: 93721238
         $/Participant: 132937
@@ -144,6 +249,8 @@ MA : CAMBRIDGE
            - STATE STREET GLOBAL ADVISOR TRUST COMPANY
                  : REAL ASSET NL SERIES - CLASS A(CMGV
     2020: RETIREMENT PLAN FOR EMPLOYEES OF THE CHARLES STARK DRAPER LABORATORY, INC.
+        Benefit Category: Pension
+        Codes: 1A1C1F3F3H 
         Participants: 712
         Assets: 113848238
         $/Participant: 159899
@@ -163,6 +270,8 @@ MA : CAMBRIDGE
            - STATE STREET GLOBAL ADVISOR TRUST COMPANY
                  : REAL ASSET NL SERIES - CLASS A(CMGV
     2019: RETIREMENT PLAN FOR EMPLOYEES OF THE CHARLES STARK DRAPER LABORATORY, INC.
+        Benefit Category: Pension
+        Codes: 1A1C1F3F3H 
         Participants: 720
         Assets: 94828461
         $/Participant: 131706
@@ -182,6 +291,8 @@ MA : CAMBRIDGE
            - TIAA
                  : TIAA REAL ESTATE ACCOUNT
     2018: RETIREMENT PLAN FOR EMPLOYEES OF THE CHARLES STARK DRAPER LABORATORY, INC.
+        Benefit Category: Pension
+        Codes: 1A1C1F3F3H 
         Participants: 728
         Assets: 90405904
         $/Participant: 124183
@@ -189,58 +300,11 @@ MA : CAMBRIDGE
            - TIAA
                  : TIAA REAL ESTATE ACCOUNT
     2017: RETIREMENT PLAN FOR EMPLOYEES OF THE CHARLES STARK DRAPER LABORATORY, INC.
+        Benefit Category: Pension
+        Codes: 1A1C1F3F3H 
         Participants: 733
         Assets: 87653120
         $/Participant: 119581
         Available Investments:
            - TIAA
                  : TIAA REAL ESTATE ACCOUNT
-   [001]
-    2022: RETIREMENT PLAN FOR DRAPER EMPLOYEES
-        Participants: 4252
-        Assets: 1045827916
-        $/Participant: 245961
-        RecordKeeper: TIAA
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2021: RETIREMENT PLAN FOR DRAPER EMPLOYEES
-        Participants: 3956
-        Assets: 1209207900
-        $/Participant: 305664
-        RecordKeeper: TIAA
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2020: RETIREMENT PLAN FOR DRAPER EMPLOYEES
-        Participants: 3924
-        Assets: 1104537775
-        $/Participant: 281482
-        RecordKeeper: TIAA
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2019: RETIREMENT PLAN FOR DRAPER EMPLOYEES
-        Participants: 3800
-        Assets: 988326478
-        $/Participant: 260085
-        RecordKeeper: TIAA
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2018: RETIREMENT PLAN FOR DRAPER EMPLOYEES
-        Participants: 3560
-        Assets: 857342902
-        $/Participant: 240826
-        RecordKeeper: TIAA
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2017: RETIREMENT PLAN FOR DRAPER EMPLOYEES
-        Participants: 3511
-        Assets: 908470271
-        $/Participant: 258749
-        RecordKeeper: TIAA
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE

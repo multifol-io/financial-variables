@@ -1,20 +1,9 @@
 AZ : SCOTTSDALE
-  BLUE YONDER  860673401
-   [501]
-    2022: BLUE YONDER HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2021: BLUE YONDER, INC. EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2020: BLUE YONDER, INC. EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2019: BLUE YONDER, INC. EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2018: JDA SOFTWARE, INC. EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2017: JDA SOFTWARE, INC. EMPLOYEE BENEFITS PLAN
-        Participants: 
+  BLUE YONDER, INC.  860673401
    [001]
     2022: BLUE YONDER, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 2718
         Assets: 532139674
         $/Participant: 195783
@@ -35,6 +24,8 @@ AZ : SCOTTSDALE
                  : VFTC TARGET RET 2070 TR II
                  : VFTC TARGET RET INCOME TR II
     2021: BLUE YONDER, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 2646
         Assets: 665007899
         $/Participant: 251325
@@ -43,6 +34,8 @@ AZ : SCOTTSDALE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2020: BLUE YONDER, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 2670
         Assets: 593915107
         $/Participant: 222440
@@ -51,6 +44,8 @@ AZ : SCOTTSDALE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2019: JDA SOFTWARE, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 2718
         Assets: 518460013
         $/Participant: 190750
@@ -59,6 +54,8 @@ AZ : SCOTTSDALE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2018: JDA SOFTWARE, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 2923
         Assets: 420597614
         $/Participant: 143892
@@ -67,6 +64,8 @@ AZ : SCOTTSDALE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2017: JDA SOFTWARE, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 2588
         Assets: 445800249
         $/Participant: 172256
@@ -74,3 +73,28 @@ AZ : SCOTTSDALE
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
+   [501]
+    2022: BLUE YONDER HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2021: BLUE YONDER, INC. EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2020: BLUE YONDER, INC. EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2019: BLUE YONDER, INC. EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2018: JDA SOFTWARE, INC. EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2017: JDA SOFTWARE, INC. EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 

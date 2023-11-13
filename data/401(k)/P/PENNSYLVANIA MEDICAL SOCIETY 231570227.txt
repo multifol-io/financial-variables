@@ -1,56 +1,82 @@
 PA : MECHANICSBURG
   PENNSYLVANIA MEDICAL SOCIETY  231570227
-   [504]
-    2021: PENNSYLVANIA MEDICAL SOCIETY GROUP INSURANCE PROGRAM
-        Participants: 
-    2020: PENNSYLVANIA MEDICAL SOCIETY GROUP INSURANCE PROGRAM
-        Participants: 
-PA : HARRISBURG
-    2019: PENNSYLVANIA MEDICAL SOCIETY GROUP INSURANCE PROGRAM
-        Participants: 
-    2018: PENNSYLVANIA MEDICAL SOCIETY GROUP INSURANCE PROGRAM
-        Participants: 
-    2017: PENNSYLVANIA MEDICAL SOCIETY GROUP INSURANCE PROGRAM
-        Participants: 
-PA : MECHANICSBURG
-   [502]
-    2022: PENNSYLVANIA MEDICAL SOCIETY HEALTH AND WELFARE PLAN
-        Participants: 
    [002]
     2022: PENNSYLVANIA MEDICAL SOCIETY 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 110
         Assets: 14164399
         $/Participant: 128767
         RecordKeeper: AMERICAN CENTURY INVESTMENT INC
     2021: PENNSYLVANIA MEDICAL SOCIETY 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 108
         Assets: 16769610
         $/Participant: 155274
         RecordKeeper: AMERICAN CENTURY INVESTMENT INC
     2020: PENNSYLVANIA MEDICAL SOCIETY 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 117
         Assets: 16592988
         $/Participant: 141820
         RecordKeeper: FIDELITY & RESEARCH COMPANY
 PA : HARRISBURG
     2019: PENNSYLVANIA MEDICAL SOCIETY 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 126
         Assets: 13818675
         $/Participant: 109672
         RecordKeeper: T ROWE PRICE ASSOCIATES INC
     2018: PENNSYLVANIA MEDICAL SOCIETY 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 118
         Assets: 10894519
         $/Participant: 92326
         RecordKeeper: T ROWE PRICE ASSOCIATES INC
     2017: PENNSYLVANIA MEDICAL SOCIETY 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 113
         Assets: 11519829
         $/Participant: 101945
         RecordKeeper: WELLINGTON MANAGEMENT COMPANY LLP
 PA : MECHANICSBURG
+   [502]
+    2022: PENNSYLVANIA MEDICAL SOCIETY HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4F4Q4B4H
+        Participants: 
+   [504]
+    2021: PENNSYLVANIA MEDICAL SOCIETY GROUP INSURANCE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2020: PENNSYLVANIA MEDICAL SOCIETY GROUP INSURANCE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+PA : HARRISBURG
+    2019: PENNSYLVANIA MEDICAL SOCIETY GROUP INSURANCE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2018: PENNSYLVANIA MEDICAL SOCIETY GROUP INSURANCE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2017: PENNSYLVANIA MEDICAL SOCIETY GROUP INSURANCE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+PA : MECHANICSBURG
    [001]
     2022: PENSION PLAN OF THE PENNSYLVANIA MEDICAL SOCIETY
+        Benefit Category: Pension
+        Codes: 1A1I3D3H 
         Participants: 142
         Assets: 31859048
         $/Participant: 224359
@@ -68,6 +94,8 @@ PA : MECHANICSBURG
            - VIRTUS INVESTMENT ADVISORS (VIA) :  (Investment management | Investment management fees paid indirectly by plan)
            - AMERICAN BEACON ADVISORS INC :  (Investment management | Investment management fees paid indirectly by plan)
     2021: PENSION PLAN OF THE PENNSYLVANIA MEDICAL SOCIETY
+        Benefit Category: Pension
+        Codes: 1A1I3D3H 
         Participants: 144
         Assets: 38848440
         $/Participant: 269780
@@ -83,6 +111,8 @@ PA : MECHANICSBURG
            - BLACKROCK FUND ADVISORS :  (Investment management | Investment management fees paid indirectly by plan)
            - GQG PARTNERS LLC :  (Investment management | Investment management fees paid indirectly by plan)
     2020: PENSION PLAN OF THE PENNSYLVANIA MEDICAL SOCIETY
+        Benefit Category: Pension
+        Codes: 1A1I3D3H 
         Participants: 145
         Assets: 31443895
         $/Participant: 216854
@@ -99,6 +129,8 @@ PA : MECHANICSBURG
            - DIAMOND HILL CAPITAL INC :  (Investment management | Investment management fees paid indirectly by plan)
 PA : HARRISBURG
     2019: PENSION PLAN OF THE PENNSYLVANIA MEDICAL SOCIETY
+        Benefit Category: Pension
+        Codes: 1A1I3D3H 
         Participants: 147
         Assets: 26947596
         $/Participant: 183316
@@ -117,6 +149,8 @@ PA : HARRISBURG
            - VAN ECK ASSOCIATES CORPORATION :  (Investment management | Investment management fees paid indirectly by plan)
            - DIAMOND HILL CAPITAL INC :  (Investment management | Investment management fees paid indirectly by plan)
     2018: PENSION PLAN OF THE PENNSYLVANIA MEDICAL SOCIETY
+        Benefit Category: Pension
+        Codes: 1A1I3D3H 
         Participants: 149
         Assets: 21351314
         $/Participant: 143297
@@ -138,6 +172,8 @@ PA : HARRISBURG
            - VIRTUS INVESTMENT ADVISORS, INC. :  (Investment management | Investment management fees paid indirectly by plan)
            - TWEEDY BROWNE CO LLC :  (Investment management | Investment management fees paid indirectly by plan)
     2017: PENSION PLAN OF THE PENNSYLVANIA MEDICAL SOCIETY
+        Benefit Category: Pension
+        Codes: 1A1I3D3H 
         Participants: 150
         Assets: 22251315
         $/Participant: 148342

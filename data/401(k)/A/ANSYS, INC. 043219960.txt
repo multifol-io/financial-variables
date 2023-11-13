@@ -1,35 +1,9 @@
 PA : CANONSBURG
   ANSYS, INC.  043219960
-   [510]
-    2022: ANSYS, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-        Service Providers:
-           - LINCOLN NATIONAL LIFE INSURANCE CO : ASO FEES (Claims processing | Contract Administrator)
-    2021: ANSYS, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: ANSYS, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: ANSYS, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: ANSYS, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: ANSYS, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-   [509]
-    2018: ANSYS, INC. BENEFIT ACCOUNT HEALTH REIMBURSEMENT ARRANGEMENT
-        Participants: 94
-        Assets: 206515
-        $/Participant: 2196
-        Service Providers:
-           - JULIAN SUR, CPA : AUDITOR (Accounting(including auditing))
-    2017: ANSYS, INC. BENEFIT ACCOUNT HEALTH REIMBURSEMENT ARRANGEMENT
-        Participants: 106
-        Assets: 250216
-        $/Participant: 2360
-        Service Providers:
-           - JULIAN SUR, CPA : AUDITOR (Accounting(including auditing))
    [002]
     2022: ANSYS, INC. EMPLOYEES' RETIREMENT PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2G2J2K2S2T2E2F3D 
         Participants: 2998
         Assets: 677605563
         $/Participant: 226019
@@ -57,6 +31,8 @@ PA : CANONSBURG
            - WELLINGTON TRUST COMPANY, N.A.
                  : WELLINGTON MID CAP
     2021: ANSYS, INC. EMPLOYEES' RETIREMENT PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2G2J2K2S2T3H2E2F3D 
         Participants: 2519
         Assets: 797522578
         $/Participant: 316602
@@ -81,6 +57,8 @@ PA : CANONSBURG
            - WELLINGTON TRUST COMPANY, N.A.
                  : WELLINGTON MID CAP
     2020: ANSYS, INC. EMPLOYEES' RETIREMENT PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2G2J2K2S2T3D3H2E2F 
         Participants: 2397
         Assets: 532066114
         $/Participant: 221971
@@ -105,6 +83,8 @@ PA : CANONSBURG
            - WELLINGTON TRUST COMPANY, N.A.
                  : WELLINGTON MID CAP
     2019: ANSYS, INC. EMPLOYEES' RETIREMENT PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 2247
         Assets: 433293053
         $/Participant: 192831
@@ -144,6 +124,8 @@ PA : CANONSBURG
            - WELLINGTON TRUST COMPANY, N.A.
                  : WELLINGTON MID CAP
     2018: ANSYS, INC. EMPLOYEES' RETIREMENT PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2F2G2E2J2K2S2T3D 
         Participants: 1996
         Assets: 332679571
         $/Participant: 166673
@@ -170,6 +152,8 @@ PA : CANONSBURG
            - WELLINGTON TRUST COMPANY, N.A.
                  : WELLINGTON MID CAP
     2017: ANSYS, INC. EMPLOYEES' RETIREMENT PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 1837
         Assets: 339633542
         $/Participant: 184884
@@ -195,3 +179,47 @@ PA : CANONSBURG
                  : TRP RETIRE BAL A
            - WELLINGTON TRUST COMPANY, N.A.
                  : WELLINGTON MID CAP
+   [509]
+    2018: ANSYS, INC. BENEFIT ACCOUNT HEALTH REIMBURSEMENT ARRANGEMENT
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 94
+        Assets: 206515
+        $/Participant: 2196
+        Service Providers:
+           - JULIAN SUR, CPA : AUDITOR (Accounting(including auditing))
+    2017: ANSYS, INC. BENEFIT ACCOUNT HEALTH REIMBURSEMENT ARRANGEMENT
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 106
+        Assets: 250216
+        $/Participant: 2360
+        Service Providers:
+           - JULIAN SUR, CPA : AUDITOR (Accounting(including auditing))
+   [510]
+    2022: ANSYS, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+        Service Providers:
+           - LINCOLN NATIONAL LIFE INSURANCE CO : ASO FEES (Claims processing | Contract Administrator)
+    2021: ANSYS, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: ANSYS, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: ANSYS, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: ANSYS, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: ANSYS, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 

@@ -1,36 +1,18 @@
 IN : GOSHEN
-  RIETH-RILEY CONSTRUCTION CO., INC.  350918397
-   [510]
-    2022: RIETH-RILEY CONSTRUCTION CO., INC. FLEXIBLE SPENDING BENEFITS PLAN
-        Participants: 
-    2021: RIETH-RILEY CONSTRUCTION CO., INC. FLEXIBLE SPENDING BENEFITS PLAN
-        Participants: 
-    2020: RIETH-RILEY CONSTRUCTION CO., INC. FLEXIBLE SPENDING BENEFITS PLAN
-        Participants: 
-    2019: RIETH-RILEY CONSTRUCTION CO., INC. FLEXIBLE SPENDING BENEFITS PLAN
-        Participants: 
-    2018: RIETH-RILEY CONSTRUCTION CO., INC. FLEXIBLE SPENDING BENEFIT PLAN
-        Participants: 
-   [507]
-    2022: RIETH-RILEY CONSTRUCTION CO. INC. GROUP HEALTH PLAN
-        Participants: 582
-    2021: RIETH-RILEY CONSTRUCTION CO. INC. GROUP HEALTH PLAN
-        Participants: 417
-    2020: RIETH-RILEY CONSTRUCTION CO. INC. GROUP HEALTH PLAN
-        Participants: 412
-    2019: RIETH-RILEY CONSTRUCTION CO. INC. GROUP HEALTH PLAN
-        Participants: 399
-    2018: RIETH-RILEY CONSTRUCTION CO. INC. GROUP HEALTH PLAN
-        Participants: 380
-    2017: RIETH-RILEY CONSTRUCTION CO. INC. GROUP HEALTH PLAN
-        Participants: 368
+  RIETH-RILEY CONSTRUCTION CO. INC.  350918397
    [003]
     2021: RIETH-RILEY CONSTRUCTION CO., INC. ESOP AND DEFERRED COMPENSATION PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2H2I2J2K2P2Q3I 
         Participants: 508
         Assets: 473103102
         $/Participant: 931305
         RecordKeeper: 1ST SOURCE BANK
     2020: RIETH-RILEY CONSTRUCTION CO., ESOP AND DEFERRED COMPENSATION PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2H2I2J2K2P2Q3I 
         Participants: 593
         Assets: 437867533
         $/Participant: 738393
@@ -39,6 +21,9 @@ IN : GOSHEN
            - 1ST SOURCE BANK
                  : 1ST SOURCE EB AA LOW RISK FUND
     2019: RIETH-RILEY CONSTRUCTION CO., ESOP AND DEFERRED COMPENSATION PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2H2I2J2K2P2Q3I 
         Participants: 613
         Assets: 356076510
         $/Participant: 580875
@@ -47,6 +32,9 @@ IN : GOSHEN
            - 1ST SOURCE BANK
                  : 1ST SOURCE EB AA LOW RISK FUND
     2018: RIETH-RILEY CONSTRUCTION CO., ESOP AND DEFERRED COMPENSATION PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2H2I2J2K2P2Q3I 
         Participants: 466
         Assets: 326020282
         $/Participant: 699614
@@ -55,6 +43,9 @@ IN : GOSHEN
            - 1ST SOURCE BANK
                  : 1ST SOURCE EB AA LOW RISK FUND
     2017: RIETH-RILEY CONSTRUCTION CO., INC. ESOP AND DEFERRED COMPENSATION PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2H2I2J2K2P2Q3I 
         Participants: 620
         Assets: 264417659
         $/Participant: 426480
@@ -62,3 +53,49 @@ IN : GOSHEN
         Available Investments:
            - 1ST SOURCE BANK
                  : 1ST SOURCE EB AA LOW RISK FUND
+   [507]
+    2022: RIETH-RILEY CONSTRUCTION CO. INC. GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 582
+    2021: RIETH-RILEY CONSTRUCTION CO. INC. GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 417
+    2020: RIETH-RILEY CONSTRUCTION CO. INC. GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 412
+    2019: RIETH-RILEY CONSTRUCTION CO. INC. GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 399
+    2018: RIETH-RILEY CONSTRUCTION CO. INC. GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 380
+    2017: RIETH-RILEY CONSTRUCTION CO. INC. GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 368
+   [510]
+    2022: RIETH-RILEY CONSTRUCTION CO., INC. FLEXIBLE SPENDING BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: RIETH-RILEY CONSTRUCTION CO., INC. FLEXIBLE SPENDING BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2020: RIETH-RILEY CONSTRUCTION CO., INC. FLEXIBLE SPENDING BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: RIETH-RILEY CONSTRUCTION CO., INC. FLEXIBLE SPENDING BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: RIETH-RILEY CONSTRUCTION CO., INC. FLEXIBLE SPENDING BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 

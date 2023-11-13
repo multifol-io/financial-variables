@@ -1,28 +1,9 @@
 GA : MARIETTA
   QUANTUM PHYSICIAN SERVICES, LLC  205012597
-   [503]
-    2021: QUANTUM PHYSICIAN SERVICES GROUP AND IND LTC
-        Participants: 122
-    2020: QUANTUM PHYSICIAN SERVICES GROUP & IND LTC
-        Participants: 131
-    2019: QUANTUM PHYSICIAN SERVICES 03-01-2019 - 02-29-20 LTC
-        Participants: 183
-   [502]
-    2021: QUANTUM PHYSICIANS SERVICES, LLC GRP LIFE/ADD, SUP LIFE/ADD, STD, LTD
-        Participants: 130
-    2020: QUANTUM PHYSICIANS SERVICES, LLC GRPLIFE/ADD, SUP LIFE/ADD, STD, LTD
-        Participants: 128
-    2018: QUANTUM PHYSICIAN SERVICES, LLC GROUP LIFE, AD&D, LTD
-        Participants: 119
-   [501]
-    2021: QUANTUM PHYSICIAN SERVICES HEALTH, DENTAL, VISION, LIFE
-        Participants: 144
-    2020: QUANTUM PHYSICIAN SERVICES HEALTH, DENTAL,VISION, LIFE
-        Participants: 141
-    2018: QUANTUM PHYSICIAN SERVICES, LLC GROUP EMPLOYEE HEALTH BENEFIT PLAN
-        Participants: 119
    [001]
     2022: QUANTUM RADIOLOGY, P.C. RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R3H 
         Participants: 165
         Assets: 61671156
         $/Participant: 373764
@@ -33,6 +14,8 @@ GA : MARIETTA
            - OPPENHEIMER & CO., INC. :  (Custodial(securities) | Investment advisory(participants) | Investment management | Securities brokerage | Investment management fees paid directly by plan)
            - ASSETMARK :  (Custodial(securities) | Investment management | Securities brokerage | Investment management fees paid directly by plan | Investment advisory(participants))
     2021: QUANTUM RADIOLOGY, P.C. RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R3H 
         Participants: 151
         Assets: 79495961
         $/Participant: 526463
@@ -43,6 +26,8 @@ GA : MARIETTA
            - CHARLES SCHWAB & CO., INC. :  (Custodial(securities) | Investment advisory(participants) | Investment management | Securities brokerage | Investment management fees paid directly by plan)
            - RAYMOND JAMES & ASSOCIATES :  (Custodial(securities) | Investment management | Securities brokerage | Investment management fees paid directly by plan | Investment advisory(participants))
     2020: QUANTUM RADIOLOGY, P.C. RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R3H 
         Participants: 136
         Assets: 62732994
         $/Participant: 461272
@@ -51,6 +36,8 @@ GA : MARIETTA
            - RAYMOND JAMES & ASSOCIATES :  (Custodial(securities) | Investment management | Securities brokerage | Investment management fees paid directly by plan | Investment advisory(participants))
            - OPPENHEIMER & CO., INC. :  (Custodial(securities) | Investment advisory(participants) | Investment management | Securities brokerage | Investment management fees paid directly by plan)
     2019: QUANTUM RADIOLOGY, P.C. RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R3H 
         Participants: 133
         Assets: 52609482
         $/Participant: 395560
@@ -59,6 +46,8 @@ GA : MARIETTA
            - SUN TRUST INVESTMENT SERVICES :  (Custodial(securities) | Investment management | Securities brokerage | Investment management fees paid directly by plan)
            - OPPENHEIMER & CO., INC. :  (Custodial(securities) | Investment advisory(participants) | Investment management | Securities brokerage | Investment management fees paid directly by plan)
     2018: QUANTUM RADIOLOGY, P.C. RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R3H 
         Participants: 116
         Assets: 41265510
         $/Participant: 355737
@@ -67,6 +56,8 @@ GA : MARIETTA
            - RAYMOND JAMES & ASSOCIATES :  (Custodial(securities) | Investment management | Securities brokerage | Investment management fees paid directly by plan | Investment advisory(participants))
            - OPPENHEIMER & CO., INC. :  (Custodial(securities) | Investment advisory(participants) | Investment management | Securities brokerage | Investment management fees paid directly by plan)
     2017: QUANTUM RADIOLOGY, P.C. RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R3H 
         Participants: 104
         Assets: 44738144
         $/Participant: 430174
@@ -75,3 +66,42 @@ GA : MARIETTA
            - RAYMOND JAMES & ASSOCIATES :  (Custodial(securities) | Investment management | Securities brokerage | Investment management fees paid directly by plan | Investment advisory(participants))
            - AMERIPRISE FINANCIAL SERVICES, INC. :  (Custodial(securities) | Investment advisory(participants) | Investment management | Securities brokerage | Investment management fees paid directly by plan)
            - OPPENHEIMER & CO., INC. :  (Custodial(securities) | Investment management | Securities brokerage | Investment management fees paid directly by plan)
+   [501]
+    2021: QUANTUM PHYSICIAN SERVICES HEALTH, DENTAL, VISION, LIFE
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 144
+    2020: QUANTUM PHYSICIAN SERVICES HEALTH, DENTAL,VISION, LIFE
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 141
+    2018: QUANTUM PHYSICIAN SERVICES, LLC GROUP EMPLOYEE HEALTH BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 119
+   [502]
+    2021: QUANTUM PHYSICIANS SERVICES, LLC GRP LIFE/ADD, SUP LIFE/ADD, STD, LTD
+        Benefit Category: Other
+        Codes:  4B4F4H
+        Participants: 130
+    2020: QUANTUM PHYSICIANS SERVICES, LLC GRPLIFE/ADD, SUP LIFE/ADD, STD, LTD
+        Benefit Category: Other
+        Codes:  4B4F4H
+        Participants: 128
+    2018: QUANTUM PHYSICIAN SERVICES, LLC GROUP LIFE, AD&D, LTD
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 119
+   [503]
+    2021: QUANTUM PHYSICIAN SERVICES GROUP AND IND LTC
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 122
+    2020: QUANTUM PHYSICIAN SERVICES GROUP & IND LTC
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 131
+    2019: QUANTUM PHYSICIAN SERVICES 03-01-2019 - 02-29-20 LTC
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 183

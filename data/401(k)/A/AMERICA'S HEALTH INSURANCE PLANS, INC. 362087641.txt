@@ -1,46 +1,9 @@
 DC : WASHINGTON
-  AMERICAS HEALTH INSURANCE PLANS  362087641
-   [503]
-    2022: AHIP'S LIFE & AD&D PLAN
-        Participants: 
-    2021: AHIP'S LIFE & AD&D PLAN
-        Participants: 
-    2020: AHIP'S LIFE & AD&D PLAN
-        Participants: 
-    2019: AHIP'S LIFE & AD&D PLAN
-        Participants: 
-    2018: AHIP'S LIFE & AD&D PLAN
-        Participants: 
-    2017: AHIP'S LIFE & AD&D PLAN
-        Participants: 
-   [502]
-    2022: AHIP'S GROUP DISABILITY PLAN
-        Participants: 
-    2021: AHIP'S GROUP DISABILITY PLAN
-        Participants: 
-    2020: AHIP'S GROUP DISABILITY PLAN
-        Participants: 
-    2019: AHIP'S GROUP DISABILITY PLAN
-        Participants: 
-    2018: AHIP'S GROUP DISABILITY PLAN
-        Participants: 
-    2017: AHIP'S GROUP DISABILITY PLAN
-        Participants: 
-   [501]
-    2022: AHIP'S GROUP HEALTH, DENTAL & VISION PLAN
-        Participants: 
-    2021: AHIP'S GROUP HEALTH, DENTAL & VISION PLAN
-        Participants: 
-    2020: AHIP'S GROUP HEALTH, DENTAL & VISION PLAN
-        Participants: 
-    2019: AHIP'S GROUP HEALTH, DENTAL & VISION PLAN
-        Participants: 
-    2018: AHIP'S GROUP HEALTH, DENTAL & VISION PLAN
-        Participants: 
-    2017: AHIP'S GROUP HEALTH & DENTAL PLAN
-        Participants: 
+  AMERICA'S HEALTH INSURANCE PLANS, INC.  362087641
    [002]
     2022: AHIP 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2K2T3D2E2F 
         Participants: 192
         Assets: 38617989
         $/Participant: 201135
@@ -49,6 +12,8 @@ DC : WASHINGTON
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE
     2021: AHIP 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 194
         Assets: 50403619
         $/Participant: 259812
@@ -57,6 +22,8 @@ DC : WASHINGTON
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND 40
     2020: AHIP 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 194
         Assets: 44592099
         $/Participant: 229856
@@ -65,6 +32,8 @@ DC : WASHINGTON
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND 40
     2019: AHIP 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 202
         Assets: 38575376
         $/Participant: 190967
@@ -73,6 +42,8 @@ DC : WASHINGTON
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND CLASS 40
     2018: AHIP 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 206
         Assets: 34395420
         $/Participant: 166968
@@ -81,6 +52,8 @@ DC : WASHINGTON
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND CLASS 40
     2017: AMERICA'S HEALTH INSURANCE PLANS 401(K) PROFIT SHARING PLAN & TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 221
         Assets: 37660523
         $/Participant: 170409
@@ -89,3 +62,78 @@ DC : WASHINGTON
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND CLASS 40
                  : MORLEY STABLE VALUE FUND CLASS 75
+   [501]
+    2022: AHIP'S GROUP HEALTH, DENTAL & VISION PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2021: AHIP'S GROUP HEALTH, DENTAL & VISION PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2020: AHIP'S GROUP HEALTH, DENTAL & VISION PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+    2019: AHIP'S GROUP HEALTH, DENTAL & VISION PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+    2018: AHIP'S GROUP HEALTH, DENTAL & VISION PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+    2017: AHIP'S GROUP HEALTH & DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+   [502]
+    2022: AHIP'S GROUP DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 
+    2021: AHIP'S GROUP DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 
+    2020: AHIP'S GROUP DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 
+    2019: AHIP'S GROUP DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 
+    2018: AHIP'S GROUP DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 
+    2017: AHIP'S GROUP DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 
+   [503]
+    2022: AHIP'S LIFE & AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2021: AHIP'S LIFE & AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2020: AHIP'S LIFE & AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2019: AHIP'S LIFE & AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2018: AHIP'S LIFE & AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2017: AHIP'S LIFE & AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 

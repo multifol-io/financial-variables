@@ -1,40 +1,9 @@
 PA : WEST MIFFLIN
   BECHTEL MARINE PROPULSION CORPORATION  262569722
-   [570]
-    2018: BMPC SEPARATION PLAN
-        Participants: 
-    2017: BMPC SEPARATION PLAN
-        Participants: 
-   [565]
-    2018: BMPC MEDICAL DISQUALIFICATION DISABILITY PAY PLAN
-        Participants: 
-    2017: BMPC MEDICAL DISQUALIFICATION DISABILITY PAY PLAN
-        Participants: 
-   [563]
-    2018: INVOLUNTARY SEPARATION PLAN
-        Participants: 
-    2017: INVOLUNTARY SEPARATION PLAN
-        Participants: 
-   [560]
-    2018: BMPC GROUP BENEFITS PLAN
-        Participants: 
-    2017: BMPC GROUP BENEFITS PLAN
-        Participants: 
-   [516]
-    2018: BMPC EMPLOYEE SECURITY PROTECTION PLAN
-        Participants: 
-    2017: BMPC EMPLOYEE SECURITY PROTECTION PLAN
-        Participants: 
-   [010]
-    2017: BECHTEL NR PROGRAM CAPITAL ACCUMULATION PLAN
-        Participants: 4632
-        Assets: 56581179
-        $/Participant: 12215
-        Available Investments:
-           - BECHTEL MARINE PROPULSION CORPORATION
-                 : BECHTEL NR PROGRAM DC MASTER TRUST
    [004]
     2017: BECHTEL NR PROGRAM SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3H 
         Participants: 10753
         Assets: 1678830031
         $/Participant: 156126
@@ -42,19 +11,50 @@ PA : WEST MIFFLIN
         Available Investments:
            - BECHTEL MARINE PROPULSION CORPORATION
                  : BECHTEL NR PROGRAM DC MASTER TRUST
-   [003]
-    2017: PENSION PLAN FOR KAPL EMPLOYEES IN PARTICIPATING BARGAINING UNITS
-        Participants: 762
-        Assets: 124077503
-        $/Participant: 162831
-        RecordKeeper: EATON VANCE
+   [010]
+    2017: BECHTEL NR PROGRAM CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
+        Participants: 4632
+        Assets: 56581179
+        $/Participant: 12215
+        Available Investments:
+           - BECHTEL MARINE PROPULSION CORPORATION
+                 : BECHTEL NR PROGRAM DC MASTER TRUST
+   [560]
+    2018: BMPC GROUP BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+    2017: BMPC GROUP BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+   [565]
+    2018: BMPC MEDICAL DISQUALIFICATION DISABILITY PAY PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+    2017: BMPC MEDICAL DISQUALIFICATION DISABILITY PAY PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+   [001]
+    2017: PENSION PLAN FOR ELIGIBLE BETTIS EMPLOYEES AND RETIREES
+        Benefit Category: Pension
+        Codes: 1A1H 
+        Participants: 4532
+        Assets: 1081667751
+        $/Participant: 238673
+        RecordKeeper: STATE STREET BANK & TRUST CO
         Available Investments:
            - BECHTEL MARINE PROPULSION CORPORATION
                  : BECHTEL NR PROGRAM PENSION MT A
                  : BECHTEL NR PROGRAM PENSION MT B
-                 : BECHTEL NR PROGRAM PENSION MT C
    [002]
     2017: SALARIED EMPLOYEE PENSION PLAN FOR KAPL EMPLOYEES AND RETIREES
+        Benefit Category: Pension
+        Codes: 1A3F3H 
         Participants: 3437
         Assets: 1001870174
         $/Participant: 291495
@@ -64,13 +64,43 @@ PA : WEST MIFFLIN
                  : BECHTEL NR PROGRAM PENSION MT A
                  : BECHTEL NR PROGRAM PENSION MT B
                  : BECHTEL NR PROGRAM PENSION MT C
-   [001]
-    2017: PENSION PLAN FOR ELIGIBLE BETTIS EMPLOYEES AND RETIREES
-        Participants: 4532
-        Assets: 1081667751
-        $/Participant: 238673
-        RecordKeeper: STATE STREET BANK & TRUST CO
+   [003]
+    2017: PENSION PLAN FOR KAPL EMPLOYEES IN PARTICIPATING BARGAINING UNITS
+        Benefit Category: Pension
+        Codes: 1A3F3H 
+        Participants: 762
+        Assets: 124077503
+        $/Participant: 162831
+        RecordKeeper: EATON VANCE
         Available Investments:
            - BECHTEL MARINE PROPULSION CORPORATION
                  : BECHTEL NR PROGRAM PENSION MT A
                  : BECHTEL NR PROGRAM PENSION MT B
+                 : BECHTEL NR PROGRAM PENSION MT C
+   [516]
+    2018: BMPC EMPLOYEE SECURITY PROTECTION PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2017: BMPC EMPLOYEE SECURITY PROTECTION PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+   [563]
+    2018: INVOLUNTARY SEPARATION PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2017: INVOLUNTARY SEPARATION PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+   [570]
+    2018: BMPC SEPARATION PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2017: BMPC SEPARATION PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

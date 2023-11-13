@@ -1,20 +1,9 @@
 MI : DETROIT
   MILLER CANFIELD PADDOCK AND STONE PLC  380836500
-   [507]
-    2022: MCPS WELFARE BENEFITS PLAN
-        Participants: 
-    2021: MCPS WELFARE BENEFITS PLAN
-        Participants: 
-    2020: MCPS WELFARE BENEFITS PLAN
-        Participants: 
-    2019: MCPS WELFARE BENEFITS PLAN
-        Participants: 
-    2018: MCPS WELFARE BENEFITS PLAN
-        Participants: 
-    2017: MCPS WELFARE BENEFITS PLAN
-        Participants: 
    [004]
     2022: MILLER, CANFIELD, PADDOCK & STONE P.L.C. 401(K) CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2S2T3B3D3H 
         Participants: 589
         Assets: 213706877
         $/Participant: 362830
@@ -35,6 +24,8 @@ MI : DETROIT
                  : VFTC TARGET RET 2060 TR II
                  : VFTC TARGET RET 2065 TR II
     2021: MILLER, CANFIELD, PADDOCK & STONE P.L.C. 401(K) CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2S2T3B3D3H 
         Participants: 612
         Assets: 262778148
         $/Participant: 429376
@@ -43,6 +34,8 @@ MI : DETROIT
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2020: MILLER, CANFIELD, PADDOCK & STONE P.L.C. 401(K) CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2S2T3B3D3H 
         Participants: 591
         Assets: 237031249
         $/Participant: 401068
@@ -51,6 +44,8 @@ MI : DETROIT
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2019: MILLER, CANFIELD, PADDOCK & STONE P.L.C. 401(K) CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2S2T3B3D3H 
         Participants: 618
         Assets: 214352199
         $/Participant: 346848
@@ -59,6 +54,8 @@ MI : DETROIT
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2018: MILLER, CANFIELD, PADDOCK & STONE P.L.C. 401(K) CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2S2T3B3D3H 
         Participants: 598
         Assets: 182834006
         $/Participant: 305742
@@ -67,6 +64,8 @@ MI : DETROIT
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2017: MILLER CANFIELD PADDOCK AND STONE CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2S2T3B3D3H 
         Participants: 629
         Assets: 189861295
         $/Participant: 301846
@@ -74,8 +73,35 @@ MI : DETROIT
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
+   [507]
+    2022: MCPS WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: MCPS WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2020: MCPS WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2019: MCPS WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: MCPS WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2017: MCPS WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
    [002]
     2018: MILLER CANFIELD PADDOCK AND STONE AMENDED RESTATED DB PLAN
+        Benefit Category: Pension
+        Codes: 1A1D1I3B3H 
         Participants: 0
         Service Providers:
            - MERCER (US) INC : ACTUARY (Actuarial | Consulting(pension))
@@ -87,6 +113,8 @@ MI : DETROIT
                  : MERCER LONG DURATION INVEST GRADE
                  : MERCER LONG DURATION PASSIVE FIXED
     2017: MILLER CANFIELD PADDOCK AND STONE AMENDED RESTATED DB PLAN
+        Benefit Category: Pension
+        Codes: 1A1D1I3B3H 
         Participants: 93
         Assets: 10263756
         $/Participant: 110362

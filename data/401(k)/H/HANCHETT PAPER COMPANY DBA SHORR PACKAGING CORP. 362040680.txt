@@ -1,84 +1,136 @@
 IL : AURORA
   HANCHETT PAPER COMPANY DBA SHORR PACKAGING CORP.  362040680
-   [505]
-    2022: SHORR PAPER PRODUCTS LONG TERM DISABILITY AND VOLUNTARY LIFE PLAN
-        Participants: 
-    2021: SHORR PAPER PRODUCTS LONG TERM DISABILITY AND VOLUNTARY LIFE PLAN
-        Participants: 
-    2020: SHORR PAPER PRODUCTS LONG TERM DISABILITY AND VOLUNTARY LIFE PLAN
-        Participants: 
-    2019: SHORR PAPER PRODUCTS LONG TERM DISABILITY AND VOLUNTARY LIFE PLAN
-        Participants: 
-    2018: SHORR PAPER PRODUCTS LONG TERM DISABILITY AND VOLUNTARY LIFE PLAN
-        Participants: 
-    2017: SHORR PAPER PRODUCTS LONG TERM DISABILITY AND VOLUNTARY LIFE PLAN
-        Participants: 
-   [502]
-    2021: SHORR PAPER PRODUCTS EMPLOYEES HEALTH CARE PLAN
-        Participants: 
-    2020: SHORR PAPER PRODUCTS EMPLOYEES HEALTH CARE PLAN
-        Participants: 
-    2019: SHORR PAPER PRODUCTS EMPLOYEES HEALTH CARE PLAN
-        Participants: 
-    2018: SHORR PAPER PRODUCTS EMPLOYEES HEALTH CARE PLAN
-        Participants: 
-    2017: SHORR PAPER PRODUCTS EMPLOYEES HEALTH CARE PLAN
-        Participants: 
-   [501]
-    2022: HANCHETT PAPER COMPANY FLEXIBLE BENEFIT PLAN
-        Participants: 
-    2021: HANCHETT PAPER COMPANY FLEXIBLE BENEFIT PLAN
-        Participants: 
-    2020: HANCHETT PAPER COMPANY FLEXIBLE BENEFIT PLAN
-        Participants: 
-    2019: HANCHETT PAPER COMPANY FLEXIBLE BENEFIT PLAN
-        Participants: 
-    2018: HANCHETT PAPER COMPANY FLEXIBLE BENEFIT PLAN
-        Participants: 
-   [002]
-    2021: SHORR PAPER PRODUCTS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 571
-        Assets: 241583159
-        $/Participant: 423087
-    2020: SHORR PAPER PRODUCTS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 497
-        Assets: 212728475
-        $/Participant: 428025
-    2019: SHORR PAPER PRODUCTS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 458
-        Assets: 166332227
-        $/Participant: 363170
-    2018: SHORR PAPER PRODUCTS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 432
-        Assets: 136499515
-        $/Participant: 315971
-    2017: SHORR PAPER PRODUCTS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 377
-        Assets: 107703493
-        $/Participant: 285685
    [001]
     2021: SHORR PACKAGING CORP. EMPLOYEES PROFIT SHARING & 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 628
         Assets: 40162786
         $/Participant: 63953
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2020: SHORR PACKAGING CORP. EMPLOYEES PROFIT SHARING & 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 541
         Assets: 53191737
         $/Participant: 98321
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2019: SHORR PACKAGING CORP. EMPLOYEES PROFIT SHARING & 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 484
         Assets: 42995030
         $/Participant: 88832
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2018: SHORR PACKAGING CORP. EMPLOYEES PROFIT SHARING & 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2J2K2S2T 
         Participants: 461
         Assets: 31717457
         $/Participant: 68801
         RecordKeeper: FIDELITY INVESTMENT INSTITUTIONAL
     2017: SHORR PACKAGING CORP. EMPLOYEES PROFIT SHARING & 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2J2K2S2T 
         Participants: 405
         Assets: 29270087
         $/Participant: 72271
         RecordKeeper: FIDELITY INVESTMENTS INS OPS CO
+   [002]
+    2021: SHORR PAPER PRODUCTS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 571
+        Assets: 241583159
+        $/Participant: 423087
+    2020: SHORR PAPER PRODUCTS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 497
+        Assets: 212728475
+        $/Participant: 428025
+    2019: SHORR PAPER PRODUCTS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 458
+        Assets: 166332227
+        $/Participant: 363170
+    2018: SHORR PAPER PRODUCTS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 432
+        Assets: 136499515
+        $/Participant: 315971
+    2017: SHORR PAPER PRODUCTS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P3I2Q 
+        Participants: 377
+        Assets: 107703493
+        $/Participant: 285685
+   [501]
+    2022: HANCHETT PAPER COMPANY FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: HANCHETT PAPER COMPANY FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2020: HANCHETT PAPER COMPANY FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: HANCHETT PAPER COMPANY FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: HANCHETT PAPER COMPANY FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [502]
+    2021: SHORR PAPER PRODUCTS EMPLOYEES HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2020: SHORR PAPER PRODUCTS EMPLOYEES HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2019: SHORR PAPER PRODUCTS EMPLOYEES HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2018: SHORR PAPER PRODUCTS EMPLOYEES HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2017: SHORR PAPER PRODUCTS EMPLOYEES HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+   [505]
+    2022: SHORR PAPER PRODUCTS LONG TERM DISABILITY AND VOLUNTARY LIFE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4H4L4Q
+        Participants: 
+    2021: SHORR PAPER PRODUCTS LONG TERM DISABILITY AND VOLUNTARY LIFE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4H4L4Q
+        Participants: 
+    2020: SHORR PAPER PRODUCTS LONG TERM DISABILITY AND VOLUNTARY LIFE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4H4L4Q
+        Participants: 
+    2019: SHORR PAPER PRODUCTS LONG TERM DISABILITY AND VOLUNTARY LIFE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4H4L4Q
+        Participants: 
+    2018: SHORR PAPER PRODUCTS LONG TERM DISABILITY AND VOLUNTARY LIFE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4H4L4Q
+        Participants: 
+    2017: SHORR PAPER PRODUCTS LONG TERM DISABILITY AND VOLUNTARY LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 

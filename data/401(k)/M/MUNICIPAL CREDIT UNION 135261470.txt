@@ -1,27 +1,9 @@
 NY : NEW YORK
   MUNICIPAL CREDIT UNION  135261470
-   [506]
-    2017: LONG TERM DISABILITY
-        Participants: 784
-   [504]
-    2017: DENTAL PLAN
-        Participants: 437
-   [502]
-    2017: MEDICAL AND LIFE INSURANCE
-        Participants: 642
-   [501]
-    2022: MUNICIPAL CREDIT UNION HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2021: MUNICIPAL CREDIT UNION HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2020: MUNICIPAL CREDIT UNION HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2019: MUNICIPAL CREDIT UNION HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2017: FIRST RELIANCE LIFE INSURANCE PLAN
-        Participants: 711
    [002]
     2022: MUNICIPAL CREDIT UNION 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 417
         Assets: 14016494
         $/Participant: 33612
@@ -45,6 +27,8 @@ NY : NEW YORK
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN LARGECAP GROWTH I SA-Z
     2021: MUNICIPAL CREDIT UNION 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 320
         Assets: 14988677
         $/Participant: 46839
@@ -68,6 +52,8 @@ NY : NEW YORK
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN LARGECAP GROWTH I SA-Z
     2020: MUNICIPAL CREDIT UNION 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 209
         Assets: 13062357
         $/Participant: 62499
@@ -89,21 +75,66 @@ NY : NEW YORK
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN LARGECAP GROWTH I SA-Z
     2019: MUNICIPAL CREDIT UNION 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E3D2G2J2K2F2T 
         Participants: 566
         Assets: 14202443
         $/Participant: 25092
     2018: MUNICIPAL CREDIT UNION 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E3D2G2J2K2F2T 
         Participants: 621
         Assets: 13565554
         $/Participant: 21844
         RecordKeeper: ASCENSUS LLC
     2017: MUNICIPAL CREDIT UNION 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E3D2G2J2K2F2T 
         Participants: 634
         Assets: 14812146
         $/Participant: 23363
         RecordKeeper: ASCENSUS
+   [501]
+    2022: MUNICIPAL CREDIT UNION HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 
+    2021: MUNICIPAL CREDIT UNION HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 
+    2020: MUNICIPAL CREDIT UNION HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 
+    2019: MUNICIPAL CREDIT UNION HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+   [502]
+    2017: MEDICAL AND LIFE INSURANCE
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 642
+   [501]
+    2017: FIRST RELIANCE LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 711
+   [504]
+    2017: DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 437
+   [506]
+    2017: LONG TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 784
    [001]
     2021: MUNICIPAL CREDIT UNION DEFINED BENEFIT PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 894
         Assets: 209135316
         $/Participant: 233932
@@ -112,6 +143,8 @@ NY : NEW YORK
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN LIQUID ASSETS SEP ACCT-Z
     2020: MUNICIPAL CREDIT UNION DEFINED BENEFIT PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 927
         Assets: 254059540
         $/Participant: 274066
@@ -121,6 +154,8 @@ NY : NEW YORK
                  : PRIN LARGECAP GROWTH I SA-Z
                  : PRIN LIQUID ASSETS SEP ACCT-Z
     2019: MUNICIPAL CREDIT UNION DEFINED BENEFIT PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 911
         Assets: 222994040
         $/Participant: 244779
@@ -130,6 +165,8 @@ NY : NEW YORK
                  : PRIN LARGECAP GROWTH I SA-Z
                  : PRIN LIQUID ASSETS SEP ACCT-Z
     2017: MUNICIPAL CREDIT UNION DEFINED BENEFIT PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 1121
         Assets: 236898089
         $/Participant: 211327

@@ -1,52 +1,9 @@
 PA : ALLENTOWN
   AGERE SYSTEMS LLC  223746606
-   [507]
-    2021: LSI CORPORATION RETIREE GROUP LIFE INSURANCE PLAN
-        Participants: 
-        Assets: 84931794
-        $/Participant: 
-        RecordKeeper: METROPOLITAN LIFE INSURANCE COMPANY
-        Available Investments:
-           - METROPOLITAN LIFE INSURANCE COMPANY
-                 : METLIFE FIXED INCOME INDEX FUND
-    2020: LSI CORPORATION RETIREE GROUP LIFE INSURANCE PLAN
-        Participants: 
-        Assets: 89472417
-        $/Participant: 
-        RecordKeeper: METROPOLITAN LIFE INSURANCE COMPANY
-        Available Investments:
-           - METROPOLITAN LIFE INSURANCE COMPANY
-                 : METLIFE FIXED INCOME INDEX FUND
-    2019: LSI CORPORATION RETIREE GROUP LIFE INSURANCE PLAN
-        Participants: 
-        Assets: 84683713
-        $/Participant: 
-        RecordKeeper: METROPOLITAN LIFE INSURANCE COMPANY
-        Available Investments:
-           - METROPOLITAN LIFE INSURANCE COMPANY
-                 : METLIFE FIXED INCOME INDEX FUND
-    2018: LSI CORPORATION RETIREE GROUP LIFE INSURANCE PLAN
-        Participants: 3896
-        Assets: 82974510
-        $/Participant: 21297
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY : SEPARATE ACCOUNT FEES (Other investment fees and expenses)
-        Available Investments:
-           - METROPOLITAN LIFE INSURANCE COMPANY
-                 : METLIFE FIXED INCOME INDEX FUND
-    2017: LSI CORPORATION RETIREE GROUP LIFE INSURANCE PLAN
-        Participants: 3914
-        Assets: 83770437
-        $/Participant: 21402
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY : SEPARATE ACCOUNT FEES (Other investment fees and expenses)
-        Available Investments:
-           - METROPOLITAN LIFE INSURANCE COMPANY
-                 : METLIFE EQUITY INDEX FUND
-                 : METLIFE FIXED INCOME INDEX FUND
-                 : METLIFE INTERNATIONAL EQUITY INDEX
    [005]
     2021: AGERE SYSTEMS INC. PENSION PLAN MASTER TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Service Providers:
            - TOWERS WATSON : ACTUARY (Actuarial)
@@ -57,6 +14,8 @@ PA : ALLENTOWN
            - CBRE CLARION - GLOBAL RE : SUB-ADVISOR (Investment management fees paid indirectly by plan)
            - NEW STAR NON US EQUITY : SUB-ADVISOR (Investment management fees paid indirectly by plan)
     2017: AGERE SYSTEMS INC. PENSION PLAN MASTER TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 1422022275
         $/Participant: 
@@ -74,21 +33,65 @@ PA : ALLENTOWN
            - DFA SMALL CAP SUBTRUST : MANAGEMENT FEES (Investment management)
            - DFA EMERGING MKTS CORE EQUITY : SUB-ADVISOR (Investment management fees paid indirectly by plan)
            - WESTERN ASSET - CORE : SUB-ADVISOR (Investment management fees paid indirectly by plan)
-   [004]
-    2018: AGERE SYSTEMS REPRESENTED PENSION PLAN
-        Participants: 0
+   [507]
+    2021: LSI CORPORATION RETIREE GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+        Assets: 84931794
+        $/Participant: 
+        RecordKeeper: METROPOLITAN LIFE INSURANCE COMPANY
         Available Investments:
-           - AGERE SYSTEMS LLC
-                 : AGERE SYSTEMS LLC PENSION PLAN MT
-    2017: AGERE SYSTEMS REPRESENTED PENSION PLAN
-        Participants: 2995
-        Assets: 587240260
-        $/Participant: 196073
+           - METROPOLITAN LIFE INSURANCE COMPANY
+                 : METLIFE FIXED INCOME INDEX FUND
+    2020: LSI CORPORATION RETIREE GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+        Assets: 89472417
+        $/Participant: 
+        RecordKeeper: METROPOLITAN LIFE INSURANCE COMPANY
         Available Investments:
-           - AGERE SYSTEMS LLC
-                 : AGERE SYSTEMS LLC PENSION PLAN MT
+           - METROPOLITAN LIFE INSURANCE COMPANY
+                 : METLIFE FIXED INCOME INDEX FUND
+    2019: LSI CORPORATION RETIREE GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+        Assets: 84683713
+        $/Participant: 
+        RecordKeeper: METROPOLITAN LIFE INSURANCE COMPANY
+        Available Investments:
+           - METROPOLITAN LIFE INSURANCE COMPANY
+                 : METLIFE FIXED INCOME INDEX FUND
+    2018: LSI CORPORATION RETIREE GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 3896
+        Assets: 82974510
+        $/Participant: 21297
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY : SEPARATE ACCOUNT FEES (Other investment fees and expenses)
+        Available Investments:
+           - METROPOLITAN LIFE INSURANCE COMPANY
+                 : METLIFE FIXED INCOME INDEX FUND
+    2017: LSI CORPORATION RETIREE GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 3914
+        Assets: 83770437
+        $/Participant: 21402
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY : SEPARATE ACCOUNT FEES (Other investment fees and expenses)
+        Available Investments:
+           - METROPOLITAN LIFE INSURANCE COMPANY
+                 : METLIFE EQUITY INDEX FUND
+                 : METLIFE FIXED INCOME INDEX FUND
+                 : METLIFE INTERNATIONAL EQUITY INDEX
    [003]
     2021: AGERE SYSTEMS PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1B1C1I 
         Participants: 5424
         Assets: 1342318933
         $/Participant: 247477
@@ -100,6 +103,8 @@ PA : ALLENTOWN
            - WILLIS TOWERS WATSON US LLC :  (Actuarial | Direct payment from the plan)
            - JP MORGAN CHASE :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
     2020: AGERE SYSTEMS PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1B1C1I 
         Participants: 5501
         Assets: 1460370836
         $/Participant: 265473
@@ -108,6 +113,8 @@ PA : ALLENTOWN
            - WILLIS TOWERS WATSON US LLC :  (Actuarial | Direct payment from the plan)
            - JP MORGAN CHASE :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
     2019: AGERE SYSTEMS INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1B1C1I 
         Participants: 5591
         Assets: 1382616762
         $/Participant: 247293
@@ -119,6 +126,8 @@ PA : ALLENTOWN
            - AGERE SYSTEMS LLC
                  : AGERE SYSTEMS INC. PENSION PLAN MT
     2018: AGERE SYSTEMS PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I 
         Participants: 5642
         Assets: 1253293170
         $/Participant: 222136
@@ -126,9 +135,28 @@ PA : ALLENTOWN
            - AGERE SYSTEMS INC.
                  : AGERE SYSTEMS INC. PENSION PLAN MT
     2017: AGERE SYSTEMS PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I 
         Participants: 2738
         Assets: 824717371
         $/Participant: 301211
         Available Investments:
            - AGERE SYSTEMS INC.
                  : AGERE SYSTEMS INC. PENSION PLAN MT
+   [004]
+    2018: AGERE SYSTEMS REPRESENTED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1B 
+        Participants: 0
+        Available Investments:
+           - AGERE SYSTEMS LLC
+                 : AGERE SYSTEMS LLC PENSION PLAN MT
+    2017: AGERE SYSTEMS REPRESENTED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1B 
+        Participants: 2995
+        Assets: 587240260
+        $/Participant: 196073
+        Available Investments:
+           - AGERE SYSTEMS LLC
+                 : AGERE SYSTEMS LLC PENSION PLAN MT

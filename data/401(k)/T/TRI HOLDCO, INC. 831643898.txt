@@ -1,56 +1,8 @@
 CA : FOLSOM
   TRI HOLDCO, INC.  831643898
-   [510]
-    2021: TRI HOLDCO, INC.
-        Participants: 
-    2020: TRI HOLDCO, INC.
-        Participants: 
-    2019: TRI HOLDCO, INC.
-        Participants: 
-   [509]
-    2018: TRI HOLDCO, INC. DENTAL
-        Participants: 
-    2017: TRI HOLDCO, INC. DENTAL
-        Participants: 
-   [508]
-    2018: TRI HOLDCO, INC. MEDICAL
-        Participants: 
-    2017: TRI HOLDCO, INC. MEDICAL
-        Participants: 
-   [507]
-    2017: TAXRESOURCES, INC. SHORT THERM DISABILITY INSURANCE PLAN
-        Participants: 
-   [506]
-    2017: TAXRESOURCES, INC. CRITICAL ILLNESS INSURANCE PLAN
-        Participants: 
-   [505]
-    2017: TAXRESOURCES, INC. ACCIDENT INSURANCE PLAN
-        Participants: 
-   [504]
-    2017: TAXRESOURCES, INC. CANCER INSURANCE PLAN
-        Participants: 
-   [503]
-    2018: TAXRESOURCES, INC. VISION PLAN
-        Participants: 
-    2017: TAXRESOURCES, INC. VISION PLAN
-        Participants: 
-   [502]
-    2017: TAXRESOURCES, INC. LONG TERM DISABILITY PLAN
-        Participants: 
-   [501]
-    2018: TAXRESOURCES, INC. TERM LIFE, ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Participants: 
-    2017: TAXRESOURCES, INC. TERM LIFE, ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Participants: 
-   [002]
-    2022: TRI HOLDCO, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 327
-        Assets: 92677660
-        $/Participant: 283417
-        Service Providers:
-           - JP MORGAN SECURITIES : INVESTMENT MANAGEMENT (Investment management | Securities brokerage commissions and fees)
-   [001]
     2022: TRI HOLDCO., INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3D 
         Participants: 382
         Assets: 20153445
         $/Participant: 52757
@@ -59,6 +11,8 @@ CA : FOLSOM
            - NEW YORK LIFE INSURANCE COMPANY
                  : NEW YORK LIFE SV ANCHOR ACCT
     2021: TRI HOLDCO., INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3D 
         Participants: 346
         Assets: 23084834
         $/Participant: 66719
@@ -126,6 +80,8 @@ CA : FOLSOM
                  : VANGUARD VALUE INDEX FUND
                  : WASHINGTON MUTUAL INVESTORS
     2020: TAXRESOURCES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3D 
         Participants: 313
         Assets: 19080860
         $/Participant: 60961
@@ -193,6 +149,8 @@ CA : FOLSOM
                  : VANGUARD VALUE INDEX FUND
                  : WASHINGTON MUTUAL INVESTORS
     2019: TAXRESOURCES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3D 
         Participants: 251
         Assets: 8335150
         $/Participant: 33207
@@ -261,6 +219,8 @@ CA : FOLSOM
                  : VANGUARD VALUE INDEX FUND
                  : WASHINGTON MUTUAL INVESTORS
     2018: TAXRESOURCES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3D 
         Participants: 251
         Assets: 5742465
         $/Participant: 22878
@@ -334,3 +294,87 @@ CA : FOLSOM
                  : VANGUARD SMALL CAP VALUE INDEX
                  : VANGUARD VALUE INDEX FUND
                  : WASHINGTON MUTUAL INVESTORS
+   [002]
+    2022: TRI HOLDCO, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3H3I 
+        Participants: 327
+        Assets: 92677660
+        $/Participant: 283417
+        Service Providers:
+           - JP MORGAN SECURITIES : INVESTMENT MANAGEMENT (Investment management | Securities brokerage commissions and fees)
+   [501]
+    2018: TAXRESOURCES, INC. TERM LIFE, ACCIDENTAL DEATH & DISMEMBERMENT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4F4H4L
+        Participants: 
+   [504]
+    2017: TAXRESOURCES, INC. CANCER INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4F4R
+        Participants: 
+   [508]
+    2018: TRI HOLDCO, INC. MEDICAL
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: TRI HOLDCO, INC. MEDICAL
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [510]
+    2021: TRI HOLDCO, INC.
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: TRI HOLDCO, INC.
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: TRI HOLDCO, INC.
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+   [501]
+    2017: TAXRESOURCES, INC. TERM LIFE, ACCIDENTAL DEATH & DISMEMBERMENT PLAN
+        Benefit Category: Other
+        Codes:  4B4L4F
+        Participants: 
+   [502]
+    2017: TAXRESOURCES, INC. LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H4R
+        Participants: 
+   [503]
+    2018: TAXRESOURCES, INC. VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2017: TAXRESOURCES, INC. VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+   [505]
+    2017: TAXRESOURCES, INC. ACCIDENT INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4F4R
+        Participants: 
+   [506]
+    2017: TAXRESOURCES, INC. CRITICAL ILLNESS INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4F4Q4R
+        Participants: 
+   [507]
+    2017: TAXRESOURCES, INC. SHORT THERM DISABILITY INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4F4R
+        Participants: 
+   [509]
+    2018: TRI HOLDCO, INC. DENTAL
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2017: TRI HOLDCO, INC. DENTAL
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 

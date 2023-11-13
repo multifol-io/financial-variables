@@ -1,27 +1,10 @@
 WI : NEENAH
   KIMBERLY-CLARK CORPORATION  390394230
-   [591]
-    2020: KIMBERLY-CLARK CORPORATION 2018 VOLUNTARY SEVERANCE PAY PLAN
-        Participants: 
-    2019: KIMBERLY-CLARK CORPORATION 2018 VOLUNTARY SEVERANCE PAY PLAN
-        Participants: 
-    2018: KIMBERLY-CLARK CORPORATION 2018 VOLUNTARY SEVERANCE PAY PLAN
-        Participants: 
-   [590]
-    2022: KIMBERLY-CLARK CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2021: KIMBERLY-CLARK CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2020: KIMBERLY-CLARK CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2019: KIMBERLY-CLARK CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2018: KIMBERLY-CLARK CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2017: KIMBERLY-CLARK CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
    [016]
     2022: KIMBERLY-CLARK CORPORATION 401(K) & PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2O2R2S2T3H 
         Participants: 17336
         Assets: 3978902000
         $/Participant: 229516
@@ -52,6 +35,9 @@ WI : NEENAH
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVERNMENT ST INVEST
     2021: KIMBERLY-CLARK CORPORATION 401(K) & PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2O2R2S2T3H 
         Participants: 17002
         Assets: 4891647000
         $/Participant: 287710
@@ -82,6 +68,9 @@ WI : NEENAH
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVERNMENT ST INVEST
     2020: KIMBERLY-CLARK CORPORATION 401(K) & PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2O2R2S2T3H 
         Participants: 16971
         Assets: 4461397000
         $/Participant: 262883
@@ -112,6 +101,9 @@ WI : NEENAH
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVERNMENT ST INVEST
     2019: KIMBERLY-CLARK CORPORATION 401(K) & PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2O2R2S2T3H 
         Participants: 16885
         Assets: 3994494000
         $/Participant: 236570
@@ -143,6 +135,9 @@ WI : NEENAH
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVERNMENT ST INVEST
     2018: KIMBERLY-CLARK CORPORATION 401(K) & PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2O2R2S2T3H 
         Participants: 17050
         Assets: 3454052000
         $/Participant: 202583
@@ -189,6 +184,9 @@ WI : NEENAH
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVERNMENT ST INVEST
     2017: KIMBERLY-CLARK CORPORATION 401(K) & PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2O2R2S2T3H 
         Participants: 17407
         Assets: 3899503000
         $/Participant: 224019
@@ -218,8 +216,41 @@ WI : NEENAH
                  : US DEBT INDEX NL FUND F
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVERNMENT ST INVEST
+   [590]
+    2022: KIMBERLY-CLARK CORPORATION HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2021: KIMBERLY-CLARK CORPORATION HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2020: KIMBERLY-CLARK CORPORATION HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2019: KIMBERLY-CLARK CORPORATION HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2018: KIMBERLY-CLARK CORPORATION HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2017: KIMBERLY-CLARK CORPORATION HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
    [001]
     2022: KIMBERLY-CLARK CORPORATION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1F1I3H 
         Participants: 10207
         Assets: 1007239000
         $/Participant: 98681
@@ -232,6 +263,8 @@ WI : NEENAH
                  : NT COLL LONG TERM GOV BND IDX FD NL
                  : NTCC HIGH-YIELD BOND FUND FEBT
     2021: KIMBERLY-CLARK CORPORATION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1F1I3H 
         Participants: 10953
         Assets: 1501214000
         $/Participant: 137059
@@ -255,6 +288,8 @@ WI : NEENAH
            - RELIANCE TRUST COMPANY
                  : LEGAL AND GENERAL LG DUR US CREDIT
     2020: KIMBERLY-CLARK CORPORATION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1F1I3H 
         Participants: 11620
         Assets: 1666959000
         $/Participant: 143456
@@ -279,6 +314,8 @@ WI : NEENAH
            - RELIANCE TRUST COMPANY
                  : LEGAL AND GENERAL LG DUR US CREDIT
     2019: KIMBERLY-CLARK CORPORATION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1F1I3H 
         Participants: 12248
         Assets: 1578519000
         $/Participant: 128879
@@ -293,6 +330,8 @@ WI : NEENAH
            - RELIANCE TRUST COMPANY OF DELAWARE
                  : LEGAL AND GENERAL LG DUR US CREDIT
     2018: KIMBERLY-CLARK CORPORATION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1F1I3H 
         Participants: 12919
         Assets: 1425616000
         $/Participant: 110350
@@ -307,6 +346,8 @@ WI : NEENAH
            - RELIANCE TRUST COMPANY OF DELAWARE
                  : LEGAL AND GENERAL LG DUR US CREDIT
     2017: KIMBERLY-CLARK CORPORATION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1F3H 
         Participants: 13639
         Assets: 1678576000
         $/Participant: 123071
@@ -320,3 +361,16 @@ WI : NEENAH
                  : NTCC COLLECTIVE HIGH YIELD FUND
            - RELIANCE TRUST COMPANY OF DELAWARE
                  : LEGAL AND GENERAL LG DUR US CREDIT
+   [591]
+    2020: KIMBERLY-CLARK CORPORATION 2018 VOLUNTARY SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I4R
+        Participants: 
+    2019: KIMBERLY-CLARK CORPORATION 2018 VOLUNTARY SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2018: KIMBERLY-CLARK CORPORATION 2018 VOLUNTARY SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

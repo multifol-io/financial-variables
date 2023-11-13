@@ -1,18 +1,8 @@
 MA : QUINCY
   MASSACHUSETTS TEACHERS ASSOCIATION  041591200
-   [510]
-    2021: MASSACHUSETTS TEACHERS ASSOCIATION GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: MASSACHUSETTS TEACHERS ASSOCIATION GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: MASSACHUSETTS TEACHERS ASSOCIATION GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: MASSACHUSETTS TEACHERS ASSOCIATION GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: MASSACHUSETTS TEACHERS ASSOCIATION GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-   [002]
     2022: MASSACHUSETTS TEACHER ASSOCIATION 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2T3H3D 
         Participants: 167
         Assets: 15413551
         $/Participant: 92296
@@ -21,6 +11,8 @@ MA : QUINCY
            - WELLS FARGO BANK, N.A.
                  : GALLIARD STBLE RTN M
     2021: MASSACHUSETTS TEACHER ASSOCIATION 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2T3H3D 
         Participants: 177
         Assets: 18935239
         $/Participant: 106978
@@ -29,6 +21,8 @@ MA : QUINCY
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE
     2020: MASSACHUSETTS TEACHER ASSOCIATION 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2T3H3D 
         Participants: 168
         Assets: 16568528
         $/Participant: 98622
@@ -37,6 +31,8 @@ MA : QUINCY
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE
     2019: MASSACHUSETTS TEACHER ASSOCIATION 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2T3D3H 
         Participants: 169
         Assets: 13903936
         $/Participant: 82271
@@ -45,6 +41,8 @@ MA : QUINCY
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE
     2018: MASSACHUSETTS TEACHER ASSOCIATION 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2T3D 
         Participants: 167
         Assets: 11023108
         $/Participant: 66006
@@ -53,6 +51,8 @@ MA : QUINCY
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE
     2017: MASSACHUSETTS TEACHER ASSOCIATION 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2T3D 
         Participants: 162
         Assets: 12199594
         $/Participant: 75306
@@ -60,8 +60,31 @@ MA : QUINCY
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE
+   [510]
+    2021: MASSACHUSETTS TEACHERS ASSOCIATION GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L
+        Participants: 
+    2020: MASSACHUSETTS TEACHERS ASSOCIATION GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L
+        Participants: 
+    2019: MASSACHUSETTS TEACHERS ASSOCIATION GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L
+        Participants: 
+    2018: MASSACHUSETTS TEACHERS ASSOCIATION GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L
+        Participants: 
+    2017: MASSACHUSETTS TEACHERS ASSOCIATION GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L
+        Participants: 
    [001]
     2021: MASSACHUSETTS TEACHERS ASSOCIATION RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 345
         Assets: 219294694
         $/Participant: 635636
@@ -83,6 +106,8 @@ MA : QUINCY
                  : MERCER US LONG DURATION PASSIVE FI
                  : MERCER US SMALL/MID CAP GROWTH EQTY
     2020: MASSACHUSETTS TEACHERS ASSOCIATION RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 337
         Assets: 265046871
         $/Participant: 786489
@@ -104,6 +129,8 @@ MA : QUINCY
                  : MERCER US LARGE CAP PASSIVE EQUITY
                  : MERCER US SMALL/MID CAP GROWTH EQTY
     2019: MASSACHUSETTS TEACHERS ASSOCIATION RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 328
         Assets: 230332989
         $/Participant: 702234
@@ -127,6 +154,8 @@ MA : QUINCY
                  : MERCER US LONG DURATION PASSIVE FI
                  : MERCER US SMALL/MID CAP EQTY PORT
     2018: MASSACHUSETTS TEACHERS ASSOCIATION RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 324
         Assets: 213631403
         $/Participant: 659356
@@ -152,6 +181,8 @@ MA : QUINCY
                  : MERCER US LONG DURATION PASSIVE FI
                  : MERCER US SMALL/MID CAP EQTY PORT
     2017: MASSACHUSETTS TEACHERS ASSOCIATION RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 326
         Assets: 199354855
         $/Participant: 611517

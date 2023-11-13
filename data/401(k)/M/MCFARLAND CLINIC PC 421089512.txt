@@ -1,63 +1,9 @@
 IA : AMES
   MCFARLAND CLINIC PC  421089512
-   [505]
-    2022: MCFARLAND CLINIC PC WELFARE BENEFIT
-        Participants: 1763
-        Service Providers:
-           - VITAL WORKLIFE : PLAN ADMINISTRATOR (Plan Administrator)
-           - EMPLOYEE & FAMILY RESOURCES : PLAN ADMINISTRATOR (Plan Administrator)
-           - BENEFIT PLANNING CONSULTANTS : PLAN ADMINISTRATOR (Plan Administrator)
-           - DELTA DENTAL : PLAN ADMINISTRATOR (Plan Administrator)
-           - WELLMARK HEALTH PLAN OF IOWA : PLAN ADMINISTRATOR (Plan Administrator)
-    2021: MCFARLAND CLINIC PC WELFARE BENEFIT
-        Participants: 1685
-        Service Providers:
-           - VITAL WORKLIFE : PLAN ADMINISTRATOR (Plan Administrator)
-           - EMPLOYEE & FAMILY RESOURCES, INC : PLAN ADMINISTRATOR (Plan Administrator)
-           - BENEFIT PLANNING CONSULTANTS, INC : PLAN ADMINISTRATOR (Plan Administrator)
-           - WELLMARK HEALTH PLAN OF IOWA : PLAN ADMINISTRATOR (Plan Administrator)
-           - DELTA DENTAL : PLAN ADMINISTRATOR (Plan Administrator)
-    2020: MCFARLAND CLINIC PC WELFARE BENEFIT
-        Participants: 1619
-        Service Providers:
-           - WELLMARK HEALTH PLAN OF IOWA, INC : PLAN ADMINISTRATOR (Plan Administrator)
-           - DELTA DENTAL : PLAN ADMINISTRATOR (Plan Administrator)
-           - BENEFIT PLANNING CONSULTANTS, INC : PLAN ADMINISTRATOR (Plan Administrator)
-           - EMPLOYEE & FAMILY RESOURCES, INC : PLAN ADMINISTRATOR (Plan Administrator)
-           - VITAL WORKLIF : PLAN ADMINISTRATOR (Plan Administrator)
-    2019: MCFARLAND CLINIC PC WELFARE BENEFIT
-        Participants: 1622
-        Service Providers:
-           - VITAL WORKLIFE : PLAN ADMINISTRATOR (Plan Administrator)
-           - EMPLOYEE & FAMILY RESOURCES, INC : PLAN ADMINISTRATOR (Plan Administrator)
-           - BENEFIT PLANNING CONSULTANTS, INC : PLAN ADMINISTRATOR (Plan Administrator)
-           - DELTA DENTAL OF IOWA : PLAN ADMINISTRATOR (Plan Administrator)
-           - WELLMARK HEALTH PLAN OF IOWA, INC : PLAN ADMINISTRATOR (Plan Administrator)
-    2018: MCFARLAND CLINIC PC WELFARE BENEFIT
-        Participants: 1636
-        Service Providers:
-           - VITAL WORKLIFE : PLAN ADMINISTRATOR (Plan Administrator)
-           - EMPLOYEE & FAMILY RESOURCES, INC : PLAN ADMINISTRATOR (Plan Administrator)
-           - BENEFIT PLANNING CONSULTANTS, INC : PLAN ADMINISTRATOR (Plan Administrator)
-           - WELLMARK HEALTH PLAN OF IOWA, INC. : PLAN ADMINISTRATOR (Plan Administrator)
-           - DELTA DENTAL : PLAN ADMINISTRATOR (Plan Administrator)
-   [504]
-    2017: MCFARLAND CLINIC, PC BENEFITNESS PLAN
-        Participants: 0
-   [503]
-    2017: MCFARLAND CLINIC PC LIFE AND ACCIDENTAL DEATH AND DISMEMBERMENT
-        Participants: 0
-   [502]
-    2017: MCFARLAND CLINIC, PC DISABILITY INSURANCE
-        Participants: 0
-   [501]
-    2017: MCFARLAND CLINIC PC HEALTH PLAN
-        Participants: 0
-        Service Providers:
-           - DELTA DENTAL : PLAN ADMINISTRATOR ()
-           - WELLMARK BLUE CROSS AND BLUE SHIELD : PLAN ADMINISTRATOR ()
    [002]
     2022: MCFARLAND CLINIC, P.C. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 1962
         Assets: 405110690
         $/Participant: 206478
@@ -71,6 +17,8 @@ IA : AMES
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST IV
     2021: MCFARLAND CLINIC, P.C. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 1886
         Assets: 491452557
         $/Participant: 260579
@@ -84,6 +32,8 @@ IA : AMES
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST IV
     2020: MCFARLAND CLINIC, P.C. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 1823
         Assets: 439101098
         $/Participant: 240867
@@ -109,6 +59,8 @@ IA : AMES
            - WELLS FARGO BANK N.A.
                  : WELLS FARGO STABLE VALUE FUND E
     2019: MCFARLAND CLINIC, P.C. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 1780
         Assets: 397110728
         $/Participant: 223095
@@ -132,6 +84,8 @@ IA : AMES
            - WELLS FARGO BANK N.A.
                  : WELLS FARGO STABLE VALUE FUND E
     2018: MCFARLAND CLINIC, P.C. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 1761
         Assets: 324790937
         $/Participant: 184435
@@ -155,6 +109,8 @@ IA : AMES
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE VALUE FD E
     2017: MCFARLAND CLINIC, P.C. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 1670
         Assets: 356254630
         $/Participant: 213326
@@ -177,3 +133,77 @@ IA : AMES
                  : BLKROCK MIDCAP EQUITY IDX FD M
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE VALUE FD E
+   [501]
+    2017: MCFARLAND CLINIC PC HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4D4A
+        Participants: 0
+        Service Providers:
+           - DELTA DENTAL : PLAN ADMINISTRATOR ()
+           - WELLMARK BLUE CROSS AND BLUE SHIELD : PLAN ADMINISTRATOR ()
+   [504]
+    2017: MCFARLAND CLINIC, PC BENEFITNESS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 0
+   [505]
+    2022: MCFARLAND CLINIC PC WELFARE BENEFIT
+        Benefit Category: Healthcare
+        Codes:  4D4A4H4F4B4Q
+        Participants: 1763
+        Service Providers:
+           - VITAL WORKLIFE : PLAN ADMINISTRATOR (Plan Administrator)
+           - EMPLOYEE & FAMILY RESOURCES : PLAN ADMINISTRATOR (Plan Administrator)
+           - BENEFIT PLANNING CONSULTANTS : PLAN ADMINISTRATOR (Plan Administrator)
+           - DELTA DENTAL : PLAN ADMINISTRATOR (Plan Administrator)
+           - WELLMARK HEALTH PLAN OF IOWA : PLAN ADMINISTRATOR (Plan Administrator)
+    2021: MCFARLAND CLINIC PC WELFARE BENEFIT
+        Benefit Category: Healthcare
+        Codes:  4D4A4H4F4B4Q
+        Participants: 1685
+        Service Providers:
+           - VITAL WORKLIFE : PLAN ADMINISTRATOR (Plan Administrator)
+           - EMPLOYEE & FAMILY RESOURCES, INC : PLAN ADMINISTRATOR (Plan Administrator)
+           - BENEFIT PLANNING CONSULTANTS, INC : PLAN ADMINISTRATOR (Plan Administrator)
+           - WELLMARK HEALTH PLAN OF IOWA : PLAN ADMINISTRATOR (Plan Administrator)
+           - DELTA DENTAL : PLAN ADMINISTRATOR (Plan Administrator)
+    2020: MCFARLAND CLINIC PC WELFARE BENEFIT
+        Benefit Category: Healthcare
+        Codes:  4D4A4H4F4B4Q
+        Participants: 1619
+        Service Providers:
+           - WELLMARK HEALTH PLAN OF IOWA, INC : PLAN ADMINISTRATOR (Plan Administrator)
+           - DELTA DENTAL : PLAN ADMINISTRATOR (Plan Administrator)
+           - BENEFIT PLANNING CONSULTANTS, INC : PLAN ADMINISTRATOR (Plan Administrator)
+           - EMPLOYEE & FAMILY RESOURCES, INC : PLAN ADMINISTRATOR (Plan Administrator)
+           - VITAL WORKLIF : PLAN ADMINISTRATOR (Plan Administrator)
+    2019: MCFARLAND CLINIC PC WELFARE BENEFIT
+        Benefit Category: Healthcare
+        Codes:  4D4A4H4F4B4Q
+        Participants: 1622
+        Service Providers:
+           - VITAL WORKLIFE : PLAN ADMINISTRATOR (Plan Administrator)
+           - EMPLOYEE & FAMILY RESOURCES, INC : PLAN ADMINISTRATOR (Plan Administrator)
+           - BENEFIT PLANNING CONSULTANTS, INC : PLAN ADMINISTRATOR (Plan Administrator)
+           - DELTA DENTAL OF IOWA : PLAN ADMINISTRATOR (Plan Administrator)
+           - WELLMARK HEALTH PLAN OF IOWA, INC : PLAN ADMINISTRATOR (Plan Administrator)
+    2018: MCFARLAND CLINIC PC WELFARE BENEFIT
+        Benefit Category: Healthcare
+        Codes:  4D4A4H4F4B4Q
+        Participants: 1636
+        Service Providers:
+           - VITAL WORKLIFE : PLAN ADMINISTRATOR (Plan Administrator)
+           - EMPLOYEE & FAMILY RESOURCES, INC : PLAN ADMINISTRATOR (Plan Administrator)
+           - BENEFIT PLANNING CONSULTANTS, INC : PLAN ADMINISTRATOR (Plan Administrator)
+           - WELLMARK HEALTH PLAN OF IOWA, INC. : PLAN ADMINISTRATOR (Plan Administrator)
+           - DELTA DENTAL : PLAN ADMINISTRATOR (Plan Administrator)
+   [502]
+    2017: MCFARLAND CLINIC, PC DISABILITY INSURANCE
+        Benefit Category: Other
+        Codes:  4H4F
+        Participants: 0
+   [503]
+    2017: MCFARLAND CLINIC PC LIFE AND ACCIDENTAL DEATH AND DISMEMBERMENT
+        Benefit Category: Other
+        Codes:  4B4Q
+        Participants: 0

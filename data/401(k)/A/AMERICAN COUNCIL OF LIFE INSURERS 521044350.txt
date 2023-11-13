@@ -1,20 +1,8 @@
 DC : WASHINGTON
   AMERICAN COUNCIL OF LIFE INSURERS  521044350
-   [501]
-    2022: AMERICAN COUNCIL OF LIFE INSURERS COMPREHENSIVE EMPLOYEE WELFARE BENEFIT PLAN
-        Participants: 
-    2021: AMERICAN COUNCIL OF LIFE INSURERS COMPREHENSIVE EMPLOYEE WELFARE BENEFIT PLAN
-        Participants: 
-    2020: AMERICAN COUNCIL OF LIFE INSURERS COMPREHENSIVE EMPLOYEE WELFARE BENEFIT PLAN
-        Participants: 
-    2019: AMERICAN COUNCIL OF LIFE INSURERS COMPREHENSIVE EMPLOYEE WELFARE BENEFIT PLAN
-        Participants: 
-    2018: AMERICAN COUNCIL OF LIFE INSURERS COMPREHENSIVE EMPLOYEE WELFARE BENEFIT PLAN
-        Participants: 
-    2017: AMERICAN COUNCIL OF LIFE INSURERS COMPREHENSIVE EMPLOYEE WELFARE BENEFIT PLAN
-        Participants: 
-   [003]
     2022: AMERICAN COUNCIL OF LIFE INSURERS SHARED TAX ADVANTAGE RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T2S 
         Participants: 236
         Assets: 94863891
         $/Participant: 401965
@@ -25,6 +13,8 @@ DC : WASHINGTON
                  : PRU IFX SEL LT CONSER GRO
                  : PRU IFX SEL LT INC & EQU
     2021: AMERICAN COUNCIL OF LIFE INSURERS SHARED TAX ADVANTAGE RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T2S 
         Participants: 245
         Assets: 114181508
         $/Participant: 466046
@@ -35,6 +25,8 @@ DC : WASHINGTON
                  : PRU IFX SEL LT CONSER GRO
                  : PRU IFX SEL LT INC & EQU
     2020: AMERICAN COUNCIL OF LIFE INSURERS SHARED TAX ADVANTAGE RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T2S 
         Participants: 248
         Assets: 103207890
         $/Participant: 416160
@@ -45,6 +37,8 @@ DC : WASHINGTON
                  : PRU IFX SEL LT CONSER GRO
                  : PRU IFX SEL LT INC & EQU
     2019: AMERICAN COUNCIL OF LIFE INSURERS SHARED TAX ADVANTAGE RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T2S 
         Participants: 249
         Assets: 91964694
         $/Participant: 369336
@@ -55,6 +49,8 @@ DC : WASHINGTON
                  : PRU IFX SEL LT CONSER GRO
                  : PRU IFX SEL LT INC & EQU
     2018: AMERICAN COUNCIL OF LIFE INSURERS SHARED TAX ADVANTAGE RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 256
         Assets: 79031647
         $/Participant: 308717
@@ -68,6 +64,8 @@ DC : WASHINGTON
                  : PRU IFX SEL LT CONSER GRO
                  : PRU IFX SEL LT INC & EQU
     2017: AMERICAN COUNCIL OF LIFE INSURERS SHARED TAX ADVANTAGE RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 250
         Assets: 83679711
         $/Participant: 334718
@@ -80,3 +78,31 @@ DC : WASHINGTON
                  : PRU IFX SEL LT BALANCED
                  : PRU IFX SEL LT CONSER GRO
                  : PRU IFX SEL LT INC & EQU
+   [501]
+    2022: AMERICAN COUNCIL OF LIFE INSURERS COMPREHENSIVE EMPLOYEE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2021: AMERICAN COUNCIL OF LIFE INSURERS COMPREHENSIVE EMPLOYEE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2020: AMERICAN COUNCIL OF LIFE INSURERS COMPREHENSIVE EMPLOYEE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2019: AMERICAN COUNCIL OF LIFE INSURERS COMPREHENSIVE EMPLOYEE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4L4Q
+        Participants: 
+    2018: AMERICAN COUNCIL OF LIFE INSURERS COMPREHENSIVE EMPLOYEE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4L4Q
+        Participants: 
+    2017: AMERICAN COUNCIL OF LIFE INSURERS COMPREHENSIVE EMPLOYEE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4L
+        Participants: 

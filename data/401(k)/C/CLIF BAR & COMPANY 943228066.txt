@@ -1,56 +1,9 @@
 CA : EMERYVILLE
   CLIF BAR & COMPANY  943228066
-   [503]
-    2018: CLIF BAR & COMPANY FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2017: CLIF BAR & COMPANY FLEXIBLE BENEFITS PLAN
-        Participants: 
-   [501]
-    2022: CLIF BAR & COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: CLIF BAR & COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: CLIF BAR & COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: CLIF BAR & COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: CLIF BAR & COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: CLIF BAR & COMPANY HEALTH AND WELFARE PLAN
-        Participants: 
-   [003]
-    2021: CLIF BAR & COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 1202
-        Assets: 289612768
-        $/Participant: 240942
-        Service Providers:
-           - UBS : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-    2020: CLIF BAR & COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 1292
-        Assets: 281748781
-        $/Participant: 218071
-        Service Providers:
-           - UBS : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-    2019: CLIF BAR & COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 1260
-        Assets: 324626073
-        $/Participant: 257639
-        Service Providers:
-           - UBS : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-    2018: CLIF BAR & COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 1116
-        Assets: 334290323
-        $/Participant: 299543
-        Service Providers:
-           - UBS : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-    2017: CLIF BAR & COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 934
-        Assets: 388556610
-        $/Participant: 416013
-        Service Providers:
-           - UBS : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
    [001]
     2022: CLIF BAR & COMPANY RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3H 
         Participants: 1497
         Assets: 194674973
         $/Participant: 130043
@@ -75,6 +28,8 @@ CA : EMERYVILLE
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2021: CLIF BAR & COMPANY RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3H 
         Participants: 1531
         Assets: 182570485
         $/Participant: 119249
@@ -99,6 +54,8 @@ CA : EMERYVILLE
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2020: CLIF BAR & COMPANY RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3H 
         Participants: 1411
         Assets: 166578480
         $/Participant: 118057
@@ -123,6 +80,8 @@ CA : EMERYVILLE
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2019: CLIF BAR & COMPANY RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3H 
         Participants: 1405
         Assets: 139586366
         $/Participant: 99349
@@ -147,6 +106,8 @@ CA : EMERYVILLE
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2018: CLIF BAR & COMPANY RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3H 
         Participants: 1347
         Assets: 109143033
         $/Participant: 81026
@@ -171,6 +132,8 @@ CA : EMERYVILLE
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2017: CLIF BAR & COMPANY RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3H 
         Participants: 1301
         Assets: 89642695
         $/Participant: 68902
@@ -193,3 +156,78 @@ CA : EMERYVILLE
                  : PRIN LGCP S&P 500 INDEX SA-Z
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
+   [003]
+    2021: CLIF BAR & COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3H3I 
+        Participants: 1202
+        Assets: 289612768
+        $/Participant: 240942
+        Service Providers:
+           - UBS : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+    2020: CLIF BAR & COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3H3I 
+        Participants: 1292
+        Assets: 281748781
+        $/Participant: 218071
+        Service Providers:
+           - UBS : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+    2019: CLIF BAR & COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3H3I 
+        Participants: 1260
+        Assets: 324626073
+        $/Participant: 257639
+        Service Providers:
+           - UBS : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+    2018: CLIF BAR & COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3H3I 
+        Participants: 1116
+        Assets: 334290323
+        $/Participant: 299543
+        Service Providers:
+           - UBS : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+    2017: CLIF BAR & COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3H3I 
+        Participants: 934
+        Assets: 388556610
+        $/Participant: 416013
+        Service Providers:
+           - UBS : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+   [501]
+    2022: CLIF BAR & COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: CLIF BAR & COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: CLIF BAR & COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: CLIF BAR & COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: CLIF BAR & COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: CLIF BAR & COMPANY HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+   [503]
+    2018: CLIF BAR & COMPANY FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2017: CLIF BAR & COMPANY FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 

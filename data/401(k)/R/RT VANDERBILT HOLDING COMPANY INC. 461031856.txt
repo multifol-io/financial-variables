@@ -1,20 +1,9 @@
 CT : NORWALK
   RT VANDERBILT HOLDING COMPANY INC.  461031856
-   [501]
-    2022: GROUP INSURANCE PLAN
-        Participants: 
-    2021: GROUP INSURANCE PLAN
-        Participants: 
-    2020: GROUP INSURANCE PLAN
-        Participants: 
-    2019: GROUP INSURANCE PLAN
-        Participants: 
-    2018: GROUP INSURANCE PLAN
-        Participants: 
-    2017: GROUP INSURANCE PLAN
-        Participants: 
    [003]
     2022: R.T. VANDERBILT HOLDING COMPANY, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G3H2T 
         Participants: 353
         Assets: 72831581
         $/Participant: 206321
@@ -40,6 +29,8 @@ CT : NORWALK
                  : MASSMUTUAL SMALL COMPANY
                  : MM S&P 500(R) INDEX
     2021: R.T. VANDERBILT HOLDING COMPANY, INC. 401(K)
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G3H2T 
         Participants: 339
         Assets: 87824202
         $/Participant: 259068
@@ -65,6 +56,8 @@ CT : NORWALK
                  : SIA-WF MID CAP GROWTH
                  : SIA-ZX MM S&P 500 INDEX
     2020: R.T. VANDERBILT HOLDING COMPANY, INC. 401(K)
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G3D3H2T 
         Participants: 347
         Assets: 77458550
         $/Participant: 223223
@@ -90,6 +83,8 @@ CT : NORWALK
                  : SIA-WF MID CAP GROWTH
                  : SIA-ZX MM S&P 500 INDEX
     2019: R.T. VANDERBILT HOLDING COMPANY, INC. 401(K)
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G3D3H2T 
         Participants: 345
         Assets: 64476261
         $/Participant: 186887
@@ -115,6 +110,8 @@ CT : NORWALK
                  : SIA-WF SELECT MID CAP GR
                  : SIA-ZX MM S&P 500 INDEX
     2018: R.T. VANDERBILT HOLDING COMPANY, INC. 401(K)
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G3D3H2T 
         Participants: 335
         Assets: 52475602
         $/Participant: 156643
@@ -150,6 +147,8 @@ CT : NORWALK
                  : SIA-X MM S&P 500 INDEX
                  : SIA-ZX MM S&P 500 INDEX
     2017: R.T. VANDERBILT HOLDING COMPANY, INC. 401(K)
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G3D3H2T 
         Participants: 333
         Assets: 51501089
         $/Participant: 154657
@@ -174,8 +173,85 @@ CT : NORWALK
                  : SIA-W2 CONTRAFUND
                  : SIA-W9 SELECT MID CAP GR
                  : SIA-X MM S&P 500 INDEX
+   [501]
+    2022: GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4F4H4L
+        Participants: 
+    2021: GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4F4H4L
+        Participants: 
+    2020: GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4F4H4L
+        Participants: 
+    2019: GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4F4H4L
+        Participants: 
+    2018: GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4F4H4L
+        Participants: 
+    2017: GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4F4H4L
+        Participants: 
+   [001]
+    2022: R. T. VANDERBILT HOLDING COMPANY INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Other
+        Codes: 2I3I 
+        Participants: 157
+        Assets: 2789589
+        $/Participant: 17768
+        Service Providers:
+           - PRINCIPAL TRUST COMPANY : N/A (Trustee(bank, trust company, or similar))
+           - WELLS FARGO, NA : N/A (Trustee(bank, trust company, or similar))
+    2021: R. T. VANDERBILT HOLDING COMPANY INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Other
+        Codes: 2I3I 
+        Participants: 164
+        Assets: 3357781
+        $/Participant: 20474
+        Service Providers:
+           - WELLS FARGO, NA : N/A (Trustee(bank, trust company, or similar))
+    2020: R. T. VANDERBILT HOLDING COMPANY INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Other
+        Codes: 2I3I 
+        Participants: 176
+        Assets: 2816143
+        $/Participant: 16000
+        Service Providers:
+           - WELLS FARGO, NA : N/A (Trustee(bank, trust company, or similar))
+    2019: R. T. VANDERBILT HOLDING COMPANY INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Other
+        Codes: 2I3I 
+        Participants: 183
+        Assets: 3200425
+        $/Participant: 17488
+        Service Providers:
+           - WELLS FARGO, NA : N/A (Trustee(bank, trust company, or similar))
+    2018: R. T. VANDERBILT HOLDING COMPANY INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Other
+        Codes: 2I3I 
+        Participants: 189
+        Assets: 4089950
+        $/Participant: 21639
+        Service Providers:
+           - WELLS FARGO, NA : N/A (Trustee(bank, trust company, or similar))
+    2017: R. T. VANDERBILT HOLDING COMPANY INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Other
+        Codes: 2I3I 
+        Participants: 194
+        Assets: 4185981
+        $/Participant: 21577
+        Service Providers:
+           - WELLS FARGO, NA : N/A (Trustee(bank, trust company, or similar))
    [002]
     2021: R. T. VANDERBILT HOLDING COMPANY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 354
         Assets: 40192858
         $/Participant: 113539
@@ -197,6 +273,8 @@ CT : NORWALK
                  : SIA-TZ
                  : SIA-WR
     2020: R.T. VANDERBILT HOLDING COMPANY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 355
         Assets: 51831823
         $/Participant: 146005
@@ -218,6 +296,8 @@ CT : NORWALK
                  : SIA-TZ
                  : SIA-WR
     2019: R.T. VANDERBILT HOLDING COMPANY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 357
         Assets: 40117545
         $/Participant: 112374
@@ -239,6 +319,8 @@ CT : NORWALK
                  : SIA-TZ
                  : SIA-WR
     2017: R.T. VANDERBILT HOLDING COMPANY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 370
         Assets: 41004206
         $/Participant: 110822
@@ -259,41 +341,3 @@ CT : NORWALK
                  : SIA-SY
                  : SIA-TZ
                  : SIA-WR
-   [001]
-    2022: R. T. VANDERBILT HOLDING COMPANY INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 157
-        Assets: 2789589
-        $/Participant: 17768
-        Service Providers:
-           - PRINCIPAL TRUST COMPANY : N/A (Trustee(bank, trust company, or similar))
-           - WELLS FARGO, NA : N/A (Trustee(bank, trust company, or similar))
-    2021: R. T. VANDERBILT HOLDING COMPANY INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 164
-        Assets: 3357781
-        $/Participant: 20474
-        Service Providers:
-           - WELLS FARGO, NA : N/A (Trustee(bank, trust company, or similar))
-    2020: R. T. VANDERBILT HOLDING COMPANY INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 176
-        Assets: 2816143
-        $/Participant: 16000
-        Service Providers:
-           - WELLS FARGO, NA : N/A (Trustee(bank, trust company, or similar))
-    2019: R. T. VANDERBILT HOLDING COMPANY INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 183
-        Assets: 3200425
-        $/Participant: 17488
-        Service Providers:
-           - WELLS FARGO, NA : N/A (Trustee(bank, trust company, or similar))
-    2018: R. T. VANDERBILT HOLDING COMPANY INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 189
-        Assets: 4089950
-        $/Participant: 21639
-        Service Providers:
-           - WELLS FARGO, NA : N/A (Trustee(bank, trust company, or similar))
-    2017: R. T. VANDERBILT HOLDING COMPANY INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 194
-        Assets: 4185981
-        $/Participant: 21577
-        Service Providers:
-           - WELLS FARGO, NA : N/A (Trustee(bank, trust company, or similar))

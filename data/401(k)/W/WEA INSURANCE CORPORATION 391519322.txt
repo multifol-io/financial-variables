@@ -1,17 +1,9 @@
 WI : MADISON
   WEA INSURANCE CORPORATION  391519322
-   [531]
-    2018: WEA INSURANCE CORPORATION EMPLOYEE WELFARE BENEFIT PLAN FOR REPRESENTED EMPLOYEES
-        Participants: 121
-    2017: WEA INSURANCE CORPORATION EMPLOYEE WELFARE BENEFIT PLAN FOR REPRESENTED EMPLOYEES
-        Participants: 113
-   [530]
-    2018: WEA INSURANCE CORPORATION EMPLOYEE WELFARE BENEFIT PLAN
-        Participants: 200
-    2017: WEA INSURANCE CORPORATION EMPLOYEE WELFARE BENEFIT PLAN
-        Participants: 193
    [003]
     2018: WEA TRUST EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 425
         Assets: 92477069
         $/Participant: 217593
@@ -20,6 +12,8 @@ WI : MADISON
            - MASSACHUSETTS MUTUAL LIFE INSURANCE
                  : SIA-E5 (NON-CLIENT SAGIC CORE BOND
     2017: WEA TRUST EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 414
         Assets: 104507407
         $/Participant: 252433
@@ -27,3 +21,25 @@ WI : MADISON
         Available Investments:
            - MASSACHUSETTS MUTUAL LIFE INSURANCE
                  : SIA-E5 (NON-CLIENT SAGIC CORE BOND
+   [530]
+    2018: WEA INSURANCE CORPORATION EMPLOYEE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4Q
+        Participants: 200
+    2017: WEA INSURANCE CORPORATION EMPLOYEE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4Q
+        Participants: 193
+   [531]
+    2018: WEA INSURANCE CORPORATION EMPLOYEE WELFARE BENEFIT PLAN FOR REPRESENTED EMPLOYEES
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4Q
+        Participants: 121
+    2017: WEA INSURANCE CORPORATION EMPLOYEE WELFARE BENEFIT PLAN FOR REPRESENTED EMPLOYEES
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4Q
+        Participants: 113

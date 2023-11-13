@@ -1,17 +1,8 @@
 NC : CHARLOTTE
   CHARLOTTE RADIOLOGY, PA  560954779
-   [503]
-    2022: CHARLOTTE RADIOLOGY PA EMPLOYEE HEALTH & WELFARE PLAN
-        Participants: 
-   [502]
-    2021: CHARLOTTE RADIOLOGY PA EMPLOYEE HEALTH & WELFARE PLAN
-        Participants: 
-    2017: CHARLOTTE RADIOLOGY PA EMPLOYEE HEALTH & WELFARE PLAN
-        Participants: 
-        Assets: 425619
-        $/Participant: 
-   [001]
     2017: CHARLOTTE RADIOLOGY, P.A. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3D3H 
         Participants: 470
         Assets: 134442022
         $/Participant: 286046
@@ -19,3 +10,19 @@ NC : CHARLOTTE
         Available Investments:
            - NEW YORK LIFE INSURANCE COMPANY
                  : NEW YORK LIFE ANCHOR ACCOUNT
+   [502]
+    2021: CHARLOTTE RADIOLOGY PA EMPLOYEE HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: CHARLOTTE RADIOLOGY PA EMPLOYEE HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+        Assets: 425619
+        $/Participant: 
+   [503]
+    2022: CHARLOTTE RADIOLOGY PA EMPLOYEE HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 

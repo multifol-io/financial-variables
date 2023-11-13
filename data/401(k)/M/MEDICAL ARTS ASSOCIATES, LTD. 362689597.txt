@@ -1,15 +1,9 @@
 IL : MOLINE
   MEDICAL ARTS ASSOCIATES, LTD.  362689597
-   [502]
-    2018: MEDICAL ARTS ASSOCIATES, LTD. LIFE INSURANCE PLAN
-        Participants: 
-    2017: MEDICAL ARTS ASSOCIATES, LTD. LIFE INSURANCE PLAN
-        Participants: 
-   [501]
-    2017: MEDICAL ARTS ASSOCIATES, LTD. HEALTH PLAN
-        Participants: 
    [001]
     2019: MEDICAL ARTS ASSOCIATES, LTD. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2J2R2T3D 
         Participants: 96
         Assets: 24211710
         $/Participant: 252205
@@ -18,6 +12,8 @@ IL : MOLINE
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE VALUE FUND C
     2018: MEDICAL ARTS ASSOCIATES, LTD. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2J2R2T3D 
         Participants: 114
         Assets: 23759456
         $/Participant: 208416
@@ -26,3 +22,17 @@ IL : MOLINE
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE VALUE FUND C
+   [501]
+    2017: MEDICAL ARTS ASSOCIATES, LTD. HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4R
+        Participants: 
+   [502]
+    2018: MEDICAL ARTS ASSOCIATES, LTD. LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4L4R
+        Participants: 
+    2017: MEDICAL ARTS ASSOCIATES, LTD. LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 

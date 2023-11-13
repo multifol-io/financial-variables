@@ -1,36 +1,9 @@
 CA : SAN JOSE
   HOPKINS & CARLEY, ALC  942156511
-   [501]
-    2022: HOPKINS & CARLEY, ALC EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INS COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
-           - DIRECT DENTAL ADMINISTRATORS, LLC : CONTRACT ADMINISTRATOR (Contract Administrator)
-    2021: HOPKINS & CARLEY, ALC EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - DIRECT DENTAL ADMINISTRATORS, LLC :  (Contract Administrator)
-    2020: HOPKINS & CARLEY, ALC EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - DIRECT DENTAL ADMINISTRATORS, LLC : CONTRACT ADMINISTRATOR (Contract Administrator)
-    2019: HOPKINS & CARLEY, ALC EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - DIRECT DENTAL ADMINISTRATORS, LLC : CONTRACT ADMINISTRATOR (Contract Administrator)
-           - RON FILICE ENTERPRISES, INC : INSURANCE BROKER (Insurance agents and brokers)
-    2018: HOPKINS & CARLEY, ALC EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - DIRECT DENTAL ADMINISTRATORS, LLC : CONTRACT ADMINISTRATOR (Contract Administrator)
-           - RON FILICE ENTERPRISES, INC : INSURANCE BROKER (Insurance agents and brokers)
-    2017: HOPKINS & CARLEY, ALC EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE CO : SERVICE PROVIDER (Contract Administrator)
-           - DIRECT DENTAL ADMINISTRATORS, LLC : CONTRACT ADMINISTRATOR (Contract Administrator)
    [002]
     2022: HOPKINS & CARLEY 401(K)PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D 
         Participants: 198
         Assets: 63412416
         $/Participant: 320264
@@ -40,6 +13,8 @@ CA : SAN JOSE
            - KCM INVESTMENT ADVISORS LLC :  (Investment advisory(participants) | Direct payment from the plan)
            - CHARLES SCHWAB & CO.,INC. :  (Securities brokerage | Direct payment from the plan | Shareholder servicing fees | Float revenue | Securities brokerage commissions and fees)
     2021: HOPKINS & CARLEY 401(K)PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D 
         Participants: 202
         Assets: 78882674
         $/Participant: 390508
@@ -47,21 +22,29 @@ CA : SAN JOSE
            - MERRILL LYNCH BANK & TRUST CO :  (Investment management | Direct payment from the plan)
            - CHARLES SCHWAB & CO.,INC. :  (Securities brokerage | Direct payment from the plan | Shareholder servicing fees | Float revenue | Securities brokerage commissions and fees)
     2020: HOPKINS & CARLEY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D 
         Participants: 247
         Assets: 68812285
         $/Participant: 278592
         RecordKeeper: NEWPORT GROUP, INC
     2019: HOPKINS & CARLEY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D3F 
         Participants: 242
         Assets: 58158513
         $/Participant: 240324
         RecordKeeper: NEWPORT GROUP, INC
     2018: HOPKINS & CARLEY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D3F 
         Participants: 230
         Assets: 47060504
         $/Participant: 204610
         RecordKeeper: NEWPORT TRUST COMPANY
     2017: HOPKINS & CARLEY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D3F 
         Participants: 225
         Assets: 50082128
         $/Participant: 222587
@@ -91,3 +74,44 @@ CA : SAN JOSE
                  : SMALL CAP INDEX EQUITY FUND
                  : SMALL-MID CAP EQUITY FUND
                  : STABLE ASSET RETURN FUND
+   [501]
+    2022: HOPKINS & CARLEY, ALC EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INS COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
+           - DIRECT DENTAL ADMINISTRATORS, LLC : CONTRACT ADMINISTRATOR (Contract Administrator)
+    2021: HOPKINS & CARLEY, ALC EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Service Providers:
+           - DIRECT DENTAL ADMINISTRATORS, LLC :  (Contract Administrator)
+    2020: HOPKINS & CARLEY, ALC EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Service Providers:
+           - DIRECT DENTAL ADMINISTRATORS, LLC : CONTRACT ADMINISTRATOR (Contract Administrator)
+    2019: HOPKINS & CARLEY, ALC EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+        Service Providers:
+           - DIRECT DENTAL ADMINISTRATORS, LLC : CONTRACT ADMINISTRATOR (Contract Administrator)
+           - RON FILICE ENTERPRISES, INC : INSURANCE BROKER (Insurance agents and brokers)
+    2018: HOPKINS & CARLEY, ALC EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+        Service Providers:
+           - DIRECT DENTAL ADMINISTRATORS, LLC : CONTRACT ADMINISTRATOR (Contract Administrator)
+           - RON FILICE ENTERPRISES, INC : INSURANCE BROKER (Insurance agents and brokers)
+    2017: HOPKINS & CARLEY, ALC EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE CO : SERVICE PROVIDER (Contract Administrator)
+           - DIRECT DENTAL ADMINISTRATORS, LLC : CONTRACT ADMINISTRATOR (Contract Administrator)

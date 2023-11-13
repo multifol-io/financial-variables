@@ -1,23 +1,9 @@
-FL : TAMPA
-  ATKINSREALIS  730972002
-   [506]
-    2022: SNC-LAVALIN EMPLOYEE BENEFITS PLAN
-        Participants: 
-DE : WILLINGHAM
-    2021: SNC-LAVALIN EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2020: SNC-LAVALIN EMPLOYEE BENEFITS PLAN
-        Participants: 
-   [501]
-    2019: SNC-LAVALIN WELFARE BENEFIT PLAN
-        Participants: 
-    2018: SNC-LAVALIN WELFARE BENEFIT PLAN
-        Participants: 
-    2017: SNC-LAVALIN WELFARE BENEFIT PLAN
-        Participants: 
 DE : WILMINGTON
+  ATKINSREALIS  730972002
    [001]
     2022: SNC-LAVALIN US RETIREMENT SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3H 
         Participants: 6627
         Assets: 695965646
         $/Participant: 105019
@@ -40,6 +26,8 @@ DE : WILMINGTON
                  : VFTC TARGET RET INCOME &GROWTH TR I
                  : VFTC TARGET RET INCOME TR I
     2021: SNC-LAVALIN US RETIREMENT SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3H 
         Participants: 7095
         Assets: 959606228
         $/Participant: 135251
@@ -61,6 +49,8 @@ DE : WILMINGTON
                  : VFTC TARGET RET 2065 TRUST I
                  : VFTC TARGET RET INCOME TRUST I
     2020: SNC-LAVALIN US RETIREMENT SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3H 
         Participants: 7242
         Assets: 882717554
         $/Participant: 121888
@@ -81,6 +71,8 @@ DE : WILMINGTON
                  : VFTC TARGET RET 2065 TRUST I
                  : VFTC TARGET RET INCOME TRUST I
     2019: SNC-LAVALIN US RETIREMENT SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3H 
         Participants: 7711
         Assets: 783254790
         $/Participant: 101576
@@ -103,6 +95,8 @@ DE : WILMINGTON
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE RETURN FUND N25
     2018: SNC-LAVALIN US RETIREMENT SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3F3H 
         Participants: 2455
         Assets: 664023600
         $/Participant: 270478
@@ -111,6 +105,8 @@ DE : WILMINGTON
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE RETURN FUND N25
     2017: SNC-LAVALIN US RETIREMENT SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3F3H 
         Participants: 2376
         Assets: 198046891
         $/Participant: 83353
@@ -118,3 +114,32 @@ DE : WILMINGTON
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE RETURN FUND N25
+DE : WILLINGHAM
+   [501]
+    2019: SNC-LAVALIN WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4G
+        Participants: 
+    2018: SNC-LAVALIN WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2017: SNC-LAVALIN WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+FL : TAMPA
+   [506]
+    2022: SNC-LAVALIN EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4G
+        Participants: 
+DE : WILLINGHAM
+    2021: SNC-LAVALIN EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4G
+        Participants: 
+    2020: SNC-LAVALIN EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4G
+        Participants: 

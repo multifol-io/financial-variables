@@ -1,67 +1,10 @@
 NV : LAS VEGAS
   SOUTHWEST GAS CORPORATION  880085720
-   [505]
-    2022: SOUTHWEST GAS CORPORATION 501 (C) (9) VEBA TRUST
-        Participants: 
-        Assets: 32077781
-        $/Participant: 
-        Service Providers:
-           - MCCONNELL & JONES :  (Accounting(including auditing) | Direct payment from the plan)
-           - CALLAN :  (Investment advisory(plan) | Direct payment from the plan)
-           - BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-    2021: INSURANCE WELFARE BENEFIT PLAN SOUTHWEST GAS CORPORATION
-        Participants: 
-        Assets: 35621570
-        $/Participant: 
-        Service Providers:
-           - CALLAN :  (Investment advisory(plan) | Direct payment from the plan)
-           - MCCONNELL & JONES :  (Accounting(including auditing) | Direct payment from the plan)
-           - BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-    2020: INSURANCE WELFARE BENEFIT PLAN SOUTHWEST GAS CORPORATION
-        Participants: 
-        Assets: 30815220
-        $/Participant: 
-        Service Providers:
-           - MCCONNELL & JONES :  (Accounting(including auditing) | Direct payment from the plan)
-           - BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-           - CALLAN :  (Investment advisory(plan) | Direct payment from the plan)
-    2019: INSURANCE WELFARE BENEFIT PLAN SOUTHWEST GAS CORPORATION
-        Participants: 
-        Assets: 29750319
-        $/Participant: 
-        Service Providers:
-           - BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-    2018: INSURANCE WELFARE BENEFIT PLAN SOUTHWEST GAS CORPORATION
-        Participants: 
-        Assets: 25768512
-        $/Participant: 
-        Service Providers:
-           - BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-    2017: INSURANCE WELFARE BENEFIT PLAN SOUTHWEST GAS CORPORATION
-        Participants: 
-        Assets: 27610934
-        $/Participant: 
-        Service Providers:
-           - BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-           - MCCONNELL & JONES LLP :  (Accounting(including auditing) | Direct payment from the plan)
-   [502]
-    2017: LONG TERM DISABILITY INSURANCE PLAN
-        Participants: 
-   [501]
-    2022: SOUTHWEST GAS CORPORATION HEALTH AND WELFARE BENEFIT PLAN A.K.A. LIFE INSURANCE AND HEALTH PLAN
-        Participants: 
-    2021: LIFE INSURANCE & HEALTH PLAN
-        Participants: 
-    2020: LIFE INSURANCE & HEALTH PLAN
-        Participants: 
-    2019: LIFE INSURANCE & HEALTH PLAN
-        Participants: 
-    2018: LIFE INSURANCE & HEALTH PLAN
-        Participants: 
-    2017: LIFE INSURANCE & HEALTH PLAN
-        Participants: 
    [004]
     2022: SOUTHWEST GAS CORPORATION EMPLOYEES' INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2H2J2K2O2S2T3I 
         Participants: 2871
         Assets: 464932839
         $/Participant: 161941
@@ -72,6 +15,9 @@ NV : LAS VEGAS
            - T. ROWE PRICE TRUST COMPANY
                  : T. ROWE PRICE STABLE VALUE FUND
     2021: SOUTHWEST GAS CORPORATION EMPLOYEES' INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2H2J2K2O2S2T3I 
         Participants: 2778
         Assets: 591111224
         $/Participant: 212783
@@ -82,6 +28,9 @@ NV : LAS VEGAS
            - T. ROWE PRICE TRUST COMPANY
                  : T. ROWE PRICE STABLE VALUE FUND
     2020: SOUTHWEST GAS CORPORATION EMPLOYEES' INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2H2J2K2O2S2T3I 
         Participants: 2707
         Assets: 539098059
         $/Participant: 199149
@@ -92,6 +41,9 @@ NV : LAS VEGAS
            - T. ROWE PRICE TRUST COMPANY
                  : T. ROWE PRICE STABLE VALUE FUND
     2019: SOUTHWEST GAS CORPORATION EMPLOYEES' INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2H2J2K2O2S2T3I 
         Participants: 2740
         Assets: 487391586
         $/Participant: 177880
@@ -100,17 +52,111 @@ NV : LAS VEGAS
            - T. ROWE PRICE TRUST COMPANY
                  : T. ROWE PRICE STABLE VALUE FUND
     2018: SOUTHWEST GAS CORPORATION EMPLOYEES' INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2H2J2K2O2S2T3I 
         Participants: 2728
         Assets: 424840490
         $/Participant: 155733
         RecordKeeper: FIDELITY INVEST INSTITUT OPERAT CO
     2017: SOUTHWEST GAS CORPORATION EMPLOYEES' INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2H2J2K2O2S2T3I 
         Participants: 2664
         Assets: 462573897
         $/Participant: 173638
         RecordKeeper: FIDELITY INVEST INSTITUT OPERAT CO
+   [501]
+    2022: SOUTHWEST GAS CORPORATION HEALTH AND WELFARE BENEFIT PLAN A.K.A. LIFE INSURANCE AND HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: LIFE INSURANCE & HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: LIFE INSURANCE & HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: LIFE INSURANCE & HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: LIFE INSURANCE & HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: LIFE INSURANCE & HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4L4Q
+        Participants: 
+   [502]
+    2017: LONG TERM DISABILITY INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+   [505]
+    2022: SOUTHWEST GAS CORPORATION 501 (C) (9) VEBA TRUST
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+        Assets: 32077781
+        $/Participant: 
+        Service Providers:
+           - MCCONNELL & JONES :  (Accounting(including auditing) | Direct payment from the plan)
+           - CALLAN :  (Investment advisory(plan) | Direct payment from the plan)
+           - BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+    2021: INSURANCE WELFARE BENEFIT PLAN SOUTHWEST GAS CORPORATION
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+        Assets: 35621570
+        $/Participant: 
+        Service Providers:
+           - CALLAN :  (Investment advisory(plan) | Direct payment from the plan)
+           - MCCONNELL & JONES :  (Accounting(including auditing) | Direct payment from the plan)
+           - BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+    2020: INSURANCE WELFARE BENEFIT PLAN SOUTHWEST GAS CORPORATION
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+        Assets: 30815220
+        $/Participant: 
+        Service Providers:
+           - MCCONNELL & JONES :  (Accounting(including auditing) | Direct payment from the plan)
+           - BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+           - CALLAN :  (Investment advisory(plan) | Direct payment from the plan)
+    2019: INSURANCE WELFARE BENEFIT PLAN SOUTHWEST GAS CORPORATION
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+        Assets: 29750319
+        $/Participant: 
+        Service Providers:
+           - BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+    2018: INSURANCE WELFARE BENEFIT PLAN SOUTHWEST GAS CORPORATION
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+        Assets: 25768512
+        $/Participant: 
+        Service Providers:
+           - BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+    2017: INSURANCE WELFARE BENEFIT PLAN SOUTHWEST GAS CORPORATION
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+        Assets: 27610934
+        $/Participant: 
+        Service Providers:
+           - BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+           - MCCONNELL & JONES LLP :  (Accounting(including auditing) | Direct payment from the plan)
    [001]
     2021: RETIREMENT PLAN FOR EMPLOYEES OF SOUTHWEST GAS CORPORATION
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 4774
         Assets: 1151372408
         $/Participant: 241175
@@ -131,6 +177,8 @@ NV : LAS VEGAS
                  : RITC SMALL CAP FD
                  : WORLD EQUITY FUND
     2020: RETIREMENT PLAN FOR EMPLOYEES OF SOUTHWEST GAS CORPORATION
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 4792
         Assets: 1358511048
         $/Participant: 283495
@@ -156,6 +204,8 @@ NV : LAS VEGAS
                  : SMALL CAP FUND
                  : WORLD EQUITY FUND
     2019: RETIREMENT PLAN FOR EMPLOYEES OF SOUTHWEST GAS CORPORATION
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 4722
         Assets: 1110613655
         $/Participant: 235199
@@ -176,11 +226,15 @@ NV : LAS VEGAS
                  : SMALL CAP FUND
                  : WORLD EQUITY FUND
     2018: RETIREMENT PLAN FOR EMPLOYEES OF SOUTHWEST GAS CORPORATION
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 4701
         Assets: 934893199
         $/Participant: 198871
         RecordKeeper: MONY
     2017: RETIREMENT PLAN FOR EMPLOYEES OF SOUTHWEST GAS CORPORATION
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 4617
         Assets: 893621187
         $/Participant: 193550

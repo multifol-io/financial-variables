@@ -1,33 +1,9 @@
 NJ : WEEHAWKEN
   UBS AG  980186363
-   [519]
-    2022: UBS SEVERANCE PLAN
-        Participants: 
-    2021: UBS SEVERANCE PLAN
-        Participants: 
-    2020: UBS SEVERANCE PLAN
-        Participants: 
-    2019: UBS SEVERANCE PLAN
-        Participants: 
-    2018: UBS SEVERANCE PLAN
-        Participants: 
-    2017: UBS SEVERANCE PLAN
-        Participants: 
-   [516]
-    2022: UBS AG HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: UBS AG HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: UBS AG HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: UBS AG HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: UBS AG HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: UBS AG HEALTH AND WELFARE PLAN
-        Participants: 
    [002]
     2022: UBS 401(K) PLAN TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3F3H 
         Participants: 32429
         Assets: 7443590630
         $/Participant: 229535
@@ -69,6 +45,8 @@ NJ : WEEHAWKEN
                  : VANGUARD TARGET RET 2065
                  : VANGUARD TARGET RET INCOME
     2021: UBS 401(K) PLAN TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3F3H 
         Participants: 31270
         Assets: 8931810430
         $/Participant: 285635
@@ -111,6 +89,8 @@ NJ : WEEHAWKEN
                  : VANGUARD TARGET RET 2065
                  : VANGUARD TARGET RET INCOME
     2020: UBS 401(K) PLAN TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3F3H 
         Participants: 31064
         Assets: 7861299052
         $/Participant: 253067
@@ -148,6 +128,8 @@ NJ : WEEHAWKEN
                  : VANGUARD TARGET RET 2065
                  : VANGUARD TARGET RET INCOME
     2019: UBS 401(K) PLAN TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3F3H 
         Participants: 31214
         Assets: 6794738882
         $/Participant: 217682
@@ -188,6 +170,8 @@ NJ : WEEHAWKEN
                  : VANGUARD TARGET RET 2065
                  : VANGUARD TARGET RET INCOME
     2018: UBS 401(K) PLAN TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3F3H 
         Participants: 31533
         Assets: 5545073227
         $/Participant: 175849
@@ -229,6 +213,8 @@ NJ : WEEHAWKEN
                  : VANGUARD TARGET RET INCOME
 CA : STAMFORD
     2017: UBS 401(K) PLAN TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3F3H 
         Participants: 31052
         Assets: 5873136505
         $/Participant: 189138
@@ -274,8 +260,35 @@ CA : STAMFORD
                  : VANGUARD TARGET RET 2060
                  : VANGUARD TARGET RET INCOME
 NJ : WEEHAWKEN
+   [516]
+    2022: UBS AG HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2021: UBS AG HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2020: UBS AG HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2019: UBS AG HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2018: UBS AG HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2017: UBS AG HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
    [001]
     2022: UBS PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3F3H 
         Participants: 4109
         Assets: 392295688
         $/Participant: 95472
@@ -286,6 +299,8 @@ NJ : WEEHAWKEN
            - UBS GROUP TRUST
                  : UBS MULTI ASSET PORTFOLIO
     2021: UBS PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3F3H 
         Participants: 4234
         Assets: 449060809
         $/Participant: 106060
@@ -297,6 +312,8 @@ NJ : WEEHAWKEN
                  : UBS MULTI ASSET PORTFOLIO
                  : UBS U.S. LONG DURATION CREDIT COLL
     2020: UBS PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3F3H 
         Participants: 4384
         Assets: 455328366
         $/Participant: 103861
@@ -306,6 +323,8 @@ NJ : WEEHAWKEN
                  : UBS MULTI ASSET PORTFOLIO
                  : UBS U.S. LONG DURATION CREDIT COLL
     2019: UBS PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3F3H 
         Participants: 4513
         Assets: 434778818
         $/Participant: 96339
@@ -315,6 +334,8 @@ NJ : WEEHAWKEN
                  : UBS MULTI ASSET PORTFOLIO
                  : UBS U.S. LONG DURATION CREDIT COLL
     2018: UBS PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3F3H 
         Participants: 4624
         Assets: 405269979
         $/Participant: 87644
@@ -324,6 +345,8 @@ NJ : WEEHAWKEN
                  : UBS MULTI ASSET PORTFOLIO
                  : UBS U.S. LONG DURATION CREDIT COLL
     2017: UBS PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3F3H 
         Participants: 4752
         Assets: 420452296
         $/Participant: 88479
@@ -332,3 +355,28 @@ NJ : WEEHAWKEN
            - UBS GROUP TRUST
                  : UBS MULTI ASSET PORTFOLIO
                  : UBS U.S. LONG DURATION CREDIT COLL
+   [519]
+    2022: UBS SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2021: UBS SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2020: UBS SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2019: UBS SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2018: UBS SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2017: UBS SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

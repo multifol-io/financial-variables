@@ -1,20 +1,9 @@
 IN : FORT WAYNE
-  ALLIED PHYSICIANS, INC.  351155438
-   [501]
-    2021: ALLIED PHYSICIANS, INC. WELFARE BENEFIT PLANS
-        Participants: 
-    2020: ALLIED PHYSICIANS, INC. WELFARE BENEFIT PLANS
-        Participants: 
-    2019: ALLIED PHYSICIANS, INC. WELFARE BENEFIT PLANS
-        Participants: 
-    2018: ALLIED PHYSICIANS, INC. WELFARE BENEFIT PLANS
-        Participants: 
-    2017: ALLIED PHYSICIANS, INC. WELFARE BENEFIT PLANS
-        Participants: 
-        Service Providers:
-           - PRO-CLAIM PLUS, INC :  (Claims processing)
+  ALLIED PHYSICIANS INC.  351155438
    [004]
     2022: ALLIED PHYSICIANS, INC. 401(K) SALARY REDUCTION PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T3D3H 4B
         Participants: 126
         Assets: 33021061
         $/Participant: 262071
@@ -30,6 +19,8 @@ IN : FORT WAYNE
                  : SCHWAB MANAGED RET TR FUND 2045
                  : SCHWAB MANAGED RET TR FUND 2055
     2021: ALLIED PHYSICIANS, INC. 401(K) SALARY REDUCTION PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T3D3H 4B
         Participants: 140
         Assets: 44102927
         $/Participant: 315020
@@ -45,6 +36,8 @@ IN : FORT WAYNE
                  : SCHWAB MANAGED RET TR FUND 2045
                  : SCHWAB MANAGED RET TR FUND 2055
     2020: ALLIED PHYSICIANS, INC. 401(K) SALARY REDUCTION PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T3D3H 4B
         Participants: 144
         Assets: 39436448
         $/Participant: 273864
@@ -61,6 +54,8 @@ IN : FORT WAYNE
                  : SCHWAB MANAGED RET TR FUND 2045
                  : SCHWAB MANAGED RET TR FUND 2055
     2019: ALLIED PHYSICIANS, INC. 401(K) SALARY REDUCTION PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T3D3H 4B
         Participants: 143
         Assets: 38271796
         $/Participant: 267634
@@ -75,6 +70,8 @@ IN : FORT WAYNE
                  : SCHWAB MANAGED RET TR FUND 2045
                  : SCHWAB MANAGED RET TR FUND 2055
     2018: ALLIED PHYSICIANS, INC. 401(K) SALARY REDUCTION PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T3D3H 4B
         Participants: 132
         Assets: 31953604
         $/Participant: 242072
@@ -86,6 +83,8 @@ IN : FORT WAYNE
                  : SCHWAB MANAGED RET 2045 CL II
                  : SCHWAB MANAGED RET 2055 CL II
     2017: ALLIED PHYSICIANS, INC. 401(K) SALARY REDUCTION PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T3D3H 4B
         Participants: 137
         Assets: 33074569
         $/Participant: 241420
@@ -96,3 +95,26 @@ IN : FORT WAYNE
                  : SCHWAB MANAGED RET 2035 CL II
                  : SCHWAB MANAGED RET 2045 CL II
                  : SCHWAB MANAGED RET 2055 CL II
+   [501]
+    2021: ALLIED PHYSICIANS, INC. WELFARE BENEFIT PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4R4S
+        Participants: 
+    2020: ALLIED PHYSICIANS, INC. WELFARE BENEFIT PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4R
+        Participants: 
+    2019: ALLIED PHYSICIANS, INC. WELFARE BENEFIT PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: ALLIED PHYSICIANS, INC. WELFARE BENEFIT PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2017: ALLIED PHYSICIANS, INC. WELFARE BENEFIT PLANS
+        Benefit Category: Healthcare
+        Codes:  4B4H4D4A4A
+        Participants: 
+        Service Providers:
+           - PRO-CLAIM PLUS, INC :  (Claims processing)

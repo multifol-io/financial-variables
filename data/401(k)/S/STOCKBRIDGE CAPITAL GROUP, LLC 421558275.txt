@@ -1,16 +1,9 @@
 CA : SAN FRANCISCO
   STOCKBRIDGE CAPITAL GROUP, LLC  421558275
-   [501]
-    2022: STOCKBRIDGE CAPITAL GROUP, LLC EMPLOYEE HEALTH AND WELFARE BENEFITS PLAN
-        Participants: 
-    2021: STOCKBRIDGE CAPITAL GROUP, LLC EMPLOYEE HEALTH AND WELFARE BENEFITS PLAN
-        Participants: 
-    2020: STOCKBRIDGE CAPITAL GROUP, LLC EMPLOYEE HEALTH AND WELFARE BENEFITS PLAN
-        Participants: 
-    2019: STOCKBRIDGE CAPITAL GROUP, LLC EMPLOYEE HEALTH AND WELFARE BENEFITS PLAN
-        Participants: 
    [001]
     2022: STOCKBRIDGE EMPLOYEE SAVINGS & INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3F 
         Participants: 191
         Assets: 38130870
         $/Participant: 199638
@@ -38,6 +31,8 @@ CA : SAN FRANCISCO
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRIN SMCAP VALUE II SEP ACCT-Z
     2021: STOCKBRIDGE EMPLOYEE SAVINGS & INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D3F 
         Participants: 162
         Assets: 45383218
         $/Participant: 280143
@@ -65,6 +60,8 @@ CA : SAN FRANCISCO
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRIN SMCAP VALUE II SEP ACCT-Z
     2020: STOCKBRIDGE EMPLOYEE SAVINGS & INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D 
         Participants: 142
         Assets: 36958235
         $/Participant: 260269
@@ -92,6 +89,8 @@ CA : SAN FRANCISCO
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRIN SMCAP VALUE II SEP ACCT-Z
     2019: STOCKBRIDGE EMPLOYEE SAVINGS & INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D 
         Participants: 137
         Assets: 29058094
         $/Participant: 212102
@@ -117,3 +116,20 @@ CA : SAN FRANCISCO
                  : PRIN REAL ESTATE SECS SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRIN SMCAP VALUE II SEP ACCT-Z
+   [501]
+    2022: STOCKBRIDGE CAPITAL GROUP, LLC EMPLOYEE HEALTH AND WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: STOCKBRIDGE CAPITAL GROUP, LLC EMPLOYEE HEALTH AND WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: STOCKBRIDGE CAPITAL GROUP, LLC EMPLOYEE HEALTH AND WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2019: STOCKBRIDGE CAPITAL GROUP, LLC EMPLOYEE HEALTH AND WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 

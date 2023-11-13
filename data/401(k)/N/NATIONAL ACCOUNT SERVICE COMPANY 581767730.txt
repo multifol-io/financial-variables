@@ -1,25 +1,16 @@
 GA : ATLANTA
   NATIONAL ACCOUNT SERVICE COMPANY  581767730
-   [502]
-    2022: NASCO HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: NASCO HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: NASCO HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: NASCO HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: NASCO HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: NASCO HEALTH AND WELFARE PLAN
-        Participants: 
    [002]
     2021: NATIONAL ACCOUNT SERVICE COMPANY 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D 
         Participants: 642
         Assets: 206459032
         $/Participant: 321587
         RecordKeeper: WINDHAM BRANNON, P.C.
     2020: NATIONAL ACCOUNT SERVICE COMPANY 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D 
         Participants: 711
         Assets: 189701096
         $/Participant: 266808
@@ -32,6 +23,8 @@ GA : ATLANTA
                  : ALLIANZGI DYNAMIC RETIREMT 2040 35
                  : ALLIANZGI DYNAMIC RETIREMT 2050 35
     2019: NATIONAL ACCOUNT SERVICE COMPANY 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D 
         Participants: 739
         Assets: 156586157
         $/Participant: 211889
@@ -46,6 +39,8 @@ GA : ATLANTA
            - RELLIANCE TRUST CT
                  : ALLIANZGI DYNAMIC RETIREMT 2025 35
     2018: NATIONAL ACCOUNT SERVICE COMPANY 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D 
         Participants: 726
         Assets: 120989824
         $/Participant: 166652
@@ -59,12 +54,41 @@ GA : ATLANTA
                  : ALLIANZGI DYNAMIC RETIREMT 2040 35
                  : ALLIANZGI DYNAMIC RETIREMT 2050 35
     2017: NATIONAL ACCOUNT SERVICE COMPANY 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D 
         Participants: 746
         Assets: 120639041
         $/Participant: 161714
         RecordKeeper: EMPOWER RETIREMENT ADVISORY SERVICE
+   [502]
+    2022: NASCO HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: NASCO HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: NASCO HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: NASCO HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: NASCO HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: NASCO HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
    [001]
     2022: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF NATIONAL ACCOUNT SERVICE COMPANY
+        Benefit Category: Pension
+        Codes: 1A1I3F3H 
         Participants: 246
         Assets: 66822298
         $/Participant: 271635
@@ -84,6 +108,8 @@ GA : ATLANTA
            - BLUE CROSS AND BLUE SHIELD ASSOC.
                  : NATIONAL RETIREMENT TRUST
     2021: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF NATIONAL ACCOUNT SERVICE COMPANY
+        Benefit Category: Pension
+        Codes: 1A1I3F 
         Participants: 253
         Assets: 48538738
         $/Participant: 191852
@@ -103,6 +129,8 @@ GA : ATLANTA
            - BLUE CROSS AND BLUE SHIELD ASSOC.
                  : NATIONAL RETIREMENT TRUST
     2020: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF NATIONAL ACCOUNT SERVICE COMPANY
+        Benefit Category: Pension
+        Codes: 1A3F 
         Participants: 264
         Assets: 47306049
         $/Participant: 179189
@@ -120,6 +148,8 @@ GA : ATLANTA
            - BLUE CROSS AND BLUE SHIELD ASSOC.
                  : NATIONAL RETIREMENT TRUST
     2019: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF NATIONAL ACCOUNT SERVICE COMPANY
+        Benefit Category: Pension
+        Codes: 1A3F 
         Participants: 277
         Assets: 85817522
         $/Participant: 309810
@@ -135,6 +165,8 @@ GA : ATLANTA
            - BLUE CROSS AND BLUE SHIELD ASSOC.
                  : NATIONAL RETIREMENT TRUST
     2018: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF NATIONAL ACCOUNT SERVICE COMPANY
+        Benefit Category: Pension
+        Codes: 1A3F 
         Participants: 281
         Assets: 66798664
         $/Participant: 237717
@@ -152,6 +184,8 @@ GA : ATLANTA
            - BLUE CROSS AND BLUE SHIELD ASSOC.
                  : NATIONAL RETIREMENT TRUST
     2017: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF NATIONAL ACCOUNT SERVICE COMPANY
+        Benefit Category: Pension
+        Codes: 1A3F 
         Participants: 284
         Assets: 70235580
         $/Participant: 247308

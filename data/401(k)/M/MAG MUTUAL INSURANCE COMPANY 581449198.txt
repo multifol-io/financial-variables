@@ -1,20 +1,9 @@
 GA : ATLANTA
   MAG MUTUAL INSURANCE COMPANY  581449198
-   [502]
-    2022: MAG MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2021: MAG MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2020: MAG MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2019: MAG MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2018: MAG MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2017: MAG MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
-        Participants: 
    [002]
     2022: MAGMUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 486
         Assets: 39281321
         $/Participant: 80825
@@ -23,6 +12,8 @@ GA : ATLANTA
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE TRUST
     2021: MAGMUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 399
         Assets: 43274584
         $/Participant: 108457
@@ -31,6 +22,8 @@ GA : ATLANTA
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE TRUST
     2020: MAGMUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 330
         Assets: 31185342
         $/Participant: 94501
@@ -39,6 +32,8 @@ GA : ATLANTA
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE TRUST
     2019: MAGMUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3D3H 
         Participants: 315
         Assets: 25909054
         $/Participant: 82250
@@ -47,6 +42,8 @@ GA : ATLANTA
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE TRUST
     2018: MAGMUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3D3H 
         Participants: 292
         Assets: 21103785
         $/Participant: 72273
@@ -55,6 +52,8 @@ GA : ATLANTA
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE TRUST
     2017: MAG MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 293
         Assets: 22962361
         $/Participant: 78369
@@ -62,26 +61,61 @@ GA : ATLANTA
         Available Investments:
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE TRUST
+   [502]
+    2022: MAG MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2021: MAG MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2020: MAG MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2019: MAG MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2018: MAG MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2017: MAG MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
    [001]
     2022: MAG MUTUAL INSURANCE COMPANY DEFINED BENEFIT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 267
         Assets: 69177837
         $/Participant: 259093
     2021: MAG MUTUAL INSURANCE COMPANY DEFINED BENEFIT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 273
         Assets: 90538211
         $/Participant: 331641
     2020: MAG MUTUAL INSURANCE COMPANY DEFINED BENEFIT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 279
         Assets: 91177463
         $/Participant: 326800
     2019: MAG MUTUAL INSURANCE COMPANY DEFINED BENEFIT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 287
         Assets: 83940628
         $/Participant: 292476
         Service Providers:
            - SAGE ADVISORY SERVICES, LTD. CO. : INVESTMENT ADVISOR (Investment management)
     2018: MAG MUTUAL INSURANCE COMPANY DEFINED BENEFIT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 295
         Assets: 70170293
         $/Participant: 237865
@@ -89,6 +123,8 @@ GA : ATLANTA
            - SAGE ADVISORY SERVICES, LTD. CO. : INVESTMENT ADVISOR (Investment management)
            - NEWPORT GROUP, INC. : ACTUARY (Actuarial)
     2017: MAG MUTUAL INSURANCE COMPANY DEFINED BENEFIT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 305
         Assets: 74486026
         $/Participant: 244216

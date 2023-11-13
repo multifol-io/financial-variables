@@ -1,45 +1,136 @@
 IL : CHICAGO
-  LOYOLA UNIVERSITY OF CHICAGO  361408475
-   [530]
-    2017: LOYOLA UNIVERSITY OF CHICAGO LEGAL PLAN
-        Participants: 
-   [529]
-    2022: LOYOLA UNIVERSITY OF CHICAGO HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2021: LOYOLA UNIVERSITY OF CHICAGO HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2020: LOYOLA UNIVERSITY OF CHICAGO HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2019: LOYOLA UNIVERSITY OF CHICAGO HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2018: LOYOLA UNIVERSITY OF CHICAGO HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-   [524]
-    2017: LOYOLA UNIVERSITY EMPLOYEE ASSISTANCE PLAN
-        Participants: 
-   [522]
-    2017: LOYOLA UNIVERSITY VISION PLAN
-        Participants: 
-   [519]
-    2017: GUARDIAN DENTAL MAINTENANCE ORGANIZATION PLAN
+  LOYOLA UNIVERSITY OF CHICAGO ATTN BENEFITS DEPARTMENT  361408475
+   [505]
+    2017: LOYOLA UNIVERSITY EMPLOYEE BLUE CROSS BLUE SHIELD HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 
    [516]
     2017: LOYOLA UNIVERSITY OF CHICAGO FLEXIBLE COMPENSATION PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 
-   [514]
-    2017: LOYOLA UNIVERSITY EMPLOYEE DENTAL INSURANCE PLAN
+   [529]
+    2022: LOYOLA UNIVERSITY OF CHICAGO HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4Q
         Participants: 
-   [505]
-    2017: LOYOLA UNIVERSITY EMPLOYEE BLUE CROSS BLUE SHIELD HEALTH CARE PLAN
+    2021: LOYOLA UNIVERSITY OF CHICAGO HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4Q
+        Participants: 
+    2020: LOYOLA UNIVERSITY OF CHICAGO HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4Q
+        Participants: 
+    2019: LOYOLA UNIVERSITY OF CHICAGO HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4Q
+        Participants: 
+    2018: LOYOLA UNIVERSITY OF CHICAGO HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4Q
+        Participants: 
+   [002]
+    2022: LOYOLA UNIVERSITY CHICAGO DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2R 
+        Participants: 8415
+        Assets: 998663620
+        $/Participant: 118676
+        RecordKeeper: TRANSAMERICA RETIREMENT SOLUTIONS
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2021: LOYOLA UNIVERSITY CHICAGO DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2R 
+        Participants: 8122
+        Assets: 1170700472
+        $/Participant: 144139
+        RecordKeeper: TEACHERS INSURANCE & ANNUITY ASSOC
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2020: LOYOLA UNIVERSITY CHICAGO DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2R 
+        Participants: 8061
+        Assets: 1062217166
+        $/Participant: 131772
+        RecordKeeper: TEACHERS INSURANCE & ANNUITY ASSOC
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2019: LOYOLA UNIVERSITY CHICAGO DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2R 
+        Participants: 8087
+        Assets: 974765279
+        $/Participant: 120534
+        RecordKeeper: TEACHERS INSURANCE & ANNUITY ASSOC
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2018: LOYOLA UNIVERSITY CHICAGO DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2R 
+        Participants: 7964
+        Assets: 839983717
+        $/Participant: 105472
+        RecordKeeper: TEACHERS INSURANCE & ANNUITY ASSOC
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2017: LOYOLA UNIVERSITY CHICAGO DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2R 
+        Participants: 3106
+        Assets: 874770957
+        $/Participant: 281639
+        RecordKeeper: FIDELITY INVESTMENT INSTL OPTS CO
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+   [503]
+    2017: LOYOLA UNIVERSITY EMPLOYEES GROUP LIFE INSURANCE
+        Benefit Category: Other
+        Codes:  4B
         Participants: 
    [504]
     2017: LOYOLA UNIVERSITY LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
         Participants: 
-   [503]
-    2017: LOYOLA UNIVERSITY EMPLOYEES GROUP LIFE INSURANCE
+   [514]
+    2017: LOYOLA UNIVERSITY EMPLOYEE DENTAL INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+   [519]
+    2017: GUARDIAN DENTAL MAINTENANCE ORGANIZATION PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+   [522]
+    2017: LOYOLA UNIVERSITY VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+   [524]
+    2017: LOYOLA UNIVERSITY EMPLOYEE ASSISTANCE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+   [530]
+    2017: LOYOLA UNIVERSITY OF CHICAGO LEGAL PLAN
+        Benefit Category: Other
+        Codes:  4G
         Participants: 
    [333]
     2022: LOYOLA UNIVERSITY EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 3350
         Assets: 154406596
         $/Participant: 46091
@@ -71,6 +162,8 @@ IL : CHICAGO
                  : WTC-CIF II SECURITIZED OPPORTUNITIE
                  : WTC-CIF OPPORTUNISTIC GROWTH PORTF
     2021: LOYOLA UNIVERSITY EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 3476
         Assets: 207073384
         $/Participant: 59572
@@ -100,6 +193,8 @@ IL : CHICAGO
                  : WTC-CIF II SECURITIZED OPPORTUNITIE
                  : WTC-CIF OPPORTUNISITIC GROWTH PORTF
     2020: LOYOLA UNIVERSITY EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 4673
         Assets: 245473282
         $/Participant: 52530
@@ -127,6 +222,8 @@ IL : CHICAGO
                  : WTC-CIF II SECURITIZED OPPORTUNITIE
                  : WTC-CIF OPPORTUNISTIC GROWTH PORTFO
     2019: LOYOLA UNIVERSITY EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 4843
         Assets: 225370697
         $/Participant: 46535
@@ -154,6 +251,8 @@ IL : CHICAGO
                  : WTC-CIF II SECURITIZED OPPORTUNITIE
                  : WTC-CIF OPPORTUNISTIC GROWTH PORTFO
     2018: LOYOLA UNIVERSITY EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 5065
         Assets: 213518059
         $/Participant: 42155
@@ -180,6 +279,8 @@ IL : CHICAGO
                  : WTC-CIF II SECURITIZED OPPORTUNITIE
                  : WTC-CIF OPPORTUNISTIC GROWTH PORTFO
     2017: LOYOLA UNIVERSITY EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 5288
         Assets: 225517659
         $/Participant: 42647
@@ -206,52 +307,3 @@ IL : CHICAGO
                  : OCM HIGH YIELD TRUST
            - WELLINGTON TRUST COMPANY NA
                  : WTC-CIF OPPORTUNISTIC GROWTH PORTFO
-   [002]
-    2022: LOYOLA UNIVERSITY CHICAGO DEFINED CONTRIBUTION RETIREMENT PLAN
-        Participants: 8415
-        Assets: 998663620
-        $/Participant: 118676
-        RecordKeeper: TRANSAMERICA RETIREMENT SOLUTIONS
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2021: LOYOLA UNIVERSITY CHICAGO DEFINED CONTRIBUTION RETIREMENT PLAN
-        Participants: 8122
-        Assets: 1170700472
-        $/Participant: 144139
-        RecordKeeper: TEACHERS INSURANCE & ANNUITY ASSOC
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2020: LOYOLA UNIVERSITY CHICAGO DEFINED CONTRIBUTION RETIREMENT PLAN
-        Participants: 8061
-        Assets: 1062217166
-        $/Participant: 131772
-        RecordKeeper: TEACHERS INSURANCE & ANNUITY ASSOC
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2019: LOYOLA UNIVERSITY CHICAGO DEFINED CONTRIBUTION RETIREMENT PLAN
-        Participants: 8087
-        Assets: 974765279
-        $/Participant: 120534
-        RecordKeeper: TEACHERS INSURANCE & ANNUITY ASSOC
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2018: LOYOLA UNIVERSITY CHICAGO DEFINED CONTRIBUTION RETIREMENT PLAN
-        Participants: 7964
-        Assets: 839983717
-        $/Participant: 105472
-        RecordKeeper: TEACHERS INSURANCE & ANNUITY ASSOC
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2017: LOYOLA UNIVERSITY CHICAGO DEFINED CONTRIBUTION RETIREMENT PLAN
-        Participants: 3106
-        Assets: 874770957
-        $/Participant: 281639
-        RecordKeeper: FIDELITY INVESTMENT INSTL OPTS CO
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE

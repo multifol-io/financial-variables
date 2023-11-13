@@ -1,45 +1,67 @@
 IL : SCHAUMBURG
   AMERICAN AGRICULTURAL INSURANCE COMPANY  362661954
-   [502]
-    2020: AMERICAN AGRICULTURAL INSURANCE COMPANY AND AFFILIATED COMPANIES EAP PLAN
-        Participants: 
-   [501]
-    2022: AMERICAN AGRICULTURAL INSURANCE COMPANY AND AFFILIATED COMPANIES WELFARE PLAN
-        Participants: 
-    2021: AMERICAN AGRICULTURAL INSURANCE COMPANY AND AFFILIATED COMPANIES WELFARE PLAN
-        Participants: 
-    2020: AMERICAN AGRICULTURAL INSURANCE COMPANY AND AFFILIATED COMPANIES WELFARE PLAN
-        Participants: 
-    2019: AMERICAN AGRICULTURAL INSURANCE COMPANY AND AFFILIATED COMPANIES WELFARE PLAN
-        Participants: 
    [002]
     2021: AMERICAN AGRICULTURAL INSURANCE COMPANY EMPLOYEES SAVINGS TRUST
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3H2E3D 
         Participants: 142
         Assets: 23866137
         $/Participant: 168071
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2020: AMERICAN AGRICULTURAL INSURANCE COMPANY EMPLOYEES SAVINGS TRUST
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3H2E3D 
         Participants: 135
         Assets: 27246434
         $/Participant: 201825
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2019: AMERICAN AGRICULTURAL INSURANCE COMPANY EMPLOYEES SAVINGS TRUST
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3H3D2E 
         Participants: 131
         Assets: 19926963
         $/Participant: 152114
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2018: AMERICAN AGRICULTURAL INSURANCE COMPANY EMPLOYEES SAVINGS TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 124
         Assets: 18605126
         $/Participant: 150041
         RecordKeeper: WELLS FARGO CLEARING SERVICES LLC
     2017: AMERICAN AGRICULTURAL INSURANCE COMPANY EMPLOYEES SAVINGS TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 125
         Assets: 18607334
         $/Participant: 148858
         RecordKeeper: WELLS FARGO CLEARING SERVICES LLC
+   [501]
+    2022: AMERICAN AGRICULTURAL INSURANCE COMPANY AND AFFILIATED COMPANIES WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2021: AMERICAN AGRICULTURAL INSURANCE COMPANY AND AFFILIATED COMPANIES WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2020: AMERICAN AGRICULTURAL INSURANCE COMPANY AND AFFILIATED COMPANIES WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2019: AMERICAN AGRICULTURAL INSURANCE COMPANY AND AFFILIATED COMPANIES WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+   [502]
+    2020: AMERICAN AGRICULTURAL INSURANCE COMPANY AND AFFILIATED COMPANIES EAP PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
    [001]
     2021: AMERICAN AGRICULTURAL INSURANCE COMPANY EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1F2K 
         Participants: 143
         Assets: 44480548
         $/Participant: 311052
@@ -56,6 +78,8 @@ IL : SCHAUMBURG
                  : NTCC EMERGING MARKETS FUND
                  : NTCC LONG CORPORATE FD FEBT
     2020: AMERICAN AGRICULTURAL INSURANCE COMPANY EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1F2K 
         Participants: 143
         Assets: 55489619
         $/Participant: 388039
@@ -72,6 +96,8 @@ IL : SCHAUMBURG
                  : NTCC EMERGING MARKETS FUND
                  : NTCC LONG CORPORATE FD FEBT
     2019: AMERICAN AGRICULTURAL INSURANCE COMPANY EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1F2K 
         Participants: 140
         Assets: 45993747
         $/Participant: 328526
@@ -89,6 +115,8 @@ IL : SCHAUMBURG
                  : NTCC EMERGING MARKETS FUND
                  : NTCC LONG CORPORATE FD FEBT
     2018: AMERICAN AGRICULTURAL INSURANCE COMPANY EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1F2K 
         Participants: 135
         Assets: 43062975
         $/Participant: 318985
@@ -105,6 +133,8 @@ IL : SCHAUMBURG
                  : NTCC EMERGING MARKETS FUND
                  : NTCC LONG CORPORATE FD FEBT
     2017: AMERICAN AGRICULTURAL INSURANCE COMPANY EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1F2K 
         Participants: 137
         Assets: 43869615
         $/Participant: 320216

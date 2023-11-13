@@ -1,21 +1,9 @@
 CT : STAMFORD
   NATWEST MARKETS PLC  131898944
-   [530]
-    2019: NATWEST MARKETS U.S. SEVERANCE PAY PLAN
-        Participants: 
-    2018: NATWEST MARKETS U.S. SEVERANCE PAY PLAN
-        Participants: 
-    2017: RBS U.S. SEVERANCE PAY PLAN
-        Participants: 
-   [520]
-    2019: NATWEST MARKETS HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: NATWEST MARKETS HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: RBS HEALTH AND WELFARE PLAN
-        Participants: 
    [002]
     2019: NATWEST MARKETS RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3H 
         Participants: 1976
         Assets: 555354992
         $/Participant: 281050
@@ -38,6 +26,8 @@ CT : STAMFORD
            - PRUDENTIAL
                  : PRUDENTIAL CORE PLUS BOND FUND 5
     2018: NATWEST MARKETS RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3H 
         Participants: 2143
         Assets: 495727557
         $/Participant: 231324
@@ -59,6 +49,8 @@ CT : STAMFORD
            - PRUDENTIAL
                  : CORE PLUS BOND FUND 5
     2017: RBS RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3H 
         Participants: 2373
         Assets: 576537370
         $/Participant: 242957
@@ -82,16 +74,35 @@ CT : STAMFORD
                  : PIMCO TOTAL RETURN
            - PRUDENTIAL
                  : CORE PLUS BOND FUND 5
+   [520]
+    2019: NATWEST MARKETS HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2018: NATWEST MARKETS HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2017: RBS HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
    [001]
     2019: RBS PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 0
         RecordKeeper: K & L GATES
     2018: RBS PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 1065
         Assets: 144444284
         $/Participant: 135628
         RecordKeeper: BANK OF NEW YORK MELLON
     2017: RBS PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 1076
         Assets: 143461750
         $/Participant: 133328
@@ -102,3 +113,16 @@ CT : STAMFORD
                  : LONG CORP BOND INDEX NON-LENDABLE
            - PRUDENTIAL TRUST CO
                  : PRU US LONG DURATION CORP BD
+   [530]
+    2019: NATWEST MARKETS U.S. SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2018: NATWEST MARKETS U.S. SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2017: RBS U.S. SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

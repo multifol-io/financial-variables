@@ -1,33 +1,9 @@
 IL : CHICAGO
   CLAUSEN MILLER PC  362921056
-   [502]
-    2022: GROUP DISABILITY PLAN FOR ALL FULL TIME EMPLOYEES
-        Participants: 155
-    2021: GROUP DISABILITY PLAN FOR ALL FULL TIME EMPLOYEES
-        Participants: 163
-    2020: GROUP DISABILITY PLAN FOR ALL FULL TIME EMPLOYEES
-        Participants: 174
-    2019: GROUP DISABILITY PLAN FOR ALL FULL TIME EMPLOYESS
-        Participants: 185
-    2018: GROUP DISABILITY PLAN FOR ALL FULL TIME EMPLOYEES
-        Participants: 168
-    2017: GROUP DISABILITY PLAN FOR ALL FULL TIME EMPLOYEES
-        Participants: 
-   [501]
-    2022: GROUP LIFE HEALTH PLAN FOR ALL EMPLOYEES
-        Participants: 151
-    2021: GROUP LIFE HEALTH PLAN FOR ALL EMPLOYEES
-        Participants: 154
-    2020: GROUP LIFE HEALTH PLAN FOR ALL EMPLOYEES
-        Participants: 166
-    2019: GROUP LIFE HEALTH PLAN FOR ALL EMPLOYEES
-        Participants: 176
-    2018: GROUP LIFE HEALTH PLAN FOR ALL EMPLOYEES
-        Participants: 157
-    2017: GROUP LIFE HEALTH PLAN FOR ALL EMPLOYEES
-        Participants: 
    [002]
     2022: CLAUSEN MILLER, P.C. 401 (K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2T3D2E2J2K2R 
         Participants: 285
         Assets: 69255731
         $/Participant: 243002
@@ -64,6 +40,8 @@ IL : CHICAGO
                  : CONSERVATIVE RISK FUND R2
                  : DIVERSIFIED GROWTH FUND R2
     2021: CLAUSEN MILLER, P.C. 401 (K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2T3D2E2J2K2R 
         Participants: 265
         Assets: 85229090
         $/Participant: 321619
@@ -99,6 +77,8 @@ IL : CHICAGO
                  : SMALL-MID CAP INDEX EQUITY
                  : STABLE ASSET RETURN FUND
     2020: CLAUSEN MILLER, P.C. 401 (K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2T3D2E2J2K2R 
         Participants: 265
         Assets: 75107118
         $/Participant: 283423
@@ -129,6 +109,8 @@ IL : CHICAGO
                  : SMALL-MID CAP INDEX EQUITY R2
                  : STABLE ASSET RETURN FUND R2
     2019: CLAUSEN MILLER, P.C. 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2T3D2E2J2K2R 
         Participants: 266
         Assets: 67650045
         $/Participant: 254323
@@ -160,6 +142,8 @@ IL : CHICAGO
                  : SMALL-MID CAP INDEX EQUITY R2
                  : STABLE ASSET RETURN FUND R2
     2018: CLAUSEN MILLER, P.C. 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2T3D2E2J2K2R 
         Participants: 277
         Assets: 59598129
         $/Participant: 215155
@@ -190,6 +174,8 @@ IL : CHICAGO
                  : SMALL-MID CAP INDEX EQUITY FUND
                  : STABLE ASSET RETURN FUND
     2017: CLAUSEN MILLER, P.C. 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2T3D2E2J2K2R 
         Participants: 297
         Assets: 69407204
         $/Participant: 233694
@@ -218,3 +204,53 @@ IL : CHICAGO
                  : SMALL CAP INDEX EQUITY FUND
                  : SMALL-MID CAP EQUITY FUND
                  : STABLE ASSET RETURN FUND
+   [501]
+    2022: GROUP LIFE HEALTH PLAN FOR ALL EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4D4L
+        Participants: 151
+    2021: GROUP LIFE HEALTH PLAN FOR ALL EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L
+        Participants: 154
+    2020: GROUP LIFE HEALTH PLAN FOR ALL EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L
+        Participants: 166
+    2019: GROUP LIFE HEALTH PLAN FOR ALL EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L
+        Participants: 176
+    2018: GROUP LIFE HEALTH PLAN FOR ALL EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L
+        Participants: 157
+    2017: GROUP LIFE HEALTH PLAN FOR ALL EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L
+        Participants: 
+   [502]
+    2022: GROUP DISABILITY PLAN FOR ALL FULL TIME EMPLOYEES
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 155
+    2021: GROUP DISABILITY PLAN FOR ALL FULL TIME EMPLOYEES
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 163
+    2020: GROUP DISABILITY PLAN FOR ALL FULL TIME EMPLOYEES
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 174
+    2019: GROUP DISABILITY PLAN FOR ALL FULL TIME EMPLOYESS
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 185
+    2018: GROUP DISABILITY PLAN FOR ALL FULL TIME EMPLOYEES
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 168
+    2017: GROUP DISABILITY PLAN FOR ALL FULL TIME EMPLOYEES
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 

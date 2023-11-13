@@ -1,85 +1,9 @@
 DC : WASHINGTON
   AMERICAN PETROLEUM INSTITUTE  130433430
-   [508]
-    2022: API GROUP LIFE AND AD&D INSURANCE
-        Participants: 
-    2021: API GROUP LIFE AND AD&D INSURANCE
-        Participants: 
-    2020: API GROUP LIFE AND AD&D INSURANCE
-        Participants: 
-    2019: API GROUP LIFE AND AD&D INSURANCE
-        Participants: 
-    2018: API GROUP LIFE AND AD&D INSURANCE
-        Participants: 
-    2017: API GROUP LIFE AND AD&D INSURANCE
-        Participants: 
-   [507]
-    2022: API SEVERANCE PLAN
-        Participants: 
-    2021: API SEVERANCE PLAN
-        Participants: 
-    2020: API SEVERANCE PLAN
-        Participants: 
-    2019: API SEVERANCE PLAN
-        Participants: 
-    2018: API SEVERANCE PLAN
-        Participants: 
-    2017: API SEVERANCE PLAN
-        Participants: 
-   [505]
-    2022: API LONG TERM DISABILITY PLAN
-        Participants: 
-    2021: API LONG TERM DISABILITY PLAN
-        Participants: 
-    2020: API LONG TERM DISABILITY PLAN
-        Participants: 
-    2019: API LONG TERM DISABILITY PLAN
-        Participants: 
-    2018: API LONG TERM DISABILITY PLAN
-        Participants: 
-    2017: API LONG TERM DISABILITY PLAN
-        Participants: 
-   [504]
-    2022: API VOLUNTARY LIFE & ACCIDENT PLAN
-        Participants: 
-    2021: API VOLUNTARY LIFE & ACCIDENT PLAN
-        Participants: 
-    2020: API VOLUNTARY LIFE & ACCIDENT PLAN
-        Participants: 
-    2019: API VOLUNTARY LIFE & ACCIDENT PLAN
-        Participants: 
-    2018: API VOLUNTARY LIFE & ACCIDENT PLAN
-        Participants: 
-    2017: API VOLUNTARY LIFE & ACCIDENT PLAN
-        Participants: 
-   [503]
-    2022: API TRAVEL ACCIDENT PLAN
-        Participants: 
-    2021: API TRAVEL ACCIDENT PLAN
-        Participants: 
-    2020: API TRAVEL ACCIDENT PLAN
-        Participants: 
-    2019: API TRAVEL ACCIDENT PLAN
-        Participants: 
-    2018: API TRAVEL ACCIDENT PLAN
-        Participants: 
-    2017: API TRAVEL ACCIDENT PLAN
-        Participants: 
-   [501]
-    2022: API GROUP HEALTH INSURANCE PLAN
-        Participants: 
-    2021: API GROUP HEALTH INSURANCE PLAN
-        Participants: 
-    2020: API GROUP HEALTH INSURANCE PLAN
-        Participants: 
-    2019: API GROUP HEALTH INSURANCE PLAN
-        Participants: 
-    2018: API GROUP HEALTH INSURANCE PLAN
-        Participants: 
-    2017: API GROUP HEALTH INSURANCE PLAN
-        Participants: 
    [002]
     2022: AMERICAN PETROLEUM INSTITUTE 401(K) DEFINED CONTRIBUTION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 503
         Assets: 106150167
         $/Participant: 211034
@@ -102,6 +26,8 @@ DC : WASHINGTON
            - T. ROWE PRICES
                  : T. ROWE PRICE RETIREMENT 2060 TRUST
     2021: AMERICAN PETROLEUM INSTITUTE 401(K) DEFINED CONTRIBUTION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 489
         Assets: 131578927
         $/Participant: 269077
@@ -124,6 +50,8 @@ DC : WASHINGTON
            - T. ROWE PRICES
                  : T. ROWE PRICE RETIREMENT 2060 TRUST
     2020: AMERICAN PETROLEUM INSTITUTE 401(K) DEFINED CONTRIBUTION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 479
         Assets: 116310346
         $/Participant: 242819
@@ -146,6 +74,8 @@ DC : WASHINGTON
            - T. ROWE PRICES
                  : T. ROWE PRICE RETIREMENT 2060 TRUST
     2019: AMERICAN PETROLEUM INSTITUTE 401(K) DEFINED CONTRIBUTION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T 
         Participants: 463
         Assets: 101039200
         $/Participant: 218227
@@ -168,6 +98,8 @@ DC : WASHINGTON
            - T. ROWE PRICES
                  : T. ROWE PRICE RETIREMENT 2060 TRUST
     2018: AMERICAN PETROLEUM INSTITUTE 401(K) DEFINED CONTRIBUTION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T 
         Participants: 431
         Assets: 84156351
         $/Participant: 195258
@@ -190,6 +122,8 @@ DC : WASHINGTON
            - T. ROWE PRICES
                  : T. ROWE PRICE RETIREMENT 2060 TRUST
     2017: AMERICAN PETROLEUM INSTITUTE 401(K) DEFINED CONTRIBUTION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T 
         Participants: 404
         Assets: 88732428
         $/Participant: 219634
@@ -197,8 +131,135 @@ DC : WASHINGTON
         Available Investments:
            - AMERIPRISE TRUST COMPANY
                  : COLUMBIA TRUST STABLE INCOME II-15
+   [501]
+    2022: API GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2021: API GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2020: API GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2019: API GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2018: API GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2017: API GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+   [503]
+    2022: API TRAVEL ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2021: API TRAVEL ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2020: API TRAVEL ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2019: API TRAVEL ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2018: API TRAVEL ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2017: API TRAVEL ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+   [504]
+    2022: API VOLUNTARY LIFE & ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2021: API VOLUNTARY LIFE & ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2020: API VOLUNTARY LIFE & ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2019: API VOLUNTARY LIFE & ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2018: API VOLUNTARY LIFE & ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L4B
+        Participants: 
+    2017: API VOLUNTARY LIFE & ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L4B
+        Participants: 
+   [505]
+    2022: API LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2021: API LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2020: API LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2019: API LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2018: API LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2017: API LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+   [508]
+    2022: API GROUP LIFE AND AD&D INSURANCE
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2021: API GROUP LIFE AND AD&D INSURANCE
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2020: API GROUP LIFE AND AD&D INSURANCE
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2019: API GROUP LIFE AND AD&D INSURANCE
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2018: API GROUP LIFE AND AD&D INSURANCE
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2017: API GROUP LIFE AND AD&D INSURANCE
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
    [001]
     2022: AMERICAN PETROLEUM INSTITUTE RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 632
         Assets: 72883135
         $/Participant: 115321
@@ -218,6 +279,8 @@ DC : WASHINGTON
                  : GS LNG TRS STRIPS COLL
                  : GS LONG DURPI FI COLL
     2021: AMERICAN PETROLEUM INSTITUTE RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 684
         Assets: 96915102
         $/Participant: 141688
@@ -238,6 +301,8 @@ DC : WASHINGTON
                  : GS LNG TRS STRIPS COLL
                  : GS LONG DURPI FI COLL
     2020: AMERICAN PETROLEUM INSTITUTE RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 718
         Assets: 90211874
         $/Participant: 125643
@@ -260,6 +325,8 @@ DC : WASHINGTON
                  : GS LNG TRS STRIPS COLL
                  : GS LONG DURPI FI COLL
     2019: AMERICAN PETROLEUM INSTITUTE RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 729
         Assets: 92833054
         $/Participant: 127343
@@ -282,6 +349,8 @@ DC : WASHINGTON
                  : GS LNG TRS STRIPS COLL
                  : GS LONG DURPI FI COLL
     2018: AMERICAN PETROLEUM INSTITUTE RETIREMENT INCOME
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 713
         Assets: 82217768
         $/Participant: 115312
@@ -299,6 +368,8 @@ DC : WASHINGTON
                  : SMALL CAP GROWTH/TIMESSQUARE
                  : SMALL CAP VALUE/SILVERCREST
     2017: AMERICAN PETROLEUM INSTITUTE RETIREMENT INCOME
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 699
         Assets: 86301659
         $/Participant: 123464
@@ -317,3 +388,28 @@ DC : WASHINGTON
                  : PRUDENTIAL SHORT-TERM
                  : SMALL CAP GROWTH/TIMESSQUARE
                  : SMALL CAP VALUE/SILVERCREST
+   [507]
+    2022: API SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2021: API SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2020: API SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2019: API SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2018: API SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2017: API SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

@@ -1,67 +1,9 @@
 DC : WASHINGTON
   NATIONAL TREASURY EMPLOYEES UNION  530244795
-   [503]
-    2021: NATIONAL TREASURY EMPLOYEES UNION HEALTH PLAN
-        Participants: 119
-    2020: NATIONAL TREASURY EMPLOYEES UNION HEALTH PLAN
-        Participants: 111
-    2019: NATIONAL TREASURY EMPLOYEES UNION HEALTH PLAN
-        Participants: 114
-    2018: NATIONAL TREASURY EMPLOYEES UNION HEALTH PLAN
-        Participants: 107
-    2017: NATIONAL TREASURY EMPLOYEES UNION HEALTH PLAN
-        Participants: 109
-   [002]
-    2022: N.T.E.U. MONEY PURCHASE PLAN
-        Participants: 176
-        Assets: 14001158
-        $/Participant: 79552
-        RecordKeeper: THE VANGUARD GROUP, INC.
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC RETIREMENT SAVINGS TRUST
-    2021: N.T.E.U. MONEY PURCHASE PLAN
-        Participants: 169
-        Assets: 16069431
-        $/Participant: 95085
-        RecordKeeper: THE VANGUARD GROUP, INC.
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC RETIREMENT SAVINGS TRUST
-    2020: N.T.E.U. MONEY PURCHASE PLAN
-        Participants: 168
-        Assets: 15286329
-        $/Participant: 90990
-        RecordKeeper: THE VANGUARD GROUP, INC.
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC RETIREMENT SAVINGS TRUST
-    2019: N.T.E.U. MONEY PURCHASE PLAN
-        Participants: 162
-        Assets: 12936261
-        $/Participant: 79853
-        RecordKeeper: THE VANGUARD GROUP, INC.
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC RETIREMENT SAVINGS TRUST
-    2018: N.T.E.U. MONEY PURCHASE PLAN
-        Participants: 162
-        Assets: 11670360
-        $/Participant: 72039
-        RecordKeeper: THE VANGUARD GROUP, INC.
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC RETIREMENT SAVINGS TRUST
-    2017: N.T.E.U. MONEY PURCHASE PLAN
-        Participants: 163
-        Assets: 11643519
-        $/Participant: 71432
-        RecordKeeper: THE VANGUARD GROUP, INC.
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC RETIREMENT SAVINGS TRUST
    [001]
     2022: N.T.E.U. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 202
         Assets: 50665680
         $/Participant: 250820
@@ -70,6 +12,8 @@ DC : WASHINGTON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST
     2021: N.T.E.U. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 198
         Assets: 64953651
         $/Participant: 328048
@@ -78,6 +22,8 @@ DC : WASHINGTON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST
     2020: N.T.E.U. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 194
         Assets: 60391454
         $/Participant: 311296
@@ -86,6 +32,8 @@ DC : WASHINGTON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST
     2019: N.T.E.U. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 194
         Assets: 52220823
         $/Participant: 269179
@@ -94,6 +42,8 @@ DC : WASHINGTON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST
     2018: N.T.E.U. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 193
         Assets: 47526590
         $/Participant: 246251
@@ -102,9 +52,93 @@ DC : WASHINGTON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST
     2017: N.T.E.U. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 189
         Assets: 49542067
         $/Participant: 262127
+        RecordKeeper: THE VANGUARD GROUP, INC.
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC RETIREMENT SAVINGS TRUST
+   [503]
+    2021: NATIONAL TREASURY EMPLOYEES UNION HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 119
+    2020: NATIONAL TREASURY EMPLOYEES UNION HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 111
+    2019: NATIONAL TREASURY EMPLOYEES UNION HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 114
+    2018: NATIONAL TREASURY EMPLOYEES UNION HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 107
+    2017: NATIONAL TREASURY EMPLOYEES UNION HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 109
+   [002]
+    2022: N.T.E.U. MONEY PURCHASE PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2T3D 
+        Participants: 176
+        Assets: 14001158
+        $/Participant: 79552
+        RecordKeeper: THE VANGUARD GROUP, INC.
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC RETIREMENT SAVINGS TRUST
+    2021: N.T.E.U. MONEY PURCHASE PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2T3D 
+        Participants: 169
+        Assets: 16069431
+        $/Participant: 95085
+        RecordKeeper: THE VANGUARD GROUP, INC.
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC RETIREMENT SAVINGS TRUST
+    2020: N.T.E.U. MONEY PURCHASE PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2T3D 
+        Participants: 168
+        Assets: 15286329
+        $/Participant: 90990
+        RecordKeeper: THE VANGUARD GROUP, INC.
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC RETIREMENT SAVINGS TRUST
+    2019: N.T.E.U. MONEY PURCHASE PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2T3D 
+        Participants: 162
+        Assets: 12936261
+        $/Participant: 79853
+        RecordKeeper: THE VANGUARD GROUP, INC.
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC RETIREMENT SAVINGS TRUST
+    2018: N.T.E.U. MONEY PURCHASE PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2T3D 
+        Participants: 162
+        Assets: 11670360
+        $/Participant: 72039
+        RecordKeeper: THE VANGUARD GROUP, INC.
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC RETIREMENT SAVINGS TRUST
+    2017: N.T.E.U. MONEY PURCHASE PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2T3D 
+        Participants: 163
+        Assets: 11643519
+        $/Participant: 71432
         RecordKeeper: THE VANGUARD GROUP, INC.
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY

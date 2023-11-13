@@ -1,20 +1,9 @@
 GA : TUCKER
   GEORGIA TRANSMISSION CORPORATION  582231201
-   [520]
-    2022: GEORGIA TRANSMISSION CORPORATION HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: GEORGIA TRANSMISSION CORPORATION HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: GEORGIA TRANSMISSION CORPORATION HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: GEORGIA TRANSMISSION CORPORATION HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: GEORGIA TRANSMISSION CORPORATION HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: GEORGIA TRANSMISSION CORPORATION HEALTH AND WELFARE PLAN
-        Participants: 
    [003]
     2022: GEORGIA TRANSMISSION CORPORATION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 383
         Assets: 183372665
         $/Participant: 478779
@@ -44,6 +33,8 @@ GA : TUCKER
                  : VANGUARD TARGET 2070
                  : VANGUARD TARGET INC
     2021: GEORGIA TRANSMISSION CORPORATION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D2R 
         Participants: 343
         Assets: 220370087
         $/Participant: 642478
@@ -59,6 +50,8 @@ GA : TUCKER
            - LOOMIS SAYLES TRUST COMPANY, LLC
                  : LS CORE PL FXINC C
     2020: GEORGIA TRANSMISSION CORPORATION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 346
         Assets: 190831225
         $/Participant: 551535
@@ -67,6 +60,8 @@ GA : TUCKER
            - INVESCO TRUST COMPANY
                  : INVESCO STBL VAL A3
     2019: GEORGIA TRANSMISSION CORPORATION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 335
         Assets: 161048660
         $/Participant: 480742
@@ -75,6 +70,8 @@ GA : TUCKER
            - AMVESCAP NATIONAL TRUST COMPANY
                  : INVESCO STBL VAL A3
     2018: GEORGIA TRANSMISSION CORPORATION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2E2T3D 
         Participants: 331
         Assets: 130345725
         $/Participant: 393793
@@ -83,6 +80,8 @@ GA : TUCKER
            - AMVESCAP NATIONAL TRUST COMPANY
                  : INVESCO STBL VAL III
     2017: GEORGIA TRANSMISSION CORPORATION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D2R 
         Participants: 321
         Assets: 139100800
         $/Participant: 433335
@@ -90,3 +89,28 @@ GA : TUCKER
         Available Investments:
            - AMVESCAP NATIONAL TRUST COMPANY
                  : INVESCO STBL VAL III
+   [520]
+    2022: GEORGIA TRANSMISSION CORPORATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2021: GEORGIA TRANSMISSION CORPORATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4Q
+        Participants: 
+    2020: GEORGIA TRANSMISSION CORPORATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4Q
+        Participants: 
+    2019: GEORGIA TRANSMISSION CORPORATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4Q
+        Participants: 
+    2018: GEORGIA TRANSMISSION CORPORATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 
+    2017: GEORGIA TRANSMISSION CORPORATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 

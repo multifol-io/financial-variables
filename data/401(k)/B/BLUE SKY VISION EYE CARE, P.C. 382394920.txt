@@ -1,28 +1,9 @@
 MI : GRAND RAPIDS
-  GRAND RAPIDS OPHTHALMOLOGY, PC  382394920
-   [506]
-    2018: GRAND RAPIDS OPHTHALMOLOGY, PC EMPLOYEE BENEFIT PLAN
-        Participants: 
-   [505]
-    2017: GRAND RAPIDS OPHTHALMOLOGY PC
-        Participants: 
-   [504]
-    2017: GRAND RAPIDS OPHTHALMOLOGY PC EMPLOYEE LONG TERM DISABILITY PLAN
-        Participants: 
-   [502]
-    2017: GRAND RAPIDS OPHTHALMOLOGY, PC EMPLOYEE BENEFIT PLAN
-        Participants: 
-MO : BALLWIN
-   [501]
-    2022: BLUE SKY VISION EYE CARE EMPLOYEE HEALTH PLAN
-        Participants: 
-    2021: BLUE SKY VISION EYE CARE EMPLOYEE HEALTH & WELFARE BENEFITS PLAN
-        Participants: 
-MI : GRAND RAPIDS
-    2017: GRAND RAPIDS OPHTHALMOLOGY, PC EMPLOYEE DENTAL PLAN
-        Participants: 
+  BLUE SKY VISION EYE CARE, P.C.  382394920
    [005]
     2022: BLUE SKY VISION, LLC SAVINGS AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E3D2G2J2K2F2T 
         Participants: 1
         Assets: 758146
         $/Participant: 758146
@@ -32,6 +13,8 @@ MI : GRAND RAPIDS
            - RELIANCE TRUST COMPANY
                  : RELIANCE TRUST CTF REAL ESTATE PORT
     2021: BLUE SKY VISION, LLC SAVINGS AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E3D2G2J2K2F2T 
         Participants: 1025
         Assets: 63872599
         $/Participant: 62314
@@ -42,6 +25,8 @@ MI : GRAND RAPIDS
            - RELIANCE TRUST COMPANY
                  : RELIANCE TRUST CTF REAL ESTATE PORT
     2020: BLUE SKY VISION, LLC SAVINGS AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E3D2G2J2K2F2T 
         Participants: 995
         Assets: 58295521
         $/Participant: 58588
@@ -52,6 +37,8 @@ MI : GRAND RAPIDS
            - RELIANCE TRUST COMPANY
                  : RELIANCE TRUST CTF REAL ESTATE PORT
     2019: BLUE SKY VISION, LLC SAVINGS AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E3D2G2J2K2F2T 
         Participants: 852
         Assets: 50179561
         $/Participant: 58896
@@ -66,6 +53,8 @@ MI : GRAND RAPIDS
            - METLIFE (RELIANCE TRUST)
                  : METLIFE GAC-25157 CLASS 0
     2018: BLUE SKY VISION, LLC SAVINGS AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D3H 
         Participants: 613
         Assets: 31191241
         $/Participant: 50882
@@ -76,6 +65,8 @@ MI : GRAND RAPIDS
            - FLEXPATH STRATEGIES LLC
                  : FLEXPATH INDEX
     2017: BLUE SKY VISION, LLC SAVINGS AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R3H2T3D 
         Participants: 445
         Assets: 32205641
         $/Participant: 72372
@@ -83,3 +74,39 @@ MI : GRAND RAPIDS
         Available Investments:
            - AMVESCAP NATIONAL TRUST COMPANY
                  : INVESCO STABLE VALUE TRUST
+MO : BALLWIN
+   [501]
+    2022: BLUE SKY VISION EYE CARE EMPLOYEE HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: BLUE SKY VISION EYE CARE EMPLOYEE HEALTH & WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L4S
+        Participants: 
+MI : GRAND RAPIDS
+   [502]
+    2017: GRAND RAPIDS OPHTHALMOLOGY, PC EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4H4B4L
+        Participants: 
+   [506]
+    2018: GRAND RAPIDS OPHTHALMOLOGY, PC EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [501]
+    2017: GRAND RAPIDS OPHTHALMOLOGY, PC EMPLOYEE DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D4R
+        Participants: 
+   [504]
+    2017: GRAND RAPIDS OPHTHALMOLOGY PC EMPLOYEE LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H4R
+        Participants: 
+   [505]
+    2017: GRAND RAPIDS OPHTHALMOLOGY PC
+        Benefit Category: Other
+        Codes:  4B4L4R
+        Participants: 

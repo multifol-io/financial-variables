@@ -1,73 +1,9 @@
 NY : NEW YORK
   LOEWS CORPORATION  132646102
-   [518]
-    2022: LOEWS CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2021: LOEWS CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2020: LOEWS CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2019: LOEWS CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2018: LOEWS CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2017: LOEWS CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-   [512]
-    2022: LOEWS CORPORATION SURVIVOR'S INCOME PLAN
-        Participants: 
-        Assets: 937467
-        $/Participant: 
-        Service Providers:
-           - DELOITTE & TOUCHE LLP :  (Accounting(including auditing) | Direct payment from the plan)
-           - BUCK GLOBAL, LLC :  (Actuarial | Direct payment from the plan)
-    2021: LOEWS CORPORATION SURVIVOR'S INCOME PLAN
-        Participants: 
-        Assets: 983052
-        $/Participant: 
-        Service Providers:
-           - DELOITTE & TOUCHE LLP :  (Accounting(including auditing) | Direct payment from the plan)
-           - BUCK GLOBAL, LLC :  (Actuarial | Direct payment from the plan)
-    2020: LOEWS CORPORATION SURVIVOR'S INCOME PLAN
-        Participants: 
-        Assets: 1042041
-        $/Participant: 
-        Service Providers:
-           - DELOITTE & TOUCHE LLP :  (Accounting(including auditing) | Direct payment from the plan)
-           - BUCK GLOBAL, LLC :  (Actuarial | Direct payment from the plan)
-    2019: LOEWS CORPORATION SURVIVOR'S INCOME PLAN
-        Participants: 
-        Assets: 1093123
-        $/Participant: 
-        Service Providers:
-           - DELOITTE & TOUCHE LLP :  (Accounting(including auditing) | Direct payment from the plan)
-           - BUCK GLOBAL, LLC :  (Actuarial | Direct payment from the plan)
-    2018: LOEWS CORPORATION SURVIVOR'S INCOME PLAN
-        Participants: 
-        Assets: 1166736
-        $/Participant: 
-        Service Providers:
-           - DELOITTE & TOUCHE LLP :  (Accounting(including auditing) | Direct payment from the plan)
-    2017: LOEWS CORPORATION SURVIVOR'S INCOME PLAN
-        Participants: 
-        Assets: 1137884
-        $/Participant: 
-        Service Providers:
-           - DELOITTE & TOUCHE LLP :  (Accounting(including auditing) | Direct payment from the plan)
-           - TOWERS WATSON DELAWARE, INC. :  (Actuarial | Direct payment from the plan)
-   [505]
-    2022: LOEWS CORPORATION GROUP TRAVEL ACCIDENT PLAN
-        Participants: 
-    2021: LOEWS CORPORATION GROUP TRAVEL ACCIDENT PLAN
-        Participants: 
-    2020: LOEWS CORPORATION GROUP TRAVEL ACCIDENT PLAN
-        Participants: 
-    2019: LOEWS CORPORATION GROUP TRAVEL ACCIDENT PLAN
-        Participants: 
-    2018: LOEWS CORPORATION GROUP TRAVEL ACCIDENT PLAN
-        Participants: 
    [023]
     2022: LOEWS CORPORATION EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2K2R 
         Participants: 314
         Assets: 114842251
         $/Participant: 365739
@@ -88,6 +24,8 @@ NY : NEW YORK
                  : RETIREMENT 2060 TRUST FUND
                  : T. ROWE PRICE STABLE VALUE FUND
     2021: LOEWS CORPORATION EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2K2R 
         Participants: 367
         Assets: 145617896
         $/Participant: 396779
@@ -108,6 +46,8 @@ NY : NEW YORK
                  : RETIREMENT 2060 TRUST FUND
                  : T. ROWE PRICE STABLE VALUE FUND
     2020: LOEWS CORPORATION EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2K2R 
         Participants: 352
         Assets: 125567007
         $/Participant: 356724
@@ -128,6 +68,8 @@ NY : NEW YORK
                  : RETIREMENT 2060 TRUST FUND
                  : T. ROWE PRICE STABLE VALUE FUND
     2019: LOEWS CORPORATION EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2K2R 
         Participants: 4867
         Assets: 281995969
         $/Participant: 57940
@@ -148,6 +90,8 @@ NY : NEW YORK
                  : RETIREMENT 2060 TRUST FUND
                  : T. ROWE PRICE STABLE VALUE FUND
     2018: LOEWS CORPORATION EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2K2R 
         Participants: 4862
         Assets: 231826703
         $/Participant: 47681
@@ -156,6 +100,8 @@ NY : NEW YORK
            - T. ROWE PRICE TRUST COMPANY
                  : T. ROWE PRICE STABLE VALUE FUND
     2017: LOEWS CORPORATION EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2K2R 
         Participants: 4891
         Assets: 234979076
         $/Participant: 48043
@@ -165,8 +111,35 @@ NY : NEW YORK
         Available Investments:
            - T. ROWE PRICE TRUST COMPANY
                  : T. ROWE PRICE STABLE VALUE FUND
+   [518]
+    2022: LOEWS CORPORATION HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 
+    2021: LOEWS CORPORATION HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 
+    2020: LOEWS CORPORATION HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 
+    2019: LOEWS CORPORATION HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 
+    2018: LOEWS CORPORATION HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 
+    2017: LOEWS CORPORATION HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 
    [021]
     2022: LOEWS CORPORATION CASH BALANCE RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 1C1H 
         Participants: 1993
         Assets: 108679088
         $/Participant: 54530
@@ -182,6 +155,8 @@ NY : NEW YORK
            - LOEWS CORPORATION
                  : LOEWS CO MASTER RETIREMENT TRUST
     2021: LOEWS CORPORATION CASH BALANCE RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 1C 
         Participants: 2071
         Assets: 135978755
         $/Participant: 65658
@@ -189,6 +164,8 @@ NY : NEW YORK
            - LOEWS CORPORATION
                  : LOEWS CO MASTER RETIREMENT TRUST
     2020: LOEWS CORPORATION CASH BALANCE RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 1C 
         Participants: 2239
         Assets: 132092994
         $/Participant: 58996
@@ -196,6 +173,8 @@ NY : NEW YORK
            - LOEWS CORPORATION
                  : LOEWS CO MASTER RETIREMENT TRUST
     2019: LOEWS CORPORATION CASH BALANCE RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 1C 
         Participants: 2439
         Assets: 131663078
         $/Participant: 53982
@@ -203,6 +182,8 @@ NY : NEW YORK
            - LOEWS CORPORATION
                  : LOEWS CO MASTER RETIREMENT TRUST
     2018: LOEWS CORPORATION CASH BALANCE RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 1C 
         Participants: 2426
         Assets: 107737309
         $/Participant: 44409
@@ -210,9 +191,86 @@ NY : NEW YORK
            - LOEWS CORPORATION
                  : LOEWS CO MASTER RETIREMENT TRUST
     2017: LOEWS CORPORATION CASH BALANCE RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 1C 
         Participants: 2375
         Assets: 119280999
         $/Participant: 50223
         Available Investments:
            - LOEWS CORPORATION
                  : LOEWS CO MASTER RETIREMENT TRUST
+   [505]
+    2022: LOEWS CORPORATION GROUP TRAVEL ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2021: LOEWS CORPORATION GROUP TRAVEL ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2020: LOEWS CORPORATION GROUP TRAVEL ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2019: LOEWS CORPORATION GROUP TRAVEL ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2018: LOEWS CORPORATION GROUP TRAVEL ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+   [512]
+    2022: LOEWS CORPORATION SURVIVOR'S INCOME PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+        Assets: 937467
+        $/Participant: 
+        Service Providers:
+           - DELOITTE & TOUCHE LLP :  (Accounting(including auditing) | Direct payment from the plan)
+           - BUCK GLOBAL, LLC :  (Actuarial | Direct payment from the plan)
+    2021: LOEWS CORPORATION SURVIVOR'S INCOME PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+        Assets: 983052
+        $/Participant: 
+        Service Providers:
+           - DELOITTE & TOUCHE LLP :  (Accounting(including auditing) | Direct payment from the plan)
+           - BUCK GLOBAL, LLC :  (Actuarial | Direct payment from the plan)
+    2020: LOEWS CORPORATION SURVIVOR'S INCOME PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+        Assets: 1042041
+        $/Participant: 
+        Service Providers:
+           - DELOITTE & TOUCHE LLP :  (Accounting(including auditing) | Direct payment from the plan)
+           - BUCK GLOBAL, LLC :  (Actuarial | Direct payment from the plan)
+    2019: LOEWS CORPORATION SURVIVOR'S INCOME PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+        Assets: 1093123
+        $/Participant: 
+        Service Providers:
+           - DELOITTE & TOUCHE LLP :  (Accounting(including auditing) | Direct payment from the plan)
+           - BUCK GLOBAL, LLC :  (Actuarial | Direct payment from the plan)
+    2018: LOEWS CORPORATION SURVIVOR'S INCOME PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+        Assets: 1166736
+        $/Participant: 
+        Service Providers:
+           - DELOITTE & TOUCHE LLP :  (Accounting(including auditing) | Direct payment from the plan)
+    2017: LOEWS CORPORATION SURVIVOR'S INCOME PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+        Assets: 1137884
+        $/Participant: 
+        Service Providers:
+           - DELOITTE & TOUCHE LLP :  (Accounting(including auditing) | Direct payment from the plan)
+           - TOWERS WATSON DELAWARE, INC. :  (Actuarial | Direct payment from the plan)

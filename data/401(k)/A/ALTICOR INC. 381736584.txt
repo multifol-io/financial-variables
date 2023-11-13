@@ -1,52 +1,9 @@
 MI : ADA
-  ALTICOR, INC.  381736584
-   [521]
-    2022: AMWAY RETIREE HEALTH ACCESS PLAN
-        Participants: 
-    2021: AMWAY RETIREE HEALTH ACCESS PLAN
-        Participants: 
-    2020: AMWAY RETIREE HEALTH ACCESS PLAN
-        Participants: 
-    2019: AMWAY RETIREE HEALTH ACCESS PLAN
-        Participants: 
-    2018: AMWAY RETIREE HEALTH ACCESS PLAN
-        Participants: 
-    2017: AMWAY RETIREE HEALTH ACCESS PLAN
-        Participants: 
-   [518]
-    2022: AMWAY VOLUNTARY SEVERANCE PLAN
-        Participants: 
-    2021: AMWAY VOLUNTARY SEVERANCE PLAN
-        Participants: 
-   [516]
-    2022: THE AMWAY AMENDED AND RESTATED EXECUTIVE SEVERANCE PLAN
-        Participants: 
-    2021: THE AMWAY AMENDED AND RESTATED EXECUTIVE SEVERANCE PROGRAM
-        Participants: 
-    2020: THE AMWAY AMENDED AND RESTATED EXECUTIVE SEVERANCE PROGRAM
-        Participants: 
-   [515]
-    2022: THE AMWAY AMENDED AND RESTATED SEVERANCE PLAN
-        Participants: 
-    2021: THE AMWAY AMENDED AND RESTATED SEVERANCE PROGRAM
-        Participants: 
-    2020: THE AMWAY AMENDED AND RESTATED SEVERANCE PROGRAM
-        Participants: 
-   [503]
-    2022: AMWAY EMPLOYEE HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: AMWAY EMPLOYEE HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: AMWAY EMPLOYEE HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: AMWAY EMPLOYEE HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: AMWAY EMPLOYEE HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: AMWAY EMPLOYEE HEALTH AND WELFARE PLAN
-        Participants: 
+  ALTICOR INC.  381736584
    [002]
     2022: AMWAY RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3F3H 
         Participants: 5127
         Assets: 1119399134
         $/Participant: 218334
@@ -70,6 +27,8 @@ MI : ADA
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MANAGED INCOME PORTFOLIO II COMINGL
     2021: AMWAY RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3F3H 
         Participants: 5084
         Assets: 1533293009
         $/Participant: 301591
@@ -92,6 +51,8 @@ MI : ADA
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MANAGED INCOME PORTFOLIO II COMINGL
     2020: AMWAY RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3F3H 
         Participants: 5330
         Assets: 1490291509
         $/Participant: 279604
@@ -114,6 +75,8 @@ MI : ADA
                  : FIAM BLEND TARGET DATE 2010 CLASS R
                  : MANAGED INCOME PORTFOLIO II COMINGL
     2019: AMWAY RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3F3H 
         Participants: 5220
         Assets: 1364832486
         $/Participant: 261462
@@ -136,6 +99,8 @@ MI : ADA
                  : FIAM BLEND TARGET DATE 2010 CLASS R
                  : MANAGED INCOME PORTFOLIO II COMINGL
     2018: AMWAY RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3F3H 
         Participants: 5362
         Assets: 1194312657
         $/Participant: 222736
@@ -158,6 +123,8 @@ MI : ADA
                  : FIAM BLEND TARGET DATE 2010 CLASS R
                  : MANAGED INCOME PORTFOLIO II COMINGL
     2017: AMWAY RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3F3H 
         Participants: 5378
         Assets: 1277756293
         $/Participant: 237589
@@ -165,8 +132,60 @@ MI : ADA
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MANAGED INCOME PORTFOLIO II COMINGL
+   [503]
+    2022: AMWAY EMPLOYEE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4F4H4L4Q
+        Participants: 
+    2021: AMWAY EMPLOYEE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4F4H4L4Q
+        Participants: 
+    2020: AMWAY EMPLOYEE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4F4H4L4Q
+        Participants: 
+    2019: AMWAY EMPLOYEE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4F4H4L4Q
+        Participants: 
+    2018: AMWAY EMPLOYEE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4F4H4L4Q
+        Participants: 
+    2017: AMWAY EMPLOYEE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4F4H4L4Q
+        Participants: 
+   [521]
+    2022: AMWAY RETIREE HEALTH ACCESS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: AMWAY RETIREE HEALTH ACCESS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2020: AMWAY RETIREE HEALTH ACCESS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: AMWAY RETIREE HEALTH ACCESS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: AMWAY RETIREE HEALTH ACCESS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: AMWAY RETIREE HEALTH ACCESS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
    [001]
     2019: AMWAY HOURLY EMPLOYEES PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1H3D3H 
         Participants: 0
         Service Providers:
            - FIDELITY MANAGEMENT TRUST COMPANY : CONTRACT ADMINISTRATOR (Actuarial | Contract Administrator | Trustee(bank, trust company, or similar) | Investment management | Investment advisory(plan) | Participant communication | Direct payment from the plan | Investment management fees paid directly by plan)
@@ -178,6 +197,8 @@ MI : ADA
                  : FIAM LONG DURATION COMMINGLED PO
                  : FIAM SHORT DURATION COMMINGLED POOL
     2018: AMWAY HOURLY EMPLOYEES PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3D3H 
         Participants: 2337
         Assets: 118032171
         $/Participant: 50505
@@ -191,6 +212,8 @@ MI : ADA
                  : FIAM LONG DURATION COMMINGLED PO
                  : FIAM SHORT DURATION COMMINGLED POOL
     2017: AMWAY HOURLY EMPLOYEES PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3D3H 
         Participants: 2503
         Assets: 118070018
         $/Participant: 47171
@@ -206,3 +229,38 @@ MI : ADA
                  : PYRAMIS SELECT INTERNATIONAL SM CAP
                  : PYRAMIS SHORT DURATION COMMINGLED
                  : PYRAMIS SMALL/MID CAP CORE COMMINGL
+   [515]
+    2022: THE AMWAY AMENDED AND RESTATED SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2021: THE AMWAY AMENDED AND RESTATED SEVERANCE PROGRAM
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2020: THE AMWAY AMENDED AND RESTATED SEVERANCE PROGRAM
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+   [516]
+    2022: THE AMWAY AMENDED AND RESTATED EXECUTIVE SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2021: THE AMWAY AMENDED AND RESTATED EXECUTIVE SEVERANCE PROGRAM
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2020: THE AMWAY AMENDED AND RESTATED EXECUTIVE SEVERANCE PROGRAM
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+   [518]
+    2022: AMWAY VOLUNTARY SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2021: AMWAY VOLUNTARY SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

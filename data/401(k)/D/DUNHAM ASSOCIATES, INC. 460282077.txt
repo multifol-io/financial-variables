@@ -1,49 +1,9 @@
 MN : MINNEAPOLIS
   DUNHAM ASSOCIATES, INC.  460282077
-   [507]
-    2021: LONG TERM DISABILITY INSURANCE
-        Participants: 
-    2020: LONG TERM DISABILITY INSURANCE
-        Participants: 
-    2019: LONG TERM DISABILITY INSURANCE
-        Participants: 
-    2018: LONG TERM DISABILITY INSURANCE
-        Participants: 
-    2017: LONG TERM DISABILITY INSURANCE
-        Participants: 
-   [504]
-    2021: DENTAL PLAN
-        Participants: 
-    2020: DENTAL PLAN
-        Participants: 
-    2019: DENTAL PLAN
-        Participants: 
-    2018: DENTAL PLAN
-        Participants: 
-    2017: DENTAL PLAN
-        Participants: 
-   [503]
-    2021: MEDICAL INSURANCE
-        Participants: 
-    2020: MEDICAL INSURANCE
-        Participants: 
-    2019: MEDICAL INSURANCE
-        Participants: 
-    2017: MEDICAL INSURANCE
-        Participants: 
-   [502]
-    2021: GROUP TERM LIFE INSURANCE PLAN
-        Participants: 
-    2020: GROUP TERM LIFE INSURANCE PLAN
-        Participants: 
-    2019: GROUP TERM LIFE INSURANCE PLAN
-        Participants: 
-    2018: GROUP TERM LIFE INSURANCE PLAN
-        Participants: 
-    2017: GROUP TERM LIFE INSURANCE PLAN
-        Participants: 
    [002]
     2022: DUNHAM ASSOCIATES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T2E3D2R 
         Participants: 176
         Assets: 31050105
         $/Participant: 176421
@@ -52,27 +12,117 @@ MN : MINNEAPOLIS
            - WILMINGTON TRUST FIDUCIARY SERVICES
                  : WT G RETIRE INC F35
     2021: DUNHAM ASSOCIATES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D2E2R 
         Participants: 146
         Assets: 38458342
         $/Participant: 263413
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2020: DUNHAM ASSOCIATES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D2R 
         Participants: 140
         Assets: 32434534
         $/Participant: 231675
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2019: DUNHAM ASSOCIATES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 136
         Assets: 26010389
         $/Participant: 191252
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2018: DUNHAM ASSOCIATES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2T3D2E 
         Participants: 136
         Assets: 19325845
         $/Participant: 142101
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2017: DUNHAM ASSOCIATES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2E2T3D 
         Participants: 143
         Assets: 20065947
         $/Participant: 140321
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+   [503]
+    2021: MEDICAL INSURANCE
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2020: MEDICAL INSURANCE
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: MEDICAL INSURANCE
+        Benefit Category: Healthcare
+        Codes:  4A4S
+        Participants: 
+    2017: MEDICAL INSURANCE
+        Benefit Category: Healthcare
+        Codes:  4A4R
+        Participants: 
+   [502]
+    2021: GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2020: GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2019: GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2018: GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2017: GROUP TERM LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+   [504]
+    2021: DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D4S
+        Participants: 
+    2020: DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D4R
+        Participants: 
+    2019: DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2018: DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2017: DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+   [507]
+    2021: LONG TERM DISABILITY INSURANCE
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2020: LONG TERM DISABILITY INSURANCE
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2019: LONG TERM DISABILITY INSURANCE
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2018: LONG TERM DISABILITY INSURANCE
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2017: LONG TERM DISABILITY INSURANCE
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 

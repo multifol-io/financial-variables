@@ -1,33 +1,9 @@
 MN : FARMINGTON
   DAKOTA ELECTRIC ASSOCIATION  410212180
-   [575]
-    2019: DAKOTA ELECTRIC ASSOCIATION MEDICAL REIMBURSEMENT PLAN
-        Participants: 151
-    2018: DAKOTA ELECTRIC ASSOCIATION MEDICAL REIMBURSEMENT PLAN
-        Participants: 
-    2017: DAKOTA ELECTRIC ASSOCIATION MEDICAL REIMBURSEMENT PLAN
-        Participants: 
-   [551]
-    2017: DAKOTA ELECTRIC ASSOCIATION LIFE AND DISABILITY PLAN
-        Participants: 
-   [550]
-    2022: DAKOTA ELECTRIC ASSOCIATION WELFARE BENEFIT PLAN
-        Participants: 
-    2021: DAKOTA ELECTRIC ASSOCIATION WELFARE BENEFIT PLAN
-        Participants: 
-    2020: DAKOTA ELECTRIC ASSOCIATION WELFARE BENEFIT PLAN
-        Participants: 
-    2019: DAKOTA ELECTRIC ASSOCIATION WELFARE BENEFIT PLAN
-        Participants: 
-    2018: DAKOTA ELECTRIC ASSOCIATION WELFARE BENEFIT PLAN
-        Participants: 
-    2017: DAKOTA ELECTRIC ASSOCIATION MEDICAL AND DENTAL PLAN
-        Participants: 
-   [525]
-    2017: DAKOTA ELECTRIC ASSOCIATION FLEXIBLE BENEFITS PLAN
-        Participants: 
    [002]
     2022: DAKOTA ELECTRIC ASSOCIATION EMPLOYEE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 232
         Assets: 62802564
         $/Participant: 270700
@@ -37,6 +13,8 @@ MN : FARMINGTON
                  : SMALL CAP GROWTH FUND II I1
                  : SMALL CAP VALUE II I1 FUND
     2021: DAKOTA ELECTRIC ASSOCIATION EMPLOYEE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 233
         Assets: 83688352
         $/Participant: 359177
@@ -46,22 +24,78 @@ MN : FARMINGTON
                  : SMALL CAP GROWTH FUND II I1
                  : SMALL CAP VALUE II I1 FUND
     2020: DAKOTA ELECTRIC ASSOCIATION EMPLOYEE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 230
         Assets: 78136062
         $/Participant: 339722
         RecordKeeper: NFP RETIREMENT INC
     2019: DAKOTA ELECTRIC ASSOCIATION EMPLOYEE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 233
         Assets: 66385133
         $/Participant: 284914
         RecordKeeper: NFP RETIREMENT, INC.
     2018: DAKOTA ELECTRIC ASSOCIATION EMPLOYEE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 219
         Assets: 58392096
         $/Participant: 266630
         RecordKeeper: NFP RETIREMENT, INC.
     2017: DAKOTA ELECTRIC ASSOCIATION EMPLOYEE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 218
         Assets: 62786606
         $/Participant: 288011
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
+   [525]
+    2017: DAKOTA ELECTRIC ASSOCIATION FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4Q4R
+        Participants: 
+   [550]
+    2022: DAKOTA ELECTRIC ASSOCIATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: DAKOTA ELECTRIC ASSOCIATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: DAKOTA ELECTRIC ASSOCIATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: DAKOTA ELECTRIC ASSOCIATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: DAKOTA ELECTRIC ASSOCIATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L4Q
+        Participants: 
+    2017: DAKOTA ELECTRIC ASSOCIATION MEDICAL AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
+        Participants: 
+   [575]
+    2019: DAKOTA ELECTRIC ASSOCIATION MEDICAL REIMBURSEMENT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 151
+    2018: DAKOTA ELECTRIC ASSOCIATION MEDICAL REIMBURSEMENT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: DAKOTA ELECTRIC ASSOCIATION MEDICAL REIMBURSEMENT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [551]
+    2017: DAKOTA ELECTRIC ASSOCIATION LIFE AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 

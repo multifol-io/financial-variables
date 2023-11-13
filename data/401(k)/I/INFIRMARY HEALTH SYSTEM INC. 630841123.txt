@@ -1,43 +1,23 @@
 AL : MOBILE
   INFIRMARY HEALTH SYSTEM INC.  630841123
-   [505]
-    2022: INFIRMARY HEALTH SYSTEM INC. FLEXIBLE BENEFIT PLAN
-        Participants: 
-    2021: INFIRMARY HEALTH SYSTEM INC. FLEXIBLE BENEFIT PLAN
-        Participants: 
-    2020: INFIRMARY HEALTH SYSTEM INC. FLEXIBLE BENEFIT PLAN
-        Participants: 
-    2019: INFIRMARY HEALTH SYSTEM INC. FLEXIBLE BENEFIT PLAN
-        Participants: 
-    2018: INFIRMARY HEALTH SYSTEM INC. FLEXIBLE BENEFIT PLAN
-        Participants: 
-    2017: INFIRMARY HEALTH SYSTEM INC. FLEXIBLE BENEFIT PLAN
-        Participants: 
-   [501]
-    2022: INFIRMARY HEALTH SYSTEM WELFARE BENEFIT PLAN
-        Participants: 
-    2021: INFIRMARY HEALTH SYSTEM WELFARE BENEFIT PLAN
-        Participants: 
-    2020: INFIRMARY HEALTH SYSTEM WELFARE BENEFIT PLAN
-        Participants: 
-    2019: INFIRMARY HEALTH SYSTEM WELFARE BENEFIT PLAN
-        Participants: 
-    2018: INFIRMARY HEALTH SYSTEM WELFARE BENEFIT PLAN
-        Participants: 
-    2017: INFIRMARY HEALTH SYSTEM WELFARE BENEFIT PLAN
-        Participants: 
    [003]
     2022: THE INFIRMARY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K3D2T3H2F2R 
         Participants: 6836
         Assets: 285410838
         $/Participant: 41751
         RecordKeeper: PRUDENTIAL INVESTMENT MANAGEMENT SE
     2021: THE INFIRMARY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K3D2T3H2F2R 
         Participants: 6607
         Assets: 332110717
         $/Participant: 50266
         RecordKeeper: NATIONAL FINANCIAL SERVICES, LLC
     2020: THE INFIRMARY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K3D2T3H2F2R 
         Participants: 6442
         Assets: 293095307
         $/Participant: 45497
@@ -45,53 +25,123 @@ AL : MOBILE
            - RR DONNELLY & SONS COMPANY :  (Other services)
            - PRUDENTIAL INVESTMENT MANAGEMENT SE :  (Distribution(12b - 1) fees)
     2019: THE INFIRMARY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K3D2T3H2F 
         Participants: 6376
         Assets: 254256622
         $/Participant: 39877
         RecordKeeper: PRUDENTIAL INVESTMENT MANAGEMENT SE
     2018: THE INFIRMARY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2R2T3H2F3D 
         Participants: 5572
         Assets: 204382151
         $/Participant: 36680
         RecordKeeper: PRUDENTIAL INVESTMENT MANAGEMENT SE
     2017: THE INFIRMARY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2R2T3H2F3D 
         Participants: 6317
         Assets: 205610220
         $/Participant: 32548
         RecordKeeper: PRUDENTIAL INVESTMENT MANAGEMENT SE
+   [501]
+    2022: INFIRMARY HEALTH SYSTEM WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: INFIRMARY HEALTH SYSTEM WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: INFIRMARY HEALTH SYSTEM WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: INFIRMARY HEALTH SYSTEM WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: INFIRMARY HEALTH SYSTEM WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: INFIRMARY HEALTH SYSTEM WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+   [505]
+    2022: INFIRMARY HEALTH SYSTEM INC. FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: INFIRMARY HEALTH SYSTEM INC. FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2020: INFIRMARY HEALTH SYSTEM INC. FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: INFIRMARY HEALTH SYSTEM INC. FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: INFIRMARY HEALTH SYSTEM INC. FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: INFIRMARY HEALTH SYSTEM INC. FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
    [002]
     2022: THE INFIRMARY 403(B) PLAN
+        Benefit Category: Other
+        Codes: 2G2M2T3D2R 
         Participants: 396
         Assets: 14080156
         $/Participant: 35555
         RecordKeeper: PRUDENTIAL INVESTMENT MANAGEMENT SE
     2021: THE INFIRMARY 403(B) PLAN
+        Benefit Category: Other
+        Codes: 2G2M2T3D2R 
         Participants: 405
         Assets: 18687456
         $/Participant: 46141
         RecordKeeper: NATIONAL FINANCIAL SERVICES, LLC
     2020: THE INFIRMARY 403(B) PLAN
+        Benefit Category: Other
+        Codes: 2G2M2T3D2R 
         Participants: 414
         Assets: 17149377
         $/Participant: 41423
         RecordKeeper: NATIONAL FINANCIAL SERVICES, LLC
     2019: THE INFIRMARY 403(B) PLAN
+        Benefit Category: Other
+        Codes: 2G2M2T3D 
         Participants: 431
         Assets: 16494143
         $/Participant: 38269
         RecordKeeper: PRUDENTIAL INVESTMENT MANAGEMENT SE
     2018: THE INFIRMARY 403(B) PLAN
+        Benefit Category: Other
+        Codes: 2G2M2R3D2T 
         Participants: 457
         Assets: 13935908
         $/Participant: 30494
         RecordKeeper: PRUDENTIAL RETIREMENT INSURANCE AND
     2017: THE INFIRMARY 403(B) PLAN
+        Benefit Category: Other
+        Codes: 2G2M2R3D2T 
         Participants: 495
         Assets: 15941954
         $/Participant: 32205
         RecordKeeper: PRUDENTIAL INVESTMENT MANAGEMENT SE
    [001]
     2022: INFIRMARY HEALTH SYSTEM PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H1I 
         Participants: 4
         Assets: 1711008
         $/Participant: 427752
@@ -99,6 +149,8 @@ AL : MOBILE
            - PRUDENTIAL RETIREMENT INS & ANNUITY
                  : PRUDENTIAL SHORT-TERM
     2021: INFIRMARY HEALTH SYSTEM PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H1I 
         Participants: 3566
         Assets: 121596299
         $/Participant: 34098
@@ -106,6 +158,8 @@ AL : MOBILE
            - PRUDENTIAL RETIREMENT INS & ANNUITY
                  : PRUDENTIAL SHORT-TERM
     2020: INFIRMARY HEALTH SYSTEM PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H1I 
         Participants: 3825
         Assets: 119138809
         $/Participant: 31147
@@ -113,6 +167,8 @@ AL : MOBILE
            - PRUDENTIAL RETIREMENT INS & ANNUITY
                  : PRUDENTIAL SHORT-TERM
     2019: INFIRMARY HEALTH SYSTEM PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H1I 
         Participants: 4105
         Assets: 119792594
         $/Participant: 29182
@@ -120,6 +176,8 @@ AL : MOBILE
            - PRUDENTIAL RETIREMENT INS & ANNUITY
                  : PRUDENTIAL SHORT-TERM
     2018: INFIRMARY HEALTH SYSTEM PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H1I 
         Participants: 4400
         Assets: 103919938
         $/Participant: 23618
@@ -127,6 +185,8 @@ AL : MOBILE
            - PRUDENTIAL RETIREMENT INS & ANNUITY
                  : PRUDENTIAL SHORT-TERM
     2017: INFIRMARY HEALTH SYSTEM PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H1I 
         Participants: 4971
         Assets: 120775063
         $/Participant: 24295

@@ -1,75 +1,37 @@
 TN : NASHVILLE
   EARL SWENSSON ASSOCIATES, INC.  620897652
-   [526]
-    2022: EARL SWENSSON ASSOCIATES, INC. WELFARE BENEFITS PLAN
-        Participants: 
-    2021: EARL SWENSSON ASSOCIATES, INC. WELFARE BENEFITS PLAN
-        Participants: 
-    2020: EARL SWENSSON ASSOCIATES, INC. WELFARE BENEFITS PLAN
-        Participants: 
-   [513]
-    2019: EARL SWENSSON ASSOCIATES, INC. LIFE INSURANCE PLAN
-        Participants: 
-    2018: EARL SWENSSON ASSOCIATES, INC. LIFE INSURANCE PLAN
-        Participants: 
-    2017: EARL SWENSSON ASSOCIATES, INC. LIFE INSURANCE PLAN
-        Participants: 
-   [512]
-    2019: EARL SWENSSON ASSOCIATES, INC. LONG TERM CARE
-        Participants: 
-    2018: EARL SWENSSON ASSOCIATES, INC. LONG TERM CARE
-        Participants: 
-    2017: EARL SWENSSON ASSOCIATES, INC. LONG TERM CARE
-        Participants: 
-   [511]
-    2019: EARL SWENSSON ASSOCIATES, INC. LONG TERM DISABILITY
-        Participants: 
-    2018: EARL SWENSSON ASSOCIATES, INC. LONG TERM DISABILITY
-        Participants: 
-    2017: EARL SWENSSON ASSOCIATES, INC. LONG TERM DISABILITY
-        Participants: 
-   [510]
-    2018: EARL SWENSSON ASSOCIATES, INC. MEDICAL PLAN
-        Participants: 
-    2017: EARL SWENSSON ASSOCIATES, INC. FLEXIBLE BENEFITS PLAN
-        Participants: 
-   [503]
-    2019: EARL SWENSSON ASSOCIATES VISION PLAN
-        Participants: 
-    2018: EARL SWENSSON ASSOCIATES VISION PLAN
-        Participants: 
-   [502]
-    2019: EARL SWENSSON ASSOCIATES DENTAL PLAN
-        Participants: 
-    2018: EARL SWENSSON ASSOCIATES DENTAL PLAN
-        Participants: 
-   [501]
-    2019: EARL SWENSSON ASSOCIATES HEALTH PLAN
-        Participants: 
-    2018: EARL SWENSSON ASSOCIATES HEALTH PLAN
-        Participants: 
    [001]
     2022: EARL SWENSSON ASSOCIATES, INC. SAVINGS &
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 244
         Assets: 71211360
         $/Participant: 291849
         RecordKeeper: VOYA RETIREMENT INSURANCE & ANNUITY
     2021: EARL SWENSSON ASSOCIATES, INC. SAVINGS & RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 230
         Assets: 85726779
         $/Participant: 372725
         RecordKeeper: VOYA RETIREMENT INSURANCE & ANNUITY
     2020: EARL SWENSSON ASSOCIATES, INC. SAVINGS & RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 223
         Assets: 72519101
         $/Participant: 325197
         RecordKeeper: VOYA RETIREMENT INSURANCE & ANNUITY
     2019: EARL SWENSSON ASSOCIATES, INC. SAVINGS & RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 222
         Assets: 59661693
         $/Participant: 268746
         RecordKeeper: VOYA RETIREMENT INSURANCE & ANNUITY
     2018: EARL SWENSSON ASSOCIATES, INC. SAVINGS & RETIREMEN RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 224
         Assets: 47072751
         $/Participant: 210146
@@ -78,6 +40,8 @@ TN : NASHVILLE
            - VOYA RETIREMENT AND ANNUITY COMPANY
                  : VARIABLE ANNUITY ACCOUNT D
     2017: EARL SWENSSON ASSOCIATES, INC. SAVINGS & RETIREMEN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T 
         Participants: 213
         Assets: 47155070
         $/Participant: 221385
@@ -86,3 +50,91 @@ TN : NASHVILLE
                  : INVESCO STABLE VALUE RETIREMENT TRU
            - VOYA RETIREMENT INSURANCE AND ANNUITY COMPANY
                  : VARIABLE ANNUITY ACCOUNT D
+   [501]
+    2019: EARL SWENSSON ASSOCIATES HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: EARL SWENSSON ASSOCIATES HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [510]
+    2018: EARL SWENSSON ASSOCIATES, INC. MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: EARL SWENSSON ASSOCIATES, INC. FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+   [526]
+    2022: EARL SWENSSON ASSOCIATES, INC. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2021: EARL SWENSSON ASSOCIATES, INC. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2020: EARL SWENSSON ASSOCIATES, INC. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+   [502]
+    2019: EARL SWENSSON ASSOCIATES DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2018: EARL SWENSSON ASSOCIATES DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+   [503]
+    2019: EARL SWENSSON ASSOCIATES VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2018: EARL SWENSSON ASSOCIATES VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+   [511]
+    2019: EARL SWENSSON ASSOCIATES, INC. LONG TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2018: EARL SWENSSON ASSOCIATES, INC. LONG TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2017: EARL SWENSSON ASSOCIATES, INC. LONG TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+   [512]
+    2019: EARL SWENSSON ASSOCIATES, INC. LONG TERM CARE
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2018: EARL SWENSSON ASSOCIATES, INC. LONG TERM CARE
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2017: EARL SWENSSON ASSOCIATES, INC. LONG TERM CARE
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+   [513]
+    2019: EARL SWENSSON ASSOCIATES, INC. LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2018: EARL SWENSSON ASSOCIATES, INC. LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2017: EARL SWENSSON ASSOCIATES, INC. LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 

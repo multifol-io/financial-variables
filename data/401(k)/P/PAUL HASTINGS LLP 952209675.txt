@@ -1,46 +1,9 @@
 CA : LOS ANGELES
   PAUL HASTINGS LLP  952209675
-   [501]
-    2022: PAUL HASTINGS LLP MASTER WELFARE BENEFITS PLAN
-        Participants: 
-    2021: PAUL HASTINGS LLP MASTER WELFARE BENEFITS PLAN
-        Participants: 
-    2020: PAUL HASTINGS LLP MASTER WELFARE BENEFITS PLAN
-        Participants: 
-    2019: PAUL HASTINGS LLP MASTER WELFARE BENEFITS PLAN
-        Participants: 
-    2018: PAUL HASTINGS LLP MASTER WELFARE BENEFITS PLAN
-        Participants: 
-    2017: PAUL HASTINGS LLP MASTER WELFARE BENEFITS PLAN
-        Participants: 1447
-   [024]
-    2021: PAUL HASTINGS LLP DEFINED BENEFIT RETIREMENT PLAN FOR PARTNERS
-        Participants: 615
-        Assets: 936392553
-        $/Participant: 1522589
-        RecordKeeper: ARROWSTREET CAPITAL
-    2020: PAUL HASTINGS LLP DEFINED BENEFIT RETIREMENT PLAN FOR PARTNERS
-        Participants: 592
-        Assets: 880464433
-        $/Participant: 1487271
-        RecordKeeper: ARROWSTREET CAPITAL
-    2019: PAUL HASTINGS LLP DEFINED BENEFIT RETIREMENT PLAN FOR PARTNERS
-        Participants: 577
-        Assets: 683001986
-        $/Participant: 1183712
-        RecordKeeper: ARROWSTREET CAPITAL
-    2018: PAUL HASTINGS LLP DEFINED BENEFIT RETIREMENT PLAN FOR PARTNERS
-        Participants: 561
-        Assets: 642596760
-        $/Participant: 1145448
-        RecordKeeper: NATIONAL FINANCIAL SERVICES LLC
-    2017: PAUL HASTINGS LLP DEFINED BENEFIT RETIREMENT PLAN FOR PARTNERS
-        Participants: 541
-        Assets: 608111665
-        $/Participant: 1124051
-        RecordKeeper: NATIONAL FINANCIAL SERVICES LLC
    [001]
     2021: PAUL HASTINGS LLP DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3B3H 
         Participants: 2870
         Assets: 885193258
         $/Participant: 308429
@@ -51,6 +14,8 @@ CA : LOS ANGELES
            - SEI TRUST COMPANY
                  : ARISTOTLE SMALL/MID CAP EQUITY CIT
     2020: PAUL HASTINGS LLP DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3B3H 
         Participants: 2783
         Assets: 930389768
         $/Participant: 334311
@@ -61,6 +26,8 @@ CA : LOS ANGELES
            - SEI TRUST COMPANY
                  : ARISTOTLE SMALL/MID CAP EQUITY CIT
     2019: PAUL HASTINGS LLP DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3B3H 
         Participants: 2723
         Assets: 728676747
         $/Participant: 267600
@@ -69,6 +36,8 @@ CA : LOS ANGELES
            - PRUDENTIAL TRUST COMPANY
                  : PRUDENTIAL STABLE VALUE FUND
     2018: PAUL HASTINGS LLP DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3B3H 
         Participants: 2697
         Assets: 680453962
         $/Participant: 252300
@@ -77,6 +46,8 @@ CA : LOS ANGELES
            - PRUDENTIAL TRUST COMPANY
                  : PRUDENTIAL STABLE VALUE FUND
     2017: PAUL HASTINGS LLP DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3B3H 
         Participants: 2636
         Assets: 655277106
         $/Participant: 248587
@@ -84,3 +55,64 @@ CA : LOS ANGELES
         Available Investments:
            - PRUDENTIAL TRUST COMPANY
                  : PRUDENTIAL STABLE VALUE FUND
+   [501]
+    2022: PAUL HASTINGS LLP MASTER WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4Q
+        Participants: 
+    2021: PAUL HASTINGS LLP MASTER WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4Q
+        Participants: 
+    2020: PAUL HASTINGS LLP MASTER WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4Q
+        Participants: 
+    2019: PAUL HASTINGS LLP MASTER WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2018: PAUL HASTINGS LLP MASTER WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2017: PAUL HASTINGS LLP MASTER WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 1447
+   [024]
+    2021: PAUL HASTINGS LLP DEFINED BENEFIT RETIREMENT PLAN FOR PARTNERS
+        Benefit Category: Pension
+        Codes: 1B1C 
+        Participants: 615
+        Assets: 936392553
+        $/Participant: 1522589
+        RecordKeeper: ARROWSTREET CAPITAL
+    2020: PAUL HASTINGS LLP DEFINED BENEFIT RETIREMENT PLAN FOR PARTNERS
+        Benefit Category: Pension
+        Codes: 1B1C 
+        Participants: 592
+        Assets: 880464433
+        $/Participant: 1487271
+        RecordKeeper: ARROWSTREET CAPITAL
+    2019: PAUL HASTINGS LLP DEFINED BENEFIT RETIREMENT PLAN FOR PARTNERS
+        Benefit Category: Pension
+        Codes: 1B 
+        Participants: 577
+        Assets: 683001986
+        $/Participant: 1183712
+        RecordKeeper: ARROWSTREET CAPITAL
+    2018: PAUL HASTINGS LLP DEFINED BENEFIT RETIREMENT PLAN FOR PARTNERS
+        Benefit Category: Pension
+        Codes: 1B 
+        Participants: 561
+        Assets: 642596760
+        $/Participant: 1145448
+        RecordKeeper: NATIONAL FINANCIAL SERVICES LLC
+    2017: PAUL HASTINGS LLP DEFINED BENEFIT RETIREMENT PLAN FOR PARTNERS
+        Benefit Category: Pension
+        Codes: 1B 
+        Participants: 541
+        Assets: 608111665
+        $/Participant: 1124051
+        RecordKeeper: NATIONAL FINANCIAL SERVICES LLC

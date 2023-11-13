@@ -1,40 +1,9 @@
 NJ : PRINCETON
   MUNICH REINSURANCE AMERICA, INC.  134924125
-   [507]
-    2022: RETIREE/INACTIVE HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: RETIREE/INACTIVE HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: RETIREE/INACTIVE HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: RETIREE/INACTIVE HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: RETIREE/INACTIVE HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: RETIREE/INACTIVE HEALTH AND WELFARE PLAN
-        Participants: 
-   [503]
-    2020: SEVERANCE PAY PLAN
-        Participants: 
-    2019: SEVERANCE PAY PLAN
-        Participants: 
-    2018: SEVERANCE PAY PLAN
-        Participants: 3916
-    2017: SEVERANCE PAY PLAN
-        Participants: 997
-   [501]
-    2021: GROUP INSURANCE PLANS
-        Participants: 
-    2020: GROUP INSURANCE PLANS
-        Participants: 
-    2019: GROUP INSURANCE PLANS
-        Participants: 
-    2018: GROUP INSURANCE PLANS
-        Participants: 
-    2017: GROUP INSURANCE PLANS
-        Participants: 
    [003]
     2022: MUNICH RE U.S. SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2J2S2T3H 
         Participants: 5920
         Assets: 1402346015
         $/Participant: 236882
@@ -60,6 +29,8 @@ NJ : PRINCETON
                  : VANGUARD TARGET RET 2070 TRUST I
                  : VANGUARD TARGET RET INCOME TRUST I
     2021: MUNICH RE U.S. SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2J2S2T3H 
         Participants: 5409
         Assets: 1650279964
         $/Participant: 305098
@@ -92,6 +63,8 @@ NJ : PRINCETON
                  : VANGUARD TARGET RET INCOME TRUST I
                  : VANGUARD TARGET RET INCOME TRUST II
     2020: MUNICH RE U.S. SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2J2S2T3H 
         Participants: 5458
         Assets: 1450665811
         $/Participant: 265787
@@ -112,6 +85,8 @@ NJ : PRINCETON
                  : VANGUARD TARGET RET 2065 TRUST II
                  : VANGUARD TARGET RET INCOME TRUST II
     2019: MUNICH RE U.S. SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2J2T3H 
         Participants: 5152
         Assets: 1268374153
         $/Participant: 246190
@@ -132,6 +107,8 @@ NJ : PRINCETON
                  : VANGUARD TARGET RET 2065 TRUST II
                  : VANGUARD TARGET RET INCOME TRUST II
     2018: MUNICH RE U.S. SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2J2T3H 
         Participants: 4974
         Assets: 1055166371
         $/Participant: 212136
@@ -152,6 +129,8 @@ NJ : PRINCETON
                  : VANGUARD TARGET RET 2065 TRUST II
                  : VANGUARD TARGET RET INCOME TRUST II
     2017: MUNICH RE U.S. SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2J2T3H 
         Participants: 5042
         Assets: 1118224351
         $/Participant: 221781
@@ -160,30 +139,105 @@ NJ : PRINCETON
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RET. SAVINGS TRUST III
+   [501]
+    2021: GROUP INSURANCE PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: GROUP INSURANCE PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: GROUP INSURANCE PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: GROUP INSURANCE PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2017: GROUP INSURANCE PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+   [507]
+    2022: RETIREE/INACTIVE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 
+    2021: RETIREE/INACTIVE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 
+    2020: RETIREE/INACTIVE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 
+    2019: RETIREE/INACTIVE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 
+    2018: RETIREE/INACTIVE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 
+    2017: RETIREE/INACTIVE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 
    [001]
     2022: MUNICH REINSURANCE AMERICA, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 1873
         Assets: 503618946
         $/Participant: 268883
     2021: MUNICH REINSURANCE AMERICA, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 1886
         Assets: 676869655
         $/Participant: 358891
     2020: MUNICH REINSURANCE AMERICA, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 1899
         Assets: 704936818
         $/Participant: 371214
         Service Providers:
            - THE VANGUARD GROUP, INC. : TRUSTEE (Trustee(bank, trust company, or similar) | Other investment fees and expenses)
     2019: MUNICH REINSURANCE AMERICA, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 1920
         Assets: 627805976
         $/Participant: 326982
     2018: MUNICH REINSURANCE AMERICA, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 2021
         Assets: 556750746
         $/Participant: 275482
     2017: MUNICH REINSURANCE AMERICA, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 2025
         Assets: 606016462
         $/Participant: 299267
+   [503]
+    2020: SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2019: SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2018: SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 3916
+    2017: SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 997

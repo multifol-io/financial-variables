@@ -1,33 +1,9 @@
 NJ : DOVER
   CASIO AMERICA, INC.  112215214
-   [502]
-    2022: CASIO AMERICA, INC. LONG TERM DISABILITY PLAN
-        Participants: 
-    2021: CASIO AMERICA, INC. LONG TERM DISABILITY PLAN
-        Participants: 
-    2020: CASIO AMERICA, INC. LONG TERM DISABILITY PLAN
-        Participants: 
-    2019: CASIO AMERICA, INC. LONG TERM DISABILITY PLAN
-        Participants: 
-    2018: CASIO AMERICA, INC. LONG TERM DISABILITY PLAN
-        Participants: 
-    2017: CASIO AMERICA, INC. LONG TERM DISABILITY PLAN
-        Participants: 
-   [501]
-    2022: CASIO AMERICA, INC. HEALTH BENEFITS PLAN
-        Participants: 
-    2021: CASIO AMERICA, INC. HEALTH BENEFITS PLAN
-        Participants: 
-    2020: CASIO AMERICA, INC. HEALTH BENEFITS PLAN
-        Participants: 
-    2019: CASIO AMERICA, INC. HEALTH BENEFITS PLAN
-        Participants: 
-    2018: CASIO AMERICA, INC. HEALTH BENEFITS PLAN
-        Participants: 
-    2017: CASIO AMERICA, INC. HEALTH BENEFITS PLAN
-        Participants: 
    [002]
     2022: CASIO AMERICA, INC. INCENTIVE SAVINGS RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 255
         Assets: 63498848
         $/Participant: 249015
@@ -36,6 +12,8 @@ NJ : DOVER
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2021: CASIO AMERICA, INC. INCENTIVE SAVINGS RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 263
         Assets: 75476420
         $/Participant: 286982
@@ -44,6 +22,8 @@ NJ : DOVER
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2020: CASIO AMERICA, INC. INCENTIVE SAVINGS RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 301
         Assets: 69597138
         $/Participant: 231219
@@ -52,6 +32,8 @@ NJ : DOVER
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2019: CASIO AMERICA, INC. INCENTIVE SAVINGS RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 303
         Assets: 64118643
         $/Participant: 211612
@@ -60,6 +42,8 @@ NJ : DOVER
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2018: CASIO AMERICA, INC. INCENTIVE SAVINGS RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 305
         Assets: 53940588
         $/Participant: 176854
@@ -68,6 +52,8 @@ NJ : DOVER
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2017: CASIO AMERICA, INC. INCENTIVE SAVINGS RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 288
         Assets: 55956967
         $/Participant: 194295
@@ -75,8 +61,60 @@ NJ : DOVER
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
+   [501]
+    2022: CASIO AMERICA, INC. HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2021: CASIO AMERICA, INC. HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: CASIO AMERICA, INC. HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: CASIO AMERICA, INC. HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2018: CASIO AMERICA, INC. HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2017: CASIO AMERICA, INC. HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+   [502]
+    2022: CASIO AMERICA, INC. LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2021: CASIO AMERICA, INC. LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2020: CASIO AMERICA, INC. LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2019: CASIO AMERICA, INC. LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L
+        Participants: 
+    2018: CASIO AMERICA, INC. LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 
+    2017: CASIO AMERICA, INC. LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 
    [001]
     2022: CASIO AMERICA, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 233
         Assets: 34798088
         $/Participant: 149348
@@ -101,6 +139,8 @@ NJ : DOVER
            - SIA-Q1
                  : MASSACHUSETTS MUTUAL LIFE INSURANCE
     2021: CASIO AMERICA, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 252
         Assets: 53426922
         $/Participant: 212011
@@ -128,6 +168,8 @@ NJ : DOVER
            - SIA-Q1
                  : MASSACHUSETTS MUTUAL LIFE INSURANCE
     2020: CASIO AMERICA, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 260
         Assets: 55015119
         $/Participant: 211596
@@ -150,6 +192,8 @@ NJ : DOVER
                  : SIA-Q1
                  : SIA-YY
     2019: CASIO AMERICA, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 266
         Assets: 48409917
         $/Participant: 181992
@@ -172,6 +216,8 @@ NJ : DOVER
                  : SIA-Q1
                  : SIA-YY
     2018: CASIO AMERICA, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 272
         Assets: 41519910
         $/Participant: 152646
@@ -207,6 +253,8 @@ NJ : DOVER
                  : SIA-YG
                  : SIA-YT
     2017: CASIO AMERICA, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 278
         Assets: 42696170
         $/Participant: 153583

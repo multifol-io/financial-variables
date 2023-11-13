@@ -1,47 +1,9 @@
-IL : OAKBROOK TERRACE
-  BCS FINANCIAL CORPORATION  364247278
-   [508]
-    2022: BCS FINANCIAL CORPORATION GROUP LIFE INSURANCE
-        Participants: 
-    2021: BCS FINANCIAL CORPORATION GROUP LIFE INSURANCE
-        Participants: 
-    2020: BCS FINANCIAL CORPORATION GROUP LIFE INSURANCE
-        Participants: 
-    2019: BCS FINANCIAL CORPORATION GROUP LIFE INSURANCE
-        Participants: 
-    2018: BCS FINANCIAL CORPORATION GROUP LIFE INSURANCE
-        Participants: 
-    2017: BCS FINANCIAL CORPORATION GROUP LIFE INSURANCE
-        Participants: 
-   [505]
-    2022: BCS FINANCIAL CORPORATION GROUP TRAVEL
-        Participants: 
-    2021: BCS FINANCIAL CORPORATION GROUP TRAVEL
-        Participants: 
-    2020: BCS FINANCIAL CORPORATION GROUP TRAVEL
-        Participants: 
-    2019: BCS FINANCIAL CORPORATION GROUP TRAVEL
-        Participants: 
-    2018: BCS FINANCIAL CORPORATION GROUP TRAVEL
-        Participants: 
-    2017: BCS FINANCIAL CORPORATION GROUP TRAVEL
-        Participants: 
-   [503]
-    2022: BCS FINANCIAL CORPORATION HEALTH INSURANCE PLAN
-        Participants: 
-    2021: BCS FINANCIAL CORPORATION HEALTH INSURANCE PLAN
-        Participants: 
-    2020: BCS FINANCIAL CORPORATION HEALTH INSURANCE PLAN
-        Participants: 
-    2019: BCS FINANCIAL CORPORATION HEALTH INSURANCE PLAN
-        Participants: 
-    2018: BCS FINANCIAL CORPORATION HEALTH INSURANCE PLAN
-        Participants: 
-    2017: BCS FINANCIAL CORPORATION HEALTH INSURANCE PLAN
-        Participants: 
 IL : OAKBOOK TERRACE
+  BCS FINANCIAL CORPORATION  364247278
    [002]
     2022: BCS FINANCIAL CORPORATION TAX-FAVORED SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3H2R 
         Participants: 177
         Assets: 38698999
         $/Participant: 218638
@@ -76,6 +38,8 @@ IL : OAKBOOK TERRACE
            - WILMINGTON TRUST, N.A.
                  : DH LARGE CAP FEE L
     2021: BCS FINANCIAL CORPORATION TAX-FAVORED SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3H2R 
         Participants: 173
         Assets: 46067829
         $/Participant: 266288
@@ -113,6 +77,8 @@ IL : OAKBOOK TERRACE
            - WILMINGTON TRUST, N.A.
                  : DIAMOND HILL LARGE CAP PORTFOLIO
     2020: BCS FINANCIAL CORPORATION TAX-FAVORED SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T2R3H 
         Participants: 176
         Assets: 38884292
         $/Participant: 220933
@@ -143,6 +109,8 @@ IL : OAKBOOK TERRACE
            - WILMINGTON TRUST, N.A.
                  : DIAMOND HILL LARGE CAP PORTFOLIO
     2019: BCS FINANCIAL CORPORATION TAX-FAVORED SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T 
         Participants: 170
         Assets: 30523607
         $/Participant: 179550
@@ -169,6 +137,8 @@ IL : OAKBOOK TERRACE
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE X
     2018: BCS FINANCIAL CORPORATION TAX-FAVORED SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2G2F2J2K2R2S2T 
         Participants: 176
         Assets: 25577982
         $/Participant: 145329
@@ -198,6 +168,8 @@ IL : OAKBOOK TERRACE
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE FUND X
     2017: BCS FINANCIAL CORPORATION TAX-FAVORED SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T2E 
         Participants: 160
         Assets: 26470584
         $/Participant: 165441
@@ -222,8 +194,85 @@ IL : OAKBOOK TERRACE
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE FUND
 IL : OAKBROOK TERRACE
+   [503]
+    2022: BCS FINANCIAL CORPORATION HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2021: BCS FINANCIAL CORPORATION HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2020: BCS FINANCIAL CORPORATION HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2019: BCS FINANCIAL CORPORATION HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2018: BCS FINANCIAL CORPORATION HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2017: BCS FINANCIAL CORPORATION HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+   [505]
+    2022: BCS FINANCIAL CORPORATION GROUP TRAVEL
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2021: BCS FINANCIAL CORPORATION GROUP TRAVEL
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2020: BCS FINANCIAL CORPORATION GROUP TRAVEL
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2019: BCS FINANCIAL CORPORATION GROUP TRAVEL
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2018: BCS FINANCIAL CORPORATION GROUP TRAVEL
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2017: BCS FINANCIAL CORPORATION GROUP TRAVEL
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+   [508]
+    2022: BCS FINANCIAL CORPORATION GROUP LIFE INSURANCE
+        Benefit Category: Other
+        Codes:  4B4F4H4L
+        Participants: 
+    2021: BCS FINANCIAL CORPORATION GROUP LIFE INSURANCE
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2020: BCS FINANCIAL CORPORATION GROUP LIFE INSURANCE
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2019: BCS FINANCIAL CORPORATION GROUP LIFE INSURANCE
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2018: BCS FINANCIAL CORPORATION GROUP LIFE INSURANCE
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2017: BCS FINANCIAL CORPORATION GROUP LIFE INSURANCE
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
    [001]
     2022: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF BCS FINANCIAL CORPORATION
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 227
         Assets: 44089462
         $/Participant: 194226
@@ -245,6 +294,8 @@ IL : OAKBROOK TERRACE
            - BLUE CROSS AND BLUE SHIELD ASSOC.
                  : NATIONAL RETIREMENT TRUST
     2021: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF BCS FINANCIAL CORPORATION
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 240
         Assets: 38480815
         $/Participant: 160336
@@ -264,6 +315,8 @@ IL : OAKBROOK TERRACE
            - BLUE CROSS AND BLUE SHIELD ASSOC.
                  : NATIONAL RETIREMENT TRUST
     2020: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF BCS FINANCIAL CORPORATION
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 242
         Assets: 35258813
         $/Participant: 145697
@@ -280,6 +333,8 @@ IL : OAKBROOK TERRACE
            - BLUE CROSS AND BLUE SHIELD ASSOC.
                  : NATIONAL RETIREMENT TRUST
     2019: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF BCS FINANCIAL CORPORATION
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 241
         Assets: 62574506
         $/Participant: 259645
@@ -292,6 +347,8 @@ IL : OAKBROOK TERRACE
            - BLUE CROSS AND BLUE SHIELD ASSOC.
                  : NATIONAL RETIREMENT TRUST
     2018: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF BCS FINANCIAL CORPORATION
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 223
         Assets: 38718331
         $/Participant: 173624
@@ -305,6 +362,8 @@ IL : OAKBROOK TERRACE
            - BLUE CROSS AND BLUE SHIELD ASSOC.
                  : NATIONAL RETIREMENT TRUST
     2017: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF BCS FINANCIAL CORPORATION
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 222
         Assets: 44401551
         $/Participant: 200006

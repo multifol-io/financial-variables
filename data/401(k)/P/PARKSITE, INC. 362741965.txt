@@ -1,80 +1,122 @@
 IL : BATAVIA
-  PARKSITE INC.  362741965
-   [506]
-    2022: PARKSITE INC. HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2021: PARKSITE INC. HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2020: PARKSITE INC. HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2019: PARKSITE INC. HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2018: PARKSITE INC. HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-   [505]
-    2017: PARKSITE, INC. VISION PLAN
-        Participants: 
-   [504]
-    2017: PARKSITE, INC. DENTAL PLAN
-        Participants: 
-   [503]
-    2017: PARKSITE, INC. LIFE/AD&D PLAN
-        Participants: 
-   [502]
-    2017: PARKSITE, INC. SHORT TERM AND LONG TERM DISABILITY
-        Participants: 
-   [501]
-    2017: PARKSITE, INC. MEDICAL PLAN
-        Participants: 
+  PARKSITE, INC.  362741965
    [004]
     2022: PARKSITE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H3D2R 
         Participants: 920
         Assets: 67997369
         $/Participant: 73910
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2021: PARKSITE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H3D2R 
         Participants: 882
         Assets: 88114279
         $/Participant: 99902
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2020: PARKSITE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H3D2R 
         Participants: 879
         Assets: 85181250
         $/Participant: 96906
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2019: PARKSITE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D3H 
         Participants: 568
         Assets: 48096481
         $/Participant: 84676
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2018: PARKSITE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 549
         Assets: 38215478
         $/Participant: 69609
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2017: PARKSITE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D3H 
         Participants: 524
         Assets: 39853412
         $/Participant: 76056
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
    [003]
     2022: PARKSITE INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2C2I2P2Q3I 
         Participants: 785
         Assets: 277847110
         $/Participant: 353945
     2021: PARKSITE INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2C2I2O2Q3I 
         Participants: 762
         Assets: 287262771
         $/Participant: 376985
     2020: PARKSITE INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2C2I2O2Q3I 
         Participants: 714
         Assets: 121717567
         $/Participant: 170472
     2019: PARKSITE INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2C2I2O2P2Q3I 
         Participants: 675
         Assets: 101671677
         $/Participant: 150624
     2017: PARKSITE INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2C2I2P2Q3I 
         Participants: 427
         Assets: 91941256
         $/Participant: 215319
+   [501]
+    2017: PARKSITE, INC. MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [506]
+    2022: PARKSITE INC. HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: PARKSITE INC. HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: PARKSITE INC. HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: PARKSITE INC. HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: PARKSITE INC. HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+   [502]
+    2017: PARKSITE, INC. SHORT TERM AND LONG TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 
+   [503]
+    2017: PARKSITE, INC. LIFE/AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+   [504]
+    2017: PARKSITE, INC. DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+   [505]
+    2017: PARKSITE, INC. VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 

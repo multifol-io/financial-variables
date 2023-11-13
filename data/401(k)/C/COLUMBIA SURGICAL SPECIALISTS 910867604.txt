@@ -1,68 +1,9 @@
 WA : SPOKANE
   COLUMBIA SURGICAL SPECIALISTS  910867604
-   [504]
-    2022: SPOKANE EAR, NOSE & THROAT CLINIC PS VISION PLAN
-        Participants: 5
-    2021: SPOKANE EAR, NOSE & THROAT CLINIC P.S. VISION PLAN
-        Participants: 107
-    2020: SPOKANE EAR, NOSE & THROAT CLINIC P.S. VISION PLAN
-        Participants: 122
-    2019: SPOKANE EAR, NOSE & THROAT CLINIC P.S. VISION PLAN
-        Participants: 132
-    2018: SPOKANE EAR, NOSE & THROAT CLINIC P.S. VISION PLAN
-        Participants: 110
-   [503]
-    2022: SPOKANE EAR, NOSE & THROAT P.S. LTD PLAN
-        Participants: 37
-    2021: SPOKANE EAR, NOSE & THROAT CLINIC P.S.LTD PLAN
-        Participants: 155
-    2020: SPOKANE EAR, NOSE & THROAT CLINIC P.S. LTD PLAN
-        Participants: 148
-    2019: SPOKANE EAR, NOSE & THROAT CLINIC P.S. LTD PLAN
-        Participants: 197
-    2018: SPOKANE EAR, NOSE & THROAT CLINIC P.S. LTD PLAN
-        Participants: 163
-    2017: SPOKANE EAR, NOSE & THROAT CLINIC P.S. LTD PLAN
-        Participants: 160
-   [502]
-    2021: SPOKANE EAR, NOSE & THROAT CLINIC P.S. DENTAL PLAN
-        Participants: 146
-    2020: SPOKANE EAR, NOSE & THROAT CLINIC P.S. DENTAL PLAN
-        Participants: 173
-    2019: SPOKANE EAR, NOSE & THROAT CLINIC P.S. DENTAL PLAN
-        Participants: 189
-    2018: SPOKANE EAR, NOSE & THROAT CLINIC P.S. DENTAL PLAN
-        Participants: 157
-    2017: SPOKANE EAR, NOSE & THROAT CLINIC P.S. DENTAL PLAN
-        Participants: 157
-   [501]
-    2021: SPOKANE EAR, NOSE & THROAT CLINIC P.S. MEDICAL PLAN
-        Participants: 145
-        Service Providers:
-           - EBMS :  (Claims processing | Contract Administrator)
-           - FIRST CHOICE HEALTH :  (Other insurance fees and expenses)
-    2020: SPOKANE EAR, NOSE & THROAT CLINIC P.S. MEDICAL PLAN
-        Participants: 170
-        Service Providers:
-           - FIRST CHOICE HEALTH :  (Other insurance fees and expenses)
-           - EBMS :  (Claims processing | Contract Administrator)
-    2019: SPOKANE EAR, NOSE & THROAT CLINIC P.S. MEDICAL PLAN
-        Participants: 189
-        Service Providers:
-           - EBMS :  (Claims processing | Contract Administrator)
-           - FIRST CHOICE HEALTH :  (Other insurance fees and expenses)
-    2018: SPOKANE EAR, NOSE & THROAT CLINIC P.S. MEDICAL PLAN
-        Participants: 158
-        Service Providers:
-           - FIRST CHOICE :  (Other insurance fees and expenses)
-           - EBMS :  (Claims processing | Contract Administrator)
-    2017: SPOKANE EAR, NOSE & THROAT CLINIC P.S. MEDICAL PLAN
-        Participants: 155
-        Service Providers:
-           - EBMS :  (Claims processing | Contract Administrator)
-           - FIRST CHOICE :  (Other insurance fees and expenses)
    [001]
     2022: SPOKANE EAR, NOSE & THROAT CLINIC P.S. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D 
         Participants: 126
         Assets: 35704714
         $/Participant: 283370
@@ -77,6 +18,8 @@ WA : SPOKANE
            - RAYMOND JAMES :  (Custodial(other than securities) | Trustee(directed) | Direct payment from the plan)
            - LODESTONE WEALTH MANAGEMENT :  (Securities brokerage | Shareholder servicing fees)
     2021: SPOKANE EAR, NOSE & THROAT CLINIC P.S. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D 
         Participants: 207
         Assets: 49344816
         $/Participant: 238380
@@ -91,6 +34,8 @@ WA : SPOKANE
            - CHARLES SCHWAB TRUST BANK :  (Custodial(other than securities) | Trustee(directed) | Direct payment from the plan)
            - CHARLES SCHWAB & CO., INC. :  (Securities brokerage | Shareholder servicing fees)
     2020: SPOKANE EAR, NOSE & THROAT CLINIC P.S. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D 
         Participants: 218
         Assets: 41351756
         $/Participant: 189686
@@ -108,6 +53,8 @@ WA : SPOKANE
            - GARTMORE TRUST COMPANY
                  : GARTMORE STABLE VALUE FUND
     2019: SPOKANE EAR, NOSE & THROAT CLINIC P.S. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D 
         Participants: 196
         Assets: 34849023
         $/Participant: 177801
@@ -125,6 +72,8 @@ WA : SPOKANE
            - GARTMORE TRUST COMPANY
                  : GARTMORE STABLE VALUE FUND
     2018: SPOKANE EAR, NOSE & THROAT CLINIC P.S. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D 
         Participants: 187
         Assets: 28141637
         $/Participant: 150490
@@ -143,6 +92,8 @@ WA : SPOKANE
            - GARTMORE TRUST COMPANY
                  : GARTMORE STABLE VALUE FUND
     2017: SPOKANE EAR, NOSE & THROAT CLINIC P.S. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D 
         Participants: 170
         Assets: 30122843
         $/Participant: 177193
@@ -159,3 +110,106 @@ WA : SPOKANE
         Available Investments:
            - GARTMORE TRUST COMPANY
                  : GARTMORE STABLE VALUE FUND
+   [501]
+    2021: SPOKANE EAR, NOSE & THROAT CLINIC P.S. MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 145
+        Service Providers:
+           - EBMS :  (Claims processing | Contract Administrator)
+           - FIRST CHOICE HEALTH :  (Other insurance fees and expenses)
+    2020: SPOKANE EAR, NOSE & THROAT CLINIC P.S. MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 170
+        Service Providers:
+           - FIRST CHOICE HEALTH :  (Other insurance fees and expenses)
+           - EBMS :  (Claims processing | Contract Administrator)
+    2019: SPOKANE EAR, NOSE & THROAT CLINIC P.S. MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 189
+        Service Providers:
+           - EBMS :  (Claims processing | Contract Administrator)
+           - FIRST CHOICE HEALTH :  (Other insurance fees and expenses)
+    2018: SPOKANE EAR, NOSE & THROAT CLINIC P.S. MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 158
+        Service Providers:
+           - FIRST CHOICE :  (Other insurance fees and expenses)
+           - EBMS :  (Claims processing | Contract Administrator)
+    2017: SPOKANE EAR, NOSE & THROAT CLINIC P.S. MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 155
+        Service Providers:
+           - EBMS :  (Claims processing | Contract Administrator)
+           - FIRST CHOICE :  (Other insurance fees and expenses)
+   [502]
+    2021: SPOKANE EAR, NOSE & THROAT CLINIC P.S. DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 146
+    2020: SPOKANE EAR, NOSE & THROAT CLINIC P.S. DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 173
+    2019: SPOKANE EAR, NOSE & THROAT CLINIC P.S. DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 189
+    2018: SPOKANE EAR, NOSE & THROAT CLINIC P.S. DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 157
+    2017: SPOKANE EAR, NOSE & THROAT CLINIC P.S. DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 157
+   [503]
+    2022: SPOKANE EAR, NOSE & THROAT P.S. LTD PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 37
+    2021: SPOKANE EAR, NOSE & THROAT CLINIC P.S.LTD PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 155
+    2020: SPOKANE EAR, NOSE & THROAT CLINIC P.S. LTD PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 148
+    2019: SPOKANE EAR, NOSE & THROAT CLINIC P.S. LTD PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 197
+    2018: SPOKANE EAR, NOSE & THROAT CLINIC P.S. LTD PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 163
+    2017: SPOKANE EAR, NOSE & THROAT CLINIC P.S. LTD PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 160
+   [504]
+    2022: SPOKANE EAR, NOSE & THROAT CLINIC PS VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 5
+    2021: SPOKANE EAR, NOSE & THROAT CLINIC P.S. VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 107
+    2020: SPOKANE EAR, NOSE & THROAT CLINIC P.S. VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 122
+    2019: SPOKANE EAR, NOSE & THROAT CLINIC P.S. VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 132
+    2018: SPOKANE EAR, NOSE & THROAT CLINIC P.S. VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 110

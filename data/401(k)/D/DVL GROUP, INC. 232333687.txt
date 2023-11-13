@@ -1,41 +1,9 @@
 PA : BRISTOL
   DVL GROUP, INC.  232333687
-   [503]
-    2022: DVL GROUP, INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2021: DVL GROUP, INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2020: DVL GROUP, INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2019: DVL GROUP, INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-   [002]
-    2022: DVL GROUP, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 229
-        Assets: 75234850
-        $/Participant: 328536
-    2021: DVL GROUP, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 227
-        Assets: 52016550
-        $/Participant: 229147
-    2020: DVL GROUP, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 205
-        Assets: 41280565
-        $/Participant: 201368
-    2019: DVL GROUP, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 203
-        Assets: 35821302
-        $/Participant: 176459
-    2018: DVL GROUP, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 193
-        Assets: 27554183
-        $/Participant: 142767
-    2017: DVL GROUP, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 160
-        Assets: 22554229
-        $/Participant: 140963
    [001]
     2022: DVL GROUP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H2S2N 
         Participants: 163
         Assets: 18645705
         $/Participant: 114390
@@ -44,6 +12,8 @@ PA : BRISTOL
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2021: DVL GROUP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H2S2N 
         Participants: 155
         Assets: 22172710
         $/Participant: 143049
@@ -52,6 +22,8 @@ PA : BRISTOL
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2020: DVL GROUP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H2S2N 
         Participants: 153
         Assets: 17128397
         $/Participant: 111950
@@ -60,6 +32,8 @@ PA : BRISTOL
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2019: DVL GROUP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H2S 
         Participants: 136
         Assets: 15495912
         $/Participant: 113940
@@ -68,6 +42,8 @@ PA : BRISTOL
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2018: DVL GROUP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H2S 
         Participants: 131
         Assets: 11546499
         $/Participant: 88141
@@ -76,6 +52,8 @@ PA : BRISTOL
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2017: DVL GROUP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 103
         Assets: 13388242
         $/Participant: 129982
@@ -83,3 +61,57 @@ PA : BRISTOL
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
+   [002]
+    2022: DVL GROUP, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P3H3I2E2Q 
+        Participants: 229
+        Assets: 75234850
+        $/Participant: 328536
+    2021: DVL GROUP, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P3H3I2E2Q 
+        Participants: 227
+        Assets: 52016550
+        $/Participant: 229147
+    2020: DVL GROUP, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P3H3I2E2Q 
+        Participants: 205
+        Assets: 41280565
+        $/Participant: 201368
+    2019: DVL GROUP, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P3H3I2E2Q 
+        Participants: 203
+        Assets: 35821302
+        $/Participant: 176459
+    2018: DVL GROUP, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P3H3I2E2Q 
+        Participants: 193
+        Assets: 27554183
+        $/Participant: 142767
+    2017: DVL GROUP, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P3H3I2E2Q 
+        Participants: 160
+        Assets: 22554229
+        $/Participant: 140963
+   [503]
+    2022: DVL GROUP, INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2021: DVL GROUP, INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2020: DVL GROUP, INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2019: DVL GROUP, INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 

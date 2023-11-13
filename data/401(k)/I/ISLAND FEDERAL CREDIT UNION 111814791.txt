@@ -1,28 +1,9 @@
 NY : HAUPPAUGE
   ISLAND FEDERAL CREDIT UNION  111814791
-   [503]
-    2022: ISLAND FEDERAL CREDIT UNION HRA PLAN
-        Participants: 
-    2021: ISLAND FEDERAL CREDIT UNION HRA PLAN
-        Participants: 
-   [502]
-    2022: ISLAND FEDERAL CREDIT UNION EMPLOYEES MEDICAL AND DENTAL PLAN
-        Participants: 
-    2021: ISLAND FEDERAL CREDIT UNION EMPLOYEES' MEDICAL AND DENTAL PLAN
-        Participants: 
-    2020: ISLAND FEDERAL CREDIT UNION EMPLOYEES' MEDICAL AND DENTAL PLAN
-        Participants: 
-    2019: ISLAND FEDERAL CREDIT UNION EMPLOYEES' MEDICAL AND DENTAL PLAN
-        Participants: 
-   [501]
-    2022: GROUP LONG TERM DISABILITY, BASIC TERM LIFE, BASIC ACCIDENTAL DEATH AND DISMEMBERMENT PLAN FOR EMPLOYEES OF ISLAND FEDERAL CREDIT UNION
-        Participants: 
-    2021: GROUP LONG TERM DISABILITY, BASIC TERM LIFE, BASIC ACCIDENTAL DEATH AND DISMEMBERMENT PLAN FOR EMPLOYEES OF ISLAND FEDERAL CREDIT UNION
-        Participants: 
-    2020: GROUP LONG TERM DISABILITY, BASIC TERM LIFE, BASIC ACCIDENTAL DEATH AND DISMEMBERMENT PLAN FOR EMPLOYEES OF ISLAND FEDERAL CREDIT UNION
-        Participants: 
    [003]
     2022: ISLAND FEDERAL CREDIT UNION 401(K) PLAN & TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 170
         Assets: 14630021
         $/Participant: 86058
@@ -31,6 +12,8 @@ NY : HAUPPAUGE
            - WILMINGTON TRUST
                  : METLIFE GROUP ANNUITY 25554
     2021: ISLAND FEDERAL CREDIT UNION 401(K) PLAN & TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 158
         Assets: 17942813
         $/Participant: 113562
@@ -39,6 +22,8 @@ NY : HAUPPAUGE
            - WILMINGTON TRUST
                  : METLIFE GROUP ANNUITY CONTRACT 2555
     2020: ISLAND FEDERAL CREDIT UNION 401(K) PLAN & TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 173
         Assets: 14470262
         $/Participant: 83643
@@ -46,27 +31,76 @@ NY : HAUPPAUGE
            - WILMINGTON TRUST
                  : METLIFE GROUP ANNUITY CONTRACT 2555
     2019: ISLAND FEDERAL CREDIT UNION 401(K) PLAN & TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 168
         Assets: 11439965
         $/Participant: 68095
         Available Investments:
            - WILMINGTON TRUST
                  : METLIFE GROUP ANNUITY CONTRACT 2555
+   [502]
+    2022: ISLAND FEDERAL CREDIT UNION EMPLOYEES MEDICAL AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2021: ISLAND FEDERAL CREDIT UNION EMPLOYEES' MEDICAL AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2020: ISLAND FEDERAL CREDIT UNION EMPLOYEES' MEDICAL AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2019: ISLAND FEDERAL CREDIT UNION EMPLOYEES' MEDICAL AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+   [501]
+    2022: GROUP LONG TERM DISABILITY, BASIC TERM LIFE, BASIC ACCIDENTAL DEATH AND DISMEMBERMENT PLAN FOR EMPLOYEES OF ISLAND FEDERAL CREDIT UNION
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 
+    2021: GROUP LONG TERM DISABILITY, BASIC TERM LIFE, BASIC ACCIDENTAL DEATH AND DISMEMBERMENT PLAN FOR EMPLOYEES OF ISLAND FEDERAL CREDIT UNION
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 
+    2020: GROUP LONG TERM DISABILITY, BASIC TERM LIFE, BASIC ACCIDENTAL DEATH AND DISMEMBERMENT PLAN FOR EMPLOYEES OF ISLAND FEDERAL CREDIT UNION
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 
+   [503]
+    2022: ISLAND FEDERAL CREDIT UNION HRA PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2021: ISLAND FEDERAL CREDIT UNION HRA PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
    [001]
     2022: ISLAND FEDERAL CREDIT UNION RETIREMENT INCOME PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 172
         Assets: 34320194
         $/Participant: 199536
     2021: ISLAND FEDERAL CREDIT UNION RETIREMENT INCOME PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 165
         Assets: 42357746
         $/Participant: 256713
     2020: ISLAND FEDERAL CREDIT UNION RETIREMENT INCOME PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 164
         Assets: 40390665
         $/Participant: 246284
         RecordKeeper: MEMBERS CAPITAL ADVISORS, INC.
     2019: ISLAND FEDERAL CREDIT UNION RETIREMENT INCOME PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 173
         Assets: 30501416
         $/Participant: 176308

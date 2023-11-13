@@ -1,51 +1,9 @@
 CA : WALNUT CREEK
   MKA INTERNATIONAL, INC.  840917753
-   [501]
-    2022: MKA INTERNATIONAL, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: MKA INTERNATIONAL, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: MADSEN, KNEPPERS AND ASSOCIATES, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: MADSEN, KNEPPERS AND ASSOCIATES, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: MADSEN, KNEPPERS AND ASSOCIATES, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: MADSEN, KNEPPERS AND ASSOCIATES, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-   [003]
-    2022: MKA INTERNATIONAL, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 342
-        Assets: 59221886
-        $/Participant: 173163
-    2021: MADSEN, KNEPPERS & ASSOCIATES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 328
-        Assets: 67123835
-        $/Participant: 204645
-    2020: MADSEN, KNEPPERS & ASSOCIATES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 343
-        Assets: 61359284
-        $/Participant: 178890
-    2019: MADSEN, KNEPPERS & ASSOCIATES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 309
-        Assets: 51797384
-        $/Participant: 167629
-        Service Providers:
-           - WILMINGTON TRUST, NA : TRUSTEE (Trustee(bank, trust company, or similar) | Investment management fees paid indirectly by plan | Account maintenance fees)
-    2018: MADSEN, KNEPPERS & ASSOCIATES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 270
-        Assets: 56613554
-        $/Participant: 209679
-        Service Providers:
-           - WILMINGTON TRUST, NA : TRUSTEE (Trustee(bank, trust company, or similar) | Investment management fees paid indirectly by plan | Account maintenance fees)
-    2017: MADSEN, KNEPPERS & ASSOCIATES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 242
-        Assets: 36508519
-        $/Participant: 150861
-        Service Providers:
-           - WILMINGTON TRUST, NA : TRUSTEE (Trustee(bank, trust company, or similar) | Investment management fees paid indirectly by plan | Account maintenance fees)
    [002]
     2022: MKA INTERNATIONAL, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 332
         Assets: 76190552
         $/Participant: 229489
@@ -54,27 +12,105 @@ CA : WALNUT CREEK
            - RELIANCE
                  : RELIANCE TRUST STABLE VALUE FUND
     2021: MADSEN KNEPPERS AND ASSOCIATES, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 290
         Assets: 89758224
         $/Participant: 309511
         RecordKeeper: RPS RETIREMENT PLAN ADVISORS
     2020: MADSEN KNEPPERS AND ASSOCIATES, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 288
         Assets: 79285375
         $/Participant: 275296
         RecordKeeper: RELIANCE TRUST COMPANY
     2019: MADSEN KNEPPERS AND ASSOCIATES, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3F 
         Participants: 310
         Assets: 65935405
         $/Participant: 212694
         RecordKeeper: IRONSHORE FINANCIAL, LLC
     2018: MADSEN KNEPPERS AND ASSOCIATES, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3F 
         Participants: 292
         Assets: 53850840
         $/Participant: 184420
         RecordKeeper: RICHARD P. SLAUGHTER & ASSOCIATES
     2017: MADSEN KNEPPERS & ASSOCIATES, INC. 401K PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K3D2T 
         Participants: 263
         Assets: 53008513
         $/Participant: 201553
         RecordKeeper: RICHARD P. SLAUGHTER & ASSOCIATES
+   [003]
+    2022: MKA INTERNATIONAL, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 342
+        Assets: 59221886
+        $/Participant: 173163
+    2021: MADSEN, KNEPPERS & ASSOCIATES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 328
+        Assets: 67123835
+        $/Participant: 204645
+    2020: MADSEN, KNEPPERS & ASSOCIATES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 343
+        Assets: 61359284
+        $/Participant: 178890
+    2019: MADSEN, KNEPPERS & ASSOCIATES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2P2Q3I 
+        Participants: 309
+        Assets: 51797384
+        $/Participant: 167629
+        Service Providers:
+           - WILMINGTON TRUST, NA : TRUSTEE (Trustee(bank, trust company, or similar) | Investment management fees paid indirectly by plan | Account maintenance fees)
+    2018: MADSEN, KNEPPERS & ASSOCIATES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2P2Q3I 
+        Participants: 270
+        Assets: 56613554
+        $/Participant: 209679
+        Service Providers:
+           - WILMINGTON TRUST, NA : TRUSTEE (Trustee(bank, trust company, or similar) | Investment management fees paid indirectly by plan | Account maintenance fees)
+    2017: MADSEN, KNEPPERS & ASSOCIATES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2P2Q3I 
+        Participants: 242
+        Assets: 36508519
+        $/Participant: 150861
+        Service Providers:
+           - WILMINGTON TRUST, NA : TRUSTEE (Trustee(bank, trust company, or similar) | Investment management fees paid indirectly by plan | Account maintenance fees)
+   [501]
+    2022: MKA INTERNATIONAL, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2021: MKA INTERNATIONAL, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2020: MADSEN, KNEPPERS AND ASSOCIATES, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: MADSEN, KNEPPERS AND ASSOCIATES, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: MADSEN, KNEPPERS AND ASSOCIATES, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2017: MADSEN, KNEPPERS AND ASSOCIATES, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 

@@ -1,30 +1,92 @@
 CA : SAN DIEGO
   SEMPRA  330732627
-   [502]
-    2022: SEMPRA ENERGY RETIREE GROUP HEALTH AND WELFARE PROGRAM
-        Participants: 
-    2021: SEMPRA ENERGY RETIREE GROUP HEALTH AND WELFARE PROGRAM
-        Participants: 
-    2020: SEMPRA ENERGY RETIREE GROUP HEALTH AND WELFARE PROGRAM
-        Participants: 
-    2019: SEMPRA ENERGY RETIREE GROUP HEALTH AND WELFARE PROGRAM
-        Participants: 
-    2018: SEMPRA ENERGY RETIREE GROUP HEALTH AND WELFARE PROGRAM
-        Participants: 
-        RecordKeeper: DELTA DENTAL OF CALIFORNIA
-    2017: SEMPRA ENERGY RETIREE GROUP HEALTH AND WELFARE PROGRAM
-        Participants: 
-        RecordKeeper: DELTA DENTAL OF CALIFORNIA
+   [002]
+    2022: SEMPRA ENERGY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2F2G2I2J2K2O2R2S2T3H 
+        Participants: 1541
+        Assets: 377560601
+        $/Participant: 245010
+        RecordKeeper: CHARLES SCHWAB & CO. INC.
+        Available Investments:
+           - SEMPRA
+                 : SEMPRA ENERGY SAVINGS MASTER TRUST
+    2021: SEMPRA ENERGY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2F2G2I2J2K2O2R2S2T3H 
+        Participants: 1444
+        Assets: 424065820
+        $/Participant: 293674
+        RecordKeeper: CHARLES SCHWAB & CO. INC.
+        Available Investments:
+           - SEMPRA ENERGY
+                 : SEMPRA ENERGY SAVINGS MASTER TRUST
+    2020: SEMPRA ENERGY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2F2G2I2J2K2O2R2S2T3H 
+        Participants: 1501
+        Assets: 391460581
+        $/Participant: 260799
+        RecordKeeper: CHARLES SCHWAB & CO. INC.
+        Available Investments:
+           - SEMPRA ENERGY
+                 : SEMPRA ENERGY SAVINGS MASER TRUST
+    2019: SEMPRA ENERGY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2F2G2I2J2K2O2R2S2T3H 
+        Participants: 1462
+        Assets: 359808276
+        $/Participant: 246106
+        RecordKeeper: CHARLES SCHWAB & CO, INC.
+        Available Investments:
+           - SEMPRA ENERGY
+                 : SEMPRA ENERGY SAVINGS MASTER TRUST
+    2018: SEMPRA ENERGY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2F2G2I2J2K2P2R2S2T3H 
+        Participants: 1560
+        Assets: 320875384
+        $/Participant: 205689
+        RecordKeeper: T. ROWE PRICE TRUST COMPANY
+        Available Investments:
+           - SEMPRA ENERGY
+                 : SEMPRA ENERGY SAVINGS MASTER TRUST
+    2017: SEMPRA ENERGY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2F2G2I2J2K2P2R2S2T3H 
+        Participants: 1578
+        Assets: 336462444
+        $/Participant: 213220
+        RecordKeeper: T. ROWE PRICE TRUST COMPANY
+        Available Investments:
+           - SEMPRA ENERGY
+                 : SEMPRA ENERGY SAVINGS MASTER TRUST
    [501]
     2022: SEMPRA ENERGY ACTIVE EMPLOYEE GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2021: SEMPRA ENERGY ACTIVE EMPLOYEE GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2020: SEMPRA ENERGY ACTIVE EMPLOYEE GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2019: SEMPRA ENERGY ACTIVE EMPLOYEE GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2018: SEMPRA ENERGY ACTIVE EMPLOYEE GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Service Providers:
            - BLUE CROSS OF CALIFORNIA :  (Claims processing | Account maintenance fees)
@@ -32,14 +94,245 @@ CA : SAN DIEGO
            - DELTA DENTAL :  (Claims processing | Account maintenance fees)
            - VISION SERVICE PLAN :  (Claims processing | Account maintenance fees)
     2017: SEMPRA ENERGY ACTIVE EMPLOYEE GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Service Providers:
            - BLUE CROSS OF CALIFORNIA :  (Claims processing | Account maintenance fees)
            - MHN SERVICES :  (Claims processing | Account maintenance fees)
            - DELTA DENTAL :  (Claims processing | Account maintenance fees)
            - VISION SERVICE PLAN :  (Claims processing | Account maintenance fees)
+   [502]
+    2022: SEMPRA ENERGY RETIREE GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+    2021: SEMPRA ENERGY RETIREE GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+    2020: SEMPRA ENERGY RETIREE GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+    2019: SEMPRA ENERGY RETIREE GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+    2018: SEMPRA ENERGY RETIREE GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+        RecordKeeper: DELTA DENTAL OF CALIFORNIA
+    2017: SEMPRA ENERGY RETIREE GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+        RecordKeeper: DELTA DENTAL OF CALIFORNIA
+   [001]
+    2017: SEMPRA ENERGY CASH BALANCE PLAN
+        Benefit Category: Other
+        Codes: 3F3H 
+        Participants: 2267
+        Assets: 211474080
+        $/Participant: 93283
+        Service Providers:
+           - XEROX CORPORATION :  (Account maintenance fees)
+           - WILLIS TOWERS WATSON :  (Custodial(other than securities))
+           - DELOITTE & TOUCHE LLP :  (Accounting(including auditing))
+           - BANK OF NEW YORK MELLON :  (Custodial(other than securities))
+           - MONDRIAN :  (Investment management)
+           - PRUDENTIAL :  (Investment management)
+           - SSGA GLOBAL :  (Investment management)
+           - WILLIAM BLAIR :  (Investment management)
+           - MFS :  (Investment management)
+           - BRANDES INVESTMENT PARTNERS, L.P. :  (Investment management)
+           - PIMCO :  (Investment management)
+           - BLACKROCK BGI :  (Investment management)
+           - PYRAMIS GLOBAL ADVISORS TRUST CO. :  (Investment management)
+           - CRAMER ROSENTHAL MCGLYNN LLC :  (Investment management)
+           - ARISTOTLE CAPITAL BOSTON :  (Investment management)
+           - WELLINGTON FD :  (Investment management)
+           - LEGAL & GENERAL INVEST MGMT AMERICA :  (Investment management)
+           - CASTLEARK MGMT LLC :  (Investment management)
+           - GIA PARTNERS :  (Investment management)
+        Available Investments:
+           - SEMPRA ENERGY
+                 : SEMPRA ENERGY PENSION MASTER TRUST
+   [005]
+    2022: SEMPRA ENERGY PENSION MASTER TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 3054599176
+        $/Participant: 
+        Available Investments:
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
+                 : BLACKROCK MSCI ACWI EX-US IMI INDEX
+           - FIAM TRUST COMPANY
+                 : FIAM SELECT INTL SC EQ LLC
+           - GLOBAL TRUST COMPANY
+                 : WILLIAM BLAIR EMERGING LEADERS GROW
+           - MFS HERITAGE TRUST COMPANY
+                 : MHTC CIT - MFS INTER SMALL CAP EQ
+           - RELIANCE TRUST COMPANY
+                 : LEGAL & GENERAL LNG DURATN U.S. CR
+                 : RELIANCE TRST INST RET TRUST, SER 8
+           - RREEF WEST VI, A GROUP TRUST
+                 : RREEF WEST VI, A GROUP TRUST
+           - SEI TRUST COMPANY
+                 : ARISTOTLE COLLECTIVE INVESTMNT TRST
+                 : COHEN & STEERS COLLECTIVE INV. TRST
+                 : DUFF & PHELPS GL REAL EST SEC CIT
+           - THE BANK OF NEW YORK MELLON
+                 : EB TEMPORARY INVESTMENT
+           - WELLINGTON TRUST COMPANY NA
+                 : WTC-CIF II MULTI SECTOR CREDIT II
+           - WESTERN ASSET MANAGEMENT COMPANY, L.L.C
+                 : WESTERN ASSET MACRO OPP PORTFOLIO
+           - WILMINGTON TRUST, NA
+                 : LAZARD/WILMINGTON EMERGING MKT PRT
+    2021: SEMPRA ENERGY PENSION MASTER TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 3943570770
+        $/Participant: 
+        Available Investments:
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
+                 : BLACKROCK MSCI ACWI EX-US IMI INDEX
+           - FIAM TRUST COMPANY
+                 : FIAM SELECT INTL SC EQ LLC
+           - GLOBAL TRUST COMPANY
+                 : WILLIAM BLAIR EMERGING LEADERS GROW
+           - MFS HERITAGE TRUST COMPANY
+                 : MHTC CIT - MFS INTER SMALL CAP EQ
+           - RELIANCE TRUST COMPANY
+                 : LEGAL & GENERAL LNG DURATN U.S. CR
+                 : RELIANCE TRST INST RET TRUST, SER 8
+           - RREEF WEST VI, A GROUP TRUST
+                 : RREEF WEST VI, A GROUP TRUST
+           - SEI TRUST COMPANY
+                 : ARISTOTLE COLLECTIVE INVESTMNT TRST
+           - THE BANK OF NEW YORK MELLON
+                 : EB TEMPORARY INVESTMENT
+           - WELLINGTON TRUST COMPANY NA
+                 : WTC-CIF II MULTI SECTOR CREDIT II
+           - WESTERN ASSET MANAGEMENT COMPANY, L.L.C
+                 : WESTERN ASSET MACRO OPP PORTFOLIO
+           - WILMINGTON TRUST, NA
+                 : LAZARD/WILMINGTON EMERGING MKT PRT
+    2020: SEMPRA ENERGY PENSION MASTER TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 3749062792
+        $/Participant: 
+        Available Investments:
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
+                 : BLACKROCK MSCI ACWI EX-US IMI INDEX
+           - BRANDES INVESTMENT PARTNERS, L.P.
+                 : BRANDES INTL SMALL CAP
+           - FIAM TRUST COMPANY
+                 : FIAM SELECT INTL SC EQ LLC
+           - MFS HERITAGE TRUST COMPANY
+                 : MHTC CIT - MFS INTER SMALL CAP EQ
+           - RELIANCE TRUST COMPANY
+                 : LEGAL & GENERAL LNG DURATN U.S. CR
+                 : RELIANCE TRST INST RET TRUST, SER 8
+           - RREEF WEST VI, A GROUP TRUST
+                 : RREEF WEST VI, A GROUP TRUST
+           - SEI TRUST COMPANY
+                 : ARISTOTLE COLLECTIVE INVESTMNT TRST
+           - THE BANK OF NEW YORK MELLON
+                 : EB TEMPORARY INVESTMENT
+           - WELLINGTON TRUST COMPANY NA
+                 : WTC-CIF II MULTI SECTOR CREDIT II
+           - WESTERN ASSET MANAGEMENT COMPANY, L.L.C
+                 : WESTERN ASSET MACRO OPP PORTFOLIO
+           - WILMINGTON TRUST, NA
+                 : LAZARD/WILMINGTON EMERGING MKT PRT
+    2019: SEMPRA ENERGY PENSION MASTER TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 3349731652
+        $/Participant: 
+        Available Investments:
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
+                 : BLACKROCK US HIGH YIELD BOND INDEX
+           - BRANDES INVESTMENT PARTNERS, L.P.
+                 : BRANDES INTL SMALL CAP
+           - FIAM SELECT
+                 : FIAM SELECT INTL SC EQ LLC
+           - LAZARD
+                 : LAZARD/WILMINGTON COLL TR EM
+           - LEGAL & GENERAL INVESTMENT MANAGEMENT AMERICA, INC.
+                 : LGIMA LONG DURATION CREDIT II
+           - MELLON BANK NA
+                 : EB TEMPORARY INVESTMENT FUND
+           - MELLON BANK
+                 : ARISTOTLE SM CAP EQU CO II TRUST
+                 : SER 8 BROOKFIELD RL ASTS SEC CIT CL
+                 : WTC-CIF II MULTI SECTOR CREDIT II
+           - MFS HERITAGE TRUST COMPANY
+                 : MHTC CIT - MFS INTER SMALL CAP EQ
+           - TCW REALTY
+                 : RREEF WEST W-VI
+    2018: SEMPRA ENERGY PENSION MASTER TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 2716040982
+        $/Participant: 
+        Available Investments:
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
+                 : BLACKROCK US HIGH YIELD BOND INDEX
+           - BRANDES INVESTMENT PARTNERS, L.P.
+                 : BRANDES INTL SMALL CAP
+           - FIAM SELECT
+                 : FIAM SELECT INTL SC EQ LLC
+           - LAZARD
+                 : LAZARD/WILMINGTON COLL TR EM
+           - MELLON BANK NA
+                 : EB TEMPORARY INVESTMENT FUND
+           - MELLON BANK
+                 : ARISTOTLE SM CAP EQU CO II TRUST
+                 : SER 8 BROOKFIELD RL ASTS SEC CIT CL
+                 : WTC-CIF II MULTI SECTOR CREDIT II
+           - MFS HERITAGE TRUST COMPANY
+                 : MHTC CIT - MFS INTER SMALL CAP EQ
+           - TCW REALTY
+                 : RREEF WEST W-VI
+    2017: SEMPRA ENERGY PENSION MASTER TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 3290349766
+        $/Participant: 
+        Available Investments:
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
+                 : BLACKROCK US HIGH YIELD BOND INDEX
+           - BRANDES INVESTMENT PARTNERS, L.P.
+                 : BRANDES INTL SMALL CAP
+           - FIAM SELECT
+                 : FIAM SELECT INTL SC EQ LLC
+           - MELLON BANK NA
+                 : EB TEMPORARY INVESTMENT FUND
+           - MELLON BANK
+                 : ARISTOTLE SM CAP EQU CO II TRUST
+                 : SER 8 BROOKFIELD RL ASTS SEC CIT CL
+                 : WTC-CIF II MULTI SECTOR CREDIT II
+           - MFS HERITAGE TRUST COMPANY
+                 : MHTC CIT - MFS INTER SMALL CAP EQ
+           - MONDRIAN
+                 : MONDRIAN FOCUSED EMERGING MARKETS
+           - TCW REALTY
+                 : RREEF WEST W-VI
    [006]
     2022: SEMPRA ENERGY SAVINGS MASTER TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 4368165321
         $/Participant: 
@@ -79,6 +372,8 @@ CA : SAN DIEGO
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC INSTITUTIONAL 500 INDEX TRUST
     2021: SEMPRA ENERGY SAVINGS MASTER TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 4973961937
         $/Participant: 
@@ -118,6 +413,8 @@ CA : SAN DIEGO
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC INSTITUTIONAL 500 INDEX TRUST
     2020: SEMPRA ENERGY SAVINGS MASTER TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 4522646541
         $/Participant: 
@@ -157,6 +454,8 @@ CA : SAN DIEGO
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC INSTITUTIONAL 500 INDEX TRUST
     2019: SEMPRA ENERGY SAVINGS MASTER TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 4273183142
         $/Participant: 
@@ -192,6 +491,8 @@ CA : SAN DIEGO
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : U.S. LARGE CAP EQUITY FUND
     2018: SEMPRA ENERGY SAVINGS MASTER TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 3456861397
         $/Participant: 
@@ -230,6 +531,8 @@ CA : SAN DIEGO
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : U.S. LARGE CAP EQUITY FUND
     2017: SEMPRA ENERGY SAVINGS MASTER TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 3626678958
         $/Participant: 
@@ -255,215 +558,10 @@ CA : SAN DIEGO
                  : TRP STABLE VALUE FUND
                  : US SMALL CAP CORE EQUITY TRUST D
                  : US TREASURY MONEY MARKET TRUST B
-   [005]
-    2022: SEMPRA ENERGY PENSION MASTER TRUST
-        Participants: 
-        Assets: 3054599176
-        $/Participant: 
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
-                 : BLACKROCK MSCI ACWI EX-US IMI INDEX
-           - FIAM TRUST COMPANY
-                 : FIAM SELECT INTL SC EQ LLC
-           - GLOBAL TRUST COMPANY
-                 : WILLIAM BLAIR EMERGING LEADERS GROW
-           - MFS HERITAGE TRUST COMPANY
-                 : MHTC CIT - MFS INTER SMALL CAP EQ
-           - RELIANCE TRUST COMPANY
-                 : LEGAL & GENERAL LNG DURATN U.S. CR
-                 : RELIANCE TRST INST RET TRUST, SER 8
-           - RREEF WEST VI, A GROUP TRUST
-                 : RREEF WEST VI, A GROUP TRUST
-           - SEI TRUST COMPANY
-                 : ARISTOTLE COLLECTIVE INVESTMNT TRST
-                 : COHEN & STEERS COLLECTIVE INV. TRST
-                 : DUFF & PHELPS GL REAL EST SEC CIT
-           - THE BANK OF NEW YORK MELLON
-                 : EB TEMPORARY INVESTMENT
-           - WELLINGTON TRUST COMPANY NA
-                 : WTC-CIF II MULTI SECTOR CREDIT II
-           - WESTERN ASSET MANAGEMENT COMPANY, L.L.C
-                 : WESTERN ASSET MACRO OPP PORTFOLIO
-           - WILMINGTON TRUST, NA
-                 : LAZARD/WILMINGTON EMERGING MKT PRT
-    2021: SEMPRA ENERGY PENSION MASTER TRUST
-        Participants: 
-        Assets: 3943570770
-        $/Participant: 
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
-                 : BLACKROCK MSCI ACWI EX-US IMI INDEX
-           - FIAM TRUST COMPANY
-                 : FIAM SELECT INTL SC EQ LLC
-           - GLOBAL TRUST COMPANY
-                 : WILLIAM BLAIR EMERGING LEADERS GROW
-           - MFS HERITAGE TRUST COMPANY
-                 : MHTC CIT - MFS INTER SMALL CAP EQ
-           - RELIANCE TRUST COMPANY
-                 : LEGAL & GENERAL LNG DURATN U.S. CR
-                 : RELIANCE TRST INST RET TRUST, SER 8
-           - RREEF WEST VI, A GROUP TRUST
-                 : RREEF WEST VI, A GROUP TRUST
-           - SEI TRUST COMPANY
-                 : ARISTOTLE COLLECTIVE INVESTMNT TRST
-           - THE BANK OF NEW YORK MELLON
-                 : EB TEMPORARY INVESTMENT
-           - WELLINGTON TRUST COMPANY NA
-                 : WTC-CIF II MULTI SECTOR CREDIT II
-           - WESTERN ASSET MANAGEMENT COMPANY, L.L.C
-                 : WESTERN ASSET MACRO OPP PORTFOLIO
-           - WILMINGTON TRUST, NA
-                 : LAZARD/WILMINGTON EMERGING MKT PRT
-    2020: SEMPRA ENERGY PENSION MASTER TRUST
-        Participants: 
-        Assets: 3749062792
-        $/Participant: 
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
-                 : BLACKROCK MSCI ACWI EX-US IMI INDEX
-           - BRANDES INVESTMENT PARTNERS, L.P.
-                 : BRANDES INTL SMALL CAP
-           - FIAM TRUST COMPANY
-                 : FIAM SELECT INTL SC EQ LLC
-           - MFS HERITAGE TRUST COMPANY
-                 : MHTC CIT - MFS INTER SMALL CAP EQ
-           - RELIANCE TRUST COMPANY
-                 : LEGAL & GENERAL LNG DURATN U.S. CR
-                 : RELIANCE TRST INST RET TRUST, SER 8
-           - RREEF WEST VI, A GROUP TRUST
-                 : RREEF WEST VI, A GROUP TRUST
-           - SEI TRUST COMPANY
-                 : ARISTOTLE COLLECTIVE INVESTMNT TRST
-           - THE BANK OF NEW YORK MELLON
-                 : EB TEMPORARY INVESTMENT
-           - WELLINGTON TRUST COMPANY NA
-                 : WTC-CIF II MULTI SECTOR CREDIT II
-           - WESTERN ASSET MANAGEMENT COMPANY, L.L.C
-                 : WESTERN ASSET MACRO OPP PORTFOLIO
-           - WILMINGTON TRUST, NA
-                 : LAZARD/WILMINGTON EMERGING MKT PRT
-    2019: SEMPRA ENERGY PENSION MASTER TRUST
-        Participants: 
-        Assets: 3349731652
-        $/Participant: 
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
-                 : BLACKROCK US HIGH YIELD BOND INDEX
-           - BRANDES INVESTMENT PARTNERS, L.P.
-                 : BRANDES INTL SMALL CAP
-           - FIAM SELECT
-                 : FIAM SELECT INTL SC EQ LLC
-           - LAZARD
-                 : LAZARD/WILMINGTON COLL TR EM
-           - LEGAL & GENERAL INVESTMENT MANAGEMENT AMERICA, INC.
-                 : LGIMA LONG DURATION CREDIT II
-           - MELLON BANK NA
-                 : EB TEMPORARY INVESTMENT FUND
-           - MELLON BANK
-                 : ARISTOTLE SM CAP EQU CO II TRUST
-                 : SER 8 BROOKFIELD RL ASTS SEC CIT CL
-                 : WTC-CIF II MULTI SECTOR CREDIT II
-           - MFS HERITAGE TRUST COMPANY
-                 : MHTC CIT - MFS INTER SMALL CAP EQ
-           - TCW REALTY
-                 : RREEF WEST W-VI
-    2018: SEMPRA ENERGY PENSION MASTER TRUST
-        Participants: 
-        Assets: 2716040982
-        $/Participant: 
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
-                 : BLACKROCK US HIGH YIELD BOND INDEX
-           - BRANDES INVESTMENT PARTNERS, L.P.
-                 : BRANDES INTL SMALL CAP
-           - FIAM SELECT
-                 : FIAM SELECT INTL SC EQ LLC
-           - LAZARD
-                 : LAZARD/WILMINGTON COLL TR EM
-           - MELLON BANK NA
-                 : EB TEMPORARY INVESTMENT FUND
-           - MELLON BANK
-                 : ARISTOTLE SM CAP EQU CO II TRUST
-                 : SER 8 BROOKFIELD RL ASTS SEC CIT CL
-                 : WTC-CIF II MULTI SECTOR CREDIT II
-           - MFS HERITAGE TRUST COMPANY
-                 : MHTC CIT - MFS INTER SMALL CAP EQ
-           - TCW REALTY
-                 : RREEF WEST W-VI
-    2017: SEMPRA ENERGY PENSION MASTER TRUST
-        Participants: 
-        Assets: 3290349766
-        $/Participant: 
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
-                 : BLACKROCK US HIGH YIELD BOND INDEX
-           - BRANDES INVESTMENT PARTNERS, L.P.
-                 : BRANDES INTL SMALL CAP
-           - FIAM SELECT
-                 : FIAM SELECT INTL SC EQ LLC
-           - MELLON BANK NA
-                 : EB TEMPORARY INVESTMENT FUND
-           - MELLON BANK
-                 : ARISTOTLE SM CAP EQU CO II TRUST
-                 : SER 8 BROOKFIELD RL ASTS SEC CIT CL
-                 : WTC-CIF II MULTI SECTOR CREDIT II
-           - MFS HERITAGE TRUST COMPANY
-                 : MHTC CIT - MFS INTER SMALL CAP EQ
-           - MONDRIAN
-                 : MONDRIAN FOCUSED EMERGING MARKETS
-           - TCW REALTY
-                 : RREEF WEST W-VI
-   [002]
-    2022: SEMPRA ENERGY SAVINGS PLAN
-        Participants: 1541
-        Assets: 377560601
-        $/Participant: 245010
-        RecordKeeper: CHARLES SCHWAB & CO. INC.
-        Available Investments:
-           - SEMPRA
-                 : SEMPRA ENERGY SAVINGS MASTER TRUST
-    2021: SEMPRA ENERGY SAVINGS PLAN
-        Participants: 1444
-        Assets: 424065820
-        $/Participant: 293674
-        RecordKeeper: CHARLES SCHWAB & CO. INC.
-        Available Investments:
-           - SEMPRA ENERGY
-                 : SEMPRA ENERGY SAVINGS MASTER TRUST
-    2020: SEMPRA ENERGY SAVINGS PLAN
-        Participants: 1501
-        Assets: 391460581
-        $/Participant: 260799
-        RecordKeeper: CHARLES SCHWAB & CO. INC.
-        Available Investments:
-           - SEMPRA ENERGY
-                 : SEMPRA ENERGY SAVINGS MASER TRUST
-    2019: SEMPRA ENERGY SAVINGS PLAN
-        Participants: 1462
-        Assets: 359808276
-        $/Participant: 246106
-        RecordKeeper: CHARLES SCHWAB & CO, INC.
-        Available Investments:
-           - SEMPRA ENERGY
-                 : SEMPRA ENERGY SAVINGS MASTER TRUST
-    2018: SEMPRA ENERGY SAVINGS PLAN
-        Participants: 1560
-        Assets: 320875384
-        $/Participant: 205689
-        RecordKeeper: T. ROWE PRICE TRUST COMPANY
-        Available Investments:
-           - SEMPRA ENERGY
-                 : SEMPRA ENERGY SAVINGS MASTER TRUST
-    2017: SEMPRA ENERGY SAVINGS PLAN
-        Participants: 1578
-        Assets: 336462444
-        $/Participant: 213220
-        RecordKeeper: T. ROWE PRICE TRUST COMPANY
-        Available Investments:
-           - SEMPRA ENERGY
-                 : SEMPRA ENERGY SAVINGS MASTER TRUST
    [001]
     2022: SEMPRA ENERGY CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E3H 
         Participants: 2015
         Assets: 210020147
         $/Participant: 104228
@@ -472,6 +570,8 @@ CA : SAN DIEGO
            - SEMPRA
                  : SEMPRA ENERGY PENSION MASTER TRUST
     2021: SEMPRA ENERGY CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E3H 
         Participants: 2006
         Assets: 255720849
         $/Participant: 127477
@@ -480,6 +580,8 @@ CA : SAN DIEGO
            - SEMPRA ENERGY
                  : SEMPRA ENERGY PENSION MASTER TRUST
     2020: SEMPRA ENERGY CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E3H 
         Participants: 2003
         Assets: 259308290
         $/Participant: 129459
@@ -506,6 +608,8 @@ CA : SAN DIEGO
            - SEMPRA ENERGY
                  : SEMPRA ENERGY PENSION MASTER TRUST
     2019: SEMPRA ENERGY CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E3F3H 
         Participants: 2095
         Assets: 254136933
         $/Participant: 121306
@@ -529,6 +633,8 @@ CA : SAN DIEGO
            - SEMPRA ENERGY
                  : SEMPRA ENERGY PENSION MASTER TRUST
     2018: SEMPRA ENERGY CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E3F3H 
         Participants: 2221
         Assets: 194444427
         $/Participant: 87548
@@ -552,33 +658,6 @@ CA : SAN DIEGO
            - AON HEWITT :  (Investment management)
            - LEGAL & GENERAL INVEST MGMT AMERICA :  (Investment management)
            - CASTLEARK MGMT LLC :  (Investment management)
-        Available Investments:
-           - SEMPRA ENERGY
-                 : SEMPRA ENERGY PENSION MASTER TRUST
-    2017: SEMPRA ENERGY CASH BALANCE PLAN
-        Participants: 2267
-        Assets: 211474080
-        $/Participant: 93283
-        Service Providers:
-           - XEROX CORPORATION :  (Account maintenance fees)
-           - WILLIS TOWERS WATSON :  (Custodial(other than securities))
-           - DELOITTE & TOUCHE LLP :  (Accounting(including auditing))
-           - BANK OF NEW YORK MELLON :  (Custodial(other than securities))
-           - MONDRIAN :  (Investment management)
-           - PRUDENTIAL :  (Investment management)
-           - SSGA GLOBAL :  (Investment management)
-           - WILLIAM BLAIR :  (Investment management)
-           - MFS :  (Investment management)
-           - BRANDES INVESTMENT PARTNERS, L.P. :  (Investment management)
-           - PIMCO :  (Investment management)
-           - BLACKROCK BGI :  (Investment management)
-           - PYRAMIS GLOBAL ADVISORS TRUST CO. :  (Investment management)
-           - CRAMER ROSENTHAL MCGLYNN LLC :  (Investment management)
-           - ARISTOTLE CAPITAL BOSTON :  (Investment management)
-           - WELLINGTON FD :  (Investment management)
-           - LEGAL & GENERAL INVEST MGMT AMERICA :  (Investment management)
-           - CASTLEARK MGMT LLC :  (Investment management)
-           - GIA PARTNERS :  (Investment management)
         Available Investments:
            - SEMPRA ENERGY
                  : SEMPRA ENERGY PENSION MASTER TRUST

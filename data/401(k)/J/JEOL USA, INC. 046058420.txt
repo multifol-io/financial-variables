@@ -1,54 +1,9 @@
 MA : PEABODY
   JEOL USA, INC.  046058420
-   [502]
-    2021: JEOL USA, INC. INSURED EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2020: JEOL USA, INC. INSURED EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2019: JEOL USA, INC. INSURED EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2018: JEOL USA, INC. INSURED EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2017: JEOL USA, INC. INSURED EMPLOYEE BENEFIT PLAN
-        Participants: 
-   [501]
-    2021: JEOL USA INC VOLUNTARY EMPLOYEES BENEFIT PLAN TRUS
-        Participants: 
-        Assets: 1948079
-        $/Participant: 
-        Service Providers:
-           - HEALTH PLANS, INC. :  (Claims processing | Other services)
-           - CABOT RISK STRATEGIES, LLC :  (Insurance agents and brokers | Finders' fees/placement fees)
-    2020: JEOL USA INC VOLUNTARY EMPLOYEES BENEFIT PLAN TRUS
-        Participants: 
-        Assets: 3029013
-        $/Participant: 
-        Service Providers:
-           - HEALTH PLANS, INC. :  (Claims processing | Other services)
-           - CABOT RISK STRATEGIES, LLC :  (Insurance agents and brokers | Finders' fees/placement fees)
-    2019: JEOL USA INC VOLUNTARY EMPLOYEES BENEFIT PLAN TRUS
-        Participants: 
-        Assets: 2575632
-        $/Participant: 
-        Service Providers:
-           - HEALTH PLANS, INC. :  (Claims processing | Other services)
-           - CABOT RISK STRATEGIES, LLC :  (Insurance agents and brokers | Finders' fees/placement fees)
-    2018: JEOL USA INC VOLUNTARY EMPLOYEES BENEFIT PLAN TRUS
-        Participants: 
-        Assets: 2862470
-        $/Participant: 
-        Service Providers:
-           - HEALTH PLANS, INC. :  (Claims processing | Other services)
-           - CABOT RISK STRATEGIES, LLC :  (Insurance agents and brokers | Finders' fees/placement fees)
-    2017: JEOL USA INC VOLUNTARY EMPLOYEES BENEFIT PLAN TRUS
-        Participants: 
-        Assets: 2026680
-        $/Participant: 
-        Service Providers:
-           - HEALTH PLANS, INC. :  (Claims processing | Other services)
-           - CABOT RISK STRATEGIES, LLC :  (Insurance agents and brokers | Finders' fees/placement fees)
    [001]
     2021: JEOL USA INC. EMPLOYEES RETIREMENT PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D2R 
         Participants: 282
         Assets: 113244340
         $/Participant: 401575
@@ -57,6 +12,8 @@ MA : PEABODY
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
     2020: JEOL USA INC. EMPLOYEES RETIREMENT PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D2R 
         Participants: 289
         Assets: 103933045
         $/Participant: 359629
@@ -65,6 +22,8 @@ MA : PEABODY
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
     2019: JEOL USA INC. EMPLOYEES RETIREMENT PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3H 
         Participants: 295
         Assets: 91939662
         $/Participant: 311659
@@ -73,6 +32,8 @@ MA : PEABODY
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2018: JEOL USA INC. EMPLOYEES RETIREMENT PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3H 
         Participants: 291
         Assets: 72548022
         $/Participant: 249305
@@ -81,6 +42,8 @@ MA : PEABODY
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2017: JEOL USA INC. EMPLOYEES RETIREMENT PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T2E3D 
         Participants: 298
         Assets: 76716598
         $/Participant: 257438
@@ -88,3 +51,70 @@ MA : PEABODY
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
+   [501]
+    2021: JEOL USA INC VOLUNTARY EMPLOYEES BENEFIT PLAN TRUS
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+        Assets: 1948079
+        $/Participant: 
+        Service Providers:
+           - HEALTH PLANS, INC. :  (Claims processing | Other services)
+           - CABOT RISK STRATEGIES, LLC :  (Insurance agents and brokers | Finders' fees/placement fees)
+    2020: JEOL USA INC VOLUNTARY EMPLOYEES BENEFIT PLAN TRUS
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+        Assets: 3029013
+        $/Participant: 
+        Service Providers:
+           - HEALTH PLANS, INC. :  (Claims processing | Other services)
+           - CABOT RISK STRATEGIES, LLC :  (Insurance agents and brokers | Finders' fees/placement fees)
+    2019: JEOL USA INC VOLUNTARY EMPLOYEES BENEFIT PLAN TRUS
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+        Assets: 2575632
+        $/Participant: 
+        Service Providers:
+           - HEALTH PLANS, INC. :  (Claims processing | Other services)
+           - CABOT RISK STRATEGIES, LLC :  (Insurance agents and brokers | Finders' fees/placement fees)
+    2018: JEOL USA INC VOLUNTARY EMPLOYEES BENEFIT PLAN TRUS
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+        Assets: 2862470
+        $/Participant: 
+        Service Providers:
+           - HEALTH PLANS, INC. :  (Claims processing | Other services)
+           - CABOT RISK STRATEGIES, LLC :  (Insurance agents and brokers | Finders' fees/placement fees)
+    2017: JEOL USA INC VOLUNTARY EMPLOYEES BENEFIT PLAN TRUS
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+        Assets: 2026680
+        $/Participant: 
+        Service Providers:
+           - HEALTH PLANS, INC. :  (Claims processing | Other services)
+           - CABOT RISK STRATEGIES, LLC :  (Insurance agents and brokers | Finders' fees/placement fees)
+   [502]
+    2021: JEOL USA, INC. INSURED EMPLOYEE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L4Q
+        Participants: 
+    2020: JEOL USA, INC. INSURED EMPLOYEE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L4Q
+        Participants: 
+    2019: JEOL USA, INC. INSURED EMPLOYEE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 
+    2018: JEOL USA, INC. INSURED EMPLOYEE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 
+    2017: JEOL USA, INC. INSURED EMPLOYEE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 

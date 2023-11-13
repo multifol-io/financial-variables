@@ -1,34 +1,12 @@
 WI : ONALASKA
   A.L.M. HOLDING COMPANY  200520252
-   [502]
-    2022: CONSOLIDATED WELFARE BENEFIT PLAN
-        Participants: 
-    2021: CONSOLIDATED WELFARE BENEFIT PLAN
-        Participants: 
-    2020: CONSOLIDATED WELFARE BENEFIT PLAN
-        Participants: 
-    2019: CONSOLIDATED WELFARE BENEFIT PLAN
-        Participants: 
-    2018: CONSOLIDATED WELFARE BENEFIT PLAN
-        Participants: 
-    2017: CONSOLIDATED WELFARE BENEFIT PLAN
-        Participants: 
-   [501]
-    2022: SECURITY WELFARE BENEFIT PLAN
-        Participants: 
-    2021: SECURITY WELFARE BENEFIT PLAN
-        Participants: 
-    2020: SECURITY WELFARE BENEFIT PLAN
-        Participants: 
-    2019: SECURITY WELFARE BENEFIT PLAN
-        Participants: 
-    2018: SECURITY WELFARE BENEFIT PLAN
-        Participants: 
-    2017: SECURITY WELFARE BENEFIT PLAN
-        Participants: 
-   [003]
-    2022: ASSURED RETIREMENT PLAN
-        Participants: 106
+    2022: SECURITY RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 3D2R2G2J2K2S2T2F2E3H 4B
+        Participants: 1101
+        Assets: 251930512
+        $/Participant: 228819
+        RecordKeeper: CAPTRUST FINANCIAL SERVICES
         Available Investments:
            - SEI TRUST COMPANY
                  : AM CENT SM CAP VAL
@@ -44,15 +22,26 @@ WI : ONALASKA
                  : VANGUARD TARGET 2055
                  : VANGUARD TARGET 2060
                  : VANGUARD TARGET 2065
-    2021: ASSURED RETIREMENT PLAN
-        Participants: 98
+                 : VANGUARD TARGET INC
+    2021: SECURITY RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2K2R2S2T3D2F2E3H 4B
+        Participants: 988
+        Assets: 306747448
+        $/Participant: 310473
+        RecordKeeper: CAPTRUST FINANCIAL ADVISORS
         Available Investments:
            - SEI TRUST COMPANY
                  : AM CENT SM CAP VAL
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANG RET SAV TR IV
-    2020: ASSURED RETIREMENT PLAN
-        Participants: 88
+    2020: SECURITY RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2T3H2E2F2G2J2S2K3D2R 4B
+        Participants: 937
+        Assets: 268297073
+        $/Participant: 286336
+        RecordKeeper: CAPTRUST
         Available Investments:
            - SEI TRUST COMPANY
                  : AM CENT SM CAP VAL
@@ -60,15 +49,26 @@ WI : ONALASKA
                  : VANG RET SAV TR IV
            - WELLS FARGO BANK, N.A.
                  : WF STABLE RETURN
-    2019: ASSURED RETIREMENT PLAN
-        Participants: 75
+    2019: SECURITY RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2S2T3D3H2E2F2G2J2K2R 4B
+        Participants: 901
+        Assets: 224276400
+        $/Participant: 248919
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WF STABLE RETURN
-    2018: ASSURED RETIREMENT PLAN
-        Participants: 28
+    2018: SECURITY RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T3D3H2E 4B
+        Participants: 996
+        Assets: 190282101
+        $/Participant: 191046
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - STATE STREET BANK & TRUST COMPANY
+                 : SS TRGT RET 2015 II
                  : SS TRGT RET 2020 II
                  : SS TRGT RET 2025 II
                  : SS TRGT RET 2030 II
@@ -77,12 +77,19 @@ WI : ONALASKA
                  : SS TRGT RET 2045 II
                  : SS TRGT RET 2050 II
                  : SS TRGT RET 2055 II
+                 : SS TRGT RET INC II
            - WELLS FARGO BANK, N.A.
                  : WF STABLE RETURN
-    2017: ASSURED RETIREMENT PLAN
-        Participants: 26
+    2017: SECURITY RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3H 4B
+        Participants: 947
+        Assets: 195604063
+        $/Participant: 206551
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - STATE STREET BANK & TRUST COMPANY
+                 : SS TRGT RET 2015 II
                  : SS TRGT RET 2020 II
                  : SS TRGT RET 2025 II
                  : SS TRGT RET 2030 II
@@ -91,10 +98,13 @@ WI : ONALASKA
                  : SS TRGT RET 2045 II
                  : SS TRGT RET 2050 II
                  : SS TRGT RET 2055 II
+                 : SS TRGT RET INC II
            - WELLS FARGO BANK, N.A.
                  : WF STABLE RETURN
    [002]
     2022: CONSOLIDATED RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2K2S2T3H2E2G2F2J3D2R 
         Participants: 778
         Assets: 45670458
         $/Participant: 58702
@@ -117,6 +127,8 @@ WI : ONALASKA
                  : VANGUARD TARGET 2070
                  : VANGUARD TARGET INC
     2021: CONSOLIDATED RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2K2S2T3H2E2G2F2J3D2R 
         Participants: 845
         Assets: 59434476
         $/Participant: 70336
@@ -127,6 +139,8 @@ WI : ONALASKA
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANG RET SAV TR IV
     2020: CONSOLIDATED RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2J2K2S2T3H3D2E2G2F2R 
         Participants: 877
         Assets: 47080050
         $/Participant: 53683
@@ -139,6 +153,8 @@ WI : ONALASKA
            - WELLS FARGO BANK, N.A.
                  : WF STABLE RETURN
     2019: CONSOLIDATED RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3H 
         Participants: 756
         Assets: 34122133
         $/Participant: 45135
@@ -147,6 +163,8 @@ WI : ONALASKA
            - WELLS FARGO BANK, N.A.
                  : WF STABLE RETURN
     2018: CONSOLIDATED RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T2E3D3H 
         Participants: 950
         Assets: 26614695
         $/Participant: 28015
@@ -166,6 +184,8 @@ WI : ONALASKA
            - WELLS FARGO BANK, N.A.
                  : WF STABLE RETURN
     2017: CONSOLIDATED RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T3D2E3H 
         Participants: 779
         Assets: 27061592
         $/Participant: 34738
@@ -184,12 +204,11 @@ WI : ONALASKA
                  : SS TRGT RET INC II
            - WELLS FARGO BANK, N.A.
                  : WF STABLE RETURN
-   [001]
-    2022: SECURITY RETIREMENT PLAN
-        Participants: 1101
-        Assets: 251930512
-        $/Participant: 228819
-        RecordKeeper: CAPTRUST FINANCIAL SERVICES
+   [003]
+    2022: ASSURED RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
+        Participants: 106
         Available Investments:
            - SEI TRUST COMPANY
                  : AM CENT SM CAP VAL
@@ -205,22 +224,19 @@ WI : ONALASKA
                  : VANGUARD TARGET 2055
                  : VANGUARD TARGET 2060
                  : VANGUARD TARGET 2065
-                 : VANGUARD TARGET INC
-    2021: SECURITY RETIREMENT PLAN
-        Participants: 988
-        Assets: 306747448
-        $/Participant: 310473
-        RecordKeeper: CAPTRUST FINANCIAL ADVISORS
+    2021: ASSURED RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
+        Participants: 98
         Available Investments:
            - SEI TRUST COMPANY
                  : AM CENT SM CAP VAL
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANG RET SAV TR IV
-    2020: SECURITY RETIREMENT PLAN
-        Participants: 937
-        Assets: 268297073
-        $/Participant: 286336
-        RecordKeeper: CAPTRUST
+    2020: ASSURED RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
+        Participants: 88
         Available Investments:
            - SEI TRUST COMPANY
                  : AM CENT SM CAP VAL
@@ -228,22 +244,19 @@ WI : ONALASKA
                  : VANG RET SAV TR IV
            - WELLS FARGO BANK, N.A.
                  : WF STABLE RETURN
-    2019: SECURITY RETIREMENT PLAN
-        Participants: 901
-        Assets: 224276400
-        $/Participant: 248919
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2019: ASSURED RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
+        Participants: 75
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WF STABLE RETURN
-    2018: SECURITY RETIREMENT PLAN
-        Participants: 996
-        Assets: 190282101
-        $/Participant: 191046
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2018: ASSURED RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
+        Participants: 28
         Available Investments:
            - STATE STREET BANK & TRUST COMPANY
-                 : SS TRGT RET 2015 II
                  : SS TRGT RET 2020 II
                  : SS TRGT RET 2025 II
                  : SS TRGT RET 2030 II
@@ -252,17 +265,14 @@ WI : ONALASKA
                  : SS TRGT RET 2045 II
                  : SS TRGT RET 2050 II
                  : SS TRGT RET 2055 II
-                 : SS TRGT RET INC II
            - WELLS FARGO BANK, N.A.
                  : WF STABLE RETURN
-    2017: SECURITY RETIREMENT PLAN
-        Participants: 947
-        Assets: 195604063
-        $/Participant: 206551
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2017: ASSURED RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
+        Participants: 26
         Available Investments:
            - STATE STREET BANK & TRUST COMPANY
-                 : SS TRGT RET 2015 II
                  : SS TRGT RET 2020 II
                  : SS TRGT RET 2025 II
                  : SS TRGT RET 2030 II
@@ -271,6 +281,55 @@ WI : ONALASKA
                  : SS TRGT RET 2045 II
                  : SS TRGT RET 2050 II
                  : SS TRGT RET 2055 II
-                 : SS TRGT RET INC II
            - WELLS FARGO BANK, N.A.
                  : WF STABLE RETURN
+   [501]
+    2022: SECURITY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: SECURITY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L4Q
+        Participants: 
+    2020: SECURITY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L4Q
+        Participants: 
+    2019: SECURITY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L
+        Participants: 
+    2018: SECURITY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L
+        Participants: 
+    2017: SECURITY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L4Q
+        Participants: 
+   [502]
+    2022: CONSOLIDATED WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: CONSOLIDATED WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: CONSOLIDATED WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: CONSOLIDATED WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: CONSOLIDATED WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2017: CONSOLIDATED WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 

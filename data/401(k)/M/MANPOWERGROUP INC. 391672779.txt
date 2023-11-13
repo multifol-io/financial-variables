@@ -1,39 +1,9 @@
 WI : MILWAUKEE
   MANPOWERGROUP INC.  391672779
-   [599]
-    2022: MANPOWERGROUP RETIREE HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: MANPOWERGROUP RETIREE HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: MANPOWERGROUP RETIREE HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: MANPOWERGROUP RETIREE HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: MANPOWERGROUP RETIREE HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: MANPOWERGROUP RETIREE HEALTH AND WELFARE PLAN
-        Participants: 
-   [518]
-    2022: MANPOWERGROUP HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: MANPOWERGROUP HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: MANPOWERGROUP HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: MANPOWERGROUP HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: MANPOWERGROUP HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: MANPOWERGROUP HEALTH AND WELFARE PLAN
-        Participants: 
-   [011]
-    2020: TRANSPERSONNEL RETIREMENT PLAN
-        Participants: 0
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : MIP CL 1
    [008]
     2022: MANPOWERGROUP 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2K2T2E2F 
         Participants: 84438
         Assets: 530064814
         $/Participant: 6277
@@ -44,6 +14,8 @@ WI : MILWAUKEE
            - PRUDENTIAL TRUST COMPANY
                  : PRU CORE PL BD CL 7
     2021: MANPOWERGROUP 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 85644
         Assets: 655608051
         $/Participant: 7655
@@ -71,6 +43,8 @@ WI : MILWAUKEE
            - WELLINGTON TRUST COMPANY, NA
                  : WT INTL OPPS
     2020: MANPOWERGROUP 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 79879
         Assets: 570522057
         $/Participant: 7142
@@ -96,6 +70,8 @@ WI : MILWAUKEE
            - SEI TRUST COMPANY
                  : EPOCH US ALL CAP 1
     2018: MANPOWERGROUP 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 37187
         Assets: 449358717
         $/Participant: 12083
@@ -104,6 +80,8 @@ WI : MILWAUKEE
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MANAGED INCOME PORTFOLIO COMMINGLED
     2017: MANPOWERGROUP 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 38794
         Assets: 495484757
         $/Participant: 12772
@@ -111,13 +89,75 @@ WI : MILWAUKEE
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MANAGED INCOME PORTFOLIO COMMINGLED
+   [011]
+    2020: TRANSPERSONNEL RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
+        Participants: 0
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : MIP CL 1
+   [518]
+    2022: MANPOWERGROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2021: MANPOWERGROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2020: MANPOWERGROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2019: MANPOWERGROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2018: MANPOWERGROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2017: MANPOWERGROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+   [599]
+    2022: MANPOWERGROUP RETIREE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4Q
+        Participants: 
+    2021: MANPOWERGROUP RETIREE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4Q
+        Participants: 
+    2020: MANPOWERGROUP RETIREE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4Q
+        Participants: 
+    2019: MANPOWERGROUP RETIREE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4Q
+        Participants: 
+    2018: MANPOWERGROUP RETIREE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4Q
+        Participants: 
+    2017: MANPOWERGROUP RETIREE HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4Q
+        Participants: 
    [001]
     2021: MANPOWERGROUP INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 0
         Service Providers:
            - FIDELITY INVESTMENTS : CONSULTANT (Actuarial | Direct payment from the plan)
            - KUTAK ROCK : LEGAL CONSULTANT (Legal | Direct payment from the plan)
     2020: MANPOWERGROUP INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 0
         Service Providers:
            - FIDELITY INVESTMENTS : CONSULTANT (Actuarial | Direct payment from the plan)
@@ -125,6 +165,8 @@ WI : MILWAUKEE
            - WIPFLI : PLAN AUDITOR (Accounting(including auditing) | Consulting(general))
            - FID MGMT TRUST COMPANY : TRUST SERVICES (Trustee(bank, trust company, or similar) | Direct payment from the plan)
     2019: MANPOWERGROUP INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 13
         Assets: 17599567
         $/Participant: 1353812
@@ -136,6 +178,8 @@ WI : MILWAUKEE
            - WIPFLI : PLAN AUDITOR (Accounting(including auditing) | Consulting(general))
            - BMO HARRIS : TRUST SERVICES (Trustee(bank, trust company, or similar))
     2018: MANPOWERGROUP INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 953
         Assets: 37031796
         $/Participant: 38858
@@ -147,6 +191,8 @@ WI : MILWAUKEE
            - PRUDENTIAL TRUST COMPANY : INV ADVISORY (Investment management)
            - WIPFLI : PLAN AUDITOR (Accounting(including auditing) | Consulting(general))
     2017: MANPOWERGROUP INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 980
         Assets: 37603228
         $/Participant: 38370

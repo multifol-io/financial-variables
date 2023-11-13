@@ -1,20 +1,18 @@
 NJ : JERSEY CITY
   TP ICAP AMERICAS HOLDINGS INC.  510631562
-   [501]
-    2022: TP ICAP AMERICAS HOLDINGS INC. WRAP PLAN
-        Participants: 
-    2021: EMPLOYEES WELFARE BENEFIT PLAN OF TP ICAP AMERICAS HOLDINGS INC.
-        Participants: 
-    2020: EMPLOYEES WELFARE BENEFIT PLAN OF TP ICAP AMERICAS HOLDINGS INC.
-        Participants: 
-    2019: EMPLOYEES WELFARE BENEFIT PLAN OF TP ICAP AMERICAS HOLDINGS INC.
-        Participants: 
-    2018: EMPLOYEES WELFARE BENEFIT PLAN OF TP ICAP AMERICAS HOLDINGS INC.
-        Participants: 
-    2017: EMPLOYEES WELFARE BENEFIT PLAN OF TP ICAP AMERICAS HOLDINGS INC.
-        Participants: 
+   [001]
+    2017: TULLETT PREBON (AMERICAS) HOLDINGS INC. RETIREMENT AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2T3D3H 
+        Participants: 0
+        RecordKeeper: UBS FINANCIAL SERVICES
+        Available Investments:
+           - TRANSAMERICA RETIREMENT SOLUTIONS
+                 : TRANSAMERICA RETIREMENT SOLUTIONS C
    [002]
     2022: TP ICAP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T3D 
         Participants: 2107
         Assets: 468288788
         $/Participant: 222253
@@ -44,6 +42,8 @@ NJ : JERSEY CITY
            - WILMINGTON TRUST RETIREMENT & INSTITUTIONAL SERVICES COMPANY
                  : CIT III FOR METLIFE GAC NO 25554
     2021: TP ICAP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T3D 
         Participants: 1746
         Assets: 474484999
         $/Participant: 271755
@@ -60,6 +60,8 @@ NJ : JERSEY CITY
            - WILMINGTON TRUST RETIREMENT & INSTITUTIONAL SERVICES COMPANY
                  : CIT III FOR METLIFE GAC NO 25554
     2020: TP ICAP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T3D 
         Participants: 1771
         Assets: 424293919
         $/Participant: 239578
@@ -76,6 +78,8 @@ NJ : JERSEY CITY
            - WILMINGTON TRUST RETIREMENT & INSTITUTIONAL SERVICES COMPANY
                  : CIT III FOR METLIFE GAC NO 25554
     2019: TP ICAP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T3D 
         Participants: 1831
         Assets: 368066103
         $/Participant: 201019
@@ -94,6 +98,8 @@ NJ : JERSEY CITY
            - WILMINGTON TRUST RETIREMENT & INSTITUTIONAL SERVICES COMPANY
                  : CIT III FOR METLIFE GAC NO 25554
     2018: TP ICAP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T3D 
         Participants: 1816
         Assets: 309722890
         $/Participant: 170552
@@ -111,10 +117,28 @@ NJ : JERSEY CITY
                  : WELLS FARGO STABLE VALUE C
            - WILMINGTON TRUST RETIREMENT & INSTITUTIONAL SERVICES COMPANY
                  : CIT III FOR METLIFE GAC NO 25554
-   [001]
-    2017: TULLETT PREBON (AMERICAS) HOLDINGS INC. RETIREMENT AND SAVINGS PLAN
-        Participants: 0
-        RecordKeeper: UBS FINANCIAL SERVICES
-        Available Investments:
-           - TRANSAMERICA RETIREMENT SOLUTIONS
-                 : TRANSAMERICA RETIREMENT SOLUTIONS C
+   [501]
+    2022: TP ICAP AMERICAS HOLDINGS INC. WRAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: EMPLOYEES WELFARE BENEFIT PLAN OF TP ICAP AMERICAS HOLDINGS INC.
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: EMPLOYEES WELFARE BENEFIT PLAN OF TP ICAP AMERICAS HOLDINGS INC.
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: EMPLOYEES WELFARE BENEFIT PLAN OF TP ICAP AMERICAS HOLDINGS INC.
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+    2018: EMPLOYEES WELFARE BENEFIT PLAN OF TP ICAP AMERICAS HOLDINGS INC.
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+    2017: EMPLOYEES WELFARE BENEFIT PLAN OF TP ICAP AMERICAS HOLDINGS INC.
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 

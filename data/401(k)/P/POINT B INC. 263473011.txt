@@ -1,52 +1,8 @@
 WA : SEATTLE
   POINT B INC.  263473011
-   [505]
-    2019: POINT B INC. FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2018: POINT B INC. FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2017: POINT B INC. FLEXIBLE BENEFITS PLAN
-        Participants: 
-   [501]
-    2022: GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-   [002]
-    2022: POINT B, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Participants: 1086
-        Assets: 142690764
-        $/Participant: 131391
-    2021: POINT B, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Participants: 992
-        Assets: 261715027
-        $/Participant: 263825
-    2020: POINT B, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Participants: 1001
-        Assets: 140429832
-        $/Participant: 140289
-    2019: POINT B, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Participants: 861
-        Assets: 101587244
-        $/Participant: 117987
-    2018: POINT B, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Participants: 811
-        Assets: 98165726
-        $/Participant: 121042
-    2017: POINT B, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Participants: 728
-        Assets: 68674224
-        $/Participant: 94332
-   [001]
     2022: POINT B, INC.& AFFILIATED EMPLOYERS 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 3F2E2F2G2J2R2S2T3D 
         Participants: 1261
         Assets: 128209675
         $/Participant: 101673
@@ -55,6 +11,8 @@ WA : SEATTLE
            - WELLS FARGO BANK, N.A.
                  : GALLIARD STBLE RTN C
     2021: POINT B 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3F3H3D 
         Participants: 1029
         Assets: 147955200
         $/Participant: 143785
@@ -63,6 +21,8 @@ WA : SEATTLE
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
     2020: POINT B 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3F3H3D 
         Participants: 954
         Assets: 134020013
         $/Participant: 140482
@@ -71,6 +31,8 @@ WA : SEATTLE
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
     2019: POINT B 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D3F3H 
         Participants: 1036
         Assets: 119404729
         $/Participant: 115255
@@ -79,6 +41,8 @@ WA : SEATTLE
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
     2018: POINT B 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D3F3H 
         Participants: 874
         Assets: 92377329
         $/Participant: 105694
@@ -87,6 +51,8 @@ WA : SEATTLE
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
     2017: POINT B 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D3F3H 
         Participants: 814
         Assets: 90535365
         $/Participant: 111222
@@ -94,3 +60,79 @@ WA : SEATTLE
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
+   [002]
+    2017: POINT B, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2J2O2Q3I 
+        Participants: 728
+        Assets: 68674224
+        $/Participant: 94332
+    2022: POINT B, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3H3I 
+        Participants: 1086
+        Assets: 142690764
+        $/Participant: 131391
+    2021: POINT B, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3H3I 
+        Participants: 992
+        Assets: 261715027
+        $/Participant: 263825
+    2020: POINT B, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3H3I 
+        Participants: 1001
+        Assets: 140429832
+        $/Participant: 140289
+    2019: POINT B, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3H3I 
+        Participants: 861
+        Assets: 101587244
+        $/Participant: 117987
+    2018: POINT B, INC. EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
+        Participants: 811
+        Assets: 98165726
+        $/Participant: 121042
+   [501]
+    2022: GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2018: GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2017: GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+   [505]
+    2019: POINT B INC. FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: POINT B INC. FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: POINT B INC. FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 

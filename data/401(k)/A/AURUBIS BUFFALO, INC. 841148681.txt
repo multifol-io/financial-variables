@@ -1,51 +1,9 @@
 NY : BUFFALO
   AURUBIS BUFFALO, INC.  841148681
-   [501]
-    2022: AURUBIS BUFFALO, INC. WELFARE BENEFITS
-        Participants: 911
-    2021: AURUBIS BUFFALO, INC. WELFARE BENEFITS
-        Participants: 968
-    2020: AURUBIS BUFFALO, INC. WELFARE BENEFITS
-        Participants: 957
-    2019: AURUBIS BUFFALO, INC. WELFARE BENEFITS
-        Participants: 602
-    2018: AURUBIS BUFFALO, INC. WELFARE BENEFITS
-        Participants: 636
-    2017: AURUBIS BUFFALO, INC. WELFARE BENEFITS
-        Participants: 650
-   [005]
-    2022: AURUBIS BUFFALO, INC. 401(K) RETIREMENT PLAN
-        Participants: 204
-        Assets: 39766158
-        $/Participant: 194932
-        RecordKeeper: RESOURCES INVESTMENT ADVISORS LLC
-    2021: AURUBIS BUFFALO, INC. 401(K) RETIREMENT PLAN
-        Participants: 196
-        Assets: 53576600
-        $/Participant: 273350
-        RecordKeeper: RESOURCES INVESTMENT ADVISORS LLC
-    2020: AURUBIS BUFFALO, INC. 401(K) RETIREMENT PLAN
-        Participants: 176
-        Assets: 51521595
-        $/Participant: 292736
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2019: AURUBIS BUFFALO, INC. 401(K) RETIREMENT PLAN
-        Participants: 183
-        Assets: 47506818
-        $/Participant: 259600
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2018: AURUBIS BUFFALO, INC. 401(K) RETIREMENT PLAN
-        Participants: 189
-        Assets: 40057140
-        $/Participant: 211942
-        RecordKeeper: WELLS FARGO
-    2017: AURUBIS BUFFALO, INC. 401(K) RETIREMENT PLAN
-        Participants: 193
-        Assets: 45008457
-        $/Participant: 233204
-        RecordKeeper: WELLS FARGO
    [003]
     2022: AURUBIS BUFFALO & USW LOCAL 593 401(K)
+        Benefit Category: 401(k)
+        Codes: 2T2J2G3H2E2F3D2S 
         Participants: 560
         Assets: 42082198
         $/Participant: 75146
@@ -57,6 +15,8 @@ NY : BUFFALO
                  : SA/INVESCO GLOBAL STRAT
                  : TRP GROWTH STK STGY
     2021: AURUBIS BUFFALO & USW LOCAL 593 401(K)
+        Benefit Category: 401(k)
+        Codes: 2T2J2G3H2E2F3D 
         Participants: 570
         Assets: 49543865
         $/Participant: 86919
@@ -68,6 +28,8 @@ NY : BUFFALO
                  : SA/INVESCO GLOBAL STRAT
                  : TRP GROWTH STK STGY
     2020: AURUBIS BUFFALO & USW LOCAL 593 401(K)
+        Benefit Category: 401(k)
+        Codes: 2T2J2G3H2E2F3D 
         Participants: 561
         Assets: 47081152
         $/Participant: 83923
@@ -80,6 +42,8 @@ NY : BUFFALO
                  : SCV/KENNEDY CAPITAL
                  : TRP GROWTH STK STGY
     2019: AURUBIS BUFFALO & USW LOCAL 593 401(K)
+        Benefit Category: 401(k)
+        Codes: 2T2J2G3H2E2F3D 
         Participants: 590
         Assets: 43362401
         $/Participant: 73495
@@ -92,6 +56,8 @@ NY : BUFFALO
                  : SCV/KENNEDY CAPITAL
                  : TRP GROWTH STK STGY
     2018: AURUBIS BUFFALO & USW LOCAL 593 401(K)
+        Benefit Category: 401(k)
+        Codes: 2T2J2G3H2E2F3D 
         Participants: 602
         Assets: 39603546
         $/Participant: 65786
@@ -111,6 +77,8 @@ NY : BUFFALO
                  : SCV/KENNEDY CAPITAL
                  : TRP EQTY INC STGY
     2017: AURUBIS BUFFALO & USW LOCAL 593 401(K)
+        Benefit Category: 401(k)
+        Codes: 2T2J2G3H2E2F3D 
         Participants: 608
         Assets: 41338271
         $/Participant: 67990
@@ -127,8 +95,78 @@ NY : BUFFALO
                  : SCG/TIMESSQUARE
                  : SCV/KENNEDY CAPITAL
                  : TRP EQTY INC STGY
+   [005]
+    2022: AURUBIS BUFFALO, INC. 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2S2T2E2F2G2J2K3D 
+        Participants: 204
+        Assets: 39766158
+        $/Participant: 194932
+        RecordKeeper: RESOURCES INVESTMENT ADVISORS LLC
+    2021: AURUBIS BUFFALO, INC. 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2S2T2E2F2G2J2K3D 
+        Participants: 196
+        Assets: 53576600
+        $/Participant: 273350
+        RecordKeeper: RESOURCES INVESTMENT ADVISORS LLC
+    2020: AURUBIS BUFFALO, INC. 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2S2T2E2F2G2J2K3D 
+        Participants: 176
+        Assets: 51521595
+        $/Participant: 292736
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2019: AURUBIS BUFFALO, INC. 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2S2T3D2E2F2G2J2K 
+        Participants: 183
+        Assets: 47506818
+        $/Participant: 259600
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2018: AURUBIS BUFFALO, INC. 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3H2S2T 
+        Participants: 189
+        Assets: 40057140
+        $/Participant: 211942
+        RecordKeeper: WELLS FARGO
+    2017: AURUBIS BUFFALO, INC. 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3H2S2T 
+        Participants: 193
+        Assets: 45008457
+        $/Participant: 233204
+        RecordKeeper: WELLS FARGO
+   [501]
+    2022: AURUBIS BUFFALO, INC. WELFARE BENEFITS
+        Benefit Category: Healthcare
+        Codes:  4A4E4B4D4F4H4Q
+        Participants: 911
+    2021: AURUBIS BUFFALO, INC. WELFARE BENEFITS
+        Benefit Category: Healthcare
+        Codes:  4A4E4B4D4F4H4Q
+        Participants: 968
+    2020: AURUBIS BUFFALO, INC. WELFARE BENEFITS
+        Benefit Category: Healthcare
+        Codes:  4A4E4B4D4F4H4Q
+        Participants: 957
+    2019: AURUBIS BUFFALO, INC. WELFARE BENEFITS
+        Benefit Category: Healthcare
+        Codes:  4A4E4B4D4F4H4Q
+        Participants: 602
+    2018: AURUBIS BUFFALO, INC. WELFARE BENEFITS
+        Benefit Category: Healthcare
+        Codes:  4A4E4B4D4F4H4Q
+        Participants: 636
+    2017: AURUBIS BUFFALO, INC. WELFARE BENEFITS
+        Benefit Category: Healthcare
+        Codes:  4A4E4B4D4F4H4Q
+        Participants: 650
    [002]
     2022: PENSION PLAN FOR HOURLY EMPLOYEES OF AURUBIS BUFFALO, INC.
+        Benefit Category: Pension
+        Codes: 1B3H 
         Participants: 490
         Assets: 32939717
         $/Participant: 67223
@@ -137,6 +175,8 @@ NY : BUFFALO
            - ONEDIGITAL RESOURCES INVEST ADVISOR : FINANCIAL ADVISOR/CONSULT (Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - REGIONS BANK :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
     2021: PENSION PLAN FOR HOURLY EMPLOYEES OF AURUBIS BUFFALO, INC.
+        Benefit Category: Pension
+        Codes: 1B3H 
         Participants: 540
         Assets: 49972156
         $/Participant: 92541
@@ -145,6 +185,8 @@ NY : BUFFALO
            - WESTMINSTER CONSULTING, LLC : FINANCIAL ADVISOR/CONSULT (Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - REGIONS BANK :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
     2020: PENSION PLAN FOR HOURLY EMPLOYEES OF AURUBIS BUFFALO, INC.
+        Benefit Category: Pension
+        Codes: 1B3H 
         Participants: 542
         Assets: 43165835
         $/Participant: 79641
@@ -153,6 +195,8 @@ NY : BUFFALO
            - REGIONS BANK :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - WESTMINSTER CONSULTING, LLC : FINANCIAL ADVISOR/CONSULT (Consulting(pension))
     2019: PENSION PLAN FOR HOURLY EMPLOYEES OF AURUBIS BUFFALO, INC.
+        Benefit Category: Pension
+        Codes: 1B3H 
         Participants: 577
         Assets: 51024493
         $/Participant: 88430
@@ -161,6 +205,8 @@ NY : BUFFALO
            - WESTMINSTER CONSULTING, LLC : FINANCIAL ADVISOR/CONSULT (Consulting(pension))
            - REGIONS BANK :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
     2018: PENSION PLAN FOR HOURLY EMPLOYEES OF AURUBIS BUFFALO, INC.
+        Benefit Category: Pension
+        Codes: 1B3H 
         Participants: 580
         Assets: 40826882
         $/Participant: 70391
@@ -186,6 +232,8 @@ NY : BUFFALO
            - SIA-ZX
                  : MASSACHUSETTS MUTUAL LIFE INSURANCE
     2017: PENSION PLAN FOR HOURLY EMPLOYEES OF AURUBIS BUFFALO, INC.
+        Benefit Category: Pension
+        Codes: 1B3H 
         Participants: 588
         Assets: 43419740
         $/Participant: 73843

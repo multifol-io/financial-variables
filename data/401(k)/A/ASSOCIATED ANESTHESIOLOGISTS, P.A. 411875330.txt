@@ -1,64 +1,17 @@
 MN : PLYMOUTH
   ASSOCIATED ANESTHESIOLOGISTS, P.A.  411875330
-   [503]
-    2022: ASSOCIATED ANESTHESIOLOGISTS, P.A. HEALTH INSURANCE PLAN
-        Participants: 
-    2021: ASSOCIATED ANESTHESIOLOGISTS, P.A. HEALTH INSURANCE PLAN
-        Participants: 
-MN : ROSEVILLE
-    2020: ASSOCIATED ANESTHESIOLOGISTS, P.A. HEALTH INSURANCE PLAN
-        Participants: 
-MN : PLYMOUTH
-    2019: ASSOCIATED ANESTHESIOLOGISTS, P.A. HEALTH INSURANCE PLAN
-        Participants: 
-MN : ROSEVILLE
-    2018: ASSOCIATED ANESTHESIOLOGISTS, P.A. HEALTH INSURANCE PLAN
-        Participants: 
-    2017: ASSOCIATED ANESTHESIOLOGISTS, P.A. - AAPA DIVISION HEALTH INSURANCE PLAN
-        Participants: 
-MN : PLYMOUTH
-   [502]
-    2022: ASSOCIATED ANESTHESIOLOGISTS, P.A. GROUP LIFE AND AD&D PLAN
-        Participants: 
-    2021: ASSOCIATED ANESTHESIOLOGISTS, P.A. GROUP LIFE AND AD&D PLAN
-        Participants: 
-MN : ROSEVILLE
-    2020: ASSOCIATED ANESTHESIOLOGISTS, P.A. GROUP LIFE AND AD&D PLAN
-        Participants: 
-MN : PLYMOUTH
-    2019: ASSOCIATED ANESTHESIOLOGISTS, P.A. GROUP LIFE AND AD&D PLAN
-        Participants: 
-MN : ROSEVILLE
-    2018: ASSOCIATED ANESTHESIOLOGISTS, P.A. GROUP LIFE AND AD&D PLAN
-        Participants: 
-    2017: ASSOCIATED ANESTHESIOLOGISTS, P.A. - AAPA DIVISION GROUP LIFE AND AD&D PLAN
-        Participants: 
-MN : PLYMOUTH
-   [501]
-    2022: ASSOCIATED ANESTHESIOLOGISTS, P.A. LONG TERM DISABILITY PLAN
-        Participants: 
-    2021: ASSOCIATED ANESTHESIOLOGISTS, P.A. LONG TERM DISABILITY PLAN
-        Participants: 
-MN : ROSEVILLE
-    2020: ASSOCIATED ANESTHESIOLOGISTS, P.A. LONG TERM DISABILITY PLAN
-        Participants: 
-MN : PLYMOUTH
-    2019: ASSOCIATED ANESTHESIOLOGISTS, P.A. LONG TERM DISABILITY PLAN
-        Participants: 
-MN : ROSEVILLE
-    2018: ASSOCIATED ANESTHESIOLOGISTS, P.A. LONG TERM DISABILITY PLAN
-        Participants: 
-    2017: ASSOCIATED ANESTHESIOLOGISTS, P.A. - AAPA DIVISION LONG TERM DISABILITY PLAN
-        Participants: 
-MN : PLYMOUTH
    [002]
     2021: ASSOCIATED ANESTHESIOLOGISTS, P.A. 401K AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D3H 
         Participants: 0
         RecordKeeper: CHARLES SCHWAB & CO., INC.
         Available Investments:
            - WELLS FARGO BANK N.A.
                  : WELLS FARGO ADV STABLE RTN M
     2020: ASSOCIATED ANESTHESIOLOGISTS, P.A. 401K AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D3H 
         Participants: 210
         Assets: 132196593
         $/Participant: 629507
@@ -67,6 +20,8 @@ MN : PLYMOUTH
            - WELLS FARGO BANK N.A.
                  : WELLS FARGO ADV STABLE RTN M
     2019: ASSOCIATED ANESTHESIOLOGISTS, P.A. 401K AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D3H 
         Participants: 212
         Assets: 114255953
         $/Participant: 538943
@@ -76,6 +31,8 @@ MN : PLYMOUTH
                  : WELLS FARGO ADV STABLE RTN M
 MN : ROSEVILLE
     2018: ASSOCIATED ANESTHESIOLOGISTS, P.A. 401K AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D3H 
         Participants: 204
         Assets: 99251337
         $/Participant: 486526
@@ -84,6 +41,8 @@ MN : ROSEVILLE
            - WELLS FARGO BANK N.A.
                  : WF ADVANTAGE STABLE RETURN M
     2017: ASSOCIATED ANESTHESIOLOGISTS, P.A. 401(K) AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2R3D2A2F2T3H 
         Participants: 182
         Assets: 111581270
         $/Participant: 613083
@@ -91,3 +50,90 @@ MN : ROSEVILLE
         Available Investments:
            - WELLS FARGO BANK N.A.
                  : WF ADVANTAGE STABLE RETURN M
+MN : PLYMOUTH
+   [503]
+    2022: ASSOCIATED ANESTHESIOLOGISTS, P.A. HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: ASSOCIATED ANESTHESIOLOGISTS, P.A. HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+MN : ROSEVILLE
+    2020: ASSOCIATED ANESTHESIOLOGISTS, P.A. HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+MN : PLYMOUTH
+    2019: ASSOCIATED ANESTHESIOLOGISTS, P.A. HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+MN : ROSEVILLE
+    2018: ASSOCIATED ANESTHESIOLOGISTS, P.A. HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: ASSOCIATED ANESTHESIOLOGISTS, P.A. - AAPA DIVISION HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+MN : PLYMOUTH
+   [501]
+    2022: ASSOCIATED ANESTHESIOLOGISTS, P.A. LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2021: ASSOCIATED ANESTHESIOLOGISTS, P.A. LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+MN : ROSEVILLE
+    2020: ASSOCIATED ANESTHESIOLOGISTS, P.A. LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+MN : PLYMOUTH
+    2019: ASSOCIATED ANESTHESIOLOGISTS, P.A. LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+MN : ROSEVILLE
+    2018: ASSOCIATED ANESTHESIOLOGISTS, P.A. LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2017: ASSOCIATED ANESTHESIOLOGISTS, P.A. - AAPA DIVISION LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+MN : PLYMOUTH
+   [502]
+    2022: ASSOCIATED ANESTHESIOLOGISTS, P.A. GROUP LIFE AND AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B4F4L
+        Participants: 
+    2021: ASSOCIATED ANESTHESIOLOGISTS, P.A. GROUP LIFE AND AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+MN : ROSEVILLE
+    2020: ASSOCIATED ANESTHESIOLOGISTS, P.A. GROUP LIFE AND AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+MN : PLYMOUTH
+    2019: ASSOCIATED ANESTHESIOLOGISTS, P.A. GROUP LIFE AND AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+MN : ROSEVILLE
+    2018: ASSOCIATED ANESTHESIOLOGISTS, P.A. GROUP LIFE AND AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2017: ASSOCIATED ANESTHESIOLOGISTS, P.A. - AAPA DIVISION GROUP LIFE AND AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 

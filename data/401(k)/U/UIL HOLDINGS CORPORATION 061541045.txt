@@ -1,55 +1,9 @@
 CT : ORANGE
   UIL HOLDINGS CORPORATION  061541045
-   [532]
-    2019: UIL HOLDINGS CORPORATION EMPLOYEE HEALTH PLAN
-        Participants: 
-    2018: UIL HOLDINGS CORPORATION EMPLOYEE HEALTH PLAN
-        Participants: 
-    2017: UIL HOLDINGS CORPORATION EMPLOYEE HEALTH PLAN
-        Participants: 
-   [531]
-    2019: UIL HOLDINGS CORPORATION CAFETERIA PLAN FOR SELECT
-        Participants: 
-    2018: UIL HOLDINGS CORPORATION CAFETERIA PLAN FOR SELECT
-        Participants: 
-    2017: UIL HOLDINGS CORPORATION CAFETERIA PLAN FOR SELECT
-        Participants: 
-   [530]
-    2019: UIL HOLDINGS CORPORATION RETIREE HEALTH PLAN FOR S
-        Participants: 
-        Assets: 10902494
-        $/Participant: 
-    2018: UIL HOLDINGS CORPORATION RETIREE HEALTH PLAN FOR S
-        Participants: 
-        Assets: 12000000
-        $/Participant: 
-    2017: UIL HOLDINGS CORPORATION RETIREE HEALTH PLAN FOR S
-        Participants: 
-        Assets: 11807187
-        $/Participant: 
-   [005]
-    2021: UIL HOLDINGS CORPORATION MASTER TRUST
-        Participants: 
-    2020: UIL HOLDINGS CORPORATION MASTER TRUST
-        Participants: 
-        Assets: 9502292
-        $/Participant: 
-    2019: UIL HOLDINGS CORPORATION MASTER TRUST
-        Participants: 
-        Assets: 31850871
-        $/Participant: 
-ME : AUGUSTA
-    2018: UIL HOLDINGS CORPORATION MASTER TRUST
-        Participants: 
-        Assets: 36351834
-        $/Participant: 
-CT : ORANGE
-    2017: UIL HOLDINGS CORPORATION MASTER TRUST
-        Participants: 
-        Assets: 47810142
-        $/Participant: 
    [002]
     2021: UIL HOLDINGS CORPORATION 401(K) UNION PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2H2J2K2S2T 
         Participants: 0
         RecordKeeper: T ROWE PRICE RPS INC
         Available Investments:
@@ -79,6 +33,8 @@ CT : ORANGE
            - UIL HOLDINGS CORPORATION
                  : UIL HOLDINGS CORP. MASTER TRUST
     2020: UIL HOLDINGS CORPORATION 401(K) UNION PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2H2I2J2K2S2T 
         Participants: 711
         Assets: 193978719
         $/Participant: 272825
@@ -110,6 +66,9 @@ CT : ORANGE
            - UIL HOLDINGS CORPORATION
                  : UIL HOLDINGS CORP. MASTER TRUST
     2019: THE UIL HOLDINGS CORPORATION 401(K) EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2A2E2F2H2I2J2K2P2T 
         Participants: 1673
         Assets: 497415533
         $/Participant: 297319
@@ -141,6 +100,9 @@ CT : ORANGE
            - UIL HOLDINGS CORPORATION
                  : UIL HOLDINGS CORP. MASTER TRUST
     2018: THE UIL HOLDINGS CORPORATION 401(K) EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2A2E2F2H2I2J2K2P2T 
         Participants: 1839
         Assets: 430842646
         $/Participant: 234280
@@ -174,6 +136,9 @@ CT : ORANGE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2017: THE UIL HOLDINGS CORPORATION 401K/EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2H2I2J2K2P2T3I2A 
         Participants: 1910
         Assets: 466318914
         $/Participant: 244146
@@ -183,3 +148,79 @@ CT : ORANGE
                  : UIL HOLDINGS CORPORATION MASTER TRU
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
+   [530]
+    2019: UIL HOLDINGS CORPORATION RETIREE HEALTH PLAN FOR S
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q4U
+        Participants: 
+        Assets: 10902494
+        $/Participant: 
+    2018: UIL HOLDINGS CORPORATION RETIREE HEALTH PLAN FOR S
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q4U
+        Participants: 
+        Assets: 12000000
+        $/Participant: 
+    2017: UIL HOLDINGS CORPORATION RETIREE HEALTH PLAN FOR S
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q4U
+        Participants: 
+        Assets: 11807187
+        $/Participant: 
+   [532]
+    2019: UIL HOLDINGS CORPORATION EMPLOYEE HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4Q4U
+        Participants: 
+    2018: UIL HOLDINGS CORPORATION EMPLOYEE HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q4U
+        Participants: 
+    2017: UIL HOLDINGS CORPORATION EMPLOYEE HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q4U
+        Participants: 
+   [005]
+    2021: UIL HOLDINGS CORPORATION MASTER TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+    2020: UIL HOLDINGS CORPORATION MASTER TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 9502292
+        $/Participant: 
+    2019: UIL HOLDINGS CORPORATION MASTER TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 31850871
+        $/Participant: 
+ME : AUGUSTA
+    2018: UIL HOLDINGS CORPORATION MASTER TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 36351834
+        $/Participant: 
+CT : ORANGE
+    2017: UIL HOLDINGS CORPORATION MASTER TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 47810142
+        $/Participant: 
+   [531]
+    2019: UIL HOLDINGS CORPORATION CAFETERIA PLAN FOR SELECT
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2018: UIL HOLDINGS CORPORATION CAFETERIA PLAN FOR SELECT
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2017: UIL HOLDINGS CORPORATION CAFETERIA PLAN FOR SELECT
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 

@@ -1,13 +1,64 @@
 CO : DENVER
   COPIC TRUST  846170618
+   [002]
+    2022: COPIC COMPANIES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
+        Participants: 164
+        Assets: 28661604
+        $/Participant: 174765
+        RecordKeeper: TD AMERITRADE, INC.
+    2021: COPIC COMPANIES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3B3D 
+        Participants: 159
+        Assets: 32161309
+        $/Participant: 202272
+        RecordKeeper: TD AMERITRADE, INC.
+    2020: COPIC COMPANIES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D3B 
+        Participants: 145
+        Assets: 27966255
+        $/Participant: 192870
+        RecordKeeper: TD AMERITRADE, INC.
+    2019: COPIC COMPANIES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3B3D 
+        Participants: 135
+        Assets: 25574319
+        $/Participant: 189439
+        RecordKeeper: TD AMERITRADE, INC.
+    2018: COPIC COMPANIES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
+        Participants: 131
+        Assets: 20627775
+        $/Participant: 157463
+        RecordKeeper: GREAT-WEST & ANNUITY INSURANCE CO.
+    2017: COPIC COMPANIES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
+        Participants: 122
+        Assets: 22271474
+        $/Participant: 182553
+        RecordKeeper: TD AMERITRADE, INC
    [502]
+    2017: COPIC INSURANCE COMPANY FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4H4Q4D4F4L
+        Participants: 134
     2022: COPIC INSURANCE COMPANY FLEXIBLE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4D4E4F4G4H4L4Q
         Participants: 181
         Service Providers:
            - OPTUM RX : PHARMACY BENEFIT MANAGEME (Claims processing | Direct payment from the plan | Float revenue | Other fees)
            - UMR INC : CLAIMS PROCESSING (Claims processing)
            - COPIC INSURANCE COMPANY : BROKER (Other commissions)
     2019: COPIC INSURANCE COMPANY FLEXIBLE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4H4Q4D4F4L4E
         Participants: 149
         Service Providers:
            - OPTUMRX, INC : PHARMACY BENEFIT MGMT (Claims processing | Direct payment from the plan | Float revenue | Other fees)
@@ -15,46 +66,17 @@ CO : DENVER
            - UMR, INC. : CLAIMS PROCESSING (Claims processing)
            - DELTA DENTAL OF COLORADO : DENTAL CLAIMS ADMIN (Contract Administrator)
     2018: COPIC INSURANCE COMPANY FLEXIBLE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4H4Q4D4F4L4E
         Participants: 140
         Service Providers:
            - OPTUM RX INC : PHARMACY BENEFIT MGMT (Claims processing | Direct payment from the plan | Float revenue | Other fees)
            - COPIC INSURANCE COMPANY : BROKER (Other commissions)
            - UMR INC : CLAIMS PROCESSING (Claims processing)
-    2017: COPIC INSURANCE COMPANY FLEXIBLE BENEFIT PLAN
-        Participants: 134
-   [002]
-    2022: COPIC COMPANIES 401(K) PLAN
-        Participants: 164
-        Assets: 28661604
-        $/Participant: 174765
-        RecordKeeper: TD AMERITRADE, INC.
-    2021: COPIC COMPANIES 401(K) PLAN
-        Participants: 159
-        Assets: 32161309
-        $/Participant: 202272
-        RecordKeeper: TD AMERITRADE, INC.
-    2020: COPIC COMPANIES 401(K) PLAN
-        Participants: 145
-        Assets: 27966255
-        $/Participant: 192870
-        RecordKeeper: TD AMERITRADE, INC.
-    2019: COPIC COMPANIES 401(K) PLAN
-        Participants: 135
-        Assets: 25574319
-        $/Participant: 189439
-        RecordKeeper: TD AMERITRADE, INC.
-    2018: COPIC COMPANIES 401(K) PLAN
-        Participants: 131
-        Assets: 20627775
-        $/Participant: 157463
-        RecordKeeper: GREAT-WEST & ANNUITY INSURANCE CO.
-    2017: COPIC COMPANIES 401(K) PLAN
-        Participants: 122
-        Assets: 22271474
-        $/Participant: 182553
-        RecordKeeper: TD AMERITRADE, INC
    [001]
     2022: COPIC COMPANIES DEFINED BENEFIT PENSION PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A3D3H 
         Participants: 227
         Assets: 60780626
         $/Participant: 267756
@@ -63,6 +85,8 @@ CO : DENVER
            - MORGAN STANLEY PRIVATE BANK :  (Securities brokerage | Other services | Other commissions)
            - MORGAN STANLEY BANK N.A. :  (Securities brokerage | Other services | Other commissions)
     2021: COPIC COMPANIES DEFINED BENEFIT PENSION PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A3D3H 
         Participants: 213
         Assets: 70814689
         $/Participant: 332463
@@ -71,6 +95,8 @@ CO : DENVER
            - MORGAN STANLEY PRIVATE BANK :  (Securities brokerage | Other services | Other commissions)
            - MORGAN STANLEY BANK N.A. :  (Securities brokerage | Other services | Other commissions)
     2020: COPIC COMPANIES DEFINED BENEFIT PENSION PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A3D3H 
         Participants: 200
         Assets: 65663285
         $/Participant: 328316
@@ -79,6 +105,8 @@ CO : DENVER
            - MORGAN STANLEY PRIVATE BANK :  (Securities brokerage | Other services | Other commissions)
            - MORGAN STANLEY BANK N.A. :  (Securities brokerage | Other services | Other commissions)
     2019: COPIC COMPANIES DEFINED BENEFIT PENSION PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A3D3H 
         Participants: 187
         Assets: 58916605
         $/Participant: 315062
@@ -87,6 +115,8 @@ CO : DENVER
            - MORGAN STANLEY PRIVATE BANK :  (Securities brokerage | Other services | Other commissions)
            - MORGAN STANLEY BANK N.A. :  (Securities brokerage | Other services | Other commissions)
     2018: COPIC COMPANIES DEFINED BENEFIT PENSION PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A3D3H 
         Participants: 177
         Assets: 51001548
         $/Participant: 288144
@@ -97,6 +127,8 @@ CO : DENVER
            - BLACKSTONE REIT :  (Other services | Other fees)
            - BLACK CREEK DPF :  (Other services | Other fees)
     2017: COPIC COMPANIES DEFINED BENEFIT PENSION PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A3D3H 
         Participants: 171
         Assets: 55311819
         $/Participant: 323460

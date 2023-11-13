@@ -1,46 +1,9 @@
 DC : WASHINGTON
   FINRA  530088710
-   [509]
-    2022: FINRA SEVERANCE PAY PLAN
-        Participants: 3968
-    2021: FINRA SEVERANCE PAY PLAN
-        Participants: 3691
-    2020: FINRA SEVERANCE PAY PLAN
-        Participants: 3594
-    2019: FINRA SEVERANCE PAY PLAN
-        Participants: 3469
-    2018: FINRA SEVERANCE PAY PLAN
-        Participants: 3463
-    2017: FINRA SEVERANCE PAY PLAN
-        Participants: 3544
-   [508]
-    2022: FINRA RETIREE MEDICAL PLAN
-        Participants: 395
-    2021: FINRA RETIREE MEDICAL PLAN
-        Participants: 371
-    2020: FINRA RETIREE MEDICAL PLAN
-        Participants: 340
-    2019: FINRA RETIREE MEDICAL PLAN
-        Participants: 313
-    2018: FINRA RETIREE MEDICAL PLAN
-        Participants: 295
-    2017: FINRA RETIREE MEDICAL PLAN
-        Participants: 284
-   [507]
-    2022: FINRA BENEFIT OPTIONS PROGRAM
-        Participants: 3979
-    2021: FINRA BENEFIT OPTIONS PROGRAM
-        Participants: 3701
-    2020: FINRA BENEFIT OPTIONS PROGRAM
-        Participants: 3608
-    2019: FINRA BENEFIT OPTIONS PROGRAM
-        Participants: 3470
-    2018: FINRA BENEFIT OPTIONS PROGRAM
-        Participants: 3464
-    2017: FINRA BENEFITS OPTIONS PROGRAM
-        Participants: 3532
    [003]
     2022: FINRA SAVINGS PLUS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T 
         Participants: 6006
         Assets: 1789959309
         $/Participant: 298028
@@ -65,6 +28,8 @@ DC : WASHINGTON
                  : VANGUARD TGT RETIREMENT INCOME TR I
                  : VFTC RETIREMENT SAVINGS TRUST III
     2021: FINRA SAVINGS PLUS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T 
         Participants: 5641
         Assets: 2044460173
         $/Participant: 362428
@@ -87,6 +52,8 @@ DC : WASHINGTON
                  : VANGUARD TGT RETIREMENT INCOME TR I
                  : VFTC RETIREMENT SAVINGS TRUST III
     2020: FINRA SAVINGS PLUS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T 
         Participants: 5432
         Assets: 1730800150
         $/Participant: 318630
@@ -107,6 +74,8 @@ DC : WASHINGTON
                  : VANGUARD TGT RETIREMENT 2060 TR II
                  : VANGUARD TGT RETIREMENT 2065 TR II
     2019: FINRA SAVINGS PLUS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T 
         Participants: 5188
         Assets: 1481785461
         $/Participant: 285617
@@ -127,6 +96,8 @@ DC : WASHINGTON
                  : VANGUARD TGT RETIREMENT 2060 TR II
                  : VANGUARD TGT RETIREMENT 2065 TR II
     2018: FINRA SAVINGS PLUS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T 
         Participants: 5116
         Assets: 1176048407
         $/Participant: 229876
@@ -147,6 +118,8 @@ DC : WASHINGTON
                  : VANGUARD TGT RETIREMENT 2060 TR II
                  : VANGUARD TGT RETIREMENT 2065 TR II
     2017: FINRA SAVINGS PLUS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T 
         Participants: 5020
         Assets: 1188633866
         $/Participant: 236779
@@ -167,8 +140,60 @@ DC : WASHINGTON
                  : VANGUARD TGT RETIREMENT 2055 TR II
                  : VANGUARD TGT RETIREMENT 2060 TR II
                  : VANGUARD TGT RETIREMENT 2065 TR II
+   [507]
+    2022: FINRA BENEFIT OPTIONS PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 3979
+    2021: FINRA BENEFIT OPTIONS PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 3701
+    2020: FINRA BENEFIT OPTIONS PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 3608
+    2019: FINRA BENEFIT OPTIONS PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 3470
+    2018: FINRA BENEFIT OPTIONS PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 3464
+    2017: FINRA BENEFITS OPTIONS PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 3532
+   [508]
+    2022: FINRA RETIREE MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 395
+    2021: FINRA RETIREE MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 371
+    2020: FINRA RETIREE MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 340
+    2019: FINRA RETIREE MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 313
+    2018: FINRA RETIREE MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 295
+    2017: FINRA RETIREE MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 284
    [001]
     2022: FINRA EMPLOYEES RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 2351
         Assets: 479256817
         $/Participant: 203852
@@ -195,6 +220,8 @@ DC : WASHINGTON
            - WELLINGTON TRUST COMPANY, NA
                  : CIF II US INV GRADE CORP LONG BOND
     2021: FINRA EMPLOYEES RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 2410
         Assets: 644746735
         $/Participant: 267529
@@ -220,6 +247,8 @@ DC : WASHINGTON
            - WELLINGTON TRUST COMPANY, NA
                  : CIF II US INV GRADE CORP LONG BOND
     2020: FINRA EMPLOYEES RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 2476
         Assets: 616386603
         $/Participant: 248944
@@ -245,6 +274,8 @@ DC : WASHINGTON
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CIF II US INV GR CORP LONG BOND
     2019: FINRA EMPLOYEES RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 2599
         Assets: 591006165
         $/Participant: 227397
@@ -267,6 +298,8 @@ DC : WASHINGTON
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CIF II US INV GR CORP LONG BOND
     2018: FINRA EMPLOYEES RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 2659
         Assets: 492409301
         $/Participant: 185185
@@ -289,6 +322,8 @@ DC : WASHINGTON
            - WELLINGTON TRUST COMPANY, NA
                  : WTC CIF II US INV GR CORP LONG BOND
     2017: FINRA EMPLOYEES RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 2730
         Assets: 521927463
         $/Participant: 191182
@@ -310,3 +345,28 @@ DC : WASHINGTON
            - WELLINGTON TRUST COMPANY, NA
                  : WTC CIF II GAB US DOLLAR HEDGED
                  : WTC CIF II US INV GR CORP LONG BOND
+   [509]
+    2022: FINRA SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 3968
+    2021: FINRA SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 3691
+    2020: FINRA SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 3594
+    2019: FINRA SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 3469
+    2018: FINRA SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 3463
+    2017: FINRA SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 3544

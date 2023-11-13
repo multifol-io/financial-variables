@@ -1,20 +1,9 @@
 TX : HOUSTON
   HOUSTON ASTROS, LLC  742051157
-   [501]
-    2022: HOUSTON ASTROS, LLC GROUP HEALTH & WELFARE PLAN
-        Participants: 
-    2021: HOUSTON ASTROS, LLC GROUP HEALTH & WELFARE PLAN
-        Participants: 
-    2020: HOUSTON ASTROS, LLC GROUP HEALTH & WELFARE PLAN
-        Participants: 
-    2019: HOUSTON ASTROS, LLC GROUP HEALTH & WELFARE PLAN
-        Participants: 
-    2018: HOUSTON ASTROS, LLC GROUP HEALTH, DENTAL & FLEX BENEFITS
-        Participants: 
-    2017: HOUSTON ASTROS, LLC GROUP HEALTH, DENTAL & FLEX BENEFITS
-        Participants: 
    [002]
     2022: HOUSTON ASTROS, LLC 401K SAVINGS PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 612
         Assets: 37355557
         $/Participant: 61038
@@ -23,6 +12,8 @@ TX : HOUSTON
            - WILMINGTON TRUST N.A.
                  : WT CIT III ML GRP ATY CONT NO 25554
     2021: HOUSTON ASTROS, LLC 401K SAVINGS PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 518
         Assets: 42511811
         $/Participant: 82069
@@ -31,6 +22,8 @@ TX : HOUSTON
            - WILMINGTON TRUST N.A.
                  : WT CIT III ML GRP ATY CONT NO 25554
     2020: HOUSTON ASTROS, LLC 401K SAVINGS PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 525
         Assets: 35547285
         $/Participant: 67709
@@ -39,6 +32,8 @@ TX : HOUSTON
            - WILMINGTON TRUST N.A.
                  : WT CIT III ML GRP ATY CONT NO 25554
     2019: HOUSTON ASTROS, LLC 401K SAVINGS PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 497
         Assets: 28879892
         $/Participant: 58108
@@ -47,6 +42,8 @@ TX : HOUSTON
            - WILMINGTON TRUST N.A.
                  : WT CIT III ML GRP ATY CONT NO 25554
     2018: HOUSTON ASTROS, LLC 401K SAVINGS PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 443
         Assets: 20214079
         $/Participant: 45629
@@ -55,6 +52,8 @@ TX : HOUSTON
            - WILMINGTON TRUST N.A.
                  : WILMINGTON TR CIT III M GAC25554C J
     2017: HOUSTON ASTROS, LLC 401K SAVINGS PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 434
         Assets: 17660146
         $/Participant: 40691
@@ -62,8 +61,35 @@ TX : HOUSTON
         Available Investments:
            - WILMINGTON TRUST RETIREMENT AND INSTITUTIONAL SERVICES COMPANY
                  : METLIFE GAC 25554 CL J
+   [501]
+    2022: HOUSTON ASTROS, LLC GROUP HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2021: HOUSTON ASTROS, LLC GROUP HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2020: HOUSTON ASTROS, LLC GROUP HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2019: HOUSTON ASTROS, LLC GROUP HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2018: HOUSTON ASTROS, LLC GROUP HEALTH, DENTAL & FLEX BENEFITS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2017: HOUSTON ASTROS, LLC GROUP HEALTH, DENTAL & FLEX BENEFITS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
    [001]
     2021: MAJOR LEAGUE BASEBALL PENSION PLAN FOR NON-UNIFORMED PERSONNEL
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 0
         Service Providers:
            - TOWERS WATSON :  ()
@@ -71,6 +97,8 @@ TX : HOUSTON
            - MITCHELL & TITUS, LLP :  ()
            - U.S. BANK :  ()
     2020: MAJOR LEAGUE BASEBALL PENSION PLAN FOR NON-UNIFORMED PERSONNEL
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1
         Assets: 376551
         $/Participant: 376551
@@ -80,6 +108,8 @@ TX : HOUSTON
            - MITCHELL & TITUS, LLP :  (Accounting(including auditing))
            - U.S. BANK :  (Trustee(bank, trust company, or similar))
     2019: MAJOR LEAGUE BASEBALL PENSION PLAN FOR NON-UNIFORMED PERSONNEL
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 728
         Assets: 70729937
         $/Participant: 97156
@@ -89,6 +119,8 @@ TX : HOUSTON
            - MITCHELL & TITUS, LLP :  (Accounting(including auditing))
            - SEI INVESTMENTS :  (Investment management | Investment management fees paid directly by plan)
     2018: MAJOR LEAGUE BASEBALL PENSION PLAN FOR NON-UNIFORMED PERSONNEL
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 730
         Assets: 58432706
         $/Participant: 80044
@@ -100,6 +132,8 @@ TX : HOUSTON
            - U.S. BANK :  (Trustee(bank, trust company, or similar))
            - GAMCO ASSET MANAGEMENT :  (Investment management)
     2017: MAJOR LEAGUE BASEBALL PENSION PLAN FOR NON-UNIFORMED PERSONNEL
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 676
         Assets: 57289019
         $/Participant: 84747

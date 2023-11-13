@@ -1,64 +1,9 @@
 RI : PAWTUCKET
   HASBRO, INC.  050155090
-   [599]
-    2022: HASBRO, INC. SEVERANCE BENEFIT PLAN
-        Participants: 
-    2021: HASBRO, INC. SEVERANCE BENEFIT PLAN
-        Participants: 
-    2020: HASBRO, INC. SEVERANCE BENEFIT PLAN
-        Participants: 
-    2019: HASBRO, INC. SEVERANCE BENEFIT PLAN
-        Participants: 
-    2018: HASBRO, INC. SEVERANCE BENEFIT PLAN
-        Participants: 
-    2017: HASBRO, INC. SEVERANCE BENEFIT PLAN
-        Participants: 
-   [598]
-    2022: HASBRO, INC. SEVERANCE BENEFIT PLAN FOR RMO HOURLY EMPLOYEES
-        Participants: 
-    2021: HASBRO, INC. SEVERANCE BENEFIT PLAN FOR RMO HOURLY EMPLOYEES
-        Participants: 
-    2020: HASBRO, INC. SEVERANCE BENEFIT PLAN FOR RMO HOURLY EMPLOYEES
-        Participants: 
-    2019: HASBRO, INC. SEVERANCE BENEFIT PLAN FOR RMO HOURLY EMPLOYEES
-        Participants: 
-    2018: HASBRO, INC. SEVERANCE BENEFIT PLAN FOR RMO HOURLY EMPLOYEES
-        Participants: 
-    2017: HASBRO, INC. SEVERANCE BENEFIT PLAN FOR RMO HOURLY EMPLOYEES
-        Participants: 
-   [521]
-    2022: HASBRO, INC. RETIREE HEALTH BENEFIT PLAN
-        Participants: 
-    2021: HASBRO, INC. RETIREE HEALTH BENEFIT PLAN
-        Participants: 
-    2020: HASBRO, INC. RETIREE HEALTH BENEFIT PLAN
-        Participants: 
-    2019: HASBRO, INC. RETIREE HEALTH BENEFIT PLAN
-        Participants: 
-    2018: HASBRO, INC. RETIREE HEALTH BENEFIT PLAN
-        Participants: 
-    2017: HASBRO, INC. RETIREE HEALTH BENEFIT PLAN
-        Participants: 
-   [508]
-    2022: HASBRO, INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2021: HASBRO, INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2020: HASBRO, INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2019: HASBRO, INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2018: HASBRO, INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2017: HASBRO, INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-   [501]
-    2022: EP CARES GROUP INSURANCE PLAN FOR PRODUCTION COMPANY EMPLOYEES OF HASBRO, INC.
-        Participants: 
-    2021: EP CARES GROUP INSURANCE PLAN FOR PRODUCTION COMPANY EMPLOYEES OF HASBRO, INC.
-        Participants: 
    [004]
     2022: HASBRO, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 4232
         Assets: 792733752
         $/Participant: 187318
@@ -86,6 +31,8 @@ RI : PAWTUCKET
            - LOOMIS SAYLES TRUST COMPANY, LLC
                  : LOOMIS CORE PLUS FIXED INCOME TRUST
     2021: HASBRO, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 3941
         Assets: 994754573
         $/Participant: 252411
@@ -113,6 +60,8 @@ RI : PAWTUCKET
            - LOOMIS SAYLES TRUST COMPANY, LLC
                  : LOOMIS CORE PLUS FIXED INCOME TRUST
     2020: HASBRO, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 3663
         Assets: 850525686
         $/Participant: 232193
@@ -140,6 +89,8 @@ RI : PAWTUCKET
            - LOOMIS SAYLES TRUST COMPANY, LLC
                  : LOOMIS CORE PLUS FIXED INCOME TRUST
     2019: HASBRO, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 3661
         Assets: 700934646
         $/Participant: 191459
@@ -175,6 +126,8 @@ RI : PAWTUCKET
            - LOOMIS SAYLES TRUST COMPANY, LLC
                  : LOOMIS CORE PLUS FIXED INCOME TRUST
     2018: HASBRO, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2T3H2K2E2F2G2J 
         Participants: 3670
         Assets: 587411462
         $/Participant: 160057
@@ -202,6 +155,8 @@ RI : PAWTUCKET
            - LOOMIS SAYLES TRUST COMPANY, LLC
                  : LOOMIS CORE PLUS FIXED INCOME TRUST
     2017: HASBRO, INC. RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 3693
         Assets: 633412624
         $/Participant: 171517
@@ -229,20 +184,85 @@ RI : PAWTUCKET
                  : JPMCB SR DRE INC CF
            - LOOMIS SAYLES TRUST COMPANY, LLC
                  : LOOMIS CORE PLUS FIXED INCOME TRUST
+   [501]
+    2022: EP CARES GROUP INSURANCE PLAN FOR PRODUCTION COMPANY EMPLOYEES OF HASBRO, INC.
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4R
+        Participants: 
+    2021: EP CARES GROUP INSURANCE PLAN FOR PRODUCTION COMPANY EMPLOYEES OF HASBRO, INC.
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+   [508]
+    2022: HASBRO, INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2021: HASBRO, INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2020: HASBRO, INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2019: HASBRO, INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2018: HASBRO, INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2017: HASBRO, INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+   [521]
+    2022: HASBRO, INC. RETIREE HEALTH BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4R
+        Participants: 
+    2021: HASBRO, INC. RETIREE HEALTH BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2020: HASBRO, INC. RETIREE HEALTH BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: HASBRO, INC. RETIREE HEALTH BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: HASBRO, INC. RETIREE HEALTH BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: HASBRO, INC. RETIREE HEALTH BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
    [003]
     2021: HASBRO, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H1I1C1H 
         Participants: 0
         Available Investments:
            - THE BANK OF NEW YORK MELLON
                  : EB EMERG MKTS DEBT LC
                  : EB TEMPORARY INVESTMENT FUND II
     2020: HASBRO, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H1I1C1H 
         Participants: 0
         Available Investments:
            - THE BANK OF NEW YORK MELLON
                  : EB EMERG MKTS DEBT LC
                  : EB TEMPORARY INVESTMENT FUND II
     2019: HASBRO, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H1I1C 
         Participants: 0
         Service Providers:
            - TOWERS WATSON DELAWARE INC. :  (Actuarial | Consulting(pension) | Direct payment from the plan)
@@ -260,6 +280,8 @@ RI : PAWTUCKET
                  : EB TEMPORARY INVESTMENT FUND II
                  : US LG DUR AL PL
     2018: HASBRO, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H1I1C 
         Participants: 6200
         Assets: 362214280
         $/Participant: 58421
@@ -283,6 +305,8 @@ RI : PAWTUCKET
                  : EB TEMPORARY INVESTMENT FUND II
                  : US LG DUR AL PL
     2017: HASBRO, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H1I1C 
         Participants: 6188
         Assets: 382918483
         $/Participant: 61880
@@ -304,3 +328,53 @@ RI : PAWTUCKET
                  : EB EMERG MKTS DEBT LC
                  : EB TEMPORARY INVESTMENT FUND II
                  : US LG DUR AL PL
+   [598]
+    2022: HASBRO, INC. SEVERANCE BENEFIT PLAN FOR RMO HOURLY EMPLOYEES
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2021: HASBRO, INC. SEVERANCE BENEFIT PLAN FOR RMO HOURLY EMPLOYEES
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2020: HASBRO, INC. SEVERANCE BENEFIT PLAN FOR RMO HOURLY EMPLOYEES
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2019: HASBRO, INC. SEVERANCE BENEFIT PLAN FOR RMO HOURLY EMPLOYEES
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2018: HASBRO, INC. SEVERANCE BENEFIT PLAN FOR RMO HOURLY EMPLOYEES
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2017: HASBRO, INC. SEVERANCE BENEFIT PLAN FOR RMO HOURLY EMPLOYEES
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+   [599]
+    2022: HASBRO, INC. SEVERANCE BENEFIT PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2021: HASBRO, INC. SEVERANCE BENEFIT PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2020: HASBRO, INC. SEVERANCE BENEFIT PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2019: HASBRO, INC. SEVERANCE BENEFIT PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2018: HASBRO, INC. SEVERANCE BENEFIT PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2017: HASBRO, INC. SEVERANCE BENEFIT PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

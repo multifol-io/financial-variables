@@ -1,49 +1,81 @@
 VA : CHARLOTTESVILLE
   UNIVERSITY OF VIRGINIA PHYSICIANS GROUP  541124769
-   [521]
-    2021: UNIVERSITY OF VIRGINIA PHYSICIANS GROUP EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2020: UNIVERSITY OF VIRGINIA PHYSICIANS GROUP EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2019: UNIVERSITY OF VIRGINIA PHYSICIANS GROUP EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2018: UNIVERSITY OF VIRGINIA PHYSICIANS GROUP EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2017: UNIVERSITY OF VIRGINIA PHYSICIANS GROUP EMPLOYEE BENEFITS PLAN
-        Participants: 
+   [008]
+    2017: UNIVERSITY OF VIRGINIA PHYSICIANS GROUP ADMINISTRATIVE STAFF RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
+        Participants: 0
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : FA STABLE VALUE
    [011]
     2022: UVA PHYSICIANS GROUP RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 2259
         Assets: 100140013
         $/Participant: 44329
         RecordKeeper: TIAA
     2021: UVA PHYSICIANS GROUP RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 2058
         Assets: 115138169
         $/Participant: 55946
         RecordKeeper: TIAA
     2020: UVA PHYSICIANS GROUP RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 1859
         Assets: 96826356
         $/Participant: 52085
         RecordKeeper: TIAA
     2019: UVA PHYSICIANS GROUP RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 1602
         Assets: 82560330
         $/Participant: 51535
         RecordKeeper: TIAA
     2018: UVA PHYSICIANS GROUP RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 1337
         Assets: 66833250
         $/Participant: 49987
         RecordKeeper: TIAA
     2017: UVA PHYSICIANS GROUP RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 1157
         Assets: 67563510
         $/Participant: 58395
         RecordKeeper: TIAA
+   [521]
+    2021: UNIVERSITY OF VIRGINIA PHYSICIANS GROUP EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2020: UNIVERSITY OF VIRGINIA PHYSICIANS GROUP EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2019: UNIVERSITY OF VIRGINIA PHYSICIANS GROUP EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2018: UNIVERSITY OF VIRGINIA PHYSICIANS GROUP EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2017: UNIVERSITY OF VIRGINIA PHYSICIANS GROUP EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
    [010]
     2022: UVA PHYSICIANS GROUP VOLUNTARY TAX-DEFERRED SAVINGS PLAN
+        Benefit Category: Other
+        Codes: 2L2M 
         Participants: 2365
         Assets: 95353905
         $/Participant: 40318
@@ -52,6 +84,8 @@ VA : CHARLOTTESVILLE
            - TIAA
                  : TIAA REAL ESTATE
     2021: UVA PHYSICIANS GROUP VOLUNTARY TAX-DEFERRED SAVINGS PLAN
+        Benefit Category: Other
+        Codes: 2L2M 
         Participants: 2267
         Assets: 109922165
         $/Participant: 48487
@@ -60,6 +94,8 @@ VA : CHARLOTTESVILLE
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2020: UVA PHYSICIANS GROUP VOLUNTARY TAX-DEFERRED SAVINGS PLAN
+        Benefit Category: Other
+        Codes: 2L2M 
         Participants: 2193
         Assets: 96084030
         $/Participant: 43813
@@ -68,6 +104,8 @@ VA : CHARLOTTESVILLE
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2019: UVA PHYSICIANS GROUP VOLUNTARY TAX-DEFERRED SAVINGS PLAN
+        Benefit Category: Other
+        Codes: 2L2M 
         Participants: 2076
         Assets: 84488369
         $/Participant: 40697
@@ -76,6 +114,8 @@ VA : CHARLOTTESVILLE
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2018: UVA PHYSICIANS GROUP VOLUNTARY TAX-DEFERRED SAVINGS PLAN
+        Benefit Category: Other
+        Codes: 2L2M 
         Participants: 1925
         Assets: 69785472
         $/Participant: 36252
@@ -84,6 +124,8 @@ VA : CHARLOTTESVILLE
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2017: UVA PHYSICIANS GROUP VOLUNTARY TAX-DEFERRED SAVINGS PLAN
+        Benefit Category: Other
+        Codes: 2L2M 
         Participants: 1847
         Assets: 71618797
         $/Participant: 38775
@@ -93,6 +135,8 @@ VA : CHARLOTTESVILLE
                  : TIAA REAL ESTATE
    [009]
     2022: UNIVERSITY OF VIRGINIA PHYSICIANS GROUP CLINICIANS SUPPLEMENTAL RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1D 
         Participants: 780
         Assets: 184870609
         $/Participant: 237013
@@ -102,6 +146,8 @@ VA : CHARLOTTESVILLE
            - VANGUARD FIDUCIARY TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
            - MCGUIREWOODS LLP :  (Consulting(general) | Accounting(including auditing))
     2021: UNIVERSITY OF VIRGINIA PHYSICIANS GROUP CLINICIANS SUPPLEMENTAL RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1D 
         Participants: 803
         Assets: 237589114
         $/Participant: 295876
@@ -111,6 +157,8 @@ VA : CHARLOTTESVILLE
            - VANGUARD FIDUCIARY TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
            - MCGUIREWOODS LLP :  (Consulting(general) | Accounting(including auditing))
     2020: UNIVERSITY OF VIRGINIA PHYSICIANS GROUP CLINICIANS SUPPLEMENTAL RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1D 
         Participants: 816
         Assets: 205531193
         $/Participant: 251876
@@ -119,6 +167,8 @@ VA : CHARLOTTESVILLE
            - VANGUARD ADVISORS INC. :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
            - VANGUARD FIDUCIARY TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
     2019: UNIVERSITY OF VIRGINIA PHYSICIANS GROUP CLINICIANS SUPPLEMENTAL RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1D 
         Participants: 830
         Assets: 160095355
         $/Participant: 192885
@@ -127,6 +177,8 @@ VA : CHARLOTTESVILLE
            - VANGUARD ADVISORS INC. :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
            - VANGUARD FIDUCIARY TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
     2018: UNIVERSITY OF VIRGINIA PHYSICIANS GROUP CLINICIANS SUPPLEMENTAL RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1D 
         Participants: 848
         Assets: 120557227
         $/Participant: 142166
@@ -138,6 +190,8 @@ VA : CHARLOTTESVILLE
            - MCGUIRE WOODS :  (Legal | Direct payment from the plan)
            - VANGUARD FIDUCIARY TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
     2017: UNIVERSITY OF VIRGINIA PHYSICIANS GROUP CLINICIANS SUPPLEMENTAL RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1D 
         Participants: 864
         Assets: 116725501
         $/Participant: 135098
@@ -146,9 +200,3 @@ VA : CHARLOTTESVILLE
            - BANK OF AMERICA :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
            - COLUMBIA MANAGEMENT :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - MCGUIRE WOODS :  (Legal | Direct payment from the plan)
-   [008]
-    2017: UNIVERSITY OF VIRGINIA PHYSICIANS GROUP ADMINISTRATIVE STAFF RETIREMENT PLAN
-        Participants: 0
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : FA STABLE VALUE

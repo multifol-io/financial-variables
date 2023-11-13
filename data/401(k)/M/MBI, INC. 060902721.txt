@@ -1,85 +1,119 @@
 CT : NORWALK
   MBI, INC.  060902721
-   [501]
-    2022: MBI INC GROUP INSURANCE PLAN
-        Participants: 299
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE CO : CLAIMS ADMINISTRATION (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2021: MBI GROUP INSURANCE PLAN
-        Participants: 324
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE CO : CLAIM ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2020: MBI GROUP INSURANCE PLAN
-        Participants: 327
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE : CLAIM ADMIN & RELATED (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2019: MBI GROUP INSURANCE PLAN
-        Participants: 337
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE : CLAIMS ADMIN & RELATED (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2018: MBI GROUP INSURANCE PLAN
-        Participants: 345
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE : CLAIMS ADMIN AND RELATED (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2017: MBI, INC. GROUP INSURANCE PLAN
-        Participants: 351
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE CO : CLAIMS ADMIN AND RELATED (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
    [002]
     2022: MBI, INC 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J3D 
         Participants: 473
         Assets: 51420750
         $/Participant: 108711
         Service Providers:
            - VANGUARD FIDUCIARY TRUST COMPANY : TRUSTEE (Claims processing)
     2021: MBI, INC 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J3D 
         Participants: 480
         Assets: 59233070
         $/Participant: 123402
         Service Providers:
            - VANGUARD FIDUCIARY TRUST COMPANY : TRUSTEE (Claims processing)
     2020: MBI, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J3D 
         Participants: 466
         Assets: 52465480
         $/Participant: 112586
         Service Providers:
            - VANGUARD FIDUCIARY TRUST COMPANY : TRUSTEE (Claims processing)
     2019: MBI, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J3D 
         Participants: 472
         Assets: 47373939
         $/Participant: 100368
         Service Providers:
            - VANGUARD FIDUCIARY TRUST COMPANY : TRUSTEE (Claims processing)
     2018: MBI, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J3D 
         Participants: 474
         Assets: 39954163
         $/Participant: 84291
         Service Providers:
            - VANGUARD FIDUCIARY TRUST COMPANY : TRUSTEE (Claims processing)
     2017: MBI, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J3D 
         Participants: 492
         Assets: 44744315
         $/Participant: 90943
         Service Providers:
            - VANGUARD FIDUCIARY TRUST COMPANY : TRUSTEE (Claims processing)
+   [501]
+    2022: MBI INC GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
+        Participants: 299
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE CO : CLAIMS ADMINISTRATION (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+    2021: MBI GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
+        Participants: 324
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE CO : CLAIM ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+    2020: MBI GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
+        Participants: 327
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE : CLAIM ADMIN & RELATED (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+    2019: MBI GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
+        Participants: 337
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE : CLAIMS ADMIN & RELATED (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+    2018: MBI GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
+        Participants: 345
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE : CLAIMS ADMIN AND RELATED (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+    2017: MBI, INC. GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
+        Participants: 351
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE CO : CLAIMS ADMIN AND RELATED (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
    [001]
     2021: MBI, INC. PROFIT SHARING PLAN & TRUST
+        Benefit Category: Other
+        Codes: 2E3D 
         Participants: 358
         Assets: 85515377
         $/Participant: 238869
     2020: MBI, INC. PROFIT SHARING PLAN & TRUST
+        Benefit Category: Other
+        Codes: 2E3E 
         Participants: 374
         Assets: 112087383
         $/Participant: 299698
     2019: MBI, INC. PROFIT SHARING PLAN & TRUST
+        Benefit Category: Other
+        Codes: 2E3E 
         Participants: 387
         Assets: 103671953
         $/Participant: 267886
     2018: MBI, INC. PROFIT SHARING PLAN & TRUST
+        Benefit Category: Other
+        Codes: 2E3E 
         Participants: 394
         Assets: 101211632
         $/Participant: 256882
     2017: MBI, INC. PROFIT SHARING PLAN & TRUST
+        Benefit Category: Other
+        Codes: 2E3E 
         Participants: 412
         Assets: 107074603
         $/Participant: 259889

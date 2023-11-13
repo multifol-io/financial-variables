@@ -1,22 +1,8 @@
 CA : ANAHEIM
   ANNADEL MEDICAL GROUP  300500119
-   [501]
-    2022: ANNADEL MEDICAL GROUP WELFARE BENEFITS PLAN
-        Participants: 
-CA : SANTA ROSA
-    2021: ANNADEL MEDICAL GROUP WELFARE BENEFITS PLAN
-        Participants: 
-    2020: ANNADEL MEDICAL GROUP WELFARE BENEFITS PLAN
-        Participants: 
-    2019: ANNADEL MEDICAL GROUP WELFARE BENEFITS PLAN
-        Participants: 
-    2018: ANNADEL MEDICAL GROUP WELFARE BENEFITS PLAN
-        Participants: 
-    2017: ANNADEL MEDICAL GROUP WELFARE BENEFITS PLAN
-        Participants: 
-CA : ANAHEIM
-   [001]
     2022: ANNADEL MEDICAL GROUP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J 
         Participants: 232
         Assets: 53368249
         $/Participant: 230035
@@ -27,6 +13,8 @@ CA : ANAHEIM
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND
     2021: ANNADEL MEDICAL GROUP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J 
         Participants: 250
         Assets: 66634884
         $/Participant: 266539
@@ -38,6 +26,8 @@ CA : ANAHEIM
                  : PUTNAM STABLE VALUE FUND
 CA : SANTA ROSA
     2020: ANNADEL MEDICAL GROUP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J 
         Participants: 238
         Assets: 54458544
         $/Participant: 228817
@@ -46,6 +36,8 @@ CA : SANTA ROSA
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND
     2019: ANNADEL MEDICAL GROUP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J 
         Participants: 207
         Assets: 41707903
         $/Participant: 201487
@@ -54,6 +46,8 @@ CA : SANTA ROSA
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND
     2018: ANNADEL MEDICAL GROUP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J 
         Participants: 204
         Assets: 26946611
         $/Participant: 132091
@@ -62,6 +56,8 @@ CA : SANTA ROSA
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND
     2017: ANNADEL MEDICAL GROUP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J 
         Participants: 181
         Assets: 23531220
         $/Participant: 130006
@@ -71,3 +67,30 @@ CA : SANTA ROSA
                  : SEPARATE ACCOUNT II
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND
+CA : ANAHEIM
+   [501]
+    2022: ANNADEL MEDICAL GROUP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+CA : SANTA ROSA
+    2021: ANNADEL MEDICAL GROUP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2020: ANNADEL MEDICAL GROUP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2019: ANNADEL MEDICAL GROUP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2018: ANNADEL MEDICAL GROUP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2017: ANNADEL MEDICAL GROUP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 

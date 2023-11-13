@@ -1,7 +1,59 @@
 DC : WASHINGTON
   INTERNATIONAL BROTHERHOOD OF TEAMSTERS  530215427
+   [501]
+    2022: HEALTH AND WELFARE PLAN
+        Benefit Category: Other
+        Codes:  4B4H4F
+        Participants: 770
+    2021: HEALTH AND WELFARE PLAN
+        Benefit Category: Other
+        Codes:  4B4H4F
+        Participants: 762
+    2020: HEALTH AND WELFARE PLAN
+        Benefit Category: Other
+        Codes:  4B4H4F
+        Participants: 757
+    2019: HEALTH AND WELFARE PLAN
+        Benefit Category: Other
+        Codes:  4B4H4F
+        Participants: 762
+    2018: HEALTH AND WELFARE PLAN
+        Benefit Category: Other
+        Codes:  4B4H4F
+        Participants: 754
+    2017: HEALTH AND WELFARE PLAN
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 664
+   [502]
+    2022: INTERNATIONAL BROTHERHOOD OF TEAMSTERS GROUP PERSONAL ACCIDENT
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 811
+    2021: INTERNATIONAL BROTHERHOOD OF TEAMSTERS GROUP PERSONAL ACCIDENT
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 799
+    2020: INTERNATIONAL BROTHERHOOD OF TEAMSTERS GROUP PERSONAL ACCIDENT
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 818
+    2019: INTERNATIONAL BROTHERHOOD OF TEAMSTERS GROUP PERSONAL ACCIDENT
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 819
+    2018: INTERNATIONAL BROTHERHOOD OF TEAMSTERS GROUP PERSONAL ACCIDENT
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 800
+    2017: INTERNATIONAL BROTHERHOOD OF TEAMSTERS GROUP PERSONAL ACCIDENT
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 797
    [505]
     2017: TEAMSTERS LEGAL DEFENSE FUND
+        Benefit Category: Other
+        Codes:  4G
         Participants: 
         Assets: 1740875
         $/Participant: 
@@ -20,34 +72,10 @@ DC : WASHINGTON
            - LABOR BENEFITS, LLC :  (Consulting(general) | Direct payment from the plan)
            - ALAN BILLER ASSOCIATES INC :  (Investment management | Direct payment from the plan)
            - EDELSTEIN & PAYNE :  (Legal | Direct payment from the plan)
-   [502]
-    2022: INTERNATIONAL BROTHERHOOD OF TEAMSTERS GROUP PERSONAL ACCIDENT
-        Participants: 811
-    2021: INTERNATIONAL BROTHERHOOD OF TEAMSTERS GROUP PERSONAL ACCIDENT
-        Participants: 799
-    2020: INTERNATIONAL BROTHERHOOD OF TEAMSTERS GROUP PERSONAL ACCIDENT
-        Participants: 818
-    2019: INTERNATIONAL BROTHERHOOD OF TEAMSTERS GROUP PERSONAL ACCIDENT
-        Participants: 819
-    2018: INTERNATIONAL BROTHERHOOD OF TEAMSTERS GROUP PERSONAL ACCIDENT
-        Participants: 800
-    2017: INTERNATIONAL BROTHERHOOD OF TEAMSTERS GROUP PERSONAL ACCIDENT
-        Participants: 797
-   [501]
-    2022: HEALTH AND WELFARE PLAN
-        Participants: 770
-    2021: HEALTH AND WELFARE PLAN
-        Participants: 762
-    2020: HEALTH AND WELFARE PLAN
-        Participants: 757
-    2019: HEALTH AND WELFARE PLAN
-        Participants: 762
-    2018: HEALTH AND WELFARE PLAN
-        Participants: 754
-    2017: HEALTH AND WELFARE PLAN
-        Participants: 664
    [001]
     2022: INTERNATIONAL BROTHERHOOD OF TEAMSTERS RETIREMENT & FAMILY PROTECTION
+        Benefit Category: Pension
+        Codes: 1A 4H4L
         Participants: 510
         Assets: 144210541
         $/Participant: 282765
@@ -64,6 +92,8 @@ DC : WASHINGTON
            - THE BANK OF NEW YORK MELLON
                  : BNYM MELLON DB NSL BROAD MKT STK IN
     2021: INTERNATIONAL BROTHERHOOD OF TEAMSTERS RETIREMENT & FAMILY PROTECTION
+        Benefit Category: Pension
+        Codes: 1A 4H4L
         Participants: 566
         Assets: 218881796
         $/Participant: 386716
@@ -78,6 +108,8 @@ DC : WASHINGTON
            - THE BANK OF NEW YORK MELLON
                  : BNYM MELLON DB NSL BROAD MKT STK IN
     2020: INTERNATIONAL BROTHERHOOD OF TEAMSTERS RETIREMENT & FAMILY PROTECTION
+        Benefit Category: Pension
+        Codes: 1A 4H4L
         Participants: 574
         Assets: 213253935
         $/Participant: 371522
@@ -92,6 +124,8 @@ DC : WASHINGTON
            - THE BANK OF NEW YORK MELLON
                  : BNYM MELLON DB NSL BROAD MKT STK IN
     2019: INTERNATIONAL BROTHERHOOD OF TEAMSTERS RETIREMENT & FAMILY PROTECTION
+        Benefit Category: Pension
+        Codes: 1A 4H4L
         Participants: 556
         Assets: 188965594
         $/Participant: 339866
@@ -104,6 +138,8 @@ DC : WASHINGTON
            - PANAGORA ASSET MANAGEMENT INC
                  : PANAGORA GROUP TRUST RISK PARITY MU
     2018: INTERNATIONAL BROTHERHOOD OF TEAMSTERS RETIREMENT & FAMILY PROTECTION
+        Benefit Category: Pension
+        Codes: 1A 4H4L
         Participants: 556
         Assets: 165508967
         $/Participant: 297677
@@ -116,6 +152,8 @@ DC : WASHINGTON
            - PANAGORA ASSET MANAGEMENT INC
                  : PANAGORA GROUP TRUST RISK PARITY MU
     2017: INTERNATIONAL BROTHERHOOD OF TEAMSTERS RETIREMENT & FAMILY PROTECTION
+        Benefit Category: Pension
+        Codes: 1A 4H4L
         Participants: 539
         Assets: 161029119
         $/Participant: 298755

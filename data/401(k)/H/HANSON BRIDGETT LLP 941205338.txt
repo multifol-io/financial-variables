@@ -1,68 +1,30 @@
 CA : SAN FRANCISCO
   HANSON BRIDGETT LLP  941205338
-   [501]
-    2022: HANSON BRIDGETT LLP EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2021: HANSON BRIDGETT LLP EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2020: HANSON BRIDGETT LLP EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2019: HANSON BRIDGETT LLP EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2018: HANSON BRIDGETT LLP EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2017: HANSON BRIDGETT LLP EMPLOYEE BENEFIT PLAN
-        Participants: 
-   [002]
-    2022: HANSON BRIDGETT LLP ASSOCIATE 401(K) PLAN
-        Participants: 193
-        Assets: 33058462
-        $/Participant: 171287
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-    2021: HANSON BRIDGETT LLP ASSOCIATE 401(K) PLAN
-        Participants: 176
-        Assets: 39407469
-        $/Participant: 223906
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-    2020: HANSON BRIDGETT LLP ASSOCIATE 401(K) PLAN
-        Participants: 151
-        Assets: 33945437
-        $/Participant: 224804
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-    2019: HANSON BRIDGETT LLP ASSOCIATE 401(K) PLAN
-        Participants: 146
-        Assets: 32401743
-        $/Participant: 221929
-        Service Providers:
-           - EVERCORE WEALTH MANAGEMENT LLC :  (Investment advisory(participants) | Direct payment from the plan)
-           - SAVANT INVESTMENT GROUP LLC :  (Investment management | Direct payment from the plan)
-    2018: HANSON BRIDGETT LLP ASSOCIATE 401(K) PLAN
-        Participants: 152
-        Assets: 26258001
-        $/Participant: 172750
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2017: HANSON BRIDGETT LLP ASSOCIATE 401(K) PLAN
-        Participants: 143
-        Assets: 24897080
-        $/Participant: 174105
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
    [001]
     2022: HANSON BRIDGETT LLP PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2J2R2S2T3B3D 
         Participants: 373
         Assets: 129524907
         $/Participant: 347251
         RecordKeeper: CHARLES SCHWAB & CO.,INC.
     2021: HANSON BRIDGETT LLP PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2J2R2S2T3B3D 
         Participants: 357
         Assets: 147502131
         $/Participant: 413171
         RecordKeeper: CHARLES SCHWAB & CO.,INC.
     2020: HANSON BRIDGETT LLP PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2J2R2S2T3B3D 
         Participants: 304
         Assets: 123014005
         $/Participant: 404651
         RecordKeeper: CHARLES SCHWAB & CO.,INC.
     2019: HANSON BRIDGETT LLP PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2J2R2S2T3B3D 
         Participants: 308
         Assets: 104580161
         $/Participant: 339545
@@ -70,12 +32,86 @@ CA : SAN FRANCISCO
            - SAVANT INVESTMENT GROUP LLC :  (Investment management | Direct payment from the plan | Consulting(general))
            - PERIGONN WEALTH MANAGEMENT LLC :  (Investment advisory(participants) | Direct payment from the plan)
     2018: HANSON BRIDGETT LLP PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2J2R2S2T 
         Participants: 313
         Assets: 90062441
         $/Participant: 287739
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2017: HANSON BRIDGETT LLP PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2J 
         Participants: 291
         Assets: 90411427
         $/Participant: 310692
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+   [002]
+    2022: HANSON BRIDGETT LLP ASSOCIATE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2R2S2T3D 
+        Participants: 193
+        Assets: 33058462
+        $/Participant: 171287
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+    2021: HANSON BRIDGETT LLP ASSOCIATE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2R2S2T3D 
+        Participants: 176
+        Assets: 39407469
+        $/Participant: 223906
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+    2020: HANSON BRIDGETT LLP ASSOCIATE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2R2S2T3D 
+        Participants: 151
+        Assets: 33945437
+        $/Participant: 224804
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+    2019: HANSON BRIDGETT LLP ASSOCIATE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2R2S2T3D 
+        Participants: 146
+        Assets: 32401743
+        $/Participant: 221929
+        Service Providers:
+           - EVERCORE WEALTH MANAGEMENT LLC :  (Investment advisory(participants) | Direct payment from the plan)
+           - SAVANT INVESTMENT GROUP LLC :  (Investment management | Direct payment from the plan)
+    2018: HANSON BRIDGETT LLP ASSOCIATE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2R2S2T 
+        Participants: 152
+        Assets: 26258001
+        $/Participant: 172750
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2017: HANSON BRIDGETT LLP ASSOCIATE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J 
+        Participants: 143
+        Assets: 24897080
+        $/Participant: 174105
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+   [501]
+    2022: HANSON BRIDGETT LLP EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2021: HANSON BRIDGETT LLP EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2020: HANSON BRIDGETT LLP EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2019: HANSON BRIDGETT LLP EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2018: HANSON BRIDGETT LLP EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2017: HANSON BRIDGETT LLP EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 

@@ -1,82 +1,77 @@
-CA : OAKLAND
-  COLORADO PERMANENTE MEDICAL GROUP, P.C.  840832336
-   [560]
-    2022: COLORADO PERMANENTE MEDICAL GROUP, P.C. HEALTH AND WELFARE PLAN
-        Participants: 0
-    2021: COLORADO PERMANENTE MEDICAL GROUP, P.C. HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: COLORADO PERMANENTE MEDICAL GROUP, P.C. HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: COLORADO PERMANENTE MEDICAL GROUP, P.C. HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: COLORADO PERMANENTE MEDICAL GROUP, P.C. HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: COLORADO PERMANENTE MEDICAL GROUP, P.C. HEALTH AND WELFARE PLAN
-        Participants: 
 CO : DENVER
-   [003]
-    2022: COLORADO PERMANENTE MEDICAL GROUP, P.C. CASH BALANCE PLAN
-        Participants: 468
-        Assets: 41436781
-        $/Participant: 88540
-        Available Investments:
-           - KAISER PERMANENTE MED CARE PROGRAM
-                 : KAISER PERMANENTE GROUP TRUST
-    2021: COLORADO PERMANENTE MEDICAL GROUP, P.C. CASH BALANCE PLAN
-        Participants: 448
-        Assets: 35343638
-        $/Participant: 78892
-        Available Investments:
-           - KAISER PERMANENTE MED CARE PROGRAM
-                 : KAISER PERMANENTE GROUP TRUST
-    2020: COLORADO PERMANENTE MEDICAL GROUP, P.C. CASH BALANCE PLAN
-        Participants: 358
-        Assets: 24245854
-        $/Participant: 67725
-        Available Investments:
-           - KAISER PERMANENTE MED CARE PROGRAM
-                 : KAISER PERMANENTE GROUP TRUST
-    2019: COLORADO PERMANENTE MEDICAL GROUP, P.C. CASH BALANCE PLAN
-        Participants: 332
-        Assets: 15300079
-        $/Participant: 46084
-        Available Investments:
-           - KAISER PERMANENTE MED CARE PROGRAM
-                 : KAISER PERMANENTE GROUP TRUST
-   [002]
+  COLORADO PERMANENTE MEDICAL GROUP, P.C.  840832336
     2022: COLORADO PERMANENTE MEDICAL GROUP, P.C. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 1801
         Assets: 788222817
         $/Participant: 437658
         RecordKeeper: CHARLES SCHWAB & CO., INC.
     2021: COLORADO PERMANENTE MEDICAL GROUP, P.C., CASH OR DEFERRED PROFIT SHARING PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T 
         Participants: 1720
         Assets: 967421108
         $/Participant: 562454
         RecordKeeper: THE VANGUARD GROUP, INC.
     2020: COLORADO PERMANENTE MEDICAL GROUP, P.C., CASH OR DEFERRED PROFIT SHARING PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T 
         Participants: 1680
         Assets: 846966202
         $/Participant: 504146
         RecordKeeper: THE VANGUARD GROUP, INC.
     2019: COLORADO PERMANENTE MEDICAL GROUP, P.C., CASH OR DEFERRED PROFIT SHARING PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T 
         Participants: 1662
         Assets: 734555646
         $/Participant: 441970
         RecordKeeper: THE VANGUARD GROUP, INC.
     2018: COLORADO PERMANENTE MEDICAL GROUP, P.C., CASH OR DEFERRED PROFIT SHARING PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T 
         Participants: 1656
         Assets: 598823745
         $/Participant: 361608
         RecordKeeper: THE VANGUARD GROUP, INC.
     2017: COLORADO PERMANENTE MEDICAL GROUP, P.C., CASH OR DEFERRED PROFIT SHARING PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T 
         Participants: 1606
         Assets: 632201313
         $/Participant: 393649
         RecordKeeper: THE VANGUARD GROUP, INC.
 CA : OAKLAND
+   [560]
+    2022: COLORADO PERMANENTE MEDICAL GROUP, P.C. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4G4H4L4Q
+        Participants: 0
+    2021: COLORADO PERMANENTE MEDICAL GROUP, P.C. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
+        Participants: 
+    2020: COLORADO PERMANENTE MEDICAL GROUP, P.C. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4L4Q
+        Participants: 
+    2019: COLORADO PERMANENTE MEDICAL GROUP, P.C. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L4Q4G
+        Participants: 
+    2018: COLORADO PERMANENTE MEDICAL GROUP, P.C. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L4Q
+        Participants: 
+    2017: COLORADO PERMANENTE MEDICAL GROUP, P.C. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L4Q
+        Participants: 
    [001]
     2022: PERMANENTE PHYSICIANS RETIREMENT PLAN FOR CPMG
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 1275
         Assets: 577794525
         $/Participant: 453172
@@ -84,6 +79,8 @@ CA : OAKLAND
            - KAISER PERMANENTE MED CARE PROGRAM
                  : KAISER PERMANENTE GROUP TRUST
     2021: PERMANENTE PHYSICIANS RETIREMENT PLAN FOR CPMG
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 1319
         Assets: 705339483
         $/Participant: 534753
@@ -91,6 +88,8 @@ CA : OAKLAND
            - KAISER PERMANENTE MED CARE PROGRAM
                  : KAISER PERMANENTE GROUP TRUST
     2020: PERMANENTE PHYSICIANS RETIREMENT PLAN FOR CPMG
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 1325
         Assets: 659579110
         $/Participant: 497795
@@ -98,6 +97,8 @@ CA : OAKLAND
            - KAISER PERMANENTE MED CARE PROGRAM
                  : KAISER PERMANENTE GROUP TRUST
     2019: PERMANENTE PHYSICIANS RETIREMENT PLAN FOR CPMG
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 1356
         Assets: 611274697
         $/Participant: 450792
@@ -105,6 +106,8 @@ CA : OAKLAND
            - KAISER PERMANENTE MED CARE PROGRAM
                  : KAISER PERMANENTE GROUP TRUST
     2018: PERMANENTE PHYSICIANS RETIREMENT PLAN FOR CPMG
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 1409
         Assets: 499156069
         $/Participant: 354262
@@ -112,9 +115,49 @@ CA : OAKLAND
            - KAISER PERMANENTE MED CARE PROGRAM
                  : KAISER PERMANENTE GROUP TRUST
     2017: PERMANENTE PHYSICIANS RETIREMENT PLAN FOR CPMG
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 1246
         Assets: 504599859
         $/Participant: 404975
+        Available Investments:
+           - KAISER PERMANENTE MED CARE PROGRAM
+                 : KAISER PERMANENTE GROUP TRUST
+CO : DENVER
+   [003]
+    2022: COLORADO PERMANENTE MEDICAL GROUP, P.C. CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H 
+        Participants: 468
+        Assets: 41436781
+        $/Participant: 88540
+        Available Investments:
+           - KAISER PERMANENTE MED CARE PROGRAM
+                 : KAISER PERMANENTE GROUP TRUST
+    2021: COLORADO PERMANENTE MEDICAL GROUP, P.C. CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H 
+        Participants: 448
+        Assets: 35343638
+        $/Participant: 78892
+        Available Investments:
+           - KAISER PERMANENTE MED CARE PROGRAM
+                 : KAISER PERMANENTE GROUP TRUST
+    2020: COLORADO PERMANENTE MEDICAL GROUP, P.C. CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H 
+        Participants: 358
+        Assets: 24245854
+        $/Participant: 67725
+        Available Investments:
+           - KAISER PERMANENTE MED CARE PROGRAM
+                 : KAISER PERMANENTE GROUP TRUST
+    2019: COLORADO PERMANENTE MEDICAL GROUP, P.C. CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3H 
+        Participants: 332
+        Assets: 15300079
+        $/Participant: 46084
         Available Investments:
            - KAISER PERMANENTE MED CARE PROGRAM
                  : KAISER PERMANENTE GROUP TRUST

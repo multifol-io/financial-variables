@@ -1,52 +1,9 @@
 MO : ST LOUIS
   TOM LANGE COMPANY, INC  430961120
-   [503]
-    2022: TOM LANGE COMPANY JUMBO GROUP LIFE INSURANCE PLAN
-        Participants: 
-    2021: TOM LANGE COMPANY JUMBO GROUP LIFE INSURANCE PLAN
-        Participants: 
-    2020: TOM LANGE COMPANY JUMBO GROUP LIFE INSURANCE PLAN
-        Participants: 
-    2019: TOM LANGE COMPANY JUMBO GROUP LIFE INSURANCE PLAN
-        Participants: 
-IL : SPRINGFIELD
-    2018: TOM LANGE COMPANY JUMBO GROUP LIFE INSURANCE PLAN
-        Participants: 
-    2017: TOM LANGE COMPANY JUMBO GROUP LIFE INSURANCE PLAN
-        Participants: 
-MO : ST LOUIS
-   [502]
-    2022: TOM LANGE COMPANY, INC LONG TERM DISABILITY INCOME PLAN
-        Participants: 
-    2021: TOM LANGE COMPANY, INC LONG TERM DISABILITY INCOME PLAN
-        Participants: 
-    2020: TOM LANGE COMPANY, INC LONG TERM DISABILITY INCOME PLAN
-        Participants: 
-    2019: TOM LANGE COMPANY, INC LONG TERM DISABILITY INCOME PLAN
-        Participants: 
-IL : SPRINGFIELD
-    2018: TOM LANGE COMPANY, INC LONG TERM DISABILITY INCOME PLAN
-        Participants: 
-    2017: TOM LANGE COMPANY, INC LONG TERM DISABILITY INCOME PLAN
-        Participants: 
-MO : ST LOUIS
-   [501]
-    2022: TOM LANGE, INC. EMPLOYEE HEALTH CARE PLAN
-        Participants: 
-    2021: TOM LANGE, INC. EMPLOYEE HEALTH CARE PLAN
-        Participants: 
-    2020: TOM LANGE, INC. EMPLOYEE HEALTH CARE PLAN
-        Participants: 
-IL : SPRINGFIELD
-    2019: TOM LANGE, INC. EMPLOYEE HEALTH CARE PLAN
-        Participants: 
-    2018: TOM LANGE, INC. EMPLOYEE HEALTH CARE PLAN
-        Participants: 
-    2017: TOM LANGE, INC. EMPLOYEE HEALTH CARE PLAN
-        Participants: 
-MO : ST LOUIS
    [003]
     2022: TOM LANGE COMPANY 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 210
         Assets: 26855140
         $/Participant: 127881
@@ -74,6 +31,8 @@ MO : ST LOUIS
                  : VANGUARD SMALL-CAP IDX ADM
                  : VGD WELLESLEY INC ADMIRAL
     2021: TOM LANGE COMPANY 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 205
         Assets: 30579989
         $/Participant: 149170
@@ -101,6 +60,8 @@ MO : ST LOUIS
                  : VANGUARD SMALL-CAP IDX ADM
                  : VGD WELLESLEY INC ADMIRAL
     2020: TOM LANGE COMPANY 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 193
         Assets: 26667062
         $/Participant: 138171
@@ -129,6 +90,8 @@ MO : ST LOUIS
                  : VGD WELLESLEY INC ADMIRAL
 IL : SPRINGFIELD
     2019: TOM LANGE COMPANY 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 196
         Assets: 24297247
         $/Participant: 123965
@@ -156,6 +119,8 @@ IL : SPRINGFIELD
                  : VANGUARD SMALL-CAP IDX ADM
                  : VGD WELLESLEY INC ADMIRAL
     2018: TOM LANGE COMPANY 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 191
         Assets: 20702123
         $/Participant: 108388
@@ -184,6 +149,8 @@ IL : SPRINGFIELD
                  : VANGUARD SMALL-CAP IDX ADM
                  : VGD WELLESLEY INC ADMIRAL
     2017: TOM LANGE COMPANY 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 185
         Assets: 21704620
         $/Participant: 117322
@@ -216,23 +183,114 @@ IL : SPRINGFIELD
 MO : ST. LOUIS
    [002]
     2021: TOM LANGE COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
         Participants: 180
         Assets: 146109338
         $/Participant: 811718
     2020: TOM LANGE COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
         Participants: 177
         Assets: 127622284
         $/Participant: 721029
 IL : SPRINGFIELD
     2019: TOM LANGE COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
         Participants: 172
         Assets: 79243503
         $/Participant: 460718
     2018: TOM LANGE COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
         Participants: 164
         Assets: 61925237
         $/Participant: 377592
     2017: TOM LANGE COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
         Participants: 159
         Assets: 68576618
         $/Participant: 431299
+MO : ST LOUIS
+   [501]
+    2022: TOM LANGE, INC. EMPLOYEE HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: TOM LANGE, INC. EMPLOYEE HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2020: TOM LANGE, INC. EMPLOYEE HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+IL : SPRINGFIELD
+    2019: TOM LANGE, INC. EMPLOYEE HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: TOM LANGE, INC. EMPLOYEE HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: TOM LANGE, INC. EMPLOYEE HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+MO : ST LOUIS
+   [502]
+    2022: TOM LANGE COMPANY, INC LONG TERM DISABILITY INCOME PLAN
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 
+    2021: TOM LANGE COMPANY, INC LONG TERM DISABILITY INCOME PLAN
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 
+    2020: TOM LANGE COMPANY, INC LONG TERM DISABILITY INCOME PLAN
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 
+    2019: TOM LANGE COMPANY, INC LONG TERM DISABILITY INCOME PLAN
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 
+IL : SPRINGFIELD
+    2018: TOM LANGE COMPANY, INC LONG TERM DISABILITY INCOME PLAN
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 
+    2017: TOM LANGE COMPANY, INC LONG TERM DISABILITY INCOME PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+MO : ST LOUIS
+   [503]
+    2022: TOM LANGE COMPANY JUMBO GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2021: TOM LANGE COMPANY JUMBO GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2020: TOM LANGE COMPANY JUMBO GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2019: TOM LANGE COMPANY JUMBO GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+IL : SPRINGFIELD
+    2018: TOM LANGE COMPANY JUMBO GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2017: TOM LANGE COMPANY JUMBO GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 

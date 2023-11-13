@@ -1,70 +1,9 @@
 OH : LIMA
   CENOVUS ENERGY  223948622
-   [501]
-    2022: HUSKY REFINING COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-    2021: HUSKY REFINING COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-    2020: HUSKY REFINING COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-    2019: HUSKY REFINING COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-    2018: HUSKY REFINING COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-    2017: HUSKY REFINING COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-   [003]
-    2022: CENOVUS NON-REPRESENTED 401(K) PLAN
-        Participants: 388
-        Assets: 107806178
-        $/Participant: 277850
-        RecordKeeper: THE VANGUARD GROUP, INC.
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC RETIREMENT SAVINGS TRUST III
-    2021: LIMA REFINING COMPANY NON-REPRESENTED 401(K) PLAN
-        Participants: 355
-        Assets: 128288203
-        $/Participant: 361375
-        RecordKeeper: THE VANGUARD GROUP, INC.
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC RETIREMENT SAVINGS TRUST III
-    2020: LIMA REFINING COMPANY NON-REPRESENTED 401(K) PLAN
-        Participants: 348
-        Assets: 107676448
-        $/Participant: 309415
-        RecordKeeper: THE VANGUARD GROUP, INC.
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC RETIREMENT SAVINGS TRUST III
-    2019: LIMA REFINING COMPANY NON-REPRESENTED 401(K) PLAN
-        Participants: 333
-        Assets: 87168186
-        $/Participant: 261766
-        RecordKeeper: THE VANGUARD GROUP, INC.
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC RETIREMENT SAVINGS TRUST III
-    2018: LIMA REFINING COMPANY NON-REPRESENTED 401(K) PLAN
-        Participants: 337
-        Assets: 71411164
-        $/Participant: 211902
-        RecordKeeper: THE VANGUARD GROUP, INC.
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC RETIREMENT SAVINGS TRUST
-                 : VFTC RETIREMENT SAVINGS TRUST III
-    2017: LIMA REFINING COMPANY NON-REPRESENTED 401(K) PLAN
-        Participants: 325
-        Assets: 70532032
-        $/Participant: 217021
-        RecordKeeper: THE VANGUARD GROUP, INC.
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VANGUARD RETIREMENT SAVINGS TRUST
    [002]
     2022: LIMA REFINING COMPANY AND SUPERIOR REFINING COMPANY LLC 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3F 
         Participants: 510
         Assets: 92597674
         $/Participant: 181564
@@ -73,6 +12,8 @@ OH : LIMA
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2021: LIMA REFINING COMPANY AND SUPERIOR REFINING COMPANY LLC 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3F 
         Participants: 423
         Assets: 111557112
         $/Participant: 263728
@@ -81,6 +22,8 @@ OH : LIMA
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2020: LIMA REFINING COMPANY AND SUPERIOR REFINING COMPANY LLC 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3F 
         Participants: 433
         Assets: 100342603
         $/Participant: 231738
@@ -89,6 +32,8 @@ OH : LIMA
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2019: LIMA REFINING COMPANY AND SUPERIOR REFINING COMPANY LLC 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3F 
         Participants: 419
         Assets: 83467472
         $/Participant: 199206
@@ -97,6 +42,8 @@ OH : LIMA
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2018: LIMA REFINING COMPANY AND SUPERIOR REFINING COMPANY LLC 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3F 
         Participants: 424
         Assets: 64082219
         $/Participant: 151137
@@ -106,6 +53,8 @@ OH : LIMA
                  : VFTC RETIREMENT SAVINGS TRUST
                  : VFTC RETIREMENT SAVINGS TRUST III
     2017: LIMA REFINING COMPANY AND SUPERIOR REFINING COMPANY LLC 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3F 
         Participants: 435
         Assets: 58571509
         $/Participant: 134647
@@ -113,3 +62,90 @@ OH : LIMA
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
+   [003]
+    2022: CENOVUS NON-REPRESENTED 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
+        Participants: 388
+        Assets: 107806178
+        $/Participant: 277850
+        RecordKeeper: THE VANGUARD GROUP, INC.
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC RETIREMENT SAVINGS TRUST III
+    2021: LIMA REFINING COMPANY NON-REPRESENTED 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
+        Participants: 355
+        Assets: 128288203
+        $/Participant: 361375
+        RecordKeeper: THE VANGUARD GROUP, INC.
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC RETIREMENT SAVINGS TRUST III
+    2020: LIMA REFINING COMPANY NON-REPRESENTED 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
+        Participants: 348
+        Assets: 107676448
+        $/Participant: 309415
+        RecordKeeper: THE VANGUARD GROUP, INC.
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC RETIREMENT SAVINGS TRUST III
+    2019: LIMA REFINING COMPANY NON-REPRESENTED 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
+        Participants: 333
+        Assets: 87168186
+        $/Participant: 261766
+        RecordKeeper: THE VANGUARD GROUP, INC.
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC RETIREMENT SAVINGS TRUST III
+    2018: LIMA REFINING COMPANY NON-REPRESENTED 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
+        Participants: 337
+        Assets: 71411164
+        $/Participant: 211902
+        RecordKeeper: THE VANGUARD GROUP, INC.
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC RETIREMENT SAVINGS TRUST
+                 : VFTC RETIREMENT SAVINGS TRUST III
+    2017: LIMA REFINING COMPANY NON-REPRESENTED 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
+        Participants: 325
+        Assets: 70532032
+        $/Participant: 217021
+        RecordKeeper: THE VANGUARD GROUP, INC.
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VANGUARD RETIREMENT SAVINGS TRUST
+   [501]
+    2022: HUSKY REFINING COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: HUSKY REFINING COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: HUSKY REFINING COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: HUSKY REFINING COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: HUSKY REFINING COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: HUSKY REFINING COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 

@@ -1,46 +1,91 @@
 CA : SAN DIEGO
   SAN DIEGO GAS & ELECTRIC COMPANY  951184800
-   [505]
-    2022: SAN DIEGO GAS & ELECTRIC COMPANY RETIREE COMBINED GROUP HEALTH AND WELFARE PROGRAM
-        Participants: 
-        Assets: 68014783
-        $/Participant: 
-        RecordKeeper: BLUE CROSS OF CALIFORNIA
-    2021: SAN DIEGO GAS & ELECTRIC COMPANY RETIREE COMBINED GROUP HEALTH AND WELFARE PROGRAM
-        Participants: 
-        Assets: 85664033
-        $/Participant: 
-        RecordKeeper: BLUE CROSS OF CALIFORNIA
-    2020: SAN DIEGO GAS & ELECTRIC COMPANY RETIREE COMBINED GROUP HEALTH AND WELFARE PROGRAM
-        Participants: 
-        Assets: 82204719
-        $/Participant: 
-        RecordKeeper: DELTA DENTAL
-    2019: SAN DIEGO GAS & ELECTRIC COMPANY RETIREE COMBINED GROUP HEALTH AND WELFARE PROGRAM
-        Participants: 
-        Assets: 73728420
-        $/Participant: 
-        RecordKeeper: THE BANK OF NEW YORK MELLON
-    2018: SAN DIEGO GAS & ELECTRIC COMPANY RETIREE COMBINED GROUP HEALTH AND WELFARE PROGRAM
-        Participants: 
-        Assets: 62107319
-        $/Participant: 
-        RecordKeeper: ANTHEM BLUE CROSS LIFE AND HEALTH I
-    2017: SAN DIEGO GAS & ELECTRIC COMPANY RETIREE COMBINED GROUP HEALTH AND WELFARE PROGRAM
-        Participants: 
-        Assets: 64387503
-        $/Participant: 
-        RecordKeeper: DELTA DENTAL
+    2022: SAN DIEGO GAS & ELECTRIC COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2F2G2I2J2K2O2R2S2T3H 
+        Participants: 6050
+        Assets: 1669371292
+        $/Participant: 275929
+        RecordKeeper: CHARLES SCHWAB & CO. INC.
+        Available Investments:
+           - SEMPRA
+                 : SEMPRA ENERGY SAVINGS MASTER TRUST
+    2021: SAN DIEGO GAS & ELECTRIC COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2F2G2I2J2K2O2R2S2T3H 
+        Participants: 5954
+        Assets: 1937326925
+        $/Participant: 325382
+        RecordKeeper: CHARLES SCHWAB & CO. INC.
+        Available Investments:
+           - SEMPRA ENERGY
+                 : SEMPRA ENERGY SAVINGS MASTER TRUST
+    2020: SAN DIEGO GAS & ELECTRIC COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2F2G2I2J2K2O2R2S2T3H 
+        Participants: 5745
+        Assets: 1752228844
+        $/Participant: 305000
+        RecordKeeper: CHARLES SCHWAB & CO. INC.
+        Available Investments:
+           - SEMPRA ENERGY
+                 : SEMPRA ENERGY SAVINGS MASTER TRUST
+    2019: SAN DIEGO GAS & ELECTRIC COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2F2G2I2J2K2O2R2S2T3H 
+        Participants: 5448
+        Assets: 1657184144
+        $/Participant: 304182
+        RecordKeeper: CHARLES SCHWAB & CO, INC.
+        Available Investments:
+           - SEMPRA ENERGY
+                 : SEMPRA ENERGY SAVINGS MASTER TRUST
+    2018: SAN DIEGO GAS & ELECTRIC COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2F2G2I2J2K2P2R2S2T3H 
+        Participants: 5256
+        Assets: 1348949962
+        $/Participant: 256649
+        RecordKeeper: T. ROWE PRICE TRUST COMPANY
+        Available Investments:
+           - SEMPRA ENERGY
+                 : SEMPRA ENERGY SAVINGS MASTER TRUST
+    2017: SAN DIEGO GAS & ELECTRIC COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2F2G2I2J2K2P2R2S2T3H 
+        Participants: 5195
+        Assets: 1425916812
+        $/Participant: 274478
+        RecordKeeper: T. ROWE PRICE TRUST COMPANY
+        Available Investments:
+           - SEMPRA ENERGY
+                 : SEMPRA ENERGY SAVINGS MASTER TRUST
    [502]
     2022: SAN DIEGO GAS & ELECTRIC COMPANY ACTIVE EMPLOYEE COMBINED GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2021: SAN DIEGO GAS & ELECTRIC COMPANY ACTIVE EMPLOYEE COMBINED GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2020: SAN DIEGO GAS & ELECTRIC COMPANY ACTIVE EMPLOYEE COMBINED GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2019: SAN DIEGO GAS & ELECTRIC COMPANY ACTIVE EMPLOYEE COMBINED GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2018: SAN DIEGO GAS & ELECTRIC COMPANY ACTIVE EMPLOYEE COMBINED GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
         Participants: 
         Service Providers:
            - BLUE CROSS OF CALIFORNIA :  (Account maintenance fees | Claims processing)
@@ -50,6 +95,8 @@ CA : SAN DIEGO
            - VISION SERVICE PLAN :  (Account maintenance fees | Claims processing)
            - EXPRESS SCRIPTS :  (Account maintenance fees | Claims processing)
     2017: SAN DIEGO GAS & ELECTRIC COMPANY ACTIVE EMPLOYEE COMBINED GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
         Participants: 
         Service Providers:
            - BLUE CROSS OF CALIFORNIA :  (Account maintenance fees | Claims processing)
@@ -58,8 +105,53 @@ CA : SAN DIEGO
            - MHN SERVICES :  (Account maintenance fees | Claims processing)
            - VISION SERVICE PLAN :  (Account maintenance fees | Claims processing)
            - EXPRESS SCRIPTS :  (Account maintenance fees | Claims processing)
+   [505]
+    2022: SAN DIEGO GAS & ELECTRIC COMPANY RETIREE COMBINED GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+        Assets: 68014783
+        $/Participant: 
+        RecordKeeper: BLUE CROSS OF CALIFORNIA
+    2021: SAN DIEGO GAS & ELECTRIC COMPANY RETIREE COMBINED GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+        Assets: 85664033
+        $/Participant: 
+        RecordKeeper: BLUE CROSS OF CALIFORNIA
+    2020: SAN DIEGO GAS & ELECTRIC COMPANY RETIREE COMBINED GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+        Assets: 82204719
+        $/Participant: 
+        RecordKeeper: DELTA DENTAL
+    2019: SAN DIEGO GAS & ELECTRIC COMPANY RETIREE COMBINED GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+        Assets: 73728420
+        $/Participant: 
+        RecordKeeper: THE BANK OF NEW YORK MELLON
+    2018: SAN DIEGO GAS & ELECTRIC COMPANY RETIREE COMBINED GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4D4Q4U
+        Participants: 
+        Assets: 62107319
+        $/Participant: 
+        RecordKeeper: ANTHEM BLUE CROSS LIFE AND HEALTH I
+    2017: SAN DIEGO GAS & ELECTRIC COMPANY RETIREE COMBINED GROUP HEALTH AND WELFARE PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4D4Q4U
+        Participants: 
+        Assets: 64387503
+        $/Participant: 
+        RecordKeeper: DELTA DENTAL
    [002]
     2022: SAN DIEGO GAS & ELECTRIC COMPANY CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E3H 
         Participants: 6091
         Assets: 774928335
         $/Participant: 127225
@@ -68,6 +160,8 @@ CA : SAN DIEGO
            - SEMPRA
                  : SEMPRA ENERGY PENSION MASTER TRUST
     2021: SAN DIEGO GAS & ELECTRIC COMPANY CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E3H 
         Participants: 6068
         Assets: 989010677
         $/Participant: 162987
@@ -76,6 +170,8 @@ CA : SAN DIEGO
            - SEMPRA ENERGY
                  : SEMPRA ENERGY PENSION MASTER TRUST
     2020: SAN DIEGO GAS & ELECTRIC COMPANY CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E3H 
         Participants: 5903
         Assets: 997109218
         $/Participant: 168915
@@ -104,6 +200,8 @@ CA : SAN DIEGO
            - SEMPRA ENERGY
                  : SEMPRA ENERGY PENSION MASTER TRUST
     2019: SAN DIEGO GAS & ELECTRIC COMPANY CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E3F3H 
         Participants: 5711
         Assets: 900934305
         $/Participant: 157754
@@ -129,6 +227,8 @@ CA : SAN DIEGO
            - SEMPRA ENERGY
                  : SEMPRA ENERGY PENSION MASTER TRUST
     2018: SAN DIEGO GAS & ELECTRIC COMPANY CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E3F3H 
         Participants: 5696
         Assets: 710047241
         $/Participant: 124657
@@ -158,6 +258,8 @@ CA : SAN DIEGO
            - SEMPRA ENERGY
                  : SEMPRA ENERGY PENSION MASTER TRUST
     2017: SAN DIEGO GAS & ELECTRIC COMPANY CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E3F3H 
         Participants: 6617
         Assets: 904856175
         $/Participant: 136747
@@ -185,52 +287,3 @@ CA : SAN DIEGO
         Available Investments:
            - SEMPRA ENERGY
                  : SEMPRA ENERGY PENSION MASTER TRUST
-   [001]
-    2022: SAN DIEGO GAS & ELECTRIC COMPANY SAVINGS PLAN
-        Participants: 6050
-        Assets: 1669371292
-        $/Participant: 275929
-        RecordKeeper: CHARLES SCHWAB & CO. INC.
-        Available Investments:
-           - SEMPRA
-                 : SEMPRA ENERGY SAVINGS MASTER TRUST
-    2021: SAN DIEGO GAS & ELECTRIC COMPANY SAVINGS PLAN
-        Participants: 5954
-        Assets: 1937326925
-        $/Participant: 325382
-        RecordKeeper: CHARLES SCHWAB & CO. INC.
-        Available Investments:
-           - SEMPRA ENERGY
-                 : SEMPRA ENERGY SAVINGS MASTER TRUST
-    2020: SAN DIEGO GAS & ELECTRIC COMPANY SAVINGS PLAN
-        Participants: 5745
-        Assets: 1752228844
-        $/Participant: 305000
-        RecordKeeper: CHARLES SCHWAB & CO. INC.
-        Available Investments:
-           - SEMPRA ENERGY
-                 : SEMPRA ENERGY SAVINGS MASTER TRUST
-    2019: SAN DIEGO GAS & ELECTRIC COMPANY SAVINGS PLAN
-        Participants: 5448
-        Assets: 1657184144
-        $/Participant: 304182
-        RecordKeeper: CHARLES SCHWAB & CO, INC.
-        Available Investments:
-           - SEMPRA ENERGY
-                 : SEMPRA ENERGY SAVINGS MASTER TRUST
-    2018: SAN DIEGO GAS & ELECTRIC COMPANY SAVINGS PLAN
-        Participants: 5256
-        Assets: 1348949962
-        $/Participant: 256649
-        RecordKeeper: T. ROWE PRICE TRUST COMPANY
-        Available Investments:
-           - SEMPRA ENERGY
-                 : SEMPRA ENERGY SAVINGS MASTER TRUST
-    2017: SAN DIEGO GAS & ELECTRIC COMPANY SAVINGS PLAN
-        Participants: 5195
-        Assets: 1425916812
-        $/Participant: 274478
-        RecordKeeper: T. ROWE PRICE TRUST COMPANY
-        Available Investments:
-           - SEMPRA ENERGY
-                 : SEMPRA ENERGY SAVINGS MASTER TRUST

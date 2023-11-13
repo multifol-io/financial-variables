@@ -1,24 +1,9 @@
 CA : SAN FRANCISCO
   PLANT/ALLISON CORPORATION  010611050
-   [505]
-    2021: PLANT/ALLISON CORPORATION HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: PLANT/ALLISON CORPORATION HEALTH AND WELFARE PLAN
-        Participants: 
-   [504]
-    2019: PLANT/ALLISON CORPORATION
-        Participants: 
-   [503]
-    2019: PLANT/ALLISON CORPORATION
-        Participants: 
-   [502]
-    2018: PLANT/ALLISON CORPORATION
-        Participants: 
-   [501]
-    2018: PLANT/ALLISON CORPORATION
-        Participants: 
    [001]
     2022: PLANT/ALLISON CORPORATION PROFIT SHARING 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2T3D 
         Participants: 182
         Assets: 46078279
         $/Participant: 253177
@@ -48,6 +33,8 @@ CA : SAN FRANCISCO
                  : VANGUARD TOT BOND MKT IDX ADM
                  : VGD WELLESLEY INC ADMIRAL
     2021: PLANT/ALLISON CORPORATION PROFIT SHARING 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 183
         Assets: 55439731
         $/Participant: 302949
@@ -77,6 +64,8 @@ CA : SAN FRANCISCO
                  : VANGUARD TOT BOND MKT IDX ADM
                  : VGD WELLESLEY INC ADMIRAL
     2020: PLANT/ALLISON CORPORATION PROFIT SHARING 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 180
         Assets: 49132203
         $/Participant: 272956
@@ -109,6 +98,8 @@ CA : SAN FRANCISCO
                  : VANGUARD TOT BOND MKT IDX ADM
                  : VGD WELLESLEY INC ADMIRAL
     2019: PLANT/ALLISON CORPORATION PROFIT SHARING 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 204
         Assets: 42853118
         $/Participant: 210064
@@ -139,6 +130,8 @@ CA : SAN FRANCISCO
                  : VANGUARD TOT INTL STK IDX ADM
                  : VGD WELLESLEY INC ADMIRAL
     2018: PLANT/ALLISON CORPORATION PROFIT SHARING 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 183
         Assets: 33673706
         $/Participant: 184009
@@ -169,6 +162,8 @@ CA : SAN FRANCISCO
                  : VANGUARD TOT INTL STK IDX ADM
                  : VGD WELLESLEY INC ADMIRAL
     2017: PLANT/ALLISON CORPORATION PROFIT SHARING 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 153
         Assets: 36226219
         $/Participant: 236772
@@ -200,3 +195,32 @@ CA : SAN FRANCISCO
                  : VANGUARD TOT BOND MKT IDX ADM
                  : VANGUARD TOT INTL STK IDX ADM
                  : VGD WELLESLEY INC ADMIRAL
+   [501]
+    2018: PLANT/ALLISON CORPORATION
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [503]
+    2019: PLANT/ALLISON CORPORATION
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+   [505]
+    2021: PLANT/ALLISON CORPORATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2020: PLANT/ALLISON CORPORATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+   [502]
+    2018: PLANT/ALLISON CORPORATION
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+   [504]
+    2019: PLANT/ALLISON CORPORATION
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 

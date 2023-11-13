@@ -1,17 +1,9 @@
 TX : HOUSTON
   SAUDI ARABIAN OIL COMPANY SAUDI ARAMCO  980105730
-    2018: U. S. DOLLAR WELFARE PLAN
-        Participants: 
-        Assets: 5808893
-        $/Participant: 
-        RecordKeeper: JP MORGAN CHASE BANK N.A.
-    2017: U. S. DOLLAR WELFARE PLAN
-        Participants: 
-        Assets: 8311335
-        $/Participant: 
-        RecordKeeper: CONEXIS
    [002]
     2018: THE SAVINGS PLAN OF THE SAUDI ARABIAN OIL COMPANY
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 4138
         Assets: 2278682844
         $/Participant: 550672
@@ -33,6 +25,8 @@ TX : HOUSTON
                  : VFTC TARGET RET 2065 TRUST II
                  : VFTC TARGET RET INCOME TRUST II
     2017: THE SAVINGS PLAN OF THE SAUDI ARABIAN OIL COMPANY
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 4243
         Assets: 2367340623
         $/Participant: 557940
@@ -53,8 +47,25 @@ TX : HOUSTON
                  : VFTC TARGET RET 2060 TRUST II
                  : VFTC TARGET RET 2065 TRUST II
                  : VFTC TARGET RET INCOME TRUST II
+   [501]
+    2018: U. S. DOLLAR WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 
+        Assets: 5808893
+        $/Participant: 
+        RecordKeeper: JP MORGAN CHASE BANK N.A.
+    2017: U. S. DOLLAR WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 
+        Assets: 8311335
+        $/Participant: 
+        RecordKeeper: CONEXIS
    [001]
     2018: RETIREMENT INCOME PLAN OF SAUDI ARABIAN OIL COMPANY
+        Benefit Category: Pension
+        Codes: 1A1E3H 
         Participants: 2957
         Assets: 2079546077
         $/Participant: 703262
@@ -63,6 +74,8 @@ TX : HOUSTON
            - BRIDGEWATER PUREALPHA MAJOR MARKETS
                  : BRIDGEWATER PUREALPHA MAJOR MARKETS
     2017: RETIREMENT INCOME PLAN OF SAUDI ARABIAN OIL COMPANY
+        Benefit Category: Pension
+        Codes: 1A1E3H 
         Participants: 3120
         Assets: 2193029734
         $/Participant: 702894

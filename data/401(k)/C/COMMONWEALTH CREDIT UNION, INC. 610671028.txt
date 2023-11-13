@@ -1,20 +1,25 @@
 KY : FRANKFORT
   COMMONWEALTH CREDIT UNION, INC.  610671028
-   [502]
-    2022: COMMONWEALTH CREDIT UNION EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2021: COMMONWEALTH CREDIT UNION EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2020: COMMONWEALTH CREDIT UNION EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2019: COMMONWEALTH CREDIT UNION EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2018: COMMONWEALTH CREDIT UNION EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2017: COMMONWEALTH CREDIT UNION EMPLOYEE BENEFITS PLAN
-        Participants: 306
+   [001]
+    2022: COMMONWEALTH CREDIT UNION 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3C3D 
+        Participants: 392
+        Assets: 13950860
+        $/Participant: 35588
+        RecordKeeper: WILSHIRE ADVISORS LLC
+        Available Investments:
+           - PRINCIPAL LIFE INSURANCE COMPANY
+                 : PRIN CORE PLUS BOND SEP ACCT-Z
+                 : PRIN EQUITY INCOME SA-Z
+                 : PRIN INTL I SEPARATE ACCT-Z
+                 : PRIN LGCP S&P 500 INDEX SA-Z
+                 : PRIN MIDCAP S&P 400 IDX SA-Z
+                 : PRIN SMCAP S&P 600 INDEX SA-Z
    [005]
     2021: COMMONWEALTH CREDIT UNION 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3C3D 
         Participants: 375
         Assets: 15384011
         $/Participant: 41024
@@ -27,8 +32,35 @@ KY : FRANKFORT
                  : PRIN LGCP S&P 500 INDEX SA-Z
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
+   [502]
+    2022: COMMONWEALTH CREDIT UNION EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2021: COMMONWEALTH CREDIT UNION EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2020: COMMONWEALTH CREDIT UNION EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2019: COMMONWEALTH CREDIT UNION EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2018: COMMONWEALTH CREDIT UNION EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2017: COMMONWEALTH CREDIT UNION EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 306
    [004]
     2017: COMMONWEALTH CREDIT UNION PROFIT SHARING PLAN
+        Benefit Category: Other
+        Codes: 2E2T3D2F2G 
         Participants: 0
         Available Investments:
            - CMFG LIFE INSURANCE COMPANY
@@ -39,6 +71,8 @@ KY : FRANKFORT
                  : CUNA MUTUAL LIFESTYLE MOD
    [003]
     2022: COMMONWEALTH CREDIT UNION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1D3D 
         Participants: 231
         Assets: 49003439
         $/Participant: 212136
@@ -61,6 +95,8 @@ KY : FRANKFORT
                  : PRINCIPAL OVERSEAS SEP ACCT-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
     2021: COMMONWEALTH CREDIT UNION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1D 
         Participants: 233
         Assets: 59181633
         $/Participant: 253998
@@ -84,6 +120,8 @@ KY : FRANKFORT
                  : PRIN SMCAP VALUE II SEP ACCT-Z
                  : PRINCIPAL OVERSEAS SEP ACCT-Z
     2020: COMMONWEALTH CREDIT UNION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1D 
         Participants: 233
         Assets: 53364519
         $/Participant: 229032
@@ -92,6 +130,8 @@ KY : FRANKFORT
            - COLLECTIVE INV FUNDS FOR CUNA MUTUAL INSURANCE SOCIETY
                  : CUNA MUTUAL RETIREMENT PENSION FUND
     2019: COMMONWEALTH CREDIT UNION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1D 
         Participants: 234
         Assets: 46983237
         $/Participant: 200783
@@ -100,6 +140,8 @@ KY : FRANKFORT
            - COLLECTIVE INV FUNDS FOR CUNA MUTUAL INSURANCE SOCIETY
                  : CUNA MUTUAL RETIREMENT PENSION FUND
     2018: COMMONWEALTH CREDIT UNION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1D 
         Participants: 237
         Assets: 21546010
         $/Participant: 90911
@@ -108,6 +150,8 @@ KY : FRANKFORT
            - COLLECTIVE INV FUNDS FOR CUNA MUTUAL INSURANCE SOCIETY
                  : CUNA MUTUAL RETIREMENT PENSION FUND
     2017: COMMONWEALTH CREDIT UNION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1D 
         Participants: 242
         Assets: 22938227
         $/Participant: 94786
@@ -115,17 +159,3 @@ KY : FRANKFORT
         Available Investments:
            - COLLECTIVE INV FUNDS FOR CUNA MUTUAL INSURANCE SOCIETY
                  : CUNA MUTUAL RETIREMENT PENSION FUND
-   [001]
-    2022: COMMONWEALTH CREDIT UNION 401(K) RETIREMENT SAVINGS PLAN
-        Participants: 392
-        Assets: 13950860
-        $/Participant: 35588
-        RecordKeeper: WILSHIRE ADVISORS LLC
-        Available Investments:
-           - PRINCIPAL LIFE INSURANCE COMPANY
-                 : PRIN CORE PLUS BOND SEP ACCT-Z
-                 : PRIN EQUITY INCOME SA-Z
-                 : PRIN INTL I SEPARATE ACCT-Z
-                 : PRIN LGCP S&P 500 INDEX SA-Z
-                 : PRIN MIDCAP S&P 400 IDX SA-Z
-                 : PRIN SMCAP S&P 600 INDEX SA-Z

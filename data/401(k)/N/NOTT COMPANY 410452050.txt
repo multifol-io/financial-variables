@@ -1,90 +1,8 @@
 MN : ARDEN HILLS
   NOTT COMPANY  410452050
-   [508]
-    2021: NOTT COMPANY HEALTH & DENTAL WRAP PLAN
-        Participants: 149
-        Service Providers:
-           - NORTH RISK PARTNERS : AGENT/AGENCY (Insurance agents and brokers)
-           - STRATACOR - DDMN ASO, LLC : BENEFIT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2020: NOTT COMPANY HEALTH & DENTAL WRAP PLAN
-        Participants: 152
-    2019: NOTT COMPANY HEALTH & DENTAL WRAP PLAN
-        Participants: 140
-    2018: NOTT COMPANY HEALTH & DENTAL WRAP PLAN
-        Participants: 130
-    2017: NOTT COMPANY HEALTH & DENTAL WRAP PLAN
-        Participants: 133
-   [507]
-    2021: NOTT COMPANY LIFE & DISABILITY WRAP PLAN
-        Participants: 190
-    2020: NOTT COMPANY LIFE & DISABILITY WRAP PLAN
-        Participants: 171
-    2019: NOTT COMPANY LIFE & DISABILITY WRAP PLAN
-        Participants: 173
-    2018: NOTT COMPANY LIFE & DISABILITY WRAP PLAN
-        Participants: 151
-    2017: NOTT COMPANY LIFE & DISABILITY WRAP PLAN
-        Participants: 148
-   [506]
-    2017: NOTT COMPANY WEEKLY DISABILITY INCOME PLAN
-        Participants: 0
-   [505]
-    2017: DELTA DENTAL PLAN OF MINNESOTA
-        Participants: 0
-   [504]
-    2017: NOTT COMPANY LIFE & DISABILITY PLAN
-        Participants: 0
-   [503]
-    2017: NOTT COMPANY LIFE & DISABILITY PLAN
-        Participants: 0
-   [502]
-    2017: MEDICAL BENEFIT PLAN OF NOTT COMPANY
-        Participants: 0
-   [002]
-    2021: NOTT COMPANY EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Participants: 242
-        Assets: 90458657
-        $/Participant: 373796
-        RecordKeeper: WELLS FARGO BANK, NA
-        Available Investments:
-           - WELLS FARGO BANK NA
-                 : WELLS FARGO STABLE RETURN FUND
-    2020: NOTT COMPANY EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Participants: 213
-        Assets: 82003570
-        $/Participant: 384993
-        RecordKeeper: WELLS FARGO BANK, NA
-        Available Investments:
-           - WELLS FARGO BANK NA
-                 : WELLS FARGO STABLE RETURN FUND
-    2019: NOTT COMPANY EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Participants: 212
-        Assets: 78116587
-        $/Participant: 368474
-        RecordKeeper: WELLS FARGO BANK, NA
-        Available Investments:
-           - WELLS FARGO BANK NA
-                 : WELLS FARGO STABLE RETURN FUND
-    2018: NOTT COMPANY EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Participants: 188
-        Assets: 74711326
-        $/Participant: 397400
-        Service Providers:
-           - SCHLENNER WENNER & CO :  (Accounting(including auditing))
-           - WELLS FARGO BANK, NA :  (Trustee(bank, trust company, or similar))
-        Available Investments:
-           - WELLS FARGO BANK NA
-                 : WELLS FARGO STABLE RETURN FUND
-    2017: NOTT COMPANY EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Participants: 183
-        Assets: 76769097
-        $/Participant: 419503
-        RecordKeeper: SCHLENNER WENNER & CO
-        Available Investments:
-           - WELLS FARGO BANK NA
-                 : WELLS FARGO STABLE RETURN FUND
-   [001]
     2021: NOTT COMPANY RETIREMENT SAVINGS PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K3D 
         Participants: 200
         Assets: 9000631
         $/Participant: 45003
@@ -106,6 +24,8 @@ MN : ARDEN HILLS
            - WILMINGTON TRUST
                  : BLACKROCK EQTY INDEX FD CI 46
     2020: NOTT COMPANY RETIREMENT SAVINGS PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K3D 
         Participants: 188
         Assets: 11197731
         $/Participant: 59562
@@ -119,6 +39,8 @@ MN : ARDEN HILLS
            - WILMINGTON TRUST
                  : BLACKROCK EQTY INDEX FD CL 46
     2019: NOTT COMPANY RETIREMENT SAVINGS PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K3D 
         Participants: 188
         Assets: 8289358
         $/Participant: 44092
@@ -128,6 +50,8 @@ MN : ARDEN HILLS
                  : WELLS FARGO STABLE RETURN FUND N
                  : WF/BLACKROCK S&P MC INDEX CIT N35
     2018: NOTT COMPANY RETIREMENT SAVINGS PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K3D 
         Participants: 174
         Assets: 9596687
         $/Participant: 55153
@@ -137,6 +61,8 @@ MN : ARDEN HILLS
                  : WELLS FARGO STABLE RETURN FUND N
                  : WF/BLACKROCK S&P MC INDEX CIT N35
     2017: NOTT COMPANY RETIREMENT SAVINGS PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K3D 
         Participants: 171
         Assets: 9225237
         $/Participant: 53948
@@ -145,3 +71,126 @@ MN : ARDEN HILLS
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE RETURN FUND N
                  : WF/BLACKROCK S&P MC INDEX CIT N35
+   [002]
+    2021: NOTT COMPANY EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 242
+        Assets: 90458657
+        $/Participant: 373796
+        RecordKeeper: WELLS FARGO BANK, NA
+        Available Investments:
+           - WELLS FARGO BANK NA
+                 : WELLS FARGO STABLE RETURN FUND
+    2020: NOTT COMPANY EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 213
+        Assets: 82003570
+        $/Participant: 384993
+        RecordKeeper: WELLS FARGO BANK, NA
+        Available Investments:
+           - WELLS FARGO BANK NA
+                 : WELLS FARGO STABLE RETURN FUND
+    2019: NOTT COMPANY EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 212
+        Assets: 78116587
+        $/Participant: 368474
+        RecordKeeper: WELLS FARGO BANK, NA
+        Available Investments:
+           - WELLS FARGO BANK NA
+                 : WELLS FARGO STABLE RETURN FUND
+    2018: NOTT COMPANY EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 188
+        Assets: 74711326
+        $/Participant: 397400
+        Service Providers:
+           - SCHLENNER WENNER & CO :  (Accounting(including auditing))
+           - WELLS FARGO BANK, NA :  (Trustee(bank, trust company, or similar))
+        Available Investments:
+           - WELLS FARGO BANK NA
+                 : WELLS FARGO STABLE RETURN FUND
+    2017: NOTT COMPANY EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 183
+        Assets: 76769097
+        $/Participant: 419503
+        RecordKeeper: SCHLENNER WENNER & CO
+        Available Investments:
+           - WELLS FARGO BANK NA
+                 : WELLS FARGO STABLE RETURN FUND
+   [502]
+    2017: MEDICAL BENEFIT PLAN OF NOTT COMPANY
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 0
+   [508]
+    2021: NOTT COMPANY HEALTH & DENTAL WRAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 149
+        Service Providers:
+           - NORTH RISK PARTNERS : AGENT/AGENCY (Insurance agents and brokers)
+           - STRATACOR - DDMN ASO, LLC : BENEFIT ADMINISTRATOR (Claims processing | Contract Administrator)
+    2020: NOTT COMPANY HEALTH & DENTAL WRAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 152
+    2019: NOTT COMPANY HEALTH & DENTAL WRAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 140
+    2018: NOTT COMPANY HEALTH & DENTAL WRAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 130
+    2017: NOTT COMPANY HEALTH & DENTAL WRAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 133
+   [503]
+    2017: NOTT COMPANY LIFE & DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 0
+   [504]
+    2017: NOTT COMPANY LIFE & DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 0
+   [505]
+    2017: DELTA DENTAL PLAN OF MINNESOTA
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 0
+   [506]
+    2017: NOTT COMPANY WEEKLY DISABILITY INCOME PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 0
+   [507]
+    2021: NOTT COMPANY LIFE & DISABILITY WRAP PLAN
+        Benefit Category: Other
+        Codes:  4B4H4F
+        Participants: 190
+    2020: NOTT COMPANY LIFE & DISABILITY WRAP PLAN
+        Benefit Category: Other
+        Codes:  4B4H4F
+        Participants: 171
+    2019: NOTT COMPANY LIFE & DISABILITY WRAP PLAN
+        Benefit Category: Other
+        Codes:  4B4H4F
+        Participants: 173
+    2018: NOTT COMPANY LIFE & DISABILITY WRAP PLAN
+        Benefit Category: Other
+        Codes:  4B4H4F
+        Participants: 151
+    2017: NOTT COMPANY LIFE & DISABILITY WRAP PLAN
+        Benefit Category: Other
+        Codes:  4B4H4F
+        Participants: 148

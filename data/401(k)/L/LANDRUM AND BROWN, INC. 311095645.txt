@@ -1,26 +1,9 @@
 OH : CINCINNATI
-  LANDRUM & BROWN, INC.  311095645
-   [506]
-    2020: WRAP PLAN
-        Participants: 
-    2019: WRAP PLAN
-        Participants: 
-    2018: WRAP PLAN
-        Participants: 
-   [505]
-    2017: LONG TERM DISABILITY PLAN
-        Participants: 
-   [504]
-    2017: SHORT TERM DISABILITY PLAN
-        Participants: 
-   [503]
-    2017: ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Participants: 
-   [502]
-    2017: BASIC LIFE PLAN
-        Participants: 
+  LANDRUM AND BROWN, INC.  311095645
    [001]
     2022: LANDRUM & BROWN 401(K) AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H3D2R 
         Participants: 130
         Assets: 23867161
         $/Participant: 183593
@@ -31,6 +14,8 @@ OH : CINCINNATI
            - WILMINGTON TRUST, N.A.
                  : CB LARGE CAP GR R1
     2021: LANDRUM & BROWN 401(K) AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3H 
         Participants: 130
         Assets: 33030022
         $/Participant: 254077
@@ -41,6 +26,8 @@ OH : CINCINNATI
            - WILMINGTON TRUST, N.A.
                  : CB LARGE CAP GR R1
     2020: LANDRUM & BROWN 401(K) AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2E2T3H3D2R 
         Participants: 147
         Assets: 30544779
         $/Participant: 207787
@@ -51,6 +38,8 @@ OH : CINCINNATI
            - WILMINGTON TRUST, N.A.
                  : CB LARGE CAP GR R1
     2019: LANDRUM & BROWN 401(K) AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2E2T3D3H 
         Participants: 151
         Assets: 27473878
         $/Participant: 181946
@@ -63,6 +52,8 @@ OH : CINCINNATI
            - WILMINGTON TRUST, N.A.
                  : CB LARGE CAP GR R1
     2018: LANDRUM & BROWN 401(K) AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2J2K2R2S2T3D3H2E2F2G 
         Participants: 151
         Assets: 21622207
         $/Participant: 143193
@@ -73,7 +64,42 @@ OH : CINCINNATI
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2017: LANDRUM & BROWN 401(K) AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T3D2E3H 
         Participants: 128
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
+   [506]
+    2020: WRAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4R
+        Participants: 
+    2019: WRAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: WRAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+   [502]
+    2017: BASIC LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+   [503]
+    2017: ACCIDENTAL DEATH & DISMEMBERMENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+   [504]
+    2017: SHORT TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+   [505]
+    2017: LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 

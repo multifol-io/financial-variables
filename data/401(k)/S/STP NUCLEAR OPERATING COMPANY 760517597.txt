@@ -1,67 +1,9 @@
 TX : WADSWORTH
   STP NUCLEAR OPERATING COMPANY  760517597
-   [614]
-    2022: STP NUCLEAR OPERATING COMPANY EMPLOYEE ASSISTANCE PLAN
-        Participants: 
-    2021: STP NUCLEAR OPERATING COMPANY EMPLOYEE ASSISTANCE PLAN
-        Participants: 
-    2020: STP NUCLEAR OPERATING COMPANY EMPLOYEE ASSISTANCE PLAN
-        Participants: 
-    2019: STP NUCLEAR OPERATING COMPANY EMPLOYEE ASSISTANCE PLAN
-        Participants: 
-    2018: STP NUCLEAR OPERATING COMPANY EMPLOYEE ASSISTANCE PLAN
-        Participants: 
-    2017: STP NUCLEAR OPERATING COMPANY EMPLOYEE ASSISTANCE PLAN
-        Participants: 
-   [612]
-    2022: STP NUCLEAR OPERATING COMPANY UNION RETIREE'S MEDICAL AND DENTAL BENEFITS PLAN
-        Participants: 
-        Assets: 5078441
-        $/Participant: 
-        Service Providers:
-           - KPMG LLP :  (Accounting(including auditing) | Direct payment from the plan)
-           - FORVIS, LLP :  (Accounting(including auditing) | Direct payment from the plan)
-        Available Investments:
-           - PRUDENTIAL TRUST COMPANY
-                 : PGIM CORE PLUS BOND FUND
-    2021: STP NUCLEAR OPERATING COMPANY UNION RETIREE'S MEDICAL AND DENTAL BENEFITS PLAN
-        Participants: 
-        Assets: 7483358
-        $/Participant: 
-        Service Providers:
-           - KPMG LLP :  (Accounting(including auditing) | Direct payment from the plan)
-           - LOCKTON INVESTMENT ADVISORS :  (Investment advisory(plan) | Investment management fees paid directly by plan)
-        Available Investments:
-           - PRUDENTIAL TRUST COMPANY
-                 : PGIM CORE PLUS BOND FUND
-    2020: STP UNION RETIREE MEDICAL PLAN
-        Participants: 
-        Assets: 10831153
-        $/Participant: 
-        Available Investments:
-           - PRUDENTIAL TRUST COMPANY
-                 : PGIM CORE PLUS BOND FUND
-    2019: STP UNION RETIREE MEDICAL PLAN
-        Participants: 
-    2018: STP UNION RETIREE MEDICAL PLAN
-        Participants: 
-    2017: STP UNION RETIREE MEDICAL PLAN
-        Participants: 
-   [611]
-    2022: STP GROUP WELFARE BENEFITS PLAN
-        Participants: 
-    2021: STP GROUP WELFARE BENEFITS PLAN
-        Participants: 
-    2020: STP GROUP WELFARE BENEFITS PLAN
-        Participants: 
-    2019: STP GROUP WELFARE BENEFITS PLAN
-        Participants: 
-    2018: STP GROUP WELFARE BENEFITS PLAN
-        Participants: 
-    2017: STP GROUP WELFARE BENEFITS PLAN
-        Participants: 
    [002]
     2022: STP NUCLEAR OPERATING COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T 
         Participants: 1436
         Assets: 439619195
         $/Participant: 306141
@@ -81,6 +23,8 @@ TX : WADSWORTH
                  : VFTC TARGET RET 2065 TR II
                  : VFTC TARGET RET INCOME TR II
     2021: STP NUCLEAR OPERATING COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T 
         Participants: 1409
         Assets: 567454490
         $/Participant: 402735
@@ -89,6 +33,8 @@ TX : WADSWORTH
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2020: STP NUCLEAR OPERATING COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T 
         Participants: 1451
         Assets: 552262350
         $/Participant: 380608
@@ -97,6 +43,8 @@ TX : WADSWORTH
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2019: STP NUCLEAR OPERATING COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T 
         Participants: 1461
         Assets: 527270310
         $/Participant: 360896
@@ -105,6 +53,8 @@ TX : WADSWORTH
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2018: STP NUCLEAR OPERATING COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T 
         Participants: 1457
         Assets: 468458902
         $/Participant: 321522
@@ -113,6 +63,8 @@ TX : WADSWORTH
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2017: STP NUCLEAR OPERATING COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T 
         Participants: 1426
         Assets: 513261446
         $/Participant: 359930
@@ -120,8 +72,106 @@ TX : WADSWORTH
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
+   [611]
+    2022: STP GROUP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: STP GROUP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: STP GROUP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: STP GROUP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: STP GROUP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: STP GROUP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+   [612]
+    2022: STP NUCLEAR OPERATING COMPANY UNION RETIREE'S MEDICAL AND DENTAL BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 
+        Assets: 5078441
+        $/Participant: 
+        Service Providers:
+           - KPMG LLP :  (Accounting(including auditing) | Direct payment from the plan)
+           - FORVIS, LLP :  (Accounting(including auditing) | Direct payment from the plan)
+        Available Investments:
+           - PRUDENTIAL TRUST COMPANY
+                 : PGIM CORE PLUS BOND FUND
+    2021: STP NUCLEAR OPERATING COMPANY UNION RETIREE'S MEDICAL AND DENTAL BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 
+        Assets: 7483358
+        $/Participant: 
+        Service Providers:
+           - KPMG LLP :  (Accounting(including auditing) | Direct payment from the plan)
+           - LOCKTON INVESTMENT ADVISORS :  (Investment advisory(plan) | Investment management fees paid directly by plan)
+        Available Investments:
+           - PRUDENTIAL TRUST COMPANY
+                 : PGIM CORE PLUS BOND FUND
+    2020: STP UNION RETIREE MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 
+        Assets: 10831153
+        $/Participant: 
+        Available Investments:
+           - PRUDENTIAL TRUST COMPANY
+                 : PGIM CORE PLUS BOND FUND
+    2019: STP UNION RETIREE MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 
+    2018: STP UNION RETIREE MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 
+    2017: STP UNION RETIREE MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+   [614]
+    2022: STP NUCLEAR OPERATING COMPANY EMPLOYEE ASSISTANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: STP NUCLEAR OPERATING COMPANY EMPLOYEE ASSISTANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2020: STP NUCLEAR OPERATING COMPANY EMPLOYEE ASSISTANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: STP NUCLEAR OPERATING COMPANY EMPLOYEE ASSISTANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: STP NUCLEAR OPERATING COMPANY EMPLOYEE ASSISTANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: STP NUCLEAR OPERATING COMPANY EMPLOYEE ASSISTANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
    [001]
     2022: STP NUCLEAR OPERATING COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1189
         Assets: 385736075
         $/Participant: 324420
@@ -151,6 +201,8 @@ TX : WADSWORTH
                  : COLLECTIVE S&P 500 INDEX FUND NON L
                  : COLLECTIVE SHORT TERM INVESTMENT FU
     2021: STP NUCLEAR OPERATING COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1269
         Assets: 507527804
         $/Participant: 399943
@@ -179,6 +231,8 @@ TX : WADSWORTH
                  : COLLECTIVE S&P 500 INDEX FUND NON L
                  : COLLECTIVE SHORT TERM INVESTMENT FU
     2020: STP NUCLEAR OPERATING COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1381
         Assets: 501922231
         $/Participant: 363448
@@ -206,6 +260,8 @@ TX : WADSWORTH
                  : COLLECTIVE S&P 500 INDEX FUND NON L
                  : COLLECTIVE SHORT TERM INVESTMENT FU
     2019: STP NUCLEAR OPERATING COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1434
         Assets: 493080138
         $/Participant: 343849
@@ -238,6 +294,8 @@ TX : WADSWORTH
                  : COLLECTIVE S&P 500 INDEX FUND NON L
                  : COLLECTIVE SHORT TERM INVESTMENT FU
     2018: STP NUCLEAR OPERATING COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1483
         Assets: 438807402
         $/Participant: 295891
@@ -270,6 +328,8 @@ TX : WADSWORTH
                  : COLLECTIVE S&P 500 INDEX FUND NON L
                  : COLLECTIVE SHORT TERM INVESTMENT FU
     2017: STP NUCLEAR OPERATING COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1536
         Assets: 455300507
         $/Participant: 296419

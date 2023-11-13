@@ -1,13 +1,58 @@
 PA : MALVERN
   PQ LLC  230972750
+   [001]
+    2022: PQ PERFORMANCE CHEMICAL SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
+        Participants: 343
+        Assets: 66227459
+        $/Participant: 193082
+        RecordKeeper: THE VANGUARD GROUP, INC
+PA : VALLEY FORGE
+   [003]
+    2020: PQ CORPORATION SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3F3H 
+        Participants: 1902
+        Assets: 371587521
+        $/Participant: 195366
+        RecordKeeper: THE VANGUARD GROUP, INC.
+    2019: PQ CORPORATION SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3F3H 
+        Participants: 1873
+        Assets: 326905272
+        $/Participant: 174535
+        RecordKeeper: THE VANGUARD GROUP, INC.
+    2018: PQ CORPORATION SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3F3H 
+        Participants: 1816
+        Assets: 271614769
+        $/Participant: 149567
+        RecordKeeper: THE VANGUARD GROUP, INC.
+    2017: PQ CORPORATION SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3F3H 
+        Participants: 1787
+        Assets: 282230818
+        $/Participant: 157935
+        RecordKeeper: THE VANGUARD GROUP, INC.
+PA : MALVERN
    [501]
     2022: PQ LLC HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L
         Participants: 
         Service Providers:
            - CIGNA LIFE AND HEALTH INSURANCE CO : MED/DEN ADMINISTRATION (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
            - LINCOLN NATIONAL LIFE INSURANCE CO : STD ASO (Claims processing | Contract Administrator)
            - AP BENEFIT ADVISORS, LLC : COBRA ADMINISTRATION (Claims processing | Contract Administrator)
     2021: PQ LLC HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L
         Participants: 
         Service Providers:
            - CIGNA LIFE AND HEALTH INSURANCE CO : MED/DEN ADMINISTRATION (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
@@ -16,6 +61,9 @@ PA : MALVERN
            - AP BENEFIT ADVISORS, LLC : COBRA/HSA/HRA ADMIN (Claims processing | Contract Administrator)
 PA : VALLEY FORGE
     2020: PQ CORPORATION LIFE AND HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L
         Participants: 
         Service Providers:
            - CIGNA LIFE AND HEALTH INSURANCE CO : MED/DEN ADMINISTRATION (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
@@ -23,31 +71,97 @@ PA : VALLEY FORGE
            - LINCOLN NATIONAL LIFE INSURANCE CO : STD ASO (Claims processing | Contract Administrator)
            - AP BENEFIT ADVISORS, LLC : COBRA/HSA/HRA ADMIN (Claims processing | Contract Administrator)
     2019: PQ CORPORATION LIFE AND HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L
         Participants: 
         Service Providers:
            - CIGNA LIFE AND HEALTH INSURANCE CO : MED/DEN ADMINISTRATION (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
            - EXPRESS SCRIPTS, INC : RX ADMINISTRATION (Claims processing | Contract Administrator)
     2018: PQ CORPORATION LIFE AND HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L
         Participants: 
         Service Providers:
            - CIGNA LIFE AND HEALTH INSURANCE CO : MED/DEN ADMINISTRATION (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
            - EXPRESS SCRIPTS, INC : RX ADMINISTRATION (Claims processing | Contract Administrator)
     2017: PQ CORPORATION LIFE AND HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L
         Participants: 
         Service Providers:
            - CIGNA LIFE AND HEALTH INSURANCE CO : MED/DEN ADMINISTRATION (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+PA : MALVERN
+   [002]
+    2022: PQ CORPORATION RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3F3H 
+        Participants: 1521
+        Assets: 130502122
+        $/Participant: 85800
+        RecordKeeper: AON
+    2021: PQ CORPORATION RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3F3H 
+        Participants: 1589
+        Assets: 184257536
+        $/Participant: 115958
+        RecordKeeper: MERCER
+PA : VALLEY FORGE
+    2020: PQ CORPORATION RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3F3H 
+        Participants: 1609
+        Assets: 183714387
+        $/Participant: 114179
+        RecordKeeper: THE VANGUARD GROUP
+        Available Investments:
+           - VANGUARD
+                 : VANGUARD LT INVEST GRADE TRUST CL I
+    2019: PQ CORPORATION RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3F3H 
+        Participants: 1620
+        Assets: 163959245
+        $/Participant: 101209
+        RecordKeeper: THE VANGUARD GROUP, INC
+        Available Investments:
+           - VANGUARD
+                 : VANGUARD LT INVEST GRADE TRUST CL I
+    2018: PQ CORPORATION RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3F3H 
+        Participants: 1645
+        Assets: 141097245
+        $/Participant: 85773
+        RecordKeeper: THE VANGUARD GROUP
+    2017: PQ CORPORATION RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3F3H 
+        Participants: 1671
+        Assets: 161025640
+        $/Participant: 96364
+        RecordKeeper: THE VANGUARD GROUP, INC.
    [015]
     2020: ECO SERVICES HOURLY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 146
         Assets: 54940393
         $/Participant: 376304
         RecordKeeper: THE VANGUARD GROUP
     2019: ECO SERVICES HOURLY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 146
         Assets: 47492785
         $/Participant: 325293
         RecordKeeper: MERCER INVESTMENT MANAGEMENT
     2018: ECO SERVICES HOURLY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 146
         Assets: 38257377
         $/Participant: 262036
@@ -71,6 +185,8 @@ PA : VALLEY FORGE
            - MERCER US SMALL/MID CAP GROWTH EQUITY PORTFOLIO
                  : MERCER COLLECTIVE TRUST
     2017: ECO SERVICES HOURLY PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 147
         Assets: 38604954
         $/Participant: 262618
@@ -93,70 +209,3 @@ PA : VALLEY FORGE
                  : MERCER COLLECTIVE TRUST
            - MERCER US SMALL/MID CAP GROWTH EQUITY PORTFOLIO
                  : MERCER COLLECTIVE TRUST
-   [003]
-    2020: PQ CORPORATION SAVINGS PLAN
-        Participants: 1902
-        Assets: 371587521
-        $/Participant: 195366
-        RecordKeeper: THE VANGUARD GROUP, INC.
-    2019: PQ CORPORATION SAVINGS PLAN
-        Participants: 1873
-        Assets: 326905272
-        $/Participant: 174535
-        RecordKeeper: THE VANGUARD GROUP, INC.
-    2018: PQ CORPORATION SAVINGS PLAN
-        Participants: 1816
-        Assets: 271614769
-        $/Participant: 149567
-        RecordKeeper: THE VANGUARD GROUP, INC.
-    2017: PQ CORPORATION SAVINGS PLAN
-        Participants: 1787
-        Assets: 282230818
-        $/Participant: 157935
-        RecordKeeper: THE VANGUARD GROUP, INC.
-PA : MALVERN
-   [002]
-    2022: PQ CORPORATION RETIREMENT PLAN
-        Participants: 1521
-        Assets: 130502122
-        $/Participant: 85800
-        RecordKeeper: AON
-    2021: PQ CORPORATION RETIREMENT PLAN
-        Participants: 1589
-        Assets: 184257536
-        $/Participant: 115958
-        RecordKeeper: MERCER
-PA : VALLEY FORGE
-    2020: PQ CORPORATION RETIREMENT PLAN
-        Participants: 1609
-        Assets: 183714387
-        $/Participant: 114179
-        RecordKeeper: THE VANGUARD GROUP
-        Available Investments:
-           - VANGUARD
-                 : VANGUARD LT INVEST GRADE TRUST CL I
-    2019: PQ CORPORATION RETIREMENT PLAN
-        Participants: 1620
-        Assets: 163959245
-        $/Participant: 101209
-        RecordKeeper: THE VANGUARD GROUP, INC
-        Available Investments:
-           - VANGUARD
-                 : VANGUARD LT INVEST GRADE TRUST CL I
-    2018: PQ CORPORATION RETIREMENT PLAN
-        Participants: 1645
-        Assets: 141097245
-        $/Participant: 85773
-        RecordKeeper: THE VANGUARD GROUP
-    2017: PQ CORPORATION RETIREMENT PLAN
-        Participants: 1671
-        Assets: 161025640
-        $/Participant: 96364
-        RecordKeeper: THE VANGUARD GROUP, INC.
-PA : MALVERN
-   [001]
-    2022: PQ PERFORMANCE CHEMICAL SAVINGS PLAN
-        Participants: 343
-        Assets: 66227459
-        $/Participant: 193082
-        RecordKeeper: THE VANGUARD GROUP, INC

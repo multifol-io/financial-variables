@@ -2,74 +2,61 @@ NJ : FAR HILLS
   UNITED STATES GOLF ASSOCIATION  131427105
    [501]
     2022: UNITED STATES GOLF ASSOCIATION GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
         Participants: 
     2021: UNITED STATES GOLF ASSOCIATION GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
         Participants: 
     2020: UNITED STATES GOLF ASSOCIATION GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2019: UNITED STATES GOLF ASSOCIATION GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2018: UNITED STATES GOLF ASSOCIATION GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2017: UNITED STATES GOLF ASSOCIATION GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
         Participants: 
-   [004]
-    2021: USGA DEFINED CONTRIBUTION RETIREMENT PLAN
-        Participants: 374
-        Assets: 17154847
-        $/Participant: 45868
-        RecordKeeper: NATIONAL FINANCIAL SERVICES
-    2020: USGA DEFINED CONTRIBUTION RETIREMENT PLAN
-        Participants: 364
-        Assets: 17675444
-        $/Participant: 48558
-        RecordKeeper: NATIONAL FINANCIAL SERVICES
-    2019: USGA DEFINED CONTRIBUTION RETIREMENT PLAN
-        Participants: 362
-        Assets: 13794647
-        $/Participant: 38106
-        RecordKeeper: NATIONAL FINANCIAL SERVICES
-        Available Investments:
-           - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
-                 : TRANSAMERICA COLLECTIVE TRUST FUNDS
-    2018: USGA DEFINED CONTRIBUTION RETIREMENT PLAN
-        Participants: 263
-        Assets: 10336674
-        $/Participant: 39302
-        RecordKeeper: NATIONAL FINANCIAL SERVICES
-        Available Investments:
-           - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
-                 : TRANSAMERICA COLLECTIVE TRUST FUNDS
-    2017: USGA DEFINED CONTRIBUTION RETIREMENT PLAN
-        Participants: 260
-        Assets: 7615544
-        $/Participant: 29290
-        RecordKeeper: NATIONAL FINANCIAL SERVICES
-        Available Investments:
-           - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
-                 : TRANSAMERICA COLLECTIVE TRUST FUNDS
    [003]
     2022: THE UNITED STATES GOLF ASSOCIATION TAX DEFERRED ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2G2L2M2T 
         Participants: 454
         Assets: 66238733
         $/Participant: 145900
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2021: THE UNITED STATES GOLF ASSOCIATION TAX DEFERRED ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2G2L2M2T 
         Participants: 419
         Assets: 80233513
         $/Participant: 191488
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2020: THE UNITED STATES GOLF ASSOCIATION TAX DEFERRED ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2G2L2M2T 
         Participants: 424
         Assets: 68155039
         $/Participant: 160743
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2019: THE UNITED STATES GOLF ASSOCIATION TAX DEFERRED ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2G2L2M2T 
         Participants: 433
         Assets: 60857691
         $/Participant: 140548
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2018: THE UNITED STATES GOLF ASSOCIATION TAX DEFERRED ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2G2L2M2T 
         Participants: 457
         Assets: 59960014
         $/Participant: 131203
@@ -78,6 +65,8 @@ NJ : FAR HILLS
            - TRANSAMERICA FINANCIAL LIFE INSURANCE COMPANY
                  : GUARANTEED POOLED FUND
     2017: THE UNITED STATES GOLF ASSOCIATION TAX DEFERRED ANNUITY PLAN
+        Benefit Category: Other
+        Codes: 2G2L2M2T 
         Participants: 434
         Assets: 60015715
         $/Participant: 138285
@@ -85,13 +74,62 @@ NJ : FAR HILLS
         Available Investments:
            - TRANSAMERICA FINANCIAL LIFE INSURANCE COMPANY
                  : GUARANTEED POOLED FUND
+   [004]
+    2021: USGA DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G3D 
+        Participants: 374
+        Assets: 17154847
+        $/Participant: 45868
+        RecordKeeper: NATIONAL FINANCIAL SERVICES
+    2020: USGA DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G3D 
+        Participants: 364
+        Assets: 17675444
+        $/Participant: 48558
+        RecordKeeper: NATIONAL FINANCIAL SERVICES
+    2019: USGA DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G3D 
+        Participants: 362
+        Assets: 13794647
+        $/Participant: 38106
+        RecordKeeper: NATIONAL FINANCIAL SERVICES
+        Available Investments:
+           - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
+                 : TRANSAMERICA COLLECTIVE TRUST FUNDS
+    2018: USGA DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G3D 
+        Participants: 263
+        Assets: 10336674
+        $/Participant: 39302
+        RecordKeeper: NATIONAL FINANCIAL SERVICES
+        Available Investments:
+           - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
+                 : TRANSAMERICA COLLECTIVE TRUST FUNDS
+    2017: USGA DEFINED CONTRIBUTION RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G3D 
+        Participants: 260
+        Assets: 7615544
+        $/Participant: 29290
+        RecordKeeper: NATIONAL FINANCIAL SERVICES
+        Available Investments:
+           - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
+                 : TRANSAMERICA COLLECTIVE TRUST FUNDS
    [001]
     2021: UNITED STATES GOLF ASSOCIATION DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 199
         Assets: 47812978
         $/Participant: 240266
         RecordKeeper: NATIONAL FINANCIAL SERVICES
     2020: UNITED STATES GOLF ASSOCIATION DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 204
         Assets: 59093581
         $/Participant: 289674
@@ -100,6 +138,8 @@ NJ : FAR HILLS
            - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
     2019: UNITED STATES GOLF ASSOCIATION DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 205
         Assets: 54891813
         $/Participant: 267764
@@ -108,6 +148,8 @@ NJ : FAR HILLS
            - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
     2018: UNITED STATES GOLF ASSOCIATION DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 219
         Assets: 59596626
         $/Participant: 272130
@@ -116,6 +158,8 @@ NJ : FAR HILLS
            - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
     2017: UNITED STATES GOLF ASSOCIATION DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 254
         Assets: 79922841
         $/Participant: 314656

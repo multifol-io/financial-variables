@@ -1,27 +1,9 @@
 NC : NEW BERN
   WARD AND SMITH, PA  561034724
-   [504]
-    2022: WARD AND SMITH, PA WELFARE BENEFITS PLAN
-        Participants: 
-    2021: WARD AND SMITH, PA WELFARE BENEFITS PLAN
-        Participants: 
-    2020: WARD AND SMITH, PA WELFARE BENEFITS PLAN
-        Participants: 
-    2019: WARD AND SMITH, PA WELFARE BENEFITS PLAN
-        Participants: 
-    2018: WARD AND SMITH, PA WELFARE BENEFITS PLAN
-        Participants: 
-   [503]
-    2017: WARD AND SMITH, PA LIFE INSURANCE PLAN
-        Participants: 
-   [502]
-    2017: WARD AND SMITH, PA DISABILITY PLAN
-        Participants: 
-   [501]
-    2017: WARD AND SMITH, PA HEALTH CARE PLAN
-        Participants: 
    [001]
     2022: WARD AND SMITH, P.A. 401(K) AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2T3D 
         Participants: 330
         Assets: 85051430
         $/Participant: 257731
@@ -30,6 +12,8 @@ NC : NEW BERN
            - RELIANCE TRUST COMPANY
                  : RELIANCE TR CO SVF CIT SERIES 25053
     2021: WARD AND SMITH, P.A. PROFIT SHARING PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2T3D 
         Participants: 316
         Assets: 99643749
         $/Participant: 315328
@@ -38,6 +22,8 @@ NC : NEW BERN
            - RELIANCE TRUST COMPANY
                  : RELIANCE TR CO SVF CIT SERIES 25053
     2020: WARD AND SMITH, P.A. PROFIT SHARING PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2T3D 
         Participants: 323
         Assets: 88315466
         $/Participant: 273422
@@ -46,6 +32,8 @@ NC : NEW BERN
            - RELIANCE TRUST COMPANY
                  : RELIANCE TR CO SVF CIT SERIES 25053
     2019: WARD AND SMITH, P.A. PROFIT SHARING PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2T3D 
         Participants: 324
         Assets: 83765055
         $/Participant: 258534
@@ -54,6 +42,8 @@ NC : NEW BERN
            - RELIANCE TRUST COMPANY
                  : RELIANCE TR CO SVF CIT SERIES 25053
     2018: WARD AND SMITH, P.A. PROFIT SHARING PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2T3D 
         Participants: 322
         Assets: 71232468
         $/Participant: 221218
@@ -62,6 +52,8 @@ NC : NEW BERN
            - RELIANCE TRUST COMPANY
                  : REL TR CO SVF-METLIFE GAC S25053
     2017: WARD AND SMITH, P.A. PROFIT SHARING PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2T3D 
         Participants: 301
         Assets: 75483850
         $/Participant: 250776
@@ -69,3 +61,39 @@ NC : NEW BERN
         Available Investments:
            - RELIANCE TRUST COMPANY
                  : RELIANCE SVF - METGAC25053
+   [501]
+    2017: WARD AND SMITH, PA HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+   [504]
+    2022: WARD AND SMITH, PA WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2021: WARD AND SMITH, PA WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: WARD AND SMITH, PA WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: WARD AND SMITH, PA WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: WARD AND SMITH, PA WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+   [502]
+    2017: WARD AND SMITH, PA DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 
+   [503]
+    2017: WARD AND SMITH, PA LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4Q
+        Participants: 

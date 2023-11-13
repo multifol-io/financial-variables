@@ -1,45 +1,8 @@
 CA : BREA
   KIRKHILL AIRCRAFT PARTS CO.  952770000
-   [501]
-    2022: PROPONENT EMPLOYEE HEALTH BENEFITS PLAN
-        Participants: 
-    2021: KAPCO EMPLOYEE MEDICAL BENEFITS PLAN
-        Participants: 
-    2020: KAPCO EMPLOYEE MEDICAL BENEFITS PLAN
-        Participants: 
-    2019: KAPCO EMPLOYEE MEDICAL BENEFITS PLAN
-        Participants: 
-    2018: KAPCO EMPLOYEE MEDICAL BENEFITS PLAN
-        Participants: 294
-        Service Providers:
-           - UNION SECURITY INSURANCE COMPANY : SERVICE PROVIDER (Claims processing)
-    2017: KAPCO EMPLOYEE MEDICAL BENEFITS PLAN
-        Participants: 354
-        Service Providers:
-           -  : SERVICE PROVIDER (Claims processing)
-   [002]
-    2021: PROPONENT EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 400
-        Assets: 221965585
-        $/Participant: 554913
-    2020: PROPONENT EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 396
-        Assets: 205148375
-        $/Participant: 518051
-    2019: PROPONENT EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 396
-        Assets: 176573459
-        $/Participant: 445892
-    2018: PROPONENT EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 371
-        Assets: 213586823
-        $/Participant: 575705
-    2017: PROPONENT EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 357
-        Assets: 193820747
-        $/Participant: 542915
-   [001]
     2021: PROPONENT 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 339
         Assets: 14238409
         $/Participant: 42001
@@ -72,6 +35,8 @@ CA : BREA
                  : PRIN U.S. PROPERTY SEP ACCT-R6
                  : PRINCIPAL SMALLCAP SEP ACCT-R6
     2020: PROPONENT 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 337
         Assets: 14269154
         $/Participant: 42341
@@ -104,6 +69,8 @@ CA : BREA
                  : PRIN U.S. PROPERTY SEP ACCT-R6
                  : PRINCIPAL SMALLCAP SEP ACCT-R6
     2019: PROPONENT 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 352
         Assets: 10517087
         $/Participant: 29878
@@ -136,6 +103,8 @@ CA : BREA
                  : PRIN U.S. PROPERTY SEP ACCT-R6
                  : PRINCIPAL SMALLCAP SEP ACCT-R6
     2018: PROPONENT 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 333
         Assets: 10874975
         $/Participant: 32657
@@ -168,6 +137,8 @@ CA : BREA
                  : PRIN U.S. PROPERTY SEP ACCT-R6
                  : PRINCIPAL SMALLCAP SEP ACCT-R6
     2017: PROPONENT 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 308
         Assets: 10711235
         $/Participant: 34776
@@ -200,3 +171,63 @@ CA : BREA
                  : PRIN SMCAP S&P 600 INDEX SA-R6
                  : PRIN U.S. PROPERTY SEP ACCT-R6
                  : PRINCIPAL SMALLCAP SEP ACCT-R6
+   [002]
+    2021: PROPONENT EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3H3I 
+        Participants: 400
+        Assets: 221965585
+        $/Participant: 554913
+    2020: PROPONENT EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3H3I 
+        Participants: 396
+        Assets: 205148375
+        $/Participant: 518051
+    2019: PROPONENT EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 396
+        Assets: 176573459
+        $/Participant: 445892
+    2018: PROPONENT EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3H3I 
+        Participants: 371
+        Assets: 213586823
+        $/Participant: 575705
+    2017: PROPONENT EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3H3I 
+        Participants: 357
+        Assets: 193820747
+        $/Participant: 542915
+   [501]
+    2022: PROPONENT EMPLOYEE HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: KAPCO EMPLOYEE MEDICAL BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: KAPCO EMPLOYEE MEDICAL BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: KAPCO EMPLOYEE MEDICAL BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: KAPCO EMPLOYEE MEDICAL BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 294
+        Service Providers:
+           - UNION SECURITY INSURANCE COMPANY : SERVICE PROVIDER (Claims processing)
+    2017: KAPCO EMPLOYEE MEDICAL BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 354
+        Service Providers:
+           -  : SERVICE PROVIDER (Claims processing)

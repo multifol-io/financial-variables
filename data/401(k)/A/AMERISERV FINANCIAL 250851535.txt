@@ -1,33 +1,9 @@
 PA : JOHNSTOWN
   AMERISERV FINANCIAL  250851535
-   [503]
-    2022: AMERISERV FINANCIAL LIFE INSURANCE
-        Participants: 
-    2021: AMERISERV FINANCIAL LIFE INSURANCE
-        Participants: 
-    2020: AMERISERV FINANCIAL LIFE INSURANCE
-        Participants: 
-    2019: AMERISERV FINANCIAL LIFE INSURANCE
-        Participants: 
-    2018: AMERISERV FINANCIAL LIFE INSURANCE
-        Participants: 
-    2017: AMERISERV FINANCIAL LIFE INSURANCE
-        Participants: 
-   [502]
-    2022: AMERISERV FINANCIAL DENTAL / VISION/ MEDICAL PLANS
-        Participants: 
-    2021: AMERISERV FINANCIAL DENTAL / VISION/ MEDICAL PLANS
-        Participants: 
-    2020: AMERISERV FINANCIAL DENTAL / VISION/ MEDICAL PLANS
-        Participants: 
-    2019: AMERISERV FINANCIAL DENTAL / VISION/ MEDICAL PLANS
-        Participants: 
-    2018: AMERISERV FINANCIAL DENTAL / VISION/ MEDICAL PLANS
-        Participants: 
-    2017: AMERISERV FINANCIAL DENTAL / VISION/ MEDICAL PLANS
-        Participants: 
    [002]
     2022: AMERISERV FINANCIAL 401K PROFIT SHARING
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2T 
         Participants: 456
         Assets: 35990880
         $/Participant: 78927
@@ -46,6 +22,8 @@ PA : JOHNSTOWN
            - FEDERATED INVESTORS TRUST COMPANY
                  : CAPITAL PRESERVATION FUND
     2021: AMERISERV FINANCIAL 401K PROFIT SHARING
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2T 
         Participants: 439
         Assets: 47377275
         $/Participant: 107920
@@ -64,6 +42,8 @@ PA : JOHNSTOWN
            - FEDERATED INVESTORS TRUST COMPANY
                  : CAPITAL PRESERVATION FUND
     2020: AMERISERV FINANCIAL 401K PROFIT SHARING
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2T 
         Participants: 524
         Assets: 41471941
         $/Participant: 79144
@@ -82,6 +62,8 @@ PA : JOHNSTOWN
            - FEDERATED INVESTORS TRUST COMPANY
                  : CAPITAL PRESERVATION FUND
     2019: AMERISERV FINANCIAL 401K PROFIT SHARING
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2T 
         Participants: 405
         Assets: 36669273
         $/Participant: 90541
@@ -100,6 +82,8 @@ PA : JOHNSTOWN
            - FEDERATED INVESTORS TRUST COMPANY
                  : CAPITAL PRESERVATION FUND
     2018: AMERISERV FINANCIAL 401K PROFIT SHARING
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2T 
         Participants: 394
         Assets: 31365781
         $/Participant: 79608
@@ -118,6 +102,8 @@ PA : JOHNSTOWN
            - FEDERATED INVESTORS TRUST COMPANY
                  : CAPITAL PRESERVATION FUND
     2017: AMERISERV FINANCIAL 401K PROFIT SHARING
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2T 
         Participants: 392
         Assets: 34141583
         $/Participant: 87095
@@ -131,8 +117,60 @@ PA : JOHNSTOWN
                  : PATHROAD LONG TERM EQUITY INC
            - FEDERATED INVESTORS TRUST COMPANY
                  : CAPITAL PRESERVATION FUND
+   [502]
+    2022: AMERISERV FINANCIAL DENTAL / VISION/ MEDICAL PLANS
+        Benefit Category: Healthcare
+        Codes:  4D4E4A
+        Participants: 
+    2021: AMERISERV FINANCIAL DENTAL / VISION/ MEDICAL PLANS
+        Benefit Category: Healthcare
+        Codes:  4D4E4A
+        Participants: 
+    2020: AMERISERV FINANCIAL DENTAL / VISION/ MEDICAL PLANS
+        Benefit Category: Healthcare
+        Codes:  4D4E4A
+        Participants: 
+    2019: AMERISERV FINANCIAL DENTAL / VISION/ MEDICAL PLANS
+        Benefit Category: Healthcare
+        Codes:  4D4E4A
+        Participants: 
+    2018: AMERISERV FINANCIAL DENTAL / VISION/ MEDICAL PLANS
+        Benefit Category: Healthcare
+        Codes:  4D4E4A
+        Participants: 
+    2017: AMERISERV FINANCIAL DENTAL / VISION/ MEDICAL PLANS
+        Benefit Category: Healthcare
+        Codes:  4D4E4A
+        Participants: 
+   [503]
+    2022: AMERISERV FINANCIAL LIFE INSURANCE
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2021: AMERISERV FINANCIAL LIFE INSURANCE
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2020: AMERISERV FINANCIAL LIFE INSURANCE
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2019: AMERISERV FINANCIAL LIFE INSURANCE
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2018: AMERISERV FINANCIAL LIFE INSURANCE
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2017: AMERISERV FINANCIAL LIFE INSURANCE
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
    [001]
     2022: AMERISERV FINANCIAL PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 244
         Assets: 56239408
         $/Participant: 230489
@@ -140,6 +178,8 @@ PA : JOHNSTOWN
            - CONDUENT HR CONSULTANTING LLC : ACTUARIAL (Actuarial)
            - WESSEL & COMPANY : EXTERNAL AUDIT (Accounting(including auditing))
     2021: AMERISERV FINANCIAL PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 276
         Assets: 70403949
         $/Participant: 255086
@@ -147,6 +187,8 @@ PA : JOHNSTOWN
            - CONDUENT HR CONSULTANTING LLC : ACTUARIAL (Actuarial)
            - WESSEL & COMPANY : EXTERNAL AUDIT (Accounting(including auditing))
     2020: AMERISERV FINANCIAL PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 302
         Assets: 58411168
         $/Participant: 193414
@@ -157,6 +199,8 @@ PA : JOHNSTOWN
            - AMERISERV TRUST & FINANCIAL SERVICES
                  : PATHROAD DISCIPLINED ALL CAP ETS
     2019: AMERISERV FINANCIAL PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 315
         Assets: 44785915
         $/Participant: 142177
@@ -167,6 +211,8 @@ PA : JOHNSTOWN
            - AMERISERV TRUST & FINANCIAL SERVICES
                  : PATHROAD DISCIPLINED ALL CAP ETS
     2018: AMERISERV FINANCIAL PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 326
         Assets: 38466202
         $/Participant: 117994
@@ -177,6 +223,8 @@ PA : JOHNSTOWN
            - AMERISERV TRUST & FINANCIAL SERVICES
                  : PATHROAD DISCIPLINED ALL CAP ETS
     2017: AMERISERV FINANCIAL PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 345
         Assets: 37063023
         $/Participant: 107429

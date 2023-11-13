@@ -1,77 +1,19 @@
 NY : NEW YORK
   PRYOR CASHMAN LLP  131859294
-   [506]
-    2022: PRYOR CASHMAN LLP HEALTH BENEFITS PLAN
-        Participants: 
-    2021: PRYOR CASHMAN LLP HEALTH BENEFITS PLAN
-        Participants: 
-    2020: PRYOR CASHMAN LLP HEALTH BENEFITS PLAN
-        Participants: 
-    2019: PRYOR CASHMAN LLP HEALTH BENEFITS PLAN
-        Participants: 
-    2018: PRYOR CASHMAN LLP HEALTH BENEFITS PLAN
-        Participants: 
-    2017: PRYOR CASHMAN LLP HEALTH BENEFITS PLAN
-        Participants: 
-   [504]
-    2022: PRYOR CASHMAN LLP TAX SAVERS PLAN
-        Participants: 
-    2021: PRYOR CASHMAN LLP TAX SAVERS PLAN
-        Participants: 
-    2020: PRYOR CASHMAN LLP TAX SAVERS PLAN
-        Participants: 
-    2019: PRYOR CASHMAN LLP TAX SAVERS PLAN
-        Participants: 
-    2018: PRYOR CASHMAN LLP TAX SAVERS PLAN
-        Participants: 
-    2017: PRYOR CASHMAN LLP TAX SAVERS PLAN
-        Participants: 
-   [006]
-    2022: PRYOR CASHMAN LLP 401(K) PLAN B
-        Participants: 94
-        Assets: 12580106
-        $/Participant: 133830
-        RecordKeeper: VOYA RETIREMENT INSURANCE AND ANNUI
+    2022: PRYOR CASHMAN LLP PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3B3D 
+        Participants: 207
+        Assets: 56126073
+        $/Participant: 271140
+        RecordKeeper: EMPOWER LIFE & ANNUITY INSURANCE CO
         Available Investments:
            - GOLDMAN SACHS STABLE VALUE
                  : GOLDMAN SACHS STABLE VALUE INST CL
-    2021: PRYOR CASHMAN LLP 401(K) PLAN B
-        Participants: 173
-        Assets: 15209308
-        $/Participant: 87915
-        RecordKeeper: VOYA RETIREMENT INSURANCE AND ANNUI
-        Available Investments:
-           - GOLDMAN SACHS TRUST CO
-                 : GOLDMAN SACHS STABLE VALUE COLLECTI
-           - WILMINGTON TRUST RETIREMENT AND INSTITUTIONAL SERVICES CO
-                 : VOYA STABLE VALUE FUND 50 CIT
-    2020: PRYOR CASHMAN LLP 401(K) PLAN B
-        Participants: 147
-        Assets: 12220521
-        $/Participant: 83132
-        RecordKeeper: MORGAN STANLEY
-        Available Investments:
-           - GOLDMAN SACHS TRUST CO
-                 : GOLDMAN SACHS STABLE VALUE COLLECTI
-           - WILMINGTON TRUST RETIREMENT AND INSTITUTIONAL SERVICES CO
-                 : VOYA STABLE VALUE FUND 50 CIT
-    2019: PRYOR CASHMAN LLP 401(K) PLAN B
-        Participants: 143
-        Assets: 9680619
-        $/Participant: 67696
-        RecordKeeper: MORGAN STANLEY
-        Available Investments:
-           - WILMINGTON TRUST RETIREMENT AND INSTITUTIONAL SERVICES CO
-                 : VOYA STABLE VALUE FUND 50 CIT
-    2018: PRYOR CASHMAN LLP 401(K) PLAN B
-        Participants: 142
-        Assets: 7762759
-        $/Participant: 54667
-        Available Investments:
-           - WILMINGTON TRUST NA
-                 : WILMINGTON TRUST CIT II VOYA SVF
    [003]
     2022: PRYOR CASHMAN LLP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3B3D 
         Participants: 272
         Assets: 61296455
         $/Participant: 225354
@@ -80,6 +22,8 @@ NY : NEW YORK
            - GOLDMAN SACHS STABLE VALUE
                  : GOLDMAN SACHS STABLE VALUE INST CL
     2021: PRYOR CASHMAN LLP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S3B 
         Participants: 259
         Assets: 72408044
         $/Participant: 279567
@@ -90,6 +34,8 @@ NY : NEW YORK
            - WILMINGTON TRUST RETIREMENT AND INSTITUTIONAL SERVICES CO
                  : VOYA STABLE VALUE FUND 50 CIT
     2020: PRYOR CASHMAN LLP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S3B 
         Participants: 263
         Assets: 62878014
         $/Participant: 239079
@@ -100,6 +46,8 @@ NY : NEW YORK
            - WILMINGTON TRUST RETIREMENT AND INSTITUTIONAL SERVICES CO
                  : VOYA STABLE VALUE FUND 50 CIT
     2019: PRYOR CASHMAN LLP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S3B 
         Participants: 262
         Assets: 55024875
         $/Participant: 210018
@@ -108,6 +56,8 @@ NY : NEW YORK
            - WILMINGTON TRUST RETIREMENT AND INSTITUTIONAL SERVICES CO
                  : VOYA STABLE VALUE FUND 50 CIT
     2018: PRYOR CASHMAN LLP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S3B 
         Participants: 270
         Assets: 44918400
         $/Participant: 166364
@@ -118,6 +68,8 @@ NY : NEW YORK
            - WILMINGTON TRUST, N.A.
                  : WILMINGTON TRUST CIT II VOYA SVF
     2017: PRYOR CASHMAN LLP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S3B 
         Participants: 245
         Assets: 46894560
         $/Participant: 191406
@@ -185,16 +137,89 @@ NY : NEW YORK
                  : VANGUARD VALUE INDEX FUND ADM
                  : VOYA GOVERNMENT MONEY MARKET FUND
                  : VOYA STABLE VALUE FUND
-   [002]
-    2022: PRYOR CASHMAN LLP PROFIT SHARING PLAN
-        Participants: 207
-        Assets: 56126073
-        $/Participant: 271140
-        RecordKeeper: EMPOWER LIFE & ANNUITY INSURANCE CO
+   [006]
+    2022: PRYOR CASHMAN LLP 401(K) PLAN B
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3B3D 
+        Participants: 94
+        Assets: 12580106
+        $/Participant: 133830
+        RecordKeeper: VOYA RETIREMENT INSURANCE AND ANNUI
         Available Investments:
            - GOLDMAN SACHS STABLE VALUE
                  : GOLDMAN SACHS STABLE VALUE INST CL
+    2021: PRYOR CASHMAN LLP 401(K) PLAN B
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S3B 
+        Participants: 173
+        Assets: 15209308
+        $/Participant: 87915
+        RecordKeeper: VOYA RETIREMENT INSURANCE AND ANNUI
+        Available Investments:
+           - GOLDMAN SACHS TRUST CO
+                 : GOLDMAN SACHS STABLE VALUE COLLECTI
+           - WILMINGTON TRUST RETIREMENT AND INSTITUTIONAL SERVICES CO
+                 : VOYA STABLE VALUE FUND 50 CIT
+    2020: PRYOR CASHMAN LLP 401(K) PLAN B
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S3B 
+        Participants: 147
+        Assets: 12220521
+        $/Participant: 83132
+        RecordKeeper: MORGAN STANLEY
+        Available Investments:
+           - GOLDMAN SACHS TRUST CO
+                 : GOLDMAN SACHS STABLE VALUE COLLECTI
+           - WILMINGTON TRUST RETIREMENT AND INSTITUTIONAL SERVICES CO
+                 : VOYA STABLE VALUE FUND 50 CIT
+    2019: PRYOR CASHMAN LLP 401(K) PLAN B
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S3B 
+        Participants: 143
+        Assets: 9680619
+        $/Participant: 67696
+        RecordKeeper: MORGAN STANLEY
+        Available Investments:
+           - WILMINGTON TRUST RETIREMENT AND INSTITUTIONAL SERVICES CO
+                 : VOYA STABLE VALUE FUND 50 CIT
+    2018: PRYOR CASHMAN LLP 401(K) PLAN B
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S3B 
+        Participants: 142
+        Assets: 7762759
+        $/Participant: 54667
+        Available Investments:
+           - WILMINGTON TRUST NA
+                 : WILMINGTON TRUST CIT II VOYA SVF
+   [506]
+    2022: PRYOR CASHMAN LLP HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2021: PRYOR CASHMAN LLP HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: PRYOR CASHMAN LLP HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: PRYOR CASHMAN LLP HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: PRYOR CASHMAN LLP HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2017: PRYOR CASHMAN LLP HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+   [002]
     2021: PRYOR CASHMAN LLP PROFIT SHARING PLAN
+        Benefit Category: Other
+        Codes: 2A2E2F2G2R3B 
         Participants: 279
         Assets: 71058584
         $/Participant: 254690
@@ -205,6 +230,8 @@ NY : NEW YORK
            - WILMINGTON TRUST RETIREMENT AND INSTITUTIONAL SERVICES CO
                  : VOYA STABLE VALUE FUND 50 CIT
     2020: PRYOR CASHMAN LLP PROFIT SHARING PLAN
+        Benefit Category: Other
+        Codes: 2A2E2F2G2R3B 
         Participants: 232
         Assets: 59021504
         $/Participant: 254403
@@ -213,6 +240,8 @@ NY : NEW YORK
            - WILMINGTON TRUST RETIREMENT AND INSTITUTIONAL SERVICES CO
                  : VOYA STABLE VALUE FUND 50 CIT
     2019: PRYOR CASHMAN LLP PROFIT SHARING PLAN
+        Benefit Category: Other
+        Codes: 2A2E2F2G2R3B 
         Participants: 244
         Assets: 48097146
         $/Participant: 197119
@@ -221,6 +250,8 @@ NY : NEW YORK
            - WILMINGTON TRUST RETIREMENT AND INSTITUTIONAL SERVICES CO
                  : VOYA STABLE VALUE FUND 50 CIT
     2018: PRYOR CASHMAN LLP PROFIT SHARING PLAN
+        Benefit Category: Other
+        Codes: 2A2E2F2G3B 
         Participants: 206
         Assets: 39400589
         $/Participant: 191264
@@ -231,6 +262,8 @@ NY : NEW YORK
            - WILMINGTON TRUST NA
                  : WILMINGTON TRUST CIT II VOYA SVF
     2017: PRYOR CASHMAN LLP PROFIT SHARING PLAN
+        Benefit Category: Other
+        Codes: 2A2E2F2G3B 
         Participants: 212
         Assets: 42310532
         $/Participant: 199577
@@ -296,3 +329,28 @@ NY : NEW YORK
                  : VANGUARD VALUE INDEX FUND ADM
                  : VOYA GOVT MONEY MARKET FUND
                  : VOYA STABLE VALUE FUND
+   [504]
+    2022: PRYOR CASHMAN LLP TAX SAVERS PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2021: PRYOR CASHMAN LLP TAX SAVERS PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2020: PRYOR CASHMAN LLP TAX SAVERS PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2019: PRYOR CASHMAN LLP TAX SAVERS PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2018: PRYOR CASHMAN LLP TAX SAVERS PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2017: PRYOR CASHMAN LLP TAX SAVERS PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 

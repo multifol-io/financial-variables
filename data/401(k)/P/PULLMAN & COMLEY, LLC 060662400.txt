@@ -1,89 +1,9 @@
 CT : BRIDGEPORT
   PULLMAN & COMLEY, LLC  060662400
-   [507]
-    2022: PULLMAN & COMLEY, LLC GROUP TERM LIFE PLAN
-        Participants: 119
-    2021: PULLMAN & COMLEY, LLC GROUP TERM LIFE PLAN
-        Participants: 121
-    2020: PULLMAN & COMLEY, LLC GROUP TERM LIFE PLAN
-        Participants: 
-    2019: PULLMAN & COMLEY, LLC GROUP TERM LIFE PLAN
-        Participants: 
-   [505]
-    2022: PULLMAN & COMLEY, LLC EMPLOYEE ASSISTANCE PLAN
-        Participants: 161
-    2021: PULLMAN & COMLEY, LLC EMPLOYEE ASSISTANCE PLAN
-        Participants: 154
-    2020: PULLMAN & COMLEY, LLC EMPLOYEE ASSISTANCE PLAN
-        Participants: 162
-    2019: PULLMAN & COMLEY, LLC EMPLOYEE ASSISTANCE PLAN
-        Participants: 165
-    2018: PULLMAN & COMLEY, LLC EMPLOYEE ASSISTANCE PLAN
-        Participants: 170
-    2017: PULLMAN & COMLEY, LLC EMPLOYEE ASSISTANCE PLAN
-        Participants: 173
-   [502]
-    2022: PULLMAN & COMLEY, LLC DENTAL BENEFITS PLAN
-        Participants: 105
-    2021: PULLMAN & COMLEY, LLC DENTAL BENEFITS PLAN
-        Participants: 98
-    2020: PULLMAN & COMLEY, LLC DENTAL BENEFITS PLAN
-        Participants: 109
-    2019: PULLMAN & COMLEY, LLC DENTAL BENEFITS PLAN
-        Participants: 114
-    2018: PULLMAN & COMLEY, LLC DENTAL BENEFITS PLAN
-        Participants: 112
-    2017: PULLMAN & COMLEY, LLC DENTAL BENEFITS PLAN
-        Participants: 106
-   [501]
-    2022: PULLMAN & COMLEY, LLC LONG TERM DISABILITY INCOME
-        Participants: 139
-    2021: PULLMAN & COMLEY, LLC LONG TERM DISABILITY INCOME
-        Participants: 138
-    2020: PULLMAN & COMLEY, LLC LONG TERM DISABILITY INCOME
-        Participants: 148
-    2019: PULLMAN & COMLEY, LLC LONG TERM DISABILITY INCOME
-        Participants: 154
-    2018: PULLMAN & COMLEY, LLC LONG TERM DISABILITY INCOME
-        Participants: 158
-    2017: PULLMAN & COMLEY, LLC LONG TERM DISABILITY INCOME
-        Participants: 158
-   [004]
-    2022: PULLMAN & COMLEY IMA RETIREMENT PLAN
-        Participants: 97
-        Available Investments:
-           - WELLS FARGO BANK, N.A.
-                 : GALLIARD STBLE RTN C
-    2021: PULLMAN & COMLEY IMA RETIREMENT PLAN
-        Participants: 92
-        Available Investments:
-           - WELLS FARGO BANK, N.A.
-                 : WF STABLE FUND C
-                 : WF STABLE VALUE
-    2020: PULLMAN & COMLEY IMA RETIREMENT PLAN
-        Participants: 96
-        Available Investments:
-           - WELLS FARGO BANK, N.A.
-                 : WF STABLE VALUE
-    2019: PULLMAN & COMLEY IMA RETIREMENT PLAN
-        Participants: 98
-        Available Investments:
-           - WELLS FARGO BANK, N.A.
-                 : WF STABLE VALUE
-    2018: PULLMAN & COMLEY IMA RETIREMENT PLAN
-        Participants: 98
-        Available Investments:
-           - WELLS FARGO BANK, N.A.
-                 : WF STABLE VALUE
-    2017: PULLMAN & COMLEY IMA RETIREMENT PLAN
-        Participants: 96
-        Available Investments:
-           - WELLS FARGO BANK N.A.
-                 : WF STABLE VALUE FUND M
-           - WELLS FARGO BANK, N.A.
-                 : WF STABLE VALUE
    [002]
     2022: PULLMAN & COMLEY RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3B3D 
         Participants: 141
         Assets: 67624268
         $/Participant: 479604
@@ -92,6 +12,8 @@ CT : BRIDGEPORT
            - WELLS FARGO BANK, N.A.
                  : GALLIARD STBLE RTN C
     2021: PULLMAN & COMLEY RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3B3D 
         Participants: 143
         Assets: 81755756
         $/Participant: 571718
@@ -101,6 +23,8 @@ CT : BRIDGEPORT
                  : WF STABLE FUND C
                  : WF STABLE VALUE
     2020: PULLMAN & COMLEY RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3B3D 
         Participants: 144
         Assets: 73481982
         $/Participant: 510291
@@ -109,6 +33,8 @@ CT : BRIDGEPORT
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE
     2019: PULLMAN & COMLEY RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3B3D 
         Participants: 144
         Assets: 69664433
         $/Participant: 483780
@@ -117,6 +43,8 @@ CT : BRIDGEPORT
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE
     2018: PULLMAN & COMLEY RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3B3D 
         Participants: 148
         Assets: 57243583
         $/Participant: 386780
@@ -125,6 +53,8 @@ CT : BRIDGEPORT
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE
     2017: PULLMAN & COMLEY RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2T3B3D2A2E 
         Participants: 153
         Assets: 60972614
         $/Participant: 398513
@@ -134,3 +64,141 @@ CT : BRIDGEPORT
                  : WF STABLE VALUE FUND M
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE
+   [004]
+    2022: PULLMAN & COMLEY IMA RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2K2R2T3B3D2E2F 
+        Participants: 97
+        Available Investments:
+           - WELLS FARGO BANK, N.A.
+                 : GALLIARD STBLE RTN C
+    2021: PULLMAN & COMLEY IMA RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2R2T3B3D 
+        Participants: 92
+        Available Investments:
+           - WELLS FARGO BANK, N.A.
+                 : WF STABLE FUND C
+                 : WF STABLE VALUE
+    2020: PULLMAN & COMLEY IMA RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2R2T3B3D 
+        Participants: 96
+        Available Investments:
+           - WELLS FARGO BANK, N.A.
+                 : WF STABLE VALUE
+    2019: PULLMAN & COMLEY IMA RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2R2T3B3D 
+        Participants: 98
+        Available Investments:
+           - WELLS FARGO BANK, N.A.
+                 : WF STABLE VALUE
+    2018: PULLMAN & COMLEY IMA RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2F2R2T3B3D 
+        Participants: 98
+        Available Investments:
+           - WELLS FARGO BANK, N.A.
+                 : WF STABLE VALUE
+    2017: PULLMAN & COMLEY IMA RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2R2T3B3D 
+        Participants: 96
+        Available Investments:
+           - WELLS FARGO BANK N.A.
+                 : WF STABLE VALUE FUND M
+           - WELLS FARGO BANK, N.A.
+                 : WF STABLE VALUE
+   [501]
+    2022: PULLMAN & COMLEY, LLC LONG TERM DISABILITY INCOME
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 139
+    2021: PULLMAN & COMLEY, LLC LONG TERM DISABILITY INCOME
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 138
+    2020: PULLMAN & COMLEY, LLC LONG TERM DISABILITY INCOME
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 148
+    2019: PULLMAN & COMLEY, LLC LONG TERM DISABILITY INCOME
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 154
+    2018: PULLMAN & COMLEY, LLC LONG TERM DISABILITY INCOME
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 158
+    2017: PULLMAN & COMLEY, LLC LONG TERM DISABILITY INCOME
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 158
+   [502]
+    2022: PULLMAN & COMLEY, LLC DENTAL BENEFITS PLAN
+        Benefit Category: Other
+        Codes:  4D4R
+        Participants: 105
+    2021: PULLMAN & COMLEY, LLC DENTAL BENEFITS PLAN
+        Benefit Category: Other
+        Codes:  4D4R
+        Participants: 98
+    2020: PULLMAN & COMLEY, LLC DENTAL BENEFITS PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 109
+    2019: PULLMAN & COMLEY, LLC DENTAL BENEFITS PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 114
+    2018: PULLMAN & COMLEY, LLC DENTAL BENEFITS PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 112
+    2017: PULLMAN & COMLEY, LLC DENTAL BENEFITS PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 106
+   [505]
+    2022: PULLMAN & COMLEY, LLC EMPLOYEE ASSISTANCE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 161
+    2021: PULLMAN & COMLEY, LLC EMPLOYEE ASSISTANCE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 154
+    2020: PULLMAN & COMLEY, LLC EMPLOYEE ASSISTANCE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 162
+    2019: PULLMAN & COMLEY, LLC EMPLOYEE ASSISTANCE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 165
+    2018: PULLMAN & COMLEY, LLC EMPLOYEE ASSISTANCE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 170
+    2017: PULLMAN & COMLEY, LLC EMPLOYEE ASSISTANCE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 173
+   [507]
+    2022: PULLMAN & COMLEY, LLC GROUP TERM LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 119
+    2021: PULLMAN & COMLEY, LLC GROUP TERM LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 121
+    2020: PULLMAN & COMLEY, LLC GROUP TERM LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2019: PULLMAN & COMLEY, LLC GROUP TERM LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 

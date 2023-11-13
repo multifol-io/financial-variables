@@ -1,67 +1,100 @@
 MA : FRAMINGHAM
   ADVOCATES, INC.  237451423
-   [501]
-    2022: ADVOCATES, INC. FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2021: ADVOCATES, INC. FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2020: ADVOCATES, INC. FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2019: ADVOCATES, INC. FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2018: ADVOCATES, INC. FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2017: ADVOCATES, INC. FLEXIBLE BENEFITS PLAN
-        Participants: 
-   [002]
-    2021: ADVOCATES, INC. 403(B) PLAN
-        Participants: 7
-        Assets: 1931123
-        $/Participant: 275874
-        RecordKeeper: GREAT-WEST LIFE & ANNUITY INSURANCE
-    2020: ADVOCATES, INC. 403(B) PLAN
-        Participants: 1995
-        Assets: 2158896
-        $/Participant: 1082
-        RecordKeeper: WELLS FARGO
-    2019: ADVOCATES, INC. 403(B) PLAN
-        Participants: 1927
-        Assets: 1654109
-        $/Participant: 858
-        RecordKeeper: WELLS FARGO
-    2018: ADVOCATES, INC. 403(B) PLAN
-        Participants: 1344
-        Assets: 1516470
-        $/Participant: 1128
-        RecordKeeper: WELLS FARGO
-    2017: ADVOCATES, INC. 403(B) PLAN
-        Participants: 1603
-        Assets: 1515043
-        $/Participant: 945
-        RecordKeeper: WELLS FARGO
-   [001]
     2021: ADVOCATES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 1775
         Assets: 29779261
         $/Participant: 16777
         RecordKeeper: GREAT-WEST LIFE & ANNUITY INSURANCE
-    2020: ADVOCATES, INC. 403(B) PLAN
-        Participants: 1995
-        Assets: 2158896
-        $/Participant: 1082
-        RecordKeeper: WELLS FARGO
     2019: ADVOCATES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3D2T 
         Participants: 2017
         Assets: 24120025
         $/Participant: 11958
         RecordKeeper: WELLS FARGO
     2018: ADVOCATES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3D2T 
         Participants: 1865
         Assets: 21708419
         $/Participant: 11639
         RecordKeeper: WELLS FARGO
     2017: ADVOCATES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3D2T 
         Participants: 1725
         Assets: 20288906
         $/Participant: 11761
+        RecordKeeper: WELLS FARGO
+   [002]
+    2021: ADVOCATES, INC. 403(B) PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2L2M2T3D 
+        Participants: 7
+        Assets: 1931123
+        $/Participant: 275874
+        RecordKeeper: GREAT-WEST LIFE & ANNUITY INSURANCE
+   [501]
+    2022: ADVOCATES, INC. FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: ADVOCATES, INC. FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: ADVOCATES, INC. FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: ADVOCATES, INC. FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: ADVOCATES, INC. FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: ADVOCATES, INC. FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+   [001]
+    2020: ADVOCATES, INC. 403(B) PLAN
+        Benefit Category: Other
+        Codes: 2M2L2F2G2T 
+        Participants: 1995
+        Assets: 2158896
+        $/Participant: 1082
+        RecordKeeper: WELLS FARGO
+   [002]
+    2020: ADVOCATES, INC. 403(B) PLAN
+        Benefit Category: Other
+        Codes: 2M2L2F2G2T 
+        Participants: 1995
+        Assets: 2158896
+        $/Participant: 1082
+        RecordKeeper: WELLS FARGO
+    2019: ADVOCATES, INC. 403(B) PLAN
+        Benefit Category: Other
+        Codes: 2M2L2F2G2T 
+        Participants: 1927
+        Assets: 1654109
+        $/Participant: 858
+        RecordKeeper: WELLS FARGO
+    2018: ADVOCATES, INC. 403(B) PLAN
+        Benefit Category: Other
+        Codes: 2M2L2F2G2T 
+        Participants: 1344
+        Assets: 1516470
+        $/Participant: 1128
+        RecordKeeper: WELLS FARGO
+    2017: ADVOCATES, INC. 403(B) PLAN
+        Benefit Category: Other
+        Codes: 2M2L2F2G3F2T 
+        Participants: 1603
+        Assets: 1515043
+        $/Participant: 945
         RecordKeeper: WELLS FARGO

@@ -1,42 +1,33 @@
 KY : LEXINGTON
   VALVOLINE LLC  611782197
-   [501]
     2022: VALVOLINE GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2021: VALVOLINE GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2020: VALVOLINE GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2019: VALVOLINE GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2018: VALVOLINE GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
         Participants: 
     2017: VALVOLINE GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
         Participants: 
-   [005]
-    2021: ASHLAND HERCULES PENSION PLAN II
-        Participants: 6967
-        Assets: 441198000
-        $/Participant: 63326
-        Available Investments:
-           - VALVOLINE LLC
-                 : VALVOLINE LLC DEFINED BENEFIT TRUST
-    2020: ASHLAND HERCULES PENSION PLAN II
-        Participants: 7201
-        Assets: 612953000
-        $/Participant: 85120
-        Available Investments:
-           - VALVOLINE LLC
-                 : VALVOLINE LLC DEFINED BENEFIT TRUST
-    2019: ASHLAND HERCULES PENSION PLAN II
-        Participants: 7371
-        Assets: 612818000
-        $/Participant: 83139
-        Available Investments:
-           - VALVOLINE LLC
-                 : VALVOLINE LLC DEFINED BENEFIT TRUST
    [004]
     2021: VALVOLINE LLC DEFINED BENEFIT TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 1448825008
         $/Participant: 
@@ -47,6 +38,8 @@ KY : LEXINGTON
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVERNMENT STIF
     2020: VALVOLINE LLC DEFINED BENEFIT TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 2001072779
         $/Participant: 
@@ -55,6 +48,8 @@ KY : LEXINGTON
            - GOLDMAN SACHS ASSET MANAGEMENT
                  : CF GSTCO TACTICAL EXPOSURE FUND
     2019: VALVOLINE LLC DEFINED BENEFIT TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 1992981711
         $/Participant: 
@@ -63,6 +58,8 @@ KY : LEXINGTON
            - GOLDMAN SACHS ASSET MANAGEMENT
                  : CF GSTCO TACTICAL EXPOSURE FUND
     2018: VALVOLINE LLC DEFINED BENEFIT TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 1916583628
         $/Participant: 
@@ -70,11 +67,15 @@ KY : LEXINGTON
            - GOLDMAN SACHS ASSET MANAGEMENT
                  : CF GSTCO TACTICAL EXPOSURE FUND
     2017: VALVOLINE LLC DEFINED BENEFIT TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 1761467096
         $/Participant: 
    [001]
     2021: ASHLAND HERCULES PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H1I 
         Participants: 5209
         Assets: 996911000
         $/Participant: 191382
@@ -82,6 +83,8 @@ KY : LEXINGTON
            - VALVOLINE LLC
                  : VALVOLINE LLC DEFINED BENEFIT TRUST
     2020: ASHLAND HERCULES PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H1I 
         Participants: 5313
         Assets: 1374040000
         $/Participant: 258618
@@ -89,6 +92,8 @@ KY : LEXINGTON
            - VALVOLINE LLC
                  : VALVOLINE LLC DEFINED BENEFIT TRUST
     2019: ASHLAND HERCULES PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H1I 
         Participants: 5365
         Assets: 1364813000
         $/Participant: 254391
@@ -96,6 +101,8 @@ KY : LEXINGTON
            - VALVOLINE LLC
                  : VALVOLINE LLC DEFINED BENEFIT TRUST
     2018: ASHLAND HERCULES PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H1I 
         Participants: 13100
         Assets: 1310094000
         $/Participant: 100007
@@ -104,10 +111,40 @@ KY : LEXINGTON
            - VALVOLINE LLC
                  : VALVOLINE LLC DEFINED BENEFIT TRUST
     2017: ASHLAND HERCULES PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H1I 
         Participants: 13256
         Assets: 1737845564
         $/Participant: 131098
         RecordKeeper: BLUE AND COMPANY LLC
+        Available Investments:
+           - VALVOLINE LLC
+                 : VALVOLINE LLC DEFINED BENEFIT TRUST
+   [005]
+    2021: ASHLAND HERCULES PENSION PLAN II
+        Benefit Category: Pension
+        Codes: 1A3H1I 
+        Participants: 6967
+        Assets: 441198000
+        $/Participant: 63326
+        Available Investments:
+           - VALVOLINE LLC
+                 : VALVOLINE LLC DEFINED BENEFIT TRUST
+    2020: ASHLAND HERCULES PENSION PLAN II
+        Benefit Category: Pension
+        Codes: 1A3H1I 
+        Participants: 7201
+        Assets: 612953000
+        $/Participant: 85120
+        Available Investments:
+           - VALVOLINE LLC
+                 : VALVOLINE LLC DEFINED BENEFIT TRUST
+    2019: ASHLAND HERCULES PENSION PLAN II
+        Benefit Category: Pension
+        Codes: 1A3H1I 
+        Participants: 7371
+        Assets: 612818000
+        $/Participant: 83139
         Available Investments:
            - VALVOLINE LLC
                  : VALVOLINE LLC DEFINED BENEFIT TRUST

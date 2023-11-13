@@ -1,29 +1,9 @@
 PA : MOON TOWNSHIP
   ARLANXEO USA LLC  811009585
-   [502]
-    2022: ARLANXEO USA LLC SEVERANCE PAY PLAN
-        Participants: 
-PA : PITTSBURGH
-    2021: ARLANXEO USA LLC SEVERANCE PAY PLAN
-        Participants: 
-PA : MOON TOWNSHIP
-   [501]
-    2022: ARLANXEO USA LLC WELFARE BENEFITS PLAN
-        Participants: 
-PA : PITTSBURGH
-    2021: ARLANXEO USA LLC WELFARE BENEFITS PLAN
-        Participants: 
-    2020: ARLANXEO USA LLC WELFARE BENEFITS PLAN
-        Participants: 
-    2019: ARLANXEO USA LLC WELFARE BENEFITS PLAN
-        Participants: 
-    2018: ARLANXEO USA LLC WELFARE BENEFITS PLAN
-        Participants: 
-    2017: ARLANXEO USA LLC WELFARE BENEFITS PLAN
-        Participants: 
-PA : MOON TOWNSHIP
    [001]
     2022: ARLANXEO USA LLC DEFINED CONTRIBUTION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 382
         Assets: 167359898
         $/Participant: 438114
@@ -35,6 +15,8 @@ PA : MOON TOWNSHIP
                  : WTC-CIF II CORE BOND PLUS, SERIES 4
 PA : PITTSBURGH
     2021: ARLANXEO USA LLC DEFINED CONTRIBUTION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 384
         Assets: 203659972
         $/Participant: 530364
@@ -45,6 +27,8 @@ PA : PITTSBURGH
            - WELLINGTON MANAGEMENT COMPANY LLP
                  : WTC-CIF II CORE BOND PLUS, SERIES 4
     2020: ARLANXEO USA LLC DEFINED CONTRIBUTION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 406
         Assets: 195839965
         $/Participant: 482364
@@ -53,6 +37,8 @@ PA : PITTSBURGH
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2019: ARLANXEO USA LLC DEFINED CONTRIBUTION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 422
         Assets: 177389586
         $/Participant: 420354
@@ -61,6 +47,8 @@ PA : PITTSBURGH
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2018: ARLANXEO USA LLC DEFINED CONTRIBUTION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 418
         Assets: 141043735
         $/Participant: 337425
@@ -69,6 +57,8 @@ PA : PITTSBURGH
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2017: ARLANXEO USA LLC DEFINED CONTRIBUTION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 380
         Assets: 147050924
         $/Participant: 386976
@@ -76,3 +66,45 @@ PA : PITTSBURGH
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
+PA : MOON TOWNSHIP
+   [501]
+    2022: ARLANXEO USA LLC WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+PA : PITTSBURGH
+    2021: ARLANXEO USA LLC WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2020: ARLANXEO USA LLC WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L
+        Participants: 
+    2019: ARLANXEO USA LLC WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L
+        Participants: 
+    2018: ARLANXEO USA LLC WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L
+        Participants: 
+    2017: ARLANXEO USA LLC WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4L
+        Participants: 
+PA : MOON TOWNSHIP
+   [502]
+    2022: ARLANXEO USA LLC SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+PA : PITTSBURGH
+    2021: ARLANXEO USA LLC SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

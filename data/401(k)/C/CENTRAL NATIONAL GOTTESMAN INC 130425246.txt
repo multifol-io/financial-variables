@@ -1,20 +1,9 @@
 NY : PURCHASE
-  CENTRAL NATIONAL GOTTESMAN INC.  130425246
-   [501]
-    2022: CENTRAL NATIONAL GOTTESMAN GROUP WELFARE PLAN
-        Participants: 
-    2021: CENTRAL NATIONAL GOTTESMAN GROUP WELFARE PLAN
-        Participants: 
-    2020: CENTRAL NATIONAL GOTTESMAN GROUP WELFARE PLAN
-        Participants: 
-    2019: CENTRAL NATIONAL GOTTESMAN GROUP WELFARE PLAN
-        Participants: 
-    2018: CENTRAL NATIONAL GOTTESMAN GROUP WELFARE PLAN
-        Participants: 
-    2017: CENTRAL NATIONAL - GOTTESMAN GROUP WELFARE PLAN
-        Participants: 
+  CENTRAL NATIONAL GOTTESMAN INC  130425246
    [004]
     2022: CENTRAL NATIONAL GOTTESMAN INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K3D2S2T 
         Participants: 1780
         Assets: 218207783
         $/Participant: 122588
@@ -35,6 +24,8 @@ NY : PURCHASE
                  : VFTC TGT RETIREMENT 2070 TRUST II
                  : VFTC TGT RETIREMENT INCOME TRUST II
     2021: CENTRAL NATIONAL GOTTESMAN INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K3D2S2T 
         Participants: 1618
         Assets: 257461078
         $/Participant: 159123
@@ -43,6 +34,8 @@ NY : PURCHASE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2020: CENTRAL NATIONAL GOTTESMAN INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K3D2S2T 
         Participants: 1540
         Assets: 226835922
         $/Participant: 147296
@@ -51,6 +44,8 @@ NY : PURCHASE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2019: CENTRAL NATIONAL GOTTESMAN INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K3D2S2T 
         Participants: 1561
         Assets: 202093985
         $/Participant: 129464
@@ -59,6 +54,8 @@ NY : PURCHASE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2018: CENTRAL NATIONAL GOTTESMAN INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K3D2S2T 
         Participants: 1291
         Assets: 159791489
         $/Participant: 123773
@@ -67,6 +64,8 @@ NY : PURCHASE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2017: CENTRAL NATIONAL GOTTESMAN INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K3D 
         Participants: 1281
         Assets: 168985115
         $/Participant: 131916
@@ -74,8 +73,35 @@ NY : PURCHASE
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
+   [501]
+    2022: CENTRAL NATIONAL GOTTESMAN GROUP WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: CENTRAL NATIONAL GOTTESMAN GROUP WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: CENTRAL NATIONAL GOTTESMAN GROUP WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: CENTRAL NATIONAL GOTTESMAN GROUP WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: CENTRAL NATIONAL GOTTESMAN GROUP WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: CENTRAL NATIONAL - GOTTESMAN GROUP WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
    [002]
     2022: CENTRAL NATIONAL GOTTESMAN INC PROFIT SHARING PLAN
+        Benefit Category: Other
+        Codes: 2E2K 
         Participants: 386
         Assets: 84938221
         $/Participant: 220047
@@ -88,6 +114,8 @@ NY : PURCHASE
            - PORTFOLIO EVALUATIONS INC :  (Consulting(general) | Direct payment from the plan)
            - CAP TRUST :  (Consulting(general) | Direct payment from the plan)
     2021: CENTRAL NATIONAL GOTTESMAN INC PROFIT SHARING PLAN
+        Benefit Category: Other
+        Codes: 2E2K 
         Participants: 338
         Assets: 97876316
         $/Participant: 289574
@@ -98,37 +126,51 @@ NY : PURCHASE
            - JPMORGAN CHASE :  (Custodial(securities) | Direct payment from the plan)
            - PORTFOLIO EVALUATIONS INC :  (Consulting(general) | Direct payment from the plan)
     2020: CENTRAL NATIONAL GOTTESMAN INC PROFIT SHARING PLAN
+        Benefit Category: Other
+        Codes: 2E2K 
         Participants: 325
         Assets: 97658860
         $/Participant: 300488
         RecordKeeper: MOSES & SINGER LLP
     2019: CENTRAL NATIONAL GOTTESMAN INC PROFIT SHARING PLAN
+        Benefit Category: Other
+        Codes: 2E2K 
         Participants: 305
         Assets: 81128347
         $/Participant: 265994
         RecordKeeper: SQ ADVISORS
     2018: CENTRAL NATIONAL GOTTESMAN INC PROFIT SHARING PLAN
+        Benefit Category: Other
+        Codes: 2E2K 
         Participants: 309
         Assets: 66872411
         $/Participant: 216415
         RecordKeeper: MOSES & SINGER LLP
     2017: CENTRAL NATIONAL GOTTESMAN INC PROFIT SHARING PLAN
+        Benefit Category: Other
+        Codes: 2E2K 
         Participants: 295
         Assets: 87711884
         $/Participant: 297328
         RecordKeeper: MOSES & SINGER LLP
    [001]
     2022: CENTRAL NATIONAL GOTTESMAN PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1103
         Assets: 106559020
         $/Participant: 96608
         RecordKeeper: CAPTRUST
     2021: CENTRAL NATIONAL GOTTESMAN PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1109
         Assets: 131271339
         $/Participant: 118369
         RecordKeeper: PORTFOLIO EVALUATION
     2020: CENTRAL NATIONAL GOTTESMAN PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1131
         Assets: 120663507
         $/Participant: 106687
@@ -141,6 +183,8 @@ NY : PURCHASE
            - MOSES & SINGER LLP :  (Legal | Consulting fees)
            - PORTFOLIO EVALUATION :  (Consulting(general) | Direct payment from the plan)
     2019: CENTRAL NATIONAL GOTTESMAN PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1134
         Assets: 113911971
         $/Participant: 100451
@@ -155,6 +199,8 @@ NY : PURCHASE
            - MOSES & SINGER LLP :  (Legal | Consulting fees)
            - PORTFOLIO EVALUATION :  (Consulting(general) | Direct payment from the plan)
     2018: CENTRAL NATIONAL GOTTESMAN PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 841
         Assets: 80177762
         $/Participant: 95336
@@ -169,6 +215,8 @@ NY : PURCHASE
            - MOSES & SINGER LLP :  (Legal | Consulting fees)
            - PORTFOLIO EVALUATION :  (Consulting(general) | Direct payment from the plan)
     2017: CENTRAL NATIONAL GOTTESMAN PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 847
         Assets: 105497875
         $/Participant: 124554

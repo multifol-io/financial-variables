@@ -1,29 +1,9 @@
 NY : ARMONK
   SWISS RE AMERICA HOLDING CORPORATION  132761364
-   [502]
-    2022: SWISS RE GROUP U.S. RETIREE BENEFIT PLAN
-        Participants: 
-    2021: SWISS RE GROUP U.S. RETIREE BENEFIT PLAN
-        Participants: 
-    2020: SWISS RE GROUP U.S. RETIREE BENEFIT PLAN
-        Participants: 
-    2019: SWISS RE GROUP U.S. RETIREE BENEFIT PLAN
-        Participants: 
-   [501]
-    2022: SWISS RE GROUP U.S. EMPLOYEES' HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: SWISS RE GROUP U.S. EMPLOYEES' HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: SWISS RE GROUP U.S. EMPLOYEES' HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: SWISS RE AMERICA HOLDING HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: SWISS RE AMERICA HOLDING HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: SWISS RE AMERICA HOLDING HEALTH AND WELFARE PLAN
-        Participants: 
    [002]
     2022: SWISS RE GROUP U.S. EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T3H 
         Participants: 4315
         Assets: 1264576049
         $/Participant: 293065
@@ -37,6 +17,8 @@ NY : ARMONK
                  : JPMORGAN INTERMEDIATE BOND FUND
                  : JPMORGAN LIQUIDITY FUND
     2021: SWISS RE GROUP U.S. EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T3H 
         Participants: 4242
         Assets: 1539115474
         $/Participant: 362827
@@ -50,6 +32,8 @@ NY : ARMONK
                  : JPMORGAN INTERMEDIATE BOND FUND
                  : JPMORGAN LIQUIDITY FUND
     2020: SWISS RE GROUP U.S. EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T3H 
         Participants: 4101
         Assets: 1379714264
         $/Participant: 336433
@@ -63,6 +47,8 @@ NY : ARMONK
                  : JPMORGAN INTERMEDIATE BOND FUND
                  : JPMORGAN LIQUIDITY FUND
     2019: SWISS RE GROUP U.S. EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T3H 
         Participants: 4081
         Assets: 1227803196
         $/Participant: 300858
@@ -76,6 +62,8 @@ NY : ARMONK
                  : JPMORGAN INTERMEDIATE BOND FUND
                  : JPMORGAN LIQUIDITY FUND
     2018: SWISS RE GROUP U.S. EMPLOYEES' SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T2A3H 
         Participants: 4016
         Assets: 1030942832
         $/Participant: 256708
@@ -89,6 +77,8 @@ NY : ARMONK
                  : JPMORGAN INTERMEDIATE BOND FUND
                  : JPMORGAN LIQUIDITY FUND
     2017: SWISS RE GROUP U.S. EMPLOYEES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T2A3H 
         Participants: 4165
         Assets: 1105387479
         $/Participant: 265399
@@ -101,8 +91,57 @@ NY : ARMONK
            - JPMORGAN CHASE BANK, N.A.
                  : JPMORGAN INTERMEDIATE BOND FUND
                  : JPMORGAN LIQUIDITY FUND
+   [501]
+    2022: SWISS RE GROUP U.S. EMPLOYEES' HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2021: SWISS RE GROUP U.S. EMPLOYEES' HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2020: SWISS RE GROUP U.S. EMPLOYEES' HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2019: SWISS RE AMERICA HOLDING HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: SWISS RE AMERICA HOLDING HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2017: SWISS RE AMERICA HOLDING HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+   [502]
+    2022: SWISS RE GROUP U.S. RETIREE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: SWISS RE GROUP U.S. RETIREE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2020: SWISS RE GROUP U.S. RETIREE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: SWISS RE GROUP U.S. RETIREE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4Q
+        Participants: 
    [001]
     2022: SWISS RE GROUP U.S. EMPLOYEE'S PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3F3H 
         Participants: 1945
         Assets: 422648029
         $/Participant: 217299
@@ -123,6 +162,8 @@ NY : ARMONK
                  : U.S. BOND INDEX SL CTF
                  : U.S. LONG GOVERNMENT BOND INDEX NL
     2021: SWISS RE GROUP U.S. EMPLOYEE'S PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3F3H 
         Participants: 2231
         Assets: 675618208
         $/Participant: 302832
@@ -143,6 +184,8 @@ NY : ARMONK
                  : SSGA U.S. BOND INDEX NL SERIES CL A
                  : U.S. LONG GOVT BOND INDX (CMDF4)
     2020: SWISS RE GROUP U.S. EMPLOYEE'S PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3F3H 
         Participants: 2256
         Assets: 703742083
         $/Participant: 311942
@@ -163,6 +206,8 @@ NY : ARMONK
                  : SSGA U.S. BOND INDEX NL SERIES CL A
                  : U.S. LONG GOVT BOND INDX (CMDF4)
     2019: SWISS RE GROUP U.S. EMPLOYEE'S PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3F3H 
         Participants: 2283
         Assets: 640322177
         $/Participant: 280474
@@ -181,6 +226,8 @@ NY : ARMONK
                  : SSGA U.S. BOND INDEX NL SERIES CL A
                  : U.S. LONG GOVT BOND INDX (CMDF4)
     2018: SWISS RE GROUP U.S. EMPLOYEE'S PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3F3H 
         Participants: 2305
         Assets: 556437756
         $/Participant: 241404
@@ -197,6 +244,8 @@ NY : ARMONK
                  : SSGA U.S. BOND INDEX NL SERIES CL A
                  : U.S. LONG GOVT BOND INDX (CMDF4)
     2017: SWISS RE GROUP U.S. EMPLOYEE'S PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3F3H 
         Participants: 2334
         Assets: 610042672
         $/Participant: 261372

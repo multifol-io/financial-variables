@@ -1,33 +1,8 @@
 IN : INDIANAPOLIS
   OTOLARYNGOLOGY ASSOCIATES, LLC  351966829
-   [502]
-    2022: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP LONG TERM DISABILITY PLAN
-        Participants: 130
-    2021: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP LONG TERM DISABILITY PLAN
-        Participants: 113
-    2020: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP LONG TERM DISABILITY PLAN
-        Participants: 115
-    2019: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP LONG TERM DISABILITY PLAN
-        Participants: 133
-    2018: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP LONG TERM DISABILITY PLAN
-        Participants: 137
-    2017: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP LONG TERM DISABILITY PLAN
-        Participants: 134
-   [501]
-    2022: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP HEALTH PLAN
-        Participants: 103
-    2021: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP HEALTH PLAN
-        Participants: 98
-    2020: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP LIFE AND HEALTH PLAN
-        Participants: 115
-    2019: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP LIFE AND HEALTH PLAN
-        Participants: 125
-    2018: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP LIFE AND HEALTH PLAN
-        Participants: 136
-    2017: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP LIFE AND HEALTH PLAN
-        Participants: 133
-   [001]
     2022: OTOLARYNGOLOGY ASSOCIATES, LLC, 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2H2J2K2T 
         Participants: 174
         Assets: 37833000
         $/Participant: 217431
@@ -36,6 +11,8 @@ IN : INDIANAPOLIS
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE RETIREMENT CLA
     2021: OTOLARYNGOLOGY ASSOCIATES, LLC, 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2H2J2K2T 
         Participants: 169
         Assets: 49180669
         $/Participant: 291009
@@ -44,6 +21,8 @@ IN : INDIANAPOLIS
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE RET CL 4
     2020: OTOLARYNGOLOGY ASSOCIATES, LLC, 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2H2J2K2T 
         Participants: 152
         Assets: 45216700
         $/Participant: 297478
@@ -52,6 +31,8 @@ IN : INDIANAPOLIS
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE RETIREMENT CLA
     2019: OTOLARYNGOLOGY ASSOCIATES, LLC, 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2H2J2K2T 
         Participants: 158
         Assets: 38245843
         $/Participant: 242062
@@ -60,6 +41,8 @@ IN : INDIANAPOLIS
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE RETIREMENT FUN
     2018: OTOLARYNGOLOGY ASSOCIATES, LLC, 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2H2J2K2T 
         Participants: 147
         Assets: 30914674
         $/Participant: 210303
@@ -68,6 +51,8 @@ IN : INDIANAPOLIS
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE RETIREMENT FUN
     2017: OTOLARYNGOLOGY ASSOCIATES, LLC, 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2H2J2K2T 
         Participants: 153
         Assets: 31216620
         $/Participant: 204030
@@ -75,3 +60,53 @@ IN : INDIANAPOLIS
         Available Investments:
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE RETIREMENT FUN
+   [501]
+    2022: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 103
+    2021: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 98
+    2020: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP LIFE AND HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 115
+    2019: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP LIFE AND HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 125
+    2018: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP LIFE AND HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 136
+    2017: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP LIFE AND HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 133
+   [502]
+    2022: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H4B
+        Participants: 130
+    2021: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H4D4B
+        Participants: 113
+    2020: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 115
+    2019: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 133
+    2018: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 137
+    2017: OTOLARYNGOLOGY ASSOCIATES, LLC GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 134

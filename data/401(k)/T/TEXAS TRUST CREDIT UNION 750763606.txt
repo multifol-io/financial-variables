@@ -1,18 +1,9 @@
 TX : MANSFIELD
   TEXAS TRUST CREDIT UNION  750763606
-   [501]
-    2021: TEXAS TRUST CREDIT UNION GROUP HEALTH PLAN
-        Participants: 
-    2020: TEXAS TRUST CREDIT UNION GROUP HEALTH PLAN
-        Participants: 
-    2019: TEXAS TRUST CREDIT UNION GROUP HEALTH PLAN
-        Participants: 
-    2018: TEXAS TRUST CREDIT UNION GROUP HEALTH PLAN
-        Participants: 
-    2017: TEXAS TRUST CREDIT UNION GROUP HEALTH PLAN
-        Participants: 
    [003]
     2022: TEXAS TRUST CREDIT UNION EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2G2S2T3D3H 
         Participants: 407
         Assets: 14480971
         $/Participant: 35579
@@ -21,6 +12,8 @@ TX : MANSFIELD
            - SEPARATE ACCOUNT A
                  : STANDARD INSURANCE COMPANY
     2021: TEXAS TRUST CREDIT UNION EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2G2S2T3D3H 
         Participants: 392
         Assets: 18333865
         $/Participant: 46770
@@ -29,6 +22,8 @@ TX : MANSFIELD
            - SEPARATE ACCOUNT A
                  : STANDARD INSURANCE COMPANY
     2020: TEXAS TRUST CREDIT UNION EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2G2S2T3D3H 
         Participants: 374
         Assets: 16174579
         $/Participant: 43247
@@ -37,6 +32,8 @@ TX : MANSFIELD
            - SEPARATE ACCOUNT A
                  : STANDARD INSURANCE COMPANY
     2019: TEXAS TRUST CREDIT UNION EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2G2S2T3D3H 
         Participants: 394
         Assets: 14005233
         $/Participant: 35546
@@ -45,6 +42,8 @@ TX : MANSFIELD
            - SEPARATE ACCOUNT A
                  : STANDARD INSURANCE COMPANY
     2018: TEXAS TRUST CREDIT UNION EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2G2S2T3D3H 
         Participants: 384
         Assets: 11337298
         $/Participant: 29524
@@ -53,6 +52,8 @@ TX : MANSFIELD
            - SEPARATE ACCOUNT A
                  : STANDARD INSURANCE COMPANY
     2017: TEXAS TRUST CREDIT UNION EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2K2G2S2T3D3H 
         Participants: 348
         Assets: 11740417
         $/Participant: 33736
@@ -60,8 +61,31 @@ TX : MANSFIELD
         Available Investments:
            - SEPARATE ACCOUNT A
                  : STANDARD INSURANCE COMPANY
+   [501]
+    2021: TEXAS TRUST CREDIT UNION GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: TEXAS TRUST CREDIT UNION GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: TEXAS TRUST CREDIT UNION GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: TEXAS TRUST CREDIT UNION GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: TEXAS TRUST CREDIT UNION GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
    [002]
     2022: TEXAS TRUST CREDIT UNION RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A1E3D 
         Participants: 336
         Assets: 69238531
         $/Participant: 206067
@@ -70,6 +94,8 @@ TX : MANSFIELD
            - STANDARD INSURANCE COMPANY
                  : POOLED SEPARATE ACCOUNT A
     2021: TEXAS TRUST CREDIT UNION RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A1E3D 
         Participants: 301
         Assets: 82850966
         $/Participant: 275252
@@ -78,6 +104,8 @@ TX : MANSFIELD
            - STANDARD INSURANCE COMPANY
                  : POOLED SEPARATE ACCOUNT A
     2020: TEXAS TRUST CREDIT UNION RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A1E3D 
         Participants: 317
         Assets: 74382651
         $/Participant: 234645
@@ -86,6 +114,8 @@ TX : MANSFIELD
            - STANDARD INSURANCE COMPANY
                  : POOLED SEPARATE ACCOUNT A
     2019: TEXAS TRUST CREDIT UNION RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A1E3D 
         Participants: 307
         Assets: 53929260
         $/Participant: 175665
@@ -94,6 +124,8 @@ TX : MANSFIELD
            - STANDARD INSURANCE COMPANY
                  : POOLED SEPARATE ACCOUNT A
     2018: TEXAS TRUST CREDIT UNION RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A1E3D 
         Participants: 284
         Assets: 46533433
         $/Participant: 163850
@@ -102,6 +134,8 @@ TX : MANSFIELD
            - STANDARD INSURANCE COMPANY
                  : POOLED SEPARATE ACCOUNT A
     2017: TEXAS TRUST CREDIT UNION RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A1E3D 
         Participants: 315
         Assets: 48933261
         $/Participant: 155343

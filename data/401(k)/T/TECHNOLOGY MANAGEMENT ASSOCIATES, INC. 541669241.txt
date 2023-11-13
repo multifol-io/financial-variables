@@ -1,43 +1,9 @@
 VA : CHANTILLY
   TECHNOLOGY MANAGEMENT ASSOCIATES, INC.  541669241
-   [501]
-    2020: TECHNOLOGY MANAGEMENT ASSOCIATES EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - MERITAIN HEALTH : ADMIN (Claims processing)
-           - BROWN & BROWN INSURANCE OF VA : BROKER (Insurance agents and brokers)
-           - THE BENECON GROUP, LLC : BROKER (Insurance agents and brokers)
-           - CONNECTCARE 3 : PATIENT ADVOCATE (Other services)
-    2019: TECHNOLOGY MANAGEMENT ASSOCIATES EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - MERITAIN HEALTH : ADMIN (Claims processing)
-           - BROWN & BROWN INSURANCE OF VA : BROKER (Insurance agents and brokers)
-           - THE BENECON GROUP, LLC : BROKER (Insurance agents and brokers)
-           - CONNECTCARE 3 : PATIENT ADVOCATE (Other services)
-    2018: TECHNOLOGY MANAGEMENT ASSOCIATES EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - MERITAIN HEALTH : ADMIN (Claims processing)
-           - BROWN & BROWN INSURANCE OF VA : BROKER (Insurance agents and brokers)
-           - THE BENECON GROUP : BROKER (Insurance agents and brokers)
-           - CONNECTCARE 3 : PATIENT ADVOCATE (Other services)
-    2017: TECHNOLOGY MANAGEMENT ASSOCIATES EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - MERITAIN HEALTH : ADMIN (Claims processing)
-           - BROWN & BROWN INSURANCE OF VA : BROKER (Insurance agents and brokers)
-           - THE BENECON GROUP : BROKER (Insurance agents and brokers)
-           - CONNECTCARE 3 : PATIENT ADVOCATE (Other services)
-   [003]
-    2019: TECHNOLOGY MANAGEMENT ASSOCIATES EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 0
-    2018: TECHNOLOGY MANAGEMENT ASSOCIATES EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 97
-    2017: TECHNOLOGY MANAGEMENT ASSOCIATES EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 113
    [001]
     2021: TMA 401(K) AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 123
         Assets: 1128047
         $/Participant: 9171
@@ -69,6 +35,8 @@ VA : CHANTILLY
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRIN SMCAP VALUE II SEP ACCT-Z
     2020: TMA 401(K) AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 143
         Assets: 54520145
         $/Participant: 381259
@@ -99,6 +67,8 @@ VA : CHANTILLY
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRIN SMCAP VALUE II SEP ACCT-Z
     2019: TMA 401(K) AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D3H 
         Participants: 153
         Assets: 55474809
         $/Participant: 362580
@@ -130,6 +100,8 @@ VA : CHANTILLY
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRIN SMCAP VALUE II SEP ACCT-Z
     2018: TMA 401(K) AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D3H 
         Participants: 144
         Assets: 42259143
         $/Participant: 293466
@@ -160,6 +132,8 @@ VA : CHANTILLY
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRIN SMCAP VALUE II SEP ACCT-Z
     2017: TMA 401(K) AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D3H 
         Participants: 144
         Assets: 42335293
         $/Participant: 293995
@@ -189,3 +163,53 @@ VA : CHANTILLY
                  : PRIN REAL ESTATE SECS SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRIN SMCAP VALUE II SEP ACCT-Z
+   [003]
+    2019: TECHNOLOGY MANAGEMENT ASSOCIATES EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O3I 
+        Participants: 0
+    2018: TECHNOLOGY MANAGEMENT ASSOCIATES EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O3I 
+        Participants: 97
+    2017: TECHNOLOGY MANAGEMENT ASSOCIATES EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O3I 
+        Participants: 113
+   [501]
+    2020: TECHNOLOGY MANAGEMENT ASSOCIATES EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Service Providers:
+           - MERITAIN HEALTH : ADMIN (Claims processing)
+           - BROWN & BROWN INSURANCE OF VA : BROKER (Insurance agents and brokers)
+           - THE BENECON GROUP, LLC : BROKER (Insurance agents and brokers)
+           - CONNECTCARE 3 : PATIENT ADVOCATE (Other services)
+    2019: TECHNOLOGY MANAGEMENT ASSOCIATES EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Service Providers:
+           - MERITAIN HEALTH : ADMIN (Claims processing)
+           - BROWN & BROWN INSURANCE OF VA : BROKER (Insurance agents and brokers)
+           - THE BENECON GROUP, LLC : BROKER (Insurance agents and brokers)
+           - CONNECTCARE 3 : PATIENT ADVOCATE (Other services)
+    2018: TECHNOLOGY MANAGEMENT ASSOCIATES EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Service Providers:
+           - MERITAIN HEALTH : ADMIN (Claims processing)
+           - BROWN & BROWN INSURANCE OF VA : BROKER (Insurance agents and brokers)
+           - THE BENECON GROUP : BROKER (Insurance agents and brokers)
+           - CONNECTCARE 3 : PATIENT ADVOCATE (Other services)
+    2017: TECHNOLOGY MANAGEMENT ASSOCIATES EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Service Providers:
+           - MERITAIN HEALTH : ADMIN (Claims processing)
+           - BROWN & BROWN INSURANCE OF VA : BROKER (Insurance agents and brokers)
+           - THE BENECON GROUP : BROKER (Insurance agents and brokers)
+           - CONNECTCARE 3 : PATIENT ADVOCATE (Other services)

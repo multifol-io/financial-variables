@@ -1,42 +1,9 @@
 NY : WHITE PLAINS
   COMBE INCORPORATED  131913732
-   [507]
-    2022: COMBE INCORPORATED WELFARE PLAN
-        Participants: 248
-    2021: COMBE INCORPORATED WELFARE PLAN
-        Participants: 247
-    2020: COMBE INCORPORATED WELFARE PLAN
-        Participants: 297
-   [505]
-    2019: COMBE INCORPORATED TAX SAVINGS PLAN
-        Participants: 48
-    2018: COMBE INCORPORTAED TAX SAVINGS PLAN
-        Participants: 226
-    2017: COMBE INCORPORATED TAX SAVINGS PLAN
-        Participants: 221
-   [503]
-    2019: COMBE INCORPORATED LONG AND SHORT TERM DISABILITY
-        Participants: 243
-    2018: COMBE INCORPORATED LONG AND SHORT TERM DISABILITY
-        Participants: 235
-    2017: COMBE INCORPORATED LONG AND SHORT TERM DISABILITY
-        Participants: 240
-   [502]
-    2019: COMBE INCORPORATED HEALTH INSURANCE PLAN
-        Participants: 234
-    2018: COMBE INCORPORATED HEALTH INSURNACE PLAN
-        Participants: 226
-    2017: COMBE INCORPORATED HEALTH INSURANCE PLAN
-        Participants: 221
-   [501]
-    2019: COMBE INCORPORATED LIFE INSURANCE PLAN
-        Participants: 268
-    2018: COMBE INCORPORTAED LIFE INSURANCE PLAN
-        Participants: 262
-    2017: COMBE INCORPORATED LIFE INSURANCE PLAN
-        Participants: 264
    [002]
     2022: COMBE INCORPORATED EMPLOYEES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 341
         Assets: 100260295
         $/Participant: 294018
@@ -45,6 +12,8 @@ NY : WHITE PLAINS
            - RELIANCE TRUST COMPANY
                  : METLIFE REL ST VAL 25053 - 0
     2021: COMBE INCORPORATED EMPLOYEES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 346
         Assets: 118286054
         $/Participant: 341867
@@ -53,6 +22,8 @@ NY : WHITE PLAINS
            - RELIANCE TRUST COMPANY
                  : METLIFE REL ST VAL 25053 - 0
     2020: COMBE INCORPORATED EMPLOYEES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 371
         Assets: 111262365
         $/Participant: 299898
@@ -61,6 +32,8 @@ NY : WHITE PLAINS
            - RELIANCE TRUST COMPANY
                  : METLIFE REL ST VAL 25053 - 0
     2019: COMBE INCORPORATED EMPLOYEES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 344
         Assets: 101438120
         $/Participant: 294878
@@ -69,6 +42,8 @@ NY : WHITE PLAINS
            - RELIANCE TRUST COMPANY
                  : METLIFE REL ST VAL 25053 - 0
     2018: COMBE INCORPORATED EMPLOYEES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 325
         Assets: 82482101
         $/Participant: 253791
@@ -77,6 +52,8 @@ NY : WHITE PLAINS
            - RELIANCE TRUST COMPANY
                  : METLIFE REL ST VAL 25053 - 0
     2017: COMBE INCORPORATED EMPLOYEES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 315
         Assets: 89962617
         $/Participant: 285595
@@ -86,3 +63,68 @@ NY : WHITE PLAINS
                  : DEUTSCHE STOCK INDEX FUND
            - RELIANCE TRUST COMPANY
                  : METLIFE REL ST VAL 25053 - 0
+   [502]
+    2019: COMBE INCORPORATED HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 234
+    2018: COMBE INCORPORATED HEALTH INSURNACE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 226
+    2017: COMBE INCORPORATED HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 221
+   [505]
+    2019: COMBE INCORPORATED TAX SAVINGS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 48
+    2018: COMBE INCORPORTAED TAX SAVINGS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 226
+    2017: COMBE INCORPORATED TAX SAVINGS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 221
+   [507]
+    2022: COMBE INCORPORATED WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 248
+    2021: COMBE INCORPORATED WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 247
+    2020: COMBE INCORPORATED WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 297
+   [501]
+    2019: COMBE INCORPORATED LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 268
+    2018: COMBE INCORPORTAED LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 262
+    2017: COMBE INCORPORATED LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 264
+   [503]
+    2019: COMBE INCORPORATED LONG AND SHORT TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 243
+    2018: COMBE INCORPORATED LONG AND SHORT TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 235
+    2017: COMBE INCORPORATED LONG AND SHORT TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 240

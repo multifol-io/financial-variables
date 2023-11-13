@@ -1,25 +1,19 @@
 ME : PORTLAND
   CLARK INSURANCE  010046400
-   [503]
-    2022: CLARK INSURANCE EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2021: CLARK INSURANCE EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2020: CLARK INSURANCE EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2019: CLARK INSURANCE EMPLOYEE BENEFITS PLAN
-        Participants: 
-   [005]
-    2022: CLARK INSURANCE PROFIT SHARING PLAN AND TRUST
-        Participants: 155
-        Assets: 22591312
-        $/Participant: 145750
-        RecordKeeper: SPINNAKER TRUST
+   [004]
+    2019: CLARK INSURANCE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
+        Participants: 0
+        RecordKeeper: VALMARK ADVISERS INC.
         Available Investments:
-           - AST WILMINGTON TRUST
-                 : CORE PLUS BOND FUND II FEE CLASS R1
-                 : STABLE VALUE FUND FEE CLASS R1
+           - PUTNAM INVESTMENTS
+                 : PUTNAM STABLE VALUE FUND
+   [005]
     2021: CLARK INSURANCE EMPLOYEE STOCK OWNERSHIP 401(K) PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2J2K2H2Q2T2E2F2G3D 
         Participants: 177
         Assets: 52084268
         $/Participant: 294261
@@ -30,6 +24,9 @@ ME : PORTLAND
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND
     2020: CLARK INSURANCE EMPLOYEE STOCK OWNERSHIP 401(K) PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2J2K2H2Q2T2E2F2G3D 
         Participants: 151
         Assets: 45330008
         $/Participant: 300198
@@ -38,31 +35,64 @@ ME : PORTLAND
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND
     2019: CLARK INSURANCE EMPLOYEE STOCK OWNERSHIP 401(K) PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2J2K2H2Q2T2E2F2G3D 
         Participants: 149
         Assets: 39825808
         $/Participant: 267287
         Available Investments:
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND
-   [004]
-    2019: CLARK INSURANCE 401(K) PLAN
-        Participants: 0
-        RecordKeeper: VALMARK ADVISERS INC.
-        Available Investments:
-           - PUTNAM INVESTMENTS
-                 : PUTNAM STABLE VALUE FUND
    [002]
     2020: CLARK INSURANCE EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P3I2Q 
         Participants: 0
     2019: CLARK INSURANCE EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P3I2Q 
         Participants: 148
         Assets: 672429
         $/Participant: 4543
     2018: CLARK INSURANCE EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P3I 
         Participants: 136
         Assets: 26256580
         $/Participant: 193063
     2017: CLARK INSURANCE EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P3I 
         Participants: 130
         Assets: 25556625
         $/Participant: 196589
+   [503]
+    2022: CLARK INSURANCE EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2021: CLARK INSURANCE EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2020: CLARK INSURANCE EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2019: CLARK INSURANCE EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+   [005]
+    2022: CLARK INSURANCE PROFIT SHARING PLAN AND TRUST
+        Benefit Category: Other
+        Codes: 2E 
+        Participants: 155
+        Assets: 22591312
+        $/Participant: 145750
+        RecordKeeper: SPINNAKER TRUST
+        Available Investments:
+           - AST WILMINGTON TRUST
+                 : CORE PLUS BOND FUND II FEE CLASS R1
+                 : STABLE VALUE FUND FEE CLASS R1

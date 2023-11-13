@@ -1,42 +1,9 @@
-CA : VERNON
-  HANNIBAL INDUSTRIES, INC.  262103182
-   [502]
-    2020: HANNIBAL INDUSTRIES, INC. HEALTH INSURANCE PLAN
-        Participants: 
-    2019: HANNIBAL INDUSTRIES, INC. HEALTH INSURANCE PLAN
-        Participants: 
-    2018: HANNIBAL INDUSTRIES, INC. HEALTH INSURANCE PLAN
-        Participants: 
-    2017: HANNIBAL INDUSTRIES, INC. HEALTH INSURANCE PLAN
-        Participants: 
 CA : LOS ANGELES
-   [002]
-    2022: HANNIBAL INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 508
-        Assets: 193562142
-        $/Participant: 381027
-    2021: HANNIBAL INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 508
-        Assets: 194637524
-        $/Participant: 383144
-    2020: HANNIBAL INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 395
-        Assets: 286761928
-        $/Participant: 725979
-    2019: HANNIBAL INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 340
-        Assets: 58694616
-        $/Participant: 172631
-    2018: HANNIBAL INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 299
-        Assets: 70388499
-        $/Participant: 235413
-    2017: HANNIBAL INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 255
-        Assets: 71082471
-        $/Participant: 278754
+  HANNIBAL INDUSTRIES, INC.  262103182
    [001]
     2021: HANNIBAL INDUSTRIES, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D3F 
         Participants: 434
         Assets: 12719285
         $/Participant: 29307
@@ -81,6 +48,8 @@ CA : LOS ANGELES
                  : VANGUARD TARGET RET INCOME
                  : VANGUARD VALUE INDEX FUND
     2020: HANNIBAL INDUSTRIES, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D3F 
         Participants: 363
         Assets: 10399335
         $/Participant: 28648
@@ -124,6 +93,8 @@ CA : LOS ANGELES
                  : VANGUARD TARGET RET INCOME
                  : VANGUARD VALUE INDEX FUND
     2019: HANNIBAL INDUSTRIES, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D3F 
         Participants: 316
         Assets: 9061504
         $/Participant: 28675
@@ -166,6 +137,8 @@ CA : LOS ANGELES
                  : VANGUARD TARGET RET INCOME
                  : VANGUARD VALUE INDEX FUND
     2018: HANNIBAL INDUSTRIES, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D3F 
         Participants: 281
         Assets: 6981587
         $/Participant: 24845
@@ -208,6 +181,8 @@ CA : LOS ANGELES
                  : VANGUARD TARGET RET INCOME
                  : VANGUARD VALUE INDEX FUND
     2017: HANNIBAL INDUSTRIES, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D3F 
         Participants: 267
         Assets: 6817666
         $/Participant: 25534
@@ -261,3 +236,58 @@ CA : LOS ANGELES
                  : VS CAP APPRECIATION
                  : VS EQUITY INCOME
                  : VS REAL RETURN
+   [002]
+    2022: HANNIBAL INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 508
+        Assets: 193562142
+        $/Participant: 381027
+    2021: HANNIBAL INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 508
+        Assets: 194637524
+        $/Participant: 383144
+    2020: HANNIBAL INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 395
+        Assets: 286761928
+        $/Participant: 725979
+    2019: HANNIBAL INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 340
+        Assets: 58694616
+        $/Participant: 172631
+    2018: HANNIBAL INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 299
+        Assets: 70388499
+        $/Participant: 235413
+    2017: HANNIBAL INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 255
+        Assets: 71082471
+        $/Participant: 278754
+CA : VERNON
+   [502]
+    2020: HANNIBAL INDUSTRIES, INC. HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L
+        Participants: 
+    2019: HANNIBAL INDUSTRIES, INC. HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L
+        Participants: 
+    2018: HANNIBAL INDUSTRIES, INC. HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L
+        Participants: 
+    2017: HANNIBAL INDUSTRIES, INC. HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4L
+        Participants: 

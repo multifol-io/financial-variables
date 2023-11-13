@@ -1,54 +1,82 @@
 TX : TYLER
   MEWBOURNE OIL COMPANY  751254872
-   [508]
-    2022: MEWBOURNE OIL COMPANY GROUP MEDICAL INSURANCE PLAN
-        Participants: 
-    2021: MEWBOURNE OIL COMPANY GROUP MEDICAL INSURANCE PLAN
-        Participants: 
-    2020: MEWBOURNE OIL COMPANY GROUP MEDICAL INSURANCE PLAN
-        Participants: 
-    2019: MEWBOURNE OIL COMPANY GROUP MEDICAL INSURANCE PLAN
-        Participants: 
-    2017: MEWBOURNE OIL COMPANY GROUP MEDICAL INSURANCE PLAN
-        Participants: 
-   [505]
-    2018: MEWBOURNE OIL COMPANY FLEX PLAN
-        Participants: 
-    2017: MEWBOURNE OIL COMPANY FLEX PLAN
-        Participants: 
    [002]
     2022: MEWBOURNE OIL COMPANY EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2S2T 
         Participants: 711
         Assets: 140521390
         $/Participant: 197639
         RecordKeeper: T ROWE PRICE RPS INC
     2021: MEWBOURNE OIL COMPANY EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2S2T 
         Participants: 653
         Assets: 139611103
         $/Participant: 213799
         RecordKeeper: T ROWE PRICE RPS INC
     2020: MEWBOURNE OIL COMPANY EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2S2T 
         Participants: 577
         Assets: 171095362
         $/Participant: 296525
         RecordKeeper: T ROWE PRICE RPS INC
     2019: MEWBOURNE OIL COMPANY EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2S2T 
         Participants: 573
         Assets: 137377608
         $/Participant: 239751
         RecordKeeper: T ROWE PRICE RPS INC
     2018: MEWBOURNE OIL COMPANY EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2S2T 
         Participants: 526
         Assets: 126558472
         $/Participant: 240605
         RecordKeeper: T ROWE PRICE RPS INC
     2017: MEWBOURNE OIL COMPANY EMPLOYEES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2S2T 
         Participants: 504
         Assets: 115719393
         $/Participant: 229601
         RecordKeeper: T ROWE PRICE RPS INC
+   [505]
+    2018: MEWBOURNE OIL COMPANY FLEX PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: MEWBOURNE OIL COMPANY FLEX PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [508]
+    2022: MEWBOURNE OIL COMPANY GROUP MEDICAL INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2021: MEWBOURNE OIL COMPANY GROUP MEDICAL INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2020: MEWBOURNE OIL COMPANY GROUP MEDICAL INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2019: MEWBOURNE OIL COMPANY GROUP MEDICAL INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2017: MEWBOURNE OIL COMPANY GROUP MEDICAL INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
    [001]
     2017: MEWBOURNE OIL COMPANY EMPLOYEES PENSION PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A3D1I 
         Participants: 72
         Assets: 12480066
         $/Participant: 173334

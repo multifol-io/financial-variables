@@ -1,60 +1,99 @@
 IL : TEUTOPOLIS
   SIEMER MILLING CO  370789904
-   [503]
-    2022: SIEMER MILLING COMPANY DISABILITY INSURANCE PLAN
-        Participants: 304
-    2021: SIEMER MILLING COMPANY DISABILITY INSURANCE PLAN
-        Participants: 290
-    2020: SIEMER MILLING COMPANY DISABILITY INSURANCE PLAN
-        Participants: 176
-    2019: SIEMER MILLING COMPANY DISABILITY INSURANCE PLAN
-        Participants: 172
-    2018: SIEMER MILLING COMPANY DISABILITY INSURANCE PLAN
-        Participants: 171
-        Service Providers:
-           -  : VENDOR ()
-    2017: SIEMER MILLING COMPANY DISABILITY INSURANCE PLAN
-        Participants: 166
-   [501]
-    2022: SIEMER MILLING COMPANY HEALTH CARE PLAN
-        Participants: 
-    2021: SIEMER MILLING COMPANY HEALTH CARE PLAN
-        Participants: 151
-        Service Providers:
-           - HEALTHLINK, INC 1831 CHESNIT STREET :  ()
-    2020: SIEMER MILLING COMPANY HEALTH CARE PLAN
-        Participants: 151
-    2019: SIEMER MILLING COMPANY HEALTH CARE PLAN
-        Participants: 152
-    2018: SIEMER MILLING COMPANY HEALTH CARE PLAN
-        Participants: 159
-    2017: SIEMER MILLING COMPANY HEALTH CARE PLAN
-        Participants: 153
    [003]
     2021: SIEMER MILLING COMPANY EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2I2J2K2O2T3I 
         Participants: 183
         Assets: 75539277
         $/Participant: 412782
         RecordKeeper: WILSHIRE ADVISORS LLC
     2020: SIEMER MILLING COMPANY EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2I2J2K2P2T3I 
         Participants: 185
         Assets: 77217283
         $/Participant: 417390
         RecordKeeper: WILSHIRE ASSOCIATES INCORPORATED
     2019: SIEMER MILLING COMPANY EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2I2J2K2P2T3I 
         Participants: 176
         Assets: 61990492
         $/Participant: 352218
         RecordKeeper: SIEMER MILLING
     2018: SIEMER MILLING COMPANY EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2I2J2K2P2T3I 
         Participants: 171
         Assets: 59929145
         $/Participant: 350462
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
     2017: SIEMER MILLING COMPANY EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2H2J2K2P2T3I 
         Participants: 170
         Assets: 62755329
         $/Participant: 369148
         Service Providers:
            - EDWARD JONES : INVESTMENT ADVISOR (Investment advisory(plan))
            - BLUE RIDGE ESOP ASSOCIATES : CONTRACT ADMIN (Contract Administrator)
+   [501]
+    2022: SIEMER MILLING COMPANY HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: SIEMER MILLING COMPANY HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 151
+        Service Providers:
+           - HEALTHLINK, INC 1831 CHESNIT STREET :  ()
+    2020: SIEMER MILLING COMPANY HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 151
+    2019: SIEMER MILLING COMPANY HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 152
+    2018: SIEMER MILLING COMPANY HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 159
+    2017: SIEMER MILLING COMPANY HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 153
+   [503]
+    2022: SIEMER MILLING COMPANY DISABILITY INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 304
+    2021: SIEMER MILLING COMPANY DISABILITY INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 290
+    2020: SIEMER MILLING COMPANY DISABILITY INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 176
+    2019: SIEMER MILLING COMPANY DISABILITY INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 172
+    2018: SIEMER MILLING COMPANY DISABILITY INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 171
+        Service Providers:
+           -  : VENDOR ()
+    2017: SIEMER MILLING COMPANY DISABILITY INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4F4H
+        Participants: 166

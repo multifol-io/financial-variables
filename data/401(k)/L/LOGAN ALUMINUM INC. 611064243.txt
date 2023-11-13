@@ -1,42 +1,62 @@
 KY : RUSSELLVILLE
   LOGAN ALUMINUM INC.  611064243
-   [509]
-    2022: LOGAN ALUMINUM INC. HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2021: LOGAN ALUMINUM INC. HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2020: LOGAN ALUMINUM INC. HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-   [508]
-    2019: LOGAN ALUMINUM SEVERANCE PLAN
-        Participants: 
-    2018: LOGAN ALUMINUM SEVERANCE PLAN
-        Participants: 
-    2017: LOGAN ALUMINUM SEVERANCE PLAN
-        Participants: 
-   [507]
-    2019: LOGAN ALUMINUM EDUCATIONAL ASSISTANCE PLAN
-        Participants: 
-    2018: LOGAN ALUMINUM EDUCATIONAL ASSISTANCE PLAN
-        Participants: 
-    2017: LOGAN ALUMINUM EDUCATIONAL ASSISTANCE PLAN
-        Participants: 
    [505]
     2019: LOGAN ALUMINUM COMPREHENSIVE MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
         Participants: 
     2018: LOGAN ALUMINUM COMPREHENSIVE MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
         Participants: 
     2017: LOGAN ALUMINUM COMPREHENSIVE MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 
+   [509]
+    2022: LOGAN ALUMINUM INC. HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: LOGAN ALUMINUM INC. HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: LOGAN ALUMINUM INC. HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4J4L4Q
         Participants: 
    [503]
     2019: LOGAN ALUMINUM LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L4Q
         Participants: 
     2018: LOGAN ALUMINUM LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L4Q
         Participants: 
     2017: LOGAN ALUMINUM LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L4Q
+        Participants: 
+   [507]
+    2019: LOGAN ALUMINUM EDUCATIONAL ASSISTANCE PLAN
+        Benefit Category: Other
+        Codes:  4J
+        Participants: 
+    2018: LOGAN ALUMINUM EDUCATIONAL ASSISTANCE PLAN
+        Benefit Category: Other
+        Codes:  4J
+        Participants: 
+    2017: LOGAN ALUMINUM EDUCATIONAL ASSISTANCE PLAN
+        Benefit Category: Other
+        Codes:  4J
         Participants: 
    [002]
     2022: LOGAN ALUMINUM PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3F 
         Participants: 1383
         Assets: 276693632
         $/Participant: 200067
@@ -49,6 +69,8 @@ KY : RUSSELLVILLE
            - WELLS FARGO BANK, NA
                  : NOVELIS MASTER RETIREMENT TRUST
     2021: LOGAN ALUMINUM PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3F 
         Participants: 1383
         Assets: 362312500
         $/Participant: 261975
@@ -61,6 +83,8 @@ KY : RUSSELLVILLE
            - WELLS FARGO BANK, NA
                  : NOVELIS MASTER RETIREMENT TRUST
     2020: LOGAN ALUMINUM PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3F 
         Participants: 1394
         Assets: 341477947
         $/Participant: 244962
@@ -72,6 +96,8 @@ KY : RUSSELLVILLE
            - WELLS FARGO BANK, NA
                  : NOVELIS MASTER RETIREMENT TRUST
     2019: LOGAN ALUMINUM PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3F 
         Participants: 1394
         Assets: 288960949
         $/Participant: 207289
@@ -83,6 +109,8 @@ KY : RUSSELLVILLE
            - WELLS FARGO BANK, NA
                  : NOVELIS MASTER RETIREMENT TRUST
     2018: LOGAN ALUMINUM PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3F 
         Participants: 1390
         Assets: 239162592
         $/Participant: 172059
@@ -93,6 +121,8 @@ KY : RUSSELLVILLE
            - WELLS FARGO BANK, NA
                  : NOVELIS MASTER RETIREMENT TRUST
     2017: LOGAN ALUMINUM PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3F 
         Participants: 1391
         Assets: 251832914
         $/Participant: 181044
@@ -102,3 +132,16 @@ KY : RUSSELLVILLE
         Available Investments:
            - STATE STREET BANK & TRUST COMPANY
                  : NOVELIS MASTER RETIREMENT TRUST
+   [508]
+    2019: LOGAN ALUMINUM SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2018: LOGAN ALUMINUM SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2017: LOGAN ALUMINUM SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

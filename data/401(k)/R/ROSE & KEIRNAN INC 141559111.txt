@@ -1,59 +1,96 @@
-NY : EAST GREENBUSH
-  ROSE & KIERNAN INC  141559111
-   [506]
-    2020: ACCIDENTIAL DEATH AND DISMEMBERMENT INSURANCE PLAN OF ROSE & KIERNAN, INC
-        Participants: 0
-    2019: ACCIDENTIAL DEATH AND DISMEMBERMENT INSURANCE PLAN OF ROSE & KIERNAN, INC
-        Participants: 194
-    2018: ACCIDENTAL DEATH AND DISMEMBERMENT INSURANCE PLAN OF ROSE & KIERNAN, INC.
-        Participants: 195
-    2017: ACCIDENTAL DEATH AND DISMEMBERMENT INSURANCE PLAN OF ROSE & KIERNAN, INC.
-        Participants: 204
-   [505]
-    2020: GROUP LONG TERM DISABILITY INSURANCE PLAN OF ROSE & KIERNAN, INC.
-        Participants: 0
-    2019: GROUP LONG TERM DISABILITY INSURANCE PLAN OF ROSE & KIERNAN, INC.
-        Participants: 190
-    2018: GROUP LONG TERM DISABILITY INSURANCE PLAN OF ROSE & KIERNAN, INC.
-        Participants: 194
-    2017: GROUP LONG TERM DISABILITY INSURANCE PLAN OF ROSE & KIERNAN, INC.
-        Participants: 200
-   [504]
-    2020: GROUP HEALTH INSURANCE PLAN OF ROSE & KIERNAN INC
-        Participants: 0
-    2019: GROUP HEALTH INSURANCE PLAN OF ROSE & KIERNAN INC
-        Participants: 182
-    2018: GROUP HEALTH INSURANCE PLAN OF ROSE & KIERNAN, INC.
-        Participants: 201
-    2017: GROUP HEALTH INSURANCE PLAN OF ROSE & KIERNAN, INC.
-        Participants: 168
 NY : ALBANY
+  ROSE & KEIRNAN INC  141559111
    [003]
     2022: ROSE & KIERNAN EMP STOCK OWNERSHIP PL & TR
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2P 
         Participants: 0
     2021: ROSE & KIERNAN EMP STOCK OWNERSHIP PL & TR
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2P 
         Participants: 230
         Assets: 8777519
         $/Participant: 38163
 NY : EAST GREENBUSH
     2020: ROSE & KIERNAN EMP STOCK OWNERSHIP PL & TR
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2P 
         Participants: 249
         Assets: 26731384
         $/Participant: 107354
     2019: ROSE & KIERNAN EMP STOCK OWNERSHIP PL & TR
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2P 
         Participants: 249
         Assets: 106593600
         $/Participant: 428086
     2018: ROSE & KIERNAN, INC. EMP STOCK OWNERSHIP PL & TR
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2P 
         Participants: 239
         Assets: 81002543
         $/Participant: 338922
     2017: ROSE & KIERNAN, INC. EMP STOCK OWNERSHIP PL & TR
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2P 
         Participants: 240
         Assets: 76491992
         $/Participant: 318716
+   [504]
+    2020: GROUP HEALTH INSURANCE PLAN OF ROSE & KIERNAN INC
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 0
+    2019: GROUP HEALTH INSURANCE PLAN OF ROSE & KIERNAN INC
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 182
+    2018: GROUP HEALTH INSURANCE PLAN OF ROSE & KIERNAN, INC.
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 201
+    2017: GROUP HEALTH INSURANCE PLAN OF ROSE & KIERNAN, INC.
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 168
+   [505]
+    2020: GROUP LONG TERM DISABILITY INSURANCE PLAN OF ROSE & KIERNAN, INC.
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 0
+    2019: GROUP LONG TERM DISABILITY INSURANCE PLAN OF ROSE & KIERNAN, INC.
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 190
+    2018: GROUP LONG TERM DISABILITY INSURANCE PLAN OF ROSE & KIERNAN, INC.
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 194
+    2017: GROUP LONG TERM DISABILITY INSURANCE PLAN OF ROSE & KIERNAN, INC.
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 200
+   [506]
+    2020: ACCIDENTIAL DEATH AND DISMEMBERMENT INSURANCE PLAN OF ROSE & KIERNAN, INC
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 0
+    2019: ACCIDENTIAL DEATH AND DISMEMBERMENT INSURANCE PLAN OF ROSE & KIERNAN, INC
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 194
+    2018: ACCIDENTAL DEATH AND DISMEMBERMENT INSURANCE PLAN OF ROSE & KIERNAN, INC.
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 195
+    2017: ACCIDENTAL DEATH AND DISMEMBERMENT INSURANCE PLAN OF ROSE & KIERNAN, INC.
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 204
    [001]
     2021: ROSE & KIERNAN, INC. RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3D 
         Participants: 0
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
@@ -63,6 +100,8 @@ NY : EAST GREENBUSH
                  : PRIN LDI LONG DURATION SA-Z
                  : PRIN LIQUID ASSETS SEP ACCT-Z
     2020: ROSE & KIERNAN, INC. RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3D 
         Participants: 361
         Assets: 48175442
         $/Participant: 133449
@@ -74,6 +113,8 @@ NY : EAST GREENBUSH
                  : PRIN LDI LONG DURATION SA-Z
                  : PRIN LIQUID ASSETS SEP ACCT-Z
     2019: ROSE & KIERNAN, INC. RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3D 
         Participants: 345
         Assets: 51325015
         $/Participant: 148768
@@ -102,6 +143,8 @@ NY : EAST GREENBUSH
                  : PRINCIPAL OVERSEAS SEP ACCT-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
     2018: ROSE & KIERNAN, INC. RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 328
         Assets: 45574319
         $/Participant: 138946
@@ -125,6 +168,8 @@ NY : EAST GREENBUSH
                  : PRINCIPAL OVERSEAS SEP ACCT-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
     2017: ROSE & KIERNAN, INC. RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 332
         Assets: 42156985
         $/Participant: 126978

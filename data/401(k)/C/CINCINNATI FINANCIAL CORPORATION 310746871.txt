@@ -1,51 +1,82 @@
 OH : FAIRFIELD
   CINCINNATI FINANCIAL CORPORATION  310746871
-   [510]
-    2022: THE CINCINNATI FINANCIAL CORPORATION GROUP BENEFIT PLAN
-        Participants: 5159
-    2021: THE CINCINNATI FINANCIAL CORPORATION GROUP BENEFIT PLAN
-        Participants: 5161
-    2020: THE CINCINNATI FINANCIAL CORPORATION GROUP BENEFIT PLAN
-        Participants: 5263
-    2019: THE CINCINNATI FINANCIAL CORPORATION BENEFIT PLAN
-        Participants: 4527
-    2018: THE CINCINNATI FINANCIAL CORPORATION GROUP BENEFIT PLAN
-        Participants: 5076
-    2017: THE CINCINNATI FINANCIAL CORPORATION GROUP BENEFIT PLAN
-        Participants: 4978
-   [002]
     2022: CINCINNATI FINANCIAL CORPORATION TAX-QUALIFIED SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2O2R2S2T3F3H 
         Participants: 6035
         Assets: 892580291
         $/Participant: 147900
         RecordKeeper: DELOITTE & TOUCHE LLP
     2021: CINCINNATI FINANCIAL CORPORATION TAX-QUALIFIED SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2O2R2S2T3F3H 
         Participants: 5895
         Assets: 1070373658
         $/Participant: 181573
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2020: CINCINNATI FINANCIAL CORPORATION TAX-QUALIFIED SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2F2G2J2K2O2R2S2T3F3H2E 
         Participants: 5872
         Assets: 898828368
         $/Participant: 153070
         RecordKeeper: KEATING MUETHING & KLEKAMP PLL
     2019: CINCINNATI FINANCIAL CORPORATION TAX-QUALIFIED SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2F2E2G2J2K2O2R2S2T3F3H 
         Participants: 5805
         Assets: 746007202
         $/Participant: 128511
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2018: CINCINNATI FINANCIAL CORPORATION TAX-QUALIFIED SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2F2G2J2K2O2R2S2T2E3F3H 
         Participants: 5669
         Assets: 564488626
         $/Participant: 99574
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2017: CINCINNATI FINANCIAL CORPORATION TAX-QUALIFIED SAVINGS PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2O2R2S2T3H 
         Participants: 5673
         Assets: 564534844
         $/Participant: 99512
         RecordKeeper: KEATING MUETHING & KLEKAMP PLL
+   [510]
+    2022: THE CINCINNATI FINANCIAL CORPORATION GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 5159
+    2021: THE CINCINNATI FINANCIAL CORPORATION GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 5161
+    2020: THE CINCINNATI FINANCIAL CORPORATION GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 5263
+    2019: THE CINCINNATI FINANCIAL CORPORATION BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4E4L
+        Participants: 4527
+    2018: THE CINCINNATI FINANCIAL CORPORATION GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 5076
+    2017: THE CINCINNATI FINANCIAL CORPORATION GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 4978
    [001]
     2022: CINCINNATI FINANCIAL CORPORATION RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 1057
         Assets: 332893332
         $/Participant: 314941
@@ -53,6 +84,8 @@ OH : FAIRFIELD
            - WILLIS TOWERS WATSON US LLC :  (Actuarial | Direct payment from the plan)
            - DELOITTE & TOUCHE LLP :  (Accounting(including auditing) | Direct payment from the plan)
     2021: CINCINNATI FINANCIAL CORPORATION RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 1121
         Assets: 397372441
         $/Participant: 354480
@@ -61,6 +94,8 @@ OH : FAIRFIELD
            - DELOITTE TAX LLP :  (Accounting(including auditing) | Direct payment from the plan)
            - KEATING MUETHING & KLEKAMP :  (Legal | Direct payment from the plan)
     2020: CINCINNATI FINANCIAL CORPORATION RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 1211
         Assets: 357407959
         $/Participant: 295134
@@ -69,6 +104,8 @@ OH : FAIRFIELD
            - DELOITTE TAX LLP :  (Accounting(including auditing) | Direct payment from the plan)
            - KEATING MUETHING & KLEKAMP :  (Legal | Direct payment from the plan)
     2019: CINCINNATI FINANCIAL CORPORATION RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 1267
         Assets: 354429673
         $/Participant: 279739
@@ -77,6 +114,8 @@ OH : FAIRFIELD
            - DELOITTE TAX LLP :  (Accounting(including auditing) | Direct payment from the plan)
            - KEATING MUETHING & KLEKAMP :  (Legal | Direct payment from the plan)
     2018: CINCINNATI FINANCIAL CORPORATION RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 1328
         Assets: 318446967
         $/Participant: 239794
@@ -85,6 +124,8 @@ OH : FAIRFIELD
            - KEATING MUETHING & KLEKAMP :  (Legal | Direct payment from the plan)
            - DELOITTE TAX LLP :  (Accounting(including auditing) | Direct payment from the plan)
     2017: CINCINNATI FINANCIAL CORPORATION RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 1409
         Assets: 360495526
         $/Participant: 255852

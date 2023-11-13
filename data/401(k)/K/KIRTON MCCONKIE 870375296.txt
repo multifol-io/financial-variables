@@ -1,61 +1,30 @@
 UT : SALT LAKE CITY
   KIRTON MCCONKIE  870375296
-   [502]
-    2021: KIRTON MCCONKIE WELFARE BENEFIT PLAN
-        Participants: 
-    2020: KIRTON MCCONKIE WELFARE BENEFIT PLAN
-        Participants: 
-    2019: KIRTON MCCONKIE WELFARE BENEFIT PLAN
-        Participants: 
-    2018: KIRTON MCCONKIE WELFARE BENEFIT PLAN
-        Participants: 
-    2017: KIRTON MCCONKIE WELFARE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - CHARLES HAWKINS : ADMINISTRATOR (Contract Administrator)
-           - CALVIN GIBBS : ADMINISTRATOR (Contract Administrator)
-   [501]
-    2022: KIRTON MCCONKIE CAFETERIA PLAN
-        Participants: 
-        Service Providers:
-           - GALLAGHER BENEFITS : ADMINISTRATOR (Contract Administrator)
-    2021: KIRTON MCCONKIE CAFETERIA PLAN
-        Participants: 
-        Service Providers:
-           - GALLAGHER BENEFITS : ADMINISTRATOR (Contract Administrator)
-    2020: KIRTON MCCONKIE CAFETERIA PLAN
-        Participants: 
-        Service Providers:
-           - GALLAGHER BENEFITS : ADMINISTRATOR (Contract Administrator)
-    2019: KIRTON MCCONKIE CAFETERIA PLAN
-        Participants: 
-        Service Providers:
-           - GALLAGHER BENEFITS : ADMINISTRATOR (Contract Administrator)
-    2018: KIRTON MCCONKIE CAFETERIA PLAN
-        Participants: 
-        Service Providers:
-           - GALLAGHER BENEFITS : ADMINISTRATOR (Contract Administrator)
-    2017: KIRTON MCCONKIE CAFETERIA PLAN
-        Participants: 
-        Service Providers:
-           - GALLAGHER BENEFITS : ADMINISTRATOR (Contract Administrator)
    [001]
     2022: KIRTON MCCONKIE RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3D 
         Participants: 313
         Assets: 86080603
         $/Participant: 275017
         RecordKeeper: TANNER LLC
     2021: KIRTON MCCONKIE RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3D 
         Participants: 302
         Assets: 94592403
         $/Participant: 313219
         RecordKeeper: TANNER LLC
     2020: KIRTON MCCONKIE RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3D 
         Participants: 299
         Assets: 79461248
         $/Participant: 265756
         RecordKeeper: CHARLES SCHWAB & CO., INC.
     2019: KIRTON MCCONKIE RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3D 
         Participants: 282
         Assets: 72965181
         $/Participant: 258741
@@ -64,12 +33,77 @@ UT : SALT LAKE CITY
            - TANNER LLC :  (Accounting(including auditing) | Direct payment from the plan)
            - CHARLES SCHWAB & CO., INC. :  (Shareholder servicing fees)
     2018: KIRTON MCCONKIE RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3D 
         Participants: 292
         Assets: 62751622
         $/Participant: 214902
         RecordKeeper: CHARLES SCHWAB TRUST COMPANY
     2017: KIRTON MCCONKIE RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 288
         Assets: 69201790
         $/Participant: 240283
         RecordKeeper: TANNER, LLC.
+   [501]
+    2022: KIRTON MCCONKIE CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4H4F
+        Participants: 
+        Service Providers:
+           - GALLAGHER BENEFITS : ADMINISTRATOR (Contract Administrator)
+    2021: KIRTON MCCONKIE CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4H
+        Participants: 
+        Service Providers:
+           - GALLAGHER BENEFITS : ADMINISTRATOR (Contract Administrator)
+    2020: KIRTON MCCONKIE CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4H
+        Participants: 
+        Service Providers:
+           - GALLAGHER BENEFITS : ADMINISTRATOR (Contract Administrator)
+    2019: KIRTON MCCONKIE CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4H
+        Participants: 
+        Service Providers:
+           - GALLAGHER BENEFITS : ADMINISTRATOR (Contract Administrator)
+    2018: KIRTON MCCONKIE CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4H
+        Participants: 
+        Service Providers:
+           - GALLAGHER BENEFITS : ADMINISTRATOR (Contract Administrator)
+    2017: KIRTON MCCONKIE CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4H
+        Participants: 
+        Service Providers:
+           - GALLAGHER BENEFITS : ADMINISTRATOR (Contract Administrator)
+   [502]
+    2021: KIRTON MCCONKIE WELFARE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4F
+        Participants: 
+    2020: KIRTON MCCONKIE WELFARE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2019: KIRTON MCCONKIE WELFARE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2018: KIRTON MCCONKIE WELFARE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2017: KIRTON MCCONKIE WELFARE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+        Service Providers:
+           - CHARLES HAWKINS : ADMINISTRATOR (Contract Administrator)
+           - CALVIN GIBBS : ADMINISTRATOR (Contract Administrator)

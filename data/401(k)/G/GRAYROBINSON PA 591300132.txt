@@ -1,20 +1,9 @@
 FL : ORLANDO
   GRAYROBINSON PA  591300132
-   [505]
-    2022: GRAYROBINSON PA WELFARE BENEFIT PLAN
-        Participants: 
-    2021: GRAYROBINSON PA WELFARE BENEFIT PLAN
-        Participants: 469
-    2020: GRAYROBINSON PA WELFARE BENEFIT PLAN
-        Participants: 478
-    2019: GRAYROBINSON PA WELFARE BENEFIT PLAN
-        Participants: 509
-    2018: GRAYROBINSON PA WEFARE BENEFIT PLAN
-        Participants: 525
-    2017: GRAYROBINSON PA WELFARE BENEFIT PLAN
-        Participants: 588
    [002]
     2021: GRAYROBINSON 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T 
         Participants: 775
         Assets: 175631222
         $/Participant: 226620
@@ -23,6 +12,8 @@ FL : ORLANDO
            - FEDERATED INVESTORS
                  : FEDERATED HERMES CAPITAL PRESERV R6
     2020: GRAYROBINSON 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T 
         Participants: 830
         Assets: 208139855
         $/Participant: 250770
@@ -32,6 +23,8 @@ FL : ORLANDO
                  : FEDERATED CAPITAL PRESERVATION F-IP
                  : FEDERATED CAPITAL PRESERVATION FR6P
     2019: GRAYROBINSON 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T 
         Participants: 766
         Assets: 180328767
         $/Participant: 235416
@@ -44,6 +37,8 @@ FL : ORLANDO
                  : FEDERATED CAPITAL PRESERVATION F-IP
                  : FEDERATED CAPITAL PRESERVATION FR6P
     2018: GRAYROBINSON 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T 
         Participants: 791
         Assets: 165127735
         $/Participant: 208758
@@ -55,6 +50,8 @@ FL : ORLANDO
            - FEDERATED INVESTORS
                  : FEDERATED CAPITAL PRESERVATION F-IP
     2017: GRAYROBINSON 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T 
         Participants: 958
         Assets: 166552274
         $/Participant: 173854
@@ -65,3 +62,28 @@ FL : ORLANDO
         Available Investments:
            - FEDERATED INVESTORS
                  : FEDERATED CAPITAL PRESERVATION F-IP
+   [505]
+    2022: GRAYROBINSON PA WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2021: GRAYROBINSON PA WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 469
+    2020: GRAYROBINSON PA WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 478
+    2019: GRAYROBINSON PA WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 509
+    2018: GRAYROBINSON PA WEFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 525
+    2017: GRAYROBINSON PA WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 588

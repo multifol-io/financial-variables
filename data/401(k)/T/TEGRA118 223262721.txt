@@ -1,37 +1,9 @@
 NJ : WARREN
-  TEGRA118 WEALTH SOLUTIONS, INC.  223262721
-   [512]
-    2021: TEGRA118 EMPLOYEE ASSISTANCE PROGRAM
-        Participants: 
-   [510]
-    2021: TEGRA118 ACCIDENT PLAN
-        Participants: 
-   [508]
-    2021: TEGRA118 LONG TERM DISABILITY PLAN
-        Participants: 
-   [507]
-    2021: TEGRA118 SHORT TERM DISABILITY PLAN
-        Participants: 
-   [506]
-    2021: TEGRA118 ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Participants: 
-   [505]
-    2021: TEGRA118 LIFE PLAN
-        Participants: 
-   [504]
-    2021: TEGRA118 VISION PLAN
-        Participants: 
-   [503]
-    2021: TEGRA118 DENTAL PLAN
-        Participants: 
-   [502]
-    2021: TEGRA118 PRESCRIPTION DRUG PLAN
-        Participants: 
-   [501]
-    2021: TEGRA118 HEALTH PLAN
-        Participants: 
+  TEGRA118  223262721
    [001]
     2022: TEGRA118 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2K2F2G2S2T2R3D 
         Participants: 0
         RecordKeeper: JOHN HANCOCK
         Available Investments:
@@ -52,6 +24,8 @@ NJ : WARREN
                  : BLACKROCK EQUITY INDEX FUND
                  : WILMINGTON TRUST CIT LORD ABBETT TO
     2021: TEGRA118 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2K2F2G2S2T2R3D 
         Participants: 369
         Assets: 103452318
         $/Participant: 280358
@@ -73,3 +47,53 @@ NJ : WARREN
                  : BLACKROCK EAFE EQUITY INDEX FUND
                  : BLACKROCK EQUITY INDEX FUND
                  : WILMINGTON TRUST CIT LORD ABBETT TO
+   [501]
+    2021: TEGRA118 HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [502]
+    2021: TEGRA118 PRESCRIPTION DRUG PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [503]
+    2021: TEGRA118 DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+   [504]
+    2021: TEGRA118 VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+   [505]
+    2021: TEGRA118 LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+   [506]
+    2021: TEGRA118 ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+   [507]
+    2021: TEGRA118 SHORT TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+   [508]
+    2021: TEGRA118 LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+   [510]
+    2021: TEGRA118 ACCIDENT PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+   [512]
+    2021: TEGRA118 EMPLOYEE ASSISTANCE PROGRAM
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 

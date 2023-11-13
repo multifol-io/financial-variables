@@ -1,22 +1,8 @@
 CA : EMERYVILLE
   SUTTER EAST BAY MEDICAL GROUP  201857625
-   [501]
-    2022: SUTTER EAST BAY MEDICAL GROUP HEALTH PLAN
-        Participants: 
-    2021: SUTTER EAST BAY MEDICAL GROUP HEALTH PLAN
-        Participants: 
-    2020: SUTTER EAST BAY MEDICAL GROUP HEALTH PLAN
-        Participants: 
-CA : LAFAYETTE
-    2019: SUTTER EAST BAY MEDICAL GROUP HEALTH PLAN
-        Participants: 
-    2018: EAST BAY PHYSICIANS MEDICAL GROUP HEALTH PLAN
-        Participants: 
-    2017: EAST BAY PHYSICIANS MEDICAL GROUP HEALTH PLAN
-        Participants: 
-CA : EMERYVILLE
-   [001]
     2022: SEBMG 401K PROFIT-SHARE PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2T3D 
         Participants: 475
         Assets: 160699063
         $/Participant: 338313
@@ -25,6 +11,8 @@ CA : EMERYVILLE
            - WELLS FARGO BANK, N.A.
                  : GALLIARD STBLE RTN M
     2021: SEBMG RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2T3D 
         Participants: 441
         Assets: 184609135
         $/Participant: 418614
@@ -34,6 +22,8 @@ CA : EMERYVILLE
                  : WF STABLE VALUE
 CA : LAFAYETTE
     2020: SEBMG RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2T3D 
         Participants: 457
         Assets: 150310700
         $/Participant: 328907
@@ -42,6 +32,8 @@ CA : LAFAYETTE
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE
     2019: SEBMG RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2T3D 
         Participants: 427
         Assets: 121246592
         $/Participant: 283949
@@ -50,6 +42,8 @@ CA : LAFAYETTE
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE
     2018: SEBMG RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2T3D 
         Participants: 406
         Assets: 93924205
         $/Participant: 231340
@@ -58,6 +52,8 @@ CA : LAFAYETTE
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE
     2017: EBPMG RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2T3D 
         Participants: 370
         Assets: 91729115
         $/Participant: 247916
@@ -65,3 +61,30 @@ CA : LAFAYETTE
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE
+CA : EMERYVILLE
+   [501]
+    2022: SUTTER EAST BAY MEDICAL GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2021: SUTTER EAST BAY MEDICAL GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: SUTTER EAST BAY MEDICAL GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+CA : LAFAYETTE
+    2019: SUTTER EAST BAY MEDICAL GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: EAST BAY PHYSICIANS MEDICAL GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2017: EAST BAY PHYSICIANS MEDICAL GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 

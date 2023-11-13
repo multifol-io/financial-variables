@@ -1,30 +1,8 @@
 NC : CHARLOTTE
   TRANSFORMANT HEALTHCARE SOLUTIONS, LLC  474356752
-   [503]
-    2019: GROUP HEALTH PLAN FOR EMPLOYEES OF TRANSFORMANT HEALTHCARE SOLUTIONS
-        Participants: 
-    2018: GROUP HEALTH PLAN FOR EMPLOYEES OF TRANSFORMANT HEALTHCARE SOLUTIONS
-        Participants: 
-    2017: GROUP HEALTH PLAN FOR EMPLOYEES OF TRANSFORMANT HEALTHCARE SOLUTIONS
-        Participants: 
-   [003]
-    2019: ORTHOCAROLINA CASH BALANCE PENSION PLAN
-        Participants: 122
-        Assets: 32007757
-        $/Participant: 262358
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-    2018: ORTHOCAROLINA CASH BALANCE PENSION PLAN
-        Participants: 119
-        Assets: 26093801
-        $/Participant: 219275
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-    2017: TRANSFORMANT HEALTHCARE SOLUTIONS, LLC CASH BALANCE PENSION PLAN
-        Participants: 123
-        Assets: 23979744
-        $/Participant: 194957
-        RecordKeeper: CHARLES SCHWAB BANK
-   [001]
     2019: ORTHOCAROLINA 401(K)AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K 
         Participants: 2539
         Assets: 266556506
         $/Participant: 104984
@@ -33,6 +11,8 @@ NC : CHARLOTTE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2018: ORTHOCAROLINA 401(K)AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K 
         Participants: 2315
         Assets: 213558053
         $/Participant: 92249
@@ -41,6 +21,8 @@ NC : CHARLOTTE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2017: TRANSFORMANT HEALTHCARE SOLUTIONS, LLC 401(K)PROFIT SHARING PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K 
         Participants: 2267
         Assets: 220208651
         $/Participant: 97136
@@ -48,3 +30,38 @@ NC : CHARLOTTE
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
+   [503]
+    2019: GROUP HEALTH PLAN FOR EMPLOYEES OF TRANSFORMANT HEALTHCARE SOLUTIONS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: GROUP HEALTH PLAN FOR EMPLOYEES OF TRANSFORMANT HEALTHCARE SOLUTIONS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: GROUP HEALTH PLAN FOR EMPLOYEES OF TRANSFORMANT HEALTHCARE SOLUTIONS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+   [003]
+    2019: ORTHOCAROLINA CASH BALANCE PENSION PLAN
+        Benefit Category: Other
+        Codes: 1C 
+        Participants: 122
+        Assets: 32007757
+        $/Participant: 262358
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+    2018: ORTHOCAROLINA CASH BALANCE PENSION PLAN
+        Benefit Category: Other
+        Codes: 1C 
+        Participants: 119
+        Assets: 26093801
+        $/Participant: 219275
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+    2017: TRANSFORMANT HEALTHCARE SOLUTIONS, LLC CASH BALANCE PENSION PLAN
+        Benefit Category: Other
+        Codes: 1C 
+        Participants: 123
+        Assets: 23979744
+        $/Participant: 194957
+        RecordKeeper: CHARLES SCHWAB BANK

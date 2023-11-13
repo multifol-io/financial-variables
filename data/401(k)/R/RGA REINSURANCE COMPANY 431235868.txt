@@ -1,60 +1,9 @@
 MO : CHESTERFIELD
   RGA REINSURANCE COMPANY  431235868
-   [502]
-    2022: RGA REINSURANCE COMPANY WELFARE BENEFITS PLAN
-        Participants: 
-    2021: RGA REINSURANCE COMPANY WELFARE BENEFITS PLAN
-        Participants: 
-    2020: RGA REINSURANCE COMPANY WELFARE BENEFITS PLAN
-        Participants: 
-    2019: RGA REINSURANCE COMPANY WELFARE BENEFITS PLAN
-        Participants: 
-    2018: RGA REINSURANCE COMPANY WELFARE BENEFITS PLAN
-        Participants: 
-    2017: RGA REINSURANCE COMPANY WELFARE BENEFITS PLAN
-        Participants: 
-   [003]
-    2020: AURORA EMPLOYEE SAVINGS PLAN
-        Participants: 0
-    2019: AURORA EMPLOYEE SAVINGS PLAN
-        Participants: 14
-    2018: AURORA EMPLOYEE SAVINGS PLAN
-        Participants: 19
-    2017: AURORA EMPLOYEE SAVINGS PLAN
-        Participants: 19
-   [002]
-    2022: RGA REINSURANCE COMPANY PERFORMANCE PENSION PLAN
-        Participants: 1749
-        Assets: 171143455
-        $/Participant: 97852
-        RecordKeeper: CAPITAL STRATEGIES INVESTMENT GROUP
-    2021: RGA REINSURANCE COMPANY PERFORMANCE PENSION PLAN
-        Participants: 1799
-        Assets: 185930285
-        $/Participant: 103352
-        RecordKeeper: CAPITAL STRATEGIES INVESTMENT GROUP
-    2020: RGA REINSURANCE COMPANY PERFORMANCE PENSION PLAN
-        Participants: 1777
-        Assets: 171816120
-        $/Participant: 96688
-        RecordKeeper: JOHN HANCOCK
-    2019: RGA REINSURANCE COMPANY PERFORMANCE PENSION PLAN
-        Participants: 1673
-        Assets: 146876879
-        $/Participant: 87792
-        RecordKeeper: JOHN HANCOCK
-    2018: RGA REINSURANCE COMPANY PERFORMANCE PENSION PLAN
-        Participants: 1505
-        Assets: 115060291
-        $/Participant: 76452
-        RecordKeeper: JOHN HANCOCK RETIREMENT PLAN SRVCS
-    2017: RGA REINSURANCE COMPANY PERFORMANCE PENSION PLAN
-        Participants: 1379
-        Assets: 113235389
-        $/Participant: 82114
-        RecordKeeper: JOHN HANCOCK RETIREMENT PLAN SRVCS
    [001]
     2022: RGA SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H3D 
         Participants: 2258
         Assets: 467603785
         $/Participant: 207087
@@ -75,6 +24,8 @@ MO : CHESTERFIELD
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INC
     2021: RGA SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
         Participants: 2117
         Assets: 545966555
         $/Participant: 257896
@@ -94,6 +45,8 @@ MO : CHESTERFIELD
            - NEW YORK LIFE INSURANCE COMPANY
                  : NEW YORK LIFE ANCHOR ACCOUNT
     2020: RGA SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T2S3H 
         Participants: 1958
         Assets: 464136850
         $/Participant: 237046
@@ -113,6 +66,8 @@ MO : CHESTERFIELD
            - NEW YORK LIFE INSURANCE COMPANY
                  : NEW YORK LIFE ANCHOR ACCOUNT
     2019: RGA SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T2S 
         Participants: 1802
         Assets: 364366730
         $/Participant: 202201
@@ -134,6 +89,8 @@ MO : CHESTERFIELD
            - NEW YORK LIFE INSURANCE COMPANY
                  : NEW YORK LIFE ANCHOR ACCOUNT
     2018: RGA SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T2S 
         Participants: 1628
         Assets: 278786218
         $/Participant: 171244
@@ -155,6 +112,8 @@ MO : CHESTERFIELD
            - NEW YORK LIFE INSURANCE COMPANY
                  : NEW YORK LIFE ANCHOR ACCOUNT
     2017: RGA SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T2S 
         Participants: 1489
         Assets: 281716075
         $/Participant: 189198
@@ -175,3 +134,88 @@ MO : CHESTERFIELD
                  : JPMCB SMARTRETIREMENT INCOME FUND
            - NEW YORK LIFE INSURANCE COMPANY
                  : NEW YORK LIFE ANCHOR ACCOUNT
+   [003]
+    2020: AURORA EMPLOYEE SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3H3D2E 
+        Participants: 0
+    2019: AURORA EMPLOYEE SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
+        Participants: 14
+    2018: AURORA EMPLOYEE SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D3H2E 
+        Participants: 19
+    2017: AURORA EMPLOYEE SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
+        Participants: 19
+   [502]
+    2022: RGA REINSURANCE COMPANY WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4Q
+        Participants: 
+    2021: RGA REINSURANCE COMPANY WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4Q
+        Participants: 
+    2020: RGA REINSURANCE COMPANY WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4Q
+        Participants: 
+    2019: RGA REINSURANCE COMPANY WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4Q
+        Participants: 
+    2018: RGA REINSURANCE COMPANY WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2017: RGA REINSURANCE COMPANY WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+   [002]
+    2022: RGA REINSURANCE COMPANY PERFORMANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C1A3H 
+        Participants: 1749
+        Assets: 171143455
+        $/Participant: 97852
+        RecordKeeper: CAPITAL STRATEGIES INVESTMENT GROUP
+    2021: RGA REINSURANCE COMPANY PERFORMANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C1A3H 
+        Participants: 1799
+        Assets: 185930285
+        $/Participant: 103352
+        RecordKeeper: CAPITAL STRATEGIES INVESTMENT GROUP
+    2020: RGA REINSURANCE COMPANY PERFORMANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C1A3H 
+        Participants: 1777
+        Assets: 171816120
+        $/Participant: 96688
+        RecordKeeper: JOHN HANCOCK
+    2019: RGA REINSURANCE COMPANY PERFORMANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C1A 
+        Participants: 1673
+        Assets: 146876879
+        $/Participant: 87792
+        RecordKeeper: JOHN HANCOCK
+    2018: RGA REINSURANCE COMPANY PERFORMANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C1A 
+        Participants: 1505
+        Assets: 115060291
+        $/Participant: 76452
+        RecordKeeper: JOHN HANCOCK RETIREMENT PLAN SRVCS
+    2017: RGA REINSURANCE COMPANY PERFORMANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C1A 
+        Participants: 1379
+        Assets: 113235389
+        $/Participant: 82114
+        RecordKeeper: JOHN HANCOCK RETIREMENT PLAN SRVCS

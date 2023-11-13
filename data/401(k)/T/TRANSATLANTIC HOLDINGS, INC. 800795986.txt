@@ -1,57 +1,9 @@
 NY : NEW YORK
   TRANSATLANTIC HOLDINGS, INC.  800795986
-   [501]
-    2022: TRANSATLANTIC GROUP HEALTH PLANS
-        Participants: 
-    2021: TRANSATLANTIC GROUP HEALTH PLANS
-        Participants: 
-    2020: TRANSATLANTIC GROUP HEALTH PLANS
-        Participants: 
-    2019: TRANSATLANTIC GROUP HEALTH PLANS
-        Participants: 
-    2018: TRANSATLANTIC GROUP HEALTH PLANS
-        Participants: 
-    2017: TRANSATLANTIC GROUP HEALTH PLANS
-        Participants: 
-   [003]
-    2022: TRANSATLANTIC HOLDINGS, INC. FROZEN PENSION PLAN
-        Participants: 437
-        Assets: 43665523
-        $/Participant: 99921
-        Service Providers:
-           - VANGUARD :  (Trustee(bank, trust company, or similar) | Investment management fees paid directly by plan | Investment advisory(plan) | Securities brokerage commissions and fees | Investment management)
-    2021: TRANSATLANTIC HOLDINGS, INC. FROZEN PENSION PLAN
-        Participants: 443
-        Assets: 60310246
-        $/Participant: 136140
-        Service Providers:
-           - VANGUARD :  (Trustee(bank, trust company, or similar) | Investment management fees paid directly by plan | Investment advisory(plan) | Securities brokerage commissions and fees | Investment management)
-    2020: TRANSATLANTIC HOLDINGS, INC. FROZEN PENSION PLAN
-        Participants: 445
-        Assets: 63857745
-        $/Participant: 143500
-        Service Providers:
-           - VANGUARD :  (Trustee(bank, trust company, or similar) | Investment management fees paid directly by plan | Investment advisory(plan) | Securities brokerage commissions and fees | Investment management)
-    2019: TRANSATLANTIC HOLDINGS, INC. FROZEN PENSION PLAN
-        Participants: 447
-        Assets: 56904750
-        $/Participant: 127303
-        Service Providers:
-           - VANGUARD :  (Trustee(bank, trust company, or similar) | Investment management fees paid directly by plan | Investment advisory(plan) | Securities brokerage commissions and fees | Investment management)
-    2018: TRANSATLANTIC HOLDINGS, INC. FROZEN PENSION PLAN
-        Participants: 451
-        Assets: 49070129
-        $/Participant: 108802
-        Service Providers:
-           - VANGUARD :  (Trustee(bank, trust company, or similar) | Investment management fees paid directly by plan | Investment advisory(plan) | Securities brokerage commissions and fees | Investment management)
-    2017: TRANSATLANTIC HOLDINGS, INC. FROZEN PENSION PLAN
-        Participants: 452
-        Assets: 53567485
-        $/Participant: 118512
-        Service Providers:
-           - VANGUARD :  (Trustee(bank, trust company, or similar) | Investment management fees paid directly by plan | Investment advisory(plan) | Securities brokerage commissions and fees | Investment management)
    [002]
     2022: TRANSRE INCENTIVE RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H2S 
         Participants: 567
         Assets: 180934482
         $/Participant: 319108
@@ -60,6 +12,8 @@ NY : NEW YORK
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2021: TRANSRE INCENTIVE RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H2S 
         Participants: 538
         Assets: 214089274
         $/Participant: 397935
@@ -68,6 +22,8 @@ NY : NEW YORK
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2020: TRANSRE INCENTIVE RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H2S 
         Participants: 530
         Assets: 183629417
         $/Participant: 346470
@@ -76,6 +32,8 @@ NY : NEW YORK
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2019: TRANSRE INCENTIVE RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H2S 
         Participants: 530
         Assets: 156704675
         $/Participant: 295669
@@ -84,6 +42,8 @@ NY : NEW YORK
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2018: TRANSRE INCENTIVE RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H2S 
         Participants: 520
         Assets: 130215423
         $/Participant: 250414
@@ -92,6 +52,8 @@ NY : NEW YORK
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2017: TRANSRE INCENTIVE RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H2S 
         Participants: 489
         Assets: 130411163
         $/Participant: 266689
@@ -99,8 +61,35 @@ NY : NEW YORK
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
+   [501]
+    2022: TRANSATLANTIC GROUP HEALTH PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2021: TRANSATLANTIC GROUP HEALTH PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: TRANSATLANTIC GROUP HEALTH PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: TRANSATLANTIC GROUP HEALTH PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: TRANSATLANTIC GROUP HEALTH PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2017: TRANSATLANTIC GROUP HEALTH PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
    [001]
     2022: TRANSRE RETIREMENT ACCUMULATION PLAN
+        Benefit Category: Other
+        Codes: 2E2F2G2T3H 
         Participants: 542
         Assets: 34424324
         $/Participant: 63513
@@ -109,6 +98,8 @@ NY : NEW YORK
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2021: TRANSRE RETIREMENT ACCUMULATION PLAN
+        Benefit Category: Other
+        Codes: 2E2F2G2T3H 
         Participants: 527
         Assets: 41687201
         $/Participant: 79102
@@ -117,6 +108,8 @@ NY : NEW YORK
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2020: TRANSRE RETIREMENT ACCUMULATION PLAN
+        Benefit Category: Other
+        Codes: 2E2F2G2T3H 
         Participants: 525
         Assets: 38292867
         $/Participant: 72938
@@ -125,6 +118,8 @@ NY : NEW YORK
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2019: TRANSRE RETIREMENT ACCUMULATION PLAN
+        Benefit Category: Other
+        Codes: 2E2F2G2T3H 
         Participants: 513
         Assets: 33499217
         $/Participant: 65300
@@ -133,6 +128,8 @@ NY : NEW YORK
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2018: TRANSRE RETIREMENT ACCUMULATION PLAN
+        Benefit Category: Other
+        Codes: 2E2F2G2T3H 
         Participants: 479
         Assets: 26623597
         $/Participant: 55581
@@ -141,6 +138,8 @@ NY : NEW YORK
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2017: TRANSRE RETIREMENT ACCUMULATION PLAN
+        Benefit Category: Other
+        Codes: 2E2F2G2T3H 
         Participants: 455
         Assets: 25800695
         $/Participant: 56704
@@ -148,3 +147,52 @@ NY : NEW YORK
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
+   [003]
+    2022: TRANSATLANTIC HOLDINGS, INC. FROZEN PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
+        Participants: 437
+        Assets: 43665523
+        $/Participant: 99921
+        Service Providers:
+           - VANGUARD :  (Trustee(bank, trust company, or similar) | Investment management fees paid directly by plan | Investment advisory(plan) | Securities brokerage commissions and fees | Investment management)
+    2021: TRANSATLANTIC HOLDINGS, INC. FROZEN PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
+        Participants: 443
+        Assets: 60310246
+        $/Participant: 136140
+        Service Providers:
+           - VANGUARD :  (Trustee(bank, trust company, or similar) | Investment management fees paid directly by plan | Investment advisory(plan) | Securities brokerage commissions and fees | Investment management)
+    2020: TRANSATLANTIC HOLDINGS, INC. FROZEN PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
+        Participants: 445
+        Assets: 63857745
+        $/Participant: 143500
+        Service Providers:
+           - VANGUARD :  (Trustee(bank, trust company, or similar) | Investment management fees paid directly by plan | Investment advisory(plan) | Securities brokerage commissions and fees | Investment management)
+    2019: TRANSATLANTIC HOLDINGS, INC. FROZEN PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
+        Participants: 447
+        Assets: 56904750
+        $/Participant: 127303
+        Service Providers:
+           - VANGUARD :  (Trustee(bank, trust company, or similar) | Investment management fees paid directly by plan | Investment advisory(plan) | Securities brokerage commissions and fees | Investment management)
+    2018: TRANSATLANTIC HOLDINGS, INC. FROZEN PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
+        Participants: 451
+        Assets: 49070129
+        $/Participant: 108802
+        Service Providers:
+           - VANGUARD :  (Trustee(bank, trust company, or similar) | Investment management fees paid directly by plan | Investment advisory(plan) | Securities brokerage commissions and fees | Investment management)
+    2017: TRANSATLANTIC HOLDINGS, INC. FROZEN PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
+        Participants: 452
+        Assets: 53567485
+        $/Participant: 118512
+        Service Providers:
+           - VANGUARD :  (Trustee(bank, trust company, or similar) | Investment management fees paid directly by plan | Investment advisory(plan) | Securities brokerage commissions and fees | Investment management)

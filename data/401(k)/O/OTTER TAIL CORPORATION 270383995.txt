@@ -1,79 +1,9 @@
-ND : FARGO
-  OTTER TAIL CORPORATION  270383995
-   [506]
-    2022: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
-        Participants: 
-    2021: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
-        Participants: 
-    2020: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
-        Participants: 
-    2019: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
-        Participants: 
-    2018: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
-        Participants: 
-    2017: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
-        Participants: 
-MN : FERGUS FALLS
-   [502]
-    2022: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
-        Participants: 2485
-    2021: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
-        Participants: 2533
-    2020: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
-        Participants: 2222
-    2019: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
-        Participants: 2360
-    2018: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
-        Participants: 2434
-    2017: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
-        Participants: 2229
-ND : FARGO
-   [501]
-    2022: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
-        Participants: 
-    2021: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
-        Participants: 
-    2020: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
-        Participants: 
-    2019: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
-        Participants: 
-    2018: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
-        Participants: 
-    2017: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
-        Participants: 
-   [012]
-    2022: OTTER TAIL CORP EMPLOYEE STOCK OWNERSHIP
-        Participants: 1134
-        Assets: 44353279
-        $/Participant: 39112
-    2021: OTTER TAIL CORP EMPLOYEE STOCK OWNERSHIP
-        Participants: 1111
-        Assets: 58360679
-        $/Participant: 52529
-    2020: OTTER TAIL CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 1079
-        Assets: 39558500
-        $/Participant: 36662
-        Service Providers:
-           - WELLS FARGO BANK, N.A. : RECORDKEEPER/BOOKKEEPER ()
-    2019: OTTER TAIL CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 998
-        Assets: 49352215
-        $/Participant: 49451
-        RecordKeeper: WELLS FARGO BANK, N.A.
-    2018: OTTER TAIL CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 991
-        Assets: 54860858
-        $/Participant: 55359
-        RecordKeeper: WELLS FARGO BANK, N.A.
-    2017: OTTER TAIL CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 982
-        Assets: 53100148
-        $/Participant: 54073
-        RecordKeeper: WELLS FARGO BANK, N.A.
 IL : MARQUETTE HEIGHTS
+  OTTER TAIL CORPORATION  270383995
    [011]
     2022: OTTER TAIL CORPORATION RETIREMENT SAVINGS
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 3596
         Assets: 323152263
         $/Participant: 89864
@@ -98,6 +28,8 @@ IL : MARQUETTE HEIGHTS
            - STATE STREET GLOBAL ADVISORS
                  : SSGA TARGET RET 2065 NL K FUND
     2021: OTTER TAIL CORPORATION RETIREMENT SAVINGS
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 3638
         Assets: 385486351
         $/Participant: 105961
@@ -123,6 +55,8 @@ IL : MARQUETTE HEIGHTS
                  : SSGA TARGET RET 2065 NL K FUND
 ND : FARGO
     2020: OTTER TAIL CORPORATION RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 3269
         Assets: 341522308
         $/Participant: 104473
@@ -148,6 +82,8 @@ ND : FARGO
            - WELLS FARGO
                  : WELLS FARGO STABLE RETRN N FD
     2019: OTTER TAIL CORPORATION RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 3442
         Assets: 297042282
         $/Participant: 86299
@@ -171,6 +107,8 @@ ND : FARGO
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE RETURN FUND N
     2018: OTTER TAIL CORPORATION RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 3516
         Assets: 246633316
         $/Participant: 70145
@@ -194,6 +132,8 @@ ND : FARGO
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE RETURN FUND N
     2017: OTTER TAIL CORPORATION RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 3337
         Assets: 269830456
         $/Participant: 80860
@@ -217,9 +157,128 @@ ND : FARGO
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE RETURN FUND N
                  : WELLS FARGO STABLE RETURN FUND N25
+   [012]
+    2022: OTTER TAIL CORP EMPLOYEE STOCK OWNERSHIP
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2G2H2I2O2T3I 
+        Participants: 1134
+        Assets: 44353279
+        $/Participant: 39112
+    2021: OTTER TAIL CORP EMPLOYEE STOCK OWNERSHIP
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2G2H2I2O2T3I 
+        Participants: 1111
+        Assets: 58360679
+        $/Participant: 52529
+    2020: OTTER TAIL CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2G2I2O2T 
+        Participants: 1079
+        Assets: 39558500
+        $/Participant: 36662
+        Service Providers:
+           - WELLS FARGO BANK, N.A. : RECORDKEEPER/BOOKKEEPER ()
+    2019: OTTER TAIL CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2O2T 
+        Participants: 998
+        Assets: 49352215
+        $/Participant: 49451
+        RecordKeeper: WELLS FARGO BANK, N.A.
+    2018: OTTER TAIL CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2O2T 
+        Participants: 991
+        Assets: 54860858
+        $/Participant: 55359
+        RecordKeeper: WELLS FARGO BANK, N.A.
+    2017: OTTER TAIL CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2O2T 
+        Participants: 982
+        Assets: 53100148
+        $/Participant: 54073
+        RecordKeeper: WELLS FARGO BANK, N.A.
+   [501]
+    2022: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2021: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2017: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+   [506]
+    2022: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4L
+        Participants: 
+    2021: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4L
+        Participants: 
+    2020: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4L
+        Participants: 
+    2019: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4L
+        Participants: 
+    2018: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4L
+        Participants: 
+    2017: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B
+        Participants: 
 MN : FERGUS FALLS
+   [502]
+    2022: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 2485
+    2021: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 2533
+    2020: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 2222
+    2019: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 2360
+    2018: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 2434
+    2017: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 2229
    [006]
     2022: OTTER TAIL CORPORATION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 1284
         Assets: 315223261
         $/Participant: 245500
@@ -228,6 +287,8 @@ MN : FERGUS FALLS
            - SEI TRUST COMPANY
                  : SEI ENERGY DEBT
     2021: OTTER TAIL CORPORATION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 1302
         Assets: 408613241
         $/Participant: 313835
@@ -236,6 +297,8 @@ MN : FERGUS FALLS
            - SEI TRUST COMPANY
                  : SEI ENERGY DEBT
     2020: OTTER TAIL CORPORATION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 1319
         Assets: 371996114
         $/Participant: 282028
@@ -244,6 +307,8 @@ MN : FERGUS FALLS
            - MERCER :  (Actuarial)
            - EIDE BAILLY LLP :  (Accounting(including auditing))
     2019: OTTER TAIL CORPORATION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 1336
         Assets: 342652072
         $/Participant: 256476
@@ -252,6 +317,8 @@ MN : FERGUS FALLS
            - MERCER :  (Actuarial)
            - SEI INVESTMENTS COMPANY :  (Investment management | Investment management fees paid directly by plan | Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Other services | Investment management fees paid indirectly by plan | Trustee(discretionary) | Float revenue)
     2018: OTTER TAIL CORPORATION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 1389
         Assets: 293487127
         $/Participant: 211293
@@ -260,6 +327,8 @@ MN : FERGUS FALLS
            - MERCER :  (Actuarial)
            - EIDE BAILLY LLP :  (Accounting(including auditing))
     2017: OTTER TAIL CORPORATION PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 1408
         Assets: 307022482
         $/Participant: 218055

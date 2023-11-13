@@ -1,20 +1,9 @@
 MA : BOSTON
   LOOMIS SAYLES AND COMPANY, LP  043200030
-   [501]
-    2022: LOOMIS SAYLES AND COMPANY, LP WELFARE BENEFIT PLAN
-        Participants: 
-    2021: LOOMIS SAYLES AND COMPANY, LP WELFARE BENEFIT PLAN
-        Participants: 
-    2020: LOOMIS SAYLES AND COMPANY, LP WELFARE BENEFIT PLAN
-        Participants: 
-    2019: LOOMIS SAYLES AND COMPANY, LP WELFARE BENEFIT PLAN
-        Participants: 
-    2018: LOOMIS SAYLES AND COMPANY, LP WELFARE BENEFIT PLAN
-        Participants: 
-    2017: LOOMIS SAYLES AND COMPANY, LP WELFARE BENEFIT PLAN
-        Participants: 
    [002]
     2022: LOOMIS, SAYLES & COMPANY, L.P. EMPLOYEES' PROFIT SHARING RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2S2T3H 
         Participants: 998
         Assets: 490347059
         $/Participant: 491329
@@ -25,6 +14,8 @@ MA : BOSTON
                  : LOOMIS SAYLES GLOBAL CIT
                  : LOOMIS SAYLES SM/MIDCAP GROWTH TRST
     2021: LOOMIS, SAYLES & COMPANY, L.P. EMPLOYEES' PROFIT SHARING RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2S2T3H 
         Participants: 955
         Assets: 588900149
         $/Participant: 616649
@@ -35,6 +26,8 @@ MA : BOSTON
                  : LOOMIS SAYLES GLOBAL CIT
                  : LOOMIS SAYLES SM/MIDCAP GROWTH TRST
     2020: LOOMIS, SAYLES & COMPANY, L.P. EMPLOYEES' PROFIT SHARING RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2S2T3H 
         Participants: 912
         Assets: 523662788
         $/Participant: 574191
@@ -45,6 +38,8 @@ MA : BOSTON
                  : LOOMIS SAYLES GLOBAL CIT
                  : LOOMIS SAYLES SM/MIDCAP GROWTH TRST
     2019: LOOMIS, SAYLES & COMPANY, L.P. EMPLOYEES' PROFIT SHARING RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2S2T3H 
         Participants: 910
         Assets: 460559913
         $/Participant: 506109
@@ -55,6 +50,8 @@ MA : BOSTON
                  : LOOMIS SAYLES GLOBAL CIT
                  : LOOMIS SAYLES SM/MIDCAP GROWTH TRST
     2018: LOOMIS, SAYLES & COMPANY, L.P. EMPLOYEES' PROFIT SHARING RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2S2T3H 
         Participants: 845
         Assets: 380309408
         $/Participant: 450070
@@ -66,6 +63,8 @@ MA : BOSTON
            - LOOMIS SAYLES TRUST COMPANY
                  : LOOMIS SAYLES GLOBAL BD CIT C
     2017: LOOMIS, SAYLES & COMPANY, L.P. EMPLOYEES' PROFIT SHARING RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2S2T3H 
         Participants: 847
         Assets: 395266200
         $/Participant: 466666
@@ -76,8 +75,35 @@ MA : BOSTON
                  : LOOMIS SAYLES LG CAP CORE TRST
            - LOOMIS SAYLES TRUST COMPANY
                  : LOOMIS SAYLES GLOBAL BD CIT C
+   [501]
+    2022: LOOMIS SAYLES AND COMPANY, LP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2021: LOOMIS SAYLES AND COMPANY, LP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L
+        Participants: 
+    2020: LOOMIS SAYLES AND COMPANY, LP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L
+        Participants: 
+    2019: LOOMIS SAYLES AND COMPANY, LP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L
+        Participants: 
+    2018: LOOMIS SAYLES AND COMPANY, LP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L
+        Participants: 
+    2017: LOOMIS SAYLES AND COMPANY, LP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L
+        Participants: 
    [001]
     2022: LOOMIS-SAYLES FUNDED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 433
         Assets: 127335263
         $/Participant: 294076
@@ -88,6 +114,8 @@ MA : BOSTON
                  : NHIT LONG DURATION CORP BOND TRUST
                  : NHIT US HIGH YIELD BOND
     2021: LOOMIS-SAYLES FUNDED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 435
         Assets: 192708333
         $/Participant: 443007
@@ -99,6 +127,8 @@ MA : BOSTON
                  : NHIT U.S. TREASURY STRIPS TRUST
                  : NHIT US HIGH YIELD BOND
     2020: LOOMIS-SAYLES FUNDED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 440
         Assets: 197500467
         $/Participant: 448864
@@ -110,6 +140,8 @@ MA : BOSTON
                  : NHIT U.S. TREASURY STRIPS TRUST
                  : NHIT US HIGH YIELD BOND
     2019: LOOMIS-SAYLES FUNDED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 450
         Assets: 167393796
         $/Participant: 371986
@@ -120,6 +152,8 @@ MA : BOSTON
                  : NHIT U.S. TREASURY STRIPS TRUST
                  : NHIT US HIGH YIELD BOND
     2018: LOOMIS-SAYLES FUNDED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 456
         Assets: 140437758
         $/Participant: 307977
@@ -131,6 +165,8 @@ MA : BOSTON
                  : NHIT U.S. TREASURY STRIPS TRUST
                  : NHIT US HIGH YIELD BOND
     2017: LOOMIS-SAYLES FUNDED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 459
         Assets: 157703728
         $/Participant: 343581

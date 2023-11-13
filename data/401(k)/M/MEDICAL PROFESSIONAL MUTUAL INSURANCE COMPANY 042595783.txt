@@ -1,20 +1,77 @@
 MA : BOSTON
   MEDICAL PROFESSIONAL MUTUAL INSURANCE COMPANY  042595783
+   [002]
+    2022: COVERYS 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2K2E2S2T3H2F2G2J3D 
+        Participants: 756
+        Assets: 149456793
+        $/Participant: 197694
+        RecordKeeper: PLANTE MORAN
+    2021: COVERYS 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2K2E2S2T3H3D2F2G2J 
+        Participants: 723
+        Assets: 192367682
+        $/Participant: 266068
+        RecordKeeper: PLANTE MORAN
+    2020: COVERYS 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2E2S2T3H3D 
+        Participants: 716
+        Assets: 173153677
+        $/Participant: 241834
+        RecordKeeper: STRATEGIC ADVISORS, INC.
+    2019: COVERYS 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
+        Participants: 707
+        Assets: 151304269
+        $/Participant: 214008
+        RecordKeeper: STRATEGIC ADVISORS, INC.
+    2018: COVERYS 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
+        Participants: 706
+        Assets: 120456911
+        $/Participant: 170618
+        RecordKeeper: STRATEGIC ADVISORS, INC.
+    2017: COVERYS 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
+        Participants: 602
+        Assets: 121417796
+        $/Participant: 201690
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
    [502]
     2022: MEDICAL PROFESSIONAL MUTUAL INSURANCE COMPANY EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2021: MEDICAL PROFESSIONAL MUTUAL INSURANCE COMPANY EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2020: MEDICAL PROFESSIONAL MUTUAL INSURANCE COMPANY EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2019: COVERYS GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2018: COVERYS GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
         Participants: 
     2017: COVERYS GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
         Participants: 
    [004]
     2021: FINCOR HOLDINGS, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 0
         Service Providers:
            - FID MGMT TRUST CO : TRUSTEE (Trustee(directed) | Other investment fees and expenses | Other fees)
@@ -27,6 +84,8 @@ MA : BOSTON
                  : FIAM LONG U.S. TREASURY STRIPS
                  : FIAM SHORT DURATION COMM PL
     2020: FINCOR HOLDINGS, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 152
         Assets: 24009761
         $/Participant: 157958
@@ -40,6 +99,8 @@ MA : BOSTON
                  : FIAM LONG U.S. TREASURY STRIPS
                  : FIAM SHORT DURATION COMM PL
     2019: FINCOR HOLDINGS, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 198
         Assets: 26677896
         $/Participant: 134736
@@ -52,39 +113,10 @@ MA : BOSTON
                  : FIAM LONG DURATION COMM PL
                  : FIAM LONG U.S. TREASURY STRIPS
     2018: FINCOR HOLDINGS, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 200
         Assets: 22485928
         $/Participant: 112429
         Service Providers:
            - FID MGMT TRUST CO : TRUSTEE (Trustee(directed) | Other investment fees and expenses | Other fees)
-   [002]
-    2022: COVERYS 401(K) RETIREMENT PLAN
-        Participants: 756
-        Assets: 149456793
-        $/Participant: 197694
-        RecordKeeper: PLANTE MORAN
-    2021: COVERYS 401(K) RETIREMENT PLAN
-        Participants: 723
-        Assets: 192367682
-        $/Participant: 266068
-        RecordKeeper: PLANTE MORAN
-    2020: COVERYS 401(K) RETIREMENT PLAN
-        Participants: 716
-        Assets: 173153677
-        $/Participant: 241834
-        RecordKeeper: STRATEGIC ADVISORS, INC.
-    2019: COVERYS 401(K) RETIREMENT PLAN
-        Participants: 707
-        Assets: 151304269
-        $/Participant: 214008
-        RecordKeeper: STRATEGIC ADVISORS, INC.
-    2018: COVERYS 401(K) RETIREMENT PLAN
-        Participants: 706
-        Assets: 120456911
-        $/Participant: 170618
-        RecordKeeper: STRATEGIC ADVISORS, INC.
-    2017: COVERYS 401(K) RETIREMENT PLAN
-        Participants: 602
-        Assets: 121417796
-        $/Participant: 201690
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL

@@ -1,52 +1,90 @@
 MS : JACKSON
   SOUTHERN FARM BUREAU LIFE INSURANCE COMPANY  640283583
-   [525]
-    2022: SOUTHERN FARM BUREAU GROUP HEALTH AND MEDICAL INSURANCE PLAN FOR EMPLOYEES
-        Participants: 623
-    2021: SOUTHERN FARM BUREAU GROUP HEALTH AND MEDICAL INSURANCE PLAN FOR EMPLOYEES
-        Participants: 662
-    2020: SOUTHERN FARM BUREAU GROUP HEALTH AND MEDICAL INSURANCE PLAN FOR EMPLOYEES
-        Participants: 753
-    2019: SOUTHERN FARM BUREAU GROUP HEALTH AND MEDICAL INSURANCE PLAN FOR EMPLOYEES
-        Participants: 668
-    2018: SOUTHERN FARM BUREAU GROUP HEALTH AND MEDICAL INSURANCE PLAN FOR EMPLOYEES
-        Participants: 663
-   [504]
-    2021: SOUTHERN FARM BUREAU LIFE INS CO. EMPLOYEES AD&D PLAN
-        Participants: 600
-    2020: SOUTHERN FARM BUREAU LIFE INS CO. EMPLOYEES AD&D PLAN
-        Participants: 629
-    2019: SOUTHERN FARM BUREAU LIFE INS CO. EMPLOYEES AD&D PLAN
-        Participants: 654
-    2018: SOUTHERN FARM BUREAU LIFE INS. CO. EMPLOYEES AD&D PLAN
-        Participants: 652
-    2017: SOUTHERN FARM BUREAU LIFE INS. CO. EMPLOYEES AD&D PLAN
-        Participants: 640
    [503]
     2019: SOUTHERN FARM BUREAU LIFE INS. CO. FLEXIBLE BENEFIT CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 181
     2018: SOUTHERN FARM BUREAU LIFE INS. CO. FLEXIBLE BENEFIT CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 176
     2017: SOUTHERN FARM BUREAU GROUP HEALTH AND MEDICAL INSURANCE PLAN FOR EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4D
         Participants: 629
         Service Providers:
            - DELTA DENTAL INSURANCE COMPANY : CONTACT ADMINISTRATOR (Claims processing)
            - MEA CARES : CONTRACT ADMINISTRATOR (Employee(plan))
            - UMR : CONTRACT ADMINISTRATOR (Claims processing)
            - AMERICAN FIDELITY ASSURANCE COMPANY : CONTRACT ADMINISTRATOR (Custodial(securities))
+   [525]
+    2022: SOUTHERN FARM BUREAU GROUP HEALTH AND MEDICAL INSURANCE PLAN FOR EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 623
+    2021: SOUTHERN FARM BUREAU GROUP HEALTH AND MEDICAL INSURANCE PLAN FOR EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 662
+    2020: SOUTHERN FARM BUREAU GROUP HEALTH AND MEDICAL INSURANCE PLAN FOR EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 753
+    2019: SOUTHERN FARM BUREAU GROUP HEALTH AND MEDICAL INSURANCE PLAN FOR EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 668
+    2018: SOUTHERN FARM BUREAU GROUP HEALTH AND MEDICAL INSURANCE PLAN FOR EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 663
    [501]
     2021: SOUTHERN FARM BUREAU INSURANCE TRUST
+        Benefit Category: Other
+        Codes:  4B
         Participants: 958
     2020: SOUTHERN FARM BUREAU INSURANCE TRUST
+        Benefit Category: Other
+        Codes:  4B
         Participants: 952
     2019: SOUTHERN FARM BUREAU INSURANCE TRUST
+        Benefit Category: Other
+        Codes:  4B
         Participants: 934
     2018: SOUTHERN FARM BUREAU INSURANCE TRUST
+        Benefit Category: Other
+        Codes:  4B
         Participants: 951
     2017: SOUTHERN FARM BUREAU INSURANCE TRUST
+        Benefit Category: Other
+        Codes:  4B
         Participants: 931
+   [504]
+    2021: SOUTHERN FARM BUREAU LIFE INS CO. EMPLOYEES AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 600
+    2020: SOUTHERN FARM BUREAU LIFE INS CO. EMPLOYEES AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 629
+    2019: SOUTHERN FARM BUREAU LIFE INS CO. EMPLOYEES AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 654
+    2018: SOUTHERN FARM BUREAU LIFE INS. CO. EMPLOYEES AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 652
+    2017: SOUTHERN FARM BUREAU LIFE INS. CO. EMPLOYEES AD&D PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 640
    [001]
     2021: SFB LIFE INSURANCE CO RETIREMENT PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 940
         Assets: 234149621
         $/Participant: 249095
@@ -64,6 +102,8 @@ MS : JACKSON
                  : SANDS CAPITAL INTERNATIONAL GROWTH
                  : TCW LONG DURATION GOVT/CREDIT FUND
     2020: SFB LIFE INSURANCE CO RETIREMENT PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 950
         Assets: 295156791
         $/Participant: 310691
@@ -82,6 +122,8 @@ MS : JACKSON
                  : SANDS CAPITAL INTERNATIONAL GROWTH
                  : TCW LONG DURATION GOVERNMENT/CREDIT
     2019: SFB LIFE INSURANCE CO RETIREMENT PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 969
         Assets: 264930905
         $/Participant: 273406
@@ -99,6 +141,8 @@ MS : JACKSON
            - SEI TRUST COMPANY
                  : TCW LONG DURATION GOVERNMENT/CREDIT
     2018: SFB LIFE INSURANCE CO RETIREMENT PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 909
         Assets: 248886598
         $/Participant: 273802
@@ -115,6 +159,8 @@ MS : JACKSON
            - SEI TRUST COMPANY
                  : TCW LONG DURATION GOVERNMENT/CREDIT
     2017: SFB LIFE INSURANCE CO RETIREMENT PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 884
         Assets: 225227266
         $/Participant: 254781

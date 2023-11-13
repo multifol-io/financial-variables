@@ -1,13 +1,9 @@
 GA : ATLANTA
   EMORY HEALTHCARE INC  582137993
    [501]
-    2022: EMORY HEALTHCARE INC MASTER WELFARE BENEFIT
-        Participants: 
-    2021: EMORY HEALTHCARE INC MASTER WELFARE BENEFIT
-        Participants: 
-    2020: EMORY HEALTHCARE INC MASTER WELFARE BENEFIT
-        Participants: 
     2019: EMORY HEALTHCARE, INC. MASTER WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4F4H4Q
         Participants: 
         Assets: 7694133
         $/Participant: 
@@ -15,6 +11,8 @@ GA : ATLANTA
            - EMORY HEALTHCARE
                  : EHC INC POST RET EMP WELFARE BEN TR
     2018: EMORY HEALTHCARE, INC. MASTER WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4F4H4Q
         Participants: 
         Assets: 6454058
         $/Participant: 
@@ -22,19 +20,18 @@ GA : ATLANTA
            - EMORY HEALTHCARE
                  : EHC INC POST RET EMP WELFARE BEN TR
     2017: EMORY HEALTHCARE, INC. MASTER WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4F4H4Q
         Participants: 
         Assets: 7109979
         $/Participant: 
         Available Investments:
            - EMORY HEALTHCARE
                  : EHC INC POST RET EMP WELFARE BEN TR
-   [003]
-    2022: EMORY HEALTHCARE, INC. RETIREMENT PLAN 2
-        Participants: 6772
-        Assets: 260833090
-        $/Participant: 38516
    [002]
     2022: EMORY HEALTHCARE, INC. RETIREMENT SAVINGS AND MATCHING PLAN
+        Benefit Category: Other
+        Codes: 2E2F2G2L2M2R 
         Participants: 33851
         Assets: 2067818113
         $/Participant: 61085
@@ -45,6 +42,8 @@ GA : ATLANTA
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2021: EMORY HEALTHCARE, INC. RETIREMENT SAVINGS AND MATCHING PLAN
+        Benefit Category: Other
+        Codes: 2E2F2G2L2M2R 
         Participants: 26757
         Assets: 2382867362
         $/Participant: 89055
@@ -54,6 +53,8 @@ GA : ATLANTA
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2020: EMORY HEALTHCARE, INC. RETIREMENT SAVINGS AND MATCHING PLAN
+        Benefit Category: Other
+        Codes: 2E2F2G2L2M 
         Participants: 37236
         Assets: 2072824062
         $/Participant: 55667
@@ -63,6 +64,8 @@ GA : ATLANTA
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2019: EMORY HEALTHCARE, INC. RETIREMENT SAVINGS AND MATCHING PLAN
+        Benefit Category: Other
+        Codes: 2E2F2G2L2M2R 
         Participants: 38434
         Assets: 1789394311
         $/Participant: 46557
@@ -72,6 +75,8 @@ GA : ATLANTA
            - TIAA-CREF
                  : CREF
     2018: EMORY HEALTHCARE, INC. RETIREMENT SAVINGS AND MATCHING PLAN
+        Benefit Category: Other
+        Codes: 2E2F2G2L2M2R 
         Participants: 45510
         Assets: 1421047071
         $/Participant: 31224
@@ -81,6 +86,8 @@ GA : ATLANTA
            - TIAA-CREF
                  : CREF
     2017: EMORY HEALTHCARE, INC. RETIREMENT SAVINGS AND MATCHING PLAN
+        Benefit Category: Other
+        Codes: 2E2F2G2L2M2R 
         Participants: 33298
         Assets: 1440023665
         $/Participant: 43246
@@ -89,8 +96,23 @@ GA : ATLANTA
         Available Investments:
            - TIAA-CREF
                  : CREF
+   [501]
+    2022: EMORY HEALTHCARE INC MASTER WELFARE BENEFIT
+        Benefit Category: Other
+        Codes:  4B4F4H4Q
+        Participants: 
+    2021: EMORY HEALTHCARE INC MASTER WELFARE BENEFIT
+        Benefit Category: Other
+        Codes:  4B4F4H4Q
+        Participants: 
+    2020: EMORY HEALTHCARE INC MASTER WELFARE BENEFIT
+        Benefit Category: Other
+        Codes:  4B4F4H4Q
+        Participants: 
    [001]
     2022: EMORY HEALTHCARE, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 527
         Assets: 262927330
         $/Participant: 498913
@@ -138,6 +160,8 @@ GA : ATLANTA
            - WILLIAM BLAIR COLLECTIVE INVESTMENT TRUST
                  : WILLIAM BLAIR EMERGING MKTS GROWTH
     2021: EMORY HEALTHCARE, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 7386
         Assets: 365945723
         $/Participant: 49545
@@ -187,6 +211,8 @@ GA : ATLANTA
                  : WTC CTF OPPORTUNISTIC FIXED INCOME
                  : WTC CTF SM CAP 2000
     2020: EMORY HEALTHCARE, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 7471
         Assets: 342041648
         $/Participant: 45782
@@ -244,6 +270,8 @@ GA : ATLANTA
            - WILLIAM BLAIR COLLECTIVE INVESTMENT TRUST
                  : WILLIAM BLAIR EMERGING MARKETS GROW
     2019: EMORY HEALTHCARE, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 7533
         Assets: 297111726
         $/Participant: 39441
@@ -266,6 +294,8 @@ GA : ATLANTA
                  : US HIGH YIELD BD IDX FD A
                  : WORLD REAL ESTATE SEC FD
     2018: EMORY HEALTHCARE, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 7915
         Assets: 231341234
         $/Participant: 29228
@@ -285,6 +315,8 @@ GA : ATLANTA
                  : TREAS US 25 PLUS YEAR KEY RATE DUR
                  : TREAS US 5 YR KEY RATE DURATION NLF
     2017: EMORY HEALTHCARE, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 7994
         Assets: 255915249
         $/Participant: 32013
@@ -304,3 +336,10 @@ GA : ATLANTA
                  : TREAS US 20 YR KEY RATE DURATION NL
                  : TREAS US 25 PLUS YEAR KEY RATE DUR
                  : TREAS US 5 YR KEY RATE DURATION NLF
+   [003]
+    2022: EMORY HEALTHCARE, INC. RETIREMENT PLAN 2
+        Benefit Category: Pension
+        Codes: 1A1I 
+        Participants: 6772
+        Assets: 260833090
+        $/Participant: 38516

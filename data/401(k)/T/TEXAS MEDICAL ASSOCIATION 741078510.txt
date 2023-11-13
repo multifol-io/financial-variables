@@ -1,19 +1,9 @@
 TX : AUSTIN
   TEXAS MEDICAL ASSOCIATION  741078510
-    2022: TEXAS MEDICAL ASSOCIATION HEALTH AND DENTAL PLAN
-        Participants: 237
-    2021: TEXAS MEDICAL ASSOCIATION HEALTH ANDPLAN
-        Participants: 246
-    2020: TEXAS MEDICAL ASSOCIATION HEALTH AND DENTAL PLAN
-        Participants: 236
-    2019: TEXAS MEDICAL ASSOCIATION HEALTH AND DENTAL PLAN
-        Participants: 161
-    2018: TEXAS MEDICAL ASSOCIATION HEALTH AND DENTAL PLAN
-        Participants: 170
-    2017: TEXAS MEDICAL ASSOCIATION HEALTH AND DENTAL PLAN
-        Participants: 163
    [002]
     2022: TEXAS MEDICAL ASSOCIATION EMPLOYEES 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T 
         Participants: 207
         Assets: 46063974
         $/Participant: 222531
@@ -22,6 +12,8 @@ TX : AUSTIN
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2021: TEXAS MEDICAL ASSOCIATION EMPLOYEES 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2E2T2R 
         Participants: 209
         Assets: 59848981
         $/Participant: 286358
@@ -30,6 +22,8 @@ TX : AUSTIN
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2020: TEXAS MEDICAL ASSOCIATION EMPLOYEES 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2E2R2T 
         Participants: 216
         Assets: 57194920
         $/Participant: 264791
@@ -38,6 +32,8 @@ TX : AUSTIN
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2019: TEXAS MEDICAL ASSOCIATION EMPLOYEES 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T 
         Participants: 211
         Assets: 49394976
         $/Participant: 234099
@@ -46,6 +42,8 @@ TX : AUSTIN
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2018: TEXAS MEDICAL ASSOCIATION EMPLOYEES 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T 
         Participants: 209
         Assets: 40424182
         $/Participant: 193417
@@ -54,6 +52,8 @@ TX : AUSTIN
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2017: TEXAS MEDICAL ASSOCIATION EMPLOYEES 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T 
         Participants: 193
         Assets: 41911854
         $/Participant: 217159
@@ -61,3 +61,28 @@ TX : AUSTIN
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
+   [501]
+    2022: TEXAS MEDICAL ASSOCIATION HEALTH AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 237
+    2021: TEXAS MEDICAL ASSOCIATION HEALTH ANDPLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4F
+        Participants: 246
+    2020: TEXAS MEDICAL ASSOCIATION HEALTH AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4F
+        Participants: 236
+    2019: TEXAS MEDICAL ASSOCIATION HEALTH AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 161
+    2018: TEXAS MEDICAL ASSOCIATION HEALTH AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 170
+    2017: TEXAS MEDICAL ASSOCIATION HEALTH AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 163

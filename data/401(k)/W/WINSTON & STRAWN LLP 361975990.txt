@@ -1,20 +1,9 @@
 IL : CHICAGO
   WINSTON & STRAWN LLP  361975990
-   [501]
-    2022: WINSTON & STRAWN LLP MEDICAL AND DENTAL PLAN
-        Participants: 
-    2021: WINSTON & STRAWN LLP MEDICAL AND DENTAL PLAN
-        Participants: 
-    2020: WINSTON & STRAWN LLP MEDICAL AND DENTAL PLAN
-        Participants: 
-    2019: WINSTON & STRAWN LLP MEDICAL AND DENTAL PLAN
-        Participants: 
-    2018: WINSTON & STRAWN LLP MEDICAL AND DENTAL PLAN
-        Participants: 
-    2017: WINSTON & STRAWN LLP MEDICAL AND DENTAL PLAN
-        Participants: 
    [022]
     2021: EMPLOYEE SAVINGS PLAN OF WINSTON & STRAWN LLP
+        Benefit Category: 401(k)
+        Codes: 2F3B2G2J2T2R 
         Participants: 2699
         Assets: 567770920
         $/Participant: 210363
@@ -26,6 +15,8 @@ IL : CHICAGO
            - WINSTON & STRAWN LLP
                  : WINSTON & STRAWN LLP RET PLN M
     2020: EMPLOYEE SAVINGS PLAN OF WINSTON & STRAWN LLP
+        Benefit Category: 401(k)
+        Codes: 3B2R2F2G2J2T 
         Participants: 2683
         Assets: 532243741
         $/Participant: 198376
@@ -37,6 +28,8 @@ IL : CHICAGO
            - WINSTON & STRAWN LLP
                  : WINSTON & STRAWN LLP RET PLN M
     2019: EMPLOYEE SAVINGS PLAN OF WINSTON & STRAWN LLP
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2R2T3B 
         Participants: 2756
         Assets: 454204407
         $/Participant: 164805
@@ -48,6 +41,8 @@ IL : CHICAGO
            - WINSTON & STRAWN LLP
                  : WINSTON & STRAWN LLP RET PLN M
     2018: EMPLOYEE SAVINGS PLAN OF WINSTON & STRAWN LLP
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2R2T3B 
         Participants: 2729
         Assets: 398517048
         $/Participant: 146030
@@ -59,6 +54,8 @@ IL : CHICAGO
            - WINSTON & STRAWN LLP
                  : WINSTON & STRAWN LLP RET PLN M
     2017: EMPLOYEE SAVINGS PLAN OF WINSTON & STRAWN LLP
+        Benefit Category: 401(k)
+        Codes: 2G2J2R2T3B2F 
         Participants: 2650
         Assets: 368362727
         $/Participant: 139004
@@ -69,27 +66,41 @@ IL : CHICAGO
         Available Investments:
            - WINSTON & STRAWN LLP
                  : WINSTON & STRAWN LLP RET PLN M
-   [004]
-    2021: WINSTON & STRAWN LLP CASH BALANCE PLAN
-        Participants: 343
-        Assets: 61542902
-        $/Participant: 179425
-    2020: WINSTON & STRAWN LLP CASH BALANCE PLAN
-        Participants: 352
-        Assets: 45366029
-        $/Participant: 128880
-        Service Providers:
-           - MERRILL LYNCH :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | Float revenue)
-    2019: WINSTON & STRAWN LLP CASH BALANCE PLAN
-        Participants: 364
-        Assets: 41699690
-        $/Participant: 114559
-    2018: WINSTON & STRAWN LLP CASH BALANCE PLAN
-        Participants: 364
-        Assets: 14380697
-        $/Participant: 39507
+   [501]
+    2022: WINSTON & STRAWN LLP MEDICAL AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4C4D4E4F4H4I4L4Q
+        Participants: 
+    2021: WINSTON & STRAWN LLP MEDICAL AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4C4D4E4F4H4I4L4Q
+        Participants: 
+    2020: WINSTON & STRAWN LLP MEDICAL AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4C4D4E4F4H4I4L4Q
+        Participants: 
+    2019: WINSTON & STRAWN LLP MEDICAL AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4C4D4E4F4H4I4L4Q
+        Participants: 
+    2018: WINSTON & STRAWN LLP MEDICAL AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4C4D4E4F4H4I4L4Q
+        Participants: 
+    2017: WINSTON & STRAWN LLP MEDICAL AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4C4D4E4F4H4I4L4Q
+        Participants: 
    [001]
     2021: WINSTON & STRAWN LLP RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2G2T3B2E2R2F 
         Participants: 1472
         Assets: 493757477
         $/Participant: 335433
@@ -101,6 +112,8 @@ IL : CHICAGO
            - WINSTON & STRAWN LLP
                  : WINSTON & STRAWN LLP RET PLN M
     2020: WINSTON & STRAWN LLP RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2T3B2R2E 
         Participants: 1476
         Assets: 460752505
         $/Participant: 312162
@@ -112,6 +125,8 @@ IL : CHICAGO
            - WINSTON & STRAWN LLP
                  : WINSTON & STRAWN LLP RET PLN M
     2019: WINSTON & STRAWN LLP RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2E2F2G2R2T3B 
         Participants: 1513
         Assets: 411489964
         $/Participant: 271969
@@ -123,6 +138,8 @@ IL : CHICAGO
            - WINSTON & STRAWN LLP
                  : WINSTON & STRAWN LLP RET PLN M
     2018: WINSTON & STRAWN LLP RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2E2F2G2R2T3B 
         Participants: 1533
         Assets: 371967689
         $/Participant: 242640
@@ -134,6 +151,8 @@ IL : CHICAGO
            - WINSTON & STRAWN LLP
                  : WINSTON & STRAWN LLP RET PLN M
     2017: WINSTON & STRAWN LLP RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2E2F2G2R2T3B 
         Participants: 1465
         Assets: 385954417
         $/Participant: 263450
@@ -144,3 +163,30 @@ IL : CHICAGO
         Available Investments:
            - WINSTON & STRAWN LLP
                  : WINSTON & STRAWN LLP RET PLN M
+   [004]
+    2021: WINSTON & STRAWN LLP CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3B 
+        Participants: 343
+        Assets: 61542902
+        $/Participant: 179425
+    2020: WINSTON & STRAWN LLP CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3B 
+        Participants: 352
+        Assets: 45366029
+        $/Participant: 128880
+        Service Providers:
+           - MERRILL LYNCH :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | Float revenue)
+    2019: WINSTON & STRAWN LLP CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3B 
+        Participants: 364
+        Assets: 41699690
+        $/Participant: 114559
+    2018: WINSTON & STRAWN LLP CASH BALANCE PLAN
+        Benefit Category: Pension
+        Codes: 1A1C3B 
+        Participants: 364
+        Assets: 14380697
+        $/Participant: 39507

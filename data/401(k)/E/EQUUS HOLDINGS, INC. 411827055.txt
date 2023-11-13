@@ -1,64 +1,8 @@
 MN : GOLDEN VALLEY
   EQUUS HOLDINGS, INC.  411827055
-   [505]
-    2022: EQUUS HOLDINGS, INC. GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-        Service Providers:
-           - DDMN ASO, LLC : BENEFIT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2021: EQUUS HOLDINGS, INC. GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: EQUUS HOLDINGS, INC. GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: EQUUS HOLDINGS, INC. GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-MN : EDINA
-    2018: EQUUS HOLDINGS, INC. GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-   [504]
-    2017: EQUUS INC. LIFE, LONG-TERM DISABILITY & VOLUNTARY LIFE PLAN
-        Participants: 
-   [501]
-    2017: EQUUS INC. EMPLOYEE MEDICAL AND DENTAL BENEFIT PLAN
-        Participants: 
-MN : GOLDEN VALLEY
-   [002]
-    2022: EQUUS HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 282
-        Assets: 89122183
-        $/Participant: 316036
-        Available Investments:
-           - WELLS FARGO
-                 : WELLS FARGO - STABLE VALUE FUND C
-    2021: EQUUS HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 286
-        Assets: 123017166
-        $/Participant: 430129
-        Available Investments:
-           - WELLS FARGO
-                 : WELLS FARGO - STABLE VALUE FUND C
-    2020: EQUUS HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 259
-        Assets: 105081127
-        $/Participant: 405718
-        Available Investments:
-           - WELLS FARGO
-                 : WELLS FARGO - STABLE VALUE FUND C
-    2019: EQUUS HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 252
-        Assets: 104869864
-        $/Participant: 416150
-MN : EDINA
-    2018: EQUUS HOLDINGS INC EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 245
-        Assets: 98567075
-        $/Participant: 402314
-    2017: EQUUS HOLDINGS INC EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 236
-        Assets: 97339870
-        $/Participant: 412457
-MN : GOLDEN VALLEY
-   [001]
     2022: EQUUS EMPLOYEE SAVINGS AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D2R 
         Participants: 288
         Assets: 21562203
         $/Participant: 74868
@@ -71,6 +15,8 @@ MN : GOLDEN VALLEY
                  : MID CAP VALUE FEE I1
                  : WT EMERGING MKTS I1
     2021: EQUUS EMPLOYEE SAVINGS AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D2R 
         Participants: 279
         Assets: 24899863
         $/Participant: 89246
@@ -83,6 +29,8 @@ MN : GOLDEN VALLEY
                  : MID CAP VALUE FEE I1
                  : WT EMERGING MKTS I1
     2020: EQUUS EMPLOYEE SAVINGS AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 285
         Assets: 23245891
         $/Participant: 81564
@@ -96,6 +44,8 @@ MN : GOLDEN VALLEY
                  : LARGE CAP GRTH I1
 MN : EDINA
     2019: EQUUS EMPLOYEE SAVINGS AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 294
         Assets: 20454117
         $/Participant: 69571
@@ -104,6 +54,8 @@ MN : EDINA
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
     2018: EQUUS EMPLOYEE SAVINGS AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 287
         Assets: 17085349
         $/Participant: 59530
@@ -113,6 +65,8 @@ MN : EDINA
                  : WF STABLE FUND C
                  : WF STABLE VALUE
     2017: EQUUS EMPLOYEE SAVINGS AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2K2R2T3D2E2F2G2J 
         Participants: 277
         Assets: 18372687
         $/Participant: 66327
@@ -120,3 +74,86 @@ MN : EDINA
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE
+MN : GOLDEN VALLEY
+   [002]
+    2022: EQUUS HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2C2I2P2Q3H3I 
+        Participants: 282
+        Assets: 89122183
+        $/Participant: 316036
+        Available Investments:
+           - WELLS FARGO
+                 : WELLS FARGO - STABLE VALUE FUND C
+    2021: EQUUS HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2C2I2P2Q3H3I 
+        Participants: 286
+        Assets: 123017166
+        $/Participant: 430129
+        Available Investments:
+           - WELLS FARGO
+                 : WELLS FARGO - STABLE VALUE FUND C
+    2020: EQUUS HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2C2I2P2Q3F3H3I 
+        Participants: 259
+        Assets: 105081127
+        $/Participant: 405718
+        Available Investments:
+           - WELLS FARGO
+                 : WELLS FARGO - STABLE VALUE FUND C
+    2019: EQUUS HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2C2I2P2Q3F3H3I 
+        Participants: 252
+        Assets: 104869864
+        $/Participant: 416150
+MN : EDINA
+    2018: EQUUS HOLDINGS INC EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2C2I2P2Q3F3H3I 
+        Participants: 245
+        Assets: 98567075
+        $/Participant: 402314
+    2017: EQUUS HOLDINGS INC EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2C2I2P2Q3I 
+        Participants: 236
+        Assets: 97339870
+        $/Participant: 412457
+   [501]
+    2017: EQUUS INC. EMPLOYEE MEDICAL AND DENTAL BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+MN : GOLDEN VALLEY
+   [505]
+    2022: EQUUS HOLDINGS, INC. GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+        Service Providers:
+           - DDMN ASO, LLC : BENEFIT ADMINISTRATOR (Claims processing | Contract Administrator)
+    2021: EQUUS HOLDINGS, INC. GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2020: EQUUS HOLDINGS, INC. GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2019: EQUUS HOLDINGS, INC. GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+MN : EDINA
+    2018: EQUUS HOLDINGS, INC. GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+   [504]
+    2017: EQUUS INC. LIFE, LONG-TERM DISABILITY & VOLUNTARY LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 

@@ -1,57 +1,8 @@
 OK : TULSA
   CONNER & WINTERS, LLP  731388566
-   [507]
-    2022: CONNER & WINTERS WELFARE BENEFITS PLAN
-        Participants: 
-        Assets: 524119
-        $/Participant: 
-        Service Providers:
-           - BLUECROSS BLUESHIELD OF OKLAHOMA :  (Claims processing | Contract Administrator | Direct payment from the plan)
-    2021: CONNER & WINTERS WELFARE BENEFITS PLAN
-        Participants: 0
-        Service Providers:
-           - BLUE CROSS BLUE SHIELD OF OKLAHOMA :  (Insurance services)
-    2020: CONNER & WINTERS WELFARE BENEFITS PLAN
-        Participants: 0
-        Service Providers:
-           - BLUE CROSS BLUE SHIELD OF OKLAHOMA :  (Insurance services)
-    2019: CONNER & WINTERS WELFARE BENEFITS PLAN
-        Participants: 182
-        Assets: 479622
-        $/Participant: 2635
-        Service Providers:
-           - BLUE CROSS BLUE SHIELD OF OKLAHOMA :  (Insurance services)
-    2018: CONNER & WINTERS WELFARE BENEFITS PLAN
-        Participants: 183
-        Assets: 438525
-        $/Participant: 2396
-        Service Providers:
-           - BLUE CROSS BLUE SHIELD OF OKLAHOMA :  (Insurance services)
-    2017: CONNER & WINTERS WELFARE BENEFITS PLAN
-        Participants: 0
-        Service Providers:
-           - BLUE CROSS BLUE SHIELD OF OKLAHOMA :  (Insurance services)
-   [003]
-    2022: CONNER & WINTERS PENSION PLAN
-        Participants: 145
-        Assets: 6108714
-        $/Participant: 42129
-        Service Providers:
-           - GIBRALTAR CAPITAL MANAGEMENT :  (Investment management)
-    2021: CONNER & WINTERS PENSION PLAN
-        Participants: 134
-        Assets: 6285597
-        $/Participant: 46907
-        Service Providers:
-           - GIBRALTAR CAPITAL MANAGEMENT :  (Investment management)
-    2020: CONNER & WINTERS PENSION PLAN
-        Participants: 129
-        Assets: 5892504
-        $/Participant: 45678
-        Service Providers:
-           - GIBRALTAR CAPITAL MANAGEMENT :  (Investment management)
-   [001]
     2022: CONNER & WINTERS ABRA PROFIT SHARING 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 126
         Assets: 81108733
         $/Participant: 643720
@@ -84,6 +35,8 @@ OK : TULSA
                  : SMALL-MID CAP INDEX EQUITY R2
                  : STABLE ASSET RETURN FUND R2
     2021: CONNER & WINTERS ABRA PROFIT SHARING 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 131
         Assets: 104485467
         $/Participant: 797598
@@ -119,6 +72,8 @@ OK : TULSA
                  : SMALL-MID CAP INDEX EQUITY R2
                  : STABLE ASSET RETURN FUND R2
     2020: CONNER & WINTERS ABRA PROFIT SHARING 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 146
         Assets: 95544187
         $/Participant: 654412
@@ -150,6 +105,8 @@ OK : TULSA
                  : SMALL-MID CAP INDEX EQUITY R-2
                  : STABLE ASSET RETURN FUND R-2
     2019: CONNER & WINTERS ABRA PROFIT SHARING 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 152
         Assets: 90310596
         $/Participant: 594148
@@ -182,6 +139,8 @@ OK : TULSA
                  : SMALL-MID CAP INDEX EQUITY R2
                  : STABLE ASSET RETURN FUND R2
     2018: CONNER & WINTERS ABRA PROFIT SHARING 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 146
         Assets: 77842879
         $/Participant: 533170
@@ -211,6 +170,8 @@ OK : TULSA
                  : SMALL-MID CAP INDEX EQUITY
                  : STABLE ASSET RETURN FUND
     2017: CONNER & WINTERS ABRA PROFIT SHARING 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 146
         Assets: 80148854
         $/Participant: 548964
@@ -239,3 +200,71 @@ OK : TULSA
                  : SMALL CAP INDEX EQUITY FUND
                  : SMALL-MID CAP EQUITY FUND
                  : STABLE ASSET RETURN FUND
+   [507]
+    2022: CONNER & WINTERS WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L4Q
+        Participants: 
+        Assets: 524119
+        $/Participant: 
+        Service Providers:
+           - BLUECROSS BLUESHIELD OF OKLAHOMA :  (Claims processing | Contract Administrator | Direct payment from the plan)
+    2021: CONNER & WINTERS WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 0
+        Service Providers:
+           - BLUE CROSS BLUE SHIELD OF OKLAHOMA :  (Insurance services)
+    2020: CONNER & WINTERS WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 0
+        Service Providers:
+           - BLUE CROSS BLUE SHIELD OF OKLAHOMA :  (Insurance services)
+    2019: CONNER & WINTERS WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 182
+        Assets: 479622
+        $/Participant: 2635
+        Service Providers:
+           - BLUE CROSS BLUE SHIELD OF OKLAHOMA :  (Insurance services)
+    2018: CONNER & WINTERS WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 183
+        Assets: 438525
+        $/Participant: 2396
+        Service Providers:
+           - BLUE CROSS BLUE SHIELD OF OKLAHOMA :  (Insurance services)
+    2017: CONNER & WINTERS WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 0
+        Service Providers:
+           - BLUE CROSS BLUE SHIELD OF OKLAHOMA :  (Insurance services)
+   [003]
+    2022: CONNER & WINTERS PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C 
+        Participants: 145
+        Assets: 6108714
+        $/Participant: 42129
+        Service Providers:
+           - GIBRALTAR CAPITAL MANAGEMENT :  (Investment management)
+    2021: CONNER & WINTERS PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C 
+        Participants: 134
+        Assets: 6285597
+        $/Participant: 46907
+        Service Providers:
+           - GIBRALTAR CAPITAL MANAGEMENT :  (Investment management)
+    2020: CONNER & WINTERS PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C 
+        Participants: 129
+        Assets: 5892504
+        $/Participant: 45678
+        Service Providers:
+           - GIBRALTAR CAPITAL MANAGEMENT :  (Investment management)

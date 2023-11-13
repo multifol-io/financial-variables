@@ -1,22 +1,109 @@
 CA : VALENCIA
   LOGIX EMPLOYMENT SERVICES,INC.  954341911
+    2022: LOGIX EMPLOYMENT SERVICES, INC. EMPLOYEE SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3D3H 
+        Participants: 1092
+        Assets: 123637724
+        $/Participant: 113221
+        RecordKeeper: KAYE CAPITAL MANAGEMENT
+    2021: LOGIX EMPLOYMENT SERVICES, INC. EMPLOYEE SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3D3H 
+        Participants: 1023
+        Assets: 142960047
+        $/Participant: 139745
+        RecordKeeper: KAYE CAPITAL MANAGEMENT
+    2020: LOGIX EMPLOYMENT SERVICES, INC. SALARIED EMPLOYEE SAVINGS PLAN PLUS 001 FOR CERTAIN SALARIED EMPLOYEES
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
+        Participants: 932
+        Assets: 119833480
+        $/Participant: 128576
+        RecordKeeper: KAYE CAPITAL MANAGEMENT
+CA : BURBANK
+    2019: LOGIX EMPLOYMENT SERVICES, INC. SALARIED EMPLOYEE SAVINGS PLAN PLUS 001 FOR CERTAIN SALARIED EMPLOYEES
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
+        Participants: 850
+        Assets: 98704049
+        $/Participant: 116122
+        RecordKeeper: KAYE CAPITAL MANAGEMENT
+    2018: LOGIX EMPLOYMENT SERVICES, INC. SALARIED EMPLOYEE SAVINGS PLAN PLUS 001 FOR CERTAIN SALARIED EMPLOYEES
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
+        Participants: 813
+        Assets: 81666482
+        $/Participant: 100450
+        RecordKeeper: KAYE CAPITAL MANAGEMENT
+    2017: LOGIX EMPLOYMENT SERVICES, INC. SALARIED EMPLOYEE SAVINGS PLAN PLUS 001 FOR CERTAIN SALARIED EMPLOYEES
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
+        Participants: 747
+        Assets: 82665473
+        $/Participant: 110663
+        RecordKeeper: KAYE CAPITAL MANAGEMENT
+CA : VALENCIA
+   [002]
+    2020: LOGIX EMPLOYMENT SERVICES, INC. EMPLOYEE BASIC BENEFIT & SAVINGS PLAN PLUS #002 FOR CERTAIN COLLECTIVE BARGAINING UNIT EES
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
+        Participants: 0
+        RecordKeeper: MID ATLANTIC CAPITAL CORPORATION
+CA : BURBANK
+    2019: LOGIX EMPLOYMENT SERVICES, INC. EMPLOYEE BASIC BENEFIT & SAVINGS PLAN PLUS #002 FOR CERTAIN COLLECTIVE BARGAINING UNIT EES
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
+        Participants: 134
+        Assets: 4562950
+        $/Participant: 34051
+        RecordKeeper: MID ATLANTIC CAPITAL CORPORATION
+    2018: LOGIX EMPLOYMENT SERVICES, INC. EMPLOYEE BASIC BENEFIT & SAVINGS PLAN PLUS #002 FOR CERTAIN COLLECTIVE BARGAINING UNIT EES
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
+        Participants: 131
+        Assets: 3833297
+        $/Participant: 29261
+        RecordKeeper: MID ATLANTIC CAPITAL CORPORATION
+    2017: LOGIX EMPLOYMENT SERVICES, INC. EMPLOYEE BASIC BENEFIT & SAVINGS PLAN PLUS #002 FOR CERTAIN COLLECTIVE BARGAINING UNIT EES
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
+        Participants: 128
+        Assets: 4552158
+        $/Participant: 35563
+        RecordKeeper: RMS US LLP
+CA : VALENCIA
    [501]
     2022: LOGIX EMPLOYMENT SERVICES, INC. GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
         Participants: 
     2021: LOGIX EMPLOYMENT SERVICES, INC. GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
         Participants: 
 CA : BURBANK
     2020: LOGIX EMPLOYMENT SERVICES, INC. GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
         Participants: 
     2019: LOGIX EMPLOYMENT SERVICES, INC. GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
         Participants: 
     2018: LOGIX EMPLOYMENT SERVICES, INC. GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
         Participants: 
     2017: LOGIX EMPLOYMENT SERVICES, INC. GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4G4H4L4Q
         Participants: 
 CA : CASTAIC
    [003]
     2022: LOGIX EMPLOYMENT SERVICES, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1B 
         Participants: 361
         Assets: 77869318
         $/Participant: 215704
@@ -24,6 +111,8 @@ CA : CASTAIC
            - BANK OF AMERICA : TRUSTEE (Trustee(bank, trust company, or similar) | Investment advisory(plan) | Investment management | Direct payment from the plan | Investment management fees paid indirectly by plan | Float revenue)
            - COLUMBIA MANAGEMENT INVMT SVS CORP : INVESTMENT MANAGER (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
     2021: LOGIX EMPLOYMENT SERVICES, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1B 
         Participants: 363
         Assets: 103465069
         $/Participant: 285027
@@ -31,6 +120,8 @@ CA : CASTAIC
            - BANK OF AMERICA : TRUSTEE (Trustee(bank, trust company, or similar) | Investment advisory(plan) | Investment management | Direct payment from the plan | Investment management fees paid indirectly by plan | Float revenue)
            - COLUMBIA MANAGEMENT INVMT SVS CORP : INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan)
     2020: LOGIX EMPLOYMENT SERVICES, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1B 
         Participants: 366
         Assets: 99852613
         $/Participant: 272821
@@ -39,74 +130,26 @@ CA : CASTAIC
            - COLUMBIA MANAGEMENT INVMT SVS CORP : INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan)
 CA : BURBANK
     2019: LOGIX EMPLOYMENT SERVICES, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1B 
         Participants: 372
         Assets: 83434305
         $/Participant: 224285
         Service Providers:
            - BANK OF AMERICA, N.A. & S.A. : TRUSTEE (Trustee(directed) | Investment advisory(plan) | Investment management | Direct payment from the plan | Investment management fees paid indirectly by plan | Float revenue)
     2018: LOGIX EMPLOYMENT SERVICES, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1B 
         Participants: 374
         Assets: 69186148
         $/Participant: 184989
         Service Providers:
            - BANK OF AMERICA, N.A. & S.A. : TRUSTEE (Trustee(directed) | Investment advisory(plan) | Investment management | Direct payment from the plan | Investment management fees paid indirectly by plan | Float revenue)
     2017: LOGIX EMPLOYMENT SERVICES, INC. RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1B 
         Participants: 375
         Assets: 63897717
         $/Participant: 170393
         Service Providers:
            - BANK OF AMERICA, N.A. & S.A. : TRUSTEE (Trustee(directed) | Investment advisory(plan) | Investment management | Direct payment from the plan | Investment management fees paid indirectly by plan | Float revenue)
-CA : VALENCIA
-   [002]
-    2020: LOGIX EMPLOYMENT SERVICES, INC. EMPLOYEE BASIC BENEFIT & SAVINGS PLAN PLUS #002 FOR CERTAIN COLLECTIVE BARGAINING UNIT EES
-        Participants: 0
-        RecordKeeper: MID ATLANTIC CAPITAL CORPORATION
-CA : BURBANK
-    2019: LOGIX EMPLOYMENT SERVICES, INC. EMPLOYEE BASIC BENEFIT & SAVINGS PLAN PLUS #002 FOR CERTAIN COLLECTIVE BARGAINING UNIT EES
-        Participants: 134
-        Assets: 4562950
-        $/Participant: 34051
-        RecordKeeper: MID ATLANTIC CAPITAL CORPORATION
-    2018: LOGIX EMPLOYMENT SERVICES, INC. EMPLOYEE BASIC BENEFIT & SAVINGS PLAN PLUS #002 FOR CERTAIN COLLECTIVE BARGAINING UNIT EES
-        Participants: 131
-        Assets: 3833297
-        $/Participant: 29261
-        RecordKeeper: MID ATLANTIC CAPITAL CORPORATION
-    2017: LOGIX EMPLOYMENT SERVICES, INC. EMPLOYEE BASIC BENEFIT & SAVINGS PLAN PLUS #002 FOR CERTAIN COLLECTIVE BARGAINING UNIT EES
-        Participants: 128
-        Assets: 4552158
-        $/Participant: 35563
-        RecordKeeper: RMS US LLP
-CA : VALENCIA
-   [001]
-    2022: LOGIX EMPLOYMENT SERVICES, INC. EMPLOYEE SAVINGS PLAN
-        Participants: 1092
-        Assets: 123637724
-        $/Participant: 113221
-        RecordKeeper: KAYE CAPITAL MANAGEMENT
-    2021: LOGIX EMPLOYMENT SERVICES, INC. EMPLOYEE SAVINGS PLAN
-        Participants: 1023
-        Assets: 142960047
-        $/Participant: 139745
-        RecordKeeper: KAYE CAPITAL MANAGEMENT
-    2020: LOGIX EMPLOYMENT SERVICES, INC. SALARIED EMPLOYEE SAVINGS PLAN PLUS 001 FOR CERTAIN SALARIED EMPLOYEES
-        Participants: 932
-        Assets: 119833480
-        $/Participant: 128576
-        RecordKeeper: KAYE CAPITAL MANAGEMENT
-CA : BURBANK
-    2019: LOGIX EMPLOYMENT SERVICES, INC. SALARIED EMPLOYEE SAVINGS PLAN PLUS 001 FOR CERTAIN SALARIED EMPLOYEES
-        Participants: 850
-        Assets: 98704049
-        $/Participant: 116122
-        RecordKeeper: KAYE CAPITAL MANAGEMENT
-    2018: LOGIX EMPLOYMENT SERVICES, INC. SALARIED EMPLOYEE SAVINGS PLAN PLUS 001 FOR CERTAIN SALARIED EMPLOYEES
-        Participants: 813
-        Assets: 81666482
-        $/Participant: 100450
-        RecordKeeper: KAYE CAPITAL MANAGEMENT
-    2017: LOGIX EMPLOYMENT SERVICES, INC. SALARIED EMPLOYEE SAVINGS PLAN PLUS 001 FOR CERTAIN SALARIED EMPLOYEES
-        Participants: 747
-        Assets: 82665473
-        $/Participant: 110663
-        RecordKeeper: KAYE CAPITAL MANAGEMENT

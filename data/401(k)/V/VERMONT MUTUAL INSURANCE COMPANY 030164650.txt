@@ -1,20 +1,9 @@
 VT : MONTPELIER
   VERMONT MUTUAL INSURANCE COMPANY  030164650
-   [505]
-    2022: VERMONT MUTUAL INSURANCE COMPANY EMPLOYEE WELFARE BENEFITS PLAN
-        Participants: 
-    2021: VERMONT MUTUAL INSURANCE COMPANY EMPLOYEE WELFARE BENEFITS PLAN
-        Participants: 
-    2020: VERMONT MUTUAL INSURANCE COMPANY EMPLOYEE WELFARE BENEFITS PLAN
-        Participants: 
-    2019: VERMONT MUTUAL INSURANCE COMPANY EMPLOYEE WELFARE BENEFITS PLAN
-        Participants: 
-    2018: VERMONT MUTUAL INSURANCE COMPANY EMPLOYEE WELFARE BENEFITS PLAN
-        Participants: 
-    2017: VERMONT MUTUAL INSURANCE COMPANY EMPLOYEE WELFARE BENEFITS PLAN
-        Participants: 
    [002]
     2022: VERMONT MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3D3H 
         Participants: 381
         Assets: 56969146
         $/Participant: 149525
@@ -23,6 +12,8 @@ VT : MONTPELIER
            - TRANSAMERICA RETIREMENT SOLUTIONS CO
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
     2021: VERMONT MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3D3H 
         Participants: 380
         Assets: 65163656
         $/Participant: 171483
@@ -31,6 +22,8 @@ VT : MONTPELIER
            - TRANSAMERICA RETIREMENT SOLUTIONS CO
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
     2020: VERMONT MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3D3H 
         Participants: 356
         Assets: 54119871
         $/Participant: 152022
@@ -39,6 +32,8 @@ VT : MONTPELIER
            - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
     2019: VERMONT MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3D3H 
         Participants: 352
         Assets: 45259170
         $/Participant: 128577
@@ -47,6 +42,8 @@ VT : MONTPELIER
            - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
     2018: VERMONT MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3D3H 
         Participants: 335
         Assets: 35967848
         $/Participant: 107366
@@ -55,6 +52,8 @@ VT : MONTPELIER
            - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
     2017: VERMONT MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3D3H 
         Participants: 313
         Assets: 35123673
         $/Participant: 112216
@@ -62,8 +61,35 @@ VT : MONTPELIER
         Available Investments:
            - TRANSAMERICA RETIREMENT SOLUTIONS
                  : TRANSAMERICA STABLE POOLED
+   [505]
+    2022: VERMONT MUTUAL INSURANCE COMPANY EMPLOYEE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: VERMONT MUTUAL INSURANCE COMPANY EMPLOYEE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: VERMONT MUTUAL INSURANCE COMPANY EMPLOYEE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: VERMONT MUTUAL INSURANCE COMPANY EMPLOYEE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: VERMONT MUTUAL INSURANCE COMPANY EMPLOYEE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: VERMONT MUTUAL INSURANCE COMPANY EMPLOYEE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
    [001]
     2022: VERMONT MUTUAL INSURANCE COMPANY EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 264
         Assets: 57189865
         $/Participant: 216628
@@ -72,6 +98,8 @@ VT : MONTPELIER
            - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
     2021: VERMONT MUTUAL INSURANCE COMPANY EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 272
         Assets: 78375205
         $/Participant: 288144
@@ -80,6 +108,8 @@ VT : MONTPELIER
            - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
     2020: VERMONT MUTUAL INSURANCE COMPANY EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 274
         Assets: 79440761
         $/Participant: 289929
@@ -88,6 +118,8 @@ VT : MONTPELIER
            - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
     2019: VERMONT MUTUAL INSURANCE COMPANY EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 274
         Assets: 69858129
         $/Participant: 254956
@@ -96,6 +128,8 @@ VT : MONTPELIER
            - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
     2018: VERMONT MUTUAL INSURANCE COMPANY EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 274
         Assets: 59833920
         $/Participant: 218371
@@ -104,6 +138,8 @@ VT : MONTPELIER
            - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
     2017: VERMONT MUTUAL INSURANCE COMPANY EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 274
         Assets: 62644669
         $/Participant: 228630

@@ -1,20 +1,8 @@
 TX : HOUSTON
   MERICHEM COMPANY  741539883
-   [501]
-    2022: MERICHEM COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-    2021: MERICHEM COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-    2020: MERICHEM COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-    2019: MERICHEM COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-    2018: MERICHEM COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-    2017: MERICHEM COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-   [002]
     2022: MERICHEM COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K2S3D2T 
         Participants: 197
         Assets: 52064326
         $/Participant: 264285
@@ -27,6 +15,8 @@ TX : HOUSTON
                  : SCV/INTEGRITY
                  : TRP GROWTH STK STGY
     2021: MERICHEM COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K2S3D2T 
         Participants: 197
         Assets: 60792980
         $/Participant: 308593
@@ -39,6 +29,8 @@ TX : HOUSTON
                  : SCV/INTEGRITY
                  : TRP GROWTH STK STGY
     2020: MERICHEM COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K2S3D2T 
         Participants: 210
         Assets: 65831263
         $/Participant: 313482
@@ -51,6 +43,8 @@ TX : HOUSTON
                  : SCV/INTEGRITY
                  : TRP GROWTH STK STGY
     2019: MERICHEM COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K2S3D2T 
         Participants: 206
         Assets: 57335607
         $/Participant: 278328
@@ -63,6 +57,8 @@ TX : HOUSTON
                  : SCV/INTEGRITY
                  : TRP GROWTH STK STGY
     2018: MERICHEM COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K2S3D2T 
         Participants: 205
         Assets: 46243630
         $/Participant: 225578
@@ -78,6 +74,8 @@ TX : HOUSTON
                  : SCV/INTEGRITY
                  : TRP GROWTH STK STGY
     2017: MERICHEM COMPANY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K2S3D2T 
         Participants: 211
         Assets: 48255223
         $/Participant: 228697
@@ -92,8 +90,35 @@ TX : HOUSTON
                  : MCV/WELLINGTON
                  : SCV/INTEGRITY
                  : TRP GROWTH STK STGY
+   [501]
+    2022: MERICHEM COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2021: MERICHEM COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2020: MERICHEM COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2019: MERICHEM COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2018: MERICHEM COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: MERICHEM COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
    [001]
     2019: MERICHEM COMPANY RETIREMENT TRUST
+        Benefit Category: Pension
+        Codes: 1A1H 
         Participants: 178
         Service Providers:
            - PRUDENTIAL RETIREMENT INS & ANNUITY :  (Contract Administrator)
@@ -105,6 +130,8 @@ TX : HOUSTON
                  : LONG DURATION BOND/IR & M FUND
                  : PRU LONG CORPORATE BOND
     2018: MERICHEM COMPANY RETIREMENT TRUST
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 245
         Assets: 44423236
         $/Participant: 181319
@@ -123,6 +150,8 @@ TX : HOUSTON
                  : PRU LONG CORPORATE BOND
                  : SMALL CAP VALUE/ INTEGRITY
     2017: MERICHEM COMPANY RETIREMENT TRUST
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 266
         Assets: 43918424
         $/Participant: 165106

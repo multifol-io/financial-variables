@@ -1,18 +1,9 @@
 TX : AUSTIN
   SACHEM, INC.  742286932
-   [502]
-    2021: SACHEM, INC. HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 175
-    2020: SACHEM, INC. HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 167
-    2019: SACHEM, INC. HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 174
-    2018: SACHEM, INC. HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 166
-    2017: SACHEM, INC. HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 167
    [001]
     2022: SACHEM, INC. EMPLOYEES PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 273
         Assets: 47974234
         $/Participant: 175729
@@ -28,6 +19,8 @@ TX : AUSTIN
                  : CB INTL GROWTH R3
                  : MFS MID CAP GROWTH S
     2021: SACHEM, INC. EMPLOYEES PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 243
         Assets: 60292572
         $/Participant: 248117
@@ -45,6 +38,8 @@ TX : AUSTIN
            - WILMINGTON TRUST
                  : WT MID CAP OPPS
     2020: SACHEM, INC. EMPLOYEES PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 211
         Assets: 53582913
         $/Participant: 253947
@@ -57,6 +52,8 @@ TX : AUSTIN
            - WILMINGTON TRUST
                  : WT MID CAP OPPS
     2019: SACHEM, INC. EMPLOYEES PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 217
         Assets: 53230008
         $/Participant: 245299
@@ -71,6 +68,8 @@ TX : AUSTIN
            - WILMINGTON TRUST
                  : WT MID CAP OPPS
     2018: SACHEM, INC. EMPLOYEES PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D2E 
         Participants: 204
         Assets: 44112895
         $/Participant: 216239
@@ -83,6 +82,8 @@ TX : AUSTIN
            - WELLINGTON TRUST COMPANY
                  : WELLINGTON CIF II MID CAP OPPORTUNI
     2017: SACHEM, INC. EMPLOYEES PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 206
         Assets: 45059328
         $/Participant: 218734
@@ -90,3 +91,24 @@ TX : AUSTIN
         Available Investments:
            - RELIANCE TRUST COMPANY
                  : RT NY LIFE AA CL 0
+   [502]
+    2021: SACHEM, INC. HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4B4H4E
+        Participants: 175
+    2020: SACHEM, INC. HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 167
+    2019: SACHEM, INC. HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 174
+    2018: SACHEM, INC. HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 166
+    2017: SACHEM, INC. HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 167

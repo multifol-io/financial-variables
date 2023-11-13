@@ -1,20 +1,9 @@
 CA : SAN JOSE
   SAN JOSE WATER COMPANY  940838465
-   [502]
-    2022: SAN JOSE WATER COMPANY SOCIAL WELFARE PLAN
-        Participants: 
-    2021: SAN JOSE WATER COMPANY SOCIAL WELFARE PLAN
-        Participants: 
-    2020: SAN JOSE WATER COMPANY SOCIAL WELFARE PLAN
-        Participants: 
-    2019: SAN JOSE WATER COMPANY SOCIAL WELFARE PLAN
-        Participants: 
-    2018: SAN JOSE WATER COMPANY SOCIAL WELFARE PLAN
-        Participants: 
-    2017: SAN JOSE WATER COMPANY SOCIAL WELFARE PLAN
-        Participants: 
    [011]
     2022: SAN JOSE WATER COMPANY SALARY DEFERRAL PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 500
         Assets: 110368516
         $/Participant: 220737
@@ -24,6 +13,8 @@ CA : SAN JOSE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST
     2021: SAN JOSE WATER COMPANY SALARY DEFERRAL PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 478
         Assets: 125949800
         $/Participant: 263493
@@ -33,6 +24,8 @@ CA : SAN JOSE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST
     2020: SAN JOSE WATER COMPANY SALARY DEFERRAL PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 467
         Assets: 109195545
         $/Participant: 233823
@@ -42,6 +35,8 @@ CA : SAN JOSE
            - VANGUARD FIDIUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST
     2019: SAN JOSE WATER COMPANY SALARY DEFERRAL PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 464
         Assets: 102906492
         $/Participant: 221781
@@ -51,6 +46,8 @@ CA : SAN JOSE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST
     2018: SAN JOSE WATER COMPANY SALARY DEFERRAL PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 385
         Assets: 88166846
         $/Participant: 229004
@@ -60,6 +57,8 @@ CA : SAN JOSE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST
     2017: SAN JOSE WATER COMPANY SALARY DEFERRAL PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 457
         Assets: 93599330
         $/Participant: 204812
@@ -68,38 +67,75 @@ CA : SAN JOSE
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST
+   [502]
+    2022: SAN JOSE WATER COMPANY SOCIAL WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2021: SAN JOSE WATER COMPANY SOCIAL WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2020: SAN JOSE WATER COMPANY SOCIAL WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: SAN JOSE WATER COMPANY SOCIAL WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: SAN JOSE WATER COMPANY SOCIAL WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2017: SAN JOSE WATER COMPANY SOCIAL WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
    [002]
     2022: RETIREMENT PLAN OF SAN JOSE WATER COMPANY
+        Benefit Category: Pension
+        Codes: 1A1C1E 
         Participants: 817
         Assets: 176930329
         $/Participant: 216560
         Service Providers:
            - MATRIX TRUST COMPANY :  (Investment management | Investment management fees paid directly by plan | Trustee(bank, trust company, or similar))
     2021: RETIREMENT PLAN OF SAN JOSE WATER COMPANY
+        Benefit Category: Pension
+        Codes: 1A1C1E 
         Participants: 819
         Assets: 211565091
         $/Participant: 258321
         Service Providers:
            - MATRIX TRUST COMPANY :  (Investment management | Investment management fees paid directly by plan | Trustee(bank, trust company, or similar))
     2020: RETIREMENT PLAN OF SAN JOSE WATER COMPANY
+        Benefit Category: Pension
+        Codes: 1A1C1E 
         Participants: 767
         Assets: 186242098
         $/Participant: 242818
         Service Providers:
            - MATRIX TRUST COMPANY :  (Investment management | Investment management fees paid directly by plan | Trustee(bank, trust company, or similar))
     2019: RETIREMENT PLAN OF SAN JOSE WATER COMPANY
+        Benefit Category: Pension
+        Codes: 1A1C1E 
         Participants: 797
         Assets: 165526829
         $/Participant: 207687
         Service Providers:
            - MATRIX TRUST COMPANY :  (Investment management | Investment management fees paid directly by plan | Trustee(bank, trust company, or similar))
     2018: RETIREMENT PLAN OF SAN JOSE WATER COMPANY
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 759
         Assets: 133458309
         $/Participant: 175834
         Service Providers:
            - MATRIX TRUST COMPANY :  (Investment management | Investment management fees paid directly by plan | Trustee(bank, trust company, or similar))
     2017: RETIREMENT PLAN OF SAN JOSE WATER COMPANY
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 771
         Assets: 140163687
         $/Participant: 181794

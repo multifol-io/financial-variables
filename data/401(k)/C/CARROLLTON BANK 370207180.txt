@@ -1,37 +1,9 @@
 IL : CARROLLTON
   CARROLLTON BANK  370207180
-   [503]
-    2022: CARROLLTON BANK EMPLOYEE BENEFIT(S) PLAN
-        Participants: 
-        Service Providers:
-           - MERCY ADMINISTRATORS, LLC :  (Plan Administrator | Direct payment from the plan)
-           - HEALTHLINC, INC. :  (Plan Administrator | Direct payment from the plan)
-    2021: CARROLLTON BANK EMPLOYEE BENEFIT(S) PLAN
-        Participants: 
-        Service Providers:
-           - MERCY ADMINISTRATORS, LLC :  (Plan Administrator | Direct payment from the plan)
-           - HEALTHLINC, INC. :  (Plan Administrator | Direct payment from the plan)
-    2020: CARROLLTON BANK EMPLOYEE BENEFIT(S) PLAN
-        Participants: 
-        Service Providers:
-           - MERCY ADMINISTRATORS, LLC :  (Plan Administrator | Direct payment from the plan)
-           - HEALTHLINC, INC. :  (Plan Administrator | Direct payment from the plan)
-    2019: CARROLLTON BANK EMPLOYEE BENEFIT(S) PLAN
-        Participants: 
-    2018: CARROLLTON BANK EMPLOYEE BENEFIT(S) PLAN
-        Participants: 
-   [502]
-    2018: CARROLLTON BANK EMPLOYEE LIFE INSURANCE PLAN
-        Participants: 
-    2017: CARROLLTON BANK EMPLOYEE LIFE INSURANCE PLAN
-        Participants: 
-   [501]
-    2018: CARROLLTON BANK EMPLOYEE HEALTH CARE PLAN
-        Participants: 
-    2017: CARROLLTON BANK EMPLOYEE HEALTH CARE PLAN
-        Participants: 
    [001]
     2022: CARROLLTON BANK EMPLOYEES 401(K) AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2H2G2J2K2T3D 
         Participants: 335
         Assets: 73504657
         $/Participant: 219416
@@ -46,6 +18,8 @@ IL : CARROLLTON
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE VALUE FUND C
     2021: CARROLLTON BANK EMPLOYEES 401(K) AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2H2G2J2K2T3D 
         Participants: 325
         Assets: 82749264
         $/Participant: 254613
@@ -60,6 +34,8 @@ IL : CARROLLTON
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE VALUE FUND C
     2020: CARROLLTON BANK EMPLOYEES 401(K) AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 301
         Assets: 66759621
         $/Participant: 221792
@@ -74,6 +50,8 @@ IL : CARROLLTON
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE VALUE FUND C
     2019: CARROLLTON BANK EMPLOYEES 401(K) AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 281
         Assets: 52300813
         $/Participant: 186123
@@ -91,6 +69,8 @@ IL : CARROLLTON
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE VALUE FUND C
     2018: CARROLLTON BANK EMPLOYEES 401(K) AND PS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 264
         Assets: 39948747
         $/Participant: 151321
@@ -108,6 +88,8 @@ IL : CARROLLTON
            - WELLS FARGO, N.A.
                  : WELLS FARGO STABLE VALUE FUND C
     2017: CARROLLTON BANK EMPLOYEES 401(K) AND PS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 232
         Assets: 40361127
         $/Participant: 173970
@@ -124,3 +106,51 @@ IL : CARROLLTON
                  : RETIREMENT ADVOCATE MODERATE
            - WELLS FARGO, N.A.
                  : WELLS FARGO STABLE VALUE FUND C
+   [501]
+    2018: CARROLLTON BANK EMPLOYEE HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: CARROLLTON BANK EMPLOYEE HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [503]
+    2022: CARROLLTON BANK EMPLOYEE BENEFIT(S) PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 
+        Service Providers:
+           - MERCY ADMINISTRATORS, LLC :  (Plan Administrator | Direct payment from the plan)
+           - HEALTHLINC, INC. :  (Plan Administrator | Direct payment from the plan)
+    2021: CARROLLTON BANK EMPLOYEE BENEFIT(S) PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 
+        Service Providers:
+           - MERCY ADMINISTRATORS, LLC :  (Plan Administrator | Direct payment from the plan)
+           - HEALTHLINC, INC. :  (Plan Administrator | Direct payment from the plan)
+    2020: CARROLLTON BANK EMPLOYEE BENEFIT(S) PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 
+        Service Providers:
+           - MERCY ADMINISTRATORS, LLC :  (Plan Administrator | Direct payment from the plan)
+           - HEALTHLINC, INC. :  (Plan Administrator | Direct payment from the plan)
+    2019: CARROLLTON BANK EMPLOYEE BENEFIT(S) PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 
+    2018: CARROLLTON BANK EMPLOYEE BENEFIT(S) PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 
+   [502]
+    2018: CARROLLTON BANK EMPLOYEE LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2017: CARROLLTON BANK EMPLOYEE LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 

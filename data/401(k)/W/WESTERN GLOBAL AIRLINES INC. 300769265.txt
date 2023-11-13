@@ -1,32 +1,8 @@
 FL : ESTERO
   WESTERN GLOBAL AIRLINES INC.  300769265
-   [501]
-    2022: WESTERN GLOBAL AIRLINES INC. EMPLOYEE BENEFIT WELFARE PLAN
-        Participants: 
-    2021: WESTERN GLOBAL AIRLINES INC. EMPLOYEE BENEFIT WELFARE PLAN
-        Participants: 
-    2020: WESTERN GLOBAL AIRLINES EMPLOYEE BENEFIT WELFARE PLAN
-        Participants: 
-    2019: WESTERN GLOBAL AIRLINES EMPLOYEE BENEFIT WELFARE PLAN
-        Participants: 
-    2018: WESTERN GLOBAL AIRLINES EMPLOYEE BENEFIT WELFARE PLAN
-        Participants: 
-    2017: WESTERN GLOBAL AIRLINES EMPLOYEE BENEFIT WELFARE PLAN
-        Participants: 
-        Service Providers:
-           - BALDWIN KRYSTYN SHERMAN PARTNERS : BROKER (Insurance agents and brokers)
-           - BALDWIN KRYSTYN SHERMAN PARTNERS : BROKER (Insurance agents and brokers)
-   [002]
-    2021: WESTERN GLOBAL AIRLINES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 326
-        Assets: 441212218
-        $/Participant: 1353411
-    2020: WESTERN GLOBAL AIRLINES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 353
-        Assets: 328188750
-        $/Participant: 929713
-   [001]
     2021: WESTERN GLOBAL AIRLINES 401(K) PROFIT SHARING
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3B3D3H 
         Participants: 417
         Assets: 7909569
         $/Participant: 18967
@@ -63,6 +39,8 @@ FL : ESTERO
                  : TRANSAMERICA PARTNERS STOCK INDEX R
                  : VANGUARD TOTAL STOCK MARKET INDEX R
     2020: WESTERN GLOBAL AIRLINES 401(K) PROFIT SHARING
+        Benefit Category: 401(k)
+        Codes: 2A2E2J2F2G3D3H2T 
         Participants: 434
         Assets: 5483855
         $/Participant: 12635
@@ -99,6 +77,8 @@ FL : ESTERO
                  : TRANSAMERICA PARTNERS STOCK INDEX R
                  : VANGUARD TOTAL STOCK MARKET INDEX R
     2019: WESTERN GLOBAL AIRLINES 401(K) PROFIT SHARING
+        Benefit Category: 401(k)
+        Codes: 2A2E2J2F2G3D3H2T 
         Participants: 424
         Assets: 2986239
         $/Participant: 7043
@@ -125,6 +105,8 @@ FL : ESTERO
                  : TRANSAMERICA PARTNERS STOCK INDEX R
                  : VOYA SMALL COMPANY RET ACCT
     2018: WESTERN GLOBAL AIRLINES 401(K) PROFIT SHARING
+        Benefit Category: 401(k)
+        Codes: 2A2E2J2F2G3D3H2T 
         Participants: 383
         Assets: 1250491
         $/Participant: 3264
@@ -150,6 +132,8 @@ FL : ESTERO
                  : TRANSAMERICA PARTNERS STOCK INDEX R
                  : VOYA SMALL COMPANY RET ACCT
     2017: WESTERN GLOBAL AIRLINES 401(K) PROFIT SHARING
+        Benefit Category: 401(k)
+        Codes: 2A2E2J2F2G3D3H2T 
         Participants: 267
         Assets: 499219
         $/Participant: 1869
@@ -169,3 +153,44 @@ FL : ESTERO
                  : TRANSAMERICA INTERNATIONAL EQUITY R
                  : TRANSAMERICA PARTNERS STOCK INDEX R
                  : VOYA SMALL COMPANY RET ACCT
+   [002]
+    2021: WESTERN GLOBAL AIRLINES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P 
+        Participants: 326
+        Assets: 441212218
+        $/Participant: 1353411
+    2020: WESTERN GLOBAL AIRLINES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P 
+        Participants: 353
+        Assets: 328188750
+        $/Participant: 929713
+   [501]
+    2022: WESTERN GLOBAL AIRLINES INC. EMPLOYEE BENEFIT WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2021: WESTERN GLOBAL AIRLINES INC. EMPLOYEE BENEFIT WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: WESTERN GLOBAL AIRLINES EMPLOYEE BENEFIT WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: WESTERN GLOBAL AIRLINES EMPLOYEE BENEFIT WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L
+        Participants: 
+    2018: WESTERN GLOBAL AIRLINES EMPLOYEE BENEFIT WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2017: WESTERN GLOBAL AIRLINES EMPLOYEE BENEFIT WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L
+        Participants: 
+        Service Providers:
+           - BALDWIN KRYSTYN SHERMAN PARTNERS : BROKER (Insurance agents and brokers)
+           - BALDWIN KRYSTYN SHERMAN PARTNERS : BROKER (Insurance agents and brokers)

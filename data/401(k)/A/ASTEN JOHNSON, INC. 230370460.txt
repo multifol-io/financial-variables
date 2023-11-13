@@ -1,20 +1,9 @@
 SC : CHARLESTON
   ASTEN JOHNSON, INC.  230370460
-   [501]
-    2022: ASTEN JOHNSON HEALTH AND WELFARE BENEFITS PLAN
-        Participants: 
-    2021: ASTEN JOHNSON HEALTH AND WELFARE BENEFITS PLAN
-        Participants: 
-    2020: ASTEN JOHNSON HEALTH AND WELFARE BENEFITS PLAN
-        Participants: 
-    2019: ASTEN JOHNSON HEALTH AND WELFARE BENEFITS PLAN
-        Participants: 
-    2018: ASTEN JOHNSON HEALTH AND WELFARE BENEFITS PLAN
-        Participants: 
-    2017: ASTEN JOHNSON HEALTH AND WELFARE BENEFITS PLAN
-        Participants: 
    [004]
     2022: ASTENJOHNSON RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 631
         Assets: 146475210
         $/Participant: 232131
@@ -23,6 +12,8 @@ SC : CHARLESTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
     2021: ASTENJOHNSON RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3H2E 
         Participants: 610
         Assets: 192242380
         $/Participant: 315151
@@ -31,6 +22,8 @@ SC : CHARLESTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
     2020: ASTENJOHNSON RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 638
         Assets: 181791446
         $/Participant: 284939
@@ -39,6 +32,8 @@ SC : CHARLESTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
     2019: ASTENJOHNSON RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 661
         Assets: 161591632
         $/Participant: 244465
@@ -47,6 +42,8 @@ SC : CHARLESTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
     2018: ASTENJOHNSON RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 694
         Assets: 140403733
         $/Participant: 202310
@@ -55,6 +52,8 @@ SC : CHARLESTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
     2017: ASTENJOHNSON RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 841
         Assets: 154060912
         $/Participant: 183187
@@ -62,8 +61,35 @@ SC : CHARLESTON
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
+   [501]
+    2022: ASTEN JOHNSON HEALTH AND WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: ASTEN JOHNSON HEALTH AND WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: ASTEN JOHNSON HEALTH AND WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: ASTEN JOHNSON HEALTH AND WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: ASTEN JOHNSON HEALTH AND WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: ASTEN JOHNSON HEALTH AND WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
    [001]
     2022: JWI GROUP EMPLOYEES RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 264
         Assets: 15401906
         $/Participant: 58340
@@ -71,6 +97,8 @@ SC : CHARLESTON
            - MORGAN STANLEY :  (Contract Administrator | Investment advisory(plan))
            - COMERICA INSTITUTIONAL SERVICES :  (Trustee(bank, trust company, or similar))
     2021: JWI GROUP EMPLOYEES RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 269
         Assets: 18301310
         $/Participant: 68034
@@ -78,6 +106,8 @@ SC : CHARLESTON
            - MORGAN STANLEY :  (Contract Administrator | Investment advisory(plan))
            - COMERICA INSTITUTIONAL SERVICES :  (Trustee(bank, trust company, or similar))
     2020: JWI GROUP EMPLOYEES RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 280
         Assets: 17376452
         $/Participant: 62058
@@ -85,6 +115,8 @@ SC : CHARLESTON
            - MORGAN STANLEY :  (Contract Administrator | Investment advisory(plan))
            - COMERICA INSTITUTIONAL SERVICES :  (Trustee(bank, trust company, or similar))
     2019: JWI GROUP EMPLOYEES RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 284
         Assets: 15209176
         $/Participant: 53553
@@ -92,12 +124,16 @@ SC : CHARLESTON
            - SOUTH STATE RETIREMENT SERVICES :  (Contract Administrator | Investment advisory(plan))
            - COMERICA INSTITUTIONAL SERVICES :  (Trustee(bank, trust company, or similar))
     2018: JWI GROUP EMPLOYEES RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 289
         Assets: 13957504
         $/Participant: 48295
         Service Providers:
            - SOUTH STATE RETIREMENT SERVICES :  (Contract Administrator | Investment advisory(plan))
     2017: JWI GROUP EMPLOYEES RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 298
         Assets: 16485970
         $/Participant: 55322

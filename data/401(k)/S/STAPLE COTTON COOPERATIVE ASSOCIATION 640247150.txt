@@ -1,65 +1,9 @@
 MS : GREENWOOD
   STAPLE COTTON COOPERATIVE ASSOCIATION  640247150
-   [504]
-    2021: STAPLCOTN LONG TERM DISABILITY PLAN
-        Participants: 161
-    2020: STAPLCOTN LONG TERM DISABILITY PLAN
-        Participants: 163
-    2019: STAPLCOTN LONG TERM DISABILITY PLAN
-        Participants: 179
-    2018: STAPLCOTN LONG TERM DISABILITY PLAN
-        Participants: 161
-    2017: STAPLCOTN LONG TERM DISABILITY PLAN
-        Participants: 148
-   [503]
-    2021: STAPLCOTN GROUP LIFE INSURANCE PLAN
-        Participants: 159
-    2020: STAPLCOTN GROUP LIFE INSURANCE PLAN
-        Participants: 163
-    2019: STAPLCOTN GROUP LIFE INSURANCE PLAN
-        Participants: 179
-    2018: STAPLCOTN GROUP LIFE INSURANCE PLAN
-        Participants: 163
-    2017: STAPLCOTN GROUP LIFE INSURANCE PLAN
-        Participants: 147
-   [502]
-    2021: STAPLCOTN MEDICAL PLAN
-        Participants: 151
-        Assets: 1750913
-        $/Participant: 11595
-        Service Providers:
-           - BLUE CROSS & BLUE SHIELD OF MS :  (Claims processing)
-           - ORSBORN, SUTPHEN, & O'NEAL, PA :  (Accounting(including auditing))
-    2020: STAPLCOTN MEDICAL PLAN
-        Participants: 149
-        Assets: 2678601
-        $/Participant: 17977
-        Service Providers:
-           - BLUE CROSS & BLUE SHIELD OF MS :  (Claims processing)
-           - ORSBORN, SUTPHEN, & O'NEAL, PA :  (Accounting(including auditing))
-    2019: STAPLCOTN MEDICAL PLAN
-        Participants: 152
-        Assets: 3128813
-        $/Participant: 20584
-        Service Providers:
-           - BLUE CROSS & BLUE SHIELD OF MS :  (Claims processing)
-           - ORSBORN, SUTPHEN, & O'NEAL, PA :  (Accounting(including auditing))
-    2018: STAPLCOTN MEDICAL PLAN
-        Participants: 122
-        Assets: 2929912
-        $/Participant: 24015
-        Service Providers:
-           - BLUE CROSS & BLUE SHIELD OF MS :  (Claims processing)
-           - ORSBORN, SUTPHEN, & O'NEAL, PA :  (Accounting(including auditing))
-    2017: STAPLCOTN MEDICAL PLAN
-        Participants: 120
-        Assets: 2805988
-        $/Participant: 23383
-        Service Providers:
-           - ORSBORN, SUTPHEN, & O'NEAL, PA :  (Accounting(including auditing))
-           - BLUE CROSS & BLUE SHIELD OF MS :  (Claims processing)
    [002]
     2022: STAPLE COTTON COOPERATIVE ASSOCIATION AND ITS AFFILIATES 401K RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 3D3H2A2E2F2G2J2K2T 
         Participants: 166
         Assets: 15048891
         $/Participant: 90655
@@ -68,6 +12,8 @@ MS : GREENWOOD
            - FEDERATED INVESTORS TRUST COMPANY
                  : FH CAP PRESRVN R6P
     2021: STAPLE COTTON COOPERATIVE ASSOCIATION AND ITS AFFILIATES 401K RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3D3H 
         Participants: 181
         Assets: 19642720
         $/Participant: 108523
@@ -76,27 +22,125 @@ MS : GREENWOOD
            - FEDERATED INVESTORS TRUST COMPANY
                  : FH CAP PRESRVN R6P
     2020: STAPLE COTTON COOPERATIVE ASSOCIATION AND ITS AFFILIATES 401K RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D 
         Participants: 274
         Assets: 17610664
         $/Participant: 64272
         RecordKeeper: REGIONS BANK
     2019: STAPLE COTTON COOPERATIVE ASSOCIATION AND ITS AFFILIATES 401K RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D 
         Participants: 241
         Assets: 15156597
         $/Participant: 62890
         RecordKeeper: ASCENSUS
     2018: STAPLE COTTON COOPERATIVE ASSOCIATION AND ITS AFFILIATES 401K RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D 
         Participants: 222
         Assets: 12282077
         $/Participant: 55324
         RecordKeeper: REGIONS BANK
     2017: STAPLE COTTON COOPERATIVE ASSOCIATION AND ITS AFFILIATES 401K RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D 
         Participants: 208
         Assets: 13530133
         $/Participant: 65048
         RecordKeeper: REGIONS BANK
+   [502]
+    2021: STAPLCOTN MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 151
+        Assets: 1750913
+        $/Participant: 11595
+        Service Providers:
+           - BLUE CROSS & BLUE SHIELD OF MS :  (Claims processing)
+           - ORSBORN, SUTPHEN, & O'NEAL, PA :  (Accounting(including auditing))
+    2020: STAPLCOTN MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 149
+        Assets: 2678601
+        $/Participant: 17977
+        Service Providers:
+           - BLUE CROSS & BLUE SHIELD OF MS :  (Claims processing)
+           - ORSBORN, SUTPHEN, & O'NEAL, PA :  (Accounting(including auditing))
+    2019: STAPLCOTN MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 152
+        Assets: 3128813
+        $/Participant: 20584
+        Service Providers:
+           - BLUE CROSS & BLUE SHIELD OF MS :  (Claims processing)
+           - ORSBORN, SUTPHEN, & O'NEAL, PA :  (Accounting(including auditing))
+    2018: STAPLCOTN MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 122
+        Assets: 2929912
+        $/Participant: 24015
+        Service Providers:
+           - BLUE CROSS & BLUE SHIELD OF MS :  (Claims processing)
+           - ORSBORN, SUTPHEN, & O'NEAL, PA :  (Accounting(including auditing))
+    2017: STAPLCOTN MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 120
+        Assets: 2805988
+        $/Participant: 23383
+        Service Providers:
+           - ORSBORN, SUTPHEN, & O'NEAL, PA :  (Accounting(including auditing))
+           - BLUE CROSS & BLUE SHIELD OF MS :  (Claims processing)
+   [503]
+    2021: STAPLCOTN GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 159
+    2020: STAPLCOTN GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 163
+    2019: STAPLCOTN GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 179
+    2018: STAPLCOTN GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 163
+    2017: STAPLCOTN GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 147
+   [504]
+    2021: STAPLCOTN LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 161
+    2020: STAPLCOTN LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 163
+    2019: STAPLCOTN LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 179
+    2018: STAPLCOTN LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 161
+    2017: STAPLCOTN LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 148
    [001]
     2021: GROUP PENSION PLAN FOR EMPLOYEES OF STAPLE COTTON COOPERATIVE ASSOCIATION
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 232
         Assets: 59283079
         $/Participant: 255530
@@ -104,6 +148,8 @@ MS : GREENWOOD
            - WILLIAM BLAIR & COMPANY :  (Custodial(securities) | Investment advisory(plan))
            - RELIANCE TRUST CO. :  (Trustee(bank, trust company, or similar) | Trustee(directed) | Direct payment from the plan | Float revenue)
     2020: GROUP PENSION PLAN FOR EMPLOYEES OF STAPLE COTTON COOPERATIVE ASSOCIATION
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 247
         Assets: 74715709
         $/Participant: 302492
@@ -111,6 +157,8 @@ MS : GREENWOOD
            - WILLIAM BLAIR & COMPANY :  (Custodial(securities) | Investment advisory(plan))
            - RELIANCE TRUST CO. :  (Trustee(bank, trust company, or similar) | Trustee(directed) | Direct payment from the plan | Float revenue)
     2019: GROUP PENSION PLAN FOR EMPLOYEES OF STAPLE COTTON COOPERATIVE ASSOCIATION
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 268
         Assets: 64420352
         $/Participant: 240374
@@ -118,6 +166,8 @@ MS : GREENWOOD
            - WILLIAM BLAIR & COMPANY :  (Custodial(securities) | Investment advisory(plan))
            - RELIANCE TRUST CO. :  (Trustee(bank, trust company, or similar) | Trustee(directed) | Direct payment from the plan | Float revenue)
     2018: GROUP PENSION PLAN FOR EMPLOYEES OF STAPLE COTTON COOPERATIVE ASSOCIATION
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 255
         Assets: 56961629
         $/Participant: 223378
@@ -125,6 +175,8 @@ MS : GREENWOOD
            - WILLIAM BLAIR & COMPANY :  (Custodial(securities) | Investment advisory(plan))
            - RELIANCE TRUST CO. :  (Trustee(bank, trust company, or similar) | Trustee(directed) | Direct payment from the plan | Float revenue)
     2017: GROUP PENSION PLAN FOR EMPLOYEES OF STAPLE COTTON COOPERATIVE ASSOCIATION
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 311
         Assets: 56593226
         $/Participant: 181971

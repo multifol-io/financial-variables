@@ -1,26 +1,8 @@
 TX : LEWISVILLE
-  VINSON PROCESS CONTROLS COMPANY, LP  752926491
-   [505]
-    2021: VINSON PROCESS CONTROLS BENEFIT PLAN
-        Participants: 
-    2020: VINSON PROCESS CONTROLS BENEFIT PLAN
-        Participants: 
-   [502]
-    2019: VINSON PROCESS CONTROLS MEDICAL PLAN
-        Participants: 
-    2018: VINSON PROCESS CONTROLS MEDICAL PLAN
-        Participants: 
-    2017: VINSON PROCESS CONTROLS MEDICAL AND DENTAL PLAN
-        Participants: 
-   [501]
-    2019: VINSON PROCESS CONTROLS LIFE, DENTAL, VISION AND DISABILITY PLAN
-        Participants: 
-    2018: VINSON PROCESS CONTROLS LIFE, DENTAL, VISION AND DISABILITY PLAN
-        Participants: 
-    2017: VINSON PROCESS CONTROLS LIFE AND DISABILITY PLAN
-        Participants: 
-   [001]
+  VINSON PROCESS CONTROLS COMPANY, L.P.  752926491
     2022: VINSON PROCESS CONTROLS 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 254
         Assets: 52049948
         $/Participant: 204921
@@ -31,6 +13,8 @@ TX : LEWISVILLE
                  : PRIN/BR AGG BD INDEX CIT N
                  : PRIN/BR S&P MID INDEX CIT N
     2021: VINSON PROCESS CONTROLS 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 227
         Assets: 61941069
         $/Participant: 272868
@@ -43,6 +27,8 @@ TX : LEWISVILLE
            - WELLS FARGO
                  : WELLS FARGO STABLE RETRN N FD
     2020: VINSON PROCESS CONTROLS 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 209
         Assets: 53253914
         $/Participant: 254803
@@ -53,6 +39,8 @@ TX : LEWISVILLE
                  : WF/BLACKROCK S&P MIDCAP IND
                  : WF/BLACKROCK US AGG BOND INDEX CIT
     2019: VINSON PROCESS CONTROLS 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 231
         Assets: 47366811
         $/Participant: 205051
@@ -64,6 +52,8 @@ TX : LEWISVILLE
            - WELLS FARGO BANK, N.A.985260
                  : WF/BLACKROCK S&P MIDCAP IND
     2018: VINSON PROCESS CONTROLS 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 210
         Assets: 37324594
         $/Participant: 177736
@@ -75,6 +65,8 @@ TX : LEWISVILLE
            - WELLS FARGO BANK, N.A.985260
                  : WF/BLACKROCK S&P MIDCAP IND
     2017: VINSON PROCESS CONTROLS 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 188
         Assets: 39331907
         $/Participant: 209212
@@ -85,3 +77,38 @@ TX : LEWISVILLE
                  : WELLS FARGO STABLE RETURN FUND N
                  : WF/BLACKROCK S&P MIDCAP IND
                  : WF/BLACKROCK US AGG BOND INDEX CIT
+   [502]
+    2019: VINSON PROCESS CONTROLS MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: VINSON PROCESS CONTROLS MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: VINSON PROCESS CONTROLS MEDICAL AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+   [505]
+    2021: VINSON PROCESS CONTROLS BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2020: VINSON PROCESS CONTROLS BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+   [501]
+    2019: VINSON PROCESS CONTROLS LIFE, DENTAL, VISION AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4D4E4F4H4Q
+        Participants: 
+    2018: VINSON PROCESS CONTROLS LIFE, DENTAL, VISION AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4D4E4F4H4Q
+        Participants: 
+    2017: VINSON PROCESS CONTROLS LIFE AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H4Q
+        Participants: 

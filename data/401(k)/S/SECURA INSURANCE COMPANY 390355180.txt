@@ -1,40 +1,9 @@
 WI : NEENAH
   SECURA INSURANCE COMPANY  390355180
-   [509]
-    2022: SECURA INSURANCE COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-    2021: SECURA INSURANCE COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-    2020: SECURA INSURANCE COMPANIES WELFARE BENEFIT PLAN
-        Participants: 866
-        Service Providers:
-           - CAPFINANCIAL PARTNERS, LLC : CONSULTANT (Consulting fees)
-           - LUCENT HEALTH SOLUTIONS LLC : TPA (Claims processing)
-           - DELTA DENTAL OF WISCONSIN : TPA (Contract Administrator)
-    2019: SECURA INSURANCE COMPANIES WELFARE BENEFIT PLAN
-        Participants: 857
-        Service Providers:
-           - DELTA DENTAL OF WISCONSIN : TPA (Contract Administrator)
-           - CYPRESS BENEFIT ADMINISTRATORS LLC : CONTRACT ADMIN (Claims processing)
-           - CAPFINANCIAL PARTNERS LLC : CONSULTANT (Consulting fees)
-WI : APPLETON
-    2018: SECURA INSURANCE COMPANIES WELFARE BENEFIT PLAN
-        Participants: 811
-        Service Providers:
-           - CAPFINANCIAL PARTNERS, LLC : CONSULTANT (Consulting fees)
-           - CYPRESS BENEFIT ADMINISTRATORS, LLC : CONTRACT ADMIN (Claims processing)
-           - MEDICAL EXCESS INSURANCE SERVICES : CONTRACT ADMIN (Claims processing)
-           - DELTA DENTA OF WI : TPA (Contract Administrator)
-    2017: SECURA INSURANCE COMPANIES WELFARE BENEFIT PLAN
-        Participants: 736
-        Service Providers:
-           - DELTA DENTAL OF WI : TPA (Contract Administrator)
-           - MEDICAL EXCESS INSURANCE SERVICES : CONTRACT ADMIN (Claims processing)
-           - SPECTRUM : CONTRACT ADMIN (Claims processing)
-           - CYPRESS BENEFIT ADMINISTRATORS, LLC : TPA (Claims processing)
-WI : NEENAH
    [002]
     2022: SECURA EMPLOYEES' SALARY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 1270
         Assets: 138856167
         $/Participant: 109335
@@ -43,6 +12,8 @@ WI : NEENAH
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST VIII
     2021: SECURA EMPLOYEES' SALARY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 1130
         Assets: 163710727
         $/Participant: 144876
@@ -51,6 +22,8 @@ WI : NEENAH
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST VIII
     2020: SECURA EMPLOYEES' SALARY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 1064
         Assets: 139181891
         $/Participant: 130810
@@ -60,6 +33,8 @@ WI : NEENAH
                  : VFTC RETIREMENT SAVINGS TRUST VIII
 WI : APPLETON
     2019: SECURA EMPLOYEES' SALARY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 1026
         Assets: 114149156
         $/Participant: 111256
@@ -68,6 +43,8 @@ WI : APPLETON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST VIII
     2018: SECURA EMPLOYEES' SALARY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 980
         Assets: 90495065
         $/Participant: 92341
@@ -76,6 +53,8 @@ WI : APPLETON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST VIII
     2017: SECURA EMPLOYEES' SALARY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 899
         Assets: 97614828
         $/Participant: 108581
@@ -84,34 +63,91 @@ WI : APPLETON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST VIII
 WI : NEENAH
+   [509]
+    2022: SECURA INSURANCE COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2021: SECURA INSURANCE COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2020: SECURA INSURANCE COMPANIES WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 866
+        Service Providers:
+           - CAPFINANCIAL PARTNERS, LLC : CONSULTANT (Consulting fees)
+           - LUCENT HEALTH SOLUTIONS LLC : TPA (Claims processing)
+           - DELTA DENTAL OF WISCONSIN : TPA (Contract Administrator)
+    2019: SECURA INSURANCE COMPANIES WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 857
+        Service Providers:
+           - DELTA DENTAL OF WISCONSIN : TPA (Contract Administrator)
+           - CYPRESS BENEFIT ADMINISTRATORS LLC : CONTRACT ADMIN (Claims processing)
+           - CAPFINANCIAL PARTNERS LLC : CONSULTANT (Consulting fees)
+WI : APPLETON
+    2018: SECURA INSURANCE COMPANIES WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 811
+        Service Providers:
+           - CAPFINANCIAL PARTNERS, LLC : CONSULTANT (Consulting fees)
+           - CYPRESS BENEFIT ADMINISTRATORS, LLC : CONTRACT ADMIN (Claims processing)
+           - MEDICAL EXCESS INSURANCE SERVICES : CONTRACT ADMIN (Claims processing)
+           - DELTA DENTA OF WI : TPA (Contract Administrator)
+    2017: SECURA INSURANCE COMPANIES WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 736
+        Service Providers:
+           - DELTA DENTAL OF WI : TPA (Contract Administrator)
+           - MEDICAL EXCESS INSURANCE SERVICES : CONTRACT ADMIN (Claims processing)
+           - SPECTRUM : CONTRACT ADMIN (Claims processing)
+           - CYPRESS BENEFIT ADMINISTRATORS, LLC : TPA (Claims processing)
+WI : NEENAH
    [001]
     2022: SECURA EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 571
         Assets: 134067472
         $/Participant: 234794
         RecordKeeper: CLIFTON LARSON ALLEN LLP
     2021: SECURA EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 585
         Assets: 171641212
         $/Participant: 293403
         RecordKeeper: CLIFTON LARSON ALLEN LLP
     2020: SECURA EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 582
         Assets: 155181027
         $/Participant: 266634
         RecordKeeper: CLIFTONLARSONALLEN LLP
 WI : APPLETON
     2019: SECURA EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 591
         Assets: 141501777
         $/Participant: 239427
         RecordKeeper: CLIFTONLARSONALLEN LLP
     2018: SECURA EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 596
         Assets: 115236211
         $/Participant: 193349
         RecordKeeper: CLIFTONLARSONALLEN LLP
     2017: SECURA EMPLOYEES' PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 605
         Assets: 129517639
         $/Participant: 214078

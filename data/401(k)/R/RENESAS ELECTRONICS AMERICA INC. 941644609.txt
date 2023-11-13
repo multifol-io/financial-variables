@@ -1,20 +1,9 @@
 CA : MILPITAS
   RENESAS ELECTRONICS AMERICA INC.  941644609
-   [512]
-    2017: RENESAS ELECTRONICS AMERICA INC. SEVERANCE PAYMENT PLAN
-        Participants: 
-   [510]
-    2017: RENESAS ELECTRONICS AMERICA INC. SHORT TERM DISABILITY PLAN
-        Participants: 
-        Assets: 265960
-        $/Participant: 
-        Service Providers:
-           - MOSS ADAMS, LLP :  (Accounting(including auditing))
-   [508]
-    2017: RENESAS ELECTRONICS AMERICA INC. BENEFIT PLAN
-        Participants: 
    [002]
     2017: RENESAS ELECTRONICS AMERICA INC. SAVINGS & RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T3D2E 
         Participants: 1191
         Assets: 621465924
         $/Participant: 521801
@@ -34,3 +23,22 @@ CA : MILPITAS
                  : TRP RETIRE 2045 A
                  : TRP RETIRE 2050 A
                  : TRP RETIRE 2055 A
+   [508]
+    2017: RENESAS ELECTRONICS AMERICA INC. BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+   [510]
+    2017: RENESAS ELECTRONICS AMERICA INC. SHORT TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+        Assets: 265960
+        $/Participant: 
+        Service Providers:
+           - MOSS ADAMS, LLP :  (Accounting(including auditing))
+   [512]
+    2017: RENESAS ELECTRONICS AMERICA INC. SEVERANCE PAYMENT PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

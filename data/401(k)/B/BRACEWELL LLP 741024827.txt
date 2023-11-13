@@ -1,67 +1,35 @@
 TX : HOUSTON
   BRACEWELL LLP  741024827
-   [517]
-    2021: THE BRACEWELL LLP WELFARE BENEFIT PLAN
-        Participants: 
-    2020: THE BRACEWELL LLP WELFARE BENEFIT PLAN
-        Participants: 
-    2019: THE BRACEWELL LLP WELFARE BENEFIT PLAN
-        Participants: 
-    2018: THE BRACEWELL LLP WELFARE BENEFIT PLAN
-        Participants: 
-    2017: THE BRACEWELL LLP WELFARE BENEFIT PLAN
-        Participants: 672
    [504]
     2017: BRACEWELL LLP CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 
-   [004]
-    2020: BRACEWELL LLP MONEY PURCHASE PLAN
-        Participants: 0
-    2019: BRACEWELL LLP MONEY PURCHASE PLAN
-        Participants: 1
-    2018: BRACEWELL LLP MONEY PURCHASE PLAN
-        Participants: 1
-    2017: BRACEWELL LLP MONEY PURCHASE PLAN
-        Participants: 1
-   [002]
-    2022: BRACEWELL LLP 401(K) PLAN B
-        Participants: 632
-        Assets: 77278772
-        $/Participant: 122276
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : MIP CL 2
-    2021: BRACEWELL LLP 401(K) PLAN B
-        Participants: 368
-        Assets: 93671490
-        $/Participant: 254542
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : MIP CL 2
-    2020: BRACEWELL LLP 401(K) PLAN B
-        Participants: 369
-        Assets: 83800070
-        $/Participant: 227100
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2019: BRACEWELL LLP 401(K) PLAN B
-        Participants: 401
-        Assets: 77684151
-        $/Participant: 193726
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2018: BRACEWELL LLP 401(K) PLAN B
-        Participants: 391
-        Assets: 64786975
-        $/Participant: 165695
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2017: BRACEWELL LLP 401(K) PLAN B
-        Participants: 383
-        Assets: 65580596
-        $/Participant: 171228
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+   [517]
+    2021: THE BRACEWELL LLP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: THE BRACEWELL LLP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: THE BRACEWELL LLP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: THE BRACEWELL LLP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: THE BRACEWELL LLP WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 672
    [001]
     2022: BRACEWELL LLP 401(K) PLAN A
+        Benefit Category: Other
+        Codes: 2S2T3D2R2A 
         Participants: 934
         Assets: 196047558
         $/Participant: 209901
@@ -70,6 +38,8 @@ TX : HOUSTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
     2021: BRACEWELL LLP 401(K) PLAN A
+        Benefit Category: Other
+        Codes: 2A2S2T3D2R 
         Participants: 966
         Assets: 263441077
         $/Participant: 272713
@@ -78,22 +48,96 @@ TX : HOUSTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
     2020: BRACEWELL LLP 401(K) PLAN A
+        Benefit Category: Other
+        Codes: 2A2R2S2T3D 
         Participants: 824
         Assets: 238295392
         $/Participant: 289193
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2019: BRACEWELL LLP 401K PLAN A
+        Benefit Category: Other
+        Codes: 2A2R2S2T3D 
         Participants: 1029
         Assets: 219072309
         $/Participant: 212898
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2018: BRACEWELL LLP 401K PLAN A
+        Benefit Category: Other
+        Codes: 2A2R2S2T3D 
         Participants: 1035
         Assets: 180989678
         $/Participant: 174869
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2017: BRACEWELL LLP 401K PLAN A
+        Benefit Category: Other
+        Codes: 2A2R2S2T3D 
         Participants: 1048
         Assets: 189206967
         $/Participant: 180540
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+   [002]
+    2022: BRACEWELL LLP 401(K) PLAN B
+        Benefit Category: Other
+        Codes: 2A2E2G2S2T3B3D2R 
+        Participants: 632
+        Assets: 77278772
+        $/Participant: 122276
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : MIP CL 2
+    2021: BRACEWELL LLP 401(K) PLAN B
+        Benefit Category: Other
+        Codes: 2A2E2G2S2T3B3D2R 
+        Participants: 368
+        Assets: 93671490
+        $/Participant: 254542
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : MIP CL 2
+    2020: BRACEWELL LLP 401(K) PLAN B
+        Benefit Category: Other
+        Codes: 2A2E2G2S2T3B3D2R 
+        Participants: 369
+        Assets: 83800070
+        $/Participant: 227100
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2019: BRACEWELL LLP 401(K) PLAN B
+        Benefit Category: Other
+        Codes: 2A2E2G2R2S2T3B3D 
+        Participants: 401
+        Assets: 77684151
+        $/Participant: 193726
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2018: BRACEWELL LLP 401(K) PLAN B
+        Benefit Category: Other
+        Codes: 2A2E2G2R2S2T3B3D 
+        Participants: 391
+        Assets: 64786975
+        $/Participant: 165695
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2017: BRACEWELL LLP 401(K) PLAN B
+        Benefit Category: Other
+        Codes: 2A2E2G2R2S2T3B3D 
+        Participants: 383
+        Assets: 65580596
+        $/Participant: 171228
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+   [004]
+    2020: BRACEWELL LLP MONEY PURCHASE PLAN
+        Benefit Category: Other
+        Codes: 2T2C 
+        Participants: 0
+    2019: BRACEWELL LLP MONEY PURCHASE PLAN
+        Benefit Category: Other
+        Codes: 2T2C 
+        Participants: 1
+    2018: BRACEWELL LLP MONEY PURCHASE PLAN
+        Benefit Category: Other
+        Codes: 2C2T 
+        Participants: 1
+    2017: BRACEWELL LLP MONEY PURCHASE PLAN
+        Benefit Category: Other
+        Codes: 2T2C 
+        Participants: 1

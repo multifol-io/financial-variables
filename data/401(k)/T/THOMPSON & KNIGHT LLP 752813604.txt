@@ -1,35 +1,17 @@
 TX : DALLAS
   THOMPSON & KNIGHT LLP  752813604
-   [501]
-    2020: THOMPSON & KNIGHT GROUP INSURANCE PLAN
-        Participants: 
-    2019: THOMPSON & KNIGHT GROUP INSURANCE PLAN
-        Participants: 
-    2018: THOMPSON & KNIGHT GROUP INSURANCE PLAN
-        Participants: 
-    2017: THOMPSON & KNIGHT GROUP INSURANCE PLAN
-        Participants: 
-   [005]
-    2020: THOMPSON & KNIGHT CASH BALANCE PLAN
-        Participants: 106
-        Assets: 9930516
-        $/Participant: 93684
-    2019: THOMPSON & KNIGHT CASH BALANCE PLAN
-        Participants: 111
-        Assets: 9039704
-        $/Participant: 81438
-    2018: THOMPSON & KNIGHT CASH BALANCE PLAN
-        Participants: 109
-        Assets: 4312563
-        $/Participant: 39564
    [002]
     2021: THOMPSON & KNIGHT RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2F2K2T3H2E2R 
         Participants: 0
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
     2020: THOMPSON & KNIGHT RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2F2K2T3H2E2R 
         Participants: 643
         Assets: 328935048
         $/Participant: 511563
@@ -38,6 +20,8 @@ TX : DALLAS
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
     2019: THOMPSON & KNIGHT RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2T3H2E 
         Participants: 671
         Assets: 316106446
         $/Participant: 471097
@@ -46,6 +30,8 @@ TX : DALLAS
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
     2018: THOMPSON & KNIGHT RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2K2R2T3H2G2J 
         Participants: 669
         Assets: 267582490
         $/Participant: 399973
@@ -54,6 +40,8 @@ TX : DALLAS
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
     2017: THOMPSON & KNIGHT RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3H 
         Participants: 674
         Assets: 280400922
         $/Participant: 416025
@@ -61,3 +49,39 @@ TX : DALLAS
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
+   [501]
+    2020: THOMPSON & KNIGHT GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: THOMPSON & KNIGHT GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: THOMPSON & KNIGHT GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: THOMPSON & KNIGHT GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+   [005]
+    2020: THOMPSON & KNIGHT CASH BALANCE PLAN
+        Benefit Category: Other
+        Codes: 1C3H 
+        Participants: 106
+        Assets: 9930516
+        $/Participant: 93684
+    2019: THOMPSON & KNIGHT CASH BALANCE PLAN
+        Benefit Category: Other
+        Codes: 1C3H 
+        Participants: 111
+        Assets: 9039704
+        $/Participant: 81438
+    2018: THOMPSON & KNIGHT CASH BALANCE PLAN
+        Benefit Category: Other
+        Codes: 1C3H 
+        Participants: 109
+        Assets: 4312563
+        $/Participant: 39564

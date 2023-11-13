@@ -1,63 +1,9 @@
 UT : DELTA
   INTERMOUNTAIN POWER SERVICE CORPORATION  870388573
-   [503]
-    2022: INTERMOUNTAIN POWER SERVICE CORPORATION VOLUNTARY EMPLOYEES' BENEFICIARY ASSOCIATION WELFARE BENEFIT PLAN
-        Participants: 
-        Assets: 87092944
-        $/Participant: 
-        Service Providers:
-           - PRINCIPAL CUSTODY :  (Trustee(bank, trust company, or similar))
-    2021: INTERMOUNTAIN POWER SERVICE CORPORATION VOLUNTARY EMPLOYEES' BENEFICIARY ASSOCIATION WELFARE BENEFIT PLAN
-        Participants: 
-        Assets: 107459670
-        $/Participant: 
-        Service Providers:
-           - WELLS FARGO :  (Trustee(bank, trust company, or similar))
-    2020: INTERMOUNTAIN POWER SERVICE CORPORATION VOLUNTARY EMPLOYEES' BENEFICIARY ASSOCIATION WELFARE BENEFIT PLAN
-        Participants: 
-        Assets: 95431750
-        $/Participant: 
-        Service Providers:
-           - WELLS FARGO :  (Trustee(bank, trust company, or similar))
-    2019: INTERMOUNTAIN POWER SERVICE CORPORATION VOLUNTARY EMPLOYEES' BENEFICIARY ASSOCIATION WELFARE BENEFIT PLAN
-        Participants: 
-        Assets: 67080344
-        $/Participant: 
-        Service Providers:
-           - WELLS FARGO :  (Trustee(bank, trust company, or similar))
-    2018: INTERMOUNTAIN POWER SERVICE CORPORATION VOLUNTARY EMPLOYEES' BENEFICIARY ASSOCIATION WELFARE BENEFIT PLAN
-        Participants: 
-        Assets: 49669832
-        $/Participant: 
-        Service Providers:
-           - WELLS FARGO :  (Trustee(bank, trust company, or similar))
-    2017: INTERMOUNTAIN POWER SERVICE CORPORATION VOLUNTARY EMPLOYEES' BENEFICIARY ASSOCIATION WELFARE BENEFIT PLAN
-        Participants: 
-        Assets: 48403933
-        $/Participant: 
-        Service Providers:
-           - WELLS FARGO :  (Trustee(bank, trust company, or similar))
-   [502]
-    2022: INTERMOUNTAIN POWER SERVICE CORP GROUP INSURANCE PLAN
-        Participants: 
-    2021: INTERMOUNTAIN POWER SERVICE CORP GROUP INSURANCE PLAN
-        Participants: 
-    2020: INTERMOUNTAIN POWER SERVICE CORP GROUP INSURANCE PLAN
-        Participants: 
-    2019: INTERMOUNTAIN POWER SERVICE CORP GROUP INSURANCE PLAN
-        Participants: 
-    2018: INTERMOUNTAIN POWER SERVICE CORP GROUP INSURANCE PLAN
-        Participants: 
-    2017: INTERMOUNTAIN POWER SERVICE CORP GROUP INSURANCE PLAN
-        Participants: 
-   [100]
-    2017: INTERMOUNTAIN POWER SERVICE CORPORATION MASTER TRUST
-        Participants: 
-        Available Investments:
-           - BMO HARRIS BANK, N.A.
-                 : BMO STABLE VALUE FUND CL I
    [002]
     2021: SAVINGS PLAN FOR EMPLOYEES OF INTERMOUNTAIN POWER SERVICE CORPORATION
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 424
         Assets: 94569198
         $/Participant: 223040
@@ -71,6 +17,8 @@ UT : DELTA
                  : PRIN REAL ESTATE SECS SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2020: SAVINGS PLAN FOR EMPLOYEES OF INTERMOUNTAIN POWER SERVICE CORPORATION
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 448
         Assets: 115862391
         $/Participant: 258621
@@ -84,6 +32,8 @@ UT : DELTA
                  : PRIN REAL ESTATE SECS SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2019: SAVINGS PLAN FOR EMPLOYEES OF INTERMOUNTAIN POWER SERVICE CORPORATION
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 462
         Assets: 98649744
         $/Participant: 213527
@@ -97,6 +47,8 @@ UT : DELTA
                  : PRIN REAL ESTATE SECS SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2018: SAVINGS PLAN FOR EMPLOYEES OF INTERMOUNTAIN POWER SERVICE CORPORATION
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 471
         Assets: 100251441
         $/Participant: 212848
@@ -109,6 +61,8 @@ UT : DELTA
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2017: SAVINGS PLAN FOR EMPLOYEES OF INTERMOUNTAIN POWER SERVICE CORPORATION
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 489
         Assets: 102934560
         $/Participant: 210500
@@ -122,8 +76,92 @@ UT : DELTA
                  : PRIN LGCP S&P 500 INDEX SA-Z
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
+   [502]
+    2022: INTERMOUNTAIN POWER SERVICE CORP GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L
+        Participants: 
+    2021: INTERMOUNTAIN POWER SERVICE CORP GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L
+        Participants: 
+    2020: INTERMOUNTAIN POWER SERVICE CORP GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L
+        Participants: 
+    2019: INTERMOUNTAIN POWER SERVICE CORP GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L
+        Participants: 
+    2018: INTERMOUNTAIN POWER SERVICE CORP GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L
+        Participants: 
+    2017: INTERMOUNTAIN POWER SERVICE CORP GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L
+        Participants: 
+   [503]
+    2022: INTERMOUNTAIN POWER SERVICE CORPORATION VOLUNTARY EMPLOYEES' BENEFICIARY ASSOCIATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4L
+        Participants: 
+        Assets: 87092944
+        $/Participant: 
+        Service Providers:
+           - PRINCIPAL CUSTODY :  (Trustee(bank, trust company, or similar))
+    2021: INTERMOUNTAIN POWER SERVICE CORPORATION VOLUNTARY EMPLOYEES' BENEFICIARY ASSOCIATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4L
+        Participants: 
+        Assets: 107459670
+        $/Participant: 
+        Service Providers:
+           - WELLS FARGO :  (Trustee(bank, trust company, or similar))
+    2020: INTERMOUNTAIN POWER SERVICE CORPORATION VOLUNTARY EMPLOYEES' BENEFICIARY ASSOCIATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4L
+        Participants: 
+        Assets: 95431750
+        $/Participant: 
+        Service Providers:
+           - WELLS FARGO :  (Trustee(bank, trust company, or similar))
+    2019: INTERMOUNTAIN POWER SERVICE CORPORATION VOLUNTARY EMPLOYEES' BENEFICIARY ASSOCIATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4L
+        Participants: 
+        Assets: 67080344
+        $/Participant: 
+        Service Providers:
+           - WELLS FARGO :  (Trustee(bank, trust company, or similar))
+    2018: INTERMOUNTAIN POWER SERVICE CORPORATION VOLUNTARY EMPLOYEES' BENEFICIARY ASSOCIATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4L
+        Participants: 
+        Assets: 49669832
+        $/Participant: 
+        Service Providers:
+           - WELLS FARGO :  (Trustee(bank, trust company, or similar))
+    2017: INTERMOUNTAIN POWER SERVICE CORPORATION VOLUNTARY EMPLOYEES' BENEFICIARY ASSOCIATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 
+        Assets: 48403933
+        $/Participant: 
+        Service Providers:
+           - WELLS FARGO :  (Trustee(bank, trust company, or similar))
+   [100]
+    2017: INTERMOUNTAIN POWER SERVICE CORPORATION MASTER TRUST
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Available Investments:
+           - BMO HARRIS BANK, N.A.
+                 : BMO STABLE VALUE FUND CL I
    [001]
     2022: RETIREMENT PLAN FOR EMPLOYEES OF INTERMOUNTAIN POWER SERVICE CORPORATION
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 722
         Assets: 300699324
         $/Participant: 416481
@@ -142,6 +180,8 @@ UT : DELTA
                  : SMALL CAP GROWTH/TIMESSQUARE
                  : SMALL CAP VALUE/INTEGRITY
     2021: RETIREMENT PLAN FOR EMPLOYEES OF INTERMOUNTAIN POWER SERVICE CORPORATION
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 749
         Assets: 366856013
         $/Participant: 489794
@@ -171,6 +211,8 @@ UT : DELTA
                  : WF/BLACKROCK S&P MIDCAP INDEX CIT
                  : WF/MULTI-MANAGER SMALL CAP CIT F
     2020: RETIREMENT PLAN FOR EMPLOYEES OF INTERMOUNTAIN POWER SERVICE CORPORATION
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 781
         Assets: 349325637
         $/Participant: 447279
@@ -203,6 +245,8 @@ UT : DELTA
                  : WF/BLACKROCK S&P MIDCAP INDEX CIT
                  : WF/MULTI-MANAGER SMALL CAP CIT F
     2019: RETIREMENT PLAN FOR EMPLOYEES OF INTERMOUNTAIN POWER SERVICE CORPORATION
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 809
         Assets: 312956942
         $/Participant: 386844
@@ -233,6 +277,8 @@ UT : DELTA
                  : WF/BLACKROCK S&P MIDCAP INDEX CIT
                  : WF/MULTI-MANAGER SMALL CAP CIT F
     2018: RETIREMENT PLAN FOR EMPLOYEES OF INTERMOUNTAIN POWER SERVICE CORPORATION
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 812
         Assets: 275002982
         $/Participant: 338673
@@ -256,6 +302,8 @@ UT : DELTA
                  : SMALL CAP GROWTH/TIMESSQUARE
                  : SMALL CAP VALUE/INTEGRITY
     2017: RETIREMENT PLAN FOR EMPLOYEES OF INTERMOUNTAIN POWER SERVICE CORPORATION
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 845
         Assets: 297955388
         $/Participant: 352609

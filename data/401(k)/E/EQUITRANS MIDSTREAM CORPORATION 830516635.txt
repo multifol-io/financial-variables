@@ -1,55 +1,9 @@
 PA : CANONSBURG
   EQUITRANS MIDSTREAM CORPORATION  830516635
-   [503]
-    2019: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR FUNDED BENEFITS
-        Participants: 
-    2018: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR FUNDED BENEFITS
-        Participants: 
-   [502]
-    2022: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR RETIREES
-        Participants: 
-        Assets: 6539877
-        $/Participant: 
-        Service Providers:
-           - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-           - TOWERS WATSON DELAWARE INC : ACTUARY (Actuarial | Direct payment from the plan)
-    2021: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR RETIREES
-        Participants: 
-        Assets: 5452305
-        $/Participant: 
-        Service Providers:
-           - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-           - TOWERS WATSON DELAWARE INC : ACTUARY (Actuarial | Direct payment from the plan)
-    2020: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR RETIREES
-        Participants: 
-        Assets: 4495295
-        $/Participant: 
-        Service Providers:
-           - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-           - TOWERS WATSON DELAWARE INC : ACTUARY (Actuarial | Direct payment from the plan)
-           - XEROX CORPORATION : CONTRACT ADMNSTRTR (Contract Administrator | Direct payment from the plan)
-    2019: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR RETIREES
-        Participants: 
-        Assets: 3517655
-        $/Participant: 
-        Service Providers:
-           - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-           - XEROX CORPORATION : CONTRACT ADMNSTRTR (Contract Administrator | Direct payment from the plan)
-   [501]
-    2022: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR UNFUNDED BENEFITS
-        Participants: 
-    2021: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR UNFUNDED BENEFITS
-        Participants: 
-    2020: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR UNFUNDED BENEFITS
-        Participants: 
-    2019: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR UNFUNDED BENEFITS
-        Participants: 
-PA : PITTSBURGH
-    2018: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR UNFUNDED BENEFITS
-        Participants: 
-PA : CANONSBURG
    [201]
     2022: EQUITRANS MIDSTREAM CORPORATION EMPLOYEE SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 870
         Assets: 197394968
         $/Participant: 226890
@@ -74,6 +28,8 @@ PA : CANONSBURG
                  : MIP CL 1
                  : MIP II CL 1
     2021: EQUITRANS MIDSTREAM CORPORATION EMPLOYEE SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 846
         Assets: 228636341
         $/Participant: 270255
@@ -96,6 +52,8 @@ PA : CANONSBURG
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
     2020: EQUITRANS MIDSTREAM CORPORATION EMPLOYEE SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 847
         Assets: 184508493
         $/Participant: 217837
@@ -117,6 +75,8 @@ PA : CANONSBURG
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
     2019: EQUITRANS MIDSTREAM CORPORATION EMPLOYEE SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 848
         Assets: 149959337
         $/Participant: 176838
@@ -140,6 +100,8 @@ PA : CANONSBURG
                  : MIP II CL 1
 PA : PITTSBURGH
     2018: EQUITRANS MIDSTREAM CORPORATION EMPLOYEE SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J3D2K2S2T 
         Participants: 768
         Assets: 113874115
         $/Participant: 148273
@@ -161,3 +123,79 @@ PA : PITTSBURGH
                  : FIAM BLEND TD INC Q
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
+PA : CANONSBURG
+   [501]
+    2022: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR UNFUNDED BENEFITS
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4L4Q
+        Participants: 
+    2021: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR UNFUNDED BENEFITS
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4L4Q
+        Participants: 
+    2020: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR UNFUNDED BENEFITS
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4L4Q
+        Participants: 
+    2019: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR UNFUNDED BENEFITS
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4L4Q
+        Participants: 
+PA : PITTSBURGH
+    2018: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR UNFUNDED BENEFITS
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4L4Q
+        Participants: 
+PA : CANONSBURG
+   [502]
+    2022: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR RETIREES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 
+        Assets: 6539877
+        $/Participant: 
+        Service Providers:
+           - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+           - TOWERS WATSON DELAWARE INC : ACTUARY (Actuarial | Direct payment from the plan)
+    2021: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR RETIREES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 
+        Assets: 5452305
+        $/Participant: 
+        Service Providers:
+           - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+           - TOWERS WATSON DELAWARE INC : ACTUARY (Actuarial | Direct payment from the plan)
+    2020: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR RETIREES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 
+        Assets: 4495295
+        $/Participant: 
+        Service Providers:
+           - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+           - TOWERS WATSON DELAWARE INC : ACTUARY (Actuarial | Direct payment from the plan)
+           - XEROX CORPORATION : CONTRACT ADMNSTRTR (Contract Administrator | Direct payment from the plan)
+    2019: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR RETIREES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 
+        Assets: 3517655
+        $/Participant: 
+        Service Providers:
+           - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+           - XEROX CORPORATION : CONTRACT ADMNSTRTR (Contract Administrator | Direct payment from the plan)
+   [503]
+    2019: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR FUNDED BENEFITS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 
+    2018: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR FUNDED BENEFITS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 

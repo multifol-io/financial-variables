@@ -1,33 +1,8 @@
 TN : MT. PLEASANT
   SMELTER SERVICE CORP  621033907
-   [503]
-    2022: SMELTER SERVICE CORP HEALTH & WELFARE BENEFIT PLAN
-        Participants: 
-    2021: SMELTER SERVICE CORP HEALTH & WELFARE BENEFIT PLAN
-        Participants: 
-    2020: SMELTER SERVICE CORP HEALTH & WELFARE BENEFIT PLAN
-        Participants: 
-    2019: SMELTER SERVICE CORP HEALTH & WELFARE BENEFIT PLAN
-        Participants: 
-   [002]
-    2022: SMELTER SERVICE CORP EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 90
-        Assets: 31250075
-        $/Participant: 347223
-    2021: SMELTER SERVICE CORP EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 89
-        Assets: 12900075
-        $/Participant: 144944
-    2020: SMELTER SERVICE CORP EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 90
-        Assets: 6550075
-        $/Participant: 72778
-    2019: SMELTER SERVICE CORP EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 97
-        Assets: 6100085
-        $/Participant: 62887
-   [001]
     2022: SMELTER SERVICE CORP 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T2X3D 
         Participants: 152
         Assets: 5792820
         $/Participant: 38110
@@ -123,6 +98,8 @@ TN : MT. PLEASANT
                  : WISDOMTREE MIDCAP DIVIDEND ETF
                  : WISDOMTREE SC DIVIDEND ETF
     2021: SMELTER SERVICE CORP 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D 
         Participants: 142
         Assets: 6600341
         $/Participant: 46481
@@ -226,6 +203,8 @@ TN : MT. PLEASANT
                  : WISDOMTREE MIDCAP DIVIDEND ETF
                  : WISDOMTREE SC DIVIDEND ETF
     2020: SMELTER SERVICE CORP 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3D 
         Participants: 140
         Assets: 5570669
         $/Participant: 39790
@@ -325,6 +304,8 @@ TN : MT. PLEASANT
                  : WISDOMTREE MIDCAP DIVIDEND ETF
                  : WISDOMTREE SC DIVIDEND ETF
     2019: SMELTER SERVICE CORP 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3D 
         Participants: 142
         Assets: 4353709
         $/Participant: 30659
@@ -441,6 +422,8 @@ TN : MT. PLEASANT
                  : WISDOMTREE MIDCAP DIVIDEND ETF
                  : WISDOMTREE SC DIVIDEND ETF
     2018: SMELTER SERVICE CORP 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2J2K2F2T3D 
         Participants: 127
         Assets: 3730547
         $/Participant: 29374
@@ -535,6 +518,8 @@ TN : MT. PLEASANT
                  : WISDOMTREE MIDCAP DIVIDEND ETF
                  : WISDOMTREE SC DIVIDEND ETF
     2017: SMELTER SERVICE CORP 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2J2K2F2T3D 
         Participants: 117
         Assets: 3770440
         $/Participant: 32225
@@ -629,3 +614,45 @@ TN : MT. PLEASANT
                  : VANGUARD MID-CAP VALUE ETF
                  : VANGUARD SMALL CAP GROW INDEX
                  : VANGUARD VALUE INDEX FUND
+   [002]
+    2022: SMELTER SERVICE CORP EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3H3I 
+        Participants: 90
+        Assets: 31250075
+        $/Participant: 347223
+    2021: SMELTER SERVICE CORP EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3H3I 
+        Participants: 89
+        Assets: 12900075
+        $/Participant: 144944
+    2020: SMELTER SERVICE CORP EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3H3I 
+        Participants: 90
+        Assets: 6550075
+        $/Participant: 72778
+    2019: SMELTER SERVICE CORP EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3H3I 
+        Participants: 97
+        Assets: 6100085
+        $/Participant: 62887
+   [503]
+    2022: SMELTER SERVICE CORP HEALTH & WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4F4H
+        Participants: 
+    2021: SMELTER SERVICE CORP HEALTH & WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4F4H
+        Participants: 
+    2020: SMELTER SERVICE CORP HEALTH & WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4F4H
+        Participants: 
+    2019: SMELTER SERVICE CORP HEALTH & WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4F4H
+        Participants: 

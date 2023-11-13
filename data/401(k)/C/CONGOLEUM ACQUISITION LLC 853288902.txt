@@ -1,29 +1,9 @@
 NJ : MERCERVILLE
   CONGOLEUM ACQUISITION LLC  853288902
-   [501]
-    2022: CONGOLEUM CORPORATION GROUP INSURANCE PLAN
-        Participants: 
-    2021: CONGOLEUM CORPORATION GROUP INSURANCE PLAN
-        Participants: 
-   [005]
-    2022: THE CONGOLEUM HOURLY EMPLOYEES SAVINGS PLAN
-        Participants: 312
-        Assets: 21460102
-        $/Participant: 68782
-        RecordKeeper: T ROWE PRICE RPS INC
-        Available Investments:
-           - T. ROWE PRICE TRUST COMPANY
-                 : TRP STABLE VALUE COMMON TRUST FUND
-    2021: THE CONGOLEUM HOURLY EMPLOYEES SAVINGS PLAN
-        Participants: 318
-        Assets: 31146873
-        $/Participant: 97946
-        RecordKeeper: T ROWE PRICE RPS INC
-        Available Investments:
-           - T. ROWE PRICE TRUST COMPANY
-                 : TRP STABLE VALUE COMMON TRUST FUND
    [004]
     2022: THE CONGOLEUM SALARIED EMPLOYEES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 169
         Assets: 35990227
         $/Participant: 212959
@@ -32,6 +12,8 @@ NJ : MERCERVILLE
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
     2021: THE CONGOLEUM SALARIED EMPLOYEES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 165
         Assets: 47119234
         $/Participant: 285571
@@ -39,3 +21,33 @@ NJ : MERCERVILLE
         Available Investments:
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
+   [005]
+    2022: THE CONGOLEUM HOURLY EMPLOYEES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T 
+        Participants: 312
+        Assets: 21460102
+        $/Participant: 68782
+        RecordKeeper: T ROWE PRICE RPS INC
+        Available Investments:
+           - T. ROWE PRICE TRUST COMPANY
+                 : TRP STABLE VALUE COMMON TRUST FUND
+    2021: THE CONGOLEUM HOURLY EMPLOYEES SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T 
+        Participants: 318
+        Assets: 31146873
+        $/Participant: 97946
+        RecordKeeper: T ROWE PRICE RPS INC
+        Available Investments:
+           - T. ROWE PRICE TRUST COMPANY
+                 : TRP STABLE VALUE COMMON TRUST FUND
+   [501]
+    2022: CONGOLEUM CORPORATION GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2021: CONGOLEUM CORPORATION GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 

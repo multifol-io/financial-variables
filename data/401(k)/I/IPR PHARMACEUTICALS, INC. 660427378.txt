@@ -1,63 +1,86 @@
 PR : CANOVANAS
-  IPR PHARMACEUTICALS, INC  660427378
-   [505]
-    2022: IPR PHARMACEUTICALS, INC. SHORT TERM DISABILITY INSURANCE
-        Participants: 160
-    2021: IPR PHARMACEUTICALS, INC. SHORT TERM DISABILITY
-        Participants: 167
-    2020: IPR PHARMACEUTICALS, INC. SHORT TERM DISABILITY
-        Participants: 171
-    2019: IPR PHARMACEUTICALS, INC. SHORT TERM DISABILITY INSURANCE
-        Participants: 174
-    2018: IPR PHARMACEUTICALS, INC.SHORT TERM DISABILITY INSURANCE
-        Participants: 176
-    2017: IPR PHARMACEUTICALS, INC. SHORT TERM DISABILITY INSURANCE
-        Participants: 183
-   [504]
-    2022: IPR PHARMACEUTICALS, INC. LONG TERM DISABILITY INSURANCE
-        Participants: 160
-    2021: IPR PHARMACEUTICALS, INC. LONG TERM DISABILITY
-        Participants: 171
-    2020: IPR PHARMACEUTICALS, INC. LONG TERM DISABILITY
-        Participants: 172
-    2019: IPR PHARMACEUTICALS, INC. LONG TERM DISABILITY
-        Participants: 174
-    2018: IPR PHARMACEUTICALS, INC. LONG TERM DISABILITY
-        Participants: 181
-    2017: IPR PHARMACEUTICALS, INC. LONG TERM DISABILITY PLAN
-        Participants: 187
+  IPR PHARMACEUTICALS, INC.  660427378
+   [002]
+    2022: IPR PHARMACEUTICALS, INC. PROFIT SHARING, RETIREMENT & SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J 
+        Participants: 353
+        Assets: 109633596
+        $/Participant: 310576
+    2021: IPR PHARMACEUTICALS, INC. PROFIT SHARING, RETIREMENT & SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J 
+        Participants: 360
+        Assets: 142261827
+        $/Participant: 395171
+    2020: IPR PHARMACEUTICALS, INC. PROFIT SHARING, RETIREMENT & SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J 
+        Participants: 368
+        Assets: 122580990
+        $/Participant: 333100
+    2019: IPR PHARMACEUTICALS PROFIT SHARING, RETIREMENT & SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J 
+        Participants: 373
+        Assets: 107592402
+        $/Participant: 288451
+    2018: IPR PHARMACEUTICALS PROFIT SHARING, RETIREMENT & SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J 
+        Participants: 384
+        Assets: 87817055
+        $/Participant: 228690
+    2017: IPR PHARMACEUTICALS PROFIT SHARING, RETIREMENT & SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J 
+        Participants: 386
+        Assets: 97972788
+        $/Participant: 253815
    [503]
     2022: IPR PHARMACEUTICALS, INC.- HEALTH, DENTAL & RX PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
         Participants: 167
         Service Providers:
            - IKON BENEFITS GROUP, INC. : PROFESSIONAL SERVICES (Other fees)
            - MCS LIFE INSURANCE COMPANY : CLAIMS ADMINISTRATOR (Claims processing)
            - PHARMPIX CORP. : CLAIMS ADMINISTRATOR (Claims processing)
     2021: IPR PHARMACEUTICALS, INC.- HEALTH, DENTAL & RX PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
         Participants: 172
         Service Providers:
            - PHARMPIX CORP. : CLAIMS ADMINISTRATOR (Claims processing)
            - MCS LIFE INSURANCE COMPANY : CLAIMS ADMINISTRATOR (Claims processing)
            - IKON BENEFITS GROUP, INC. : PROFESSIONAL SERVICES (Other fees)
     2020: IPR PHARMACEUTICALS, INC.- HEALTH, DENTAL & RX PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
         Participants: 174
         Service Providers:
            - IKON BENEFITS GROUP, INC. : PROFESSIONAL SERVICES (Other fees)
            - MCS LIFE INSURANCE COMPANY : CLAIMS ADMINISTRATOR (Claims processing)
            - PHARMPIX CORP : CLAIMS ADMINISTRATOR (Claims processing)
     2019: IPR PHARMACEUTICALS, INC.- HEALTH, DENTAL & RX PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
         Participants: 174
         Service Providers:
            - PHARMPIX CORP. : CLAIMS ADMINISTRATOR (Claims processing)
            - MCS LIFE INSURANCE COMPANY : CLAIMS ADMINISTRATOR (Claims processing)
            - IKON BENEFITS GROUP, INC. : PROFESSIONAL SERVICES (Other fees)
     2018: IPR PHARMACEUTICALS, INC.- HEALTH, DENTAL & RX PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
         Participants: 176
         Service Providers:
            - PHARMPIX CORP : CLAIMS ADMINISTRATOR (Claims processing)
            - MCS LIFE INSURANCE COMPANY : CLAIMS ADMINISTRATOR (Claims processing)
            - IKON BENEFITS GROUP, INC. : PROFESSIONAL SERVICES (Other fees)
     2017: IPR PHARMACEUTICALS, INC. MEDICAL AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
         Participants: 191
         Service Providers:
            - IKON BENEFITS GROUP, INC. : PROFESIONAL SERVICES (Other fees)
@@ -65,41 +88,78 @@ PR : CANOVANAS
            - PHARMPIX CORP. : CLAIMS ADMINISTRATOR (Claims processing)
    [501]
     2022: IPR PHARMACEUTICALS, INC. LIFE INSURANCE
+        Benefit Category: Other
+        Codes:  4B
         Participants: 160
     2021: IPR PHARMACEUTICALS, INC. LIFE INSURANCE
+        Benefit Category: Other
+        Codes:  4B
         Participants: 171
     2020: IPR PHARMACEUTICALS, INC. LIFE INSURANCE
+        Benefit Category: Other
+        Codes:  4B
         Participants: 172
     2019: IPR PHARMACEUTICALS, INC. LIFE INSURANCE
+        Benefit Category: Other
+        Codes:  4B
         Participants: 174
 PR : MANATI
     2018: IPR PHARMACEUTICALS, INC. LIFE INSURANCE
+        Benefit Category: Other
+        Codes:  4B
         Participants: 181
 PR : CANOVANAS
     2017: IPR PHARMACEUTICALS, INC. LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
         Participants: 187
-   [002]
-    2022: IPR PHARMACEUTICALS, INC. PROFIT SHARING, RETIREMENT & SAVINGS PLAN
-        Participants: 353
-        Assets: 109633596
-        $/Participant: 310576
-    2021: IPR PHARMACEUTICALS, INC. PROFIT SHARING, RETIREMENT & SAVINGS PLAN
-        Participants: 360
-        Assets: 142261827
-        $/Participant: 395171
-    2020: IPR PHARMACEUTICALS, INC. PROFIT SHARING, RETIREMENT & SAVINGS PLAN
-        Participants: 368
-        Assets: 122580990
-        $/Participant: 333100
-    2019: IPR PHARMACEUTICALS PROFIT SHARING, RETIREMENT & SAVINGS PLAN
-        Participants: 373
-        Assets: 107592402
-        $/Participant: 288451
-    2018: IPR PHARMACEUTICALS PROFIT SHARING, RETIREMENT & SAVINGS PLAN
-        Participants: 384
-        Assets: 87817055
-        $/Participant: 228690
-    2017: IPR PHARMACEUTICALS PROFIT SHARING, RETIREMENT & SAVINGS PLAN
-        Participants: 386
-        Assets: 97972788
-        $/Participant: 253815
+   [504]
+    2022: IPR PHARMACEUTICALS, INC. LONG TERM DISABILITY INSURANCE
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 160
+    2021: IPR PHARMACEUTICALS, INC. LONG TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 171
+    2020: IPR PHARMACEUTICALS, INC. LONG TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 172
+    2019: IPR PHARMACEUTICALS, INC. LONG TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 174
+    2018: IPR PHARMACEUTICALS, INC. LONG TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 181
+    2017: IPR PHARMACEUTICALS, INC. LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 187
+   [505]
+    2022: IPR PHARMACEUTICALS, INC. SHORT TERM DISABILITY INSURANCE
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 160
+    2021: IPR PHARMACEUTICALS, INC. SHORT TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 167
+    2020: IPR PHARMACEUTICALS, INC. SHORT TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 171
+    2019: IPR PHARMACEUTICALS, INC. SHORT TERM DISABILITY INSURANCE
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 174
+    2018: IPR PHARMACEUTICALS, INC.SHORT TERM DISABILITY INSURANCE
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 176
+    2017: IPR PHARMACEUTICALS, INC. SHORT TERM DISABILITY INSURANCE
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 183

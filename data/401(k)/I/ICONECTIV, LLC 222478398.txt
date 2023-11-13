@@ -2,46 +2,41 @@ NJ : BRIDGEWATER
   ICONECTIV, LLC  222478398
    [565]
     2022: ICONECTIV WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4F4H4I4Q4E
         Participants: 
     2021: ICONECTIV WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4F4H4I4Q4E
         Participants: 
     2020: ICONECTIV WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4F4H4I4Q4E
         Participants: 
     2019: ICONECTIV WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4F4H4I4Q4E
         Participants: 
     2018: TELCORDIA TECHNOLOGIES, INC. DBA ICONECTIV WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4F4H4I4Q
         Participants: 
     2017: TELCORDIA TECHNOLOGIES, INC. DBA ICONECTIV WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4F4H4I4Q
         Participants: 
         Service Providers:
            - TOWERS WATSON DELAWARE INC. :  (Insurance agents and brokers | Direct payment from the plan)
-   [006]
-    2022: ICONECTIV 401(K) PLAN
-        Participants: 633
-        Assets: 197684207
-        $/Participant: 312297
-        RecordKeeper: THE VANGUARD GROUP, INC.
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC RETIREMENT SAVINGS TRUST III
-    2021: ICONECTIV 401(K) PLAN
-        Participants: 637
-        Assets: 234588465
-        $/Participant: 368270
-        RecordKeeper: THE VANGUARD GROUP, INC.
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC RETIREMENT SAVINGS TRUST III
-    2020: ICONECTIV 401(K) PLAN
-        Participants: 640
-        Assets: 211875536
-        $/Participant: 331055
-        RecordKeeper: THE VANGUARD GROUP, INC.
-        Available Investments:
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC RETIREMENT SAVINGS TRUST III
    [001]
     2019: ICONECTIV 401(K) PLAN
+        Benefit Category: Other
+        Codes: 2A2E2F2G2H2T3H 
         Participants: 644
         Assets: 183837911
         $/Participant: 285462
@@ -50,6 +45,8 @@ NJ : BRIDGEWATER
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2018: ICONECTIV 401(K) PLAN
+        Benefit Category: Other
+        Codes: 2A2E2F2G2H2T3H 
         Participants: 636
         Assets: 148072564
         $/Participant: 232818
@@ -58,9 +55,42 @@ NJ : BRIDGEWATER
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2017: ICONECTIV 401(K) PLAN
+        Benefit Category: Other
+        Codes: 2A2E2F2G2H2T3H 
         Participants: 586
         Assets: 144704920
         $/Participant: 246936
+        RecordKeeper: THE VANGUARD GROUP, INC.
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC RETIREMENT SAVINGS TRUST III
+   [006]
+    2022: ICONECTIV 401(K) PLAN
+        Benefit Category: Other
+        Codes: 2A2E2F2G2H2T3H 
+        Participants: 633
+        Assets: 197684207
+        $/Participant: 312297
+        RecordKeeper: THE VANGUARD GROUP, INC.
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC RETIREMENT SAVINGS TRUST III
+    2021: ICONECTIV 401(K) PLAN
+        Benefit Category: Other
+        Codes: 2A2E2F2G2H2T3H 
+        Participants: 637
+        Assets: 234588465
+        $/Participant: 368270
+        RecordKeeper: THE VANGUARD GROUP, INC.
+        Available Investments:
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC RETIREMENT SAVINGS TRUST III
+    2020: ICONECTIV 401(K) PLAN
+        Benefit Category: Other
+        Codes: 2A2E2F2G2H2T3H 
+        Participants: 640
+        Assets: 211875536
+        $/Participant: 331055
         RecordKeeper: THE VANGUARD GROUP, INC.
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY

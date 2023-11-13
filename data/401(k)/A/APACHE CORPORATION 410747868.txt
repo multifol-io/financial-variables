@@ -1,82 +1,9 @@
 TX : HOUSTON
   APACHE CORPORATION  410747868
-   [514]
-    2022: APACHE CORPORATION BENEFITS PLAN
-        Participants: 
-    2021: APACHE CORPORATION BENEFITS PLAN
-        Participants: 
-    2020: APACHE CORPORATION BENEFITS PLAN
-        Participants: 
-    2019: APACHE CORPORATION BENEFITS PLAN
-        Participants: 
-    2018: APACHE CORPORATION BENEFITS PLAN
-        Participants: 
-    2017: APACHE CORPORATION BENEFITS PLAN
-        Participants: 
-   [513]
-    2022: APACHE SEVERANCE PAY PLAN
-        Participants: 
-    2021: APACHE SEVERANCE PAY PLAN
-        Participants: 
-    2020: APACHE SEVERANCE PAY PLAN
-        Participants: 
-    2019: APACHE SEVERANCE PAY PLAN
-        Participants: 
-    2018: APACHE SEVERANCE PAY PLAN
-        Participants: 
-    2017: APACHE SEVERANCE PAY PLAN
-        Participants: 
-   [003]
-    2022: APACHE CORPORATION MONEY PURCHASE RETIREMENT PLAN
-        Participants: 2315
-        Assets: 211048041
-        $/Participant: 91165
-        RecordKeeper: UBS FINANCIAL SERVICES
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : MIP II CL 1
-    2021: APACHE CORPORATION MONEY PURCHASE RETIREMENT PLAN
-        Participants: 2315
-        Assets: 271061158
-        $/Participant: 117089
-        RecordKeeper: UBS FINANCIAL SERVICES
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : MIP II CL 1
-    2020: APACHE CORPORATION MONEY PURCHASE RETIREMENT PLAN
-        Participants: 2602
-        Assets: 249725300
-        $/Participant: 95974
-        RecordKeeper: UBS FINANCIAL SERVICES
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : MIP II CL 1
-    2019: APACHE CORPORATION MONEY PURCHASE RETIREMENT PLAN
-        Participants: 2946
-        Assets: 246081433
-        $/Participant: 83530
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : MIP II CL 1
-    2018: APACHE CORPORATION MONEY PURCHASE RETIREMENT PLAN
-        Participants: 3193
-        Assets: 212794852
-        $/Participant: 66644
-        RecordKeeper: WEAVER AND TIDWELL, LLP
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : MIP II CL 1
-    2017: APACHE CORPORATION MONEY PURCHASE RETIREMENT PLAN
-        Participants: 3661
-        Assets: 222850338
-        $/Participant: 60871
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : MIP II CL 1
    [002]
     2022: APACHE CORPORATION 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2K2S2T2F2R 
         Participants: 2398
         Assets: 550105785
         $/Participant: 229401
@@ -85,6 +12,8 @@ TX : HOUSTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
     2021: APACHE CORPORATION 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2K2S2T2F2R 
         Participants: 2486
         Assets: 706164649
         $/Participant: 284056
@@ -93,6 +22,8 @@ TX : HOUSTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
     2020: APACHE CORPORATION 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2K2S2T2F2R 
         Participants: 2787
         Assets: 656054428
         $/Participant: 235398
@@ -101,6 +32,8 @@ TX : HOUSTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
     2019: APACHE CORPORATION 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2K2R2S2T2F 
         Participants: 3167
         Assets: 652009874
         $/Participant: 205876
@@ -109,6 +42,8 @@ TX : HOUSTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
     2018: APACHE CORPORATION 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T 
         Participants: 3429
         Assets: 559721559
         $/Participant: 163231
@@ -117,6 +52,8 @@ TX : HOUSTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
     2017: APACHE CORPORATION 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T 
         Participants: 3708
         Assets: 610044847
         $/Participant: 164521
@@ -124,3 +61,114 @@ TX : HOUSTON
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
+   [514]
+    2022: APACHE CORPORATION BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2021: APACHE CORPORATION BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2020: APACHE CORPORATION BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: APACHE CORPORATION BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: APACHE CORPORATION BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: APACHE CORPORATION BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+   [003]
+    2022: APACHE CORPORATION MONEY PURCHASE RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2R2T 
+        Participants: 2315
+        Assets: 211048041
+        $/Participant: 91165
+        RecordKeeper: UBS FINANCIAL SERVICES
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : MIP II CL 1
+    2021: APACHE CORPORATION MONEY PURCHASE RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2T2R 
+        Participants: 2315
+        Assets: 271061158
+        $/Participant: 117089
+        RecordKeeper: UBS FINANCIAL SERVICES
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : MIP II CL 1
+    2020: APACHE CORPORATION MONEY PURCHASE RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2T2R 
+        Participants: 2602
+        Assets: 249725300
+        $/Participant: 95974
+        RecordKeeper: UBS FINANCIAL SERVICES
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : MIP II CL 1
+    2019: APACHE CORPORATION MONEY PURCHASE RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2T 
+        Participants: 2946
+        Assets: 246081433
+        $/Participant: 83530
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : MIP II CL 1
+    2018: APACHE CORPORATION MONEY PURCHASE RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2T 
+        Participants: 3193
+        Assets: 212794852
+        $/Participant: 66644
+        RecordKeeper: WEAVER AND TIDWELL, LLP
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : MIP II CL 1
+    2017: APACHE CORPORATION MONEY PURCHASE RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2T 
+        Participants: 3661
+        Assets: 222850338
+        $/Participant: 60871
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : MIP II CL 1
+   [513]
+    2022: APACHE SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2021: APACHE SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2020: APACHE SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2019: APACHE SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2018: APACHE SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2017: APACHE SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

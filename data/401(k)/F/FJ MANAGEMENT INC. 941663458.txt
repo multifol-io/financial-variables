@@ -1,40 +1,9 @@
 UT : SALT LAKE CITY
   FJ MANAGEMENT INC.  941663458
-   [501]
-    2022: FJ MANAGEMENT INC CAFETERIA PLAN
-        Participants: 
-    2021: FJ MANAGEMENT INC CAFETERIA PLAN
-        Participants: 
-        Service Providers:
-           - REGENCE BLUECROSS BLUESHEILD OF UT : CLAIMS PROCESSING (Claims processing | Direct payment from the plan | Float revenue | Contract Administrator | Insurance brokerage commissions and fees | Other services | Non - monetary compensation)
-           - SELECTHEALTH : CONTRACT ADMINISTRATION (Claims processing)
-           - METROPOLITAN LIFE INSURANCE CO. : CLAIMS PROCESSING (Claims processing | Contract Administrator)
-    2020: FJ MANAGEMENT INC CAFETERIA PLAN
-        Participants: 
-        Service Providers:
-           - REGENCE BLUECROSS BLUESHEILD OF UT : CLAIMS PROCESSING (Claims processing | Direct payment from the plan | Float revenue | Contract Administrator | Insurance brokerage commissions and fees | Other services | Non - monetary compensation)
-           - SELECTHEALTH : CONTRACT ADMINISTRATION (Claims processing)
-           - METROPOLITAN LIFE INSURANCE CO. : CLAIMS PROCESSING (Claims processing | Contract Administrator)
-    2019: FJ MANAGEMENT INC CAFETERIA PLAN
-        Participants: 
-        Service Providers:
-           - REGENCE BLUECROSS BLUESHEILD OF UT : CLAIMS PROCESSING (Claims processing | Direct payment from the plan | Float revenue | Contract Administrator | Insurance brokerage commissions and fees | Other services | Non - monetary compensation)
-           - SELECTHEALTH : CONTRACT ADMINISTRATION (Claims processing)
-           - METROPOLITAN LIFE INSURANCE CO. : CLAIMS PROCESSING (Claims processing | Contract Administrator)
-    2018: FJ MANAGEMENT INC CAFETERIA PLAN
-        Participants: 
-        Service Providers:
-           - REGENCE BLUECROSS BLUESHEILD OF UT : CLAIMS PROCESSING (Claims processing | Direct payment from the plan | Float revenue)
-           - SELECTHEALTH : CONTRACT ADMINISTRATION (Claims processing)
-           - METROPOLITAN LIFE INSURANCE CO. : CLAIMS PROCESSING (Claims processing | Contract Administrator)
-    2017: FJ MANAGEMENT INC CAFETERIA PLAN
-        Participants: 
-        Service Providers:
-           - REGENCE BLUECROSS BLUESHEILD OF UT : CLAIMS PROCESSING (Claims processing | Direct payment from the plan | Float revenue)
-           - SELECTHEALTH : CONTRACT ADMINISTRATION (Claims processing)
-           - METROPOLITAN LIFE INSURANCE CO. : CLAIMS PROCESSING (Claims processing | Contract Administrator)
    [005]
     2022: FJ MANAGEMENT INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 5546
         Assets: 130963033
         $/Participant: 23613
@@ -54,6 +23,8 @@ UT : SALT LAKE CITY
            - WILMINGTON TRUST
                  : WILMINGTON/BLACKROCK TOTAL RETURN
     2021: FJ MANAGEMENT INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 4865
         Assets: 144087974
         $/Participant: 29617
@@ -70,6 +41,8 @@ UT : SALT LAKE CITY
                  : AMERICAN CENTURY RETIRE 2055 TRUST
                  : AMERICAN CENTURY RETIRE 2060 TRUST
     2020: FJ MANAGEMENT INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 4515
         Assets: 120255887
         $/Participant: 26634
@@ -87,6 +60,8 @@ UT : SALT LAKE CITY
                  : AMERICAN CENTURY RETIRE 2055 TRUST
                  : AMERICAN CENTURY RETIRE 2060 TRUST
     2019: FJ MANAGEMENT INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 5470
         Assets: 96299362
         $/Participant: 17605
@@ -104,6 +79,8 @@ UT : SALT LAKE CITY
                  : AMERICAN CENTURY RETIRE 2055 TRUST
                  : AMERICAN CENTURY RETIRE 2060 TRUST
     2018: FJ MANAGEMENT INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 5064
         Assets: 72608964
         $/Participant: 14338
@@ -121,6 +98,8 @@ UT : SALT LAKE CITY
                  : AMERICAN CENTURY RETIRE 2055 TRUST
                  : AMERICAN CENTURY RETIRE 2060 TRUST
     2017: FJ MANAGEMENT INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 3631
         Assets: 71813272
         $/Participant: 19777
@@ -139,26 +118,83 @@ UT : SALT LAKE CITY
                  : AMERICAN CENTURY RETIRE 2060 TRUST
    [003]
     2022: FJ MANAGEMENT INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O3I 
         Participants: 212
         Assets: 100217205
         $/Participant: 472722
     2021: FJ MANAGEMENT INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O3I 
         Participants: 222
         Assets: 85926388
         $/Participant: 387055
     2020: FJ MANAGEMENT INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O3I 
         Participants: 239
         Assets: 71149916
         $/Participant: 297698
     2019: FJ MANAGEMENT INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O3I 
         Participants: 265
         Assets: 77731303
         $/Participant: 293325
     2018: FJ MANAGEMENT INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O3I 
         Participants: 278
         Assets: 66670565
         $/Participant: 239822
     2017: FJ MANAGEMENT INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O3I 
         Participants: 304
         Assets: 57344902
         $/Participant: 188634
+   [501]
+    2022: FJ MANAGEMENT INC CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4F4H4Q
+        Participants: 
+    2021: FJ MANAGEMENT INC CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4F4H4Q
+        Participants: 
+        Service Providers:
+           - REGENCE BLUECROSS BLUESHEILD OF UT : CLAIMS PROCESSING (Claims processing | Direct payment from the plan | Float revenue | Contract Administrator | Insurance brokerage commissions and fees | Other services | Non - monetary compensation)
+           - SELECTHEALTH : CONTRACT ADMINISTRATION (Claims processing)
+           - METROPOLITAN LIFE INSURANCE CO. : CLAIMS PROCESSING (Claims processing | Contract Administrator)
+    2020: FJ MANAGEMENT INC CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4F4H4Q
+        Participants: 
+        Service Providers:
+           - REGENCE BLUECROSS BLUESHEILD OF UT : CLAIMS PROCESSING (Claims processing | Direct payment from the plan | Float revenue | Contract Administrator | Insurance brokerage commissions and fees | Other services | Non - monetary compensation)
+           - SELECTHEALTH : CONTRACT ADMINISTRATION (Claims processing)
+           - METROPOLITAN LIFE INSURANCE CO. : CLAIMS PROCESSING (Claims processing | Contract Administrator)
+    2019: FJ MANAGEMENT INC CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4F4H4Q
+        Participants: 
+        Service Providers:
+           - REGENCE BLUECROSS BLUESHEILD OF UT : CLAIMS PROCESSING (Claims processing | Direct payment from the plan | Float revenue | Contract Administrator | Insurance brokerage commissions and fees | Other services | Non - monetary compensation)
+           - SELECTHEALTH : CONTRACT ADMINISTRATION (Claims processing)
+           - METROPOLITAN LIFE INSURANCE CO. : CLAIMS PROCESSING (Claims processing | Contract Administrator)
+    2018: FJ MANAGEMENT INC CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4F4H4Q
+        Participants: 
+        Service Providers:
+           - REGENCE BLUECROSS BLUESHEILD OF UT : CLAIMS PROCESSING (Claims processing | Direct payment from the plan | Float revenue)
+           - SELECTHEALTH : CONTRACT ADMINISTRATION (Claims processing)
+           - METROPOLITAN LIFE INSURANCE CO. : CLAIMS PROCESSING (Claims processing | Contract Administrator)
+    2017: FJ MANAGEMENT INC CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4F4H4Q
+        Participants: 
+        Service Providers:
+           - REGENCE BLUECROSS BLUESHEILD OF UT : CLAIMS PROCESSING (Claims processing | Direct payment from the plan | Float revenue)
+           - SELECTHEALTH : CONTRACT ADMINISTRATION (Claims processing)
+           - METROPOLITAN LIFE INSURANCE CO. : CLAIMS PROCESSING (Claims processing | Contract Administrator)

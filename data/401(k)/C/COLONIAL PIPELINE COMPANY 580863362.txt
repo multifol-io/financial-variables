@@ -1,37 +1,9 @@
 GA : ALPHARETTA
   COLONIAL PIPELINE COMPANY  580863362
-   [502]
-    2022: COLONIAL PIPELINE COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INS. CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2021: COLONIAL PIPELINE COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INS. CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2020: COLONIAL PIPELINE COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INS. CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2019: COLONIAL PIPELINE COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INS. CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2018: COLONIAL PIPELINE COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INS. CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-           - DISCOVERY BENEFITS : CLAIMS PROCESSING (Claims processing)
-           - LTCG : INSURANCE SERVICES (Insurance services)
-    2017: COLONIAL PIPELINE COMPANY WELFARE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INS. CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-           - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
-           - ALLIANT INS. SERVICES HOUSTON,LLC :  (Claims processing)
-           - LTCG :  (Insurance services)
    [002]
     2022: COLONIAL PIPELINE COMPANY 401(K) INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2H2J2K2S2T 
         Participants: 1297
         Assets: 282890915
         $/Participant: 218111
@@ -40,6 +12,8 @@ GA : ALPHARETTA
            - JPMORGAN CHASE BANK, N.A.
                  : JPMCB STABLE ASSET INCOME FUND
     2021: COLONIAL PIPELINE COMPANY 401(K) INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 1206
         Assets: 330727029
         $/Participant: 274234
@@ -48,6 +22,8 @@ GA : ALPHARETTA
            - J.P. MORGAN CHASE BANK
                  : STABLE ASSET INCOME CL G
     2020: COLONIAL PIPELINE COMPANY 401(K) INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 1198
         Assets: 303857726
         $/Participant: 253637
@@ -56,6 +32,8 @@ GA : ALPHARETTA
            - J.P. MORGAN CHASE BANK
                  : STABLE ASSET INCOME CL G
     2019: COLONIAL PIPELINE COMPANY 401(K) INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 1156
         Assets: 269294426
         $/Participant: 232953
@@ -64,6 +42,8 @@ GA : ALPHARETTA
            - J.P. MORGAN CHASE BANK
                  : STABLE ASSET INCOME CL G
     2018: COLONIAL PIPELINE COMPANY 401(K) INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 1184
         Assets: 221988810
         $/Participant: 187490
@@ -72,6 +52,8 @@ GA : ALPHARETTA
            - J.P. MORGAN CHASE BANK
                  : STABLE ASSET INCOME CL G
     2017: COLONIAL PIPELINE COMPANY 401(K) INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T 
         Participants: 1143
         Assets: 237658876
         $/Participant: 207925
@@ -79,8 +61,55 @@ GA : ALPHARETTA
         Available Investments:
            - J.P. MORGAN CHASE BANK
                  : STABLE ASSET PENSION CL G
+   [502]
+    2022: COLONIAL PIPELINE COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INS. CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+    2021: COLONIAL PIPELINE COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INS. CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+    2020: COLONIAL PIPELINE COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INS. CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+    2019: COLONIAL PIPELINE COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4Q
+        Participants: 
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INS. CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+    2018: COLONIAL PIPELINE COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4Q
+        Participants: 
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INS. CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+           - DISCOVERY BENEFITS : CLAIMS PROCESSING (Claims processing)
+           - LTCG : INSURANCE SERVICES (Insurance services)
+    2017: COLONIAL PIPELINE COMPANY WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4Q
+        Participants: 
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INS. CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+           - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
+           - ALLIANT INS. SERVICES HOUSTON,LLC :  (Claims processing)
+           - LTCG :  (Insurance services)
    [001]
     2022: COLONIAL PIPELINE COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 468
         Assets: 71996170
         $/Participant: 153837
@@ -96,6 +125,8 @@ GA : ALPHARETTA
                  : NT COLLECTIVE LONG-TERM GOVT BOND
                  : NT COLLECTIVE SHORT TERM INVESTMENT
     2021: COLONIAL PIPELINE COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 525
         Assets: 121516643
         $/Participant: 231460
@@ -111,6 +142,8 @@ GA : ALPHARETTA
                  : NT COLLECTIVE LONG-TERM GOVT BOND
                  : NT COLLECTIVE SHORT TERM INVESTMENT
     2020: COLONIAL PIPELINE COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 591
         Assets: 148768496
         $/Participant: 251723
@@ -126,6 +159,8 @@ GA : ALPHARETTA
                  : NT COLLECTIVE LONG-TERM GOVT BOND
                  : NT COLLECTIVE SHORT TERM INVESTMENT
     2019: COLONIAL PIPELINE COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 630
         Assets: 143505887
         $/Participant: 227787
@@ -141,6 +176,8 @@ GA : ALPHARETTA
                  : NT COLLECTIVE LONG-TERM GOVT BOND
                  : NT COLLECTIVE SHORT TERM INVESTMENT
     2018: COLONIAL PIPELINE COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 641
         Assets: 116228877
         $/Participant: 181324
@@ -157,6 +194,8 @@ GA : ALPHARETTA
                  : NT COLLECTIVE RUSSELL 1000 INDEX FD
                  : NT COLLECTIVE SHORT TERM INVESTMENT
     2017: COLONIAL PIPELINE COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 673
         Assets: 126981478
         $/Participant: 188679

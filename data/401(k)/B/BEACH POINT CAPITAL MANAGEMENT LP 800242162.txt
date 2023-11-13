@@ -1,37 +1,9 @@
 CA : SANTA MONICA
   BEACH POINT CAPITAL MANAGEMENT LP  800242162
-   [504]
-    2020: HEALTH AND DENTAL PLAN
-        Participants: 
-    2019: HEALTH AND DENTAL PLAN
-        Participants: 
-   [503]
-    2020: LONG TERM DISABILITY
-        Participants: 
-    2019: LONG TERM DISABILITY
-        Participants: 
-    2018: LONG TERM DISABILITY
-        Participants: 
-   [502]
-    2020: SHORT TERM DISABILITY
-        Participants: 
-    2019: SHORT TERM DISABILITY
-        Participants: 
-    2018: SHORT TERM DISABILITY
-        Participants: 
-   [501]
-    2022: BEACH POINT CAPITAL MANAGEMENT LP HEALTH AND WELFARE BENEFITS PLAN
-        Participants: 
-    2021: BEACH POINT CAPITAL MANAGEMENT LP HEALTH AND WELFARE BENEFITS PLAN
-        Participants: 
-    2020: LIFE AND AD&D
-        Participants: 
-    2019: LIFE AND AD&D
-        Participants: 
-    2018: LIFE AND AD&D
-        Participants: 
    [001]
     2022: BEACH POINT CAPITAL 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D 
         Participants: 172
         Assets: 39254440
         $/Participant: 228223
@@ -40,6 +12,8 @@ CA : SANTA MONICA
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FA STABLE VALUE I
     2021: BEACH POINT CAPITAL 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D 
         Participants: 143
         Assets: 41721137
         $/Participant: 291756
@@ -48,6 +22,8 @@ CA : SANTA MONICA
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FA STABLE VALUE I
     2020: BEACH POINT CAPITAL 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2K2T3D2F 
         Participants: 127
         Assets: 33575642
         $/Participant: 264375
@@ -56,17 +32,80 @@ CA : SANTA MONICA
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FA STABLE VALUE I
     2019: BEACH POINT CAPITAL 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D 
         Participants: 124
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FA STABLE VALUE I
     2018: BEACH POINT CAPITAL 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D 
         Participants: 113
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FA STABLE VALUE I
     2017: BEACH POINT CAPITAL 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D 
         Participants: 104
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FA STABLE VALUE
+   [501]
+    2022: BEACH POINT CAPITAL MANAGEMENT LP HEALTH AND WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2021: BEACH POINT CAPITAL MANAGEMENT LP HEALTH AND WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+   [504]
+    2020: HEALTH AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2019: HEALTH AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+   [501]
+    2020: LIFE AND AD&D
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2019: LIFE AND AD&D
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2018: LIFE AND AD&D
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+   [502]
+    2020: SHORT TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+    2019: SHORT TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+    2018: SHORT TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+   [503]
+    2020: LONG TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2019: LONG TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2018: LONG TERM DISABILITY
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 

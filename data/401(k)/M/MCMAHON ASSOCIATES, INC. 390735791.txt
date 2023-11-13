@@ -1,46 +1,8 @@
 WI : NEENAH
-  MCMAHON ASSOCIATES INC  390735791
-   [503]
-    2022: MCMAHON ASSOCIATES INC GROUP MEDICAL PLAN
-        Participants: 120
-    2021: MCMAHON ASSOCIATES INC GROUP MEDICAL PLAN
-        Participants: 123
-    2020: MCMAHON ASSOCIATES INC GROUP MEDICAL PLAN
-        Participants: 114
-    2019: MCMAHON ASSOCIATES INC GROUP MEDICAL PLAN
-        Participants: 129
-    2018: MCMAHON ASSOCIATES INC GROUP MEDICAL PLAN
-        Participants: 119
-    2017: MCMAHON ASSOCIATES, INC. GROUP MEDICAL PLAN
-        Participants: 114
-   [502]
-    2022: MCMAHON ASSOCIATES, INC. GROUP LONG TERM CARE PLAN
-        Participants: 143
-    2021: MCMAHON ASSOCIATES, INC. GROUP LONG TERM CARE PLAN
-        Participants: 144
-    2020: MCMAHON ASSOCIATES, INC. GROUP LONG TERM CARE PLAN
-        Participants: 132
-    2019: MCMAHON ASSOCIATES, INC. GROUP LONG TERM CARE PLAN
-        Participants: 144
-    2018: MCMAHON ASSOCIATES, INC. GROUP LONG TERM CARE PLAN
-        Participants: 123
-    2017: MCMAHON ASSOCIATES, INC. GROUP LONG TERM CARE PLAN
-        Participants: 116
-   [501]
-    2022: MCMAHON ASSOCIATES INC GROUP LIFE & DISABILITY PLAN
-        Participants: 124
-    2021: MCMAHON ASSOCIATES INC GROUP LIFE & DISABILITY PLAN
-        Participants: 122
-    2020: MCMAHON ASSOCIATES INC GROUP LIFE & DISABILITY PLAN
-        Participants: 115
-    2019: MCMAHON ASSOCIATES INC GROUP LIFE & DISABILITY PLAN
-        Participants: 129
-    2018: MCMAHON ASSOCIATES INC GROUP LIFE & DISABILITY PLAN
-        Participants: 126
-    2017: MCMAHON ASSOCIATES, INC. GROUP LIFE AND DISABILITY PLAN
-        Participants: 116
-   [001]
+  MCMAHON ASSOCIATES, INC.  390735791
     2022: MCMAHON ASSOCIATES, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2R3D2F2A2X 
         Participants: 130
         Assets: 32898360
         $/Participant: 253064
@@ -49,6 +11,8 @@ WI : NEENAH
            - RBC WEALTH MANAGEMENT :  (Investment advisory(participants) | Investment advisory(plan) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - DEBRUIN & ASSOCIATES CPA'S, LLC :  (Accounting(including auditing) | Direct payment from the plan)
     2021: MCMAHON ASSOCIATES, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2R3D2F 
         Participants: 120
         Assets: 39418880
         $/Participant: 328490
@@ -56,6 +20,8 @@ WI : NEENAH
            - NFP RETIREMENT :  (Investment advisory(participants) | Investment advisory(plan) | Investment management | Direct payment from the plan | Accounting(including auditing) | Consulting(pension) | Participant loan processing | Participant communication | Investment management fees paid directly by plan)
            - RBC WEALTH MANAGEMENT :  (Investment advisory(participants) | Investment advisory(plan) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
     2020: MCMAHON ASSOCIATES, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2R3D2F 
         Participants: 130
         Assets: 35330200
         $/Participant: 271770
@@ -63,6 +29,8 @@ WI : NEENAH
            - NFP RETIREMENT :  (Investment advisory(participants) | Investment advisory(plan) | Investment management | Direct payment from the plan | Accounting(including auditing) | Consulting(pension) | Participant loan processing | Participant communication | Investment management fees paid directly by plan)
            - RBC WEALTH MANAGEMENT :  (Investment advisory(participants) | Investment advisory(plan) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
     2019: MCMAHON ASSOCIATES, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2R3D2F 
         Participants: 130
         Assets: 31695170
         $/Participant: 243809
@@ -70,6 +38,8 @@ WI : NEENAH
            - BRONFMAN ROTHSCHILD :  (Investment advisory(participants) | Investment advisory(plan) | Investment management | Direct payment from the plan | Accounting(including auditing) | Consulting(pension) | Participant loan processing | Participant communication | Investment management fees paid directly by plan)
            - RBC WEALTH MANAGEMENT :  (Investment advisory(participants) | Investment advisory(plan) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
     2018: MCMAHON ASSOCIATES, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2R3D2F 
         Participants: 120
         Assets: 26542563
         $/Participant: 221188
@@ -78,9 +48,86 @@ WI : NEENAH
            - RBC WEALTH MANAGEMENT :  (Investment advisory(participants) | Investment advisory(plan) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - ERICKSON & ASSOCIATES :  (Accounting(including auditing) | Direct payment from the plan)
     2017: MCMAHON ASSOCIATES, INC. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2R3D2F 
         Participants: 116
         Assets: 27984087
         $/Participant: 241242
         Service Providers:
            - BRONFMAN ROTHSCHILD :  (Investment advisory(participants) | Investment advisory(plan) | Investment management | Direct payment from the plan | Accounting(including auditing) | Consulting(pension) | Participant loan processing | Participant communication | Investment management fees paid directly by plan)
            - RBC WEALTH MANAGEMENT :  (Investment advisory(participants) | Investment advisory(plan) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+   [503]
+    2022: MCMAHON ASSOCIATES INC GROUP MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 120
+    2021: MCMAHON ASSOCIATES INC GROUP MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 123
+    2020: MCMAHON ASSOCIATES INC GROUP MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 114
+    2019: MCMAHON ASSOCIATES INC GROUP MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 129
+    2018: MCMAHON ASSOCIATES INC GROUP MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 119
+    2017: MCMAHON ASSOCIATES, INC. GROUP MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 114
+   [501]
+    2022: MCMAHON ASSOCIATES INC GROUP LIFE & DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 124
+    2021: MCMAHON ASSOCIATES INC GROUP LIFE & DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 122
+    2020: MCMAHON ASSOCIATES INC GROUP LIFE & DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 115
+    2019: MCMAHON ASSOCIATES INC GROUP LIFE & DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 129
+    2018: MCMAHON ASSOCIATES INC GROUP LIFE & DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 126
+    2017: MCMAHON ASSOCIATES, INC. GROUP LIFE AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 116
+   [502]
+    2022: MCMAHON ASSOCIATES, INC. GROUP LONG TERM CARE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 143
+    2021: MCMAHON ASSOCIATES, INC. GROUP LONG TERM CARE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 144
+    2020: MCMAHON ASSOCIATES, INC. GROUP LONG TERM CARE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 132
+    2019: MCMAHON ASSOCIATES, INC. GROUP LONG TERM CARE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 144
+    2018: MCMAHON ASSOCIATES, INC. GROUP LONG TERM CARE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 123
+    2017: MCMAHON ASSOCIATES, INC. GROUP LONG TERM CARE PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 116

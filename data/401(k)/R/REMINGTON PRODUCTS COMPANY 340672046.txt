@@ -1,33 +1,9 @@
 OH : WADSWORTH
   REMINGTON PRODUCTS COMPANY  340672046
-    2022: REMINGTON PRODUCTS COMPANY EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2021: REMINGTON PRODUCTS COMPANY EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2020: REMINGTON PRODUCTS COMPANY EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2019: REMINGTON PRODUCTS COMPANY EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2018: REMINGTON PRODUCTS COMPANY EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2017: REMINGTON PRODUCTS COMPANY EMPLOYEE BENEFITS PLAN
-        Participants: 
-   [003]
-    2019: REMINGTON PRODUCTS COMPANY RETIREMENT PLAN AND TRUST
-        Participants: 0
-        Service Providers:
-           - HORIZON BANK :  (Trustee(bank, trust company, or similar))
-           - COHEN & COMPANY :  (Accounting(including auditing))
-    2018: REMINGTON PRODUCTS COMPANY EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Participants: 153
-        Assets: 246261764
-        $/Participant: 1609554
-    2017: REMINGTON PRODUCTS COMPANY EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
-        Participants: 170
-        Assets: 105568669
-        $/Participant: 620992
    [001]
     2022: REMINGTON PRODUCTS COMPANY 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 328
         Assets: 78949558
         $/Participant: 240699
@@ -42,6 +18,8 @@ OH : WADSWORTH
                  : PIONEER LARGE CAP VALUE PORTFOLIO C
                  : WILMINGTON TRUST FRANKLIN SMALL CAP
     2021: REMINGTON PRODUCTS COMPANY 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 274
         Assets: 104093678
         $/Participant: 379903
@@ -56,21 +34,29 @@ OH : WADSWORTH
                  : PIONEER LARGE CAP VALUE PORTFOLIO C
                  : WILMINGTON TRUST FRANKLIN SMALL CAP
     2020: REMINGTON PRODUCTS COMPANY 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 242
         Assets: 123816958
         $/Participant: 511640
         RecordKeeper: SEQUOIA FINANCIAL ADVISORS
     2019: REMINGTON PRODUCTS COMPANY 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 203
         Assets: 154173546
         $/Participant: 759475
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2018: REMINGTON PRODUCTS COMPANY 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 179
         Assets: 7746160
         $/Participant: 43274
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2017: REMINGTON PRODUCTS COMPANY 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 204
         Assets: 6688121
         $/Participant: 32784
@@ -133,3 +119,48 @@ OH : WADSWORTH
                  : THE GROWTH FUND OF AMERICA
                  : VALUE FUND
                  : VANGUARD SMALL CAP GROW INDEX
+   [003]
+    2019: REMINGTON PRODUCTS COMPANY RETIREMENT PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q2I 
+        Participants: 0
+        Service Providers:
+           - HORIZON BANK :  (Trustee(bank, trust company, or similar))
+           - COHEN & COMPANY :  (Accounting(including auditing))
+    2018: REMINGTON PRODUCTS COMPANY EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q2I 
+        Participants: 153
+        Assets: 246261764
+        $/Participant: 1609554
+    2017: REMINGTON PRODUCTS COMPANY EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q2I 
+        Participants: 170
+        Assets: 105568669
+        $/Participant: 620992
+   [501]
+    2022: REMINGTON PRODUCTS COMPANY EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2021: REMINGTON PRODUCTS COMPANY EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2020: REMINGTON PRODUCTS COMPANY EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2019: REMINGTON PRODUCTS COMPANY EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2018: REMINGTON PRODUCTS COMPANY EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2017: REMINGTON PRODUCTS COMPANY EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 

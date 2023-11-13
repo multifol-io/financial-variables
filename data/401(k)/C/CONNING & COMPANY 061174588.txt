@@ -1,21 +1,9 @@
 CT : HARTFORD
   CONNING & COMPANY  061174588
-   [502]
-    2019: CONNING & COMPANY SEVERANCE PAY PLAN FOR U.S. EMPLOYEES
-        Participants: 
-    2018: CONNING & COMPANY SEVERANCE PAY PLAN FOR U.S. EMPLOYEES
-        Participants: 
-    2017: CONNING & COMPANY SEVERANCE PAY PLAN FOR U.S. EMPLOYEES
-        Participants: 
-   [501]
-    2019: CONNING HEALTH AND WELFARE PLANS
-        Participants: 
-    2018: CONNING HEALTH AND WELFARE PLANS
-        Participants: 
-    2017: CONNING HEALTH AND WELFARE PLANS
-        Participants: 
    [003]
     2022: CONNING & COMPANY (U.S.) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3H2U 
         Participants: 456
         Assets: 118727984
         $/Participant: 260368
@@ -24,6 +12,8 @@ CT : HARTFORD
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND
     2021: CONNING & COMPANY (U.S.) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3H 
         Participants: 438
         Assets: 143110268
         $/Participant: 326735
@@ -32,6 +22,8 @@ CT : HARTFORD
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND
     2020: CONNING & COMPANY (U.S.) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3H 
         Participants: 416
         Assets: 120645108
         $/Participant: 290012
@@ -40,6 +32,8 @@ CT : HARTFORD
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND
     2019: CONNING & COMPANY (U.S.) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3H 
         Participants: 403
         Assets: 99948641
         $/Participant: 248011
@@ -48,6 +42,8 @@ CT : HARTFORD
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND
     2018: CONNING & COMPANY (U.S.) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3H 
         Participants: 399
         Assets: 83164871
         $/Participant: 208433
@@ -56,6 +52,8 @@ CT : HARTFORD
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND
     2017: CONNING & COMPANY (U.S.) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D3H 
         Participants: 380
         Assets: 82918451
         $/Participant: 218206
@@ -63,3 +61,29 @@ CT : HARTFORD
         Available Investments:
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND
+   [501]
+    2019: CONNING HEALTH AND WELFARE PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: CONNING HEALTH AND WELFARE PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2017: CONNING HEALTH AND WELFARE PLANS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+   [502]
+    2019: CONNING & COMPANY SEVERANCE PAY PLAN FOR U.S. EMPLOYEES
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2018: CONNING & COMPANY SEVERANCE PAY PLAN FOR U.S. EMPLOYEES
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2017: CONNING & COMPANY SEVERANCE PAY PLAN FOR U.S. EMPLOYEES
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

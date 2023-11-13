@@ -1,78 +1,9 @@
 NY : NEW YORK
   BROWN BROTHERS HARRIMAN & CO.  134973745
-   [526]
-    2022: BROWN BROTHERS HARRIMAN & CO. WELFARE BENEFITS PLAN FOR ACTIVE EMPLOYEES
-        Participants: 
-    2021: BROWN BROTHERS HARRIMAN & CO. WELFARE BENEFTIS PLAN FOR ACTIVE EMPLOYEES
-        Participants: 
-    2020: BROWN BROTHERS HARRIMAN & CO. WELFARE BENEFTIS PLAN FOR ACTIVE EMPLOYEES
-        Participants: 3211
-        Service Providers:
-           -  : CLAIMS PROCESSOR (Claims processing | Contract Administrator)
-    2019: BROWN BROTHERS HARRIMAN & CO. WELFARE BENEFTIS PLAN FOR ACTIVE EMPLOYEES
-        Participants: 3278
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
-    2018: BROWN BROTHERS HARRIMAN & CO. WELFARE BENEFTIS PLAN FOR ACTIVE EMPLOYEES
-        Participants: 3273
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
-    2017: BROWN BROTHERS HARRIMAN & CO. WELFARE BENEFITS PLAN FOR ACTIVE EMPLOYEES
-        Participants: 3188
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
-   [525]
-    2022: BROWN BROTHERS HARRIMAN & CO. RETIREE WELFARE BENEFITS PLAN
-        Participants: 
-    2021: BROWN BROTHERS HARRIMAN & CO. RETIREE WELFARE BENEFITS PLAN
-        Participants: 
-    2020: BROWN BROTHERS HARRIMAN & CO. RETIREE WELFARE BENEFITS PLAN
-        Participants: 116
-        Service Providers:
-           - UNITED HEALTH CARE SERVICES : CLAIMS PROCESSOR (Claims processing | Other services)
-    2019: BROWN BROTHERS HARRIMAN & CO. RETIREE WELFARE BENEFITS PLAN
-        Participants: 110
-        Service Providers:
-           - UNITED HEALTHCARE SERVICES : CLAIMS PROCESSOR (Claims processing | Other services)
-    2018: BROWN BROTHERS HARRIMAN & CO. RETIREE WELFARE BENEFITS PLAN
-        Participants: 152
-        Service Providers:
-           - UNITED HEALTHCARE SERVICES : CLAIMS PROCESSOR (Claims processing | Other services)
-    2017: BROWN BROTHERS HARRIMAN & CO. RETIREE WELFARE BENEFITS PLAN
-        Participants: 183
-        Service Providers:
-           - UNITED HEALTHCARE SERVICES : CLAIMS PROCESSOR ()
-   [522]
-    2022: BROWN BROTHERS HARRIMAN & CO. MEDICAL PLAN FOR ACTIVE EMPLOYEES
-        Participants: 
-    2021: BROWN BROTHERS HARRIMAN & CO. MEDICAL PLAN FOR ACTIVE EMPLOYEES
-        Participants: 
-    2020: BROWN BROTHERS HARRIMAN & CO. MEDICAL PLAN FOR ACTIVE EMPLOYEES
-        Participants: 2506
-        Service Providers:
-           - MERCER HEALTH & BENEFITS : BROKER (Other commissions)
-           - UNTIED HEALTHCARE SERVICES : CLAIMS PROCESSOR (Claims processing | Other services)
-    2019: BROWN BROTHERS HARRIMAN & CO. MEDICAL PLAN FOR ACTIVE EMPLOYEES
-        Participants: 2558
-        Service Providers:
-           - UNITED HEALTHCARE SERVICES : CLAIMS PROCESSOR (Claims processing | Other services)
-    2018: BROWN BROTHERS HARRIMAN & CO. MEDICAL PLAN FOR ACTIVE EMPLOYEES
-        Participants: 2482
-        Service Providers:
-           - UNITED HEALTHCARE SERVICES,INC : CLAIMS PROCESSOR (Claims processing | Other services)
-    2017: BROWN BROTHERS HARRIMAN & CO. MEDICAL PLAN FOR ACTIVE EMPLOYEES
-        Participants: 2481
-        Service Providers:
-           - UNITED HEALTHCARE SERVICES : CLAIMS PROCESSOR (Claims processing | Other services)
-   [005]
-    2018: THE BROWN BROTHERS HARRIMAN CASH BALANCE PLAN (NO. 3) - SPIN-OFF PLAN
-        Participants: 0
-        Service Providers:
-           - FIDELITY INVESTMENT :  (Consulting(pension))
-           - MERCER :  (Consulting(pension))
-           - PROSKAUER :  (Consulting(pension))
    [003]
     2022: 59 WALL STREET CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3B3F 
         Participants: 4871
         Assets: 1147258103
         $/Participant: 235528
@@ -97,6 +28,8 @@ NY : NEW YORK
                  : TRP RETIRE 2060 F
                  : TRP RETIRE 2065 F
     2021: 59 WALL STREET CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3B3F 
         Participants: 4663
         Assets: 1398409161
         $/Participant: 299894
@@ -121,6 +54,8 @@ NY : NEW YORK
                  : TRP RETIRE 2060 F
                  : TRP RETIRE 2065 F
     2020: 59 WALL STREET CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3B3F 
         Participants: 4691
         Assets: 1218976583
         $/Participant: 259854
@@ -143,6 +78,8 @@ NY : NEW YORK
                  : TRP RETIRE 2060 F
                  : TRP RETIRE 2065 F
     2019: 59 WALL STREET CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3B3F 
         Participants: 4748
         Assets: 1048263843
         $/Participant: 220780
@@ -166,6 +103,8 @@ NY : NEW YORK
                  : TRP RETIRE 2055 F
                  : TRP RETIRE 2060 F
     2018: 59 WALL STREET CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3B 
         Participants: 4694
         Assets: 845150729
         $/Participant: 180049
@@ -187,6 +126,8 @@ NY : NEW YORK
                  : TRP RETIRE 2055 F
                  : TRP RETIRE 2060 F
     2017: 59 WALL STREET CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3B3H 
         Participants: 4577
         Assets: 864013038
         $/Participant: 188772
@@ -207,8 +148,106 @@ NY : NEW YORK
                  : TRP RETIRE 2050 F
                  : TRP RETIRE 2055 F
                  : TRP RETIRE 2060 F
+   [522]
+    2022: BROWN BROTHERS HARRIMAN & CO. MEDICAL PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+    2021: BROWN BROTHERS HARRIMAN & CO. MEDICAL PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 
+    2020: BROWN BROTHERS HARRIMAN & CO. MEDICAL PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 2506
+        Service Providers:
+           - MERCER HEALTH & BENEFITS : BROKER (Other commissions)
+           - UNTIED HEALTHCARE SERVICES : CLAIMS PROCESSOR (Claims processing | Other services)
+    2019: BROWN BROTHERS HARRIMAN & CO. MEDICAL PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 2558
+        Service Providers:
+           - UNITED HEALTHCARE SERVICES : CLAIMS PROCESSOR (Claims processing | Other services)
+    2018: BROWN BROTHERS HARRIMAN & CO. MEDICAL PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 2482
+        Service Providers:
+           - UNITED HEALTHCARE SERVICES,INC : CLAIMS PROCESSOR (Claims processing | Other services)
+    2017: BROWN BROTHERS HARRIMAN & CO. MEDICAL PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 2481
+        Service Providers:
+           - UNITED HEALTHCARE SERVICES : CLAIMS PROCESSOR (Claims processing | Other services)
+   [525]
+    2022: BROWN BROTHERS HARRIMAN & CO. RETIREE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B
+        Participants: 
+    2021: BROWN BROTHERS HARRIMAN & CO. RETIREE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B
+        Participants: 
+    2020: BROWN BROTHERS HARRIMAN & CO. RETIREE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B
+        Participants: 116
+        Service Providers:
+           - UNITED HEALTH CARE SERVICES : CLAIMS PROCESSOR (Claims processing | Other services)
+    2019: BROWN BROTHERS HARRIMAN & CO. RETIREE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B
+        Participants: 110
+        Service Providers:
+           - UNITED HEALTHCARE SERVICES : CLAIMS PROCESSOR (Claims processing | Other services)
+    2018: BROWN BROTHERS HARRIMAN & CO. RETIREE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B
+        Participants: 152
+        Service Providers:
+           - UNITED HEALTHCARE SERVICES : CLAIMS PROCESSOR (Claims processing | Other services)
+    2017: BROWN BROTHERS HARRIMAN & CO. RETIREE WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B
+        Participants: 183
+        Service Providers:
+           - UNITED HEALTHCARE SERVICES : CLAIMS PROCESSOR ()
+   [526]
+    2020: BROWN BROTHERS HARRIMAN & CO. WELFARE BENEFTIS PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4Q4B4R4H4A4I4E4D
+        Participants: 3211
+        Service Providers:
+           -  : CLAIMS PROCESSOR (Claims processing | Contract Administrator)
+    2019: BROWN BROTHERS HARRIMAN & CO. WELFARE BENEFTIS PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4Q4B4R4H4A4I4E4D
+        Participants: 3278
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
+    2018: BROWN BROTHERS HARRIMAN & CO. WELFARE BENEFTIS PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4Q4B4R4H4A4I4E4D
+        Participants: 3273
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
+    2017: BROWN BROTHERS HARRIMAN & CO. WELFARE BENEFITS PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4Q4B4R4D4H4A4I4E
+        Participants: 3188
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
    [001]
     2022: CASH BALANCE RETIREMENT PLAN OF BROWN BROTHERS HARRIMAN & CO.
+        Benefit Category: Pension
+        Codes: 1A1C1I 
         Participants: 411
         Assets: 126934870
         $/Participant: 308843
@@ -216,6 +255,8 @@ NY : NEW YORK
            - FIDELITY INVESTMENT :  (Consulting(pension))
            - MERCER :  (Consulting(pension))
     2021: CASH BALANCE RETIREMENT PLAN OF BROWN BROTHERS HARRIMAN & CO.
+        Benefit Category: Pension
+        Codes: 1A1C1I 
         Participants: 427
         Assets: 145024873
         $/Participant: 339636
@@ -224,6 +265,8 @@ NY : NEW YORK
            - MERCER :  (Consulting(pension))
            - PROSKAUER :  (Consulting(pension))
     2020: CASH BALANCE RETIREMENT PLAN OF BROWN BROTHERS HARRIMAN & CO.
+        Benefit Category: Pension
+        Codes: 1A1C1I 
         Participants: 447
         Assets: 139251065
         $/Participant: 311523
@@ -232,6 +275,8 @@ NY : NEW YORK
            - MERCER :  (Consulting(pension))
            - PROSKAUER :  (Consulting(pension))
     2019: CASH BALANCE RETIREMENT PLAN OF BROWN BROTHERS HARRIMAN & CO.
+        Benefit Category: Pension
+        Codes: 1A1C1I 
         Participants: 452
         Assets: 135034722
         $/Participant: 298749
@@ -240,6 +285,8 @@ NY : NEW YORK
            - MERCER :  (Consulting(pension))
            - PROSKAUER :  (Consulting(pension))
     2018: CASH BALANCE RETIREMENT PLAN OF BROWN BROTHERS HARRIMAN & CO.
+        Benefit Category: Pension
+        Codes: 1A1C1I 
         Participants: 464
         Assets: 123832363
         $/Participant: 266880
@@ -248,6 +295,8 @@ NY : NEW YORK
            - MERCER :  (Consulting(pension))
            - PROSKAUER :  (Consulting(pension))
     2017: CASH BALANCE RETIREMENT PLAN OF BROWN BROTHERS HARRIMAN & CO.
+        Benefit Category: Pension
+        Codes: 1A1C1I 
         Participants: 950
         Assets: 143509486
         $/Participant: 151062
@@ -255,3 +304,21 @@ NY : NEW YORK
            - FIDELITY INVESTMENT :  (Consulting(pension))
            - MERCER :  (Consulting(pension))
            - PROSKAUER :  (Consulting(pension))
+   [005]
+    2018: THE BROWN BROTHERS HARRIMAN CASH BALANCE PLAN (NO. 3) - SPIN-OFF PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I 
+        Participants: 0
+        Service Providers:
+           - FIDELITY INVESTMENT :  (Consulting(pension))
+           - MERCER :  (Consulting(pension))
+           - PROSKAUER :  (Consulting(pension))
+   [526]
+    2022: BROWN BROTHERS HARRIMAN & CO. WELFARE BENEFITS PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Severance
+        Codes:  4B4D4E4F4H4I4L
+        Participants: 
+    2021: BROWN BROTHERS HARRIMAN & CO. WELFARE BENEFTIS PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Severance
+        Codes:  4B4D4E4F4H4I4L4Q
+        Participants: 

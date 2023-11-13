@@ -1,20 +1,9 @@
 IL : CHICAGO
-  CHICAGO MERCANTILE EXCHANGE INC.  364340266
-   [501]
-    2022: CHICAGO MERCANTILE EXCHANGE INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2021: CHICAGO MERCANTILE EXCHANGE INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2020: CHICAGO MERCANTILE EXCHANGE INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2019: CHICAGO MERCANTILE EXCHANGE INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2018: CHICAGO MERCANTILE EXCHANGE INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2017: CHICAGO MERCANTILE EXCHANGE INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
+  CHICAGO MERCANTILE EXCHANGE, INC.  364340266
    [002]
     2022: CHICAGO MERCANTILE EXCHANGE, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 3829
         Assets: 790637949
         $/Participant: 206486
@@ -23,6 +12,8 @@ IL : CHICAGO
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGED INC PORTFOLIO II
     2021: CHICAGO MERCANTILE EXCHANGE, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 3823
         Assets: 994794142
         $/Participant: 260212
@@ -31,6 +22,8 @@ IL : CHICAGO
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGED INC PORTFOLIO II
     2020: CHICAGO MERCANTILE EXCHANGE, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 3979
         Assets: 875625674
         $/Participant: 220061
@@ -39,6 +32,8 @@ IL : CHICAGO
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGED INC PORTFOLIO II
     2019: CHICAGO MERCANTILE EXCHANGE, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 3630
         Assets: 588222142
         $/Participant: 162044
@@ -47,6 +42,8 @@ IL : CHICAGO
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGED INC PORTFOLIO II
     2018: CHICAGO MERCANTILE EXCHANGE, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 3217
         Assets: 468773505
         $/Participant: 145717
@@ -55,6 +52,8 @@ IL : CHICAGO
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGED INC PORTFOLIO II
     2017: CHICAGO MERCANTILE EXCHANGE, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 3228
         Assets: 490774031
         $/Participant: 152036
@@ -62,8 +61,41 @@ IL : CHICAGO
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGED INC PORTFOLIO II
+   [501]
+    2022: CHICAGO MERCANTILE EXCHANGE INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2021: CHICAGO MERCANTILE EXCHANGE INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2020: CHICAGO MERCANTILE EXCHANGE INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2019: CHICAGO MERCANTILE EXCHANGE INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2018: CHICAGO MERCANTILE EXCHANGE INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2017: CHICAGO MERCANTILE EXCHANGE INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
    [001]
     2022: PENSION PLAN FOR EMPLOYEES OF THE CHICAGO MERCANTILE EXCHANGE, INC.
+        Benefit Category: Pension
+        Codes: 1A1C 
         Participants: 3480
         Assets: 332007649
         $/Participant: 95404
@@ -83,6 +115,8 @@ IL : CHICAGO
                  : S & P MIDCAP 400 INDEX FUND
                  : US SHORT TERM GOVT CREDIT BD INDEX
     2021: PENSION PLAN FOR EMPLOYEES OF THE CHICAGO MERCANTILE EXCHANGE, INC.
+        Benefit Category: Pension
+        Codes: 1A1C 
         Participants: 3535
         Assets: 402510482
         $/Participant: 113864
@@ -102,6 +136,8 @@ IL : CHICAGO
                  : S & P MIDCAP 400 INDEX FUND
                  : US SHORT TERM GOVT CREDIT BD INDEX
     2020: PENSION PLAN FOR EMPLOYEES OF THE CHICAGO MERCANTILE EXCHANGE, INC.
+        Benefit Category: Pension
+        Codes: 1A1C 
         Participants: 3574
         Assets: 388507002
         $/Participant: 108703
@@ -121,6 +157,8 @@ IL : CHICAGO
                  : S & P MIDCAP 400 INDEX FUND
                  : US SHORT TERM GOVT CREDIT BD INDEX
     2019: PENSION PLAN FOR EMPLOYEES OF THE CHICAGO MERCANTILE EXCHANGE, INC.
+        Benefit Category: Pension
+        Codes: 1A1C 
         Participants: 3153
         Assets: 356897899
         $/Participant: 113193
@@ -141,6 +179,8 @@ IL : CHICAGO
                  : S & P MIDCAP 400 INDEX FUND
                  : US SHORT TERM GOVT CREDIT BD INDEX
     2018: PENSION PLAN FOR EMPLOYEES OF THE CHICAGO MERCANTILE EXCHANGE, INC.
+        Benefit Category: Pension
+        Codes: 1A1C 
         Participants: 3124
         Assets: 315800982
         $/Participant: 101088
@@ -160,6 +200,8 @@ IL : CHICAGO
                  : S & P MIDCAP 400 INDEX FUND
                  : US SHORT TERM GOVT CREDIT BD INDEX
     2017: PENSION PLAN FOR EMPLOYEES OF THE CHICAGO MERCANTILE EXCHANGE, INC.
+        Benefit Category: Pension
+        Codes: 1A1C 
         Participants: 3101
         Assets: 347965231
         $/Participant: 112210

@@ -1,35 +1,8 @@
 TX : HOUSTON
   ARAMCO SHARED BENEFITS COMPANY  844364434
-   [502]
-    2022: ARAMCO U.S. RETIREE MEDICAL PAYMENT PLAN
-        Participants: 
-        Assets: 4049000
-        $/Participant: 
-        RecordKeeper: MEDCO / ESI
-    2021: ARAMCO U.S. RETIREE MEDICAL PAYMENT PLAN
-        Participants: 
-        Assets: 2589549
-        $/Participant: 
-        RecordKeeper: MEDCO / ESI
-   [501]
-    2022: ARAMCO U.S. WELFARE BENEFIT PLAN
-        Participants: 
-        RecordKeeper: WEX HEALTH INC.
-    2021: ARAMCO U.S. WELFARE BENEFIT PLAN
-        Participants: 
-        RecordKeeper: WEX HEALTH INC.
-    2020: ARAMCO U.S. WELFARE BENEFIT PLAN
-        Participants: 
-        Assets: 6306957
-        $/Participant: 
-        RecordKeeper: JP MORGAN CHASE BANK N.A.
-    2019: ARAMCO U.S. WELFARE BENEFIT PLAN
-        Participants: 
-        Assets: 6582949
-        $/Participant: 
-        RecordKeeper: JP MORGAN CHASE BANK N.A.
-   [002]
     2022: ARAMCO U.S. SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 3717
         Assets: 2595687000
         $/Participant: 698328
@@ -54,6 +27,8 @@ TX : HOUSTON
                  : VANGUARD TARGET RET 2070 TRUST I
                  : VANGUARD TARGET RET INC TRUST I
     2021: ARAMCO U.S. SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 3793
         Assets: 3047507471
         $/Participant: 803455
@@ -73,6 +48,8 @@ TX : HOUSTON
                  : VFTC TARGET RET 2065 TRUST II
                  : VFTC TARGET RET INCOME TRUST II
     2020: ARAMCO U.S. SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 3950
         Assets: 2850880040
         $/Participant: 721741
@@ -92,6 +69,8 @@ TX : HOUSTON
                  : VFTC TARGET RET 2065 TRUST II
                  : VFTC TARGET RET INCOME TRUST II
     2019: ARAMCO U.S. SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 4114
         Assets: 2591288617
         $/Participant: 629870
@@ -110,13 +89,57 @@ TX : HOUSTON
                  : VFTC TARGET RET 2060 TRUST II
                  : VFTC TARGET RET 2065 TRUST II
                  : VFTC TARGET RET INCOME TRUST II
+   [501]
+    2022: ARAMCO U.S. WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 
+        RecordKeeper: WEX HEALTH INC.
+    2021: ARAMCO U.S. WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 
+        RecordKeeper: WEX HEALTH INC.
+    2020: ARAMCO U.S. WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 
+        Assets: 6306957
+        $/Participant: 
+        RecordKeeper: JP MORGAN CHASE BANK N.A.
+    2019: ARAMCO U.S. WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 
+        Assets: 6582949
+        $/Participant: 
+        RecordKeeper: JP MORGAN CHASE BANK N.A.
+   [502]
+    2022: ARAMCO U.S. RETIREE MEDICAL PAYMENT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4H4B4D4Q
+        Participants: 
+        Assets: 4049000
+        $/Participant: 
+        RecordKeeper: MEDCO / ESI
+    2021: ARAMCO U.S. RETIREE MEDICAL PAYMENT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4H4B4D4Q
+        Participants: 
+        Assets: 2589549
+        $/Participant: 
+        RecordKeeper: MEDCO / ESI
    [001]
     2022: ARAMCO U.S. RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A1E3H 
         Participants: 1933
         Assets: 1779763000
         $/Participant: 920725
         RecordKeeper: VANGUARD
     2021: ARAMCO U.S. RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A1E3H 
         Participants: 2084
         Assets: 2198500301
         $/Participant: 1054942
@@ -125,6 +148,8 @@ TX : HOUSTON
            - BRIDGEWATER PUREALPHA MAJOR MARKETS
                  : BRIDGEWATER PUREALPHA MAJOR MARKETS
     2020: ARAMCO U.S. RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A1E3H 
         Participants: 2325
         Assets: 2382025335
         $/Participant: 1024527
@@ -133,6 +158,8 @@ TX : HOUSTON
            - BRIDGEWATER PUREALPHA MAJOR MARKETS
                  : BRIDGEWATER PUREALPHA MAJOR MARKETS
     2019: ARAMCO U.S. RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A1E3H 
         Participants: 2876
         Assets: 2446368453
         $/Participant: 850614

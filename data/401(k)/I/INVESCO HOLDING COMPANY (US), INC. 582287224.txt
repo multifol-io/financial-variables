@@ -1,23 +1,10 @@
 GA : ATLANTA
   INVESCO HOLDING COMPANY (US), INC.  582287224
-   [583]
-    2019: INVESCO SEVERANCE PLAN
-        Participants: 
-   [550]
-    2022: INVESCO LIFE CYCLE FLEX PLAN
-        Participants: 
-    2021: INVESCO LIFE CYCLE FLEX PLAN
-        Participants: 
-    2020: INVESCO LIFE CYCLE FLEX PLAN
-        Participants: 
-    2019: INVESCO LIFE CYCLE FLEX PLAN
-        Participants: 
-    2018: INVESCO LIFE CYCLE FLEX PLAN
-        Participants: 
-    2017: INVESCO LIFE CYCLE FLEX PLAN
-        Participants: 
    [010]
     2022: INVESCO 401(K) PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2H2J2K2O2R2S3H 
         Participants: 5200
         Assets: 1572546425
         $/Participant: 302412
@@ -45,6 +32,9 @@ GA : ATLANTA
                  : STATE STREET REIT INDX NL SF CL A
                  : STATE STREETS&P 500 INDX SL SF CL I
     2021: INVESCO 401(K) PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2O2R2S2T3H 
         Participants: 5112
         Assets: 1875127059
         $/Participant: 366808
@@ -72,6 +62,9 @@ GA : ATLANTA
                  : STATE STREET REIT INDX NL SF CL A
                  : STATE STREETS&P 500 INDX SL SF CL I
     2020: INVESCO 401(K) PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2O2R2S2T3H 
         Participants: 4901
         Assets: 1358503753
         $/Participant: 277189
@@ -100,6 +93,9 @@ GA : ATLANTA
                  : STATE STREET REIT INDX NL SF CL A
                  : STATE STREETS&P 500 INDX SL SF CL I
     2019: INVESCO 401(K) PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2R2S2T2O3H 
         Participants: 4982
         Assets: 1176563135
         $/Participant: 236162
@@ -128,6 +124,9 @@ GA : ATLANTA
                  : SS U.S. INFL PROT BD INDX NL SFCL C
                  : STATE STREET REIT INDX NL SF CL A
     2018: INVESCO 401(K) PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2R2S2T3H2O 
         Participants: 3836
         Assets: 975457924
         $/Participant: 254290
@@ -154,6 +153,9 @@ GA : ATLANTA
                  : STATE STREET U.S. BOND INDEX NL SF
                  : U.S. INFLATION PRO BOND INDX NL SF
     2017: INVESCO 401(K) PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2R2S2T3H2O 
         Participants: 3769
         Assets: 1044133603
         $/Participant: 277031
@@ -182,3 +184,33 @@ GA : ATLANTA
                  : SSGA REIT INDEX NL SF CL C
            - WILMINGTON TRUST RETIREMENT AND INSTITUTIONAL SERVICES COMPANY
                  : LASSO LONG&SHORT STRAT OPPORT
+   [550]
+    2022: INVESCO LIFE CYCLE FLEX PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2021: INVESCO LIFE CYCLE FLEX PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2020: INVESCO LIFE CYCLE FLEX PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2019: INVESCO LIFE CYCLE FLEX PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: INVESCO LIFE CYCLE FLEX PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2017: INVESCO LIFE CYCLE FLEX PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+   [583]
+    2019: INVESCO SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I4S
+        Participants: 

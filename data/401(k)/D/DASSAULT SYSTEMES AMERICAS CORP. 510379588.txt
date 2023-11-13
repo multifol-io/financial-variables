@@ -1,53 +1,8 @@
 MA : WALTHAM
   DASSAULT SYSTEMES AMERICAS CORP.  510379588
-   [501]
-    2022: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE HEALTH BENEFITS PLAN
-        Participants: 
-    2021: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE HEALTH BENEFITS PLAN
-        Participants: 
-    2020: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE HEALTH BENEFITS PLAN
-        Participants: 
-    2019: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE HEALTH BENEFITS PLAN
-        Participants: 
-    2018: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE HEALTH BENEFITS PLAN
-        Participants: 
-    2017: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE HEALTH BENEFITS PLAN
-        Participants: 
-   [002]
-    2019: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE RETIREMENT PLAN
-        Participants: 0
-        Service Providers:
-           - GALLAGHER :  (Plan Administrator | Direct payment from the plan)
-           - RYAN LABS :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - WILLIS TOWERS WATSON US LLC :  (Actuarial | Direct payment from the plan)
-           - FIRST STATE TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Trustee(directed) | Investment management | Direct payment from the plan)
-    2018: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE RETIREMENT PLAN
-        Participants: 448
-        Assets: 57355286
-        $/Participant: 128025
-        Service Providers:
-           - MCDONNELL INVESTMENT MANAGEMENT :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - LAZARD FRERES & CO :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - POLEN CAPITAL INVESTMENT :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - BLACKROCK :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - FIRST STATE TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Trustee(directed) | Investment management | Direct payment from the plan)
-           - MORGAN STANLEY :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - RIVERBRIDGE PARTNERS :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - RYAN LABS :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-    2017: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE RETIREMENT PLAN
-        Participants: 449
-        Assets: 58181640
-        $/Participant: 129580
-        Service Providers:
-           - MCDONNELL INVESTMENT MANAGEMENT :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - LAZARD FRERES & CO :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - BLACKROCK :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - POLEN CAPITAL INVESTMENT :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - FIRST STATE TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Trustee(directed) | Investment management | Direct payment from the plan)
-           - MORGAN STANLEY :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - RIVERBRIDGE PARTNERS :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-   [001]
     2022: DASSAULT SYSTEMES EMPLOYEE SAVINGS PLAN PLUS
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H3D 
         Participants: 8089
         Assets: 1467771903
         $/Participant: 181452
@@ -81,6 +36,8 @@ MA : WALTHAM
            - WILMINGTON TRUST, N.A.
                  : WT FKLN GROWTH R
     2021: DASSAULT SYSTEMES EMPLOYEE SAVINGS PLAN PLUS
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H3D 
         Participants: 7579
         Assets: 1741601932
         $/Participant: 229793
@@ -113,6 +70,8 @@ MA : WALTHAM
            - WILMINGTON TRUST
                  : WT METLIFE STAB VAL
     2020: DASSAULT SYSTEMES EMPLOYEE SAVINGS PLAN PLUS
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H3D 
         Participants: 5367
         Assets: 1491417232
         $/Participant: 277886
@@ -138,6 +97,8 @@ MA : WALTHAM
            - WILMINGTON TRUST
                  : WT METLIFE STAB VAL
     2019: DASSAULT SYSTEMES EMPLOYEE SAVINGS PLAN PLUS
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 4652
         Assets: 1060627102
         $/Participant: 227993
@@ -161,6 +122,8 @@ MA : WALTHAM
                  : TRP RETIRE 2060 F
                  : TRP RETIRE BAL F
     2018: DASSAULT SYSTEMES EMPLOYEE SAVINGS PLAN PLUS
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D3H2E 
         Participants: 4381
         Assets: 808298345
         $/Participant: 184500
@@ -184,6 +147,8 @@ MA : WALTHAM
                  : TRP RETIRE 2060 F
                  : TRP RETIRE BAL F
     2017: DASSAULT SYSTEMES EMPLOYEE SAVINGS PLAN PLUS
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 4128
         Assets: 804131081
         $/Participant: 194799
@@ -191,3 +156,67 @@ MA : WALTHAM
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
+   [501]
+    2022: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2021: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2020: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2019: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+   [002]
+    2019: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I1H 
+        Participants: 0
+        Service Providers:
+           - GALLAGHER :  (Plan Administrator | Direct payment from the plan)
+           - RYAN LABS :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - WILLIS TOWERS WATSON US LLC :  (Actuarial | Direct payment from the plan)
+           - FIRST STATE TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Trustee(directed) | Investment management | Direct payment from the plan)
+    2018: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
+        Participants: 448
+        Assets: 57355286
+        $/Participant: 128025
+        Service Providers:
+           - MCDONNELL INVESTMENT MANAGEMENT :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - LAZARD FRERES & CO :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - POLEN CAPITAL INVESTMENT :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - BLACKROCK :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - FIRST STATE TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Trustee(directed) | Investment management | Direct payment from the plan)
+           - MORGAN STANLEY :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - RIVERBRIDGE PARTNERS :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - RYAN LABS :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+    2017: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
+        Participants: 449
+        Assets: 58181640
+        $/Participant: 129580
+        Service Providers:
+           - MCDONNELL INVESTMENT MANAGEMENT :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - LAZARD FRERES & CO :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - BLACKROCK :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - POLEN CAPITAL INVESTMENT :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - FIRST STATE TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Trustee(directed) | Investment management | Direct payment from the plan)
+           - MORGAN STANLEY :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - RIVERBRIDGE PARTNERS :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)

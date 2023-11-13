@@ -1,30 +1,8 @@
 TX : HOUSTON
   ALLEN BOONE HUMPHRIES ROBINSON LLP  743091731
-   [505]
-    2021: ALLEN BOONE HUMPHRIES ROBINSON LLP HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: ALLEN BOONE HUMPHRIES ROBINSON LLP HEALTH AND WELFARE PLAN
-        Participants: 
-   [504]
-    2020: ALLEN BOONE HUMPHRIES ROBINSON LLP SHORT TERM DISABILITY PLAN
-        Participants: 
-    2019: ALLEN BOONE HUMPHRIES ROBINSON LLP SHORT TERM DISABILITY PLAN
-        Participants: 
-   [503]
-    2020: ALLEN BOONE HUMPHRIES ROBINSON LLP LONG TERM DISABILITY PLAN
-        Participants: 
-    2019: ALLEN BOONE HUMPHRIES ROBINSON LLP LONG TERM DISABILITY PLAN
-        Participants: 
-   [502]
-    2019: ALLEN BOONE HUMPHRIES ROBINSON LLP HEALTH PLAN
-        Participants: 
-   [501]
-    2020: ALLEN BOONE HUMPHRIES ROBINSON LLP LIFE PLAN
-        Participants: 
-    2019: ALLEN BOONE HUMPHRIES ROBINSON LLP LIFE PLAN
-        Participants: 
-   [001]
     2022: ALLEN BOONE HUMPHRIES ROBINSON LLP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3B3D 
         Participants: 191
         Assets: 39537381
         $/Participant: 207001
@@ -33,6 +11,8 @@ TX : HOUSTON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2021: ALLEN BOONE HUMPHRIES ROBINSON LLP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3B3D 
         Participants: 156
         Assets: 48059502
         $/Participant: 308073
@@ -41,6 +21,8 @@ TX : HOUSTON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2020: ALLEN BOONE HUMPHRIES ROBINSON LLP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3B3D 
         Participants: 145
         Assets: 42087479
         $/Participant: 290258
@@ -49,6 +31,8 @@ TX : HOUSTON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2019: ALLEN BOONE HUMPHRIES ROBINSON LLP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2T3B3D 
         Participants: 138
         Assets: 35500531
         $/Participant: 257250
@@ -56,3 +40,44 @@ TX : HOUSTON
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
+   [502]
+    2019: ALLEN BOONE HUMPHRIES ROBINSON LLP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 
+   [505]
+    2021: ALLEN BOONE HUMPHRIES ROBINSON LLP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2020: ALLEN BOONE HUMPHRIES ROBINSON LLP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+   [501]
+    2020: ALLEN BOONE HUMPHRIES ROBINSON LLP LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4Q
+        Participants: 
+    2019: ALLEN BOONE HUMPHRIES ROBINSON LLP LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4Q
+        Participants: 
+   [503]
+    2020: ALLEN BOONE HUMPHRIES ROBINSON LLP LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2019: ALLEN BOONE HUMPHRIES ROBINSON LLP LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+   [504]
+    2020: ALLEN BOONE HUMPHRIES ROBINSON LLP SHORT TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+    2019: ALLEN BOONE HUMPHRIES ROBINSON LLP SHORT TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 

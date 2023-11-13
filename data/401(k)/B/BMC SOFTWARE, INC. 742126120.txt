@@ -1,46 +1,9 @@
 TX : HOUSTON
   BMC SOFTWARE, INC.  742126120
-   [512]
-    2022: BMC SOFTWARE, INC. CAFETERIA BENEFIT PLAN
-        Participants: 
-    2021: BMC SOFTWARE, INC. CAFETERIA BENEFIT PLAN
-        Participants: 
-    2020: BMC SOFTWARE, INC. CAFETERIA BENEFIT PLAN
-        Participants: 
-    2019: BMC SOFTWARE, INC. CAFETERIA BENEFIT PLAN
-        Participants: 
-    2018: BMC SOFTWARE, INC. CAFETERIA BENEFIT PLAN
-        Participants: 
-    2017: BMC SOFTWARE, INC. CAFETERIA BENEFIT PLAN
-        Participants: 
-   [511]
-    2022: BMC SOFTWARE, INC. WELFARE BENEFIT PLAN
-        Participants: 
-    2021: BMC SOFTWARE, INC. WELFARE BENEFIT PLAN
-        Participants: 
-    2020: BMC SOFTWARE, INC. WELFARE BENEFIT PLAN
-        Participants: 
-    2019: BMC SOFTWARE, INC. WELFARE BENEFIT PLAN
-        Participants: 
-    2018: BMC SOFTWARE, INC. WELFARE BENEFIT PLAN
-        Participants: 
-    2017: BMC SOFTWARE, INC. WELFARE BENEFIT PLAN
-        Participants: 
-   [510]
-    2022: BMC SOFTWARE, INC. HEALTH BENEFIT PLAN
-        Participants: 
-    2021: BMC SOFTWARE, INC. HEALTH BENEFIT PLAN
-        Participants: 
-    2020: BMC SOFTWARE, INC. HEALTH BENEFIT PLAN
-        Participants: 
-    2019: BMC SOFTWARE, INC. HEALTH BENEFIT PLAN
-        Participants: 
-    2018: BMC SOFTWARE, INC. HEALTH BENEFIT PLAN
-        Participants: 
-    2017: BMC SOFTWARE, INC. HEALTH BENEFIT PLAN
-        Participants: 
    [001]
     2022: BMC SOFTWARE, INC. SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 3H2E2F2G2J2K2T2R 
         Participants: 4807
         Assets: 1070119390
         $/Participant: 222616
@@ -64,6 +27,8 @@ TX : HOUSTON
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INC
     2021: BMC SOFTWARE, INC. SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H2R 
         Participants: 5011
         Assets: 1398654806
         $/Participant: 279116
@@ -88,6 +53,8 @@ TX : HOUSTON
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INC
     2020: BMC SOFTWARE, INC. SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H2R 
         Participants: 4934
         Assets: 1301171236
         $/Participant: 263715
@@ -99,6 +66,8 @@ TX : HOUSTON
                  : FID LOW PR STK POOL
                  : MIP II CL 1
     2019: BMC SOFTWARE, INC. SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3H 
         Participants: 3431
         Assets: 908970005
         $/Participant: 264928
@@ -109,12 +78,91 @@ TX : HOUSTON
                  : FID INTL DSCVRY POOL
                  : FID LOW PR STK POOL
     2018: BMC SOFTWARE, INC. SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2T3H2E 
         Participants: 3534
         Assets: 763553828
         $/Participant: 216059
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
     2017: BMC SOFTWARE, INC. SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2T2K2R2E2F2G2J 
         Participants: 3729
         Assets: 845376911
         $/Participant: 226703
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+   [510]
+    2022: BMC SOFTWARE, INC. HEALTH BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2021: BMC SOFTWARE, INC. HEALTH BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2020: BMC SOFTWARE, INC. HEALTH BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2019: BMC SOFTWARE, INC. HEALTH BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2018: BMC SOFTWARE, INC. HEALTH BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2017: BMC SOFTWARE, INC. HEALTH BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+   [511]
+    2022: BMC SOFTWARE, INC. WELFARE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4F4G4H4L4Q
+        Participants: 
+    2021: BMC SOFTWARE, INC. WELFARE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4F4G4H4L4Q
+        Participants: 
+    2020: BMC SOFTWARE, INC. WELFARE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4F4G4H4L4Q
+        Participants: 
+    2019: BMC SOFTWARE, INC. WELFARE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4F4G4H4L4Q
+        Participants: 
+    2018: BMC SOFTWARE, INC. WELFARE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4F4G4H4L4Q
+        Participants: 
+    2017: BMC SOFTWARE, INC. WELFARE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4F4G4H4L4Q
+        Participants: 
+   [512]
+    2022: BMC SOFTWARE, INC. CAFETERIA BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2021: BMC SOFTWARE, INC. CAFETERIA BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2020: BMC SOFTWARE, INC. CAFETERIA BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2019: BMC SOFTWARE, INC. CAFETERIA BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2018: BMC SOFTWARE, INC. CAFETERIA BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2017: BMC SOFTWARE, INC. CAFETERIA BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 

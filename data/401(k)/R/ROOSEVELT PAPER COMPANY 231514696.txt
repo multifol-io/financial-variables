@@ -1,40 +1,8 @@
 NJ : MT. LAUREL
   ROOSEVELT PAPER COMPANY  231514696
-   [501]
-    2021: WELFARE PLAN OF THE ROOSEVELT PAPER COMPANY
-        Participants: 
-        Assets: 156072
-        $/Participant: 
-        Service Providers:
-           - AETNA LIFE INSURANCE COMPANY :  (Contract Administrator | Direct payment from the plan)
-           - TRUSTMARK HEALTH BENEFITS, INC. :  (Claims processing | Plan Administrator | Other services | Direct payment from the plan)
-    2020: WELFARE PLAN OF THE ROOSEVELT PAPER COMPANY
-        Participants: 
-        Assets: 123652
-        $/Participant: 
-        Service Providers:
-           - AETNA LIFE INSURANCE COMPANY :  (Contract Administrator | Direct payment from the plan)
-           - TRUSTMARK HEALTH BENEFITS, INC. :  (Claims processing | Plan Administrator | Other services | Direct payment from the plan)
-    2019: WELFARE PLAN OF THE ROOSEVELT PAPER COMPANY
-        Participants: 
-        Assets: 94328
-        $/Participant: 
-        Service Providers:
-           - TRUSTMARK HEALTH BENEFITS, INC. :  (Claims processing | Plan Administrator | Other services)
-    2018: WELFARE PLAN OF THE ROOSEVELT PAPER COMPANY
-        Participants: 
-        Assets: 881
-        $/Participant: 
-        Service Providers:
-           - CORESOURCE, INC. :  (Claims processing | Contract Administrator | Plan Administrator | Other services | Direct payment from the plan)
-    2017: WELFARE PLAN OF THE ROOSEVELT PAPER COMPANY
-        Participants: 
-        Assets: 16422
-        $/Participant: 
-        Service Providers:
-           - CORESOURCE, INC. :  (Claims processing | Contract Administrator | Plan Administrator | Other services | Direct payment from the plan)
-   [002]
     2022: ROOSEVELT PAPER COMPANY 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T2R3D 
         Participants: 261
         Assets: 49395729
         $/Participant: 189255
@@ -57,6 +25,8 @@ NJ : MT. LAUREL
            - SEI TRUST COMPANY
                  : GALLIARD STABLE RETURN FUND C1
     2021: ROOSEVELT PAPER COMPANY 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T2R3D 
         Participants: 235
         Assets: 61160375
         $/Participant: 260256
@@ -78,6 +48,8 @@ NJ : MT. LAUREL
            - WELLS FARGO BANK N.A.
                  : WELLS FARGO STABLE VALUE FUND C
     2020: ROOSEVELT PAPER COMPANY 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T2R3D 
         Participants: 250
         Assets: 51825436
         $/Participant: 207301
@@ -99,6 +71,8 @@ NJ : MT. LAUREL
            - WELLS FARGO BANK N.A.
                  : WELLS FARGO STABLE VALUE FUND C
     2019: ROOSEVELT PAPER COMPANY 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T2R3D 
         Participants: 237
         Assets: 47335206
         $/Participant: 199726
@@ -120,6 +94,8 @@ NJ : MT. LAUREL
            - WELLS FARGO BANK N.A.
                  : WELLS FARGO STABLE VALUE FUND C
     2018: ROOSEVELT PAPER COMPANY 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T2R3D 
         Participants: 217
         Assets: 39008298
         $/Participant: 179761
@@ -141,6 +117,8 @@ NJ : MT. LAUREL
            - WELLS FARGO BANK N.A.
                  : WELLS FARGO STABLE VALUE C
     2017: ROOSEVELT PAPER COMPANY 401(K) RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T2R3D 
         Participants: 222
         Assets: 40529162
         $/Participant: 182563
@@ -160,22 +138,73 @@ NJ : MT. LAUREL
                  : SCHWAB MANAGED RET TRUST FUND INCOM
            - WELLS FARGO BANK N.A.
                  : WELLS FARGO STABLE VALUE C
+   [501]
+    2021: WELFARE PLAN OF THE ROOSEVELT PAPER COMPANY
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Assets: 156072
+        $/Participant: 
+        Service Providers:
+           - AETNA LIFE INSURANCE COMPANY :  (Contract Administrator | Direct payment from the plan)
+           - TRUSTMARK HEALTH BENEFITS, INC. :  (Claims processing | Plan Administrator | Other services | Direct payment from the plan)
+    2020: WELFARE PLAN OF THE ROOSEVELT PAPER COMPANY
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Assets: 123652
+        $/Participant: 
+        Service Providers:
+           - AETNA LIFE INSURANCE COMPANY :  (Contract Administrator | Direct payment from the plan)
+           - TRUSTMARK HEALTH BENEFITS, INC. :  (Claims processing | Plan Administrator | Other services | Direct payment from the plan)
+    2019: WELFARE PLAN OF THE ROOSEVELT PAPER COMPANY
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Assets: 94328
+        $/Participant: 
+        Service Providers:
+           - TRUSTMARK HEALTH BENEFITS, INC. :  (Claims processing | Plan Administrator | Other services)
+    2018: WELFARE PLAN OF THE ROOSEVELT PAPER COMPANY
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Assets: 881
+        $/Participant: 
+        Service Providers:
+           - CORESOURCE, INC. :  (Claims processing | Contract Administrator | Plan Administrator | Other services | Direct payment from the plan)
+    2017: WELFARE PLAN OF THE ROOSEVELT PAPER COMPANY
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Assets: 16422
+        $/Participant: 
+        Service Providers:
+           - CORESOURCE, INC. :  (Claims processing | Contract Administrator | Plan Administrator | Other services | Direct payment from the plan)
    [001]
     2020: ROOSEVELT PAPER COMPANY EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1B1I3D 
         Participants: 0
         Service Providers:
            - AON CONSULTING, INC. :  (Actuarial | Direct payment from the plan)
     2019: ROOSEVELT PAPER COMPANY EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1B1I3D 
         Participants: 278
         Assets: 29878936
         $/Participant: 107478
         Service Providers:
            - AON CONSULTING, INC. :  (Actuarial | Direct payment from the plan)
     2018: ROOSEVELT PAPER COMPANY EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1B1I3D 
         Participants: 280
         Assets: 29707962
         $/Participant: 106099
     2017: ROOSEVELT PAPER COMPANY EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 225
         Assets: 26815688
         $/Participant: 119180

@@ -1,57 +1,8 @@
 NY : NEW YORK
   YORK CAPITAL MANAGEMENT (US) ADVISORS, L.P.  263971819
-   [501]
-    2021: YORK CAPITAL MANAGEMENT (US) ADVISORS, L.P. HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: YORK CAPITAL MANAGEMENT (US) ADVISORS, L.P. HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: YORK CAPITAL MANAGEMENT (US) ADVISORS, L.P. HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: YORK CAPITAL MANAGEMENT (US) ADVISORS, LP HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: YORK CAPITAL MANAGEMENT (US) ADVISORS, LP HEALTH AND WELFARE PLAN
-        Participants: 
-   [003]
-    2022: YORK CAPITAL MANAGEMENT CASH BALANCE PLAN AND TRUST
-        Participants: 58
-        Available Investments:
-           - JOHN HANCOCK LIFE INSURANCE COMPANY OF NEW YORK
-                 : MONEY MARKET FUND
-                 : TIAA-CREF LIFECYCLE INDEX 2010
-    2021: YORK CAPITAL MANAGEMENT CASH BALANCE PLAN AND TRUST
-        Participants: 80
-        Available Investments:
-           - JOHN HANCOCK LIFE INSURANCE COMPANY OF NEW YORK
-                 : MONEY MARKET FUND
-                 : TIAA-CREF LIFECYCLE INDEX 2010
-    2020: YORK CAPITAL MANAGEMENT CASH BALANCE PLAN AND TRUST
-        Participants: 90
-        Available Investments:
-           - JOHN HANCOCK LIFE INSURANCE COMPANY OF NEW YORK
-                 : MONEY MARKET FUND
-    2019: YORK CAPITAL MANAGEMENT CASH BALANCE PLAN AND TRUST
-        Participants: 94
-        Available Investments:
-           - JOHN HANCOCK LIFE INSURANCE COMPANY OF NEW YORK
-                 : MONEY MARKET FUND
-   [002]
-    2018: YORK CAPITAL MANAGEMENT PENSION PLAN AND TRUST
-        Participants: 0
-        RecordKeeper: JOHN HANCOCK LIFE INS CO OF NY
-        Available Investments:
-           - JOHN HANCOCK LIFE INSURANCE COMPANY OF NEW YORK
-                 : MONEY MARKET FUND
-    2017: YORK CAPITAL MANAGEMENT PENSION PLAN AND TRUST
-        Participants: 100
-        Assets: 20939910
-        $/Participant: 209399
-        RecordKeeper: JOHN HANCOCK LIFE INS CO (USA)
-        Available Investments:
-           - JOHN HANCOCK LIFE INSURANCE COMPANY OF NEW YORK
-                 : JH LS CON ACTIVE STRATEGY
-                 : MONEY MARKET FUND
-   [001]
     2022: YORK CAPITAL MANAGEMENT 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2R2S3D3H 
         Participants: 185
         Assets: 59262938
         $/Participant: 320340
@@ -106,6 +57,8 @@ NY : NEW YORK
                  : VANGUARD TOT WLD STK INDEX ETF
                  : VANGUARD VALUE INDEX FUND
     2021: YORK CAPITAL MANAGEMENT 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2R2S3D3H 
         Participants: 203
         Assets: 77038657
         $/Participant: 379500
@@ -161,6 +114,8 @@ NY : NEW YORK
                  : VANGUARD TOT WLD STK INDEX ETF
                  : VANGUARD VALUE INDEX FUND
     2020: YORK CAPITAL MANAGEMENT 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2R2S3D3H 
         Participants: 227
         Assets: 72419699
         $/Participant: 319029
@@ -215,6 +170,8 @@ NY : NEW YORK
                  : VANGUARD TOT WLD STK INDEX ETF
                  : VANGUARD VALUE INDEX FUND
     2019: YORK CAPITAL MANAGEMENT 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2R2S3D3H 
         Participants: 244
         Assets: 63332343
         $/Participant: 259558
@@ -274,6 +231,8 @@ NY : NEW YORK
                  : VANGUARD TOT WLD STK INDEX ETF
                  : VANGUARD VALUE INDEX FUND
     2018: YORK CAPITAL MANAGEMENT 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2R2S3D3H 
         Participants: 234
         Assets: 48340970
         $/Participant: 206585
@@ -327,6 +286,8 @@ NY : NEW YORK
                  : VANGUARD TOT WLD STK INDEX ETF
                  : VANGUARD VALUE INDEX FUND
     2017: YORK CAPITAL MANAGEMENT 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2R2S3D3H 
         Participants: 231
         Assets: 43606286
         $/Participant: 188771
@@ -379,3 +340,75 @@ NY : NEW YORK
                  : VANGUARD SMALL CAP VALUE INDEX
                  : VANGUARD TOT WLD STK INDEX ETF
                  : VANGUARD VALUE INDEX FUND
+   [501]
+    2021: YORK CAPITAL MANAGEMENT (US) ADVISORS, L.P. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: YORK CAPITAL MANAGEMENT (US) ADVISORS, L.P. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: YORK CAPITAL MANAGEMENT (US) ADVISORS, L.P. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: YORK CAPITAL MANAGEMENT (US) ADVISORS, LP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: YORK CAPITAL MANAGEMENT (US) ADVISORS, LP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+   [002]
+    2018: YORK CAPITAL MANAGEMENT PENSION PLAN AND TRUST
+        Benefit Category: Other
+        Codes: 1C1H1I 
+        Participants: 0
+        RecordKeeper: JOHN HANCOCK LIFE INS CO OF NY
+        Available Investments:
+           - JOHN HANCOCK LIFE INSURANCE COMPANY OF NEW YORK
+                 : MONEY MARKET FUND
+    2017: YORK CAPITAL MANAGEMENT PENSION PLAN AND TRUST
+        Benefit Category: Other
+        Codes: 1C1I 
+        Participants: 100
+        Assets: 20939910
+        $/Participant: 209399
+        RecordKeeper: JOHN HANCOCK LIFE INS CO (USA)
+        Available Investments:
+           - JOHN HANCOCK LIFE INSURANCE COMPANY OF NEW YORK
+                 : JH LS CON ACTIVE STRATEGY
+                 : MONEY MARKET FUND
+   [003]
+    2022: YORK CAPITAL MANAGEMENT CASH BALANCE PLAN AND TRUST
+        Benefit Category: Other
+        Codes: 1C 
+        Participants: 58
+        Available Investments:
+           - JOHN HANCOCK LIFE INSURANCE COMPANY OF NEW YORK
+                 : MONEY MARKET FUND
+                 : TIAA-CREF LIFECYCLE INDEX 2010
+    2021: YORK CAPITAL MANAGEMENT CASH BALANCE PLAN AND TRUST
+        Benefit Category: Other
+        Codes: 1C 
+        Participants: 80
+        Available Investments:
+           - JOHN HANCOCK LIFE INSURANCE COMPANY OF NEW YORK
+                 : MONEY MARKET FUND
+                 : TIAA-CREF LIFECYCLE INDEX 2010
+    2020: YORK CAPITAL MANAGEMENT CASH BALANCE PLAN AND TRUST
+        Benefit Category: Other
+        Codes: 1C 
+        Participants: 90
+        Available Investments:
+           - JOHN HANCOCK LIFE INSURANCE COMPANY OF NEW YORK
+                 : MONEY MARKET FUND
+    2019: YORK CAPITAL MANAGEMENT CASH BALANCE PLAN AND TRUST
+        Benefit Category: Other
+        Codes: 1C 
+        Participants: 94
+        Available Investments:
+           - JOHN HANCOCK LIFE INSURANCE COMPANY OF NEW YORK
+                 : MONEY MARKET FUND

@@ -1,34 +1,9 @@
 PA : MONACA
   BVPV STYRENICS LLC  852318004
-   [503]
-    2022: BVPV STYRENICS LLC BEAVER VALLEY UNION WELFARE BENEFITS PLAN
-        Participants: 
-    2021: BVPV STYRENICS LLC BEAVER VALLEY UNION WELFARE BENEFITS PLAN
-        Participants: 
-   [501]
-    2022: BVPV STYRENICS LLC NON-UNION WELFARE BENEFITS PLAN
-        Participants: 
-    2021: BVPV STYRENICS LLC NON-UNION WELFARE BENEFITS PLAN
-        Participants: 
-   [003]
-    2022: BVPV STYRENICS LLC SAVINGS PLAN FOR U.S. EMPLOYEES
-        Participants: 137
-        Assets: 36983966
-        $/Participant: 269955
-        RecordKeeper: SCHWAB RETIREMENT PLAN SERVICES,INC
-        Available Investments:
-           - NEW YORK LIFE INSURANCE COMPANY
-                 : PSA NO. 25 (STABLE VALUE ACCOUNT)
-    2021: BVPV STYRENICS LLC SAVINGS PLAN FOR U.S. EMPLOYEES
-        Participants: 124
-        Assets: 44073622
-        $/Participant: 355432
-        RecordKeeper: SCHWAB RETIREMENT PLAN SERVICES, IN
-        Available Investments:
-           - NEW YORK LIFE INSURANCE COMPANY
-                 : PSA NO. 25 (STABLE VALUE ACCOUNT)
    [002]
     2022: BVPV STYRENICS LLC CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 124
         Assets: 10962411
         $/Participant: 88406
@@ -39,6 +14,8 @@ PA : MONACA
            - SEI TRUST COMPANY
                  : ARTISAN MID CAP GROWTH TRUST
     2021: BVPV STYRENICS LLC CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T 
         Participants: 127
         Assets: 14651757
         $/Participant: 115368
@@ -47,14 +24,57 @@ PA : MONACA
            - NEW YORK LIFE INSURANCE COMPANY
                  : STABLE VALUE ACCOUNT
     2020: BVPV STYRENICS LLC CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 135
         Assets: 15692618
         $/Participant: 116241
         Available Investments:
            - NEW YORK LIFE INSURANCE COMPANY
                  : NEW YORK LIFE ANCHOR ACCT IV
+   [003]
+    2022: BVPV STYRENICS LLC SAVINGS PLAN FOR U.S. EMPLOYEES
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
+        Participants: 137
+        Assets: 36983966
+        $/Participant: 269955
+        RecordKeeper: SCHWAB RETIREMENT PLAN SERVICES,INC
+        Available Investments:
+           - NEW YORK LIFE INSURANCE COMPANY
+                 : PSA NO. 25 (STABLE VALUE ACCOUNT)
+    2021: BVPV STYRENICS LLC SAVINGS PLAN FOR U.S. EMPLOYEES
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
+        Participants: 124
+        Assets: 44073622
+        $/Participant: 355432
+        RecordKeeper: SCHWAB RETIREMENT PLAN SERVICES, IN
+        Available Investments:
+           - NEW YORK LIFE INSURANCE COMPANY
+                 : PSA NO. 25 (STABLE VALUE ACCOUNT)
+   [501]
+    2022: BVPV STYRENICS LLC NON-UNION WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2021: BVPV STYRENICS LLC NON-UNION WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+   [503]
+    2022: BVPV STYRENICS LLC BEAVER VALLEY UNION WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2021: BVPV STYRENICS LLC BEAVER VALLEY UNION WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
    [001]
     2022: BVPV STYRENICS LLC RETIREMENT PLAN FOR BEAVER VALLEY HOURLY EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 181
         Assets: 13058826
         $/Participant: 72148
@@ -74,6 +94,8 @@ PA : MONACA
                  : PRIN SMCAP GROWTH I SEP ACCT-Z
                  : PRIN SMCAP VALUE II SEP ACCT-Z
     2021: BVPV STYRENICS LLC RETIREMENT PLAN FOR BEAVER VALLEY HOURLY EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 170
         Assets: 18083370
         $/Participant: 106372
@@ -96,6 +118,8 @@ PA : MONACA
                  : 20 PLUS YR US TREASURY STRIP INDEX
                  : LONG U.S. CREDIT INDEX NL FUND
     2020: BVPV STYRENICS LLC RETIREMENT PLAN FOR BEAVER VALLEY HOURLY EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 184
         Assets: 19820320
         $/Participant: 107719

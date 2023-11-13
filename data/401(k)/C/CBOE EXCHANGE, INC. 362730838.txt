@@ -1,14 +1,8 @@
 IL : CHICAGO
   CBOE EXCHANGE, INC.  362730838
-   [503]
-    2017: CBOE EMPLOYEE BENEFITS PLAN
-        Participants: 495
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
-           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
-           - FLORES & ASSOCIATES :  (Claims processing)
-   [001]
     2017: CHICAGO BOARD OPTIONS EXCHANGE SMART PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2E2K2R 
         Participants: 901
         Assets: 267350476
         $/Participant: 296726
@@ -16,3 +10,13 @@ IL : CHICAGO
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
+   [503]
+    2017: CBOE EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4F4G4H4I
+        Participants: 495
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
+           - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
+           - FLORES & ASSOCIATES :  (Claims processing)

@@ -1,17 +1,9 @@
 CT : WINDSOR LOCKS
   AHLSTROM-MUNKSJO USA INC.  133509370
-    2022: AHLSTROM-MUNKSJO USA INC. WRAP PLAN
-        Participants: 
-CA : WINDSOR LOCKS
-    2021: AHLSTROM-MUNKSJO WELFARE BENEFIT PLAN
-        Participants: 
-    2020: AHLSTROM-MUNKSJO WELFARE BENEFIT PLAN
-        Participants: 
-CT : WINDSOR LOCKS
-    2019: AHLSTROM-MUNKSJO WELFARE BENEFIT PLAN
-        Participants: 
    [005]
     2022: AHLSTROM-MUNKSJO RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2K2S2T3H3D2R 
         Participants: 3206
         Assets: 429570184
         $/Participant: 133989
@@ -20,6 +12,8 @@ CT : WINDSOR LOCKS
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
     2021: AHLSTROM-MUNKSJO RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2K2R2S2T3D3H 
         Participants: 3134
         Assets: 548031146
         $/Participant: 174866
@@ -28,6 +22,8 @@ CT : WINDSOR LOCKS
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
     2020: AHLSTROM-MUNKSJO RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2K2S2T3H3D2R 
         Participants: 3081
         Assets: 492213757
         $/Participant: 159757
@@ -36,6 +32,8 @@ CT : WINDSOR LOCKS
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
     2019: AHLSTROM-MUNKSJO RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2K2R2S2T3H 
         Participants: 1324
         Assets: 438326614
         $/Participant: 331062
@@ -44,6 +42,8 @@ CT : WINDSOR LOCKS
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
     2018: AHLSTROM-MUNKSJO RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2J2K2R2S2T3H2G 
         Participants: 1058
         Assets: 184725614
         $/Participant: 174598
@@ -52,6 +52,8 @@ CT : WINDSOR LOCKS
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
     2017: AHLSTROM RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2K2R2S2T3H 
         Participants: 1080
         Assets: 201065581
         $/Participant: 186171
@@ -59,8 +61,29 @@ CT : WINDSOR LOCKS
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
+   [501]
+    2022: AHLSTROM-MUNKSJO USA INC. WRAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L
+        Participants: 
+CA : WINDSOR LOCKS
+    2021: AHLSTROM-MUNKSJO WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+    2020: AHLSTROM-MUNKSJO WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+CT : WINDSOR LOCKS
+    2019: AHLSTROM-MUNKSJO WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
    [001]
     2022: THE AHLSTROM-MUNKSJO GROUP RETIREMENT PLAN FOR U.S. EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 564
         Assets: 84858631
         $/Participant: 150458
@@ -70,30 +93,40 @@ CT : WINDSOR LOCKS
            - CLIFTONLARSONALLEN, LLP :  (Accounting(including auditing))
            - VERRILL DANA :  (Legal)
     2021: THE AHLSTROM-MUNKSJO GROUP RETIREMENT PLAN FOR U.S. EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 578
         Assets: 113838708
         $/Participant: 196952
         Service Providers:
            - SEI INVESTMENTS :  (Investment management | Investment management fees paid directly by plan | Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Other services | Investment management fees paid indirectly by plan | Float revenue)
     2020: THE AHLSTROM-MUNKSJO GROUP RETIREMENT PLAN FOR U.S. EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 585
         Assets: 114326860
         $/Participant: 195430
         Service Providers:
            - SEI INVESTMENTS :  (Investment management | Investment management fees paid directly by plan | Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Other services | Investment management fees paid indirectly by plan | Float revenue)
     2019: THE AHLSTROM-MUNKSJO GROUP RETIREMENT PLAN FOR U.S. EMPLOYEES
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 590
         Assets: 102991688
         $/Participant: 174562
         Service Providers:
            - SEI INVESTMENTS :  (Investment management | Investment management fees paid directly by plan | Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Other services | Investment management fees paid indirectly by plan | Float revenue)
     2018: THE AHLSTROM-MUNKSJO GROUP RETIREMENT PLAN FOR U.S
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 596
         Assets: 90351302
         $/Participant: 151596
         Service Providers:
            - SEI INVESTMENTS :  (Investment management | Investment management fees paid directly by plan | Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Other services | Investment management fees paid indirectly by plan | Float revenue)
     2017: THE AHLSTROM-MUNKSJO GROUP RETIREMENT PLAN FOR U.S
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 606
         Assets: 103159250
         $/Participant: 170229

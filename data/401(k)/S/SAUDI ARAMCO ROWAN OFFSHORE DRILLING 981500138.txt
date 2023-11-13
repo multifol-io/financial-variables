@@ -1,14 +1,8 @@
 TX : HOUSTON
   SAUDI ARAMCO ROWAN OFFSHORE DRILLING  981500138
-   [501]
-    2022: SAUDI ARAMCO ROWAN OFFSHORE DRILLING HEALTH & WELFARE BENEFITS PLAN
-        Participants: 
-    2021: SAUDI ARAMCO ROWAN OFFSHORE DRILLING HEALTH & WELFARE BENEFITS PLAN
-        Participants: 
-    2020: SAUDI ARAMCO ROWAN OFFSHORE DRILLING HEALTH & WELFARE BENEFITS PLAN
-        Participants: 
-   [001]
     2022: ARO DRILLING 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3D 
         Participants: 288
         Assets: 53930991
         $/Participant: 187260
@@ -28,6 +22,8 @@ TX : HOUSTON
            - STATE STREET GLOBAL ADVISORS TRUST
                  : SS S&P 500 INDEX C
     2021: ARO DRILLING 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D 
         Participants: 230
         Assets: 64695607
         $/Participant: 281285
@@ -46,6 +42,8 @@ TX : HOUSTON
            - STATE STREET GLOBAL ADVISORS TRUST
                  : SS S&P 500 INDEX C
     2020: ARO DRILLING 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D 
         Participants: 253
         Assets: 62823454
         $/Participant: 248314
@@ -64,3 +62,16 @@ TX : HOUSTON
                  : SS US BOND INDEX C
            - STATE STREET GLOBAL ADVISORS TRUST
                  : SS S&P 500 INDEX C
+   [501]
+    2022: SAUDI ARAMCO ROWAN OFFSHORE DRILLING HEALTH & WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2021: SAUDI ARAMCO ROWAN OFFSHORE DRILLING HEALTH & WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: SAUDI ARAMCO ROWAN OFFSHORE DRILLING HEALTH & WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 

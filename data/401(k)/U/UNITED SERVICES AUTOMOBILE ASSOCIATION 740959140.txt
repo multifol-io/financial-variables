@@ -1,58 +1,9 @@
 TX : SAN ANTONIO
   UNITED SERVICES AUTOMOBILE ASSOCIATION  740959140
-   [519]
-    2022: USAA COMPREHENSIVE WELFARE BENEFITS PLAN
-        Participants: 
-    2021: USAA COMPREHENSIVE WELFARE BENEFITS PLAN
-        Participants: 
-    2020: USAA COMPREHENSIVE WELFARE BENEFITS PLAN
-        Participants: 
-    2019: USAA COMPREHENSIVE WELFARE BENEFITS PLAN
-        Participants: 
-    2018: USAA COMPREHENSIVE WELFARE BENEFITS PLAN
-        Participants: 
-    2017: USAA COMPREHENSIVE WELFARE BENEFITS PLAN
-        Participants: 
-   [518]
-    2022: USAA COMPREHENSIVE HEALTH CARE ARRANGEMENT
-        Participants: 
-    2021: USAA COMPREHENSIVE HEALTH CARE ARRANGEMENT
-        Participants: 
-    2020: USAA COMPREHENSIVE HEALTH CARE ARRANGEMENT
-        Participants: 
-    2019: USAA COMPREHENSIVE HEALTH CARE ARRANGEMENT
-        Participants: 
-    2018: USAA COMPREHENSIVE HEALTH CARE ARRANGEMENT
-        Participants: 
-    2017: USAA COMPREHENSIVE HEALTH CARE ARRANGEMENT
-        Participants: 
-   [517]
-    2022: USAA GROUP HEALTH CARE ARRANGEMENT
-        Participants: 
-        Assets: 2765145
-        $/Participant: 
-    2021: USAA GROUP HEALTH CARE ARRANGEMENT
-        Participants: 
-        Assets: 1542084
-        $/Participant: 
-    2020: USAA GROUP HEALTH CARE ARRANGEMENT
-        Participants: 
-        Assets: 2235321
-        $/Participant: 
-    2019: USAA GROUP HEALTH CARE ARRANGEMENT
-        Participants: 
-        Assets: 1501675
-        $/Participant: 
-    2018: USAA GROUP HEALTH CARE ARRANGEMENT
-        Participants: 
-        Assets: 1323913
-        $/Participant: 
-    2017: USAA GROUP HEALTH CARE ARRANGEMENT
-        Participants: 
-        Assets: 897025
-        $/Participant: 
    [002]
     2022: USAA RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3F3H 
         Participants: 51202
         Assets: 8674215544
         $/Participant: 169411
@@ -86,6 +37,8 @@ TX : SAN ANTONIO
                  : TARGET RETIREMENT INC. LENDING CLIV
                  : US INFLATION PRO BOND INDEX SLSF II
     2021: USAA RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F3H 
         Participants: 50033
         Assets: 10500665716
         $/Participant: 209874
@@ -109,6 +62,8 @@ TX : SAN ANTONIO
            - STATE STREET BANK AND TRUST
                  : US INFLATION PRO BOND INDEX SLSF I
     2020: USAA RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F3H 
         Participants: 47133
         Assets: 9491702042
         $/Participant: 201381
@@ -133,6 +88,8 @@ TX : SAN ANTONIO
            - STATE STREET BANK AND TRUST
                  : US INFLATION PRO BOND INDEX SL SF I
     2019: USAA RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F3H 
         Participants: 45425
         Assets: 8303288571
         $/Participant: 182791
@@ -157,6 +114,8 @@ TX : SAN ANTONIO
            - STATE STREET BANK AND TRUST
                  : US INFLATION PRO BOND INDEX SL SF I
     2018: USAA RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F3H 
         Participants: 43571
         Assets: 6864675384
         $/Participant: 157551
@@ -180,6 +139,8 @@ TX : SAN ANTONIO
            - STATE STREET BANK AND TRUST
                  : US INFLATION PRO BOND INDEX SL SF I
     2017: USAA RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F3H 
         Participants: 41478
         Assets: 6986880047
         $/Participant: 168447
@@ -207,8 +168,72 @@ TX : SAN ANTONIO
                  : COLLECTIVE SHORT-TERM INVESTMENT FD
            - TIAA-CREF DIRECT REAL ESTATE COLLECTIVE INVESTMENT TRUST
                  : TIAA-CREF DIRECT REAL ESTATE CIT
+   [517]
+    2022: USAA GROUP HEALTH CARE ARRANGEMENT
+        Benefit Category: Healthcare
+        Codes:  4A4F4Q
+        Participants: 
+        Assets: 2765145
+        $/Participant: 
+    2021: USAA GROUP HEALTH CARE ARRANGEMENT
+        Benefit Category: Healthcare
+        Codes:  4A4Q
+        Participants: 
+        Assets: 1542084
+        $/Participant: 
+    2020: USAA GROUP HEALTH CARE ARRANGEMENT
+        Benefit Category: Healthcare
+        Codes:  4A4Q
+        Participants: 
+        Assets: 2235321
+        $/Participant: 
+    2019: USAA GROUP HEALTH CARE ARRANGEMENT
+        Benefit Category: Healthcare
+        Codes:  4A4Q
+        Participants: 
+        Assets: 1501675
+        $/Participant: 
+    2018: USAA GROUP HEALTH CARE ARRANGEMENT
+        Benefit Category: Healthcare
+        Codes:  4A4Q
+        Participants: 
+        Assets: 1323913
+        $/Participant: 
+    2017: USAA GROUP HEALTH CARE ARRANGEMENT
+        Benefit Category: Healthcare
+        Codes:  4A4Q
+        Participants: 
+        Assets: 897025
+        $/Participant: 
+   [518]
+    2022: USAA COMPREHENSIVE HEALTH CARE ARRANGEMENT
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2021: USAA COMPREHENSIVE HEALTH CARE ARRANGEMENT
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2020: USAA COMPREHENSIVE HEALTH CARE ARRANGEMENT
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2019: USAA COMPREHENSIVE HEALTH CARE ARRANGEMENT
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2018: USAA COMPREHENSIVE HEALTH CARE ARRANGEMENT
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2017: USAA COMPREHENSIVE HEALTH CARE ARRANGEMENT
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
    [001]
     2022: USAA PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E3F3H 
         Participants: 45617
         Assets: 4901200205
         $/Participant: 107442
@@ -226,6 +251,8 @@ TX : SAN ANTONIO
            - THE NORTHERN TRUST COMPANY
                  : COLLECTIVE SHORT-TERM INVESTMENT FD
     2021: USAA PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E3F3H 
         Participants: 46236
         Assets: 6210480681
         $/Participant: 134321
@@ -243,6 +270,8 @@ TX : SAN ANTONIO
            - THE NORTHERN TRUST COMPANY
                  : COLLECTIVE SHORT-TERM INVESTMENT FD
     2020: USAA PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E1I3F3H 
         Participants: 21702
         Assets: 6376280346
         $/Participant: 293810
@@ -260,6 +289,8 @@ TX : SAN ANTONIO
            - THE NORTHERN TRUST COMPANY
                  : COLLECTIVE SHORT-TERM INVESTMENT FD
     2019: USAA PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E1I3F3H 
         Participants: 22332
         Assets: 6075053356
         $/Participant: 272033
@@ -272,6 +303,8 @@ TX : SAN ANTONIO
            - THE NORTHERN TRUST COMPANY
                  : COLLECTIVE SHORT-TERM INVESTMENT FD
     2018: USAA PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E1I3F3H 
         Participants: 22888
         Assets: 5188183594
         $/Participant: 226677
@@ -284,6 +317,8 @@ TX : SAN ANTONIO
            - THE NORTHERN TRUST COMPANY
                  : COLLECTIVE SHORT-TERM INVESTMENT FD
     2017: USAA PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E1I3F3H 
         Participants: 23433
         Assets: 5730168887
         $/Participant: 244534
@@ -297,3 +332,28 @@ TX : SAN ANTONIO
                  : COLLECTIVE SHORT-TERM INVESTMENT FD
            - WELLINGTON TRUST COMPANY
                  : WTC-CIF OPPORTUNISTIC EQUITY PORT.
+   [519]
+    2022: USAA COMPREHENSIVE WELFARE BENEFITS PLAN
+        Benefit Category: Severance
+        Codes:  4B4F4G4H4I4L4Q
+        Participants: 
+    2021: USAA COMPREHENSIVE WELFARE BENEFITS PLAN
+        Benefit Category: Severance
+        Codes:  4B4F4G4H4I4L4Q
+        Participants: 
+    2020: USAA COMPREHENSIVE WELFARE BENEFITS PLAN
+        Benefit Category: Severance
+        Codes:  4B4F4G4H4I4L4Q
+        Participants: 
+    2019: USAA COMPREHENSIVE WELFARE BENEFITS PLAN
+        Benefit Category: Severance
+        Codes:  4B4F4G4H4I4L4Q
+        Participants: 
+    2018: USAA COMPREHENSIVE WELFARE BENEFITS PLAN
+        Benefit Category: Severance
+        Codes:  4B4F4G4H4I4L4Q
+        Participants: 
+    2017: USAA COMPREHENSIVE WELFARE BENEFITS PLAN
+        Benefit Category: Severance
+        Codes:  4B4F4G4H4I4L4Q
+        Participants: 

@@ -1,71 +1,274 @@
 NC : CHARLOTTE
   BANK OF AMERICA CORPORATION  560906609
-   [502]
-    2022: BANK OF AMERICA RETIREE GROUP BENEFITS PROGRAM
-        Participants: 
-        Assets: 115806958
-        $/Participant: 
-        RecordKeeper: UNITED HEALTH CARE INSURANCE CO.
-    2021: BANK OF AMERICA RETIREE GROUP BENEFITS PROGRAM
-        Participants: 
-        Assets: 125368101
-        $/Participant: 
-        RecordKeeper: UNITED HEALTH CARE INSURANCE CO.
-    2020: BANK OF AMERICA RETIREE GROUP BENEFITS PROGRAM
-        Participants: 
-        Assets: 151669571
-        $/Participant: 
-        RecordKeeper: CVS PHARMACY, INC.
-    2019: BANK OF AMERICA RETIREE GROUP BENEFITS PROGRAM
-        Participants: 
-        Assets: 206155056
-        $/Participant: 
-        RecordKeeper: UNITED HEALTH CARE INSURANCE CO.
-    2018: BANK OF AMERICA RETIREE GROUP BENEFITS PROGRAM
-        Participants: 
-        Assets: 260311319
-        $/Participant: 
-        RecordKeeper: UNITED HEALTH CARE INSURANCE CO.
-    2017: BANK OF AMERICA RETIREE GROUP BENEFITS PROGRAM
-        Participants: 
-        Assets: 308932124
-        $/Participant: 
-        RecordKeeper: CIGNA BEHAVIORAL HEALTH, INC.
-RI : RIVERSIDE
-   [501]
-    2022: BANK OF AMERICA GROUP BENEFITS PROGRAM
-        Participants: 
-        Assets: 446394115
-        $/Participant: 
-        RecordKeeper: SUN LIFE ASSURANCE CO OF CANADA
-    2021: BANK OF AMERICA GROUP BENEFITS PROGRAM
-        Participants: 
-        Assets: 455646141
-        $/Participant: 
-        RecordKeeper: WILLIS TOWERS WATSON
-    2020: BANK OF AMERICA GROUP BENEFITS PROGRAM
-        Participants: 
-        Assets: 421503634
-        $/Participant: 
-        RecordKeeper: SCRIPTCLAIM SYSTEMS LLC
-    2019: BANK OF AMERICA GROUP BENEFITS PROGRAM
-        Participants: 
-        Assets: 404978752
-        $/Participant: 
-        RecordKeeper: SUN LIFE ASSURANCE CO OF CANADA
-    2018: BANK OF AMERICA GROUP BENEFITS PROGRAM
-        Participants: 
-        Assets: 399498894
-        $/Participant: 
-        RecordKeeper: SUN LIFE ASSURANCE CO OF CANADA
-    2017: BANK OF AMERICA GROUP BENEFITS PROGRAM
-        Participants: 
-        Assets: 414968111
-        $/Participant: 
-        RecordKeeper: ALLSCRIPTS HEALTHCARE, LLC
-NC : CHARLOTTE
+   [003]
+    2022: THE BANK OF AMERICA 401(K) PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2O2S2T3H3J 
+        Participants: 263860
+        Assets: 47134026012
+        $/Participant: 178632
+        Available Investments:
+           - BANK OF AMERICA CORPORATION
+                 : STABLE VALUE MASTER TRUST
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
+                 : EQUITY DIVIDEND FUND M
+                 : GLOBAL ALLOCATION COLLECTIVE FUND J
+                 : LIFEPATH INDEX 2025 FUND T
+                 : LIFEPATH INDEX 2030 FUND T
+                 : LIFEPATH INDEX 2035 FUND T
+                 : LIFEPATH INDEX 2040 FUND T
+                 : LIFEPATH INDEX 2045 FUND T
+                 : LIFEPATH INDEX 2050 FUND T
+                 : LIFEPATH INDEX 2055 FUND T
+                 : LIFEPATH INDEX 2060 FUND T
+                 : LIFEPATH INDEX 2065 FUND T
+                 : LIFEPATH INDEX RETIREMENT FUND T
+                 : RUSSELL 2000 ALPHA TILTS FUND G1
+                 : US FUNDAMENTAL LARGE CAP GROWTH FD
+           - FIDELITY INSTITUTIONAL ASSET MANAGEMENT
+                 : SMALL / MID CAP CORE FUND II
+           - MFS HERITAGE TRUST COMPANY
+                 : MFS INTERNATIONAL GROWTH FUND II
+           - SEI TRUST COMPANY
+                 : ACADIAN ALL CNTRY WLD EX-US EQ CIT
+           - STATE STREET BANK AND TRUST COMPANY
+                 : REAL ASSET NL SERIES FUND K
+           - T. ROWE PRICE
+                 : INSTL LARGE CAP GROWTH TRUST I
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC INSTL 500 INDEX TR
+                 : VFTC INSTL EXTENDED MARKET INDEX TR
+                 : VFTC INSTL TOT INTL STOCK MKT INDEX
+                 : VFTC INSTL TOTAL BOND MKT INDEX TR
+           - WILMINGTON TRUST, N.A.
+                 : WILM TR CIT WEST ASSET CORE BD CIT
+    2021: THE BANK OF AMERICA 401(K) PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2O2S2T3H3J 
+        Participants: 272341
+        Assets: 57885369241
+        $/Participant: 212547
+        Available Investments:
+           - BANK OF AMERICA CORPORATION
+                 : STABLE VALUE MASTER TRUST
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
+                 : EQUITY DIVIDEND FUND M
+                 : GLOBAL ALLOCATION COLLECTIVE FUND J
+                 : LIFEPATH INDEX 2025 FUND O
+                 : LIFEPATH INDEX 2025 FUND T
+                 : LIFEPATH INDEX 2030 FUND O
+                 : LIFEPATH INDEX 2030 FUND T
+                 : LIFEPATH INDEX 2035 FUND O
+                 : LIFEPATH INDEX 2035 FUND T
+                 : LIFEPATH INDEX 2040 FUND O
+                 : LIFEPATH INDEX 2040 FUND T
+                 : LIFEPATH INDEX 2045 FUND O
+                 : LIFEPATH INDEX 2045 FUND T
+                 : LIFEPATH INDEX 2050 FUND O
+                 : LIFEPATH INDEX 2050 FUND T
+                 : LIFEPATH INDEX 2055 FUND O
+                 : LIFEPATH INDEX 2055 FUND T
+                 : LIFEPATH INDEX 2060 FUND O
+                 : LIFEPATH INDEX 2060 FUND T
+                 : LIFEPATH INDEX 2065 FUND O
+                 : LIFEPATH INDEX 2065 FUND T
+                 : LIFEPATH INDEX RETIREMENT FUND O
+                 : LIFEPATH INDEX RETIREMENT FUND T
+                 : RUSSELL 2000 ALPHA TILTS FUND G1
+                 : US FUNDAMENTAL LARGE CAP GROWTH FD
+           - FIDELITY INSTITUTIONAL ASSET MANAGEMENT
+                 : SMALL / MID CAP CORE FUND II
+           - MFS HERITAGE TRUST COMPANY
+                 : MFS INTERNATIONAL GROWTH FUND II
+           - SEI TRUST COMPANY
+                 : ACADIAN ALL CNTRY WLD EX-US EQ CIT
+           - STATE STREET BANK AND TRUST COMPANY
+                 : REAL ASSET NL SERIES FUND C
+                 : REAL ASSET NL SERIES FUND K
+           - T. ROWE PRICE
+                 : INSTL LARGE CAP GROWTH TRUST I
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC INSTL 500 INDEX TR
+                 : VFTC INSTL EXTENDED MARKET INDEX TR
+                 : VFTC INSTL TOT INTL STOCK MKT INDEX
+                 : VFTC INSTL TOTAL BOND MKT INDEX TR
+           - WILMINGTON TRUST, N.A.
+                 : WILM TR CIT WEST ASSET CORE BD CIT
+    2020: THE BANK OF AMERICA 401(K) PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2O2S2T3H3J 
+        Participants: 277767
+        Assets: 49255129429
+        $/Participant: 177325
+        Available Investments:
+           - BANK OF AMERICA CORPORATION
+                 : STABLE VALUE MASTER TRUST
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
+                 : EQUITY DIVIDEND FUND M
+                 : GLOBAL ALLOCATION COLLECTIVE FUND J
+                 : LIFEPATH INDEX 2025 FUND O
+                 : LIFEPATH INDEX 2030 FUND O
+                 : LIFEPATH INDEX 2035 FUND O
+                 : LIFEPATH INDEX 2040 FUND O
+                 : LIFEPATH INDEX 2045 FUND O
+                 : LIFEPATH INDEX 2050 FUND O
+                 : LIFEPATH INDEX 2055 FUND O
+                 : LIFEPATH INDEX 2060 FUND O
+                 : LIFEPATH INDEX 2065 FUND O
+                 : LIFEPATH INDEX RETIREMENT FUND O
+                 : RUSSELL 2000 ALPHA TILTS FUND G1
+                 : US FUNDAMENTAL LARGE CAP GROWTH FD
+           - FIDELITY INSTITUTIONAL ASSET MANAGEMENT
+                 : SMALL / MID CAP CORE FUND II
+           - HAND BENEFITS & TRUST
+                 : QS U.S. SMALL CAP EQUITY CIF
+           - MFS HERITAGE TRUST COMPANY
+                 : MFS INTERNATIONAL GROWTH FUND II
+           - SEI TRUST COMPANY
+                 : ACADIAN ALL CNTRY WLD EX-US EQ CIT
+           - STATE STREET BANK AND TRUST COMPANY
+                 : REAL ASSET NL SERIES FUND
+           - T. ROWE PRICE
+                 : INSTL LARGE CAP GROWTH TRUST I
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC INSTL 500 INDEX TR
+                 : VFTC INSTL EXTENDED MARKET INDEX TR
+                 : VFTC INSTL TOT INTL STOCK MKT INDEX
+                 : VFTC INSTL TOTAL BOND MKT INDEX TR
+           - WILMINGTON TRUST, N.A.
+                 : TEMPLETON INTERNATIONAL EQUITY CIT
+                 : WILM TR CIT WEST ASSET CORE BD CIT
+    2019: THE BANK OF AMERICA 401(K) PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2O2S2T3H3J 
+        Participants: 283172
+        Assets: 44446556471
+        $/Participant: 156959
+        Available Investments:
+           - BANK OF AMERICA CORPORATION
+                 : STABLE VALUE MASTER TRUST
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
+                 : EQUITY DIVIDEND FUND M
+                 : EQUITY DIVIDEND FUND T
+                 : GLOBAL ALLOCATION COLLECTIVE FUND J
+                 : LIFEPATH INDEX 2020 FUND O
+                 : LIFEPATH INDEX 2025 FUND O
+                 : LIFEPATH INDEX 2030 FUND O
+                 : LIFEPATH INDEX 2035 FUND O
+                 : LIFEPATH INDEX 2040 FUND O
+                 : LIFEPATH INDEX 2045 FUND O
+                 : LIFEPATH INDEX 2050 FUND O
+                 : LIFEPATH INDEX 2055 FUND O
+                 : LIFEPATH INDEX 2060 FUND O
+                 : LIFEPATH INDEX 2065 FUND O
+                 : LIFEPATH INDEX RETIREMENT FUND O
+                 : US FUNDAMENTAL LARGE CAP GROWTH FD
+           - FIDELITY INSTITUTIONAL ASSET MANAGEMENT
+                 : SMALL / MID CAP CORE FUND II
+           - HAND BENEFITS & TRUST
+                 : QS U.S. SMALL CAP EQUITY CIF
+           - MFS HERITAGE TRUST COMPANY
+                 : MFS INTERNATIONAL GROWTH FUND II
+           - STATE STREET BANK AND TRUST COMPANY
+                 : REAL ASSET NL SERIES FUND
+           - T. ROWE PRICE
+                 : LARGE CAP GROWTH TRUST I
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC INSTL 500 INDEX TR
+                 : VFTC INSTL EXTENDED MARKET INDEX TR
+                 : VFTC INSTL TOT INTL STOCK MKT INDEX
+                 : VFTC INSTL TOTAL BOND MKT INDEX TR
+           - WESTERN ASSET MANAGEMENT COMPANY
+                 : CORE BOND CIT R3
+           - WILMINGTON TRUST, N.A.
+                 : TEMPLETON INTERNATIONAL EQUITY CIT
+    2018: THE BANK OF AMERICA 401(K) PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2O2S2T3H3J 
+        Participants: 279148
+        Assets: 35915786987
+        $/Participant: 128662
+        RecordKeeper: K & L GATES LLP
+        Available Investments:
+           - BANK OF AMERICA CORPORATION
+                 : STABLE VALUE MASTER TRUST
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
+                 : EQUITY DIVIDEND FUND
+                 : LIFEPATH INDEX 2020 FUND O
+                 : LIFEPATH INDEX 2025 FUND O
+                 : LIFEPATH INDEX 2030 FUND O
+                 : LIFEPATH INDEX 2035 FUND O
+                 : LIFEPATH INDEX 2040 FUND O
+                 : LIFEPATH INDEX 2045 FUND O
+                 : LIFEPATH INDEX 2050 FUND O
+                 : LIFEPATH INDEX 2055 FUND O
+                 : LIFEPATH INDEX 2060 FUND O
+                 : LIFEPATH INDEX RETIREMENT FUND O
+                 : US FUNDAMENTAL LARGE CAP GROWTH FD
+           - FIDELITY INSTITUTIONAL ASSET MANAGEMENT
+                 : SMALL / MID CAP CORE FUND II
+           - HAND BENEFITS & TRUST
+                 : QS U.S. SMALL CAP EQUITY CIF
+           - MFS HERITAGE TRUST COMPANY
+                 : MFS INTERNATIONAL GROWTH FUND II
+           - STATE STREET BANK AND TRUST COMPANY
+                 : REAL ASSET NL SERIES FUND
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC INSTL 500 INDEX TR
+                 : VFTC INSTL EXTENDED MARKET INDEX TR
+                 : VFTC INSTL TOT INTL STOCK MKT INDEX
+                 : VFTC INSTL TOTAL BOND MKT INDEX TR
+           - WILMINGTON TRUST, N.A.
+                 : TEMPLETON INTERNATIONAL EQUITY CIT
+    2017: THE BANK OF AMERICA 401(K) PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2O2S2T3H3J 
+        Participants: 249734
+        Assets: 26551685260
+        $/Participant: 106319
+        RecordKeeper: MORGAN, LEWIS & BOCKIUS LLP
+        Available Investments:
+           - BANK OF AMERICA CORPORATION
+                 : STABLE VALUE MASTER TRUST
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
+                 : EQUITY DIVIDEND FUND
+                 : LIFEPATH INDEX 2020 FUND O
+                 : LIFEPATH INDEX 2025 FUND O
+                 : LIFEPATH INDEX 2030 FUND O
+                 : LIFEPATH INDEX 2035 FUND O
+                 : LIFEPATH INDEX 2040 FUND O
+                 : LIFEPATH INDEX 2045 FUND O
+                 : LIFEPATH INDEX 2050 FUND O
+                 : LIFEPATH INDEX 2055 FUND O
+                 : LIFEPATH INDEX 2060 FUND O
+                 : LIFEPATH INDEX RETIREMENT FUND O
+                 : US FUNDAMENTAL LARGE CAP GROWTH FD
+           - FIDELITY INSTITUTIONAL ASSET MANAGEMENT
+                 : SMALL / MID CAP CORE FUND II
+           - HAND BENEFITS & TRUST
+                 : QS U.S. SMALL CAP EQUITY CIF
+           - MFS HERITAGE TRUST COMPANY
+                 : MFS INTERNATIONAL GROWTH FUND II
+           - STATE STREET BANK AND TRUST COMPANY
+                 : REAL ASSET NL SERIES FUND
+           - VANGUARD FIDUCIARY TRUST COMPANY
+                 : VFTC INSTL 500 INDEX TR
+                 : VFTC INSTL EXTENDED MARKET INDEX TR
+                 : VFTC INSTL TOT INTL STOCK MKT INDEX
+                 : VFTC INSTL TOTAL BOND MKT INDEX TR
+           - WILMINGTON TRUST, N.A.
+                 : TEMPLETON INTERNATIONAL EQUITY CIT
    [011]
     2018: MERRILL LYNCH & CO., INC. 401(K) SAVINGS & INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2O2S2T3H3J 
         Participants: 0
         RecordKeeper: MORRIS DAVIS CHAN & TAN LLP
         Available Investments:
@@ -100,6 +303,9 @@ NC : CHARLOTTE
            - WILMINGTON TRUST, N.A.
                  : TEMPLETON INTERNATIONAL EQUITY CIT
     2017: MERRILL LYNCH & CO. , INC. 401(K) SAVINGS & INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2J2K2O2S2T3H3J 
         Participants: 35022
         Assets: 11835853670
         $/Participant: 337954
@@ -135,65 +341,11 @@ NC : CHARLOTTE
                  : VFTC INSTL TOTAL BOND MKT INDEX TR
            - WILMINGTON TRUST, N.A.
                  : TEMPLETON INTERNATIONAL EQUITY CIT
-   [010]
-    2022: STABLE VALUE MASTER TRUST FOR BANK OF AMERICA CORPORATION
-        Participants: 
-        Assets: 5872033098
-        $/Participant: 
-        Service Providers:
-           - INSIGHT INVESTMENT MANAGEMENT :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY N.A.
-                 : SHORT TERM INVESTMENT FUND G1
-    2021: STABLE VALUE MASTER TRUST FOR BANK OF AMERICA CORPORATION
-        Participants: 
-        Assets: 6258537572
-        $/Participant: 
-        Service Providers:
-           - MELLON INVESTMENTS CORPORATION :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - INSIGHT INVESTMENT MANAGEMENT :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY N.A.
-                 : SHORT TERM INVESTMENT FUND G1
-    2020: STABLE VALUE MASTER TRUST FOR BANK OF AMERICA CORPORATION
-        Participants: 
-        Assets: 6458167929
-        $/Participant: 
-        Service Providers:
-           - MELLON INVESTMENTS CORPORATION :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY N.A.
-                 : SHORT TERM INVESTMENT FUND G1
-    2019: STABLE VALUE MASTER TRUST FOR BANK OF AMERICA CORPORATION
-        Participants: 
-        Assets: 5647501167
-        $/Participant: 
-        Service Providers:
-           - MELLON INVESTMENTS CORPORATION :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY N.A.
-                 : SHORT TERM INVESTMENT FUND G1
-    2018: STABLE VALUE MASTER TRUST FOR BANK OF AMERICA CORPORATION
-        Participants: 
-        Assets: 4888493871
-        $/Participant: 
-        Service Providers:
-           - BNY MELLON ASSET MGMT NA CORP :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY N.A.
-                 : SHORT TERM INVESTMENT FUND G1
-    2017: STABLE VALUE MASTER TRUST FOR BANK OF AMERICA CORPORATION
-        Participants: 
-        Assets: 4747013664
-        $/Participant: 
-        Service Providers:
-           - STANDISH MELLON ASSET MANAGEMENT :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-        Available Investments:
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY N.A.
-                 : SHORT TERM INVESTMENT FUND G1
 RI : RIVERSIDE
    [007]
     2022: THE BANK OF AMERICA TRANSFERRED SAVINGS ACCOUNT PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2K2O2T3H 
         Participants: 10258
         Assets: 1006839487
         $/Participant: 98151
@@ -234,6 +386,8 @@ RI : RIVERSIDE
            - WILMINGTON TRUST, N.A.
                  : WILM TR CIT WEST ASSET CORE BD CIT
     2021: THE BANK OF AMERICA TRANSFERRED SAVINGS ACCOUNT PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2K2O2T3H 
         Participants: 11208
         Assets: 1364615378
         $/Participant: 121753
@@ -285,6 +439,8 @@ RI : RIVERSIDE
            - WILMINGTON TRUST, N.A.
                  : WILM TR CIT WEST ASSET CORE BD CIT
     2020: THE BANK OF AMERICA TRANSFERRED SAVINGS ACCOUNT PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2K2O2T3H 
         Participants: 11848
         Assets: 1276040699
         $/Participant: 107700
@@ -327,6 +483,8 @@ RI : RIVERSIDE
                  : TEMPLETON INTERNATIONAL EQUITY CIT
                  : WILM TR CIT WEST ASSET CORE BD CIT
     2019: THE BANK OF AMERICA TRANSFERRED SAVINGS ACCOUNT PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2K2O2T3H 
         Participants: 12350
         Assets: 1215730800
         $/Participant: 98439
@@ -369,6 +527,8 @@ RI : RIVERSIDE
            - WILMINGTON TRUST, N.A.
                  : TEMPLETON INTERNATIONAL EQUITY CIT
     2018: THE BANK OF AMERICA TRANSFERRED SAVINGS ACCOUNT PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2K2O2T3H 
         Participants: 13078
         Assets: 1083240391
         $/Participant: 82829
@@ -405,6 +565,8 @@ RI : RIVERSIDE
            - WILMINGTON TRUST, N.A.
                  : TEMPLETON INTERNATIONAL EQUITY CIT
     2017: THE BANK OF AMERICA TRANSFERRED SAVINGS ACCOUNT PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2F2G2K2O2T3H 
         Participants: 13843
         Assets: 1239678530
         $/Participant: 89552
@@ -440,256 +602,172 @@ RI : RIVERSIDE
                  : VFTC INSTL TOTAL BOND MKT INDEX TR
            - WILMINGTON TRUST, N.A.
                  : TEMPLETON INTERNATIONAL EQUITY CIT
+   [501]
+    2022: BANK OF AMERICA GROUP BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+        Assets: 446394115
+        $/Participant: 
+        RecordKeeper: SUN LIFE ASSURANCE CO OF CANADA
+    2021: BANK OF AMERICA GROUP BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+        Assets: 455646141
+        $/Participant: 
+        RecordKeeper: WILLIS TOWERS WATSON
+    2020: BANK OF AMERICA GROUP BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+        Assets: 421503634
+        $/Participant: 
+        RecordKeeper: SCRIPTCLAIM SYSTEMS LLC
+    2019: BANK OF AMERICA GROUP BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+        Assets: 404978752
+        $/Participant: 
+        RecordKeeper: SUN LIFE ASSURANCE CO OF CANADA
+    2018: BANK OF AMERICA GROUP BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+        Assets: 399498894
+        $/Participant: 
+        RecordKeeper: SUN LIFE ASSURANCE CO OF CANADA
+    2017: BANK OF AMERICA GROUP BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+        Assets: 414968111
+        $/Participant: 
+        RecordKeeper: ALLSCRIPTS HEALTHCARE, LLC
 NC : CHARLOTTE
-   [003]
-    2022: THE BANK OF AMERICA 401(K) PLAN
-        Participants: 263860
-        Assets: 47134026012
-        $/Participant: 178632
+   [502]
+    2022: BANK OF AMERICA RETIREE GROUP BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+        Assets: 115806958
+        $/Participant: 
+        RecordKeeper: UNITED HEALTH CARE INSURANCE CO.
+    2021: BANK OF AMERICA RETIREE GROUP BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+        Assets: 125368101
+        $/Participant: 
+        RecordKeeper: UNITED HEALTH CARE INSURANCE CO.
+    2020: BANK OF AMERICA RETIREE GROUP BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+        Assets: 151669571
+        $/Participant: 
+        RecordKeeper: CVS PHARMACY, INC.
+    2019: BANK OF AMERICA RETIREE GROUP BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+        Assets: 206155056
+        $/Participant: 
+        RecordKeeper: UNITED HEALTH CARE INSURANCE CO.
+    2018: BANK OF AMERICA RETIREE GROUP BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+        Assets: 260311319
+        $/Participant: 
+        RecordKeeper: UNITED HEALTH CARE INSURANCE CO.
+    2017: BANK OF AMERICA RETIREE GROUP BENEFITS PROGRAM
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+        Assets: 308932124
+        $/Participant: 
+        RecordKeeper: CIGNA BEHAVIORAL HEALTH, INC.
+   [010]
+    2022: STABLE VALUE MASTER TRUST FOR BANK OF AMERICA CORPORATION
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 5872033098
+        $/Participant: 
+        Service Providers:
+           - INSIGHT INVESTMENT MANAGEMENT :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
         Available Investments:
-           - BANK OF AMERICA CORPORATION
-                 : STABLE VALUE MASTER TRUST
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
-                 : EQUITY DIVIDEND FUND M
-                 : GLOBAL ALLOCATION COLLECTIVE FUND J
-                 : LIFEPATH INDEX 2025 FUND T
-                 : LIFEPATH INDEX 2030 FUND T
-                 : LIFEPATH INDEX 2035 FUND T
-                 : LIFEPATH INDEX 2040 FUND T
-                 : LIFEPATH INDEX 2045 FUND T
-                 : LIFEPATH INDEX 2050 FUND T
-                 : LIFEPATH INDEX 2055 FUND T
-                 : LIFEPATH INDEX 2060 FUND T
-                 : LIFEPATH INDEX 2065 FUND T
-                 : LIFEPATH INDEX RETIREMENT FUND T
-                 : RUSSELL 2000 ALPHA TILTS FUND G1
-                 : US FUNDAMENTAL LARGE CAP GROWTH FD
-           - FIDELITY INSTITUTIONAL ASSET MANAGEMENT
-                 : SMALL / MID CAP CORE FUND II
-           - MFS HERITAGE TRUST COMPANY
-                 : MFS INTERNATIONAL GROWTH FUND II
-           - SEI TRUST COMPANY
-                 : ACADIAN ALL CNTRY WLD EX-US EQ CIT
-           - STATE STREET BANK AND TRUST COMPANY
-                 : REAL ASSET NL SERIES FUND K
-           - T. ROWE PRICE
-                 : INSTL LARGE CAP GROWTH TRUST I
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC INSTL 500 INDEX TR
-                 : VFTC INSTL EXTENDED MARKET INDEX TR
-                 : VFTC INSTL TOT INTL STOCK MKT INDEX
-                 : VFTC INSTL TOTAL BOND MKT INDEX TR
-           - WILMINGTON TRUST, N.A.
-                 : WILM TR CIT WEST ASSET CORE BD CIT
-    2021: THE BANK OF AMERICA 401(K) PLAN
-        Participants: 272341
-        Assets: 57885369241
-        $/Participant: 212547
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY N.A.
+                 : SHORT TERM INVESTMENT FUND G1
+    2021: STABLE VALUE MASTER TRUST FOR BANK OF AMERICA CORPORATION
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 6258537572
+        $/Participant: 
+        Service Providers:
+           - MELLON INVESTMENTS CORPORATION :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - INSIGHT INVESTMENT MANAGEMENT :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
         Available Investments:
-           - BANK OF AMERICA CORPORATION
-                 : STABLE VALUE MASTER TRUST
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
-                 : EQUITY DIVIDEND FUND M
-                 : GLOBAL ALLOCATION COLLECTIVE FUND J
-                 : LIFEPATH INDEX 2025 FUND O
-                 : LIFEPATH INDEX 2025 FUND T
-                 : LIFEPATH INDEX 2030 FUND O
-                 : LIFEPATH INDEX 2030 FUND T
-                 : LIFEPATH INDEX 2035 FUND O
-                 : LIFEPATH INDEX 2035 FUND T
-                 : LIFEPATH INDEX 2040 FUND O
-                 : LIFEPATH INDEX 2040 FUND T
-                 : LIFEPATH INDEX 2045 FUND O
-                 : LIFEPATH INDEX 2045 FUND T
-                 : LIFEPATH INDEX 2050 FUND O
-                 : LIFEPATH INDEX 2050 FUND T
-                 : LIFEPATH INDEX 2055 FUND O
-                 : LIFEPATH INDEX 2055 FUND T
-                 : LIFEPATH INDEX 2060 FUND O
-                 : LIFEPATH INDEX 2060 FUND T
-                 : LIFEPATH INDEX 2065 FUND O
-                 : LIFEPATH INDEX 2065 FUND T
-                 : LIFEPATH INDEX RETIREMENT FUND O
-                 : LIFEPATH INDEX RETIREMENT FUND T
-                 : RUSSELL 2000 ALPHA TILTS FUND G1
-                 : US FUNDAMENTAL LARGE CAP GROWTH FD
-           - FIDELITY INSTITUTIONAL ASSET MANAGEMENT
-                 : SMALL / MID CAP CORE FUND II
-           - MFS HERITAGE TRUST COMPANY
-                 : MFS INTERNATIONAL GROWTH FUND II
-           - SEI TRUST COMPANY
-                 : ACADIAN ALL CNTRY WLD EX-US EQ CIT
-           - STATE STREET BANK AND TRUST COMPANY
-                 : REAL ASSET NL SERIES FUND C
-                 : REAL ASSET NL SERIES FUND K
-           - T. ROWE PRICE
-                 : INSTL LARGE CAP GROWTH TRUST I
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC INSTL 500 INDEX TR
-                 : VFTC INSTL EXTENDED MARKET INDEX TR
-                 : VFTC INSTL TOT INTL STOCK MKT INDEX
-                 : VFTC INSTL TOTAL BOND MKT INDEX TR
-           - WILMINGTON TRUST, N.A.
-                 : WILM TR CIT WEST ASSET CORE BD CIT
-    2020: THE BANK OF AMERICA 401(K) PLAN
-        Participants: 277767
-        Assets: 49255129429
-        $/Participant: 177325
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY N.A.
+                 : SHORT TERM INVESTMENT FUND G1
+    2020: STABLE VALUE MASTER TRUST FOR BANK OF AMERICA CORPORATION
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 6458167929
+        $/Participant: 
+        Service Providers:
+           - MELLON INVESTMENTS CORPORATION :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
         Available Investments:
-           - BANK OF AMERICA CORPORATION
-                 : STABLE VALUE MASTER TRUST
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
-                 : EQUITY DIVIDEND FUND M
-                 : GLOBAL ALLOCATION COLLECTIVE FUND J
-                 : LIFEPATH INDEX 2025 FUND O
-                 : LIFEPATH INDEX 2030 FUND O
-                 : LIFEPATH INDEX 2035 FUND O
-                 : LIFEPATH INDEX 2040 FUND O
-                 : LIFEPATH INDEX 2045 FUND O
-                 : LIFEPATH INDEX 2050 FUND O
-                 : LIFEPATH INDEX 2055 FUND O
-                 : LIFEPATH INDEX 2060 FUND O
-                 : LIFEPATH INDEX 2065 FUND O
-                 : LIFEPATH INDEX RETIREMENT FUND O
-                 : RUSSELL 2000 ALPHA TILTS FUND G1
-                 : US FUNDAMENTAL LARGE CAP GROWTH FD
-           - FIDELITY INSTITUTIONAL ASSET MANAGEMENT
-                 : SMALL / MID CAP CORE FUND II
-           - HAND BENEFITS & TRUST
-                 : QS U.S. SMALL CAP EQUITY CIF
-           - MFS HERITAGE TRUST COMPANY
-                 : MFS INTERNATIONAL GROWTH FUND II
-           - SEI TRUST COMPANY
-                 : ACADIAN ALL CNTRY WLD EX-US EQ CIT
-           - STATE STREET BANK AND TRUST COMPANY
-                 : REAL ASSET NL SERIES FUND
-           - T. ROWE PRICE
-                 : INSTL LARGE CAP GROWTH TRUST I
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC INSTL 500 INDEX TR
-                 : VFTC INSTL EXTENDED MARKET INDEX TR
-                 : VFTC INSTL TOT INTL STOCK MKT INDEX
-                 : VFTC INSTL TOTAL BOND MKT INDEX TR
-           - WILMINGTON TRUST, N.A.
-                 : TEMPLETON INTERNATIONAL EQUITY CIT
-                 : WILM TR CIT WEST ASSET CORE BD CIT
-    2019: THE BANK OF AMERICA 401(K) PLAN
-        Participants: 283172
-        Assets: 44446556471
-        $/Participant: 156959
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY N.A.
+                 : SHORT TERM INVESTMENT FUND G1
+    2019: STABLE VALUE MASTER TRUST FOR BANK OF AMERICA CORPORATION
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 5647501167
+        $/Participant: 
+        Service Providers:
+           - MELLON INVESTMENTS CORPORATION :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
         Available Investments:
-           - BANK OF AMERICA CORPORATION
-                 : STABLE VALUE MASTER TRUST
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
-                 : EQUITY DIVIDEND FUND M
-                 : EQUITY DIVIDEND FUND T
-                 : GLOBAL ALLOCATION COLLECTIVE FUND J
-                 : LIFEPATH INDEX 2020 FUND O
-                 : LIFEPATH INDEX 2025 FUND O
-                 : LIFEPATH INDEX 2030 FUND O
-                 : LIFEPATH INDEX 2035 FUND O
-                 : LIFEPATH INDEX 2040 FUND O
-                 : LIFEPATH INDEX 2045 FUND O
-                 : LIFEPATH INDEX 2050 FUND O
-                 : LIFEPATH INDEX 2055 FUND O
-                 : LIFEPATH INDEX 2060 FUND O
-                 : LIFEPATH INDEX 2065 FUND O
-                 : LIFEPATH INDEX RETIREMENT FUND O
-                 : US FUNDAMENTAL LARGE CAP GROWTH FD
-           - FIDELITY INSTITUTIONAL ASSET MANAGEMENT
-                 : SMALL / MID CAP CORE FUND II
-           - HAND BENEFITS & TRUST
-                 : QS U.S. SMALL CAP EQUITY CIF
-           - MFS HERITAGE TRUST COMPANY
-                 : MFS INTERNATIONAL GROWTH FUND II
-           - STATE STREET BANK AND TRUST COMPANY
-                 : REAL ASSET NL SERIES FUND
-           - T. ROWE PRICE
-                 : LARGE CAP GROWTH TRUST I
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC INSTL 500 INDEX TR
-                 : VFTC INSTL EXTENDED MARKET INDEX TR
-                 : VFTC INSTL TOT INTL STOCK MKT INDEX
-                 : VFTC INSTL TOTAL BOND MKT INDEX TR
-           - WESTERN ASSET MANAGEMENT COMPANY
-                 : CORE BOND CIT R3
-           - WILMINGTON TRUST, N.A.
-                 : TEMPLETON INTERNATIONAL EQUITY CIT
-    2018: THE BANK OF AMERICA 401(K) PLAN
-        Participants: 279148
-        Assets: 35915786987
-        $/Participant: 128662
-        RecordKeeper: K & L GATES LLP
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY N.A.
+                 : SHORT TERM INVESTMENT FUND G1
+    2018: STABLE VALUE MASTER TRUST FOR BANK OF AMERICA CORPORATION
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 4888493871
+        $/Participant: 
+        Service Providers:
+           - BNY MELLON ASSET MGMT NA CORP :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
         Available Investments:
-           - BANK OF AMERICA CORPORATION
-                 : STABLE VALUE MASTER TRUST
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
-                 : EQUITY DIVIDEND FUND
-                 : LIFEPATH INDEX 2020 FUND O
-                 : LIFEPATH INDEX 2025 FUND O
-                 : LIFEPATH INDEX 2030 FUND O
-                 : LIFEPATH INDEX 2035 FUND O
-                 : LIFEPATH INDEX 2040 FUND O
-                 : LIFEPATH INDEX 2045 FUND O
-                 : LIFEPATH INDEX 2050 FUND O
-                 : LIFEPATH INDEX 2055 FUND O
-                 : LIFEPATH INDEX 2060 FUND O
-                 : LIFEPATH INDEX RETIREMENT FUND O
-                 : US FUNDAMENTAL LARGE CAP GROWTH FD
-           - FIDELITY INSTITUTIONAL ASSET MANAGEMENT
-                 : SMALL / MID CAP CORE FUND II
-           - HAND BENEFITS & TRUST
-                 : QS U.S. SMALL CAP EQUITY CIF
-           - MFS HERITAGE TRUST COMPANY
-                 : MFS INTERNATIONAL GROWTH FUND II
-           - STATE STREET BANK AND TRUST COMPANY
-                 : REAL ASSET NL SERIES FUND
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC INSTL 500 INDEX TR
-                 : VFTC INSTL EXTENDED MARKET INDEX TR
-                 : VFTC INSTL TOT INTL STOCK MKT INDEX
-                 : VFTC INSTL TOTAL BOND MKT INDEX TR
-           - WILMINGTON TRUST, N.A.
-                 : TEMPLETON INTERNATIONAL EQUITY CIT
-    2017: THE BANK OF AMERICA 401(K) PLAN
-        Participants: 249734
-        Assets: 26551685260
-        $/Participant: 106319
-        RecordKeeper: MORGAN, LEWIS & BOCKIUS LLP
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY N.A.
+                 : SHORT TERM INVESTMENT FUND G1
+    2017: STABLE VALUE MASTER TRUST FOR BANK OF AMERICA CORPORATION
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 4747013664
+        $/Participant: 
+        Service Providers:
+           - STANDISH MELLON ASSET MANAGEMENT :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
         Available Investments:
-           - BANK OF AMERICA CORPORATION
-                 : STABLE VALUE MASTER TRUST
-           - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
-                 : EQUITY DIVIDEND FUND
-                 : LIFEPATH INDEX 2020 FUND O
-                 : LIFEPATH INDEX 2025 FUND O
-                 : LIFEPATH INDEX 2030 FUND O
-                 : LIFEPATH INDEX 2035 FUND O
-                 : LIFEPATH INDEX 2040 FUND O
-                 : LIFEPATH INDEX 2045 FUND O
-                 : LIFEPATH INDEX 2050 FUND O
-                 : LIFEPATH INDEX 2055 FUND O
-                 : LIFEPATH INDEX 2060 FUND O
-                 : LIFEPATH INDEX RETIREMENT FUND O
-                 : US FUNDAMENTAL LARGE CAP GROWTH FD
-           - FIDELITY INSTITUTIONAL ASSET MANAGEMENT
-                 : SMALL / MID CAP CORE FUND II
-           - HAND BENEFITS & TRUST
-                 : QS U.S. SMALL CAP EQUITY CIF
-           - MFS HERITAGE TRUST COMPANY
-                 : MFS INTERNATIONAL GROWTH FUND II
-           - STATE STREET BANK AND TRUST COMPANY
-                 : REAL ASSET NL SERIES FUND
-           - VANGUARD FIDUCIARY TRUST COMPANY
-                 : VFTC INSTL 500 INDEX TR
-                 : VFTC INSTL EXTENDED MARKET INDEX TR
-                 : VFTC INSTL TOT INTL STOCK MKT INDEX
-                 : VFTC INSTL TOTAL BOND MKT INDEX TR
-           - WILMINGTON TRUST, N.A.
-                 : TEMPLETON INTERNATIONAL EQUITY CIT
+           - BLACKROCK INSTITUTIONAL TRUST COMPANY N.A.
+                 : SHORT TERM INVESTMENT FUND G1
 RI : RIVERSIDE
    [001]
     2022: THE BANK OF AMERICA PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I3H 
         Participants: 200581
         Assets: 18835300915
         $/Participant: 93903
@@ -747,6 +825,8 @@ RI : RIVERSIDE
            - WILMINGTON TRUST, N.A.
                  : WILM TR CIT WEST ASSET CORE BD CIT
     2021: THE BANK OF AMERICA PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I3H 
         Participants: 209232
         Assets: 23723005851
         $/Participant: 113381
@@ -815,6 +895,8 @@ RI : RIVERSIDE
            - WILMINGTON TRUST, N.A.
                  : WILM TR CIT WEST ASSET CORE BD CIT
     2020: THE BANK OF AMERICA PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I3H 
         Participants: 216384
         Assets: 24684903637
         $/Participant: 114079
@@ -883,6 +965,8 @@ RI : RIVERSIDE
                  : TEMPLETON INTERNATIONAL EQUITY CIT
                  : WILM TR CIT WEST ASSET CORE BD CIT
     2019: THE BANK OF AMERICA PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I3H 
         Participants: 225967
         Assets: 22656932528
         $/Participant: 100266
@@ -953,6 +1037,8 @@ RI : RIVERSIDE
            - WILMINGTON TRUST, N.A.
                  : TEMPLETON INTERNATIONAL EQUITY CIT
     2018: THE BANK OF AMERICA PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I3H 
         Participants: 246757
         Assets: 19970580501
         $/Participant: 80932
@@ -1017,6 +1103,8 @@ RI : RIVERSIDE
            - WILMINGTON TRUST, N.A.
                  : TEMPLETON INTERNATIONAL EQUITY CIT
     2017: THE BANK OF AMERICA PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1I3H 
         Participants: 265825
         Assets: 21912539106
         $/Participant: 82432

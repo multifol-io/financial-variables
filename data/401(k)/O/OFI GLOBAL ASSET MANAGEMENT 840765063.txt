@@ -1,23 +1,20 @@
-CO : CENTENNIAL
-  OFI GLOBAL ASSET MANAGEMENT, INC.  840765063
-   [501]
-    2019: OFI GLOBAL EMPLOYEE WELFARE PLAN (F/K/A OPPENHEIMERFUNDS, INC. EMPLOYEE WELFARE PLAN)
-        Participants: 
-    2018: OFI GLOBAL EMPLOYEE WELFARE PLAN (F/K/A OPPENHEIMERFUNDS, INC. EMPLOYEE WELFARE PLAN)
-        Participants: 
-    2017: OFI GLOBAL EMPLOYEE WELFARE PLAN (F/K/A OPPENHEIMERFUNDS, INC. EMPLOYEE WELFARE PLAN)
-        Participants: 
 NY : NEW YORK
-   [001]
+  OFI GLOBAL ASSET MANAGEMENT  840765063
     2021: OFI GLOBAL RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K2S2T3F 
         Participants: 0
         RecordKeeper: MASSACHUSETTS MUTUAL LIFE INS. CO.
     2020: OFI GLOBAL RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F 
         Participants: 1489
         Assets: 495677894
         $/Participant: 332893
         RecordKeeper: INVESCO
     2019: OFI GLOBAL RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F 
         Participants: 1892
         Assets: 588966579
         $/Participant: 311293
@@ -47,6 +44,8 @@ NY : NEW YORK
            - INVESCO : INVESTMENT PROVIDER (Investment management fees paid indirectly by plan)
            - INVESCO : INVESTMENT PROVIDER (Investment management fees paid indirectly by plan)
     2018: OFI GLOBAL RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F 
         Participants: 3118
         Assets: 736056690
         $/Participant: 236066
@@ -77,7 +76,23 @@ NY : NEW YORK
            - OPPENHEIMER : INVESTMENT PROVIDER (Investment management fees paid indirectly by plan)
            - OPPENHEIMER : INVESTMENT PROVIDER (Investment management fees paid indirectly by plan)
     2017: OFI GLOBAL RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3F 
         Participants: 3128
         Assets: 797335564
         $/Participant: 254902
         RecordKeeper: OPPENHEIMER
+CO : CENTENNIAL
+   [501]
+    2019: OFI GLOBAL EMPLOYEE WELFARE PLAN (F/K/A OPPENHEIMERFUNDS, INC. EMPLOYEE WELFARE PLAN)
+        Benefit Category: Other
+        Codes:  4B4H4L4Q
+        Participants: 
+    2018: OFI GLOBAL EMPLOYEE WELFARE PLAN (F/K/A OPPENHEIMERFUNDS, INC. EMPLOYEE WELFARE PLAN)
+        Benefit Category: Other
+        Codes:  4B4H4L4Q
+        Participants: 
+    2017: OFI GLOBAL EMPLOYEE WELFARE PLAN (F/K/A OPPENHEIMERFUNDS, INC. EMPLOYEE WELFARE PLAN)
+        Benefit Category: Other
+        Codes:  4B4H4L4Q
+        Participants: 

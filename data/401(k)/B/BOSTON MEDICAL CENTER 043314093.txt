@@ -2,49 +2,33 @@ MA : BOSTON
   BOSTON MEDICAL CENTER  043314093
    [504]
     2022: BOSTON MEDICAL CENTER FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2021: BOSTON MEDICAL CENTER FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2020: BOSTON MEDICAL CENTER FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2019: BOSTON MEDICAL CENTER FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2018: BOSTON MEDICAL CENTER FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
     2017: BOSTON MEDICAL CENTER FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
-   [004]
-    2018: BOSTON MEDICAL CENTER 403(B) OPEN PLAN
-        Participants: 0
-        RecordKeeper: TIAA
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2017: BOSTON MEDICAL CENTER 403(B) OPEN PLAN
-        Participants: 8041
-        Assets: 391028745
-        $/Participant: 48629
-        RecordKeeper: TIAA
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-   [003]
-    2018: BOSTON MEDICAL CENTER RETIREMENT PLAN FOR CERTAIN EMPLOYEES
-        Participants: 0
-        RecordKeeper: TIAA
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2017: BOSTON MEDICAL CENTER RETIREMENT PLAN FOR CERTAIN EMPLOYEES
-        Participants: 423
-        Assets: 23115701
-        $/Participant: 54647
-        RecordKeeper: TIAA
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
    [002]
     2022: BOSTON MEDICAL CENTER 403(B) RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2R2S2T3H 
         Participants: 15138
         Assets: 1223515051
         $/Participant: 80824
@@ -53,6 +37,8 @@ MA : BOSTON
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2021: BOSTON MEDICAL CENTER 403(B) RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2R2S2T3H 
         Participants: 12899
         Assets: 1438434259
         $/Participant: 111515
@@ -61,6 +47,8 @@ MA : BOSTON
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2020: BOSTON MEDICAL CENTER 403(B) RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2R2S2T3H 
         Participants: 11893
         Assets: 1225134085
         $/Participant: 103013
@@ -69,6 +57,8 @@ MA : BOSTON
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2019: BOSTON MEDICAL CENTER 403(B) RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2R2T3H 
         Participants: 11397
         Assets: 1090627324
         $/Participant: 95694
@@ -77,6 +67,8 @@ MA : BOSTON
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2018: BOSTON MEDICAL CENTER 403(B) RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2R2T3H 
         Participants: 17398
         Assets: 896311364
         $/Participant: 51518
@@ -85,6 +77,8 @@ MA : BOSTON
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2017: BOSTON MEDICAL CENTER 403(B) RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2R2T3H 
         Participants: 6118
         Assets: 508801029
         $/Participant: 83164
@@ -92,8 +86,48 @@ MA : BOSTON
         Available Investments:
            - TIAA-CREF
                  : TIAA REAL ESTATE
+   [003]
+    2018: BOSTON MEDICAL CENTER RETIREMENT PLAN FOR CERTAIN EMPLOYEES
+        Benefit Category: Other
+        Codes: 2F2G2L2M2R2T3H 
+        Participants: 0
+        RecordKeeper: TIAA
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2017: BOSTON MEDICAL CENTER RETIREMENT PLAN FOR CERTAIN EMPLOYEES
+        Benefit Category: Other
+        Codes: 2F2G2L2M2R2T3H 
+        Participants: 423
+        Assets: 23115701
+        $/Participant: 54647
+        RecordKeeper: TIAA
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+   [004]
+    2018: BOSTON MEDICAL CENTER 403(B) OPEN PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2R2S2T3F3H 
+        Participants: 0
+        RecordKeeper: TIAA
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2017: BOSTON MEDICAL CENTER 403(B) OPEN PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2R2S3F3H 
+        Participants: 8041
+        Assets: 391028745
+        $/Participant: 48629
+        RecordKeeper: TIAA
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
    [001]
     2021: BOSTON MEDICAL CENTER PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3F3H 
         Participants: 755
         Assets: 168012478
         $/Participant: 222533
@@ -125,6 +159,8 @@ MA : BOSTON
                  : SSGA RUSSELL 2000 INDEX
                  : SSGA US AGGREGATE BOND INDEX
     2020: BOSTON MEDICAL CENTER PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3F3H 
         Participants: 768
         Assets: 207363870
         $/Participant: 270005
@@ -160,6 +196,8 @@ MA : BOSTON
                  : SSGA RUSSELL 2000-INDEX
                  : SSGA US AGGREGATE BOND INDEX
     2019: BOSTON MEDICAL CENTER PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3F3H 
         Participants: 783
         Assets: 192528298
         $/Participant: 245885
@@ -173,6 +211,8 @@ MA : BOSTON
            - NORTHERN TRUST INVESTMENTS, INC
                  : NT COLLECTIVE SHORT-TERM INVES FUND
     2018: BOSTON MEDICAL CENTER PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3F3H 
         Participants: 797
         Assets: 173428440
         $/Participant: 217601
@@ -182,6 +222,8 @@ MA : BOSTON
            - NOTHERN TRUST INVESTMENTS, INC
                  : NT COLLECTIVE SHORT-TERM INVES FUND
     2017: BOSTON MEDICAL CENTER PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3F3H 
         Participants: 805
         Assets: 169013202
         $/Participant: 209954

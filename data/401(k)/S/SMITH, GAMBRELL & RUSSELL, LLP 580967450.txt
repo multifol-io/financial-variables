@@ -1,49 +1,9 @@
 GA : ATLANTA
   SMITH, GAMBRELL & RUSSELL, LLP  580967450
-   [512]
-    2022: SMITH, GAMBRELL & RUSSELL, LLP GROUP HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2021: SMITH, GAMBRELL & RUSSELL, LLP GROUP HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 397
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE COM : CLAIMS ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2020: SMITH, GAMBRELL & RUSSELL, LLP GROUP HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 406
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE COM : CLAIMS ADMINISTRATION (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-           - PALMER AND CAY LLC : BROKER (Insurance agents and brokers)
-    2019: SMITH, GAMBRELL & RUSSELL, LLP GROUP HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 402
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE COM : CLAIMS ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-           - PALMER AND CAY LLC : BROKER (Insurance agents and brokers)
-    2018: SMITH, GAMBRELL & RUSSELL, LLP GROUP HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 371
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE COM : CLAIMS ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-           - MILLENIUM BENEFITS CONSULTING, INC. : BROKER (Insurance agents and brokers)
-           - PALMER AND CAY LLC : BROKER (Insurance agents and brokers)
-    2017: SMITH, GAMBRELL & RUSSELL, LLP GROUP HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 363
-        Service Providers:
-           - CIGNA HEALTH AND LIFE INSURANCE COM : CLAIMS ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-           - MILLENIUM BENEFITS CONSULTING, INC. : BROKER (Insurance agents and brokers)
-   [007]
-    2019: SMITH, GAMBRELL & RUSSELL, LLP ASSOCIATES AND PROFESSIONALS 401(K) PLAN
-        Participants: 0
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-    2018: SMITH, GAMBRELL & RUSSELL, LLP ASSOCIATES' 401(K) PLAN
-        Participants: 109
-        Assets: 4495857
-        $/Participant: 41246
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-    2017: SMITH, GAMBRELL & RUSSELL, LLP ASSOCIATES' 401(K) PLAN
-        Participants: 112
-        Assets: 4868804
-        $/Participant: 43471
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
    [005]
     2022: SMITH, GAMBRELL & RUSSELL, LLP 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2S2T3B3H 4B
         Participants: 577
         Assets: 171773196
         $/Participant: 297700
@@ -65,6 +25,8 @@ GA : ATLANTA
            - T. ROWE PRICE TRUST COMPANY
                  : T. ROWE PRICE STB VAL COMMON TR FD
     2021: SMITH, GAMBRELL & RUSSELL, LLP 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2S2T3B3H 4B
         Participants: 523
         Assets: 197820153
         $/Participant: 378241
@@ -86,6 +48,8 @@ GA : ATLANTA
            - T. ROWE PRICE TRUST COMPANY
                  : T. ROWE PRICE STB VAL COMMON TR FD
     2020: SMITH, GAMBRELL & RUSSELL, LLP 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2S2T3B3H 4B
         Participants: 515
         Assets: 175183482
         $/Participant: 340162
@@ -106,17 +70,83 @@ GA : ATLANTA
            - T. ROWE PRICE TRUST COMPANY
                  : T. ROWE PRICE STB VAL COMMON TR FD
     2019: SMITH, GAMBRELL & RUSSELL, LLP 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2S2T3B3H 4B
         Participants: 506
         Assets: 153673824
         $/Participant: 303703
         RecordKeeper: CHARLES SCHWAB & CO., INC.
     2018: SMITH, GAMBRELL & RUSSELL, LLP PARTNER-STAFF 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2S2T3B3H 4B
         Participants: 355
         Assets: 118457667
         $/Participant: 333683
         RecordKeeper: CHARLES SCHWAB BANK
     2017: SMITH, GAMBRELL & RUSSELL, LLP PARTNER-STAFF 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J3B3H 
         Participants: 346
         Assets: 126259762
         $/Participant: 364912
         RecordKeeper: CHARLES SCHWAB & CO., INC.
+   [007]
+    2019: SMITH, GAMBRELL & RUSSELL, LLP ASSOCIATES AND PROFESSIONALS 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2S2T3H 
+        Participants: 0
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+    2018: SMITH, GAMBRELL & RUSSELL, LLP ASSOCIATES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2S3H2T 
+        Participants: 109
+        Assets: 4495857
+        $/Participant: 41246
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+    2017: SMITH, GAMBRELL & RUSSELL, LLP ASSOCIATES' 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2S2T3H 
+        Participants: 112
+        Assets: 4868804
+        $/Participant: 43471
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+   [512]
+    2022: SMITH, GAMBRELL & RUSSELL, LLP GROUP HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: SMITH, GAMBRELL & RUSSELL, LLP GROUP HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 397
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE COM : CLAIMS ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+    2020: SMITH, GAMBRELL & RUSSELL, LLP GROUP HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 406
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE COM : CLAIMS ADMINISTRATION (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+           - PALMER AND CAY LLC : BROKER (Insurance agents and brokers)
+    2019: SMITH, GAMBRELL & RUSSELL, LLP GROUP HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 402
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE COM : CLAIMS ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+           - PALMER AND CAY LLC : BROKER (Insurance agents and brokers)
+    2018: SMITH, GAMBRELL & RUSSELL, LLP GROUP HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 371
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE COM : CLAIMS ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+           - MILLENIUM BENEFITS CONSULTING, INC. : BROKER (Insurance agents and brokers)
+           - PALMER AND CAY LLC : BROKER (Insurance agents and brokers)
+    2017: SMITH, GAMBRELL & RUSSELL, LLP GROUP HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 363
+        Service Providers:
+           - CIGNA HEALTH AND LIFE INSURANCE COM : CLAIMS ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
+           - MILLENIUM BENEFITS CONSULTING, INC. : BROKER (Insurance agents and brokers)

@@ -1,18 +1,8 @@
 TX : HOUSTON
   CHAMBERLAIN, HRDLICKA, WHITE, WILLIAMS & AUGHTRY  741541761
-   [501]
-    2017: CHAMBERLAIN,HRDLICKA,WHITE,WILLIAMS & AUGHTRY WELFARE BENEFIT & CAFETERIA PLAN
-        Participants: 
-        Assets: 293568
-        $/Participant: 
-        Service Providers:
-           - AETNA : ADMIN (Claims processing)
-           - SNELLINGS WALTERS INSURANCE AGCY : BROKER (Insurance agents and brokers)
-           - THE BENECON GROUP : BROKER (Insurance agents and brokers)
-           - J SMITH LANIER & CO. : BROKER (Insurance agents and brokers)
-           - CONNECTCARE 3 : PATIENT ADVOCATE (Other services)
-   [002]
     2022: CHAMBERLAIN, HRDLICKA, WHITE, WILLIAMS & AUGHTRY PROFIT SHARING AND 401(K)PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R3H 
         Participants: 350
         Assets: 89392083
         $/Participant: 255405
@@ -38,6 +28,8 @@ TX : HOUSTON
            - NEW YORK LIFE INSURANCE COMPANY
                  : PSA NO. 25 (STABLE VALUE ACCOUNT)
     2017: CHAMBERLAIN, HRDLICKA, WHITE, WILLIAMS & AUGHTRY PROFIT SHARING AND 401(K)PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R3H 
         Participants: 254
         Assets: 73274016
         $/Participant: 288480
@@ -64,3 +56,16 @@ TX : HOUSTON
                  : SCHWAB INDEXED RET TRUST FUND 2040
            - NEW YORK LIFE INSURANCE COMPANY
                  : NEW YORK LIFE ANCHOR ACCT III
+   [501]
+    2017: CHAMBERLAIN,HRDLICKA,WHITE,WILLIAMS & AUGHTRY WELFARE BENEFIT & CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+        Assets: 293568
+        $/Participant: 
+        Service Providers:
+           - AETNA : ADMIN (Claims processing)
+           - SNELLINGS WALTERS INSURANCE AGCY : BROKER (Insurance agents and brokers)
+           - THE BENECON GROUP : BROKER (Insurance agents and brokers)
+           - J SMITH LANIER & CO. : BROKER (Insurance agents and brokers)
+           - CONNECTCARE 3 : PATIENT ADVOCATE (Other services)

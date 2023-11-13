@@ -1,67 +1,8 @@
 MA : BOSTON
   TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION  043044706
-   [506]
-    2022: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION OMNIBUS HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION OMNIBUS HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION OMNIBUS HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION OMNIBUS HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION OMNIBUS HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: THE TUFTS MEDICAL CENTER PHYSICIAN'S ORGANIZATION OMNIBUS HEALTH AND WELFARE PLAN
-        Participants: 
-   [003]
-    2022: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION, INC. 403(B) RETIREMENT PLAN
-        Participants: 1187
-        Assets: 225867672
-        $/Participant: 190284
-        RecordKeeper: THE VANGUARD GROUP
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2021: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION, INC. 403(B) RETIREMENT PLAN
-        Participants: 1090
-        Assets: 270235847
-        $/Participant: 247922
-        RecordKeeper: THE VANGUARD GROUP
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2020: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION, INC. 403(B) RETIREMENT PLAN
-        Participants: 995
-        Assets: 240333421
-        $/Participant: 241541
-        RecordKeeper: THE VANGUARD GROUP
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2019: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION, INC. 403(B) RETIREMENT PLAN
-        Participants: 854
-        Assets: 200018770
-        $/Participant: 234214
-        RecordKeeper: THE VANGUARD GROUP
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2018: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION, INC. 403(B) RETIREMENT PLAN
-        Participants: 820
-        Assets: 163042960
-        $/Participant: 198832
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-    2017: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION, INC. 403(B) RETIREMENT PLAN
-        Participants: 798
-        Assets: 169856828
-        $/Participant: 212853
-        Available Investments:
-           - TIAA-CREF
-                 : TIAA REAL ESTATE
-   [002]
     2022: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION, INC. 401(A) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T 
         Participants: 1284
         Assets: 376737449
         $/Participant: 293409
@@ -70,6 +11,8 @@ MA : BOSTON
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2021: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION, INC. 401(A) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T 
         Participants: 1256
         Assets: 467896228
         $/Participant: 372528
@@ -78,6 +21,8 @@ MA : BOSTON
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2020: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION, INC. 401(A) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T 
         Participants: 1049
         Assets: 435187449
         $/Participant: 414859
@@ -86,6 +31,8 @@ MA : BOSTON
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2019: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION, INC. 401(A) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T 
         Participants: 1092
         Assets: 378988919
         $/Participant: 347059
@@ -94,6 +41,8 @@ MA : BOSTON
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2018: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION, INC. 401(A) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T 
         Participants: 1019
         Assets: 317909337
         $/Participant: 311981
@@ -101,9 +50,95 @@ MA : BOSTON
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2017: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION, INC. 401(A) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T 
         Participants: 894
         Assets: 339056234
         $/Participant: 379257
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+   [506]
+    2022: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION OMNIBUS HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION OMNIBUS HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION OMNIBUS HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION OMNIBUS HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION OMNIBUS HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: THE TUFTS MEDICAL CENTER PHYSICIAN'S ORGANIZATION OMNIBUS HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+   [003]
+    2022: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION, INC. 403(B) RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2M2R2T3H 
+        Participants: 1187
+        Assets: 225867672
+        $/Participant: 190284
+        RecordKeeper: THE VANGUARD GROUP
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2021: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION, INC. 403(B) RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2M2R2T3H 
+        Participants: 1090
+        Assets: 270235847
+        $/Participant: 247922
+        RecordKeeper: THE VANGUARD GROUP
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2020: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION, INC. 403(B) RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2M2R2T3H 
+        Participants: 995
+        Assets: 240333421
+        $/Participant: 241541
+        RecordKeeper: THE VANGUARD GROUP
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2019: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION, INC. 403(B) RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2M2R2T3H 
+        Participants: 854
+        Assets: 200018770
+        $/Participant: 234214
+        RecordKeeper: THE VANGUARD GROUP
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2018: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION, INC. 403(B) RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2M2R2T3H 
+        Participants: 820
+        Assets: 163042960
+        $/Participant: 198832
+        Available Investments:
+           - TIAA-CREF
+                 : TIAA REAL ESTATE
+    2017: TUFTS MEDICAL CENTER PHYSICIANS ORGANIZATION, INC. 403(B) RETIREMENT PLAN
+        Benefit Category: Other
+        Codes: 2F2G2M2R2T3H 
+        Participants: 798
+        Assets: 169856828
+        $/Participant: 212853
         Available Investments:
            - TIAA-CREF
                  : TIAA REAL ESTATE

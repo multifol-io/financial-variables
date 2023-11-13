@@ -1,45 +1,9 @@
 OR : PORTLAND
   PERMANENTE DENTAL ASSOCIATES, PC  931078042
-   [560]
-    2022: GROUP BENEFITS
-        Participants: 203
-    2021: GROUP BENEFITS
-        Participants: 206
-    2020: GROUP BENEFITS
-        Participants: 203
-    2019: GROUP BENEFITS
-        Participants: 217
-    2018: GROUP BENEFITS
-        Participants: 210
-    2017: GROUP BENEFITS
-        Participants: 211
-   [002]
-    2022: PERMANENTE DENTISTS RETIREMENT PLAN FOR PERMANENTE DENTAL ASSOCIATES
-        Participants: 240
-        Assets: 49896098
-        $/Participant: 207900
-    2021: PERMANENTE DENTISTS RETIREMENT PLAN FOR PERMANENTE DENTAL ASSOCIATES
-        Participants: 234
-        Assets: 60914102
-        $/Participant: 260316
-    2020: PERMANENTE DENTISTS RETIREMENT PLAN FOR PERMANENTE DENTAL ASSOCIATES
-        Participants: 238
-        Assets: 62815551
-        $/Participant: 263930
-    2019: PERMANENTE DENTISTS RETIREMENT PLAN FOR PERMANENTE DENTAL ASSOCIATES
-        Participants: 236
-        Assets: 59843702
-        $/Participant: 253575
-    2018: PERMANENTE DENTISTS RETIREMENT PLAN FOR PERMANENTE DENTAL ASSOCIATES
-        Participants: 235
-        Assets: 58748280
-        $/Participant: 249992
-    2017: PERMANENTE DENTISTS RETIREMENT PLAN FOR PERMANENTE DENTAL ASSOCIATES
-        Participants: 223
-        Assets: 63223659
-        $/Participant: 283514
    [001]
     2022: PERMANENTE DENTAL ASSOCIATES 401K RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 233
         Assets: 125865302
         $/Participant: 540194
@@ -48,6 +12,8 @@ OR : PORTLAND
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SVGS TRUST III
     2021: PERMANENTE DENTAL ASSOCIATES 401K RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 229
         Assets: 147118192
         $/Participant: 642437
@@ -56,6 +22,8 @@ OR : PORTLAND
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SVGS TRUST III
     2020: PERMANENTE DENTAL ASSOCIATES 401K RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 214
         Assets: 127812168
         $/Participant: 597253
@@ -64,6 +32,8 @@ OR : PORTLAND
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SVGS TRUST III
     2019: PERMANENTE DENTAL ASSOCIATES 401K RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 222
         Assets: 107490675
         $/Participant: 484192
@@ -72,6 +42,8 @@ OR : PORTLAND
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SVGS TRUST III
     2018: PERMANENTE DENTAL ASSOCIATES 401K RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 220
         Assets: 87590520
         $/Participant: 398138
@@ -80,6 +52,8 @@ OR : PORTLAND
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SVGS TRUST III
     2017: PERMANENTE DENTAL ASSOCIATES 401K RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 217
         Assets: 95089737
         $/Participant: 438201
@@ -87,3 +61,65 @@ OR : PORTLAND
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SVGS TRUST III
+   [560]
+    2022: GROUP BENEFITS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4Q
+        Participants: 203
+    2021: GROUP BENEFITS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4Q
+        Participants: 206
+    2020: GROUP BENEFITS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4Q
+        Participants: 203
+    2019: GROUP BENEFITS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4Q
+        Participants: 217
+    2018: GROUP BENEFITS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4Q
+        Participants: 210
+    2017: GROUP BENEFITS
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4Q
+        Participants: 211
+   [002]
+    2022: PERMANENTE DENTISTS RETIREMENT PLAN FOR PERMANENTE DENTAL ASSOCIATES
+        Benefit Category: Pension
+        Codes: 1A1E1C 
+        Participants: 240
+        Assets: 49896098
+        $/Participant: 207900
+    2021: PERMANENTE DENTISTS RETIREMENT PLAN FOR PERMANENTE DENTAL ASSOCIATES
+        Benefit Category: Pension
+        Codes: 1A1E1C 
+        Participants: 234
+        Assets: 60914102
+        $/Participant: 260316
+    2020: PERMANENTE DENTISTS RETIREMENT PLAN FOR PERMANENTE DENTAL ASSOCIATES
+        Benefit Category: Pension
+        Codes: 1A1E1C 
+        Participants: 238
+        Assets: 62815551
+        $/Participant: 263930
+    2019: PERMANENTE DENTISTS RETIREMENT PLAN FOR PERMANENTE DENTAL ASSOCIATES
+        Benefit Category: Pension
+        Codes: 1A1E1C 
+        Participants: 236
+        Assets: 59843702
+        $/Participant: 253575
+    2018: PERMANENTE DENTISTS RETIREMENT PLAN FOR PERMANENTE DENTAL ASSOCIATES
+        Benefit Category: Pension
+        Codes: 1A1E1C 
+        Participants: 235
+        Assets: 58748280
+        $/Participant: 249992
+    2017: PERMANENTE DENTISTS RETIREMENT PLAN FOR PERMANENTE DENTAL ASSOCIATES
+        Benefit Category: Pension
+        Codes: 1A1E1C 
+        Participants: 223
+        Assets: 63223659
+        $/Participant: 283514

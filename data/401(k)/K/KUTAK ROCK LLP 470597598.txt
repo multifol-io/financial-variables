@@ -1,52 +1,8 @@
 NE : OMAHA
   KUTAK ROCK LLP  470597598
-   [508]
-    2022: KUTAK ROCK LLP WELFARE BENEFITS PLAN
-        Participants: 843
-        Service Providers:
-           - ACTURIAL CONSULTING SERVICES INC. :  (Consulting(general))
-           - BLUE CROSS BLUE SHIELD OF NEBRASKA :  (Contract Administrator)
-           - AMERITAS :  (Contract Administrator)
-    2021: KUTAK ROCK LLP WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - BLUE CROSS BLUE SHIELD OF NEBRASKA :  (Contract Administrator)
-           - AMERITAS :  (Contract Administrator)
-           - ACTUARIAL CONSULTING SERVICES INC. :  (Consulting(general))
-    2020: KUTAK ROCK LLP WELFARE BENEFITS PLAN
-        Participants: 
-        Service Providers:
-           - BLUE CROSS BLUE SHIELD OF NEBRASKA :  (Contract Administrator)
-           - AMERITAS :  (Contract Administrator)
-           - ACTUARIAL CONSULTING SERVICES INC. :  (Consulting(general))
-   [504]
-    2019: KUTAK ROCK HEALTH, DENTAL AND CAFETERIA PLAN
-        Participants: 
-        Service Providers:
-           - BLUE CROSS BLUE SHIELD OF NEBRASKA :  (Contract Administrator)
-           - AMERITAS :  (Contract Administrator)
-           - ACTUARIAL CONSULTING SERVICES INC. :  (Consulting(general))
-    2018: KUTAK ROCK HEALTH, DENTAL AND CAFETERIA PLAN
-        Participants: 
-        Service Providers:
-           - BLUE CROSS BLUE SHIELD OF NEBRASKA :  (Contract Administrator)
-           - AMERITAS :  (Contract Administrator)
-           - ACTUARIAL CONSULTING SERVICES INC. :  (Consulting(general))
-    2017: KUTAK ROCK HEALTH, DENTAL AND CAFETERIA PLAN
-        Participants: 
-        Service Providers:
-           - BLUE CROSS BLUE SHIELD OF NEBRASKA :  (Contract Administrator)
-           - AMERITAS :  (Contract Administrator)
-           - ACTUARIAL CONSULTING SERVICES INC. :  (Consulting(general))
-   [501]
-    2019: KUTAK ROCK DEATH AND DISABILITY PLAN
-        Participants: 
-    2018: KUTAK ROCK DEATH AND DISABILITY PLAN
-        Participants: 
-    2017: KUTAK ROCK DEATH AND DISABILITY PLAN
-        Participants: 
-   [001]
     2022: KUTAK ROCK LLP 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2F2J2R2T3B 
         Participants: 1238
         Assets: 389925532
         $/Participant: 314964
@@ -55,6 +11,8 @@ NE : OMAHA
            - VOYA RETIREMENT INSURANCE & ANNUITY
                  : VOYA STABILIZER QUALITY FUND I
     2021: KUTAK ROCK LLP 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2R2F2T3B 
         Participants: 1186
         Assets: 457661653
         $/Participant: 385886
@@ -63,6 +21,8 @@ NE : OMAHA
            - WILMINGTON TRUST
                  : WTRIS GALLIARD RETIREMENT INCOME 35
     2020: KUTAK ROCK LLP 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2R2F2T3B 
         Participants: 1157
         Assets: 403559114
         $/Participant: 348797
@@ -71,6 +31,8 @@ NE : OMAHA
            - WILMINGTON TRUST
                  : WTRIS GALLIARD RETIREMENT INCOME 35
     2019: KUTAK ROCK LLP 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2R2F2T3B 
         Participants: 1173
         Assets: 362900410
         $/Participant: 309378
@@ -79,6 +41,8 @@ NE : OMAHA
            - WILMINGTON TRUST
                  : WTRIS GALLIARD RETIREMENT INCOME 35
     2018: KUTAK ROCK LLP 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2R2F2T3B 
         Participants: 1176
         Assets: 298776981
         $/Participant: 254062
@@ -88,6 +52,8 @@ NE : OMAHA
                  : FN WTRIS GALLIARD RETIRE INC FD CL
                  : WTRIS GALLIARD RETIRE INC FD CL 35
     2017: KUTAK ROCK LLP 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2R2F2T 
         Participants: 1103
         Assets: 316268391
         $/Participant: 286734
@@ -96,3 +62,66 @@ NE : OMAHA
            - WILMINGTON TRUST
                  : FN WTRIS GALLIARD RETIRE INC FD CL
                  : WTRIS GALLIARD RETIRE INC FD CL 35
+   [504]
+    2019: KUTAK ROCK HEALTH, DENTAL AND CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
+        Participants: 
+        Service Providers:
+           - BLUE CROSS BLUE SHIELD OF NEBRASKA :  (Contract Administrator)
+           - AMERITAS :  (Contract Administrator)
+           - ACTUARIAL CONSULTING SERVICES INC. :  (Consulting(general))
+    2018: KUTAK ROCK HEALTH, DENTAL AND CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
+        Participants: 
+        Service Providers:
+           - BLUE CROSS BLUE SHIELD OF NEBRASKA :  (Contract Administrator)
+           - AMERITAS :  (Contract Administrator)
+           - ACTUARIAL CONSULTING SERVICES INC. :  (Consulting(general))
+    2017: KUTAK ROCK HEALTH, DENTAL AND CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
+        Participants: 
+        Service Providers:
+           - BLUE CROSS BLUE SHIELD OF NEBRASKA :  (Contract Administrator)
+           - AMERITAS :  (Contract Administrator)
+           - ACTUARIAL CONSULTING SERVICES INC. :  (Consulting(general))
+   [508]
+    2022: KUTAK ROCK LLP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 843
+        Service Providers:
+           - ACTURIAL CONSULTING SERVICES INC. :  (Consulting(general))
+           - BLUE CROSS BLUE SHIELD OF NEBRASKA :  (Contract Administrator)
+           - AMERITAS :  (Contract Administrator)
+    2021: KUTAK ROCK LLP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
+        Participants: 
+        Service Providers:
+           - BLUE CROSS BLUE SHIELD OF NEBRASKA :  (Contract Administrator)
+           - AMERITAS :  (Contract Administrator)
+           - ACTUARIAL CONSULTING SERVICES INC. :  (Consulting(general))
+    2020: KUTAK ROCK LLP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4Q
+        Participants: 
+        Service Providers:
+           - BLUE CROSS BLUE SHIELD OF NEBRASKA :  (Contract Administrator)
+           - AMERITAS :  (Contract Administrator)
+           - ACTUARIAL CONSULTING SERVICES INC. :  (Consulting(general))
+   [501]
+    2019: KUTAK ROCK DEATH AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L
+        Participants: 
+    2018: KUTAK ROCK DEATH AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L
+        Participants: 
+    2017: KUTAK ROCK DEATH AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L
+        Participants: 

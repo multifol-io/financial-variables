@@ -1,40 +1,34 @@
 NY : NEW YORK
   NEW YORK LAW SCHOOL  135645885
-   [508]
-    2018: NEW YORK LAW SCHOOL GROUP DENTAL PLAN
-        Participants: 
-    2017: NEW YORK LAW SCHOOL GROUP DENTAL PLAN
-        Participants: 
-   [507]
-    2018: NEW YORK LAW SCHOOL GROUP VISION PLAN
-        Participants: 
-    2017: NEW YORK LAW SCHOOL GROUP VISION PLAN
-        Participants: 
    [506]
     2022: NEW YORK LAW SCHOOL HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2021: NEW YORK LAW SCHOOL HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2020: NEW YORK LAW SCHOOL HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2019: NEW YORK LAW SCHOOL HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
         Participants: 
     2018: NEW YORK LAW SCHOOL GROUP MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 
     2017: NEW YORK LAW SCHOOL GROUP MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
         Participants: 
-   [503]
-    2018: NEW YORK LAW SCHOOL GROUP LONG-TERM DISABILITY PLAN
-        Participants: 
-    2017: NEW YORK LAW SCHOOL GROUP LONG-TERM DISABILITY PLAN
-        Participants: 151
-   [502]
-    2018: NEW YORK LAW SCHOOL GROUP LIFE INSURANCE PLAN WITH ADD BENEFIT
-        Participants: 
-    2017: NEW YORK LAW SCHOOL GROUP LIFE INSURANCE PLAN WITH ADD BENEFIT
-        Participants: 151
    [001]
     2022: NEW YORK LAW SCHOOL DEFINED CONTRIBUTION RET. PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2T 
         Participants: 484
         Assets: 145226645
         $/Participant: 300055
@@ -46,6 +40,8 @@ NY : NEW YORK
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2021: NEW YORK LAW SCHOOL DEFINED CONTRIBUTION RET. PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2T 
         Participants: 417
         Assets: 167912520
         $/Participant: 402667
@@ -55,6 +51,8 @@ NY : NEW YORK
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2020: NEW YORK LAW SCHOOL DEFINED CONTRIBUTION RET. PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2T 
         Participants: 476
         Assets: 155475530
         $/Participant: 326629
@@ -66,6 +64,8 @@ NY : NEW YORK
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2019: NEW YORK LAW SCHOOL DEFINED CONTRIBUTION RET. PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2T 
         Participants: 475
         Assets: 144767176
         $/Participant: 304773
@@ -76,6 +76,8 @@ NY : NEW YORK
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2018: NEW YORK LAW SCHOOL DEFINED CONTRIBUTION RET. PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2T 
         Participants: 472
         Assets: 127042107
         $/Participant: 269157
@@ -86,6 +88,8 @@ NY : NEW YORK
            - TIAA-CREF
                  : TIAA REAL ESTATE
     2017: NEW YORK LAW SCHOOL DEFINED CONTRIBUTION RET. PLAN
+        Benefit Category: Other
+        Codes: 2F2G2L2M2T 
         Participants: 387
         Assets: 133228654
         $/Participant: 344260
@@ -96,3 +100,39 @@ NY : NEW YORK
         Available Investments:
            - TIAA-CREF
                  : TIAA REAL ESTATE
+   [502]
+    2018: NEW YORK LAW SCHOOL GROUP LIFE INSURANCE PLAN WITH ADD BENEFIT
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2017: NEW YORK LAW SCHOOL GROUP LIFE INSURANCE PLAN WITH ADD BENEFIT
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 151
+   [503]
+    2018: NEW YORK LAW SCHOOL GROUP LONG-TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2017: NEW YORK LAW SCHOOL GROUP LONG-TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 151
+   [507]
+    2018: NEW YORK LAW SCHOOL GROUP VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2017: NEW YORK LAW SCHOOL GROUP VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+   [508]
+    2018: NEW YORK LAW SCHOOL GROUP DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2017: NEW YORK LAW SCHOOL GROUP DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 

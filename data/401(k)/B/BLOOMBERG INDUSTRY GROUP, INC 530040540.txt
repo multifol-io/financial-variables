@@ -1,47 +1,9 @@
 VA : ARLINGTON
   BLOOMBERG INDUSTRY GROUP, INC  530040540
-   [503]
-    2022: THE BLOOMBERG BNA HEALTH AND WELFARE PLAN
-        Participants: 2028
-        Assets: 9636821
-        $/Participant: 4751
-        Service Providers:
-           - LINCOLN NATIONAL LIFE INSURANCE CO :  (Contract Administrator)
-           - LINCOLN NATIONAL LIFE INSURANCE CO :  (Contract Administrator)
-    2021: THE BLOOMBERG BNA HEALTH AND WELFARE PLAN
-        Participants: 1912
-        Assets: 15176138
-        $/Participant: 7937
-        RecordKeeper: ANTHEM INSURANCE COMPANIES, INC.
-    2020: THE BLOOMBERG BNA HEALTH AND WELFARE PLAN
-        Participants: 2004
-        Assets: 15889436
-        $/Participant: 7928
-        Service Providers:
-           - LINCOLN FINANCIAL GROUP :  (Contract Administrator)
-           - LINCOLN FINANCIAL GROUP :  (Contract Administrator)
-    2019: THE BLOOMBERG BNA HEALTH AND WELFARE PLAN
-        Participants: 1893
-        Assets: 15912134
-        $/Participant: 8405
-        RecordKeeper: LINCOLN LIFE ASSURANCE COMPANY
-    2018: THE BLOOMBERG BNA HEALTH AND WELFARE PLAN
-        Participants: 2038
-        Assets: 14536314
-        $/Participant: 7132
-        Service Providers:
-           - LINCOLN FINANCIAL GROUP :  (Contract Administrator)
-           - LINCOLN FINANCIAL GROUP :  (Contract Administrator)
-           - PNC INSTITUTIONAL ASSET MANAGEMENT :  (Custodial(securities))
-    2017: THE BLOOMBERG BNA HEALTH AND WELFARE PLAN
-        Participants: 2293
-        Assets: 16215938
-        $/Participant: 7071
-        Service Providers:
-           - LIBERTY LIFE ASSURANCE COMPANY OF B :  (Contract Administrator)
-           - LIBERTY LIFE ASSURANCE COMPANY OF B :  (Contract Administrator)
    [002]
     2022: BNA 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3H2S2T3D 
         Participants: 2325
         Assets: 362643055
         $/Participant: 155975
@@ -60,26 +22,36 @@ VA : ARLINGTON
                  : THE VANGUARD TARGET RETIRE 2065 TRU
                  : THE VANGUARD TARGET RETIRE INCM TRU
     2021: BNA 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3H2S2T3D 
         Participants: 2062
         Assets: 442771723
         $/Participant: 214729
         RecordKeeper: MASSACHUSETTS MUTUAL LIFE INS. CO.
     2020: BNA 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3D3H2S2T 
         Participants: 2062
         Assets: 406063513
         $/Participant: 196927
         RecordKeeper: VANGUARD
     2019: BNA 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3D3H2S2T 
         Participants: 2056
         Assets: 360885499
         $/Participant: 175527
         RecordKeeper: VANGUARD
     2018: THE BNA 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2J2F2G2K3D3H2S2T 
         Participants: 2031
         Assets: 304180139
         $/Participant: 149768
         RecordKeeper: VANGUARD
     2017: THE BNA 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H 
         Participants: 2043
         Assets: 324793111
         $/Participant: 158978
@@ -87,8 +59,62 @@ VA : ARLINGTON
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
+   [503]
+    2022: THE BLOOMBERG BNA HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L4Q
+        Participants: 2028
+        Assets: 9636821
+        $/Participant: 4751
+        Service Providers:
+           - LINCOLN NATIONAL LIFE INSURANCE CO :  (Contract Administrator)
+           - LINCOLN NATIONAL LIFE INSURANCE CO :  (Contract Administrator)
+    2021: THE BLOOMBERG BNA HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L4Q
+        Participants: 1912
+        Assets: 15176138
+        $/Participant: 7937
+        RecordKeeper: ANTHEM INSURANCE COMPANIES, INC.
+    2020: THE BLOOMBERG BNA HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L4Q
+        Participants: 2004
+        Assets: 15889436
+        $/Participant: 7928
+        Service Providers:
+           - LINCOLN FINANCIAL GROUP :  (Contract Administrator)
+           - LINCOLN FINANCIAL GROUP :  (Contract Administrator)
+    2019: THE BLOOMBERG BNA HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L4Q
+        Participants: 1893
+        Assets: 15912134
+        $/Participant: 8405
+        RecordKeeper: LINCOLN LIFE ASSURANCE COMPANY
+    2018: THE BLOOMBERG BNA HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L4Q
+        Participants: 2038
+        Assets: 14536314
+        $/Participant: 7132
+        Service Providers:
+           - LINCOLN FINANCIAL GROUP :  (Contract Administrator)
+           - LINCOLN FINANCIAL GROUP :  (Contract Administrator)
+           - PNC INSTITUTIONAL ASSET MANAGEMENT :  (Custodial(securities))
+    2017: THE BLOOMBERG BNA HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L4Q
+        Participants: 2293
+        Assets: 16215938
+        $/Participant: 7071
+        Service Providers:
+           - LIBERTY LIFE ASSURANCE COMPANY OF B :  (Contract Administrator)
+           - LIBERTY LIFE ASSURANCE COMPANY OF B :  (Contract Administrator)
    [001]
     2022: BNA EMPLOYEES RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1187
         Assets: 295152410
         $/Participant: 248654
@@ -97,6 +123,8 @@ VA : ARLINGTON
            - PNC :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - WTW :  (Actuarial | Direct payment from the plan)
     2021: BNA EMPLOYEES RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1200
         Assets: 376684409
         $/Participant: 313903
@@ -104,6 +132,8 @@ VA : ARLINGTON
            - WILLIS TOWERS WATSON :  (Actuarial | Direct payment from the plan)
            - PNC :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
     2020: BNA EMPLOYEES RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1227
         Assets: 346622760
         $/Participant: 282496
@@ -112,6 +142,8 @@ VA : ARLINGTON
            - PNC :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - WILLIS TOWERS WATSON :  (Actuarial | Direct payment from the plan)
     2019: BNA EMPLOYEES RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1263
         Assets: 343053333
         $/Participant: 271617
@@ -120,6 +152,8 @@ VA : ARLINGTON
            - PNC :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - T. ROWE PRICE :  (Investment advisory(plan) | Direct payment from the plan)
     2018: BNA EMPLOYEES RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1308
         Assets: 299595732
         $/Participant: 229048
@@ -128,6 +162,8 @@ VA : ARLINGTON
            - PNC :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - WILLIS TOWERS WATSON :  (Actuarial | Direct payment from the plan)
     2017: BNA EMPLOYEES RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1429
         Assets: 322349314
         $/Participant: 225576

@@ -1,23 +1,10 @@
 MO : NORTH KANSAS CITY
   GARNEY HOLDING COMPANY  430990829
-   [502]
-    2022: GARNEY HOLDING COMPANY GROUP BENEFIT PLAN
-        Participants: 
-    2021: GARNEY HOLDING COMPANY GROUP BENEFIT PLAN
-        Participants: 
-MO : KANSAS CITY
-    2020: GARNEY HOLDING COMPANY GROUP BENEFIT PLAN
-        Participants: 
-    2019: GARNEY HOLDING COMPANY GROUP BENEFIT PLAN
-        Participants: 
-   [501]
-    2018: GARNEY HOLDING COMPANY EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2017: GARNEY HOLDING COMPANY EMPLOYEE BENEFIT PLAN
-        Participants: 
-MO : NORTH KANSAS CITY
    [001]
     2022: GARNEY HOLDING COMPANY EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2J2K2O2Q2S3H3I 
         Participants: 1975
         Assets: 1145247336
         $/Participant: 579872
@@ -26,6 +13,9 @@ MO : NORTH KANSAS CITY
            - VANGUARD FIDUCIARY TRUST CO
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2021: GARNEY HOLDING COMPANY EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2J2K2O2Q2S3H3I 
         Participants: 1748
         Assets: 1163096750
         $/Participant: 665387
@@ -34,6 +24,9 @@ MO : NORTH KANSAS CITY
            - VANGUARD FIDUCIARY TRUST CO
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2020: GARNEY HOLDING COMPANY EMPLOYEE STOCK OWNERSHIP PLAN AND TRUST
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2J2K2O2Q2S3H3I 
         Participants: 1671
         Assets: 1081673488
         $/Participant: 647321
@@ -43,6 +36,9 @@ MO : NORTH KANSAS CITY
                  : VANGUARD RETIREMENT SAVINGS TRUST
 MO : KANSAS CITY
     2019: GARNEY HOLDING COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2J2K2O2Q3H3I 
         Participants: 2193
         Assets: 875201214
         $/Participant: 399088
@@ -51,6 +47,9 @@ MO : KANSAS CITY
            - VANGUARD FIDUCIARY TRUST CO
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2018: GARNEY HOLDING COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2J2K2O2Q3H3I 
         Participants: 2027
         Assets: 769334408
         $/Participant: 379543
@@ -59,6 +58,9 @@ MO : KANSAS CITY
            - VANGUARD FIDUCIARY TRUST CO
                  : VANGUARD RETIREMENT SAVINGS TRUST
     2017: GARNEY HOLDING COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: 401(k)
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2I2J2K2O2Q3H3I 
         Participants: 1837
         Assets: 673884930
         $/Participant: 366839
@@ -66,3 +68,31 @@ MO : KANSAS CITY
         Available Investments:
            - VANGUARD FIDUCIARY TRUST CO
                  : VFTC RETIREMENT SAVINGS TRUST
+   [501]
+    2018: GARNEY HOLDING COMPANY EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
+        Participants: 
+    2017: GARNEY HOLDING COMPANY EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
+        Participants: 
+MO : NORTH KANSAS CITY
+   [502]
+    2022: GARNEY HOLDING COMPANY GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 
+    2021: GARNEY HOLDING COMPANY GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 
+MO : KANSAS CITY
+    2020: GARNEY HOLDING COMPANY GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 
+    2019: GARNEY HOLDING COMPANY GROUP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 

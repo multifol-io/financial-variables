@@ -1,44 +1,9 @@
 CA : OAKLAND
   WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA  940358760
-   [505]
-    2022: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA RETIREE HRA PLAN
-        Participants: 
-    2021: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA RETIREE HRA PLAN
-        Participants: 
-    2020: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA RETIREE HRA PLAN
-        Participants: 
-    2019: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA RETIREE HRA PLAN
-        Participants: 
-    2018: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA RETIREE HRA PLAN
-        Participants: 
-   [504]
-    2022: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA HOSPITAL SURGICAL MEDICAL PLAN
-        Participants: 
-    2021: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA HOSPITAL SURGICAL MEDICAL PLAN
-        Participants: 
-    2020: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA HOSPITAL SURGICAL MEDICAL PLAN
-        Participants: 
-    2019: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA HOSPITAL SURGICAL MEDICAL PLAN
-        Participants: 
-    2018: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA HOSPITAL SURGICAL MEDICAL PLAN
-        Participants: 
-    2017: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA HOSPITAL SURGICAL MEDICAL PLAN
-        Participants: 
-   [501]
-    2022: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA GROUP LIFE PLAN
-        Participants: 
-    2021: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA GROUP LIFE PLAN
-        Participants: 
-    2020: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA GROUP LIFE PLAN
-        Participants: 
-    2019: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA GROUP LIFE PLAN
-        Participants: 
-    2018: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA GROUP LIFE PLAN
-        Participants: 
-    2017: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA GROUP LIFE PLAN
-        Participants: 
    [002]
     2022: WORKERS' COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D2S2E 
         Participants: 240
         Assets: 44815409
         $/Participant: 186730
@@ -52,6 +17,8 @@ CA : OAKLAND
                  : REAL ESTATE/COHEN&STEERS
                  : SCV/KENNEDY CAPITAL
     2021: WORKERS' COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D2S2E 
         Participants: 229
         Assets: 59700441
         $/Participant: 260700
@@ -64,6 +31,8 @@ CA : OAKLAND
                  : REAL ESTATE/COHEN&STEERS
                  : SCV/KENNEDY CAPITAL
     2020: WORKERS' COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D2S2E 
         Participants: 235
         Assets: 53642336
         $/Participant: 228265
@@ -75,6 +44,8 @@ CA : OAKLAND
                  : PRU TOTAL RETURN BONDSA
                  : SCV/KENNEDY CAPITAL
     2019: WORKERS' COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D2S2E 
         Participants: 241
         Assets: 44020327
         $/Participant: 182656
@@ -87,6 +58,8 @@ CA : OAKLAND
                  : PRU TOTAL RETURN BONDSA
                  : SCV/KENNEDY CAPITAL
     2018: WORKERS' COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D2S2E 
         Participants: 236
         Assets: 35858684
         $/Participant: 151943
@@ -97,6 +70,8 @@ CA : OAKLAND
                  : LARGE CP GROWTH I (TROWE)
                  : SCV/KENNEDY CAPITAL
     2017: WORKERS' COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D2S2E 
         Participants: 234
         Assets: 36144338
         $/Participant: 154462
@@ -106,8 +81,81 @@ CA : OAKLAND
                  : INTL BLD/AQR FUND
                  : LARGE CP GROWTH I (TROWE)
                  : SCV/KENNEDY CAPITAL
+   [504]
+    2022: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA HOSPITAL SURGICAL MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2021: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA HOSPITAL SURGICAL MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2020: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA HOSPITAL SURGICAL MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2019: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA HOSPITAL SURGICAL MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2018: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA HOSPITAL SURGICAL MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2017: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA HOSPITAL SURGICAL MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+   [505]
+    2022: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA RETIREE HRA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA RETIREE HRA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2020: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA RETIREE HRA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA RETIREE HRA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA RETIREE HRA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [501]
+    2022: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA GROUP LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L4Q
+        Participants: 
+    2021: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA GROUP LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L4Q
+        Participants: 
+    2020: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA GROUP LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L4Q
+        Participants: 
+    2019: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA GROUP LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L4Q
+        Participants: 
+    2018: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA GROUP LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L4Q
+        Participants: 
+    2017: WORKERS COMPENSATION INSURANCE RATING BUREAU OF CALIFORNIA GROUP LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L4Q
+        Participants: 
    [001]
     2022: WCIRB OF CALIFORNIA RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 315
         Assets: 61733182
         $/Participant: 195978
@@ -123,6 +171,8 @@ CA : OAKLAND
                  : REAL ESTATE/COHEN&STEERS FUND
                  : SMALL CAP VALUE/KENNEDY CAPITAL
     2021: WCIRB OF CALIFORNIA RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 327
         Assets: 85779419
         $/Participant: 262322
@@ -139,6 +189,8 @@ CA : OAKLAND
                  : REAL ESTATE/COHEN&STEERS FUND
                  : SMALL CAP VALUE/KENNEDY CAPITAL
     2020: WCIRB OF CALIFORNIA RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 334
         Assets: 80423245
         $/Participant: 240788
@@ -155,6 +207,8 @@ CA : OAKLAND
                  : REAL ESTATE/COHEN&STEERS FUND
                  : SMALL CAP VALUE/KENNEDY CAPITAL
     2019: WCIRB OF CALIFORNIA RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 332
         Assets: 69321533
         $/Participant: 208799
@@ -171,6 +225,8 @@ CA : OAKLAND
                  : REAL ESTATE/COHEN&STEERS FUND
                  : SMALL CAP VALUE/KENNEDY CAPITAL
     2018: WCIRB OF CALIFORNIA RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 323
         Assets: 58176413
         $/Participant: 180112
@@ -185,6 +241,8 @@ CA : OAKLAND
                  : REAL ESTATE/COHEN&STEERS FUND
                  : SMALL CAP VALUE/KENNEDY CAPITAL
     2017: WCIRB OF CALIFORNIA RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 354
         Assets: 62241048
         $/Participant: 175822

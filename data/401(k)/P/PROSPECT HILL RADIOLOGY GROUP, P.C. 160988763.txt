@@ -1,22 +1,9 @@
 NY : SYRACUSE
   PROSPECT HILL RADIOLOGY GROUP, P.C.  160988763
-   [003]
-    2020: PROSPECT HILL RADIOLOGY GROUP, P.C. EMPLOYEES DEFINED BENEFIT PENSION PLAN AND TRUST
-        Participants: 0
-    2019: PROSPECT HILL RADIOLOGY GROUP, P.C. EMPLOYEES DEFINED BENEFIT PENSION PLAN AND TRUST
-        Participants: 171
-        Assets: 30681010
-        $/Participant: 179421
-    2018: PROSPECT HILL RADIOLOGY GROUP, P.C. EMPLOYEES DEFINED BENEFIT PENSION PLAN AND TRUST
-        Participants: 171
-        Assets: 28108113
-        $/Participant: 164374
-    2017: PROSPECT HILL RADIOLOGY GROUP, P.C. EMPLOYEES DEFINED BENEFIT PENSION PLAN AND TRUST
-        Participants: 166
-        Assets: 25828741
-        $/Participant: 155594
    [001]
     2022: PROSPECT HILL RADIOLOGY GROUP, P.C. PROFIT SHARING AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 246
         Assets: 70954578
         $/Participant: 288433
@@ -24,6 +11,8 @@ NY : SYRACUSE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST VIII
     2021: PROSPECT HILL RADIOLOGY GROUP, P.C. PROFIT SHARING AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 234
         Assets: 84183415
         $/Participant: 359758
@@ -31,6 +20,8 @@ NY : SYRACUSE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST VIII
     2020: PROSPECT HILL RADIOLOGY GROUP, P.C. PROFIT SHARING AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 218
         Assets: 59863539
         $/Participant: 274603
@@ -39,6 +30,8 @@ NY : SYRACUSE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST VIII
     2019: PROSPECT HILL RADIOLOGY GROUP, P.C. PROFIT SHARING AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 215
         Assets: 48137746
         $/Participant: 223896
@@ -47,6 +40,8 @@ NY : SYRACUSE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST VIII
     2018: PROSPECT HILL RADIOLOGY GROUP, P.C. PROFIT SHARING AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 212
         Assets: 39291267
         $/Participant: 185336
@@ -54,9 +49,34 @@ NY : SYRACUSE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST VIII
     2017: PROSPECT HILL RADIOLOGY GROUP, P.C. PROFIT SHARING AND RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H 
         Participants: 184
         Assets: 39136568
         $/Participant: 212698
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SVGS TRUST VIII
+   [003]
+    2020: PROSPECT HILL RADIOLOGY GROUP, P.C. EMPLOYEES DEFINED BENEFIT PENSION PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A1C3H3D1I1H 
+        Participants: 0
+    2019: PROSPECT HILL RADIOLOGY GROUP, P.C. EMPLOYEES DEFINED BENEFIT PENSION PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A1C3H 
+        Participants: 171
+        Assets: 30681010
+        $/Participant: 179421
+    2018: PROSPECT HILL RADIOLOGY GROUP, P.C. EMPLOYEES DEFINED BENEFIT PENSION PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A1C3H 
+        Participants: 171
+        Assets: 28108113
+        $/Participant: 164374
+    2017: PROSPECT HILL RADIOLOGY GROUP, P.C. EMPLOYEES DEFINED BENEFIT PENSION PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A1C3H 
+        Participants: 166
+        Assets: 25828741
+        $/Participant: 155594

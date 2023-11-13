@@ -1,24 +1,8 @@
 WI : APPLETON
   PRIMARY CARE ASSOCIATES OF APPLETON LTD  391988565
-   [503]
-    2022: PRIMARY CARE ASSOCIATES OF APPLETON LTD WRAP PLAN
-        Participants: 
-    2021: PRIMARY CARE ASSOCIATES OF APPLETON LTD WRAP PLAN
-        Participants: 
-    2020: PRIMARY CARE ASSOCIATES OF APPLETON LTD WRAP PLAN
-        Participants: 
-    2019: PRIMARY CARE ASSOCIATES OF APPLETON LTD WRAP PLAN
-        Participants: 
-    2018: PRIMARY CARE ASSOCIATES OF APPLETON LTD WRAP PLAN
-        Participants: 
-   [502]
-    2017: PRIMARY CARE ASSOCIATES OF APPLETON LTD LIFE AND DISABILITY PLAN
-        Participants: 
-   [501]
-    2017: PRIMARY CARE ASSOCIATES OF APPLETON LTD DENTAL PLAN
-        Participants: 
-   [001]
     2022: PRIMARY CARE ASSOCIATES OF APPLETON, LTD. EMPLOYEES 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D 
         Participants: 193
         Assets: 41409892
         $/Participant: 214559
@@ -27,6 +11,8 @@ WI : APPLETON
            - SEI TRUST COMPANY
                  : GALLIARD STABLE RETURN FUND C
     2021: PRIMARY CARE ASSOCIATES OF APPLETON, LTD. EMPLOYEES 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D 
         Participants: 186
         Assets: 49193487
         $/Participant: 264481
@@ -35,6 +21,8 @@ WI : APPLETON
            - WELLS FARGO BANK N.A.
                  : WELLS FARGO STABLE RETURN FUND C
     2020: PRIMARY CARE ASSOCIATES OF APPLETON, LTD. EMPLOYEES 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D 
         Participants: 179
         Assets: 42695792
         $/Participant: 238523
@@ -43,6 +31,8 @@ WI : APPLETON
            - WELLS FARGO BANK N.A.
                  : WELLS FARGO STABLE RETURN FUND C
     2019: PRIMARY CARE ASSOCIATES OF APPLETON, LTD. EMPLOYEES 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D 
         Participants: 168
         Assets: 35068097
         $/Participant: 208738
@@ -53,6 +43,8 @@ WI : APPLETON
            - WELLS FARGO BANK N.A.
                  : WELLS FARGO STABLE RETURN FUND M
     2018: PRIMARY CARE ASSOCIATES OF APPLETON, LTD. EMPLOYEES 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D 
         Participants: 161
         Assets: 27429622
         $/Participant: 170370
@@ -61,6 +53,8 @@ WI : APPLETON
            - WELLS FARGO BANK MINNESOTA N.A.
                  : WELLS FARGO STABLE RETURN FUND M
     2017: PRIMARY CARE ASSOCIATES OF APPLETON, LTD. EMPLOYEES 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2S2T3D 
         Participants: 157
         Assets: 27684692
         $/Participant: 176335
@@ -68,3 +62,34 @@ WI : APPLETON
         Available Investments:
            - WELLS FARGO BANK MINNESOTA N.A.
                  : WELLS FARGO STABLE RETURN FUND M
+   [503]
+    2022: PRIMARY CARE ASSOCIATES OF APPLETON LTD WRAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2021: PRIMARY CARE ASSOCIATES OF APPLETON LTD WRAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: PRIMARY CARE ASSOCIATES OF APPLETON LTD WRAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: PRIMARY CARE ASSOCIATES OF APPLETON LTD WRAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2018: PRIMARY CARE ASSOCIATES OF APPLETON LTD WRAP PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+   [501]
+    2017: PRIMARY CARE ASSOCIATES OF APPLETON LTD DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+   [502]
+    2017: PRIMARY CARE ASSOCIATES OF APPLETON LTD LIFE AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4Q
+        Participants: 

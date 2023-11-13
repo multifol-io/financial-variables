@@ -1,38 +1,9 @@
 NC : CHARLOTTE
   NUCOR CORPORATION  131860817
-   [502]
-    2022: NUCOR CORPORATION GROUP LIFE & HEALTH INSURANCE PLAN FOR ALL EMPLOYEES
-        Participants: 
-        Assets: 53982563
-        $/Participant: 
-        RecordKeeper: WAGEWORKS
-    2021: NUCOR CORPORATION GROUP LIFE & HEALTH INSURANCE PLAN FOR ALL EMPLOYEES
-        Participants: 
-        Assets: 33398944
-        $/Participant: 
-        RecordKeeper: PAYFLEX
-    2020: NUCOR CORPORATION GROUP LIFE & HEALTH INSURANCE PLAN FOR ALL EMPLOYEES
-        Participants: 
-        Assets: 29570178
-        $/Participant: 
-        RecordKeeper: PAYFLEX
-    2019: NUCOR CORPORATION GROUP LIFE & HEALTH INSURANCE PLAN FOR ALL EMPLOYEES
-        Participants: 
-        Assets: 27643482
-        $/Participant: 
-        RecordKeeper: PAYFLEX
-    2018: NUCOR CORPORATION GROUP LIFE & HEALTH INSURANCE PLAN FOR ALL EMPLOYEES
-        Participants: 
-        Assets: 24889315
-        $/Participant: 
-        RecordKeeper: COMMUNITY INSURANCE COMPANY
-    2017: NUCOR CORPORATION GROUP LIFE & HEALTH INSURANCE PLAN FOR ALL EMPLOYEES
-        Participants: 
-        Assets: 22678388
-        $/Participant: 
-        RecordKeeper: PAYFLEX
    [334]
     2022: NUCOR CORPORATION PROFIT SHARING AND RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2J2T3F3H2E2G2R 
         Participants: 29522
         Assets: 6904286956
         $/Participant: 233869
@@ -67,6 +38,8 @@ NC : CHARLOTTE
                  : AS SPL MD CAP VAL E2
                  : WF SPECIAL MID CAP VALUE CIT
     2021: NUCOR CORPORATION PROFIT SHARING AND RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2T3F3H2E2R 
         Participants: 25718
         Assets: 7525494067
         $/Participant: 292615
@@ -97,6 +70,8 @@ NC : CHARLOTTE
            - WELLS FARGO BANK, N.A.
                  : WF SPECIAL MID CAP VALUE CIT
     2020: NUCOR CORPORATION PROFIT SHARING AND RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2T3F3H2E2R 
         Participants: 22232
         Assets: 5612130009
         $/Participant: 252434
@@ -129,6 +104,8 @@ NC : CHARLOTTE
            - WELLS FARGO BANK, N.A.
                  : WF SPECIAL MID CAP VALUE CIT
     2019: NUCOR CORPORATION PROFIT SHARING AND RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2R2T3F3H2E 
         Participants: 21028
         Assets: 4910107418
         $/Participant: 233503
@@ -156,6 +133,8 @@ NC : CHARLOTTE
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VAL M
     2018: NUCOR CORPORATION PROFIT SHARING AND RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 3H2E2G2J2R2T3F 
         Participants: 20078
         Assets: 4028998779
         $/Participant: 200667
@@ -183,6 +162,8 @@ NC : CHARLOTTE
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VAL M
     2017: NUCOR CORPORATION PROFIT SHARING AND RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2R2T3F3H 
         Participants: 18628
         Assets: 4164377238
         $/Participant: 223554
@@ -210,26 +191,81 @@ NC : CHARLOTTE
                  : MELLON STABLE VAL M
    [003]
     2022: NUCOR CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O3F3I2I 
         Participants: 522
         Assets: 21615176
         $/Participant: 41408
     2021: NUCOR CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O3F3I2I 
         Participants: 571
         Assets: 28890195
         $/Participant: 50595
     2020: NUCOR CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O3F3I 
         Participants: 607
         Assets: 18146875
         $/Participant: 29896
     2019: NUCOR CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O3F3I 
         Participants: 681
         Assets: 21273658
         $/Participant: 31238
     2018: NUCOR CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O3F3I2I 
         Participants: 718
         Assets: 22634864
         $/Participant: 31524
     2017: NUCOR CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O3F3I 
         Participants: 859
         Assets: 36297512
         $/Participant: 42255
+   [502]
+    2022: NUCOR CORPORATION GROUP LIFE & HEALTH INSURANCE PLAN FOR ALL EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
+        Participants: 
+        Assets: 53982563
+        $/Participant: 
+        RecordKeeper: WAGEWORKS
+    2021: NUCOR CORPORATION GROUP LIFE & HEALTH INSURANCE PLAN FOR ALL EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
+        Participants: 
+        Assets: 33398944
+        $/Participant: 
+        RecordKeeper: PAYFLEX
+    2020: NUCOR CORPORATION GROUP LIFE & HEALTH INSURANCE PLAN FOR ALL EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
+        Participants: 
+        Assets: 29570178
+        $/Participant: 
+        RecordKeeper: PAYFLEX
+    2019: NUCOR CORPORATION GROUP LIFE & HEALTH INSURANCE PLAN FOR ALL EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
+        Participants: 
+        Assets: 27643482
+        $/Participant: 
+        RecordKeeper: PAYFLEX
+    2018: NUCOR CORPORATION GROUP LIFE & HEALTH INSURANCE PLAN FOR ALL EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
+        Participants: 
+        Assets: 24889315
+        $/Participant: 
+        RecordKeeper: COMMUNITY INSURANCE COMPANY
+    2017: NUCOR CORPORATION GROUP LIFE & HEALTH INSURANCE PLAN FOR ALL EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
+        Participants: 
+        Assets: 22678388
+        $/Participant: 
+        RecordKeeper: PAYFLEX

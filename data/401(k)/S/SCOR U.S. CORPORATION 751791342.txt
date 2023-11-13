@@ -1,96 +1,9 @@
-NY : NEW YORK CITY
+NY : NEW YORK
   SCOR U.S. CORPORATION  751791342
-   [519]
-    2022: SCOR U.S. CORPORATION MEDICAL PLAN
-        Participants: 
-NY : NEW YORK
-    2021: SCOR U.S. CORPORATION MEDICAL PLAN
-        Participants: 
-    2020: SCOR U.S. CORPORATION MEDICAL PLAN
-        Participants: 
-    2019: SCOR U.S. CORPORATION MEDICAL PLAN
-        Participants: 
-    2018: SCOR U.S. CORPORATION MEDICAL PLAN
-        Participants: 
-    2017: SCOR U.S. CORPORATION MEDICAL PLAN
-        Participants: 
-NY : NEW YORK CITY
-   [518]
-    2022: SCOR U.S. CORPORATION DENTAL PLAN
-        Participants: 
-NY : NEW YORK
-    2021: SCOR U.S. CORPORATION DENTAL PLAN
-        Participants: 
-    2020: SCOR U.S. CORPORATION DENTAL PLAN
-        Participants: 
-    2019: SCOR U.S. CORPORATION DENTAL PLAN
-        Participants: 
-    2018: SCOR U.S. CORPORATION DENTAL PLAN
-        Participants: 
-    2017: SCOR U.S. CORPORATION DENTAL PLAN
-        Participants: 
-NY : NEW YORK CITY
-   [517]
-    2022: SCOR U.S. CORPORATION SHORT-TERM DISABILITY PLAN
-        Participants: 
-NY : NEW YORK
-    2021: SCOR U.S. CORPORATION SHORT-TERM DISABILITY PLAN
-        Participants: 
-    2020: SCOR U.S. CORPORATION SHORT-TERM DISABILITY PLAN
-        Participants: 
-    2019: SCOR U.S. CORPORATION SHORT-TERM DISABILITY PLAN
-        Participants: 
-    2018: SCOR U.S. CORPORATION SHORT-TERM DISABILITY PLAN
-        Participants: 
-    2017: SCOR U.S. CORPORATION SHORT-TERM DISABILITY PLAN
-        Participants: 
-NY : NEW YORK CITY
-   [515]
-    2022: SCOR U.S. CORP. GROUP LIFE & AD&D
-        Participants: 
-NY : NEW YORK
-    2021: SCOR U.S. CORP. GROUP LIFE & AD&D
-        Participants: 
-    2020: SCOR U.S. CORP. GROUP LIFE & AD&D
-        Participants: 
-    2019: SCOR U.S. CORP. GROUP LIFE & AD&D
-        Participants: 
-    2018: SCOR U.S. CORP. GROUP LIFE & AD&D
-        Participants: 
-    2017: SCOR U.S. CORP. GROUP LIFE & AD&D
-        Participants: 
-NY : NEW YORK CITY
-   [514]
-    2022: SCOR U.S. CORPORATION TRAVEL ACCIDENT INSURANCE PLAN
-        Participants: 
-NY : NEW YORK
-    2021: SCOR U.S. CORPORATION TRAVEL ACCIDENT INSURANCE PLAN
-        Participants: 
-    2020: SCOR U.S. CORPORATION TRAVEL ACCIDENT INSURANCE PLAN
-        Participants: 
-    2019: SCOR U.S. CORPORATION TRAVEL ACCIDENT INSURANCE PLAN
-        Participants: 
-    2018: SCOR U.S. CORPORATION TRAVEL ACCIDENT INSURANCE PLAN
-        Participants: 
-    2017: SCOR U.S. CORPORATION TRAVEL ACCIDENT INSURANCE PLAN
-        Participants: 
-NY : NEW YORK CITY
-   [512]
-    2022: SCOR U.S. CORP. LONG TERM DISABILITY PLAN
-        Participants: 
-NY : NEW YORK
-    2021: SCOR U.S. CORP. LONG TERM DISABILITY PLAN
-        Participants: 
-    2020: SCOR U.S. CORP. LONG TERM DISABILITY PLAN
-        Participants: 
-    2019: SCOR U.S. CORP. LONG TERM DISABILITY PLAN
-        Participants: 
-    2018: SCOR U.S. CORP. LONG TERM DISABILITY PLAN
-        Participants: 
-    2017: SCOR U.S. CORP. LONG TERM DISABILITY PLAN
-        Participants: 
    [002]
     2022: SCOR U.S. GROUP RETIREMENT AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 3H3D2R2E2F2G2J2K2T 
         Participants: 942
         Assets: 238477209
         $/Participant: 253160
@@ -99,6 +12,8 @@ NY : NEW YORK
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
     2021: SCOR U.S. GROUP RETIREMENT AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H3D2R 
         Participants: 943
         Assets: 295752438
         $/Participant: 313629
@@ -107,6 +22,8 @@ NY : NEW YORK
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
     2020: SCOR U.S. GROUP RETIREMENT AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H3D2R 
         Participants: 897
         Assets: 251271414
         $/Participant: 280124
@@ -115,6 +32,8 @@ NY : NEW YORK
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
     2019: SCOR U.S. GROUP RETIREMENT AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D3H 
         Participants: 886
         Assets: 202060474
         $/Participant: 228059
@@ -123,6 +42,8 @@ NY : NEW YORK
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
     2018: SCOR U.S. GROUP RETIREMENT AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D3H 
         Participants: 832
         Assets: 157134506
         $/Participant: 188863
@@ -131,6 +52,8 @@ NY : NEW YORK
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
     2017: SCOR U.S. GROUP RETIREMENT AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T3D3H2K 
         Participants: 843
         Assets: 160523169
         $/Participant: 190418
@@ -138,8 +61,172 @@ NY : NEW YORK
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
+NY : NEW YORK CITY
+   [519]
+    2022: SCOR U.S. CORPORATION MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4E
+        Participants: 
+NY : NEW YORK
+    2021: SCOR U.S. CORPORATION MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4E
+        Participants: 
+    2020: SCOR U.S. CORPORATION MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4E
+        Participants: 
+    2019: SCOR U.S. CORPORATION MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4E
+        Participants: 
+    2018: SCOR U.S. CORPORATION MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4E
+        Participants: 
+    2017: SCOR U.S. CORPORATION MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4E
+        Participants: 
+NY : NEW YORK CITY
+   [512]
+    2022: SCOR U.S. CORP. LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+NY : NEW YORK
+    2021: SCOR U.S. CORP. LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2020: SCOR U.S. CORP. LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2019: SCOR U.S. CORP. LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2018: SCOR U.S. CORP. LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2017: SCOR U.S. CORP. LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+NY : NEW YORK CITY
+   [514]
+    2022: SCOR U.S. CORPORATION TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+NY : NEW YORK
+    2021: SCOR U.S. CORPORATION TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2020: SCOR U.S. CORPORATION TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2019: SCOR U.S. CORPORATION TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2018: SCOR U.S. CORPORATION TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+    2017: SCOR U.S. CORPORATION TRAVEL ACCIDENT INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4L
+        Participants: 
+NY : NEW YORK CITY
+   [515]
+    2022: SCOR U.S. CORP. GROUP LIFE & AD&D
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+NY : NEW YORK
+    2021: SCOR U.S. CORP. GROUP LIFE & AD&D
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2020: SCOR U.S. CORP. GROUP LIFE & AD&D
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2019: SCOR U.S. CORP. GROUP LIFE & AD&D
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2018: SCOR U.S. CORP. GROUP LIFE & AD&D
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2017: SCOR U.S. CORP. GROUP LIFE & AD&D
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+NY : NEW YORK CITY
+   [517]
+    2022: SCOR U.S. CORPORATION SHORT-TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+NY : NEW YORK
+    2021: SCOR U.S. CORPORATION SHORT-TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+    2020: SCOR U.S. CORPORATION SHORT-TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+    2019: SCOR U.S. CORPORATION SHORT-TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+    2018: SCOR U.S. CORPORATION SHORT-TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+    2017: SCOR U.S. CORPORATION SHORT-TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+NY : NEW YORK CITY
+   [518]
+    2022: SCOR U.S. CORPORATION DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+NY : NEW YORK
+    2021: SCOR U.S. CORPORATION DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2020: SCOR U.S. CORPORATION DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2019: SCOR U.S. CORPORATION DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2018: SCOR U.S. CORPORATION DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2017: SCOR U.S. CORPORATION DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
    [001]
     2022: SCOR U.S. GROUP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 354
         Assets: 73120537
         $/Participant: 206555
@@ -148,6 +235,8 @@ NY : NEW YORK
            - FIDUCIARY TRUST COMPANY INTERNATION :  (Trustee(bank, trust company, or similar))
            - MAZARS USA LLP :  (Accounting(including auditing))
     2021: SCOR U.S. GROUP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 359
         Assets: 89888982
         $/Participant: 250387
@@ -155,6 +244,8 @@ NY : NEW YORK
            - THE SEGAL COMPANY :  (Actuarial)
            - FIDUCIARY TRUST COMPANY INTERNATION :  (Trustee(bank, trust company, or similar))
     2020: SCOR U.S. GROUP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 368
         Assets: 77268077
         $/Participant: 209967
@@ -163,6 +254,8 @@ NY : NEW YORK
            - FIDUCIARY TRUST COMPANY INTERNATION :  (Trustee(bank, trust company, or similar))
            - MAZARS USA LLP :  (Accounting(including auditing))
     2019: SCOR U.S. GROUP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 370
         Assets: 65118672
         $/Participant: 175996
@@ -171,6 +264,8 @@ NY : NEW YORK
            - FIDUCIARY TRUST COMPANY INTERNATION :  (Trustee(bank, trust company, or similar))
            - MAZARS USA LLP :  (Accounting(including auditing))
     2018: SCOR U.S. GROUP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 478
         Assets: 66272949
         $/Participant: 138646
@@ -180,6 +275,8 @@ NY : NEW YORK
            - THE SEGAL COMPANY :  (Actuarial)
            - MAZARS USA LLP :  (Accounting(including auditing))
     2017: SCOR U.S. GROUP PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
         Participants: 481
         Assets: 68291066
         $/Participant: 141977

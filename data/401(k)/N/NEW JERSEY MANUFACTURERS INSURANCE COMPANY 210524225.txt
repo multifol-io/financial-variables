@@ -1,62 +1,129 @@
 NJ : WEST TRENTON
   NEW JERSEY MANUFACTURERS INSURANCE COMPANY  210524225
-   [510]
-    2019: NEW JERSEY MANUFACTURERS INSURANCE COMPANY ONSITE MEDICAL CLINIC PLAN
-        Participants: 
-    2018: NEW JERSEY MANUFACTURERS INSURANCE COMPANY ONSITE MEDICAL CLINIC PLAN
-        Participants: 
-    2017: NEW JERSEY MANUFACTURERS INSURANCE COMPANY ONSITE MEDICAL CLINIC PLAN
-        Participants: 
+   [001]
+    2022: NJM 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S3D 
+        Participants: 3386
+        Assets: 698991001
+        $/Participant: 206435
+        RecordKeeper: VANGUARD GROUP INC.
+        Available Investments:
+           - AMERIPRISE TRUST COMPANY
+                 : COLUMBIA TR DIVID INCOME FD INST 1
+    2021: NJM 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S3D 
+        Participants: 3350
+        Assets: 797964140
+        $/Participant: 238198
+        RecordKeeper: VANGUARD GROUP INC.
+        Available Investments:
+           - AMERIPRISE TRUST COMPANY
+                 : COLUMBIA TR DIVID INCOME FD INST 1
+    2020: NJM 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S3D 
+        Participants: 3331
+        Assets: 696777318
+        $/Participant: 209179
+        RecordKeeper: VANGUARD GROUP INC.
+    2019: NJM 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S3D 
+        Participants: 3275
+        Assets: 629694401
+        $/Participant: 192273
+        RecordKeeper: VANGUARD GROUP INC.
+        Available Investments:
+           - NEW YORK LIFE INSURANCE COMPANY
+                 : NYL COLLECTIVE INVESTMENT TRUST
+    2018: NJM 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S3D 
+        Participants: 626
+        Assets: 10755780
+        $/Participant: 17181
+        RecordKeeper: VANGUARD GROUP INC.
+        Available Investments:
+           - METROPOLITAN LIFE INSURANCE COMPANY
+                 : METLIFE SEPARATE ACCOUNT
+           - NEW YORK LIFE INSURANCE COMPANY
+                 : NYL COLLECTIVE INVESTMENT TRUST
+    2017: NJM 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S3D 
+        Participants: 494
+        Assets: 7497135
+        $/Participant: 15176
+        RecordKeeper: VANGUARD GROUP INC.
+        Available Investments:
+           - METROPOLITAN LIFE INSURANCE COMPANY
+                 : METLIFE SEPARATE ACCOUNT
+           - NEW YORK LIFE INSURANCE COMPANY
+                 : NYL COLLECTIVE INVESTMENT TRUST
+           - PRUDENTIAL TRUST COMPANY
+                 : PRUDENTIAL CORE CONSERVATIVE INT BD
    [509]
     2022: COMPREHENSIVE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
         Participants: 
         Service Providers:
            - HORIZON HEALTHCARE SERVICES, INC : CONTRACT ADMIN (Contract Administrator)
            - DELTA DENTAL OF NJ, INC : CONTRACT ADMIN (Contract Administrator)
            - WAGEWORKS, INC : CONTRACT ADMIN (Contract Administrator)
     2021: COMPREHENSIVE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
         Participants: 
         Service Providers:
            - HORIZON HEALTHCARE SERVICES, INC : CONTRACT ADMIN (Contract Administrator)
            - DELTA DENTAL OF NJ, INC : CONTRACT ADMIN (Contract Administrator)
            - WAGEWORKS, INC : CONTRACT ADMIN (Contract Administrator)
     2020: COMPREHENSIVE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
         Participants: 
         Service Providers:
            - HORIZON HEALTHCARE SERVICES, INC : CONTRACT ADMIN (Contract Administrator)
            - DELTA DENTAL OF NJ, INC : CONTRACT ADMIN (Contract Administrator)
            - WAGEWORKS, INC : CONTRACT ADMIN (Contract Administrator)
     2019: COMPREHENSIVE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
         Participants: 
         Service Providers:
            - HORIZON HEALTHCARE SERVICES, INC : CONTRACT ADMIN (Contract Administrator)
            - DELTA DENTAL OF NJ, INC : CONTRACT ADMIN (Contract Administrator)
            - WAGEWORKS, INC : CONTRACT ADMIN (Contract Administrator)
     2018: COMPREHENSIVE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
         Participants: 
         Service Providers:
            - HORIZON HEALTHCARE SERVICES, INC : CONTRACT ADMIN (Contract Administrator)
            - DELTA DENTAL OF NJ, INC : CONTRACT ADMIN (Contract Administrator)
            - WAGEWORKS, INC : CONTRACT ADMIN (Contract Administrator)
     2017: COMPREHENSIVE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H
         Participants: 
         Service Providers:
            - HORIZON HEALTHCARE SERVICES, INC : CONTRACT ADMIN (Contract Administrator)
            - DELTA DENTAL OF NJ, INC : CONTRACT ADMIN (Contract Administrator)
-   [508]
-    2017: NJM FLEXIBLE SPENDING AND MATCHING PLAN
-        Participants: 
-   [506]
-    2017: NJM SUPPLEMENT RETIREMENT INCOME PLAN
-        Participants: 
    [334]
     2019: NJM EMPLOYEE SAVINGS FUND PLAN
+        Benefit Category: Other
+        Codes: 2G2K2E 
         Participants: 0
         RecordKeeper: VANGUARD GROUP INC.
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : NY LIFE COLLECTIVE INVESTMENT TRUST
     2018: NJM EMPLOYEE SAVINGS FUND PLAN
+        Benefit Category: Other
+        Codes: 2G2K2E 
         Participants: 2546
         Assets: 542043939
         $/Participant: 212900
@@ -67,6 +134,8 @@ NJ : WEST TRENTON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : NY LIFE COLLECTIVE INVESTMENT TRUST
     2017: NJM EMPLOYEE SAVINGS FUND PLAN
+        Benefit Category: Other
+        Codes: 2G2K2E 
         Participants: 2697
         Assets: 579247336
         $/Participant: 214774
@@ -77,8 +146,33 @@ NJ : WEST TRENTON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : NY LIFE COLLECTIVE INVESTMENT TRUST
                  : PRUDENTIAL CORE CONSERV INT BND
+   [506]
+    2017: NJM SUPPLEMENT RETIREMENT INCOME PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+   [508]
+    2017: NJM FLEXIBLE SPENDING AND MATCHING PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+   [510]
+    2019: NEW JERSEY MANUFACTURERS INSURANCE COMPANY ONSITE MEDICAL CLINIC PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2018: NEW JERSEY MANUFACTURERS INSURANCE COMPANY ONSITE MEDICAL CLINIC PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
+    2017: NEW JERSEY MANUFACTURERS INSURANCE COMPANY ONSITE MEDICAL CLINIC PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 
    [333]
     2021: NEW JERSEY MANUFACTURERS INSURANCE COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 3430
         Assets: 797016734
         $/Participant: 232366
@@ -103,6 +197,8 @@ NJ : WEST TRENTON
                  : METLIFE BLOOMBERG BARCLAYS US STRIP
                  : METROPOLITAN INDEX FUND MI
     2020: NEW JERSEY MANUFACTURERS INSURANCE COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 3457
         Assets: 929935251
         $/Participant: 269000
@@ -131,6 +227,8 @@ NJ : WEST TRENTON
                  : METLIFE BLOOMBERG BARCLAYS US STRIP
                  : METROPOLITAN INDEX FUND MI
     2019: NEW JERSEY MANUFACTURERS INSURANCE COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 3488
         Assets: 821222198
         $/Participant: 235442
@@ -156,6 +254,8 @@ NJ : WEST TRENTON
                  : METLIFE BLOOMBERG BARCLAYS US STRIP
                  : METROPOLITAN INDEX FUND MI
     2018: NEW JERSEY MANUFACTURERS INSURANCE COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 3525
         Assets: 789841348
         $/Participant: 224068
@@ -167,6 +267,8 @@ NJ : WEST TRENTON
                  : GRP ANNTY BOND LONG DURA SEP ACCT
                  : GRP ANNTY BOND SHORT DURA SEP ACCT
     2017: NEW JERSEY MANUFACTURERS INSURANCE COMPANY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 3553
         Assets: 720292727
         $/Participant: 202728
@@ -177,55 +279,3 @@ NJ : WEST TRENTON
                  : GRP ANNTY BOND INDEX SEP ACCOUNT
                  : GRP ANNTY BOND LONG DURA SEP ACCT
                  : GRP ANNTY BOND SHORT DURA SEP ACCT
-   [001]
-    2022: NJM 401(K) RETIREMENT PLAN
-        Participants: 3386
-        Assets: 698991001
-        $/Participant: 206435
-        RecordKeeper: VANGUARD GROUP INC.
-        Available Investments:
-           - AMERIPRISE TRUST COMPANY
-                 : COLUMBIA TR DIVID INCOME FD INST 1
-    2021: NJM 401(K) RETIREMENT PLAN
-        Participants: 3350
-        Assets: 797964140
-        $/Participant: 238198
-        RecordKeeper: VANGUARD GROUP INC.
-        Available Investments:
-           - AMERIPRISE TRUST COMPANY
-                 : COLUMBIA TR DIVID INCOME FD INST 1
-    2020: NJM 401(K) RETIREMENT PLAN
-        Participants: 3331
-        Assets: 696777318
-        $/Participant: 209179
-        RecordKeeper: VANGUARD GROUP INC.
-    2019: NJM 401(K) RETIREMENT PLAN
-        Participants: 3275
-        Assets: 629694401
-        $/Participant: 192273
-        RecordKeeper: VANGUARD GROUP INC.
-        Available Investments:
-           - NEW YORK LIFE INSURANCE COMPANY
-                 : NYL COLLECTIVE INVESTMENT TRUST
-    2018: NJM 401(K) RETIREMENT PLAN
-        Participants: 626
-        Assets: 10755780
-        $/Participant: 17181
-        RecordKeeper: VANGUARD GROUP INC.
-        Available Investments:
-           - METROPOLITAN LIFE INSURANCE COMPANY
-                 : METLIFE SEPARATE ACCOUNT
-           - NEW YORK LIFE INSURANCE COMPANY
-                 : NYL COLLECTIVE INVESTMENT TRUST
-    2017: NJM 401(K) RETIREMENT PLAN
-        Participants: 494
-        Assets: 7497135
-        $/Participant: 15176
-        RecordKeeper: VANGUARD GROUP INC.
-        Available Investments:
-           - METROPOLITAN LIFE INSURANCE COMPANY
-                 : METLIFE SEPARATE ACCOUNT
-           - NEW YORK LIFE INSURANCE COMPANY
-                 : NYL COLLECTIVE INVESTMENT TRUST
-           - PRUDENTIAL TRUST COMPANY
-                 : PRUDENTIAL CORE CONSERVATIVE INT BD

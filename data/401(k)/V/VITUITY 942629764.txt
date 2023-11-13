@@ -1,23 +1,9 @@
 CA : EMERYVILLE
-  MEDAMERICA, INC.  942629764
-   [505]
-    2017: MEDAMERICA LONG TERM DISABILITY AND LIFE INSURANCE PLAN
-        Participants: 
-   [503]
-    2021: MEDAMERICA HEALTH CARE PLAN
-        Participants: 
-        RecordKeeper: INGENIOU RX
-    2020: MEDAMERICA HEALTH CARE PLAN
-        Participants: 
-        RecordKeeper: INGENIOU RX
-    2019: MEDAMERICA HEALTH CARE PLAN
-        Participants: 
-        RecordKeeper: EXPRESS SCRIPTS
-    2017: MEDAMERICA HEALTH CARE PLAN
-        Participants: 
-        RecordKeeper: ANTHEM BLUE CROSS LIFE AND HEALTH
+  VITUITY  942629764
    [013]
     2022: 401(K) PROFIT SHARING PLAN FOR EMPLOYEES OF MEDAMERICA, INC.
+        Benefit Category: 401(k)
+        Codes: 3B3H2E2G2J2K2R 
         Participants: 6232
         Assets: 1357674105
         $/Participant: 217855
@@ -25,6 +11,8 @@ CA : EMERYVILLE
            - MEDAMERICA : PLAN ADMINISTRATOR (Plan Administrator)
            - SCHWAB RETIREMENT PLAN SERVICES : TRUSTEE (Trustee(bank, trust company, or similar))
     2021: 401(K) PROFIT SHARING PLAN FOR EMPLOYEES OF MEDAMERICA, INC.
+        Benefit Category: 401(k)
+        Codes: 3B3H2E2G2J2K2R 
         Participants: 5695
         Assets: 1561146322
         $/Participant: 274125
@@ -32,6 +20,8 @@ CA : EMERYVILLE
            - MEDAMERICA : PLAN ADMINISTRATOR (Plan Administrator)
            - SCHWAB RETIREMENT PLAN SERVICES : TRUSTEE (Trustee(bank, trust company, or similar))
     2020: 401K PROFIT SHARING PLAN FOR EMPLOYEES OF MEDAMERICA, INC.
+        Benefit Category: 401(k)
+        Codes: 3B3H2E2G2J2K2R 
         Participants: 5472
         Assets: 1365727741
         $/Participant: 249584
@@ -39,6 +29,8 @@ CA : EMERYVILLE
            - SCHWAB RETIREMENT PLAN SERVICES : TRUSTEE (Trustee(bank, trust company, or similar))
            - MEDAMERICA : PLAN ADMINISTRATOR (Plan Administrator)
     2019: 401K PROFIT SHARING PLAN FOR EMPLOYEES OF MEDAMERICA
+        Benefit Category: 401(k)
+        Codes: 3B3H2E2G2J2K2R 
         Participants: 5393
         Assets: 1201318426
         $/Participant: 222755
@@ -46,9 +38,37 @@ CA : EMERYVILLE
            - SCHWAB RETIREMENT PLAN SERVICES : TRUSTEE (Trustee(bank, trust company, or similar))
            - MEDAMERICA FINANCIAL SERVICES : PLAN ADMINISTRATOR (Plan Administrator)
     2017: 401K PROF SHARING PLAN FOR EMPLOYEES OF MEDAMERICA INC.
+        Benefit Category: 401(k)
+        Codes: 3B3H2E2G2J2K2R 
         Participants: 5053
         Assets: 1000566082
         $/Participant: 198014
         Service Providers:
            - SCHWAB RETIREMENT PLAN SERVICES : TRUSTEE (Trustee(bank, trust company, or similar))
            - MEDAMERICA FINANCIAL SERVICES : PLAN ADMINISTRATOR (Plan Administrator)
+   [503]
+    2021: MEDAMERICA HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 
+        RecordKeeper: INGENIOU RX
+    2020: MEDAMERICA HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 
+        RecordKeeper: INGENIOU RX
+    2019: MEDAMERICA HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 
+        RecordKeeper: EXPRESS SCRIPTS
+    2017: MEDAMERICA HEALTH CARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 
+        RecordKeeper: ANTHEM BLUE CROSS LIFE AND HEALTH
+   [505]
+    2017: MEDAMERICA LONG TERM DISABILITY AND LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4H
+        Participants: 

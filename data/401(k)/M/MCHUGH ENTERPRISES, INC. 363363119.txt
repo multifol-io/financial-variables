@@ -1,20 +1,9 @@
 IL : CHICAGO
   MCHUGH ENTERPRISES, INC.  363363119
-   [501]
-    2022: MCHUGH ENTERPRISES, INC. EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2021: MCHUGH ENTERPRISES, INC. EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2020: MCHUGH ENTERPRISES, INC. EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2019: MCHUGH ENTERPRISES, INC. EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2018: MCHUGH ENTERPRISES, INC. EMPLOYEE BENEFITS PLAN
-        Participants: 
-    2017: MCHUGH ENTERPRISES, INC. EMPLOYEE BENEFITS PLAN
-        Participants: 
    [003]
     2022: MCHUGH ENTERPRISES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3D3H2E 
         Participants: 259
         Assets: 30565619
         $/Participant: 118013
@@ -23,6 +12,8 @@ IL : CHICAGO
            - SEI TRUST COMPANY
                  : GALLIARD STABLE RETURN FUND CLASS C
     2021: MCHUGH ENTERPRISES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3D3H2E 
         Participants: 260
         Assets: 41671086
         $/Participant: 160273
@@ -31,6 +22,8 @@ IL : CHICAGO
            - WELLS FARGO BANK, N.A.
                  : GALLIARD STABLE RETURN FUND CLASS C
     2020: MCHUGH ENTERPRISES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3D3H2E 
         Participants: 282
         Assets: 41810204
         $/Participant: 148263
@@ -39,6 +32,8 @@ IL : CHICAGO
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE RETURN FUND CLAS
     2019: MCHUGH ENTERPRISES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3D3H2R2E 
         Participants: 298
         Assets: 40571006
         $/Participant: 136144
@@ -48,6 +43,8 @@ IL : CHICAGO
                  : WELLS FARGO STABLE RETURN FUND C
                  : WELLS FARGO STABLE RETURN FUND O
     2018: MCHUGH ENTERPRISES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3D3H2R2E 
         Participants: 286
         Assets: 34595161
         $/Participant: 120962
@@ -56,6 +53,8 @@ IL : CHICAGO
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE RETURN FUND O
     2017: MCHUGH ENTERPRISES, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3D3H2R2E 
         Participants: 283
         Assets: 28721062
         $/Participant: 101487
@@ -66,12 +65,45 @@ IL : CHICAGO
                  : WELLS FARGO STABLE RETURN FUND O
    [002]
     2020: MCHUGH ENTERPRISES, INC. EMP. STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2O2Q 
         Participants: 6
     2019: MCHUGH ENTERPRISES, INC. EMP. STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2O2Q 
         Participants: 8
     2018: MCHUGH ENTERPRISES, INC. EMP. STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2O2Q 
         Participants: 13
     2017: MCHUGH ENTERPRISES, INC. EMP. STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2E2O 
         Participants: 32
         Assets: 15383751
         $/Participant: 480742
+   [501]
+    2022: MCHUGH ENTERPRISES, INC. EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2021: MCHUGH ENTERPRISES, INC. EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2020: MCHUGH ENTERPRISES, INC. EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2019: MCHUGH ENTERPRISES, INC. EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2018: MCHUGH ENTERPRISES, INC. EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2017: MCHUGH ENTERPRISES, INC. EMPLOYEE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 

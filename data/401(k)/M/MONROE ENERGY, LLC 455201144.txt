@@ -1,33 +1,8 @@
 PA : TRAINER
   MONROE ENERGY, LLC  455201144
-   [502]
-    2022: MONROE ENERGY, LLC HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: MONROE ENERGY, LLC HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: MONROE ENERGY, LLC HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: MONROE ENERGY, LLC HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: MONROE ENERGY, LLC HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: MONROE ENERGY, LLC HEALTH AND WELFARE PLAN
-        Participants: 
-   [501]
-    2022: MONROE ENERGY, LLC MEDICAL PLAN
-        Participants: 
-    2021: MONROE ENERGY, LLC MEDICAL PLAN
-        Participants: 
-    2020: MONROE ENERGY, LLC MEDICAL PLAN
-        Participants: 
-    2019: MONROE ENERGY, LLC MEDICAL PLAN
-        Participants: 
-    2018: MONROE ENERGY, LLC MEDICAL PLAN
-        Participants: 
-    2017: MONROE ENERGY, LLC MEDICAL PLAN
-        Participants: 
-   [001]
     2022: MONROE ENERGY RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3B3H3D2R 
         Participants: 583
         Assets: 124328296
         $/Participant: 213256
@@ -36,6 +11,8 @@ PA : TRAINER
            - WILMINGTON TRUST FIDUCIARY SERVICES
                  : WT G RETIRE INC F35
     2021: MONROE ENERGY RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3B3H3D2R 
         Participants: 546
         Assets: 143379096
         $/Participant: 262599
@@ -44,6 +21,8 @@ PA : TRAINER
            - WILMINGTON TRUST FIDUCIARY SERVICES
                  : WT G RETIRE INC F35
     2020: MONROE ENERGY RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3B3H3D2R 
         Participants: 565
         Assets: 115581109
         $/Participant: 204568
@@ -52,6 +31,8 @@ PA : TRAINER
            - WILMINGTON TRUST FIDUCIARY SERVICES
                  : WT G RETIRE INC F35
     2019: MONROE ENERGY RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3B3D3H 
         Participants: 540
         Assets: 94092874
         $/Participant: 174246
@@ -60,6 +41,8 @@ PA : TRAINER
            - WILMINGTON TRUST FIDUCIARY SERVICES
                  : WT G RETIRE INC F35
     2018: MONROE ENERGY RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3B3D3H 
         Participants: 526
         Assets: 69858704
         $/Participant: 132811
@@ -68,6 +51,8 @@ PA : TRAINER
            - WILMINGTON TRUST FIDUCIARY SERVICES
                  : WT G RETIRE INC F35
     2017: MONROE ENERGY RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3B3D3H 
         Participants: 520
         Assets: 63624255
         $/Participant: 122354
@@ -75,3 +60,53 @@ PA : TRAINER
         Available Investments:
            - WILMINGTON TRUST FIDUCIARY SERVICES
                  : WT G RETIRE INC F35
+   [501]
+    2022: MONROE ENERGY, LLC MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4E
+        Participants: 
+    2021: MONROE ENERGY, LLC MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4E
+        Participants: 
+    2020: MONROE ENERGY, LLC MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4E
+        Participants: 
+    2019: MONROE ENERGY, LLC MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4E
+        Participants: 
+    2018: MONROE ENERGY, LLC MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4E
+        Participants: 
+    2017: MONROE ENERGY, LLC MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4E
+        Participants: 
+   [502]
+    2022: MONROE ENERGY, LLC HEALTH AND WELFARE PLAN
+        Benefit Category: Other
+        Codes:  4B4D4F4H4Q
+        Participants: 
+    2021: MONROE ENERGY, LLC HEALTH AND WELFARE PLAN
+        Benefit Category: Other
+        Codes:  4B4D4F4H4Q
+        Participants: 
+    2020: MONROE ENERGY, LLC HEALTH AND WELFARE PLAN
+        Benefit Category: Other
+        Codes:  4B4D4F4H4Q
+        Participants: 
+    2019: MONROE ENERGY, LLC HEALTH AND WELFARE PLAN
+        Benefit Category: Other
+        Codes:  4B4D4F4H4Q
+        Participants: 
+    2018: MONROE ENERGY, LLC HEALTH AND WELFARE PLAN
+        Benefit Category: Other
+        Codes:  4B4D4F4H4Q
+        Participants: 
+    2017: MONROE ENERGY, LLC HEALTH AND WELFARE PLAN
+        Benefit Category: Other
+        Codes:  4B4D4E4F4H4Q
+        Participants: 

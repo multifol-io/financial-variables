@@ -1,14 +1,9 @@
 PA : PITTSBURGH
-  PJTC HOLDINGS, INC. HEALTH AND WELFARE PLAN  853282184
-   [503]
-    2021: PJTC HOLDINGS, INC. HEALTH AND WELFARE PLAN
-        Participants: 887
-        RecordKeeper: UPMC HEALTH PLAN
-    2020: PJTC HOLDINGS, INC. HEALTH AND WELFARE PLAN
-        Participants: 793
-        RecordKeeper: UPMC HEALTH PLAN
+  PJTC HOLDINGS, INC.  853282184
    [002]
     2022: PJTC HOLDINGS, INC. 401(K) SAVINGS AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D3H 
         Participants: 956
         Assets: 238657693
         $/Participant: 249641
@@ -17,6 +12,8 @@ PA : PITTSBURGH
            - T ROWE PRICE TRUST COMPANY
                  : T ROWE PRICE STABLE VALUE
     2021: PJTC HOLDINGS, INC. 401(K) SAVINGS AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D3H 
         Participants: 884
         Assets: 273247912
         $/Participant: 309103
@@ -25,6 +22,8 @@ PA : PITTSBURGH
            - T ROWE PRICE TRUST COMPANY
                  : T ROWE PRICE STABLE VALUE
     2020: PJTC HOLDINGS, INC. 401(K) SAVINGS AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2R2T3D3H 
         Participants: 856
         Assets: 243023801
         $/Participant: 283906
@@ -34,3 +33,14 @@ PA : PITTSBURGH
                  : PNC STABLE VALUE FUND
            - T ROWE PRICE TRUST COMPANY
                  : T ROWE PRICE STABLE VALUE
+   [503]
+    2021: PJTC HOLDINGS, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 887
+        RecordKeeper: UPMC HEALTH PLAN
+    2020: PJTC HOLDINGS, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 793
+        RecordKeeper: UPMC HEALTH PLAN

@@ -1,97 +1,58 @@
 NC : GREENSBORO
   JAMES M. PLEASANTS COMPANY, INC.  560797189
-   [506]
-    2022: JAMES M PLEASANTS CO INC AFLAC PLAN
-        Participants: 
-    2021: JAMES M PLEASANTS CO INC AFLAC PLAN
-        Participants: 
-    2020: JAMES M PLEASANTS CO INC AFLAC PLAN
-        Participants: 
-   [505]
-    2022: JAMES M PLEASANTS CO INC VISION PLAN
-        Participants: 
-    2021: JAMES M PLEASANTS CO INC VISION PLAN
-        Participants: 
-    2020: JAMES M PLEASANTS CO INC VISION PLAN
-        Participants: 
-    2019: JAMES M PLEASANTS CO INC VISION PLAN
-        Participants: 
-    2018: JAMES M PLEASANTS CO INC VISION PLAN
-        Participants: 
-   [503]
-    2022: JAMES M PLEASANTS CO INC AD&D DISABILITY LIFE PLAN
-        Participants: 
-    2021: JAMES M PLEASANTS CO INC AD&D DISABILITY LIFE PLAN
-        Participants: 
-    2020: JAMES M PLEASANTS CO INC AD&D DISABILITY LIFE PLAN
-        Participants: 
-    2019: JAMES M PLEASANTS CO INC AD&D DISABILITY LIFE PLAN
-        Participants: 
-    2018: JAMES M PLEASANTS CO INC AD&D DISABILITY LIFE PLAN
-        Participants: 
-    2017: JAMES M PLEASANTS CO INC AD&D DISABILITY LIFE PLAN
-        Participants: 
-   [502]
-    2022: JAMES M PLEASANTS CO INC DENTAL PLAN
-        Participants: 
-    2021: JAMES M PLEASANTS CO INC DENTAL PLAN
-        Participants: 
-    2020: JAMES M PLEASANTS CO INC DENTAL PLAN
-        Participants: 
-    2019: JAMES M PLEASANTS CO INC DENTAL PLAN
-        Participants: 
-    2018: JAMES M PLEASANTS CO INC DENTAL PLAN
-        Participants: 
-    2017: JAMES M PLEASANTS CO INC DENTAL PLAN
-        Participants: 
-   [501]
-    2022: JAMES M PLEASANTS CO INC GROUP HEALTH PLAN
-        Participants: 
-    2021: JAMES M PLEASANTS CO INC GROUP HEALTH PLAN
-        Participants: 
-    2020: JAMES M PLEASANTS CO INC GROUP HEALTH PLAN
-        Participants: 
-    2019: JAMES M PLEASANTS CO INC GROUP HEALTH PLAN
-        Participants: 
-    2018: JAMES M PLEASANTS CO INC GROUP HEALTH PLAN
-        Participants: 
-    2017: JAMES M PLEASANTS CO INC GROUP HEALTH PLAN
-        Participants: 
    [003]
     2022: JAMES M PLEASANTS COMPANY EMPLOYEES 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J3D 
         Participants: 196
         Assets: 10996593
         $/Participant: 56105
     2021: JAMES M PLEASANTS COMPANY EMPLOYEES 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J3D 
         Participants: 184
         Assets: 12570182
         $/Participant: 68316
     2020: JAMES M PLEASANTS COMPANY EMPLOYEES 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J3D 
         Participants: 191
         Assets: 10585014
         $/Participant: 55418
     2019: JAMES M PLEASANTS COMPANY EMPLOYEES 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J3D 
         Participants: 190
         Assets: 8136070
         $/Participant: 42821
     2018: JAMES M PLEASANTS COMPANY EMPLOYEES 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J3D 
         Participants: 175
         Assets: 6222959
         $/Participant: 35559
     2017: JAMES M PLEASANTS COMPANY EMPLOYEES 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J3D 
         Participants: 153
         Assets: 6242728
         $/Participant: 40802
    [002]
     2022: JAMES M. PLEASANTS COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
         Participants: 183
         Assets: 64354225
         $/Participant: 351662
     2021: JAMES M. PLEASANTS COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
         Participants: 174
         Assets: 65221501
         $/Participant: 374836
     2020: JAMES M. PLEASANTS COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
         Participants: 168
         Assets: 55021357
         $/Participant: 327508
@@ -99,6 +60,8 @@ NC : GREENSBORO
            - FEDERATED INVESTORS TRUST COMPANY
                  : CAPITAL PRESERVATION FUND
     2019: JAMES M. PLEASANTS COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
         Participants: 168
         Assets: 45066840
         $/Participant: 268255
@@ -106,6 +69,8 @@ NC : GREENSBORO
            - FEDERATED INVESTORS TRUST COMPANY
                  : CAPITAL PRESERVATION FUND
     2018: JAMES M. PLEASANTS COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
         Participants: 169
         Assets: 41599219
         $/Participant: 246149
@@ -113,9 +78,120 @@ NC : GREENSBORO
            - FEDERATED INVESTORS TRUST COMPANY
                  : CAPITAL PRESERVATION FUND
     2017: JAMES M. PLEASANTS COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2O2Q3I 
         Participants: 157
         Assets: 37396823
         $/Participant: 238196
         Available Investments:
            - FEDERATED INVESTORS TRUST COMPANY
                  : CAPITAL PRESERVATION FUND
+   [501]
+    2022: JAMES M PLEASANTS CO INC GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: JAMES M PLEASANTS CO INC GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2020: JAMES M PLEASANTS CO INC GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: JAMES M PLEASANTS CO INC GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: JAMES M PLEASANTS CO INC GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: JAMES M PLEASANTS CO INC GROUP HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [502]
+    2022: JAMES M PLEASANTS CO INC DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2021: JAMES M PLEASANTS CO INC DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2020: JAMES M PLEASANTS CO INC DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2019: JAMES M PLEASANTS CO INC DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2018: JAMES M PLEASANTS CO INC DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2017: JAMES M PLEASANTS CO INC DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+   [503]
+    2022: JAMES M PLEASANTS CO INC AD&D DISABILITY LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H
+        Participants: 
+    2021: JAMES M PLEASANTS CO INC AD&D DISABILITY LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H
+        Participants: 
+    2020: JAMES M PLEASANTS CO INC AD&D DISABILITY LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H
+        Participants: 
+    2019: JAMES M PLEASANTS CO INC AD&D DISABILITY LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H
+        Participants: 
+    2018: JAMES M PLEASANTS CO INC AD&D DISABILITY LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H
+        Participants: 
+    2017: JAMES M PLEASANTS CO INC AD&D DISABILITY LIFE PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H
+        Participants: 
+   [505]
+    2022: JAMES M PLEASANTS CO INC VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2021: JAMES M PLEASANTS CO INC VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2020: JAMES M PLEASANTS CO INC VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2019: JAMES M PLEASANTS CO INC VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+    2018: JAMES M PLEASANTS CO INC VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 
+   [506]
+    2022: JAMES M PLEASANTS CO INC AFLAC PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+    2021: JAMES M PLEASANTS CO INC AFLAC PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 
+    2020: JAMES M PLEASANTS CO INC AFLAC PLAN
+        Benefit Category: Other
+        Codes:  4F
+        Participants: 

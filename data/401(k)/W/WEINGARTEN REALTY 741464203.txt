@@ -1,41 +1,9 @@
-TX : HOUSTON
-  WEINGARTEN REALTY  741464203
-   [511]
-    2021: WEINGARTEN REALTY SEVERANCE BENEFIT AND STAY PUT BONUS PLAN
-        Participants: 231
-    2020: WEINGARTEN REALTY SEVERANCE BENEFIT AND STAY PUT BONUS PLAN
-        Participants: 246
-    2019: WEINGARTEN REALTY SEVERANCE BENEFIT AND STAY PUT BONUS PLAN
-        Participants: 239
-    2018: WEINGARTEN REALTY SEVERANCE BENEFIT AND STAY PUT BONUS PLAN
-        Participants: 254
-    2017: WEINGARTEN REALTY SEVERANCE BENEFIT AND STAY PUT BONUS PLAN
-        Participants: 282
-   [504]
-    2021: FLEXIBLE EMPLOYEE BENEFIT PLAN
-        Participants: 130
-    2020: FLEXIBLE EMPLOYEE BENEFIT PLAN
-        Participants: 139
-    2019: FLEXIBLE EMPLOYEE BENEFIT PLAN
-        Participants: 132
-    2018: FLEXIBLE EMPLOYEE BENEFIT PLAN
-        Participants: 116
-    2017: FLEXIBLE EMPLOYEE BENEFIT PLAN
-        Participants: 132
-   [501]
-    2021: WEINGARTEN REALTY WELFARE PLAN
-        Participants: 231
-    2020: WEINGARTEN REALTY WELFARE PLAN
-        Participants: 246
-    2019: WEINGARTEN REALTY WELFARE PLAN
-        Participants: 239
-    2018: WEINGARTEN REALTY WELFARE PLAN
-        Participants: 254
-    2017: WEINGARTEN REALTY WELFARE PLAN
-        Participants: 282
 NY : JERICHO
+  WEINGARTEN REALTY  741464203
    [002]
     2021: THE SAVINGS AND INVESTMENT PLAN FOR EMPLOYEES OF WEINGARTEN REALTY INVESTORS
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 0
         RecordKeeper: MERRILL LYNCH, PIERCE, FENNER AND S
         Available Investments:
@@ -43,6 +11,8 @@ NY : JERICHO
                  : GALLIARD STABLE VALUE RETURN F
 TX : HOUSTON
     2020: THE SAVINGS AND INVESTMENT PLAN FOR EMPLOYEES OF WEINGARTEN REALTY INVESTORS
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 379
         Assets: 96942038
         $/Participant: 255783
@@ -51,6 +21,8 @@ TX : HOUSTON
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE RETURN FUND CLAS
     2019: THE SAVINGS AND INVESTMENT PLAN FOR EMPLOYEES OF WEINGARTEN REALTY INVESTORS
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 383
         Assets: 86485728
         $/Participant: 225811
@@ -59,6 +31,8 @@ TX : HOUSTON
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE RETURN FUND C
     2018: THE SAVINGS AND INVESTMENT PLAN FOR EMPLOYEES OF WEINGARTEN REALTY INVESTORS
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 407
         Assets: 71858871
         $/Participant: 176557
@@ -67,6 +41,8 @@ TX : HOUSTON
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE RETURN FUND C
     2017: THE SAVINGS AND INVESTMENT PLAN FOR EMPLOYEES OF WEINGARTEN REALTY INVESTORS
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3H 
         Participants: 418
         Assets: 76501360
         $/Participant: 183017
@@ -74,8 +50,52 @@ TX : HOUSTON
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE RETURN FUND C
+   [501]
+    2021: WEINGARTEN REALTY WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 231
+    2020: WEINGARTEN REALTY WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 246
+    2019: WEINGARTEN REALTY WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 239
+    2018: WEINGARTEN REALTY WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 254
+    2017: WEINGARTEN REALTY WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 282
+   [504]
+    2021: FLEXIBLE EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 130
+    2020: FLEXIBLE EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 139
+    2019: FLEXIBLE EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 132
+    2018: FLEXIBLE EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 116
+    2017: FLEXIBLE EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 132
    [001]
     2020: WEINGARTEN REALTY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C 
         Participants: 508
         Assets: 68295834
         $/Participant: 134440
@@ -90,6 +110,8 @@ TX : HOUSTON
                  : TERM FUND 2023
                  : TERM FUND 2024
     2019: WEINGARTEN REALTY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C 
         Participants: 507
         Assets: 60419041
         $/Participant: 119169
@@ -103,6 +125,8 @@ TX : HOUSTON
                  : TERM FUND 2022
                  : TERM FUND 2023
     2018: WEINGARTEN REALTY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C 
         Participants: 551
         Assets: 51806607
         $/Participant: 94022
@@ -116,6 +140,8 @@ TX : HOUSTON
                  : TERM FUND 2021
                  : TERM FUND 2022
     2017: WEINGARTEN REALTY RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C 
         Participants: 553
         Assets: 54809774
         $/Participant: 99113
@@ -128,3 +154,24 @@ TX : HOUSTON
                  : TERM FUND 2019
                  : TERM FUND 2020
                  : TERM FUND 2021
+   [511]
+    2021: WEINGARTEN REALTY SEVERANCE BENEFIT AND STAY PUT BONUS PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 231
+    2020: WEINGARTEN REALTY SEVERANCE BENEFIT AND STAY PUT BONUS PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 246
+    2019: WEINGARTEN REALTY SEVERANCE BENEFIT AND STAY PUT BONUS PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 239
+    2018: WEINGARTEN REALTY SEVERANCE BENEFIT AND STAY PUT BONUS PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 254
+    2017: WEINGARTEN REALTY SEVERANCE BENEFIT AND STAY PUT BONUS PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 282

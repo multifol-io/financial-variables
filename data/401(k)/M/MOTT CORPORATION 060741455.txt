@@ -1,69 +1,103 @@
 CT : FARMINGTON
   MOTT CORPORATION  060741455
-   [501]
-    2021: MOTT CORPORATION WELFARE BENEFIT PLAN
-        Participants: 
-    2020: MOTT CORPORATION WELFARE BENEFIT PLAN
-        Participants: 
-    2019: MOTT CORPORATION WELFARE BENEFIT PLAN
-        Participants: 
-    2018: MOTT CORPORATION EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2017: MOTT CORPORATION EMPLOYEE BENEFIT PLAN
-        Participants: 
-   [002]
-    2022: MOTT CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 372
-        Assets: 367564048
-        $/Participant: 988075
-    2021: MOTT CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 296
-        Assets: 261470634
-        $/Participant: 883346
-    2020: MOTT CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 286
-        Assets: 145477490
-        $/Participant: 508662
-    2019: MOTT CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 293
-        Assets: 125733705
-        $/Participant: 429125
-    2018: MOTT CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 267
-        Assets: 135028675
-        $/Participant: 505725
-    2017: MOTT CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 251
-        Assets: 103978830
-        $/Participant: 414258
    [001]
     2022: MOTT CORPORATION 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 307
         Assets: 25248764
         $/Participant: 82243
         RecordKeeper: MORNINGSTAR INVESTMENT MANAGEMENT L
     2021: MOTT CORPORATION 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 258
         Assets: 30712882
         $/Participant: 119042
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
     2020: MOTT CORPORATION 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 227
         Assets: 26164810
         $/Participant: 115263
         RecordKeeper: UBS FINANCIAL SERVICES INC
     2019: MOTT CORPORATION 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 238
         Assets: 23547319
         $/Participant: 98938
         RecordKeeper: UBS FINANCIAL SERVICES INC
     2018: MOTT CORPORATION 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 231
         Assets: 19029605
         $/Participant: 82379
         RecordKeeper: UBS FINANCIAL SERVICES INC
     2017: MOTT CORPORATION 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 213
         Assets: 21228785
         $/Participant: 99665
         RecordKeeper: UBS FINANCIAL SERVICES INC
+   [002]
+    2022: MOTT CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3F3I 
+        Participants: 372
+        Assets: 367564048
+        $/Participant: 988075
+    2021: MOTT CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3F3I 
+        Participants: 296
+        Assets: 261470634
+        $/Participant: 883346
+    2020: MOTT CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3F3I 
+        Participants: 286
+        Assets: 145477490
+        $/Participant: 508662
+    2019: MOTT CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 293
+        Assets: 125733705
+        $/Participant: 429125
+    2018: MOTT CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 267
+        Assets: 135028675
+        $/Participant: 505725
+    2017: MOTT CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I2P2Q3I 
+        Participants: 251
+        Assets: 103978830
+        $/Participant: 414258
+   [501]
+    2021: MOTT CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: MOTT CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: MOTT CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: MOTT CORPORATION EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2017: MOTT CORPORATION EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 

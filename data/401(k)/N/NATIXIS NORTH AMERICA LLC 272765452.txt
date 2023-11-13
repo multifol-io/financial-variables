@@ -1,51 +1,8 @@
 NY : NEW YORK
   NATIXIS NORTH AMERICA LLC  272765452
-   [503]
-    2022: NATIXIS US CIB HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: NATIXIS US CIB HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: NATIXIS US CIB HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: NATIXIS US CIB HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: NATIXIS US CIB HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: NATIXIS US CIB HEALTH AND WELFARE PLAN
-        Participants: 
-   [002]
-    2022: NATIXIS US CIB DEFINED BENEFIT PENSION PLAN
-        Participants: 616
-        Assets: 97527065
-        $/Participant: 158323
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-    2021: NATIXIS US CIB DEFINED BENEFIT PENSION PLAN
-        Participants: 633
-        Assets: 122392489
-        $/Participant: 193353
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-    2020: NATIXIS US CIB DEFINED BENEFIT PENSION PLAN
-        Participants: 644
-        Assets: 135236267
-        $/Participant: 209994
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-    2019: NATIXIS US CIB DEFINED BENEFIT PENSION PLAN
-        Participants: 654
-        Assets: 115494586
-        $/Participant: 176597
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-    2018: NATIXIS US CIB DEFINED BENEFIT PENSION PLAN
-        Participants: 667
-        Assets: 101045931
-        $/Participant: 151493
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-    2017: NATIXIS US CIB DEFINED BENEFIT PENSION PLAN
-        Participants: 679
-        Assets: 110810170
-        $/Participant: 163196
-        RecordKeeper: CHARLES SCHWAB & CO., INC.
-   [001]
     2022: NATIXIS US GROUP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T3D3F3H 
         Participants: 1407
         Assets: 323638096
         $/Participant: 230019
@@ -62,6 +19,8 @@ NY : NEW YORK
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
     2021: NATIXIS US GROUP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T3D3F3H 
         Participants: 1314
         Assets: 381396400
         $/Participant: 290256
@@ -78,6 +37,8 @@ NY : NEW YORK
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
     2020: NATIXIS US GROUP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D3H 
         Participants: 1278
         Assets: 329755929
         $/Participant: 258024
@@ -94,6 +55,8 @@ NY : NEW YORK
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
     2019: NATIXIS US GROUP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D3H 
         Participants: 1274
         Assets: 268019326
         $/Participant: 210376
@@ -110,6 +73,8 @@ NY : NEW YORK
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
     2018: NATIXIS US GROUP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D3H 
         Participants: 1241
         Assets: 211950085
         $/Participant: 170789
@@ -126,6 +91,8 @@ NY : NEW YORK
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
     2017: NATIXIS US GROUP 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2T3D3H 
         Participants: 1154
         Assets: 219171969
         $/Participant: 189923
@@ -141,3 +108,71 @@ NY : NEW YORK
                  : SCHWAB MANAGED RET INC CL IV
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FD NET 20
+   [503]
+    2022: NATIXIS US CIB HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2021: NATIXIS US CIB HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: NATIXIS US CIB HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: NATIXIS US CIB HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: NATIXIS US CIB HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2017: NATIXIS US CIB HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+   [002]
+    2022: NATIXIS US CIB DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
+        Participants: 616
+        Assets: 97527065
+        $/Participant: 158323
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+    2021: NATIXIS US CIB DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
+        Participants: 633
+        Assets: 122392489
+        $/Participant: 193353
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+    2020: NATIXIS US CIB DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
+        Participants: 644
+        Assets: 135236267
+        $/Participant: 209994
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+    2019: NATIXIS US CIB DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
+        Participants: 654
+        Assets: 115494586
+        $/Participant: 176597
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+    2018: NATIXIS US CIB DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
+        Participants: 667
+        Assets: 101045931
+        $/Participant: 151493
+        RecordKeeper: CHARLES SCHWAB & CO., INC.
+    2017: NATIXIS US CIB DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
+        Participants: 679
+        Assets: 110810170
+        $/Participant: 163196
+        RecordKeeper: CHARLES SCHWAB & CO., INC.

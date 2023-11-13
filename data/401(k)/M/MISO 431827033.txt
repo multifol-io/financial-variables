@@ -1,59 +1,9 @@
 IN : CARMEL
-  MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC.  431827033
-   [503]
-    2022: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2021: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2020: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2019: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2018: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2017: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-   [502]
-    2022: MISO VOLUNTARY EMPLOYEE BENEFICIARY ASSOCIATION PLAN AND TRUST
-        Participants: 
-    2021: MISO VOLUNTARY EMPLOYEE BENEFICIARY ASSOCIATION PLAN AND TRUST
-        Participants: 924
-        RecordKeeper: ANTHEM INSURANCE COMPANIES INC
-    2020: MISO VOLUNTARY EMPLOYEE BENEFICIARY ASSOCIATION PLAN AND TRUST
-        Participants: 922
-        Assets: 314250
-        $/Participant: 340
-        RecordKeeper: OUR HEALTH, LLC
-    2019: MISO VOLUNTARY EMPLOYEE BENEFICIARY ASSOCIATION PLAN AND TRUST
-        Participants: 926
-        Assets: 924121
-        $/Participant: 997
-        RecordKeeper: OUR HEALTH, LLC
-    2018: MISO VOLUNTARY EMPLOYEE BENEFICIARY ASSOCIATION PLAN AND TRUST
-        Participants: 911
-        Assets: 1434543
-        $/Participant: 1574
-        RecordKeeper: GIBSON INSURANCE AGENCY INC.
-    2017: MISO VOLUNTARY EMPLOYEE BENEFICIARY ASSOCIATION PLAN AND TRUST
-        Participants: 900
-        Assets: 1046455
-        $/Participant: 1162
-        RecordKeeper: GIBSON INSURANCE AGENCY INC.
-   [501]
-    2022: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2021: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2020: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2019: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2018: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2017: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. FLEXIBLE BENEFITS PLAN
-        Participants: 
+  MISO  431827033
    [001]
     2022: MISO EMPLOYEES' RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T2K3D2R 
         Participants: 1341
         Assets: 303440699
         $/Participant: 226279
@@ -62,6 +12,8 @@ IN : CARMEL
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2021: MISO EMPLOYEES' RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T2K3D2R 
         Participants: 1290
         Assets: 371473539
         $/Participant: 287963
@@ -70,6 +22,8 @@ IN : CARMEL
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2020: MISO EMPLOYEES' RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T2K3D2R 
         Participants: 1254
         Assets: 318138298
         $/Participant: 253698
@@ -78,6 +32,8 @@ IN : CARMEL
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2019: MISO EMPLOYEES' RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2S2T3D2K 
         Participants: 1326
         Assets: 268944040
         $/Participant: 202823
@@ -86,6 +42,8 @@ IN : CARMEL
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2018: MISO EMPLOYEES' RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 1288
         Assets: 215086552
         $/Participant: 166992
@@ -94,6 +52,8 @@ IN : CARMEL
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2017: MISO EMPLOYEES' RETIREMENT SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2S2T3D2E 
         Participants: 1214
         Assets: 224375388
         $/Participant: 184823
@@ -101,3 +61,91 @@ IN : CARMEL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
+   [501]
+    2022: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2020: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2019: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2018: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2017: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [502]
+    2022: MISO VOLUNTARY EMPLOYEE BENEFICIARY ASSOCIATION PLAN AND TRUST
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: MISO VOLUNTARY EMPLOYEE BENEFICIARY ASSOCIATION PLAN AND TRUST
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 924
+        RecordKeeper: ANTHEM INSURANCE COMPANIES INC
+    2020: MISO VOLUNTARY EMPLOYEE BENEFICIARY ASSOCIATION PLAN AND TRUST
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 922
+        Assets: 314250
+        $/Participant: 340
+        RecordKeeper: OUR HEALTH, LLC
+    2019: MISO VOLUNTARY EMPLOYEE BENEFICIARY ASSOCIATION PLAN AND TRUST
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 926
+        Assets: 924121
+        $/Participant: 997
+        RecordKeeper: OUR HEALTH, LLC
+    2018: MISO VOLUNTARY EMPLOYEE BENEFICIARY ASSOCIATION PLAN AND TRUST
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 911
+        Assets: 1434543
+        $/Participant: 1574
+        RecordKeeper: GIBSON INSURANCE AGENCY INC.
+    2017: MISO VOLUNTARY EMPLOYEE BENEFICIARY ASSOCIATION PLAN AND TRUST
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 900
+        Assets: 1046455
+        $/Participant: 1162
+        RecordKeeper: GIBSON INSURANCE AGENCY INC.
+   [503]
+    2022: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2021: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2020: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 
+    2019: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4D4E4H4Q
+        Participants: 
+    2018: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4D4E4H4Q
+        Participants: 
+    2017: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4B4D4E4H4Q
+        Participants: 

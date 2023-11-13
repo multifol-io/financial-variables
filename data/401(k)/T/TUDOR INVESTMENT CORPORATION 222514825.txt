@@ -1,26 +1,9 @@
 CT : STAMFORD
   TUDOR INVESTMENT CORPORATION  222514825
-   [503]
-    2017: TUDOR INVESTMENT CORP. GROUP TRAVEL PLAN (TEMPORARY DISABILITY, ACCIDENT, SICKNESS PLAN)
-        Participants: 
-   [502]
-    2022: TUDOR INVESTMENT CORPORATION WELFARE BENEFIT PLAN
-        Participants: 
-    2021: TUDOR INVESTMENT CORPORATION WELFARE BENEFIT PLAN
-        Participants: 
-    2020: TUDOR INVESTMENT CORPORATION WELFARE BENEFIT PLAN
-        Participants: 
-    2019: TUDOR INVESTMENT CORPORATION WELFARE BENEFIT PLAN
-        Participants: 
-    2018: TUDOR INVESTMENT CORPORATION WELFARE BENEFIT PLAN
-        Participants: 
-    2017: TUDOR INVESTMENT CORPORATION LIFE & HEALTH PLAN
-        Participants: 
-   [501]
-    2017: TUDOR INVESTMENT CORP. LONG TERM DISABILITY PLAN
-        Participants: 
    [001]
     2022: TUDOR INVESTMENT CORPORATION 401(K) SAVINGS AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3H2E2S3D 
         Participants: 471
         Assets: 130723846
         $/Participant: 277545
@@ -42,6 +25,8 @@ CT : STAMFORD
                  : TROWE PRICE RET 2055 A
                  : TROWE PRICE RET 2060 A
     2021: TUDOR INVESTMENT CORPORATION 401(K) SAVINGS AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3H3D2S2E 
         Participants: 441
         Assets: 153666810
         $/Participant: 348450
@@ -63,6 +48,8 @@ CT : STAMFORD
                  : TROWE PRICE RET 2055 A
                  : TROWE PRICE RET 2060 A
     2020: TUDOR INVESTMENT CORPORATION 401(K) SAVINGS AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3H 
         Participants: 449
         Assets: 137151262
         $/Participant: 305459
@@ -83,17 +70,58 @@ CT : STAMFORD
                  : TROWE PRICE RET 2055 A
                  : TROWE PRICE RET 2060 A
     2019: TUDOR INVESTMENT CORPORATION 401(K) SAVINGS AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3H 
         Participants: 477
         Assets: 126358372
         $/Participant: 264902
         RecordKeeper: PROCYON INSTITUTIONAL PARTNERS LLC
     2018: TUDOR INVESTMENT CORPORATION 401(K) SAVINGS AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3H 
         Participants: 538
         Assets: 102769583
         $/Participant: 191021
         RecordKeeper: PROCYON INSTITUTIONAL PARTNERS LLC
     2017: TUDOR INVESTMENT CORPORATION 401(K) SAVINGS AND PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3H 
         Participants: 578
         Assets: 113574657
         $/Participant: 196495
         RecordKeeper: RSM US LLP
+   [501]
+    2017: TUDOR INVESTMENT CORP. LONG TERM DISABILITY PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4H4R
+        Participants: 
+   [502]
+    2022: TUDOR INVESTMENT CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2021: TUDOR INVESTMENT CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2020: TUDOR INVESTMENT CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2019: TUDOR INVESTMENT CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2018: TUDOR INVESTMENT CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2017: TUDOR INVESTMENT CORPORATION LIFE & HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4L4Q
+        Participants: 
+   [503]
+    2017: TUDOR INVESTMENT CORP. GROUP TRAVEL PLAN (TEMPORARY DISABILITY, ACCIDENT, SICKNESS PLAN)
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 

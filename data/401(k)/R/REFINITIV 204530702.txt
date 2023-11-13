@@ -1,29 +1,9 @@
 NY : NEW YORK
   REFINITIV  204530702
-   [502]
-    2022: US REFINITIV SEVERANCE PLAN
-        Participants: 
-    2021: US REFINITIV SEVERANCE PLAN
-        Participants: 
-    2020: US REFINITIV SEVERANCE PLAN
-        Participants: 
-    2019: US REFINITIV SEVERANCE PAY PLAN
-        Participants: 
-    2018: REFINITIV SEVERANCE PAY PLAN
-        Participants: 
-   [501]
-    2022: REFINITIV HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: REFINITIV HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: REFINITIV HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: REFINITIV HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: REFINITIV HEALTH AND WELFARE PLAN
-        Participants: 
    [001]
     2022: LSEGH, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2T2G2J2K2E2S 
         Participants: 4534
         Assets: 890429876
         $/Participant: 196389
@@ -49,6 +29,8 @@ NY : NEW YORK
            - WELLINGTON
                  : WELLINGTON SMID RESRCH EQ FUND
     2021: REFINITIV 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2T2G2J2K2E2S 
         Participants: 4777
         Assets: 1158141528
         $/Participant: 242441
@@ -74,6 +56,8 @@ NY : NEW YORK
            - WELLINGTON
                  : WELLINGTON SMID RESRCH EQ FUND
     2020: REFINITIV 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2T2G2J2K2E2S 
         Participants: 3946
         Assets: 1013607858
         $/Participant: 256869
@@ -94,6 +78,8 @@ NY : NEW YORK
            - WELLINGTON
                  : WELLINGTON SMID CAP RESEARCH EQUITY
     2019: REFINITIV 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2T2G2J2K2E2S 
         Participants: 3956
         Assets: 914536151
         $/Participant: 231176
@@ -115,6 +101,8 @@ NY : NEW YORK
            - WELLINGTON
                  : WELLINGTON SMID CAP RESEARCH EQUITY
     2018: REFINITIV 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2T2G2J2K2E2S 
         Participants: 3927
         Assets: 783609159
         $/Participant: 199543
@@ -135,3 +123,45 @@ NY : NEW YORK
                  : STATE STREET REAL ASSET FUND
            - WELLINGTON
                  : WELLINGTON SMID CAP RESEARCH EQUITY
+   [501]
+    2022: REFINITIV HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2021: REFINITIV HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2020: REFINITIV HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2019: REFINITIV HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2018: REFINITIV HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+   [502]
+    2022: US REFINITIV SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2021: US REFINITIV SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2020: US REFINITIV SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2019: US REFINITIV SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 
+    2018: REFINITIV SEVERANCE PAY PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 

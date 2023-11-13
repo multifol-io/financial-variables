@@ -1,16 +1,9 @@
 VA : ARLINGTON
   NAVY MUTUAL AID ASSOCIATION  530116720
-   [501]
-    2022: NAVY MUTUAL AID ASSOCIATION HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: NAVY MUTUAL AID ASSOCIATION HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: NAVY MUTUAL AID ASSOCIATION HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: NAVY MUTUAL AID ASSOCIATION HEALTH AND WELFARE PLAN
-        Participants: 
    [002]
     2022: NAVY MUTUAL AID ASSOCIATION EMPLOYEE'S 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 168
         Assets: 13841096
         $/Participant: 82387
@@ -39,6 +32,8 @@ VA : ARLINGTON
                  : PRIN SMCAP GROWTH I SEP ACCT-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2021: NAVY MUTUAL AID ASSOCIATION EMPLOYEE'S 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 154
         Assets: 15622187
         $/Participant: 101442
@@ -69,6 +64,8 @@ VA : ARLINGTON
                  : PRIN SMCAP GROWTH I SEP ACCT-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2020: NAVY MUTUAL AID ASSOCIATION EMPLOYEE'S 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 151
         Assets: 13154832
         $/Participant: 87118
@@ -98,6 +95,8 @@ VA : ARLINGTON
                  : PRIN SMCAP GROWTH I SEP ACCT-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2019: NAVY MUTUAL AID ASSOCIATION EMPLOYEE'S 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D 
         Participants: 152
         Assets: 12384340
         $/Participant: 81475
@@ -127,6 +126,8 @@ VA : ARLINGTON
                  : PRIN SMCAP GROWTH I SEP ACCT-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2018: NAVY MUTUAL AID ASSOCIATION EMPLOYEE'S 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D 
         Participants: 140
         Assets: 9482056
         $/Participant: 67728
@@ -153,6 +154,8 @@ VA : ARLINGTON
                  : PRIN REAL ESTATE SECS SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
     2017: NAVY MUTUAL AID EMPLOYEE'S 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 139
         Assets: 9679847
         $/Participant: 69639
@@ -170,8 +173,27 @@ VA : ARLINGTON
                  : PRIN LIFETIME HYBR 2050 CIT R5
                  : PRIN LIFETIME HYBR 2055 CIT R5
                  : PRIN LIFETIME HYBR 2060 CIT R5
+   [501]
+    2022: NAVY MUTUAL AID ASSOCIATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: NAVY MUTUAL AID ASSOCIATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: NAVY MUTUAL AID ASSOCIATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: NAVY MUTUAL AID ASSOCIATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4Q
+        Participants: 
    [001]
     2022: NAVY MUTUAL AID ASSOCIATION EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 121
         Assets: 28627222
         $/Participant: 236588
@@ -189,6 +211,8 @@ VA : ARLINGTON
                  : PRIN SPEC PREF CAP SEC INC R6
                  : PRIN U.S. PROPERTY SEP ACCT-R6
     2021: NAVY MUTUAL AID ASSOCIATION EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 125
         Assets: 34531483
         $/Participant: 276251
@@ -203,6 +227,8 @@ VA : ARLINGTON
                  : PRIN SPEC PREF CAP SEC INC R6
                  : PRIN U.S. PROPERTY SEP ACCT-R6
     2020: NAVY MUTUAL AID ASSOCIATION EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 131
         Assets: 30127548
         $/Participant: 229981
@@ -217,6 +243,8 @@ VA : ARLINGTON
                  : PRIN SPEC PREF CAP SEC INC R6
                  : PRIN U.S. PROPERTY SEP ACCT-R6
     2019: NAVY MUTUAL AID ASSOCIATION EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3D 
         Participants: 139
         Assets: 26841610
         $/Participant: 193105
@@ -231,6 +259,8 @@ VA : ARLINGTON
                  : PRIN SPEC PREF CAP SEC INC R6
                  : PRIN U.S. PROPERTY SEP ACCT-R6
     2018: NAVY MUTUAL AID ASSOCIATION EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 153
         Assets: 21492332
         $/Participant: 140472
@@ -245,6 +275,8 @@ VA : ARLINGTON
                  : PRIN SMCAP S&P 600 INDEX SA-R6
                  : PRIN U.S. PROPERTY SEP ACCT-R6
     2017: NAVY MUTUAL AID ASSOCIATION EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 162
         Assets: 20913830
         $/Participant: 129097

@@ -1,40 +1,9 @@
 MD : DENTON
   CHOPTANK ELECTRIC COOPERATIVE, INC.  520271943
-   [526]
-    2022: CHOPTANK ELECTRIC COOPERATIVE RETIREE WELFARE BENEFIT PLAN
-        Participants: 89
-    2021: CHOPTANK ELECTRIC COOPERATIVE RETIREE WELFARE BENEFIT PLAN
-        Participants: 86
-    2020: CHOPTANK ELECTRIC COOPERATIVE RETIREE WELFARE BENEFIT PLAN
-        Participants: 90
-    2019: CHOPTANK ELECTRIC COOPERATIVE RETIREE WELFARE BENEFIT PLAN
-        Participants: 91
-    2018: CHOPTANK ELECTRIC COOPERATIVE RETIREE WELFARE BENEFIT PLAN
-        Participants: 83
-    2017: CHOPTANK ELECTRIC COOPERATIVE RETIREE WELFARE BENEFIT PLAN
-        Participants: 83
-   [501]
-    2022: CHOPTANK ELECTRIC COOPERATIVE, INC. MAJOR MEDICAL
-        Participants: 
-    2021: CHOPTANK ELECTRIC COOPERATIVE, INC. MAJOR MEDICAL
-        Participants: 
-    2020: CHOPTANK ELECTRIC COOPERATIVE, INC. MAJOR MEDICAL
-        Participants: 
-    2019: CHOPTANK ELECTRIC COOPERATIVE, INC. MAJOR MEDICAL
-        Participants: 
-    2018: CHOPTANK ELECTRIC COOPERATIVE, INC. MAJOR MEDICAL
-        Participants: 
-    2017: CHOPTANK ELECTRIC COOPERATIVE, INC. MAJOR MEDICAL
-        Participants: 
-   [003]
-    2022: CHOPTANK ELECTRIC COOPERATIVE DEFINED BENEFIT PLAN
-        Participants: 0
-    2021: CHOPTANK ELECTRIC COOPERATIVE DEFINED BENEFIT PLAN
-        Participants: 152
-        Assets: 29026976
-        $/Participant: 190966
    [002]
     2022: CHOPTANK ELECTRIC COOPERATIVE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3D 
         Participants: 170
         Assets: 54220305
         $/Participant: 318942
@@ -44,14 +13,79 @@ MD : DENTON
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2021: CHOPTANK ELECTRIC COOPERATIVE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3D 
         Participants: 164
         Assets: 50349466
         $/Participant: 307008
         Service Providers:
            - THE VANGUARD GROUP, INC. : INVESTMENT MGMT (Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | 'Soft dollars' commissions)
     2020: CHOPTANK ELECTRIC COOPERATIVE 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3D 
         Participants: 170
         Assets: 49619191
         $/Participant: 291877
         Service Providers:
            - THE VANGUARD GROUP, INC. : INVESTMENT MGMT (Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | 'Soft dollars' commissions)
+   [501]
+    2022: CHOPTANK ELECTRIC COOPERATIVE, INC. MAJOR MEDICAL
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4F
+        Participants: 
+    2021: CHOPTANK ELECTRIC COOPERATIVE, INC. MAJOR MEDICAL
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4F
+        Participants: 
+    2020: CHOPTANK ELECTRIC COOPERATIVE, INC. MAJOR MEDICAL
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4F
+        Participants: 
+    2019: CHOPTANK ELECTRIC COOPERATIVE, INC. MAJOR MEDICAL
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2018: CHOPTANK ELECTRIC COOPERATIVE, INC. MAJOR MEDICAL
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2017: CHOPTANK ELECTRIC COOPERATIVE, INC. MAJOR MEDICAL
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+   [526]
+    2022: CHOPTANK ELECTRIC COOPERATIVE RETIREE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 89
+    2021: CHOPTANK ELECTRIC COOPERATIVE RETIREE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 86
+    2020: CHOPTANK ELECTRIC COOPERATIVE RETIREE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 90
+    2019: CHOPTANK ELECTRIC COOPERATIVE RETIREE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 91
+    2018: CHOPTANK ELECTRIC COOPERATIVE RETIREE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 83
+    2017: CHOPTANK ELECTRIC COOPERATIVE RETIREE WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 83
+   [003]
+    2022: CHOPTANK ELECTRIC COOPERATIVE DEFINED BENEFIT PLAN
+        Benefit Category: Pension
+        Codes: 1I3D1A1H 
+        Participants: 0
+    2021: CHOPTANK ELECTRIC COOPERATIVE DEFINED BENEFIT PLAN
+        Benefit Category: Pension
+        Codes: 1I3D1A 
+        Participants: 152
+        Assets: 29026976
+        $/Participant: 190966

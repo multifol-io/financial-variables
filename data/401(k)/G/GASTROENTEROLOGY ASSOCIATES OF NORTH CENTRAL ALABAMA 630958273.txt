@@ -1,36 +1,16 @@
 AL : BIRMINGHAM
-  GASTROENTEROLOGY ASSOCIATES  630958273
-   [502]
-    2017: SOUTHEAST GASTRO SUPPLEMENTAL MEDICAL HEALTH PLAN
-        Participants: 108
-   [501]
-    2020: GASTROENTEROLOGY ASSOCIATES OF NORTH CENTRAL ALABAMA WELFARE PLAN
-        Participants: 
-    2019: GASTROENTEROLOGY ASSOCIATES OF NORTH CENTRAL ALABAMA WELFARE PLAN
-        Participants: 
-    2018: GASTROENTEROLOGY ASSOCIATES OF NORTH CENTRAL ALABAMA WELFARE PLAN
-        Participants: 
-    2017: GASTROENTEROLOGY ASSOCIATES OF NORTH CENTRAL ALABAMA WELFARE PLAN
-        Participants: 130
-   [004]
-    2019: GASTROENTEROLOGY ASSOCIATES OF NCA CASH BALANCE PLAN
-        Participants: 1
-        Assets: 404745
-        $/Participant: 404745
-        RecordKeeper: WARREN AVERETT ASSET MANAGEMENT
-    2018: GASTROENTEROLOGY ASSOCIATES OF NCA CASH BALANCE PLAN
-        Participants: 119
-        Assets: 8989153
-        $/Participant: 75539
-        RecordKeeper: WARREN AVERETT ASSET MANAGEMENT
-   [002]
+  GASTROENTEROLOGY ASSOCIATES OF NORTH CENTRAL ALABAMA  630958273
     2019: GASTROENTEROLOGY ASSOCIATES OF NCA, PC 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2R2F2T2A 4B
         Participants: 0
         RecordKeeper: WARREN AVERETT ASSET MANAGEMENT LLC
         Available Investments:
            - MELLON BANK NA
                  : MELLON STABLE VALUE FUND
     2018: GASTROENTEROLOGY ASSOCIATES OF NCA, PC 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2R2F2T2A 4B
         Participants: 141
         Assets: 25157915
         $/Participant: 178424
@@ -38,3 +18,40 @@ AL : BIRMINGHAM
         Available Investments:
            - MELLON BANK NA
                  : MELLON STABLE VALUE FUND
+   [501]
+    2020: GASTROENTEROLOGY ASSOCIATES OF NORTH CENTRAL ALABAMA WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2019: GASTROENTEROLOGY ASSOCIATES OF NORTH CENTRAL ALABAMA WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: GASTROENTEROLOGY ASSOCIATES OF NORTH CENTRAL ALABAMA WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2017: GASTROENTEROLOGY ASSOCIATES OF NORTH CENTRAL ALABAMA WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4F
+        Participants: 130
+   [502]
+    2017: SOUTHEAST GASTRO SUPPLEMENTAL MEDICAL HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 108
+   [004]
+    2019: GASTROENTEROLOGY ASSOCIATES OF NCA CASH BALANCE PLAN
+        Benefit Category: Other
+        Codes: 1C 
+        Participants: 1
+        Assets: 404745
+        $/Participant: 404745
+        RecordKeeper: WARREN AVERETT ASSET MANAGEMENT
+    2018: GASTROENTEROLOGY ASSOCIATES OF NCA CASH BALANCE PLAN
+        Benefit Category: Other
+        Codes: 1C 
+        Participants: 119
+        Assets: 8989153
+        $/Participant: 75539
+        RecordKeeper: WARREN AVERETT ASSET MANAGEMENT

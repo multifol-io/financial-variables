@@ -1,42 +1,9 @@
 IL : CHICAGO
   BRINKS GILSON & LIONE  362706760
-   [501]
-    2021: BRINKS GILSON & LIONE GROUP INSURANCE PLAN
-        Participants: 
-    2020: BRINKS GILSON & LIONE GROUP INSURANCE PLAN
-        Participants: 
-    2019: BRINKS GILSON & LIONE INSURANCE PLAN
-        Participants: 
-    2018: BRINKS GILSON & LIONE GROUP INSURANCE PLAN
-        Participants: 
-    2017: BRINKS GILSON & LIONE GROUP INSURANCE PLAN
-        Participants: 
-   [004]
-    2021: MASTER TRUST FOR JUDICATURE PLANS OF BRINKS GILSON AND LIONE
-        Participants: 
-        RecordKeeper: COMPENSATON & CAPITAL ADMIN SVCS
-    2020: MASTER TRUST FOR JUDICATURE PLANS OF BRINKS GILSON & LIONE
-        Participants: 
-        Assets: 83789196
-        $/Participant: 
-        RecordKeeper: HUBER FINANCIAL ADVISORS, LLC
-    2019: MASTER TRUST FOR JUDICATURE PLANS OF BRINKS GILSON & LIONE
-        Participants: 
-        Assets: 88279988
-        $/Participant: 
-        RecordKeeper: FIDELITY INVESTMENTS PORTFOLIO ADVI
-    2018: MASTER TRUST FOR JUDICATURE PLANS OF BRINKS GILSON & LIONE
-        Participants: 
-        Assets: 85144354
-        $/Participant: 
-        RecordKeeper: HUBER FINANCIAL ADVISORS, LLC
-    2017: MASTER TRUST FOR JUDICATURE PLANS OF BRINKS GILSON & LIONE
-        Participants: 
-        Assets: 94141107
-        $/Participant: 
-        RecordKeeper: HUBER FINANCIAL ADVISORS, LLC
    [001]
     2021: JUDICATURE PROFIT SHARING AND 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T 
         Participants: 3
         Assets: 591537
         $/Participant: 197179
@@ -44,6 +11,8 @@ IL : CHICAGO
            - BRINKS GILSON & LIONE
                  : MASTER TRUST FOR JUDICATURE PLANS
     2020: JUDICATURE PROFIT SHARING AND 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T 
         Participants: 182
         Assets: 81111888
         $/Participant: 445669
@@ -51,6 +20,8 @@ IL : CHICAGO
            - BRINKS GILSON & LIONE
                  : MASTER TRUST FOR JUDICATURE PLANS
     2019: JUDICATURE PROFIT SHARING AND 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T 
         Participants: 220
         Assets: 85324388
         $/Participant: 387838
@@ -58,6 +29,8 @@ IL : CHICAGO
            - BRINKS GILSON & LIONE
                  : MASTER TRUST FOR JUDICATURE PLANS
     2018: JUDICATURE PROFIT SHARING AND 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T 
         Participants: 225
         Assets: 79708614
         $/Participant: 354260
@@ -65,9 +38,67 @@ IL : CHICAGO
            - BRINKS GILSON & LIONE
                  : MASTER TRUST FOR JUDICATURE PLANS
     2017: JUDICATURE PROFIT SHARING AND 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2T 
         Participants: 256
         Assets: 87955137
         $/Participant: 343574
         Available Investments:
            - BRINKS GILSON & LIONE
                  : MASTER TRUST FOR JUDICATURE PLANS
+   [501]
+    2021: BRINKS GILSON & LIONE GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4Q
+        Participants: 
+    2020: BRINKS GILSON & LIONE GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2019: BRINKS GILSON & LIONE INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4F4H4Q
+        Participants: 
+    2018: BRINKS GILSON & LIONE GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2017: BRINKS GILSON & LIONE GROUP INSURANCE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4F4H4I
+        Participants: 
+   [004]
+    2021: MASTER TRUST FOR JUDICATURE PLANS OF BRINKS GILSON AND LIONE
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        RecordKeeper: COMPENSATON & CAPITAL ADMIN SVCS
+    2020: MASTER TRUST FOR JUDICATURE PLANS OF BRINKS GILSON & LIONE
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 83789196
+        $/Participant: 
+        RecordKeeper: HUBER FINANCIAL ADVISORS, LLC
+    2019: MASTER TRUST FOR JUDICATURE PLANS OF BRINKS GILSON & LIONE
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 88279988
+        $/Participant: 
+        RecordKeeper: FIDELITY INVESTMENTS PORTFOLIO ADVI
+    2018: MASTER TRUST FOR JUDICATURE PLANS OF BRINKS GILSON & LIONE
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 85144354
+        $/Participant: 
+        RecordKeeper: HUBER FINANCIAL ADVISORS, LLC
+    2017: MASTER TRUST FOR JUDICATURE PLANS OF BRINKS GILSON & LIONE
+        Benefit Category: Other
+        Codes:  
+        Participants: 
+        Assets: 94141107
+        $/Participant: 
+        RecordKeeper: HUBER FINANCIAL ADVISORS, LLC

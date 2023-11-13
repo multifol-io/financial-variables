@@ -1,26 +1,9 @@
 MI : OKEMOS
   DELTA DENTAL PLAN OF MICHIGAN, INC.  381791480
-   [515]
-    2017: DDPMI WELFARE BENEFIT PLAN FOR RETIRED EMPLOYEES
-        Participants: 
-        Assets: 11939141
-        $/Participant: 
-        RecordKeeper: JP MORGAN CHASE
-   [504]
-    2022: DDPMI WELFARE BENEFIT PLAN FOR ACTIVE EMPLOYEES
-        Participants: 
-    2021: DDPMI WELFARE BENEFIT PLAN FOR ACTIVE EMPLOYEES
-        Participants: 
-    2020: DDPMI WELFARE BENEFIT PLAN FOR ACTIVE EMPLOYEES
-        Participants: 
-    2019: DDPMI WELFARE BENEFIT PLAN FOR ACTIVE EMPLOYEES
-        Participants: 
-    2018: DDPMI WELFARE BENEFIT PLAN FOR ACTIVE EMPLOYEES
-        Participants: 
-    2017: DDPMI WELFARE BENEFIT PLAN FOR ACTIVE EMPLOYEES
-        Participants: 
    [003]
     2022: DELTA DENTAL PLAN OF MICHIGAN EMPLOYEES' 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3F3H 
         Participants: 1287
         Assets: 79290655
         $/Participant: 61608
@@ -29,85 +12,77 @@ MI : OKEMOS
            - NEW YORK LIFE INSURANCE COMPANY
                  : NEW YORK LIFE ANCHOR ACCOUNT
     2021: DELTA DENTAL PLAN OF MICHIGAN EMPLOYEES' 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3F3H 
         Participants: 1199
         Assets: 96615357
         $/Participant: 80579
         RecordKeeper: USI CONSULTING GROUP
     2020: DELTA DENTAL PLAN OF MICHIGAN EMPLOYEES' 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3F3H 
         Participants: 1144
         Assets: 80277109
         $/Participant: 70172
         RecordKeeper: FINDLEY
     2019: DELTA DENTAL PLAN OF MICHIGAN EMPLOYEES' 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3F3H 
         Participants: 1147
         Assets: 70724701
         $/Participant: 61660
         RecordKeeper: FINDLEY
     2018: DELTA DENTAL PLAN OF MICHIGAN EMPLOYEES' 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3F3H 
         Participants: 1015
         Assets: 58590256
         $/Participant: 57724
         RecordKeeper: FINDLEY
     2017: DELTA DENTAL PLAN OF MICHIGAN, INC. EMPLOYEES' 401K PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D3F3H 
         Participants: 910
         Assets: 64282918
         $/Participant: 70640
         RecordKeeper: FINDLEY
-   [002]
-    2022: DELTA DENTAL PLAN OF MICHIGAN, INC. HOURLY RATED PENSION PLAN
-        Participants: 865
-        Assets: 54195582
-        $/Participant: 62653
-        Service Providers:
-           - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
-           - DELOITTE CONSULTING LLP : NONE KNOWN (Actuarial | Consulting(pension) | Direct payment from the plan)
-    2021: DELTA DENTAL PLAN OF MICHIGAN, INC. HOURLY RATED PENSION PLAN
-        Participants: 836
-        Assets: 69939006
-        $/Participant: 83659
-        Service Providers:
-           - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
-    2020: DELTA DENTAL PLAN OF MICHIGAN, INC. HOURLY RATED PENSION PLAN
-        Participants: 819
-        Assets: 68406849
-        $/Participant: 83524
-        Service Providers:
-           - COLUMBIA MGMT INV ADVISERS LLC : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - DELOITTE CONSULTING, LLP : NONE KNOWN (Actuarial | Consulting(pension) | Direct payment from the plan)
-           - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
-    2019: DELTA DENTAL PLAN OF MICHIGAN, INC. HOURLY RATED PENSION PLAN
-        Participants: 756
-        Assets: 61806260
-        $/Participant: 81754
-        Service Providers:
-           - COLUMBIA MGMT INV ADVISERS LLC : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - DELOITTE CONSULTING, LLP : NONE KNOWN (Actuarial | Consulting(pension) | Direct payment from the plan)
-           - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
-           - CHARLES SCHWAB TRUST BANK : NONE KNOWN (Trustee(directed) | Direct payment from the plan | Securities brokerage commissions and fees | Other investment fees and expenses)
-    2018: DELTA DENTAL PLAN OF MICHIGAN, INC. HOURLY RATED PENSION PLAN
-        Participants: 735
-        Assets: 52206450
-        $/Participant: 71029
-        Service Providers:
-           - COLUMBIA MGMT INV ADVISERS LLC : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Non - monetary compensation)
-           - DELOITTE CONSULTING, LLP : NONE KNOWN (Actuarial | Consulting(pension) | Direct payment from the plan)
-           - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
-           - INVESCO : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - CHARLES SCHWAB BANK : NONE KNOWN (Trustee(directed) | Direct payment from the plan | Securities brokerage commissions and fees | Other investment fees and expenses)
-    2017: DELTA DENTAL PLAN OF MICHIGAN, INC. HOURLY RATED PENSION PLAN
-        Participants: 691
-        Assets: 57865346
-        $/Participant: 83741
-        Service Providers:
-           - DELOITTE CONSULTING, LLP : NONE KNOWN (Actuarial | Consulting(pension) | Direct payment from the plan)
-           - COLUMBIA MGMT INV ADVISERS LLC : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
-           - INVESCO : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - AEW CAPITAL MANAGEMENT : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - CHARLES SCHWAB BANK : NONE KNOWN (Custodial(securities) | Trustee(directed) | Direct payment from the plan)
-           - CHARLES SCHWAB & CO., INC. : NONE KNOWN (Shareholder servicing fees)
+   [504]
+    2022: DDPMI WELFARE BENEFIT PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: DDPMI WELFARE BENEFIT PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: DDPMI WELFARE BENEFIT PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2019: DDPMI WELFARE BENEFIT PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2018: DDPMI WELFARE BENEFIT PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2017: DDPMI WELFARE BENEFIT PLAN FOR ACTIVE EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+   [515]
+    2017: DDPMI WELFARE BENEFIT PLAN FOR RETIRED EMPLOYEES
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Assets: 11939141
+        $/Participant: 
+        RecordKeeper: JP MORGAN CHASE
    [001]
     2022: DELTA DENTAL PLAN OF MICHIGAN, INC. RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1132
         Assets: 337429114
         $/Participant: 298082
@@ -115,6 +90,8 @@ MI : OKEMOS
            - DELOITTE CONSULTING LLP : NONE KNOWN (Actuarial | Consulting(pension) | Direct payment from the plan)
            - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
     2021: DELTA DENTAL PLAN OF MICHIGAN, INC. RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1046
         Assets: 434291164
         $/Participant: 415192
@@ -122,6 +99,8 @@ MI : OKEMOS
            - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
            - COLUMBIA MGMT INV ADVISERS LLC : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
     2020: DELTA DENTAL PLAN OF MICHIGAN, INC. RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 1066
         Assets: 424339303
         $/Participant: 398066
@@ -130,6 +109,8 @@ MI : OKEMOS
            - DELOITTE CONSULTING LLP : NONE KNOWN (Actuarial | Consulting(pension) | Direct payment from the plan)
            - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
     2019: DELTA DENTAL PLAN OF MICHIGAN, INC. RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 986
         Assets: 369241732
         $/Participant: 374484
@@ -141,6 +122,8 @@ MI : OKEMOS
            - AEW CAPITAL MANAGEMENT : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - CHARLES SCHWAB TRUST BANK : NONE KNOWN (Trustee(directed) | Direct payment from the plan | Securities brokerage commissions and fees | Other investment fees and expenses)
     2018: DELTA DENTAL PLAN OF MICHIGAN, INC. RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 923
         Assets: 306552171
         $/Participant: 332125
@@ -152,6 +135,8 @@ MI : OKEMOS
            - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
            - DELOITTE CONSULTING LLP : NONE KNOWN (Actuarial | Consulting(pension) | Direct payment from the plan)
     2017: DELTA DENTAL PLAN OF MICHIGAN, INC. RETIREMENT INCOME PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 894
         Assets: 318423102
         $/Participant: 356177
@@ -162,4 +147,69 @@ MI : OKEMOS
            - AEW CAPITAL MANAGEMENT : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - CHARLES SCHWAB BANK : NONE KNOWN (Trustee(directed) | Direct payment from the plan | Securities brokerage commissions and fees | Other investment fees and expenses)
            - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
+           - CHARLES SCHWAB & CO., INC. : NONE KNOWN (Shareholder servicing fees)
+   [002]
+    2022: DELTA DENTAL PLAN OF MICHIGAN, INC. HOURLY RATED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1B 
+        Participants: 865
+        Assets: 54195582
+        $/Participant: 62653
+        Service Providers:
+           - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
+           - DELOITTE CONSULTING LLP : NONE KNOWN (Actuarial | Consulting(pension) | Direct payment from the plan)
+    2021: DELTA DENTAL PLAN OF MICHIGAN, INC. HOURLY RATED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1B 
+        Participants: 836
+        Assets: 69939006
+        $/Participant: 83659
+        Service Providers:
+           - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
+    2020: DELTA DENTAL PLAN OF MICHIGAN, INC. HOURLY RATED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1B 
+        Participants: 819
+        Assets: 68406849
+        $/Participant: 83524
+        Service Providers:
+           - COLUMBIA MGMT INV ADVISERS LLC : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - DELOITTE CONSULTING, LLP : NONE KNOWN (Actuarial | Consulting(pension) | Direct payment from the plan)
+           - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
+    2019: DELTA DENTAL PLAN OF MICHIGAN, INC. HOURLY RATED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1B 
+        Participants: 756
+        Assets: 61806260
+        $/Participant: 81754
+        Service Providers:
+           - COLUMBIA MGMT INV ADVISERS LLC : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - DELOITTE CONSULTING, LLP : NONE KNOWN (Actuarial | Consulting(pension) | Direct payment from the plan)
+           - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
+           - CHARLES SCHWAB TRUST BANK : NONE KNOWN (Trustee(directed) | Direct payment from the plan | Securities brokerage commissions and fees | Other investment fees and expenses)
+    2018: DELTA DENTAL PLAN OF MICHIGAN, INC. HOURLY RATED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1B 
+        Participants: 735
+        Assets: 52206450
+        $/Participant: 71029
+        Service Providers:
+           - COLUMBIA MGMT INV ADVISERS LLC : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Non - monetary compensation)
+           - DELOITTE CONSULTING, LLP : NONE KNOWN (Actuarial | Consulting(pension) | Direct payment from the plan)
+           - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
+           - INVESCO : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - CHARLES SCHWAB BANK : NONE KNOWN (Trustee(directed) | Direct payment from the plan | Securities brokerage commissions and fees | Other investment fees and expenses)
+    2017: DELTA DENTAL PLAN OF MICHIGAN, INC. HOURLY RATED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1B 
+        Participants: 691
+        Assets: 57865346
+        $/Participant: 83741
+        Service Providers:
+           - DELOITTE CONSULTING, LLP : NONE KNOWN (Actuarial | Consulting(pension) | Direct payment from the plan)
+           - COLUMBIA MGMT INV ADVISERS LLC : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - PLANTE & MORAN, PLLC : NONE KNOWN (Accounting(including auditing) | Direct payment from the plan)
+           - INVESCO : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - AEW CAPITAL MANAGEMENT : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - CHARLES SCHWAB BANK : NONE KNOWN (Custodial(securities) | Trustee(directed) | Direct payment from the plan)
            - CHARLES SCHWAB & CO., INC. : NONE KNOWN (Shareholder servicing fees)

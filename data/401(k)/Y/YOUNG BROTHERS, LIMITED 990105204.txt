@@ -1,20 +1,9 @@
 HI : HONOLULU
   YOUNG BROTHERS, LIMITED  990105204
-   [518]
-    2022: YOUNG BROTHERS, LIMITED WELFARE BENEFITS PLAN
-        Participants: 
-    2021: YOUNG BROTHERS, LIMITED WELFARE BENEFITS PLAN
-        Participants: 
-    2020: YOUNG BROTHERS, LIMITED WELFARE BENEFITS PLAN
-        Participants: 
-    2019: YOUNG BROTHERS, LIMITED WELFARE BENEFITS PLAN
-        Participants: 
-    2018: YOUNG BROTHERS, LIMITED WELFARE BENEFITS PLAN
-        Participants: 
-    2017: YOUNG BROTHERS, LIMITED WELFARE BENEFITS PLAN
-        Participants: 
    [516]
     2022: POSTRETIREMENT WELFARE BENEFITS PLAN FOR EMPLOYEES OF YOUNG BROTHERS, LIMITED
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4U
         Participants: 
         Assets: 17083144
         $/Participant: 
@@ -32,6 +21,8 @@ HI : HONOLULU
                  : MSCI ACWI INDEX NL CTF
                  : U.S. TIPS INDEX NL CTF
     2021: POSTRETIREMENT WELFARE BENEFITS PLAN FOR EMPLOYEES OF YOUNG BROTHERS, LIMITED
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4U
         Participants: 
         Assets: 21418687
         $/Participant: 
@@ -48,27 +39,77 @@ HI : HONOLULU
                  : MSCI ACWI INDEX NL CTF
                  : U.S. TIPS INDEX NL CTF
     2020: POSTRETIREMENT WELFARE BENEFITS PLAN FOR EMPLOYEES OF YOUNG BROTHERS, LIMITED
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4U
         Participants: 
         Assets: 19584279
         $/Participant: 
         RecordKeeper: SCHWAB RETIREMENT PLAN SERVICES INC
     2019: POSTRETIREMENT WELFARE BENEFITS PLAN FOR EMPLOYEES OF YOUNG BROTHERS, LIMITED
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4U
         Participants: 
         Assets: 17662151
         $/Participant: 
         RecordKeeper: SCHWAB RETIREMENT PLAN SERVICES INC
     2018: POSTRETIREMENT WELFARE BENEFITS PLAN FOR EMPLOYEES OF YOUNG BROTHERS, LIMITED
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4U
         Participants: 
         Assets: 15004797
         $/Participant: 
         RecordKeeper: SCHWAB RETIREMENT PLAN SERVICES INC
     2017: POSTRETIREMENT WELFARE BENEFITS PLAN FOR EMPLOYEES OF YOUNG BROTHERS, LIMITED
+        Benefit Category: Healthcare
+        Codes:  4A4B4E4U
         Participants: 
         Assets: 16697124
         $/Participant: 
         RecordKeeper: SCHWAB RETIREMENT PLAN SERVICES INC
+   [518]
+    2022: YOUNG BROTHERS, LIMITED WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2021: YOUNG BROTHERS, LIMITED WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2020: YOUNG BROTHERS, LIMITED WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2019: YOUNG BROTHERS, LIMITED WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2018: YOUNG BROTHERS, LIMITED WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2017: YOUNG BROTHERS, LIMITED WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+   [003]
+    2022: YOUNG BROTHERS, LIMITED SALARIED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
+        Participants: 92
+        Available Investments:
+           - THE BANK OF NEW YORK MELLON
+                 : EB TEMP INV FD 1.147% 12/31/2049 DD
+    2021: YOUNG BROTHERS, LIMITED SALARIED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I3H 
+        Participants: 92
+        Available Investments:
+           - THE BANK OF NEW YORK MELLON
+                 : EB TEMP INV FD 1.147% 12/31/2049 DD
    [004]
     2022: YOUNG BROTHERS, LIMITED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1B3H 
         Participants: 325
         Assets: 77562433
         $/Participant: 238653
@@ -88,6 +129,8 @@ HI : HONOLULU
                  : WTW GT DIVERSIFIED EQUITY FUND
                  : WTW GT REAL ASSETS FUND
     2021: YOUNG BROTHERS, LIMITED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1B3H 
         Participants: 315
         Assets: 104380726
         $/Participant: 331367
@@ -98,6 +141,8 @@ HI : HONOLULU
            - TOWERS WATSON INVESTMENT SERVICES, INC.
                  : WTW GT DIVERSIFIED CREDIT FUND
     2020: YOUNG BROTHERS, LIMITED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1B3H 
         Participants: 313
         Assets: 91608909
         $/Participant: 292680
@@ -106,6 +151,8 @@ HI : HONOLULU
            - MASSACHUSETTS MUTUAL LIFE INSURANCE
                  : SIA- G
     2019: YOUNG BROTHERS, LIMITED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1B3H 
         Participants: 307
         Assets: 80642788
         $/Participant: 262680
@@ -127,6 +174,8 @@ HI : HONOLULU
            - MASSACHUSETTS MUTUAL LIFE INSURANCE
                  : SIA- G
     2018: YOUNG BROTHERS, LIMITED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1B 
         Participants: 291
         Assets: 59790921
         $/Participant: 205467
@@ -149,6 +198,8 @@ HI : HONOLULU
            - MASSACHUSETTS MUTUAL LIFE INSURANCE
                  : SIA- G
     2017: YOUNG BROTHERS, LIMITED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1B 
         Participants: 304
         Assets: 66277210
         $/Participant: 218017
@@ -190,14 +241,3 @@ HI : HONOLULU
                  : SIA-YI
                  : SIA-YK
                  : SIA-YX
-   [003]
-    2022: YOUNG BROTHERS, LIMITED SALARIED PENSION PLAN
-        Participants: 92
-        Available Investments:
-           - THE BANK OF NEW YORK MELLON
-                 : EB TEMP INV FD 1.147% 12/31/2049 DD
-    2021: YOUNG BROTHERS, LIMITED SALARIED PENSION PLAN
-        Participants: 92
-        Available Investments:
-           - THE BANK OF NEW YORK MELLON
-                 : EB TEMP INV FD 1.147% 12/31/2049 DD

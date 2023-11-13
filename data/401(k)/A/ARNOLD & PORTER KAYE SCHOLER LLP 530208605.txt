@@ -1,81 +1,9 @@
 DC : WASHINGTON
   ARNOLD & PORTER KAYE SCHOLER LLP  530208605
-   [517]
-    2022: ARNOLD & PORTER KAYE SCHOLER LLP WELFARE BENEFITS PLAN
-        Participants: 
-    2021: ARNOLD & PORTER KAYE SCHOLER LLP WELFARE BENEFITS PLAN
-        Participants: 
-    2020: ARNOLD & PORTER KAYE SCHOLER LLP WELFARE BENEFITS PLAN
-        Participants: 
-    2019: ARNOLD & PORTER KAYE SCHOLER LLP WELFARE BENEFITS PLAN
-        Participants: 
-    2018: ARNOLD AND PORTER LLP WELFARE BENEFITS PLAN
-        Participants: 
-    2017: ARNOLD AND PORTER LLP WELFARE BENEFITS PLAN
-        Participants: 
-   [047]
-    2022: ARNOLD & PORTER CASH BALANCE PLAN AND TRUST
-        Participants: 358
-        Assets: 147733997
-        $/Participant: 412664
-        Available Investments:
-           - JOHN HANCOCK TRUST COMPANY
-                 : JOHN HANCOCK STRATEGIC FIXED INCOME
-    2021: ARNOLD & PORTER CASH BALANCE PLAN AND TRUST
-        Participants: 349
-        Assets: 130612516
-        $/Participant: 374247
-        Available Investments:
-           - JOHN HANCOCK TRUST COMPANY
-                 : JOHN HANCOCK STRATEGIC FIXED INCOME
-    2020: ARNOLD & PORTER CASH BALANCE PLAN AND TRUST
-        Participants: 357
-        Assets: 102008569
-        $/Participant: 285738
-        Available Investments:
-           - JOHN HANCOCK TRUST COMPANY
-                 : JOHN HANCOCK STRATEGIC FIXED INCOME
-    2019: ARNOLD & PORTER CASH BALANCE PLAN AND TRUST
-        Participants: 333
-        Assets: 64390689
-        $/Participant: 193365
-        Available Investments:
-           - MANULIFE ASSET MANAGEMENT TRUST COMPANY
-                 : MANULIFE AMTC STRATEGIC FIXED INC
-    2018: ARNOLD & PORTER CASH BALANCE PLAN AND TRUST
-        Participants: 343
-        Assets: 33724956
-        $/Participant: 98323
-   [046]
-    2019: ARNOLD & PORTER KAYE SCHOLER LLP PENSION PLAN AND TRUST
-        Participants: 0
-        Service Providers:
-           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
-    2018: ARNOLD & PORTER KAYE SCHOLER LLP PENSION PLAN AND TRUST
-        Participants: 0
-        Service Providers:
-           - VAUGHAN NELSON INVESTMENT MGMT :  (Investment management | Investment management fees paid directly by plan)
-        Available Investments:
-           - MANULIFE ASSET MANAGEMENT TRUST COMPANY
-                 : MANULIFE STRATEGIC FIXED INCOME FD
-    2017: ARNOLD & PORTER KAYE SCHOLER LLP PENSION PLAN AND TRUST
-        Participants: 377
-        Assets: 185605552
-        $/Participant: 492322
-        Service Providers:
-           - VAUGHAN NELSON INVESTMENT MGMT :  (Investment management | Investment management fees paid directly by plan)
-        Available Investments:
-           - MANULIFE ASSET MANAGEMENT TRUST COMPANY
-                 : MANULIFE STRATEGIC FIXED INCOME FD
-   [004]
-    2017: KAYE SCHOLER LLP CASH OR DEFERRED PLAN
-        Participants: 0
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : MIP CL 1
    [001]
     2022: ARNOLD & PORTER KAYE SCHOLER LLP PROFIT-SHARING AND 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2S2T3B 4B
         Participants: 3010
         Assets: 1138263071
         $/Participant: 378160
@@ -94,6 +22,8 @@ DC : WASHINGTON
                  : JPMCB SMART RET PB 2055
                  : JPMCB SMART RET PB INCOME
     2021: ARNOLD & PORTER KAYE SCHOLER LLP PROFIT-SHARING AND 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2S2T3B 4B
         Participants: 2929
         Assets: 1390773769
         $/Participant: 474828
@@ -112,6 +42,8 @@ DC : WASHINGTON
                  : JPMCB SMART RET PB 2055
                  : JPMCB SMART RET PB INCOME
     2020: ARNOLD & PORTER KAYE SCHOLER LLP PROFIT-SHARING AND 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2S2T3B 4B
         Participants: 2886
         Assets: 1221770103
         $/Participant: 423343
@@ -128,6 +60,8 @@ DC : WASHINGTON
                  : JPMCB SMART RET PB 2055
                  : JPMCB SMART RET PB INCOME
     2019: ARNOLD & PORTER KAYE SCHOLER LLP PROFIT-SHARING AND 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2S2T3B 4B
         Participants: 2953
         Assets: 1059590188
         $/Participant: 358818
@@ -144,6 +78,8 @@ DC : WASHINGTON
                  : JPMCB SMART RET PB 2055
                  : JPMCB SMART RET PB INCOME
     2018: ARNOLD & PORTER KAYE SCHOLER LLP PROFIT-SHARING AND 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3B 4B
         Participants: 2956
         Assets: 898883307
         $/Participant: 304087
@@ -160,6 +96,8 @@ DC : WASHINGTON
                  : JPM SMARTRETIREMENT PASSIVE BL 2055
                  : JPM SMARTRETIREMENT PASSIVE BL INC
     2017: ARNOLD & PORTER KAYE SCHOLER LLP PROFIT-SHARING AND 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3B 4B
         Participants: 3000
         Assets: 865487649
         $/Participant: 288495
@@ -176,3 +114,107 @@ DC : WASHINGTON
                  : JPM SMARTRETIREMENT PASSIVE BL 2050
                  : JPM SMARTRETIREMENT PASSIVE BL 2055
                  : JPM SMARTRETIREMENT PASSIVE BL INC
+   [004]
+    2017: KAYE SCHOLER LLP CASH OR DEFERRED PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2J2R2T3B 
+        Participants: 0
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : MIP CL 1
+   [517]
+    2022: ARNOLD & PORTER KAYE SCHOLER LLP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: ARNOLD & PORTER KAYE SCHOLER LLP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: ARNOLD & PORTER KAYE SCHOLER LLP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: ARNOLD & PORTER KAYE SCHOLER LLP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: ARNOLD AND PORTER LLP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: ARNOLD AND PORTER LLP WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+   [047]
+    2022: ARNOLD & PORTER CASH BALANCE PLAN AND TRUST
+        Benefit Category: Other
+        Codes: 1C3B 
+        Participants: 358
+        Assets: 147733997
+        $/Participant: 412664
+        Available Investments:
+           - JOHN HANCOCK TRUST COMPANY
+                 : JOHN HANCOCK STRATEGIC FIXED INCOME
+    2021: ARNOLD & PORTER CASH BALANCE PLAN AND TRUST
+        Benefit Category: Other
+        Codes: 1C3B 
+        Participants: 349
+        Assets: 130612516
+        $/Participant: 374247
+        Available Investments:
+           - JOHN HANCOCK TRUST COMPANY
+                 : JOHN HANCOCK STRATEGIC FIXED INCOME
+    2020: ARNOLD & PORTER CASH BALANCE PLAN AND TRUST
+        Benefit Category: Other
+        Codes: 1C3B 
+        Participants: 357
+        Assets: 102008569
+        $/Participant: 285738
+        Available Investments:
+           - JOHN HANCOCK TRUST COMPANY
+                 : JOHN HANCOCK STRATEGIC FIXED INCOME
+    2019: ARNOLD & PORTER CASH BALANCE PLAN AND TRUST
+        Benefit Category: Other
+        Codes: 1C3B 
+        Participants: 333
+        Assets: 64390689
+        $/Participant: 193365
+        Available Investments:
+           - MANULIFE ASSET MANAGEMENT TRUST COMPANY
+                 : MANULIFE AMTC STRATEGIC FIXED INC
+    2018: ARNOLD & PORTER CASH BALANCE PLAN AND TRUST
+        Benefit Category: Other
+        Codes: 1C3B 
+        Participants: 343
+        Assets: 33724956
+        $/Participant: 98323
+   [046]
+    2019: ARNOLD & PORTER KAYE SCHOLER LLP PENSION PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1B1C1H1I3B 
+        Participants: 0
+        Service Providers:
+           - OCTOBER THREE CONSULTING LLC :  (Actuarial | Direct payment from the plan)
+    2018: ARNOLD & PORTER KAYE SCHOLER LLP PENSION PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1B1C1H1I3B 
+        Participants: 0
+        Service Providers:
+           - VAUGHAN NELSON INVESTMENT MGMT :  (Investment management | Investment management fees paid directly by plan)
+        Available Investments:
+           - MANULIFE ASSET MANAGEMENT TRUST COMPANY
+                 : MANULIFE STRATEGIC FIXED INCOME FD
+    2017: ARNOLD & PORTER KAYE SCHOLER LLP PENSION PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1B1C1I3B 
+        Participants: 377
+        Assets: 185605552
+        $/Participant: 492322
+        Service Providers:
+           - VAUGHAN NELSON INVESTMENT MGMT :  (Investment management | Investment management fees paid directly by plan)
+        Available Investments:
+           - MANULIFE ASSET MANAGEMENT TRUST COMPANY
+                 : MANULIFE STRATEGIC FIXED INCOME FD

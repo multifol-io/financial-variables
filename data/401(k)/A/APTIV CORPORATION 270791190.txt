@@ -1,80 +1,9 @@
 MI : TROY
   APTIV CORPORATION  270791190
-   [506]
-    2022: THE APTIV SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
-        Participants: 
-    2021: THE APTIV SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
-        Participants: 
-    2020: THE APTIV SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
-        Participants: 
-    2019: THE APTIV SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
-        Participants: 
-    2018: THE APTIV SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
-        Participants: 
-    2017: THE APTIV SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
-        Participants: 
-   [501]
-    2022: APTIV CORPORATION WELFARE BENEFITS PLAN
-        Participants: 
-    2021: APTIV CORPORATION WELFARE BENEFITS PLAN
-        Participants: 
-    2020: APTIV CORPORATION WELFARE BENEFITS PLAN
-        Participants: 
-    2018: APTIV CORPORATION WELFARE BENEFITS PLAN
-        Participants: 
-    2017: APTIV CORPORATION WELFARE BENEFITS PLAN
-        Participants: 
-   [004]
-    2022: APTIV HOURLY 401(K) PLAN
-        Participants: 4377
-        Assets: 277863453
-        $/Participant: 63482
-        RecordKeeper: FIDELITY MANAGEMENT TRUST COMPANY
-        Available Investments:
-           - APTIV CORPORATION
-                 : APTIV CORPORATION SAVINGS TRUST
-    2021: APTIV HOURLY 401(K) PLAN
-        Participants: 4642
-        Assets: 347270996
-        $/Participant: 74810
-        RecordKeeper: FIDELITY MGMT TRUST CO
-        Available Investments:
-           - APTIV CORPORATION
-                 : APTIV CORPORATION SAVINGS TRUST
-    2020: APTIV PERSONAL SAVINGS PLAN FOR HOURLY-RATE EMPLOYEES IN THE UNITED STATES
-        Participants: 4779
-        Assets: 337072842
-        $/Participant: 70532
-        RecordKeeper: NEPC, LLP
-        Available Investments:
-           - APTIV CORPORATION
-                 : APTIV CORPORATION SAVINGS TRUST
-    2019: APTIV PERSONAL SAVINGS PLAN FOR HOURLY-RATE EMPLOYEES IN THE UNITED STATES
-        Participants: 5063
-        Assets: 328087000
-        $/Participant: 64800
-        RecordKeeper: NEPC, LLP
-        Available Investments:
-           - APTIV CORPORATION
-                 : APTIV CORPORATION SAVINGS TRUST
-    2018: APTIV PERSONAL SAVINGS PLAN FOR HOURLY-RATE EMPLOYEES IN THE UNITED STATES
-        Participants: 5311
-        Assets: 306444000
-        $/Participant: 57699
-        RecordKeeper: NEPC, LLP
-        Available Investments:
-           - APTIV CORPORATION
-                 : APTIV CORPORATION SAVINGS TRUST
-    2017: APTIV PERSONAL SAVINGS PLAN FOR HOURLY-RATE EMPLOYEES IN THE UNITED STATES
-        Participants: 5570
-        Assets: 345310000
-        $/Participant: 61994
-        RecordKeeper: DICKINSON WRIGHT
-        Available Investments:
-           - APTIV CORPORATION (FORMERLY KNOWN AS DELPHI CORPORATION)
-                 : APTIV CORPORATION SAVINGS TRUST
    [002]
     2022: APTIV SALARIED 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
         Participants: 6446
         Assets: 1389604636
         $/Participant: 215576
@@ -83,6 +12,8 @@ MI : TROY
            - APTIV CORPORATION
                  : APTIV CORPORATION SAVINGS TRUST
     2021: APTIV SALARIED 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
         Participants: 6507
         Assets: 1728524906
         $/Participant: 265640
@@ -91,6 +22,8 @@ MI : TROY
            - APTIV CORPORATION
                  : APTIV CORPORATION SAVINGS TRUST
     2020: APTIV SALARIED RETIREMENT SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
         Participants: 6524
         Assets: 1643274721
         $/Participant: 251881
@@ -99,6 +32,8 @@ MI : TROY
            - APTIV CORPORATION
                  : APTIV CORPORATION SAVINGS TRUST
     2019: APTIV SALARIED RETIREMENT SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
         Participants: 7089
         Assets: 1586052000
         $/Participant: 223734
@@ -107,6 +42,8 @@ MI : TROY
            - APTIV CORPORATION
                  : APTIV CORPORATION SAVINGS TRUST
     2018: APTIV SALARIED RETIREMENT SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
         Participants: 8497
         Assets: 1412418000
         $/Participant: 166225
@@ -115,6 +52,8 @@ MI : TROY
            - APTIV CORPORATION
                  : APTIV CORPORATION SAVINGS TRUST
     2017: APTIV SALARIED RETIREMENT SAVINGS PROGRAM
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
         Participants: 7778
         Assets: 1552074000
         $/Participant: 199546
@@ -131,8 +70,97 @@ MI : TROY
                  : JH MULTIMANAGER 2050 LIFETIME
                  : JH MULTIMANAGER 2055 LIFETIME
                  : JH MULTIMANAGER 2060 LIFETIME
+   [004]
+    2022: APTIV HOURLY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
+        Participants: 4377
+        Assets: 277863453
+        $/Participant: 63482
+        RecordKeeper: FIDELITY MANAGEMENT TRUST COMPANY
+        Available Investments:
+           - APTIV CORPORATION
+                 : APTIV CORPORATION SAVINGS TRUST
+    2021: APTIV HOURLY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
+        Participants: 4642
+        Assets: 347270996
+        $/Participant: 74810
+        RecordKeeper: FIDELITY MGMT TRUST CO
+        Available Investments:
+           - APTIV CORPORATION
+                 : APTIV CORPORATION SAVINGS TRUST
+    2020: APTIV PERSONAL SAVINGS PLAN FOR HOURLY-RATE EMPLOYEES IN THE UNITED STATES
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
+        Participants: 4779
+        Assets: 337072842
+        $/Participant: 70532
+        RecordKeeper: NEPC, LLP
+        Available Investments:
+           - APTIV CORPORATION
+                 : APTIV CORPORATION SAVINGS TRUST
+    2019: APTIV PERSONAL SAVINGS PLAN FOR HOURLY-RATE EMPLOYEES IN THE UNITED STATES
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
+        Participants: 5063
+        Assets: 328087000
+        $/Participant: 64800
+        RecordKeeper: NEPC, LLP
+        Available Investments:
+           - APTIV CORPORATION
+                 : APTIV CORPORATION SAVINGS TRUST
+    2018: APTIV PERSONAL SAVINGS PLAN FOR HOURLY-RATE EMPLOYEES IN THE UNITED STATES
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
+        Participants: 5311
+        Assets: 306444000
+        $/Participant: 57699
+        RecordKeeper: NEPC, LLP
+        Available Investments:
+           - APTIV CORPORATION
+                 : APTIV CORPORATION SAVINGS TRUST
+    2017: APTIV PERSONAL SAVINGS PLAN FOR HOURLY-RATE EMPLOYEES IN THE UNITED STATES
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
+        Participants: 5570
+        Assets: 345310000
+        $/Participant: 61994
+        RecordKeeper: DICKINSON WRIGHT
+        Available Investments:
+           - APTIV CORPORATION (FORMERLY KNOWN AS DELPHI CORPORATION)
+                 : APTIV CORPORATION SAVINGS TRUST
+   [501]
+    2022: APTIV CORPORATION WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4Q
+        Participants: 
+    2021: APTIV CORPORATION WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4Q
+        Participants: 
+    2020: APTIV CORPORATION WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4Q
+        Participants: 
+    2018: APTIV CORPORATION WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4Q
+        Participants: 
+    2017: APTIV CORPORATION WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4Q
+        Participants: 
    [001]
     2022: APTIV CORPORATION SAVINGS TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 1657468079
         $/Participant: 
@@ -156,6 +184,8 @@ MI : TROY
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CIF II SMALL CAP VALUE SERIES 1
     2021: APTIV CORPORATION SAVINGS TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 2064164254
         $/Participant: 
@@ -182,6 +212,8 @@ MI : TROY
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CIF II SMALL CAP VALUE SERIES 1
     2020: APTIV CORPORATION SAVINGS TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 1966748821
         $/Participant: 
@@ -207,6 +239,8 @@ MI : TROY
                  : LSV INTL ACWI EX-US VALUE EQUITY
                  : LSV US LARGE CAP VALUE EQUITY
     2019: APTIV CORPORATION SAVINGS TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 1893551229
         $/Participant: 
@@ -233,6 +267,8 @@ MI : TROY
                  : LSV INTL ACWI EX-US VALUE EQUITY
                  : LSV US LARGE CAP VALUE EQUITY
     2018: APTIV CORPORATION SAVINGS TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 1695781166
         $/Participant: 
@@ -258,6 +294,8 @@ MI : TROY
                  : LSV INTL ACWI EX-US VALUE EQUITY
                  : LSV US LARGE CAP VALUE EQUITY
     2017: APTIV CORPORATION SAVINGS TRUST
+        Benefit Category: Other
+        Codes:  
         Participants: 
         Assets: 1865343293
         $/Participant: 
@@ -289,3 +327,28 @@ MI : TROY
            - THE NORTHERN TRUST COMPANY
                  : LSV INTL ACWI EX-US VALUE EQUITY
                  : LSV US LARGE CAP VALUE EQUITY
+   [506]
+    2022: THE APTIV SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4C
+        Participants: 
+    2021: THE APTIV SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4C
+        Participants: 
+    2020: THE APTIV SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4C
+        Participants: 
+    2019: THE APTIV SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4C
+        Participants: 
+    2018: THE APTIV SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4C
+        Participants: 
+    2017: THE APTIV SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
+        Benefit Category: Other
+        Codes:  4C
+        Participants: 

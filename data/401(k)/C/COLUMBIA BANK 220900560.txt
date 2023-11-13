@@ -1,41 +1,134 @@
 NJ : FAIR LAWN
   COLUMBIA BANK  220900560
-   [501]
-    2022: COLUMBIA BANK WRAP BENEFIT PLAN
-        Participants: 
-    2021: COLUMBIA BANK WRAP BENEFIT PLAN
-        Participants: 
-    2020: COLUMBIA BANK WRAP BENEFIT PLAN
-        Participants: 
-    2019: COLUMBIA BANK WRAP BENEFIT PLAN
-        Participants: 
-    2018: COLUMBIA BANK WRAP BENEFIT PLAN
-        Participants: 
-    2017: COLUMBIA BANK WRAP BENEFIT PLAN
-        Participants: 
+   [002]
+    2022: COLUMBIA BANK SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2J2K2S2G2E2F2T3D3H 
+        Participants: 1049
+        Assets: 115954102
+        $/Participant: 110537
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+    2021: COLUMBIA BANK SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
+        Participants: 1082
+        Assets: 138853710
+        $/Participant: 128330
+        Service Providers:
+           - NEWPORT GROUP, INC. : RECORD-KEEPER (Contract Administrator)
+           - NEWPORT TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar))
+    2020: COLUMBIA BANK SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
+        Participants: 989
+        Assets: 123641299
+        $/Participant: 125016
+        Service Providers:
+           - NEWPORT GROUP, INC. : RECORD-KEEPER (Contract Administrator)
+           - NEWPORT TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar))
+    2019: COLUMBIA BANK SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
+        Participants: 968
+        Assets: 98947981
+        $/Participant: 102218
+        Service Providers:
+           - NEWPORT GROUP, INC. : RECORD-KEEPER (Contract Administrator)
+           - NEWPORT TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar))
+    2018: COLUMBIA BANK SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
+        Participants: 777
+        Assets: 82374200
+        $/Participant: 106015
+        Service Providers:
+           - NEWPORT GROUP, INC. : ADMINISTRATOR (Contract Administrator)
+           - NEWPORT TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar))
+    2017: COLUMBIA BANK SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D3H 
+        Participants: 740
+        Assets: 76948226
+        $/Participant: 103984
+        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Available Investments:
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : MIP CL 1
    [004]
     2022: COLUMBIA BANK EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I3I2P 
         Participants: 914
         Assets: 96856574
         $/Participant: 105969
     2021: COLUMBIA BANK EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I3I2P 
         Participants: 763
         Assets: 93963626
         $/Participant: 123150
     2020: COLUMBIA BANK EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I3I2P 
         Participants: 750
         Assets: 70568288
         $/Participant: 94091
     2019: COLUMBIA BANK EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I3I2P 
         Participants: 666
         Assets: 76927724
         $/Participant: 115507
     2018: COLUMBIA BANK EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2I3I2P 
         Participants: 614
         Assets: 69460253
         $/Participant: 113127
+   [501]
+    2022: COLUMBIA BANK WRAP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4I
+        Participants: 
+    2021: COLUMBIA BANK WRAP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4E4I
+        Participants: 
+    2020: COLUMBIA BANK WRAP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4E4I
+        Participants: 
+    2019: COLUMBIA BANK WRAP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4E4I
+        Participants: 
+    2018: COLUMBIA BANK WRAP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4E4I
+        Participants: 
+    2017: COLUMBIA BANK WRAP BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4E4I
+        Participants: 
+   [001]
+    2021: THE RETIREMENT PLAN OF RSI BANK IN PENTEGRA RETIREMENT TRUST
+        Benefit Category: Pension
+        Codes: 1A1I3H 
+        Participants: 64
+        Available Investments:
+           - PRT INVESTMENT PORTFOLIO
+                 : LIABILITY FOCUSED FIXED INCOME
+                 : LONG TERM GROWTH EQUITY
    [003]
     2021: COLUMBIA BANK RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3D3H 
         Participants: 908
         Assets: 405203372
         $/Participant: 446259
@@ -49,6 +142,8 @@ NJ : FAIR LAWN
            - MFS HERITAGE TRUST COMPANY
                  : MFS HTC CIT-MFSINTERNATIONAL GROWTH
     2020: COLUMBIA BANK RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3D3H 
         Participants: 930
         Assets: 438552387
         $/Participant: 471561
@@ -61,6 +156,8 @@ NJ : FAIR LAWN
            - MFS HERITAGE TRUST COMPANY
                  : MFS HTC CIT-MFSINTERNATIONAL GROWTH
     2019: COLUMBIA BANK RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3D3H 
         Participants: 967
         Assets: 354032178
         $/Participant: 366113
@@ -76,6 +173,8 @@ NJ : FAIR LAWN
            - MFS HERITAGE TRUST COMPANY
                  : MFS HTC CIT-MFSINTERNATIONAL GROWTH
     2018: COLUMBIA BANK RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3D3H 
         Participants: 994
         Assets: 338377959
         $/Participant: 340420
@@ -93,6 +192,8 @@ NJ : FAIR LAWN
            - MFS HERITAGE TRUST COMPANY
                  : MFS HTC CIT-MFSINTERNATIONAL GROWTH
     2017: COLUMBIA BANK RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A3D3H 
         Participants: 976
         Assets: 287486765
         $/Participant: 294556
@@ -113,52 +214,3 @@ NJ : FAIR LAWN
                  : JPMCB STRATEGIC PROPERTY FUND
            - MFS HERITAGE TRUST COMPANY
                  : MFS HTC CIT-MFSINTERNATIONAL GROWTH
-   [002]
-    2022: COLUMBIA BANK SAVINGS AND INVESTMENT PLAN
-        Participants: 1049
-        Assets: 115954102
-        $/Participant: 110537
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2021: COLUMBIA BANK SAVINGS AND INVESTMENT PLAN
-        Participants: 1082
-        Assets: 138853710
-        $/Participant: 128330
-        Service Providers:
-           - NEWPORT GROUP, INC. : RECORD-KEEPER (Contract Administrator)
-           - NEWPORT TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar))
-    2020: COLUMBIA BANK SAVINGS AND INVESTMENT PLAN
-        Participants: 989
-        Assets: 123641299
-        $/Participant: 125016
-        Service Providers:
-           - NEWPORT GROUP, INC. : RECORD-KEEPER (Contract Administrator)
-           - NEWPORT TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar))
-    2019: COLUMBIA BANK SAVINGS AND INVESTMENT PLAN
-        Participants: 968
-        Assets: 98947981
-        $/Participant: 102218
-        Service Providers:
-           - NEWPORT GROUP, INC. : RECORD-KEEPER (Contract Administrator)
-           - NEWPORT TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar))
-    2018: COLUMBIA BANK SAVINGS AND INVESTMENT PLAN
-        Participants: 777
-        Assets: 82374200
-        $/Participant: 106015
-        Service Providers:
-           - NEWPORT GROUP, INC. : ADMINISTRATOR (Contract Administrator)
-           - NEWPORT TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar))
-    2017: COLUMBIA BANK SAVINGS AND INVESTMENT PLAN
-        Participants: 740
-        Assets: 76948226
-        $/Participant: 103984
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-        Available Investments:
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : MIP CL 1
-   [001]
-    2021: THE RETIREMENT PLAN OF RSI BANK IN PENTEGRA RETIREMENT TRUST
-        Participants: 64
-        Available Investments:
-           - PRT INVESTMENT PORTFOLIO
-                 : LIABILITY FOCUSED FIXED INCOME
-                 : LONG TERM GROWTH EQUITY

@@ -1,16 +1,9 @@
 ND : FARGO
   VOGEL LAW FIRM  450348495
-   [501]
-    2020: VOGEL LAW FIRM LIFE & DISABILITY PLAN
-        Participants: 
-    2019: VOGEL LAW FIRM LIFE & DISABILITY PLAN
-        Participants: 
-    2018: VOGEL LAW FIRM LIFE & DISABILITY PLAN
-        Participants: 
-    2017: VOGEL LAW FIRM LIFE & DISABILITY PLAN
-        Participants: 
    [002]
     2022: VOGEL LAW FIRM 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 131
         Assets: 41880099
         $/Participant: 319695
@@ -19,6 +12,8 @@ ND : FARGO
            - FEDERATED INVESTORS TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND 25
     2021: VOGEL LAW FIRM 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 125
         Assets: 54735909
         $/Participant: 437887
@@ -28,6 +23,8 @@ ND : FARGO
                  : FEDERATED CAPITAL PRESERVATION FUND
                  : PUTNAM STABLE VALUE FUND 25
     2020: VOGEL LAW FIRM 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 128
         Assets: 47645693
         $/Participant: 372231
@@ -36,6 +33,8 @@ ND : FARGO
            - FEDERATED INVESTORS TRUST COMPANY
                  : CAPITAL PRESERVATION FUND
     2019: VOGEL LAW FIRM 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 124
         Assets: 19998836
         $/Participant: 161280
@@ -46,6 +45,8 @@ ND : FARGO
            - FEDERATED INVESTORS TRUST COMPANY
                  : CAPITAL PRESERVATION FUND
     2018: VOGEL LAW FIRM 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 125
         Assets: 16147176
         $/Participant: 129177
@@ -56,6 +57,8 @@ ND : FARGO
            - FEDERATED INVESTORS TRUST COMPANY
                  : CAPITAL PRESERVATION FUND
     2017: VOGEL LAW FIRM 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 117
         Assets: 17312363
         $/Participant: 147968
@@ -67,13 +70,34 @@ ND : FARGO
                  : CAPITAL PRESERVATION FUND
    [001]
     2020: VOGEL LAW FIRM MONEY PURCHASE PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2T3D 
         Participants: 0
         Service Providers:
            - MID ATLANTIC TRUST COMPANY : CUSTODIAN (Custodial(securities))
     2019: VOGEL LAW FIRM MONEY PURCHASE PLAN
+        Benefit Category: Other
+        Codes: 2C2F2G2T3D 
         Participants: 120
         Assets: 22156510
         $/Participant: 184637
         Service Providers:
            - FIRST INTERNATIONAL BANK & TRUST : ADVISOR (Contract Administrator)
            - MID ATLANTIC TRUST COMAPNY : CUSTODIAN (Custodial(securities))
+   [501]
+    2020: VOGEL LAW FIRM LIFE & DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L4R
+        Participants: 
+    2019: VOGEL LAW FIRM LIFE & DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L4S
+        Participants: 
+    2018: VOGEL LAW FIRM LIFE & DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L4S
+        Participants: 
+    2017: VOGEL LAW FIRM LIFE & DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L4S
+        Participants: 

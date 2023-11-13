@@ -1,33 +1,9 @@
 WI : MILWAUKEE
   MGIC INVESTMENT CORPORATION  391486475
-   [504]
-    2022: MGIC RETIREE BENEFITS PLAN
-        Participants: 
-    2021: MGIC RETIREE BENEFITS PLAN
-        Participants: 
-    2020: MGIC RETIREE BENEFITS PLAN
-        Participants: 
-    2019: MGIC RETIREE BENEFITS PLAN
-        Participants: 
-    2018: MGIC RETIREE BENEFITS PLAN
-        Participants: 
-    2017: MGIC RETIREE BENEFITS PLAN
-        Participants: 277
-   [503]
-    2022: MGIC FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2021: MGIC FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2020: MGIC FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2019: MGIC FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2018: MGIC FLEXIBLE BENEFITS PLAN
-        Participants: 
-    2017: MGIC FLEXIBLE BENEFIT PLAN
-        Participants: 888
    [002]
     2022: MGIC PROFIT SHARING AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3F3H 
         Participants: 1139
         Assets: 314372785
         $/Participant: 276007
@@ -36,6 +12,8 @@ WI : MILWAUKEE
            - WELLS FARGO BANK, N.A.
                  : GALLIARD STBLE RTN E
     2021: MGIC PROFIT SHARING AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3F3D3H 
         Participants: 1155
         Assets: 399683925
         $/Participant: 346046
@@ -44,6 +22,8 @@ WI : MILWAUKEE
            - WELLS FARGO BANK, N.A.
                  : WF STABLE RETURN E
     2020: MGIC PROFIT SHARING AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3F 
         Participants: 1190
         Assets: 364821780
         $/Participant: 306572
@@ -52,6 +32,8 @@ WI : MILWAUKEE
            - WELLS FARGO BANK, N.A.
                  : WF STABLE RETURN E
     2019: MGIC PROFIT SHARING AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3F 
         Participants: 1196
         Assets: 331897094
         $/Participant: 277505
@@ -60,6 +42,8 @@ WI : MILWAUKEE
            - WELLS FARGO BANK, N.A.
                  : WF STABLE RETURN E
     2018: MGIC PROFIT SHARING AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D3F 
         Participants: 1210
         Assets: 284652157
         $/Participant: 235249
@@ -68,6 +52,8 @@ WI : MILWAUKEE
            - WELLS FARGO BANK, N.A.
                  : WF STABLE RETURN E
     2017: MGIC PROFIT SHARING AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 1222
         Assets: 308817018
         $/Participant: 252714
@@ -75,8 +61,60 @@ WI : MILWAUKEE
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WF STABLE RETURN E
+   [503]
+    2022: MGIC FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2021: MGIC FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2020: MGIC FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+    2019: MGIC FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 
+    2018: MGIC FLEXIBLE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 
+    2017: MGIC FLEXIBLE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 888
+   [504]
+    2022: MGIC RETIREE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2021: MGIC RETIREE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2020: MGIC RETIREE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2019: MGIC RETIREE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2018: MGIC RETIREE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+    2017: MGIC RETIREE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 277
    [001]
     2022: MGIC PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E 
         Participants: 1803
         Assets: 367454047
         $/Participant: 203801
@@ -88,6 +126,8 @@ WI : MILWAUKEE
                  : CTF DURABLE COMPANIES
                  : CTF GLOBAL QUALITY GROWTH
     2021: MGIC PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E 
         Participants: 1839
         Assets: 537711603
         $/Participant: 292393
@@ -99,6 +139,8 @@ WI : MILWAUKEE
                  : CTF DURABLE COMPANIES
                  : CTF GLOBAL QUALITY GROWTH
     2020: MGIC PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E 
         Participants: 1873
         Assets: 543287216
         $/Participant: 290062
@@ -110,6 +152,8 @@ WI : MILWAUKEE
                  : CTF ENDURING ASSETS
                  : CTF GLOBAL QUALITY GROWTH
     2019: MGIC PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E 
         Participants: 1881
         Assets: 502148574
         $/Participant: 266958
@@ -121,6 +165,8 @@ WI : MILWAUKEE
                  : CTF GLOBAL LOW VOLATILITY
                  : CTF GLOBAL QUALITY GROWTH
     2018: MGIC PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E 
         Participants: 1941
         Assets: 433920633
         $/Participant: 223555
@@ -132,6 +178,8 @@ WI : MILWAUKEE
                  : CTF GLOBAL LOW VOLATILITY
                  : CTF GLOBAL QUALITY GROWTH
     2017: MGIC PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1C1E 
         Participants: 1955
         Assets: 487279642
         $/Participant: 249247

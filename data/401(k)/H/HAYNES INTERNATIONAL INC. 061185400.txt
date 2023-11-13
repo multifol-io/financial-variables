@@ -1,20 +1,9 @@
 IN : KOKOMO
   HAYNES INTERNATIONAL INC.  061185400
-   [550]
-    2022: HAYNES INTERNATIONAL INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2021: HAYNES INTERNATIONAL INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2020: HAYNES INTERNATIONAL INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2019: HAYNES INTERNATIONAL INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2018: HAYNES INTERNATIONAL INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-    2017: HAYNES INTERNATIONAL INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
    [005]
     2022: HAYNES INTERNATIONAL, INC. COMBINED PROFIT SHARING AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 1086
         Assets: 93166635
         $/Participant: 85788
@@ -37,6 +26,8 @@ IN : KOKOMO
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
     2021: HAYNES INTERNATIONAL, INC. COMBINED PROFIT SHARING AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 956
         Assets: 111218517
         $/Participant: 116337
@@ -59,6 +50,8 @@ IN : KOKOMO
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
     2020: HAYNES INTERNATIONAL, INC. COMBINED PROFIT SHARING AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 948
         Assets: 106909273
         $/Participant: 112773
@@ -81,6 +74,8 @@ IN : KOKOMO
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
     2019: HAYNES INTERNATIONAL, INC. COMBINED PROFIT SHARING AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 1040
         Assets: 103788410
         $/Participant: 99796
@@ -103,6 +98,8 @@ IN : KOKOMO
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
     2018: HAYNES INTERNATIONAL, INC. COMBINED PROFIT SHARING AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 1011
         Assets: 87415193
         $/Participant: 86464
@@ -124,6 +121,8 @@ IN : KOKOMO
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
     2017: HAYNES INTERNATIONAL, INC. COMBINED PROFIT SHARING AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 994
         Assets: 97522950
         $/Participant: 98111
@@ -144,8 +143,35 @@ IN : KOKOMO
                  : SCHWAB MANAGED RET INCOME III
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND 50
+   [550]
+    2022: HAYNES INTERNATIONAL INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2021: HAYNES INTERNATIONAL INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: HAYNES INTERNATIONAL INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: HAYNES INTERNATIONAL INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: HAYNES INTERNATIONAL INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: HAYNES INTERNATIONAL INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
    [004]
     2021: HAYNES INTERNATIONAL, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 1016
         Assets: 203215517
         $/Participant: 200015
@@ -154,6 +180,8 @@ IN : KOKOMO
            - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
     2020: HAYNES INTERNATIONAL, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 1033
         Assets: 277767026
         $/Participant: 268893
@@ -162,6 +190,8 @@ IN : KOKOMO
            - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
     2019: HAYNES INTERNATIONAL, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 1057
         Assets: 224065575
         $/Participant: 211982
@@ -170,6 +200,8 @@ IN : KOKOMO
            - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
     2018: HAYNES INTERNATIONAL, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 1080
         Assets: 204678405
         $/Participant: 189517
@@ -178,6 +210,8 @@ IN : KOKOMO
            - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
     2017: HAYNES INTERNATIONAL, INC. PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
         Participants: 1107
         Assets: 201895567
         $/Participant: 182380

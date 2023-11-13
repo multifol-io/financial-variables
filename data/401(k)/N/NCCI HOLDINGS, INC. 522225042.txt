@@ -1,83 +1,9 @@
 FL : BOCA RATON
   NCCI HOLDINGS, INC.  522225042
-   [501]
-    2022: NCCI HOLDINGS, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: NCCI HOLDINGS, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2020: NCCI HOLDINGS, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2019: NCCI HOLDINGS, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2018: NCCI HOLDINGS, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-    2017: NCCI HOLDINGS, INC. HEALTH AND WELFARE PLAN
-        Participants: 
-   [003]
-    2022: NCCI HOLDINGS, INC. EMPLOYEES' RETIREMENT PLAN
-        Participants: 514
-        Assets: 40545711
-        $/Participant: 78882
-        Service Providers:
-           - MERCER :  (Actuarial | Consulting(pension) | Investment advisory(plan))
-           - WELLS FARGO :  (Trustee(bank, trust company, or similar))
-           - LATHROP GAGE, LLP :  (Legal)
-           - CHARLES SCHWAB TRUST BANK :  (Trustee(bank, trust company, or similar))
-           - MARCUM, LLP :  (Accounting(including auditing))
-    2021: NCCI HOLDINGS, INC. EMPLOYEES' RETIREMENT PLAN
-        Participants: 1440
-        Assets: 98010677
-        $/Participant: 68062
-        Service Providers:
-           - MERCER :  (Actuarial | Consulting(pension) | Investment advisory(plan))
-           - LATHROP GAGE, LLP :  (Legal)
-           - CHARLES SCHWAB TRUST BANK :  (Trustee(bank, trust company, or similar))
-           - MARCUM, LLP :  (Accounting(including auditing))
-    2020: NCCI HOLDINGS, INC. EMPLOYEES' RETIREMENT PLAN
-        Participants: 1472
-        Assets: 103842614
-        $/Participant: 70545
-        Service Providers:
-           - MERCER :  (Actuarial | Consulting(pension) | Investment advisory(plan))
-           - CHARLES SCHWAB TRUST BANK :  (Trustee(bank, trust company, or similar))
-           - MARCUM, LLP :  (Accounting(including auditing))
-           - WELLS FARGO :  (Trustee(bank, trust company, or similar))
-    2019: NCCI HOLDINGS, INC. EMPLOYEES' RETIREMENT PLAN
-        Participants: 1482
-        Assets: 94465709
-        $/Participant: 63742
-        Service Providers:
-           - MERCER :  (Actuarial | Consulting(pension) | Investment advisory(plan))
-           - WELLS FARGO :  (Trustee(bank, trust company, or similar))
-           - MARCUM, LLP :  (Accounting(including auditing))
-        Available Investments:
-           - LAZARD ASSET MANAGEMENT
-                 : LAZARD/WILMINGTON GBL MGD VOL PORT
-    2018: NCCI HOLDINGS, INC. EMPLOYEES' RETIREMENT PLAN
-        Participants: 1488
-        Assets: 84023371
-        $/Participant: 56467
-        Service Providers:
-           - MERCER :  (Actuarial | Consulting(pension) | Investment advisory(plan))
-           - WELLS FARGO :  (Trustee(bank, trust company, or similar))
-           - MARCUM, LLP :  (Accounting(including auditing))
-        Available Investments:
-           - LAZARD ASSET MANAGEMENT
-                 : LAZARD/WILMINGTON GBL MGD VOL PORT
-    2017: NCCI HOLDINGS, INC. EMPLOYEES' RETIREMENT PLAN
-        Participants: 1516
-        Assets: 95557985
-        $/Participant: 63032
-        Service Providers:
-           - MERCER :  (Actuarial | Consulting(pension) | Investment advisory(plan))
-           - WELLS FARGO :  (Trustee(bank, trust company, or similar))
-           - MARCUM, LLP :  (Accounting(including auditing))
-           - GRAY PLANT MOOTY :  (Legal)
-        Available Investments:
-           - LAZARD ASSET MANAGEMENT
-                 : LAZARD/WILMINGTON GBL MGD VOL PORT
    [002]
     2022: NCCI HOLDINGS, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 1119
         Assets: 369210069
         $/Participant: 329946
@@ -98,6 +24,8 @@ FL : BOCA RATON
                  : SCHWAB MANAGED RET TRUST FUND 2060
                  : SCHWAB MANAGED RET TRUST FUND 2065
     2021: NCCI HOLDINGS, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 1100
         Assets: 418187753
         $/Participant: 380170
@@ -118,6 +46,8 @@ FL : BOCA RATON
                  : SCHWAB MANAGED RET TRUST FUND 2060
                  : SCHWAB MANAGED RET TRUST FUND 2065
     2020: NCCI HOLDINGS, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 1111
         Assets: 359464286
         $/Participant: 323550
@@ -137,6 +67,8 @@ FL : BOCA RATON
                  : SCHWAB MANAGED RET TRUST FUND 2055
                  : SCHWAB MANAGED RET TRUST FUND 2060
     2019: NCCI HOLDINGS, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 1102
         Assets: 304079838
         $/Participant: 275934
@@ -156,6 +88,8 @@ FL : BOCA RATON
                  : SCHWAB MANAGED RET TRUST FUND 2055
                  : SCHWAB MANAGED RET TRUST FUND 2060
     2018: NCCI HOLDINGS, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 1096
         Assets: 242901252
         $/Participant: 221625
@@ -175,6 +109,8 @@ FL : BOCA RATON
                  : SCHWAB MANAGED RET TRUST FUND 2060
                  : SCHWAB MANAGED RET TRUST FUND-INC
     2017: NCCI HOLDINGS, INC. 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3D 
         Participants: 1121
         Assets: 253414936
         $/Participant: 226061
@@ -193,3 +129,109 @@ FL : BOCA RATON
                  : SCHWAB MANAGED RET TRUST FUND 2055
                  : SCHWAB MANAGED RET TRUST FUND 2060
                  : SCHWAB MANAGED RET TRUST FUND-INC
+   [501]
+    2022: NCCI HOLDINGS, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4G4H4I4L4Q
+        Participants: 
+    2021: NCCI HOLDINGS, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4G4H4I4L4Q
+        Participants: 
+    2020: NCCI HOLDINGS, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4G4H4I4L4Q
+        Participants: 
+    2019: NCCI HOLDINGS, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4G4H4I4L4Q
+        Participants: 
+    2018: NCCI HOLDINGS, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4G4H4I4L4Q
+        Participants: 
+    2017: NCCI HOLDINGS, INC. HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4G4H4I4L4Q
+        Participants: 
+   [003]
+    2022: NCCI HOLDINGS, INC. EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C 
+        Participants: 514
+        Assets: 40545711
+        $/Participant: 78882
+        Service Providers:
+           - MERCER :  (Actuarial | Consulting(pension) | Investment advisory(plan))
+           - WELLS FARGO :  (Trustee(bank, trust company, or similar))
+           - LATHROP GAGE, LLP :  (Legal)
+           - CHARLES SCHWAB TRUST BANK :  (Trustee(bank, trust company, or similar))
+           - MARCUM, LLP :  (Accounting(including auditing))
+    2021: NCCI HOLDINGS, INC. EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C 
+        Participants: 1440
+        Assets: 98010677
+        $/Participant: 68062
+        Service Providers:
+           - MERCER :  (Actuarial | Consulting(pension) | Investment advisory(plan))
+           - LATHROP GAGE, LLP :  (Legal)
+           - CHARLES SCHWAB TRUST BANK :  (Trustee(bank, trust company, or similar))
+           - MARCUM, LLP :  (Accounting(including auditing))
+    2020: NCCI HOLDINGS, INC. EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C 
+        Participants: 1472
+        Assets: 103842614
+        $/Participant: 70545
+        Service Providers:
+           - MERCER :  (Actuarial | Consulting(pension) | Investment advisory(plan))
+           - CHARLES SCHWAB TRUST BANK :  (Trustee(bank, trust company, or similar))
+           - MARCUM, LLP :  (Accounting(including auditing))
+           - WELLS FARGO :  (Trustee(bank, trust company, or similar))
+    2019: NCCI HOLDINGS, INC. EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C 
+        Participants: 1482
+        Assets: 94465709
+        $/Participant: 63742
+        Service Providers:
+           - MERCER :  (Actuarial | Consulting(pension) | Investment advisory(plan))
+           - WELLS FARGO :  (Trustee(bank, trust company, or similar))
+           - MARCUM, LLP :  (Accounting(including auditing))
+        Available Investments:
+           - LAZARD ASSET MANAGEMENT
+                 : LAZARD/WILMINGTON GBL MGD VOL PORT
+    2018: NCCI HOLDINGS, INC. EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C 
+        Participants: 1488
+        Assets: 84023371
+        $/Participant: 56467
+        Service Providers:
+           - MERCER :  (Actuarial | Consulting(pension) | Investment advisory(plan))
+           - WELLS FARGO :  (Trustee(bank, trust company, or similar))
+           - MARCUM, LLP :  (Accounting(including auditing))
+        Available Investments:
+           - LAZARD ASSET MANAGEMENT
+                 : LAZARD/WILMINGTON GBL MGD VOL PORT
+    2017: NCCI HOLDINGS, INC. EMPLOYEES' RETIREMENT PLAN
+        Benefit Category: Pension
+        Codes: 1A1C 
+        Participants: 1516
+        Assets: 95557985
+        $/Participant: 63032
+        Service Providers:
+           - MERCER :  (Actuarial | Consulting(pension) | Investment advisory(plan))
+           - WELLS FARGO :  (Trustee(bank, trust company, or similar))
+           - MARCUM, LLP :  (Accounting(including auditing))
+           - GRAY PLANT MOOTY :  (Legal)
+        Available Investments:
+           - LAZARD ASSET MANAGEMENT
+                 : LAZARD/WILMINGTON GBL MGD VOL PORT

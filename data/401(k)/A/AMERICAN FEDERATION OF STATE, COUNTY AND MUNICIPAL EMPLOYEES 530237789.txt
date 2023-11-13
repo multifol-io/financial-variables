@@ -1,20 +1,9 @@
 DC : WASHINGTON
   AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES  530237789
-   [501]
-    2022: AFSCME GROUP HEALTH AND LIFE INSURANCE PLAN
-        Participants: 
-    2021: AFSCME GROUP HEALTH AND LIFE INSURANCE PLAN
-        Participants: 
-    2020: AFSCME GROUP HEALTH AND LIFE INSURANCE PLAN
-        Participants: 
-    2019: AFSCME GROUP HEALTH AND LIFE INSURANCE PLAN
-        Participants: 
-    2018: AFSCME GROUP HEALTH AND LIFE INSURANCE PLAN
-        Participants: 
-    2017: AFSCME GROUP HEALTH AND LIFE INSURANCE PLAN
-        Participants: 
    [002]
     2022: AFSCME EMPLOYEES SALARY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K 
         Participants: 1864
         Assets: 195130295
         $/Participant: 104683
@@ -43,6 +32,8 @@ DC : WASHINGTON
                  : SMALL CAP GROWTH/TIMES SQUARE
                  : SMALL CAP VALUE/KENNEDY CAPITAL FND
     2021: AFSCME EMPLOYEES SALARY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K 
         Participants: 1872
         Assets: 230144515
         $/Participant: 122940
@@ -70,6 +61,8 @@ DC : WASHINGTON
                  : SMALL CAP GROWTH/TIMES SQUARE
                  : SMALL CAP VALUE/KENNEDY CAPITAL FND
     2020: AFSCME EMPLOYEES SALARY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K 
         Participants: 1860
         Assets: 208694660
         $/Participant: 112201
@@ -97,6 +90,8 @@ DC : WASHINGTON
                  : SMALL CAP GROWTH/TIMES SQUARE
                  : SMALL CAP VALUE/KENNEDY CAPITAL FND
     2019: AFSCME EMPLOYEES SALARY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K 
         Participants: 1889
         Assets: 184509421
         $/Participant: 97675
@@ -126,6 +121,8 @@ DC : WASHINGTON
                  : SMALL CAP GROWTH/TIMES SQUARE
                  : SMALL CAP VALUE/KENNEDY CAPITAL FND
     2018: AFSCME EMPLOYEES SALARY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K 
         Participants: 1899
         Assets: 162425258
         $/Participant: 85531
@@ -153,6 +150,8 @@ DC : WASHINGTON
                  : SMALL CAP GROWTH/TIMES SQUARE
                  : SMALL CAP VALUE/KENNEDY CAPITAL FND
     2017: AFSCME EMPLOYEES SALARY SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K 
         Participants: 1927
         Assets: 172829152
         $/Participant: 89688
@@ -179,8 +178,41 @@ DC : WASHINGTON
                  : SA/T ROWE PR EQ INC STRAT
                  : SMALL CAP GROWTH/TIMES SQUARE
                  : SMALL CAP VALUE/KENNEDY CAPITAL FND
+   [501]
+    2022: AFSCME GROUP HEALTH AND LIFE INSURANCE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I
+        Participants: 
+    2021: AFSCME GROUP HEALTH AND LIFE INSURANCE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I
+        Participants: 
+    2020: AFSCME GROUP HEALTH AND LIFE INSURANCE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I
+        Participants: 
+    2019: AFSCME GROUP HEALTH AND LIFE INSURANCE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I
+        Participants: 
+    2018: AFSCME GROUP HEALTH AND LIFE INSURANCE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I
+        Participants: 
+    2017: AFSCME GROUP HEALTH AND LIFE INSURANCE PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I
+        Participants: 
    [001]
     2022: AFSCME EMPLOYEES PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 4593
         Assets: 1452790480
         $/Participant: 316305
@@ -205,6 +237,8 @@ DC : WASHINGTON
            - STATE STREET BANK AND TRUST COMPANY
                  : SSGA S&P 500(R) FLAGSHIP NON-LENDIN
     2021: AFSCME EMPLOYEES PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 4478
         Assets: 1725532843
         $/Participant: 385335
@@ -231,6 +265,8 @@ DC : WASHINGTON
            - STATE STREET BANK AND TRUST COMPANY
                  : SSGA S&P 500(R) FLAGSHIP NON-LENDIN
     2020: AFSCME EMPLOYEES PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 4461
         Assets: 1585695129
         $/Participant: 355457
@@ -256,6 +292,8 @@ DC : WASHINGTON
            - STATE STREET BANK AND TRUST COMPANY
                  : SSGA S&P 500(R) FLAGSHIP NON-LENDIN
     2019: AFSCME EMPLOYEES PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 4322
         Assets: 1483994875
         $/Participant: 343358
@@ -280,6 +318,8 @@ DC : WASHINGTON
            - STATE STREET BANK AND TRUST COMPANY
                  : SSGA S&P 500(R) FLAGSHIP NON-LENDIN
     2018: AFSCME EMPLOYEES PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 4300
         Assets: 1265706771
         $/Participant: 294350
@@ -305,6 +345,8 @@ DC : WASHINGTON
            - STATE STREET BANK AND TRUST COMPANY
                  : SSGA S&P 500(R) FLAGSHIP NON-LENDIN
     2017: AFSCME EMPLOYEES PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 4218
         Assets: 1368431929
         $/Participant: 324426

@@ -1,75 +1,8 @@
 UT : CEDAR CITY
   AMERICAN PACIFIC CORPORATION  596490478
-   [501]
-    2021: AMERICAN PACIFIC CORPORATION EMPLOYEE HEALTH PLAN
-        Participants: 127
-        Service Providers:
-           - UMR, INC : CLAIMS PROCESSING (Claims processing)
-    2020: AMERICAN PACIFIC CORPORATION EMPLOYEE HEALTH PLAN
-        Participants: 126
-        Service Providers:
-           - EMPLOYEE BENEFIT MGMT SERVICES LLC : TPA (Contract Administrator)
-           - NAVITUS HEALTH SOLUTIONS : RX ADMIN (Claims processing)
-           - LOCKTON COMPANIES LLC : BROKER (Insurance agents and brokers)
-           - AETNA SIGNATURE ADMINISTRATORS : PPO (Other services)
-           - EMPLOYEE BENEFIT MGMT SERVICES LLC : POST-SVC NEGOTIATION (Other fees)
-    2019: AMERICAN PACIFIC CORPORATION EMPLOYEE HEALTH PLAN
-        Participants: 131
-        Service Providers:
-           - LP INSURANCE SERVICES LLC : BROKER (Insurance agents and brokers)
-           - EMPLOYEE BENEFIT MGMT SERVICES LLC : TPA (Contract Administrator)
-           - NAVITUS HEALTH SOLUTIONS : RX ADMIN (Claims processing)
-           - LOCKTON COMPANIES LLC : BROKER (Insurance agents and brokers)
-           - AETNA SIGNATURE ADMINISTRATORS : PPO (Other services)
-           - EMPLOYEE BENEFIT MGMT SERVICES LLC : POST-SVC NEGOTIATION (Other fees)
-    2018: AMERICAN PACIFIC CORPORATION EMPLOYEE HEALTH PLAN
-        Participants: 128
-        Service Providers:
-           - EMPLOYEE BENEFIT MGMT SERVICES LLC : TPA (Contract Administrator)
-           - NAVITUS HEALTH SOLUTIONS : RX ADMIN (Claims processing)
-           - LP INSURANCE SERVICES LLC : BROKER (Insurance agents and brokers)
-           - AETNA SIGNATURE ADMINISTRATORS : PPO (Other services)
-    2017: AMERICAN PACIFIC CORPORATION EMPLOYEE HEALTH PLAN
-        Participants: 128
-        Service Providers:
-           - NAVITUS HEALTH SOLUTIONS : RX ADMIN (Claims processing)
-           - L/P INSURANCE SERVICES, INC. : BROKER (Insurance agents and brokers)
-           - BARRETT INSURANCE SERVICES : BROKER (Insurance agents and brokers)
-           - EMPLOYEE BENEFIT MGMT SERVICES LLC : ADMIN FEES (Contract Administrator)
-   [002]
-    2021: AMERICAN PACIFIC CORPORATION DEFINED BENEFIT PENSION PLAN
-        Participants: 299
-        Assets: 68055765
-        $/Participant: 227611
-        RecordKeeper: PRICEWATERHOUSECOOPERS, LLP
-    2020: AMERICAN PACIFIC CORPORATION DEFINED BENEFIT PENSION PLAN
-        Participants: 300
-        Assets: 85968130
-        $/Participant: 286560
-        RecordKeeper: PRICEWATERHOUSECOOPERS, LLP
-    2019: AMERICAN PACIFIC CORPORATION DEFINED BENEFIT PENSION PLAN
-        Participants: 302
-        Assets: 70703371
-        $/Participant: 234117
-        RecordKeeper: BDO USA, LLP
-    2018: AMERICAN PACIFIC CORPORATION DEFINED BENEFIT PENSION PLAN
-        Participants: 308
-        Assets: 67292630
-        $/Participant: 218482
-        RecordKeeper: BDO USA, LLP
-    2017: AMERICAN PACIFIC CORPORATION DEFINED BENEFIT PENSION PLAN
-        Participants: 309
-        Assets: 66248637
-        $/Participant: 214396
-        Service Providers:
-           - WELLS FARGO ADVISORS LLC : ASSET  CUSTODIAN (Consulting(pension) | Custodial(securities) | Investment advisory(plan) | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Securities brokerage commissions and fees)
-           - BUCK : ACTUARY (Actuarial | Consulting(pension) | Direct payment from the plan)
-           - ARISTOTLE : INVESTMENT  MANAGER (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - SOLTIS ADVISORS : INVESTMENT MANAGER (Consulting(general) | Consulting(pension) | Investment advisory(participants) | Investment advisory(plan) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-           - RELIANCE TRUST : TRUSTEE (Trustee(directed) | Other services | Account maintenance fees | Other fees | Direct payment from the plan)
-           - BDO USA, LLP : AUDITOR (Accounting(including auditing) | Direct payment from the plan)
-   [001]
     2021: AMERICAN PACIFIC CORPORATION 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 175
         Assets: 22084003
         $/Participant: 126194
@@ -89,6 +22,8 @@ UT : CEDAR CITY
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE 25
     2020: AMERICAN PACIFIC CORPORATION 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 183
         Assets: 26072505
         $/Participant: 142472
@@ -108,6 +43,8 @@ UT : CEDAR CITY
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE 25
     2019: AMERICAN PACIFIC CORPORATION 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 179
         Assets: 21342024
         $/Participant: 119229
@@ -127,6 +64,8 @@ UT : CEDAR CITY
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE 25
     2018: AMERICAN PACIFIC CORPORATION 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 175
         Assets: 19381492
         $/Participant: 110751
@@ -135,6 +74,8 @@ UT : CEDAR CITY
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE 25
     2017: AMERICAN PACIFIC CORPORATION 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 181
         Assets: 19275136
         $/Participant: 106492
@@ -142,3 +83,91 @@ UT : CEDAR CITY
         Available Investments:
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE 25
+   [501]
+    2021: AMERICAN PACIFIC CORPORATION EMPLOYEE HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 127
+        Service Providers:
+           - UMR, INC : CLAIMS PROCESSING (Claims processing)
+    2020: AMERICAN PACIFIC CORPORATION EMPLOYEE HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 126
+        Service Providers:
+           - EMPLOYEE BENEFIT MGMT SERVICES LLC : TPA (Contract Administrator)
+           - NAVITUS HEALTH SOLUTIONS : RX ADMIN (Claims processing)
+           - LOCKTON COMPANIES LLC : BROKER (Insurance agents and brokers)
+           - AETNA SIGNATURE ADMINISTRATORS : PPO (Other services)
+           - EMPLOYEE BENEFIT MGMT SERVICES LLC : POST-SVC NEGOTIATION (Other fees)
+    2019: AMERICAN PACIFIC CORPORATION EMPLOYEE HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 131
+        Service Providers:
+           - LP INSURANCE SERVICES LLC : BROKER (Insurance agents and brokers)
+           - EMPLOYEE BENEFIT MGMT SERVICES LLC : TPA (Contract Administrator)
+           - NAVITUS HEALTH SOLUTIONS : RX ADMIN (Claims processing)
+           - LOCKTON COMPANIES LLC : BROKER (Insurance agents and brokers)
+           - AETNA SIGNATURE ADMINISTRATORS : PPO (Other services)
+           - EMPLOYEE BENEFIT MGMT SERVICES LLC : POST-SVC NEGOTIATION (Other fees)
+    2018: AMERICAN PACIFIC CORPORATION EMPLOYEE HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 128
+        Service Providers:
+           - EMPLOYEE BENEFIT MGMT SERVICES LLC : TPA (Contract Administrator)
+           - NAVITUS HEALTH SOLUTIONS : RX ADMIN (Claims processing)
+           - LP INSURANCE SERVICES LLC : BROKER (Insurance agents and brokers)
+           - AETNA SIGNATURE ADMINISTRATORS : PPO (Other services)
+    2017: AMERICAN PACIFIC CORPORATION EMPLOYEE HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 128
+        Service Providers:
+           - NAVITUS HEALTH SOLUTIONS : RX ADMIN (Claims processing)
+           - L/P INSURANCE SERVICES, INC. : BROKER (Insurance agents and brokers)
+           - BARRETT INSURANCE SERVICES : BROKER (Insurance agents and brokers)
+           - EMPLOYEE BENEFIT MGMT SERVICES LLC : ADMIN FEES (Contract Administrator)
+   [002]
+    2021: AMERICAN PACIFIC CORPORATION DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
+        Participants: 299
+        Assets: 68055765
+        $/Participant: 227611
+        RecordKeeper: PRICEWATERHOUSECOOPERS, LLP
+    2020: AMERICAN PACIFIC CORPORATION DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
+        Participants: 300
+        Assets: 85968130
+        $/Participant: 286560
+        RecordKeeper: PRICEWATERHOUSECOOPERS, LLP
+    2019: AMERICAN PACIFIC CORPORATION DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A3H 
+        Participants: 302
+        Assets: 70703371
+        $/Participant: 234117
+        RecordKeeper: BDO USA, LLP
+    2018: AMERICAN PACIFIC CORPORATION DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
+        Participants: 308
+        Assets: 67292630
+        $/Participant: 218482
+        RecordKeeper: BDO USA, LLP
+    2017: AMERICAN PACIFIC CORPORATION DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
+        Participants: 309
+        Assets: 66248637
+        $/Participant: 214396
+        Service Providers:
+           - WELLS FARGO ADVISORS LLC : ASSET  CUSTODIAN (Consulting(pension) | Custodial(securities) | Investment advisory(plan) | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Securities brokerage commissions and fees)
+           - BUCK : ACTUARY (Actuarial | Consulting(pension) | Direct payment from the plan)
+           - ARISTOTLE : INVESTMENT  MANAGER (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - SOLTIS ADVISORS : INVESTMENT MANAGER (Consulting(general) | Consulting(pension) | Investment advisory(participants) | Investment advisory(plan) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+           - RELIANCE TRUST : TRUSTEE (Trustee(directed) | Other services | Account maintenance fees | Other fees | Direct payment from the plan)
+           - BDO USA, LLP : AUDITOR (Accounting(including auditing) | Direct payment from the plan)

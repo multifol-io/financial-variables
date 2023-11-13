@@ -1,68 +1,9 @@
 NC : DURHAM
   PRIVATE DIAGNOSTIC CLINIC, PLLC  561029437
-   [502]
-    2022: CLINICAL FACULTY BENEFITS PLAN
-        Participants: 
-    2021: CLINICAL FACULTY BENEFITS PLAN
-        Participants: 
-    2020: CLINICAL FACULTY BENEFITS PLAN
-        Participants: 
-    2019: CLINICAL FACULTY BENEFITS PLAN
-        Participants: 
-    2018: CLINICAL FACULTY BENEFITS PLAN
-        Participants: 
-    2017: CLINICAL FACULTY BENEFITS PLAN
-        Participants: 
-   [005]
-    2021: PDC CASH BALANCE PENSION PLAN
-        Participants: 289
-        Assets: 50114239
-        $/Participant: 173405
-        Service Providers:
-           - CAPFINANCIAL PARTNERS LLC :  (Investment advisory(plan))
-           - PRICEWATERHOUSECOOPERS LLP :  (Actuarial)
-           - PBMARES :  (Accounting(including auditing))
-           - BROADRIDGE MATRIX TRUST COMPANY :  (Trustee(bank, trust company, or similar))
-    2020: PDC CASH BALANCE PENSION PLAN
-        Participants: 295
-        Assets: 45886939
-        $/Participant: 155548
-    2019: PDC CASH BALANCE PENSION PLAN
-        Participants: 275
-        Assets: 33833632
-        $/Participant: 123031
-        Service Providers:
-           - CAPFINANCIAL PARTNERS LLC :  (Trustee(bank, trust company, or similar) | Investment advisory(plan))
-           - PRICEWATERHOUSECOOPERS LLP :  (Actuarial)
-           - FIDELITY INVESTMENTS INSTITUTIONAL :  (Custodial(other than securities))
-           - BROADRIDGE MATRIX TRUST COMPANY :  (Trustee(bank, trust company, or similar))
-    2018: PDC CASH BALANCE PENSION PLAN
-        Participants: 262
-        Assets: 22355488
-        $/Participant: 85326
-        Service Providers:
-           - CAPFINANCIAL PARTNERS LLC :  (Trustee(bank, trust company, or similar) | Investment advisory(plan))
-           - PRICEWATERHOUSECOOPERS LLP :  (Actuarial)
-           - RSM US LLP :  (Accounting(including auditing))
-           - BROADRIDGE MATRIX TRUST COMPANY :  (Trustee(bank, trust company, or similar))
-    2017: PDC CASH BALANCE PENSION PLAN
-        Participants: 234
-        Assets: 15077995
-        $/Participant: 64435
-        Service Providers:
-           - PRICEWATERHOUSECOOPERS LLP :  (Actuarial)
-           - RSM US LLP :  (Accounting(including auditing))
-           - CAPFINANCIAL PARTNERS LLC :  (Trustee(bank, trust company, or similar) | Investment advisory(plan))
-   [004]
-    2017: PDC QUALIFIED DEFERRED COMPENSATION PLAN
-        Participants: 0
-        Service Providers:
-           - PRICEWATERHOUSECOOPERS LLP :  (Actuarial)
-           - BROADRIDGE MATRIX TRUST COMPANY :  (Trustee(bank, trust company, or similar))
-           - RSM US LLP :  (Accounting(including auditing))
-           - CAPFINANCIAL PARTNERS LLC :  (Trustee(bank, trust company, or similar))
    [001]
     2022: THE PRIVATE DIAGNOSTIC CLINIC, PLLC PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2J2K2T2R 
         Participants: 4576
         Assets: 1374847879
         $/Participant: 300447
@@ -103,6 +44,8 @@ NC : DURHAM
                  : INCOME MAP
                  : MODERATE MAP
     2021: THE PRIVATE DIAGNOSTIC CLINIC, PLLC PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2J2K2T2R 
         Participants: 4002
         Assets: 1621785140
         $/Participant: 405243
@@ -138,6 +81,8 @@ NC : DURHAM
                  : INCOME MAP
                  : MODERATE MAP
     2020: THE PRIVATE DIAGNOSTIC CLINIC, PLLC PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2J2K2T2R 
         Participants: 3428
         Assets: 1375618260
         $/Participant: 401288
@@ -173,6 +118,8 @@ NC : DURHAM
                  : INCOME MAP
                  : MODERATE MAP
     2019: THE PRIVATE DIAGNOSTIC CLINIC, PLLC PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2J2K2R2T 
         Participants: 3192
         Assets: 1147734223
         $/Participant: 359565
@@ -208,6 +155,8 @@ NC : DURHAM
                  : INCOME MAP
                  : MODERATE MAP
     2018: THE PRIVATE DIAGNOSTIC CLINIC, PLLC PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2J2K2R2T 
         Participants: 2972
         Assets: 894024546
         $/Participant: 300815
@@ -243,6 +192,8 @@ NC : DURHAM
                  : INCOME MAP
                  : MODERATE MAP
     2017: THE PRIVATE DIAGNOSTIC CLINIC, PLLC PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2G2J2K2R2T 
         Participants: 2791
         Assets: 916873533
         $/Participant: 328510
@@ -276,3 +227,88 @@ NC : DURHAM
                  : GROWTH MAP
                  : INCOME MAP
                  : MODERATE MAP
+   [502]
+    2022: CLINICAL FACULTY BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4Q
+        Participants: 
+    2021: CLINICAL FACULTY BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4Q
+        Participants: 
+    2020: CLINICAL FACULTY BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H4Q
+        Participants: 
+    2019: CLINICAL FACULTY BENEFITS PLAN
+        Benefit Category: Other
+        Codes:  4B4D4E4F4H4Q
+        Participants: 
+    2018: CLINICAL FACULTY BENEFITS PLAN
+        Benefit Category: Other
+        Codes:  4B4D4E4F4H4Q
+        Participants: 
+    2017: CLINICAL FACULTY BENEFITS PLAN
+        Benefit Category: Other
+        Codes:  4B4D4F4H4Q
+        Participants: 
+   [004]
+    2017: PDC QUALIFIED DEFERRED COMPENSATION PLAN
+        Benefit Category: Pension
+        Codes: 1B3B3F3H1I1H 
+        Participants: 0
+        Service Providers:
+           - PRICEWATERHOUSECOOPERS LLP :  (Actuarial)
+           - BROADRIDGE MATRIX TRUST COMPANY :  (Trustee(bank, trust company, or similar))
+           - RSM US LLP :  (Accounting(including auditing))
+           - CAPFINANCIAL PARTNERS LLC :  (Trustee(bank, trust company, or similar))
+   [005]
+    2021: PDC CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3B1B3H 
+        Participants: 289
+        Assets: 50114239
+        $/Participant: 173405
+        Service Providers:
+           - CAPFINANCIAL PARTNERS LLC :  (Investment advisory(plan))
+           - PRICEWATERHOUSECOOPERS LLP :  (Actuarial)
+           - PBMARES :  (Accounting(including auditing))
+           - BROADRIDGE MATRIX TRUST COMPANY :  (Trustee(bank, trust company, or similar))
+    2020: PDC CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3B1B3H 
+        Participants: 295
+        Assets: 45886939
+        $/Participant: 155548
+    2019: PDC CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3B1B3H 
+        Participants: 275
+        Assets: 33833632
+        $/Participant: 123031
+        Service Providers:
+           - CAPFINANCIAL PARTNERS LLC :  (Trustee(bank, trust company, or similar) | Investment advisory(plan))
+           - PRICEWATERHOUSECOOPERS LLP :  (Actuarial)
+           - FIDELITY INVESTMENTS INSTITUTIONAL :  (Custodial(other than securities))
+           - BROADRIDGE MATRIX TRUST COMPANY :  (Trustee(bank, trust company, or similar))
+    2018: PDC CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3B1B3H 
+        Participants: 262
+        Assets: 22355488
+        $/Participant: 85326
+        Service Providers:
+           - CAPFINANCIAL PARTNERS LLC :  (Trustee(bank, trust company, or similar) | Investment advisory(plan))
+           - PRICEWATERHOUSECOOPERS LLP :  (Actuarial)
+           - RSM US LLP :  (Accounting(including auditing))
+           - BROADRIDGE MATRIX TRUST COMPANY :  (Trustee(bank, trust company, or similar))
+    2017: PDC CASH BALANCE PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1C3B1B3H 
+        Participants: 234
+        Assets: 15077995
+        $/Participant: 64435
+        Service Providers:
+           - PRICEWATERHOUSECOOPERS LLP :  (Actuarial)
+           - RSM US LLP :  (Accounting(including auditing))
+           - CAPFINANCIAL PARTNERS LLC :  (Trustee(bank, trust company, or similar) | Investment advisory(plan))

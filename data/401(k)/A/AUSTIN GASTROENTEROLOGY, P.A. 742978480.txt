@@ -1,26 +1,17 @@
 TX : AUSTIN
   AUSTIN GASTROENTEROLOGY, P.A.  742978480
-    2021: AUSTIN GASTROENTEROLOGY, P.A.
-        Participants: 
-    2020: AUSTIN GASTROENTEROLOGY, P. A.
-        Participants: 
-    2019: AUSTIN GASTROENTEROLOGY, P. A.
-        Participants: 
-    2018: AUSTIN GASTROENTEROLOGY, P. A.
-        Participants: 
-    2017: AUSTIN GASTROENTEROLOGY, P. A.
-        Participants: 
-   [002]
-    2017: AUSTIN GASTROENTEROLOGY, P.A. DEFINED BENEFIT PLAN
-        Participants: 0
    [001]
     2022: AUSTIN GASTROENTEROLOGY, P.A. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2S2T3D 
         Participants: 0
         RecordKeeper: MATRIX TRUST COMPANY
         Available Investments:
            - BMO HARRIS BANK N.A.
                  : ONEAMERICA STABLE VALUE FUND CL Z
     2021: AUSTIN GASTROENTEROLOGY, P.A. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2S2T3D 
         Participants: 297
         Assets: 79444024
         $/Participant: 267488
@@ -29,6 +20,8 @@ TX : AUSTIN
            - BMO HARRIS BANK N.A.
                  : ONEAMERICA STABLE VALUE FUND CL Z
     2020: AUSTIN GASTROENTEROLOGY, P.A. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2S2T3D 
         Participants: 315
         Assets: 65153108
         $/Participant: 206835
@@ -37,6 +30,8 @@ TX : AUSTIN
            - BMO HARRIS BANK N.A.
                  : BMO STABLE VALUE FUND CLASS Z
     2019: AUSTIN GASTROENTEROLOGY, P.A. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3D 
         Participants: 316
         Assets: 60700903
         $/Participant: 192091
@@ -45,6 +40,8 @@ TX : AUSTIN
            - BMO HARRIS BANK N.A.
                  : BMO STABLE VALUE FUND CLASS Z
     2018: AUSTIN GASTROENTEROLOGY, P.A. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3D 
         Participants: 348
         Assets: 53604827
         $/Participant: 154036
@@ -53,6 +50,8 @@ TX : AUSTIN
            - BMO HARRIS BANK N.A.
                  : BMO STABLE VALUE FUND CLASS Z
     2017: AUSTIN GASTROENTEROLOGY, P.A. 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3D 
         Participants: 356
         Assets: 54366055
         $/Participant: 152713
@@ -60,3 +59,29 @@ TX : AUSTIN
         Available Investments:
            - BMO HARRIS BANK N.A.
                  : BMO STABLE VALUE FUND CLASS I
+   [501]
+    2021: AUSTIN GASTROENTEROLOGY, P.A.
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2020: AUSTIN GASTROENTEROLOGY, P. A.
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2019: AUSTIN GASTROENTEROLOGY, P. A.
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2018: AUSTIN GASTROENTEROLOGY, P. A.
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+    2017: AUSTIN GASTROENTEROLOGY, P. A.
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+   [002]
+    2017: AUSTIN GASTROENTEROLOGY, P.A. DEFINED BENEFIT PLAN
+        Benefit Category: Other
+        Codes: 1C3B3D1H3H1I 
+        Participants: 0

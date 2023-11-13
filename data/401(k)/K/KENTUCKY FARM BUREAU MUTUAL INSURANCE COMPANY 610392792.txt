@@ -1,79 +1,9 @@
 KY : LOUISVILLE
   KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY  610392792
-   [511]
-    2022: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY HEALTH & WELFARE PLAN
-        Participants: 
-    2021: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY HEALTH & WELFARE PLAN
-        Participants: 
-    2020: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY
-        Participants: 
-    2019: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY HEALTH & WELFARE PLAN
-        Participants: 889
-   [510]
-    2022: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY RETIREE HEALTH BENEFITS PLAN
-        Participants: 
-        Assets: 112930207
-        $/Participant: 
-        RecordKeeper: AON HEWITT INVESTMENT CONSULTANTS
-    2021: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY RETIREE HEALTH BENEFITS PLAN
-        Participants: 
-        Assets: 130957113
-        $/Participant: 
-        RecordKeeper: MCM CPAS & ADVISORS LLP
-    2020: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY RETIREE HEALTH BENEFITS PLAN
-        Participants: 
-        Assets: 128409420
-        $/Participant: 
-        RecordKeeper: MCM CPAS & ADVISORS LLP
-    2019: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY RETIREE HEALTH BENEFITS PLAN
-        Participants: 
-        Assets: 121424388
-        $/Participant: 
-        RecordKeeper: MCM CPAS & ADVISORS LLP
-    2018: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY RETIREE HEALTH BENEFITS PLAN
-        Participants: 
-        Assets: 106013378
-        $/Participant: 
-        RecordKeeper: EXPRESS SCRIPTS INC.
-    2017: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY RETIREE HEALTH BENEFITS PLAN
-        Participants: 
-        Assets: 101713598
-        $/Participant: 
-        RecordKeeper: EXPRESS SCRIPTS INC.
-   [507]
-    2018: KENTUCKY FARM BUREAU MUTUAL DENTAL PLAN
-        Participants: 266
-    2017: KENTUCKY FARM BUREAU MUTUAL DENTAL PLAN
-        Participants: 871
-   [504]
-    2018: KENTUCKY FARM BUREAU MUTUAL MEDICAL
-        Participants: 0
-   [503]
-    2018: KENTUCKY FARM BUREAU MUTUAL VACATION
-        Participants: 0
-    2017: KENTUCKY FARM BUREAU MUTUAL VACATION
-        Participants: 649
-   [502]
-    2021: KENTUCKY FARM BUREAU GROUP LIFE
-        Participants: 1009
-    2020: KENTUCKY FARM BUREAU GROUP LIFE
-        Participants: 994
-    2019: KENTUCKY FARM BUREAU GROUP LIFE
-        Participants: 1002
-    2018: KENTUCKY FARM BUREAU MUTUAL GROUP LIFE
-        Participants: 1005
-    2017: KENTUCKY FARM BUREAU MUTUAL GROUP LIFE
-        Participants: 1000
-   [501]
-    2019: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY HEALTH & WELFARE PLAN
-        Participants: 889
-        RecordKeeper: ANTHEM HEALTH PLANS OF KENTUCKY INC
-    2018: KENTUCKY FARM BUREAU MUTUAL SICK LEAVE
-        Participants: 0
-    2017: KENTUCKY FARM BUREAU MUTUAL SICK LEAVE
-        Participants: 267
    [002]
     2022: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T2A 
         Participants: 816
         Assets: 78702804
         $/Participant: 96449
@@ -82,52 +12,193 @@ KY : LOUISVILLE
            - PUTNAM
                  : PUTNAM STABLE VALUE
     2021: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T2A 
         Participants: 830
         Assets: 91990349
         $/Participant: 110831
         RecordKeeper: ASPIRE FINANCIAL SERVICES, LLC
     2020: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T2A 
         Participants: 798
         Assets: 77503813
         $/Participant: 97122
         RecordKeeper: ASPIRE FINANCIAL SERVICES, LLC
     2019: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T2A 
         Participants: 779
         Assets: 65581187
         $/Participant: 84186
         RecordKeeper: ASPIRE FINANCIAL SERVICES, LLC
     2018: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T2A 
         Participants: 794
         Assets: 51596331
         $/Participant: 64982
         RecordKeeper: ASPIRE FINANCIAL SERVICES, LLC
     2017: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T2A 
         Participants: 765
         Assets: 52250115
         $/Participant: 68300
         RecordKeeper: ASPIRE FINANCIAL SERVICES, LLC
+   [501]
+    2019: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 889
+        RecordKeeper: ANTHEM HEALTH PLANS OF KENTUCKY INC
+   [504]
+    2018: KENTUCKY FARM BUREAU MUTUAL MEDICAL
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 0
+   [510]
+    2022: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY RETIREE HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Assets: 112930207
+        $/Participant: 
+        RecordKeeper: AON HEWITT INVESTMENT CONSULTANTS
+    2021: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY RETIREE HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Assets: 130957113
+        $/Participant: 
+        RecordKeeper: MCM CPAS & ADVISORS LLP
+    2020: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY RETIREE HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Assets: 128409420
+        $/Participant: 
+        RecordKeeper: MCM CPAS & ADVISORS LLP
+    2019: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY RETIREE HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Assets: 121424388
+        $/Participant: 
+        RecordKeeper: MCM CPAS & ADVISORS LLP
+    2018: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY RETIREE HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Assets: 106013378
+        $/Participant: 
+        RecordKeeper: EXPRESS SCRIPTS INC.
+    2017: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY RETIREE HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Assets: 101713598
+        $/Participant: 
+        RecordKeeper: EXPRESS SCRIPTS INC.
+   [511]
+    2022: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2021: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2020: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2019: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 889
+   [501]
+    2018: KENTUCKY FARM BUREAU MUTUAL SICK LEAVE
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 0
+    2017: KENTUCKY FARM BUREAU MUTUAL SICK LEAVE
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 267
+   [502]
+    2021: KENTUCKY FARM BUREAU GROUP LIFE
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 1009
+    2020: KENTUCKY FARM BUREAU GROUP LIFE
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 994
+    2019: KENTUCKY FARM BUREAU GROUP LIFE
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 1002
+    2018: KENTUCKY FARM BUREAU MUTUAL GROUP LIFE
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 1005
+    2017: KENTUCKY FARM BUREAU MUTUAL GROUP LIFE
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 1000
+   [503]
+    2018: KENTUCKY FARM BUREAU MUTUAL VACATION
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 0
+    2017: KENTUCKY FARM BUREAU MUTUAL VACATION
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 649
+   [507]
+    2018: KENTUCKY FARM BUREAU MUTUAL DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 266
+    2017: KENTUCKY FARM BUREAU MUTUAL DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 871
    [001]
     2022: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY RETIREMENT PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 319
         Assets: 124796282
         $/Participant: 391210
     2021: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY RETIREMENT PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 359
         Assets: 149108219
         $/Participant: 415343
     2020: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY RETIREMENT PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 421
         Assets: 176902122
         $/Participant: 420195
     2019: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY RETIREMENT PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 501
         Assets: 182836660
         $/Participant: 364943
     2018: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY RETIREMENT PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 524
         Assets: 175941914
         $/Participant: 335767
     2017: KENTUCKY FARM BUREAU MUTUAL INSURANCE COMPANY RETIREMENT PLAN AND TRUST
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 559
         Assets: 182515707
         $/Participant: 326503

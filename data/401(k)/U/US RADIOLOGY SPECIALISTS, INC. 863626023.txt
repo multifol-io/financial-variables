@@ -1,27 +1,9 @@
 NC : RALEIGH
   US RADIOLOGY SPECIALISTS, INC.  863626023
-   [502]
-    2020: US RADIOLOGY SPECIALISTS , INC. HEALTH & WELFARE PLAN
-        Participants: 
-NC : CHARLOTTE
-    2019: US RADIOLOGY SPECIALISTS , INC. HEALTH & WELFARE PLAN
-        Participants: 
-    2018: US RADIOLOGY SPECIALISTS, INC. HEALTH & WELFARE PLAN
-        Participants: 
-        Assets: 5994
-        $/Participant: 
-NC : RALEIGH
-   [002]
-    2020: US RADIOLOGY 401(K) RETIREMENT PLAN
-        Participants: 1615
-        Assets: 36717189
-        $/Participant: 22735
-        RecordKeeper: LOCKTON INVESTMENT ADVISORS, LLC
-        Available Investments:
-           - NEW YORK LIFE INSURANCE COMPANY
-                 : NEW YORK LIFE ANCHOR ACCOUNT
    [001]
     2020: US RADIOLOGY PHYSICIAN PRACTICE 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3D3H 
         Participants: 782
         Assets: 247809031
         $/Participant: 316891
@@ -31,6 +13,8 @@ NC : RALEIGH
                  : NEW YORK LIFE ANCHOR ACCOUNT
 NC : CHARLOTTE
     2019: US RADIOLOGY SPECIALISTS 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3D3H 
         Participants: 592
         Assets: 166506206
         $/Participant: 281260
@@ -58,6 +42,8 @@ NC : CHARLOTTE
            - NEW YORK LIFE INSURANCE COMPANY
                  : NEW YORK LIFE ANCHOR ACCOUNT
     2018: U.S. IMAGING PARTNERS 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3D3H 
         Participants: 494
         Assets: 131288762
         $/Participant: 265766
@@ -81,3 +67,31 @@ NC : CHARLOTTE
         Available Investments:
            - NEW YORK LIFE INSURANCE COMPANY
                  : NEW YORK LIFE ANCHOR ACCOUNT
+NC : RALEIGH
+   [002]
+    2020: US RADIOLOGY 401(K) RETIREMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2T3D3H 
+        Participants: 1615
+        Assets: 36717189
+        $/Participant: 22735
+        RecordKeeper: LOCKTON INVESTMENT ADVISORS, LLC
+        Available Investments:
+           - NEW YORK LIFE INSURANCE COMPANY
+                 : NEW YORK LIFE ANCHOR ACCOUNT
+   [502]
+    2020: US RADIOLOGY SPECIALISTS , INC. HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4G4H4L4Q
+        Participants: 
+NC : CHARLOTTE
+    2019: US RADIOLOGY SPECIALISTS , INC. HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2018: US RADIOLOGY SPECIALISTS, INC. HEALTH & WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H
+        Participants: 
+        Assets: 5994
+        $/Participant: 

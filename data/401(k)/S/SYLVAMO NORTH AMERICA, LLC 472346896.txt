@@ -1,32 +1,9 @@
 TN : MEMPHIS
   SYLVAMO NORTH AMERICA, LLC  472346896
-   [550]
-    2022: SYLVAMO SALARIED SEVERANCE PLAN
-        Participants: 671
-    2021: SYLVAMO SALARIED SEVERANCE PLAN
-        Participants: 671
-   [540]
-    2022: SYLVAMO GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-    2021: SYLVAMO GROUP HEALTH AND WELFARE PLAN
-        Participants: 
-   [520]
-    2022: SYLVAMO CAFETERIA PLAN
-        Participants: 
-    2021: SYLVAMO CAFETERIA PLAN
-        Participants: 
-   [510]
-    2022: SYLVAMO LONG-TERM DISABILITY PLAN
-        Participants: 
-    2021: SYLVAMO LONG-TERM DISABILITY PLAN
-        Participants: 
-   [501]
-    2022: SYLVAMO GROUP INSURANCE PLAN
-        Participants: 
-    2021: SYLVAMO GROUP INSURANCE PLAN
-        Participants: 
    [020]
     2022: SYLVAMO SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2R2S2T3H 
         Participants: 1912
         Assets: 319980539
         $/Participant: 167353
@@ -55,6 +32,8 @@ TN : MEMPHIS
            - T. ROWE PRICE TRUST COMPANY
                  : T ROWE PRICE STRUCTURED RESEARCH TR
     2021: SYLVAMO SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2R2S2T3H 
         Participants: 1734
         Assets: 369988144
         $/Participant: 213372
@@ -82,8 +61,46 @@ TN : MEMPHIS
                  : TARGET RETIREMENT INCOME NL CL P
            - T. ROWE PRICE TRUST COMPANY
                  : T ROWE PRICE STRUCTURED RESEARCH TR
+   [520]
+    2022: SYLVAMO CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+    2021: SYLVAMO CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [540]
+    2022: SYLVAMO GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4F4L4Q
+        Participants: 
+    2021: SYLVAMO GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4F4L4Q
+        Participants: 
+   [501]
+    2022: SYLVAMO GROUP INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+    2021: SYLVAMO GROUP INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B4L
+        Participants: 
+   [510]
+    2022: SYLVAMO LONG-TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2021: SYLVAMO LONG-TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
    [001]
     2022: SYLVAMO PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1B3H 
         Participants: 886
         Assets: 176283316
         $/Participant: 198965
@@ -98,6 +115,8 @@ TN : MEMPHIS
            - STATE STREET GLOBAL ADVISORS TRUST COMPANY
                  : MSCI ACWI IMI INDX NL FUND
     2021: SYLVAMO PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1B3H 
         Participants: 866
         Assets: 252306696
         $/Participant: 291347
@@ -111,3 +130,12 @@ TN : MEMPHIS
                  : GS MULTI-MANAGER REAL ASSETS SF
            - STATE STREET GLOBAL ADVISORS TRUST COMPANY
                  : MSCI ACWI IMI INDX NL FUND
+   [550]
+    2022: SYLVAMO SALARIED SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 671
+    2021: SYLVAMO SALARIED SEVERANCE PLAN
+        Benefit Category: Severance
+        Codes:  4I
+        Participants: 671

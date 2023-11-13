@@ -1,36 +1,9 @@
 TX : BRENHAM
   GERMANIA FARM MUTUAL INSURANCE ASSOCIATION  740643240
-   [505]
-    2022: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION LIFE, ACCIDENT AND DISABILITY PLAN
-        Participants: 
-    2021: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION LIFE, ACCIDENT AND DISABILITY PLAN
-        Participants: 
-    2020: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION LIFE, ACCIDENT AND DISABILITY PLAN
-        Participants: 
-    2019: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION LIFE, ACCIDENT AND DISABILITY PLAN
-        Participants: 
-    2018: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION LIFE, ACCIDENT AND DISABILITY PLAN
-        Participants: 
-    2017: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION LIFE, ACCIDENT AND DISABILITY PLAN
-        Participants: 
-   [504]
-    2022: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION HEALTH PLAN
-        Participants: 
-    2021: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION HEALTH PLAN
-        Participants: 
-    2020: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION HEALTH PLAN
-        Participants: 
-    2019: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION HEALTH PLAN
-        Participants: 
-    2018: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION HEALTH PLAN
-        Participants: 
-    2017: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION HEALTH PLAN
-        Participants: 
-   [503]
-    2017: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION CAFETERIA PLAN
-        Participants: 
    [003]
     2022: GERMANIA COMPANIES EMPLOYEES PROFIT SHARING AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2S2T3D 
         Participants: 606
         Assets: 61800931
         $/Participant: 101981
@@ -56,6 +29,8 @@ TX : BRENHAM
                  : T. ROWE PRICE RTM 2050 TR CL A
                  : T. ROWE PRICE RTM 2055 TR CL A
     2021: GERMANIA COMPANIES EMPLOYEES PROFIT SHARING AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2S2T3D 
         Participants: 563
         Assets: 71854754
         $/Participant: 127628
@@ -66,6 +41,8 @@ TX : BRENHAM
            - WELLS FARGO BANK
                  : WELLS FARGO STABLE VALUE C FD
     2020: GERMANIA COMPANIES EMPLOYEES PROFIT SHARING AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2S2T3D 
         Participants: 571
         Assets: 64378034
         $/Participant: 112746
@@ -78,6 +55,8 @@ TX : BRENHAM
            - WELLS FARGO BANK
                  : WELLS FARGO STABLE VALUE C FD
     2019: GERMANIA COMPANIES EMPLOYEES PROFIT SHARING AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T3D3H 
         Participants: 591
         Assets: 55819046
         $/Participant: 94448
@@ -86,6 +65,8 @@ TX : BRENHAM
            - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
     2018: GERMANIA COMPANIES EMPLOYEES PROFIT SHARING AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T3D3H 
         Participants: 551
         Assets: 46449312
         $/Participant: 84300
@@ -94,6 +75,8 @@ TX : BRENHAM
            - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
     2017: GERMANIA COMPANIES EMPLOYEES PROFIT SHARING AND SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2R2S2T3D3H 
         Participants: 528
         Assets: 48672781
         $/Participant: 92183
@@ -101,8 +84,65 @@ TX : BRENHAM
         Available Investments:
            - TRANSAMERICA RETIREMENT SOLUTIONS CORPORATION
                  : TRANSAMERICA COLLECTIVE TRUST FUNDS
+   [503]
+    2017: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION CAFETERIA PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+   [504]
+    2022: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2021: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2020: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2019: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2018: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+    2017: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION HEALTH PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 
+   [505]
+    2022: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION LIFE, ACCIDENT AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L4Q
+        Participants: 
+    2021: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION LIFE, ACCIDENT AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L4Q
+        Participants: 
+    2020: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION LIFE, ACCIDENT AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L4Q
+        Participants: 
+    2019: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION LIFE, ACCIDENT AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L4Q
+        Participants: 
+    2018: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION LIFE, ACCIDENT AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L4Q
+        Participants: 
+    2017: GERMANIA FARM MUTUAL INSURANCE ASSOCIATION LIFE, ACCIDENT AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L4Q
+        Participants: 
    [001]
     2022: GERMANIA COMPANIES EMPLOYEES DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1I 
         Participants: 386
         Assets: 89641445
         $/Participant: 232231
@@ -126,6 +166,8 @@ TX : BRENHAM
                  : PRIN SMCAP VALUE II SEP ACCT-Z
                  : PRINCIPAL OVERSEAS SEP ACCT-Z
     2021: GERMANIA COMPANIES EMPLOYEES DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 395
         Assets: 124335430
         $/Participant: 314773
@@ -147,6 +189,8 @@ TX : BRENHAM
                  : PRIN SMCAP VALUE II SEP ACCT-Z
                  : PRINCIPAL OVERSEAS SEP ACCT-Z
     2020: GERMANIA COMPANIES EMPLOYEES DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 394
         Assets: 124277141
         $/Participant: 315424
@@ -169,16 +213,22 @@ TX : BRENHAM
                  : PRIN SMCAP VALUE II SEP ACCT-Z
                  : PRINCIPAL OVERSEAS SEP ACCT-Z
     2019: GERMANIA COMPANIES EMPLOYEES DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 398
         Assets: 111641437
         $/Participant: 280506
         RecordKeeper: NATIONAL FINANCIAL SERVICES
     2018: GERMANIA COMPANIES EMPLOYEES DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 399
         Assets: 92980326
         $/Participant: 233033
         RecordKeeper: NATIONAL FINANCIAL SERVICES
     2017: GERMANIA COMPANIES EMPLOYEES DEFINED BENEFIT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 404
         Assets: 95750915
         $/Participant: 237007

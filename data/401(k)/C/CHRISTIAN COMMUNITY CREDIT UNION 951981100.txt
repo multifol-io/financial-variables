@@ -1,23 +1,9 @@
 CA : SAN DIMAS
   CHRISTIAN COMMUNITY CREDIT UNION  951981100
-   [508]
-    2017: SECTION 105 PLAN
-        Participants: 
-   [501]
-    2022: GROUP HEALTH INSURANCE PLAN
-        Participants: 
-    2021: GROUP HEALTH INSURANCE PLAN
-        Participants: 
-    2020: GROUP HEALTH INSURANCE PLAN
-        Participants: 
-    2019: GROUP HEALTH INSURANCE PLAN
-        Participants: 
-    2018: GROUP HEALTH INSURANCE PLAN
-        Participants: 
-    2017: GROUP HEALTH INSURANCE PLAN
-        Participants: 
    [004]
     2022: CHRISTIAN COMMUNITY CREDIT UNION 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 151
         Assets: 29962775
         $/Participant: 198428
@@ -26,6 +12,8 @@ CA : SAN DIMAS
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
     2021: CHRISTIAN COMMUNITY CREDIT UNION 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 155
         Assets: 39164287
         $/Participant: 252672
@@ -36,6 +24,8 @@ CA : SAN DIMAS
                  : VFTC RETIREMENT SAVINGS TRUST III
 CA : COVINA
     2020: CHRISTIAN COMMUNITY CREDIT UNION 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 152
         Assets: 33029505
         $/Participant: 217299
@@ -44,6 +34,8 @@ CA : COVINA
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST
     2019: CHRISTIAN COMMUNITY CREDIT UNION 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 135
         Assets: 28998455
         $/Participant: 214803
@@ -52,6 +44,8 @@ CA : COVINA
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST
     2018: CHRISTIAN COMMUNITY CREDIT UNION 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 132
         Assets: 23703188
         $/Participant: 179569
@@ -60,6 +54,8 @@ CA : COVINA
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST
     2017: CHRISTIAN COMMUNITY CREDIT UNION 401(K) PLAN AND TRUST
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2T3D 
         Participants: 132
         Assets: 24766425
         $/Participant: 187624
@@ -67,3 +63,34 @@ CA : COVINA
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST
+CA : SAN DIMAS
+   [501]
+    2022: GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2021: GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2020: GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2019: GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2018: GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L4Q
+        Participants: 
+    2017: GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4H4L4Q
+        Participants: 
+   [508]
+    2017: SECTION 105 PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 

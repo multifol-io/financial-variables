@@ -1,97 +1,143 @@
 TX : DALLAS
   PETRO-HUNT, L.L.C.  752756884
-   [503]
-    2022: PETRO-HUNT, L.L.C. LONG-TERM DISABILITY INCOME PLAN
-        Participants: 225
-    2021: PETRO-HUNT, L.L.C. LONG-TERM DISABILITY INCOME PLAN
-        Participants: 202
-    2020: PETRO-HUNT, L.L.C. LONG-TERM DISABILITY INCOME PLAN
-        Participants: 213
-    2019: PETRO-HUNT, L.L.C. LONG-TERM DISABILITY INCOME PLAN
-        Participants: 218
-    2018: PETRO-HUNT, L.L.C. LONG-TERM DISABILITY INCOME PLAN
-        Participants: 222
-    2017: PETRO-HUNT, L.L.C. LONG TERM DISABILITY INCOME PLAN
-        Participants: 203
-   [501]
-    2021: PETRO-HUNT, L.L.C. WELFARE BENEFITS PLAN
-        Participants: 248
-        Service Providers:
-           - IMAGINE360 :  (Claims processing)
-    2020: PETRO-HUNT, L.L.C. WELFARE BENEFITS PLAN
-        Participants: 236
-        Service Providers:
-           - GROUP AND PENSION ADMIN INC :  (Claims processing)
-    2019: PETRO-HUNT, L.L.C. WELFARE BENEFITS PLAN
-        Participants: 244
-        Service Providers:
-           - GROUP AND PENSION ADMIN INC :  (Claims processing)
-    2018: PETRO-HUNT, L.L.C. WELFARE BENEFITS PLAN
-        Participants: 241
-        Service Providers:
-           - GROUP AND PENSION ADMIN INC :  (Claims processing)
-    2017: PETRO-HUNT, L.L.C. WELFARE BENEFITS PLAN
-        Participants: 245
-        Service Providers:
-           - GROUP AND PENSION ADMIN. INC. :  (Claims processing)
    [333]
     2022: AFFILIATED THRIFT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T 
         Participants: 623
         Assets: 177720896
         $/Participant: 285266
         RecordKeeper: JOHN HANCOCK RETIREMENT
     2021: AFFILIATED THRIFT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T 
         Participants: 601
         Assets: 212828145
         $/Participant: 354123
         RecordKeeper: JOHN HANCOCK RETIREMENT
     2020: AFFILIATED THRIFT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T 
         Participants: 620
         Assets: 195262849
         $/Participant: 314940
         RecordKeeper: JOHN HANCOCK RETIREMENT PLAN SVCS.
     2019: AFFILIATED THRIFT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T 
         Participants: 627
         Assets: 174086782
         $/Participant: 277650
         RecordKeeper: PORTFOLIO EVALUATIONS, INC.
     2018: AFFILIATED THRIFT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T 
         Participants: 630
         Assets: 147219163
         $/Participant: 233681
         RecordKeeper: JOHN HANCOCK RETIREMENT PLAN SVCS.
     2017: AFFILIATED THRIFT PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2K2R2S2T 
         Participants: 599
         Assets: 153519832
         $/Participant: 256293
         RecordKeeper: PORTFOLIO EVALUATIONS, INC.
+   [501]
+    2021: PETRO-HUNT, L.L.C. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 248
+        Service Providers:
+           - IMAGINE360 :  (Claims processing)
+    2020: PETRO-HUNT, L.L.C. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 236
+        Service Providers:
+           - GROUP AND PENSION ADMIN INC :  (Claims processing)
+    2019: PETRO-HUNT, L.L.C. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 244
+        Service Providers:
+           - GROUP AND PENSION ADMIN INC :  (Claims processing)
+    2018: PETRO-HUNT, L.L.C. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 241
+        Service Providers:
+           - GROUP AND PENSION ADMIN INC :  (Claims processing)
+    2017: PETRO-HUNT, L.L.C. WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 245
+        Service Providers:
+           - GROUP AND PENSION ADMIN. INC. :  (Claims processing)
+   [503]
+    2022: PETRO-HUNT, L.L.C. LONG-TERM DISABILITY INCOME PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 225
+    2021: PETRO-HUNT, L.L.C. LONG-TERM DISABILITY INCOME PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 202
+    2020: PETRO-HUNT, L.L.C. LONG-TERM DISABILITY INCOME PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 213
+    2019: PETRO-HUNT, L.L.C. LONG-TERM DISABILITY INCOME PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 218
+    2018: PETRO-HUNT, L.L.C. LONG-TERM DISABILITY INCOME PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 222
+    2017: PETRO-HUNT, L.L.C. LONG TERM DISABILITY INCOME PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 203
    [005]
     2022: AFFILIATED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 392
         Assets: 86966901
         $/Participant: 221854
         RecordKeeper: MOSS ADAMS LLP
     2021: AFFILIATED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 398
         Assets: 89207518
         $/Participant: 224139
         RecordKeeper: MOSS ADAMS LLP
     2020: AFFILIATED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 406
         Assets: 75023966
         $/Participant: 184788
         RecordKeeper: MOSS ADAMS LLP
     2019: AFFILIATED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 407
         Assets: 75799779
         $/Participant: 186240
         RecordKeeper: MOSS ADAMS LLP
     2018: AFFILIATED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 407
         Assets: 71245868
         $/Participant: 175051
         RecordKeeper: MOSS ADAMS LLP
     2017: AFFILIATED PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 409
         Assets: 74884333
         $/Participant: 183091

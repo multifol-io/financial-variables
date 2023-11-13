@@ -1,45 +1,9 @@
 OK : ENID
-  CUMMINS CONSTRUCTION CO., INC.  730626847
-   [502]
-    2022: CUMMINS CONSTRUCTION CO., INC. WELFARE BENEFIT PLA
-        Participants: 
-    2021: CUMMINS CONSTRUCTION CO., INC. WELFARE BENEFIT PLAN
-        Participants: 
-    2020: CUMMINS CONSTRUCTION CO., INC. WELFARE BENEFIT PLAN
-        Participants: 
-    2019: CUMMINS CONSTRUCTION CO., INC. WELFARE BENEFIT PLAN
-        Participants: 
-    2018: CUMMINS CONSTRUCTION CO., INC. WELFARE BENEFIT PLAN
-        Participants: 
-    2017: CUMMINS CONSTRUCTION CO., INC. WELFARE BENEFIT PLAN
-        Participants: 
-   [002]
-    2022: THE CUMMINS CONSTRUCTION COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 173
-        Assets: 59338696
-        $/Participant: 342998
-    2021: THE CUMMINS CONSTRUCTION COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 173
-        Assets: 55840684
-        $/Participant: 322778
-    2020: THE CUMMINS CONSTRUCTION COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 180
-        Assets: 45988716
-        $/Participant: 255492
-    2019: THE CUMMINS CONSTRUCTION COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 169
-        Assets: 37309951
-        $/Participant: 220768
-    2018: THE CUMMINS CONSTRUCTION COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 167
-        Assets: 41855469
-        $/Participant: 250631
-    2017: THE CUMMINS CONSTRUCTION COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Participants: 196
-        Assets: 38742253
-        $/Participant: 197664
+  CUMMINS CONSTRUCTION COMPANY, INC.  730626847
    [001]
     2022: THE CUMMINS CONSTRUCTION COMPANY, INC. SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 3D2E2G2J2K2F2S2T2R 
         Participants: 171
         Assets: 12544739
         $/Participant: 73361
@@ -50,6 +14,8 @@ OK : ENID
            - FEDERATED INVESTORS TRUST COMPANY
                  : FEDERATED CAPITAL PRESERVATION FUND
     2021: THE CUMMINS CONSTRUCTION COMPANY, INC. SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 3D2E2G2J2K2F2S2T2R 
         Participants: 174
         Assets: 14003562
         $/Participant: 80480
@@ -60,6 +26,8 @@ OK : ENID
            - FEDERATED INVESTORS TRUST COMPANY
                  : FEDERATED CAPITAL PRESERVATION FUND
     2020: THE CUMMINS CONSTRUCTION COMPANY, INC. SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 3D2E2G2J2K2F2S2T2R 
         Participants: 189
         Assets: 13211031
         $/Participant: 69899
@@ -70,6 +38,8 @@ OK : ENID
            - FEDERATED INVESTORS TRUST COMPANY
                  : FEDERATED CAPITAL PRESERVATION FUND
     2019: THE CUMMINS CONSTRUCTION COMPANY, INC. SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 3D2E2G2J2K2F2S2T2R 
         Participants: 184
         Assets: 12550155
         $/Participant: 68207
@@ -80,6 +50,8 @@ OK : ENID
            - FEDERATED INVESTORS TRUST COMPANY
                  : FEDERATED CAPITAL PRESERVATION FUND
     2018: THE CUMMINS CONSTRUCTION COMPANY, INC. SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 3D2E2G2J2K2F2S2T2R 
         Participants: 129
         Assets: 10115897
         $/Participant: 78417
@@ -90,6 +62,8 @@ OK : ENID
            - FEDERATED INVESTORS TRUST COMPANY
                  : FEDERATED CAPITAL PRESERVATION FUND
     2017: THE CUMMINS CONSTRUCTION COMPANY, INC. SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 3D2E2G2J2K2F2S2T 
         Participants: 127
         Assets: 10411163
         $/Participant: 81977
@@ -99,3 +73,65 @@ OK : ENID
                  : MAP POOLED INVESTMENT TRUST
            - FEDERATED INVESTORS TRUST COMPANY
                  : FEDERATED CAPITAL PRESERVATION FUND
+   [002]
+    2022: THE CUMMINS CONSTRUCTION COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q 
+        Participants: 173
+        Assets: 59338696
+        $/Participant: 342998
+    2021: THE CUMMINS CONSTRUCTION COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q 
+        Participants: 173
+        Assets: 55840684
+        $/Participant: 322778
+    2020: THE CUMMINS CONSTRUCTION COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q 
+        Participants: 180
+        Assets: 45988716
+        $/Participant: 255492
+    2019: THE CUMMINS CONSTRUCTION COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q 
+        Participants: 169
+        Assets: 37309951
+        $/Participant: 220768
+    2018: THE CUMMINS CONSTRUCTION COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q 
+        Participants: 167
+        Assets: 41855469
+        $/Participant: 250631
+    2017: THE CUMMINS CONSTRUCTION COMPANY, INC. EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2P2Q 
+        Participants: 196
+        Assets: 38742253
+        $/Participant: 197664
+   [502]
+    2022: CUMMINS CONSTRUCTION CO., INC. WELFARE BENEFIT PLA
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4L4Q
+        Participants: 
+    2021: CUMMINS CONSTRUCTION CO., INC. WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4L4Q
+        Participants: 
+    2020: CUMMINS CONSTRUCTION CO., INC. WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4L4Q
+        Participants: 
+    2019: CUMMINS CONSTRUCTION CO., INC. WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4L4Q
+        Participants: 
+    2018: CUMMINS CONSTRUCTION CO., INC. WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4Q
+        Participants: 
+    2017: CUMMINS CONSTRUCTION CO., INC. WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 

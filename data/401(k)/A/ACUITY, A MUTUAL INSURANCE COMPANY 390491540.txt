@@ -1,66 +1,9 @@
 WI : SHEBOYGAN
-  ACUITY A MUTUAL INSURANCE COMPANY  390491540
-   [506]
-    2020: ACUITY VOLUNTARY VISION PLAN
-        Participants: 1085
-    2019: ACUITY VOLUNTARY VISION PLAN
-        Participants: 1007
-    2018: ACUITY VOLUNTARY VISION PLAN
-        Participants: 951
-    2017: ACUITY VOLUNTARY VISION PLAN
-        Participants: 2173
-   [505]
-    2020: SECTION 125 CUSTOM BENEFIT
-        Participants: 122
-    2019: SECTION 125 CUSTOM BENEFIT
-        Participants: 109
-    2018: SECTION 125 CUSTOM BENEFIT
-        Participants: 89
-    2017: SECTION 125 CUSTOM BENEFIT
-        Participants: 90
-        Service Providers:
-           - UMR : CLAIMS PROCESSING (Claims processing)
-   [504]
-    2020: ACUITY LONG TERM DISABILITY PLAN
-        Participants: 1448
-    2019: ACUITY LONG TERM DISABILITY PLAN
-        Participants: 1357
-    2018: ACUITY LONG TERM DISABILITY PLAN
-        Participants: 1249
-    2017: ACUITY LONG TERM DISABILITY PLAN
-        Participants: 1236
-   [502]
-    2022: ACUITY GROUP HEALTH AND WELFARE PLAN
-        Participants: 1554
-        Service Providers:
-           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATOR (Contract Administrator | Insurance agents and brokers)
-           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATOR (Contract Administrator | Insurance agents and brokers)
-           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
-    2021: ACUTIY GROUP HEALTH AND WELFARE PLAN
-        Participants: 1497
-        Service Providers:
-           - LINCOLN NATIONAL LIFE INSURANCE CO : INSURANCE AGENT OR BROKER (Insurance agents and brokers)
-           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINSTRATOR (Contract Administrator | Insurance agents and brokers)
-           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATOR (Contract Administrator | Insurance agents and brokers)
-           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
-    2020: ACUITY LIFE HEALTH DENTAL PLAN
-        Participants: 1347
-        Service Providers:
-           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATOR (Insurance agents and brokers | Contract Administrator)
-           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATOR (Insurance agents and brokers | Contract Administrator)
-           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
-    2019: ACUITY LIFE HEALTH DENTAL PLAN
-        Participants: 1300
-        Service Providers:
-           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
-    2018: ACUITY LIFE HEALTH DENTAL PLAN
-        Participants: 3260
-        Service Providers:
-           - UNITED HEALTHCARE SERVICES, INC : CLAIMS PROCESSOR (Claims processing | Other services)
-    2017: ACUITY LIFE AND ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Participants: 1238
+  ACUITY, A MUTUAL INSURANCE COMPANY  390491540
    [002]
     2022: ACUITY, A MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D 
         Participants: 1811
         Assets: 446792468
         $/Participant: 246710
@@ -83,6 +26,8 @@ WI : SHEBOYGAN
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INC
     2021: ACUITY, A MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D 
         Participants: 1727
         Assets: 512388517
         $/Participant: 296692
@@ -104,6 +49,8 @@ WI : SHEBOYGAN
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INC
     2020: ACUITY, A MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D 
         Participants: 1655
         Assets: 442317337
         $/Participant: 267261
@@ -125,6 +72,8 @@ WI : SHEBOYGAN
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INC
     2019: ACUITY, A MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D 
         Participants: 1595
         Assets: 365629695
         $/Participant: 229234
@@ -146,6 +95,8 @@ WI : SHEBOYGAN
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INC
     2018: ACUITY, A MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2S2T3D 
         Participants: 1512
         Assets: 285408758
         $/Participant: 188762
@@ -167,6 +118,8 @@ WI : SHEBOYGAN
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INC
     2017: ACUITY, A MUTUAL INSURANCE COMPANY 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3H2R 
         Participants: 1421
         Assets: 292046372
         $/Participant: 205521
@@ -187,3 +140,98 @@ WI : SHEBOYGAN
                  : VANGUARD TARGET 2055
                  : VANGUARD TARGET 2060
                  : VANGUARD TARGET INC
+   [502]
+    2022: ACUITY GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 1554
+        Service Providers:
+           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATOR (Contract Administrator | Insurance agents and brokers)
+           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATOR (Contract Administrator | Insurance agents and brokers)
+           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
+    2021: ACUTIY GROUP HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H
+        Participants: 1497
+        Service Providers:
+           - LINCOLN NATIONAL LIFE INSURANCE CO : INSURANCE AGENT OR BROKER (Insurance agents and brokers)
+           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINSTRATOR (Contract Administrator | Insurance agents and brokers)
+           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATOR (Contract Administrator | Insurance agents and brokers)
+           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
+    2020: ACUITY LIFE HEALTH DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D
+        Participants: 1347
+        Service Providers:
+           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATOR (Insurance agents and brokers | Contract Administrator)
+           - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATOR (Insurance agents and brokers | Contract Administrator)
+           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
+    2019: ACUITY LIFE HEALTH DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4H
+        Participants: 1300
+        Service Providers:
+           - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
+    2018: ACUITY LIFE HEALTH DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4H
+        Participants: 3260
+        Service Providers:
+           - UNITED HEALTHCARE SERVICES, INC : CLAIMS PROCESSOR (Claims processing | Other services)
+    2017: ACUITY LIFE AND ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 1238
+   [504]
+    2020: ACUITY LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H4R
+        Participants: 1448
+    2019: ACUITY LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 1357
+    2018: ACUITY LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 1249
+    2017: ACUITY LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 1236
+   [505]
+    2020: SECTION 125 CUSTOM BENEFIT
+        Benefit Category: Other
+        Codes:  4Q4R
+        Participants: 122
+    2019: SECTION 125 CUSTOM BENEFIT
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 109
+    2018: SECTION 125 CUSTOM BENEFIT
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 89
+    2017: SECTION 125 CUSTOM BENEFIT
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 90
+        Service Providers:
+           - UMR : CLAIMS PROCESSING (Claims processing)
+   [506]
+    2020: ACUITY VOLUNTARY VISION PLAN
+        Benefit Category: Other
+        Codes:  4E4R
+        Participants: 1085
+    2019: ACUITY VOLUNTARY VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 1007
+    2018: ACUITY VOLUNTARY VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 951
+    2017: ACUITY VOLUNTARY VISION PLAN
+        Benefit Category: Other
+        Codes:  4E
+        Participants: 2173

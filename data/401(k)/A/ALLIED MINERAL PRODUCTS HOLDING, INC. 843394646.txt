@@ -1,22 +1,9 @@
 OH : COLUMBUS
   ALLIED MINERAL PRODUCTS HOLDING, INC.  843394646
-   [501]
-    2022: ALLIED MINERAL PRODUCTS HOLDING INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - UNITED HEALTHCARE SERVICES : CLAIMS PROCESSOR (Claims processing | Other services)
-           - MCGOHAN BRABENDER : BROKER (Other commissions)
-           - DELTA DENTAL OF OHIO : BENEFITS ADMINISTRATOR (Claims processing | Contract Administrator)
-           - MCGOHAN BRABENDER : BROKER (Other commissions)
-    2021: ALLIED MINERAL PRODUCTS HOLDING INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
-        Service Providers:
-           - UNITED HEALTHCARE SERVICES : CLAIMS PROCESSOR (Claims processing | Other services)
-           - MCGOHAN BRABENDER : BROKER (Other commissions)
-    2020: ALLIED MINERAL PRODUCTS HOLDING INC. EMPLOYEE BENEFIT PLAN
-        Participants: 
    [004]
     2021: ALLIED MINERAL PRODUCTS 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 3D2E2J2F2G2T 
         Participants: 488
         Assets: 10609584
         $/Participant: 21740
@@ -41,6 +28,8 @@ OH : COLUMBUS
            - RELIANCE TRUST
                  : RELIANCE METLIFE SERIES 25053 CI 0
     2020: ALLIED MINERAL PRODUCTS 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 3D2E2J2F2G2T 
         Participants: 452
         Assets: 12054258
         $/Participant: 26668
@@ -63,6 +52,8 @@ OH : COLUMBUS
                  : FLEXPATH INDEX MODERATE RETIRE
                  : RELIANCE METLIFE SERIES 25053 CI 0
     2019: ALLIED MINERAL PRODUCTS 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 3D2E2J2F2G2T 
         Participants: 502
         Assets: 9550191
         $/Participant: 19024
@@ -94,6 +85,8 @@ OH : COLUMBUS
                  : VANGUARD TOTAL INTL BOND INDEX ADMI
    [001]
     2021: ALLIED MINERAL PRODUCTS EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2P3H3I2Q 
         Participants: 646
         Assets: 274191566
         $/Participant: 424445
@@ -103,6 +96,8 @@ OH : COLUMBUS
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VALUE FUND CLASS M
     2020: ALLIED MINERAL PRODUCTS EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2P3H3I2Q 
         Participants: 603
         Assets: 249189926
         $/Participant: 413250
@@ -112,6 +107,8 @@ OH : COLUMBUS
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VALUE FUND CLASS M
     2019: ALLIED MINERAL PRODUCTS EMPLOYEE STOCK OWNERSHIP PLAN
+        Benefit Category: Employee Stock Ownership Plan
+        Codes: 2O2P3H 
         Participants: 625
         Assets: 219152244
         $/Participant: 350643
@@ -120,3 +117,24 @@ OH : COLUMBUS
         Available Investments:
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VALUE FUND CLASS M
+   [501]
+    2022: ALLIED MINERAL PRODUCTS HOLDING INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Service Providers:
+           - UNITED HEALTHCARE SERVICES : CLAIMS PROCESSOR (Claims processing | Other services)
+           - MCGOHAN BRABENDER : BROKER (Other commissions)
+           - DELTA DENTAL OF OHIO : BENEFITS ADMINISTRATOR (Claims processing | Contract Administrator)
+           - MCGOHAN BRABENDER : BROKER (Other commissions)
+    2021: ALLIED MINERAL PRODUCTS HOLDING INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 
+        Service Providers:
+           - UNITED HEALTHCARE SERVICES : CLAIMS PROCESSOR (Claims processing | Other services)
+           - MCGOHAN BRABENDER : BROKER (Other commissions)
+    2020: ALLIED MINERAL PRODUCTS HOLDING INC. EMPLOYEE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4Q
+        Participants: 

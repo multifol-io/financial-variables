@@ -1,20 +1,9 @@
-CO : CENTENNIAL
+CO : DENVER
   ANGLOGOLD ASHANTI NORTH AMERICA INC.  841137980
-   [506]
-    2017: ANGLOGOLD ASHANTI NORTH AMERICA INC. RETIREE MEDICAL PLAN
-        Participants: 35
-CO : DENVER
-   [501]
-    2019: ANGLOGOLD ASHANTI NORTH AMERICA INC. GROUP MEDICAL, DENTAL, VISION, LIFE AD&D, LTD AND BUSINESS TRAVEL
-        Participants: 54
-    2018: ANGLOGOLD ASHANTI NORTH AMERICA INC. GROUP MEDICAL, DENTAL, VISION, LIFE, AD&D, LTD & BUSINESS TRAVEL
-        Participants: 58
-CO : CENTENNIAL
-    2017: ANGLOGOLD ASHANTI NORTH AMERICA INC. GROUP MEDICAL, DENTAL, VISION, LIFE, AD&D, LTD & BUSINESS TRAVEL
-        Participants: 65
-CO : DENVER
    [002]
     2022: ANGLOGOLD ASHANTI NORTH AMERICA INC. EMPLOYEE CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 3H2E2F2G2J2K2T3D 
         Participants: 146
         Assets: 21602000
         $/Participant: 147958
@@ -23,6 +12,8 @@ CO : DENVER
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2021: ANGLOGOLD ASHANTI NORTH AMERICA INC. EMPLOYEE CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 3H2E2F2G2J2K2T3D 
         Participants: 107
         Assets: 27493336
         $/Participant: 256947
@@ -31,6 +22,8 @@ CO : DENVER
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2020: ANGLOGOLD ASHANTI NORTH AMERICA INC. EMPLOYEE CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 111
         Assets: 24795164
         $/Participant: 223379
@@ -39,6 +32,8 @@ CO : DENVER
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2019: ANGLOGOLD ASHANTI NORTH AMERICA INC. EMPLOYEE CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 118
         Assets: 23085942
         $/Participant: 195643
@@ -47,6 +42,8 @@ CO : DENVER
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2018: ANGLOGOLD ASHANTI NORTH AMERICA INC. EMPLOYEE CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3D 
         Participants: 124
         Assets: 20286890
         $/Participant: 163603
@@ -56,6 +53,8 @@ CO : DENVER
                  : MIP CL 1
 CO : CENTENNIAL
     2017: ANGLOGOLD ASHANTI NORTH AMERICA INC. EMPLOYEE CAPITAL ACCUMULATION PLAN
+        Benefit Category: 401(k)
+        Codes: 2F2G2J2K2T3D3H2E 
         Participants: 137
         Assets: 23199056
         $/Participant: 169336
@@ -64,3 +63,23 @@ CO : CENTENNIAL
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FA STABLE VALUE
                  : MIP CL 1
+CO : DENVER
+   [501]
+    2019: ANGLOGOLD ASHANTI NORTH AMERICA INC. GROUP MEDICAL, DENTAL, VISION, LIFE AD&D, LTD AND BUSINESS TRAVEL
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 54
+    2018: ANGLOGOLD ASHANTI NORTH AMERICA INC. GROUP MEDICAL, DENTAL, VISION, LIFE, AD&D, LTD & BUSINESS TRAVEL
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 58
+CO : CENTENNIAL
+    2017: ANGLOGOLD ASHANTI NORTH AMERICA INC. GROUP MEDICAL, DENTAL, VISION, LIFE, AD&D, LTD & BUSINESS TRAVEL
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4H4L
+        Participants: 65
+   [506]
+    2017: ANGLOGOLD ASHANTI NORTH AMERICA INC. RETIREE MEDICAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4Q
+        Participants: 35

@@ -1,26 +1,8 @@
 WI : MILWAUKEE
   VALUATION RESEARCH CORP  391214928
-   [504]
-    2022: VALUATION RESEARCH CORPORATION WELFARE BENEFIT PLAN
-        Participants: 
-    2021: VALUATION RESEARCH CORPORATION WELFARE BENEFIT PLAN
-        Participants: 
-    2020: VALUATION RESEARCH CORPORATION WELFARE BENEFIT PLAN
-        Participants: 
-   [503]
-    2021: VALUATION RESEARCH CORPORATION LIFE AND DISABILITY PLAN
-        Participants: 
-    2019: VALUATION RESEARCH CORPORATION LIFE AND DISABILITY PLAN
-        Participants: 
-    2018: VALUATION RESEARCH CORPORATION LIFE AND DISABILITY PLAN
-        Participants: 140
-   [502]
-    2019: VALUATION RESEARCH CORPORATION MEDICAL AND DENTAL PLAN
-        Participants: 
-    2018: VALUATION RESEARCH CORPORATION MEDICAL AND DENTAL PLAN
-        Participants: 118
-   [001]
     2022: VALUATION RESEARCH CORPORATION EMPLOYEES' PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 275
         Assets: 54322319
         $/Participant: 197535
@@ -45,6 +27,8 @@ WI : MILWAUKEE
                  : WILMINGTON RETIREMENTRACK MOD 2065
                  : WILMINGTON RETIREMENTRACK MOD RETIR
     2021: VALUATION RESEARCH CORPORATION EMPLOYEES' PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 236
         Assets: 63258456
         $/Participant: 268044
@@ -53,6 +37,8 @@ WI : MILWAUKEE
            - BMO HARRIS BANK, N.A.
                  : ONEAMERICA STABLE VALUE FUND
     2020: VALUATION RESEARCH CORPORATION EMPLOYEES' PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 199
         Assets: 54930961
         $/Participant: 276034
@@ -61,6 +47,8 @@ WI : MILWAUKEE
            - BMO HARRIS BANK, N.A.
                  : BMO STABLE VALUE FUND CLASS Z
     2019: VALUATION RESEARCH CORPORATION EMPLOYEES' PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 190
         Assets: 49248746
         $/Participant: 259203
@@ -69,6 +57,8 @@ WI : MILWAUKEE
            - BMO HARRIS BANK, N.A.
                  : BMO STABLE VALUE FUND CLASS Z
     2018: VALUATION RESEARCH CORPORATION EMPLOYEES' PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 165
         Assets: 37613343
         $/Participant: 227959
@@ -77,6 +67,8 @@ WI : MILWAUKEE
            - BMO HARRIS BANK, N.A.
                  : BMO STABLE VALUE FUND CLASS Z
     2017: VALUATION RESEARCH CORPORATION EMPLOYEES' PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D 
         Participants: 153
         Assets: 38197348
         $/Participant: 249655
@@ -84,3 +76,38 @@ WI : MILWAUKEE
         Available Investments:
            - BMO HARRIS BANK, N.A.
                  : BMO STABLE VALUE FUND CLASS Z
+   [502]
+    2019: VALUATION RESEARCH CORPORATION MEDICAL AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4F4H
+        Participants: 
+    2018: VALUATION RESEARCH CORPORATION MEDICAL AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D
+        Participants: 118
+   [504]
+    2022: VALUATION RESEARCH CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2021: VALUATION RESEARCH CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+    2020: VALUATION RESEARCH CORPORATION WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+   [503]
+    2021: VALUATION RESEARCH CORPORATION LIFE AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H4F
+        Participants: 
+    2019: VALUATION RESEARCH CORPORATION LIFE AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H4F
+        Participants: 
+    2018: VALUATION RESEARCH CORPORATION LIFE AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H4F
+        Participants: 140

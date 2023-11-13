@@ -1,30 +1,9 @@
 IL : CHICAGO
   CBOE GLOBAL MARKETS, INC.  205446972
-   [503]
-    2022: CBOE GLOBAL MARKETS BENEFIT PLAN
-        Participants: 
-    2021: CBOE GLOBAL MARKETS BENEFIT PLAN
-        Participants: 709
-        Service Providers:
-           - FLORES & ASSOCIATES :  (Claims processing)
-           - PRUDENTIAL INSURANCE CO. OF AMERICA :  (Claims processing)
-    2020: CBOE GLOBAL MARKETS BENEFIT PLAN
-        Participants: 707
-        Service Providers:
-           - PRUDENTIAL INSURANCE CO. OF AMERICA :  (Claims processing)
-           - FLORES & ASSOCIATES :  (Claims processing)
-    2019: CBOE GLOBAL MARKETS BENEFIT PLAN
-        Participants: 671
-        Service Providers:
-           - FLORES & ASSOCIATES :  (Claims processing)
-           - PRUDENTIAL INSURANCE CO. OF AMERICA :  (Claims processing)
-    2018: CBOE GLOBAL MARKETS BENEFIT PLAN
-        Participants: 667
-        Service Providers:
-           - PRUDENTIAL INSURANCE CO. OF AMERICA :  (Claims processing)
-           - FLORES & ASSOCIATES :  (Claims processing)
    [001]
     2022: CBOE GLOBAL MARKETS SMART PLAN
+        Benefit Category: 401(k)
+        Codes: 2G2J2K3H3D2R2E 
         Participants: 1522
         Assets: 339746316
         $/Participant: 223223
@@ -48,6 +27,8 @@ IL : CHICAGO
                  : MIP CL 2
                  : MIP II CL 1
     2021: CBOE GLOBAL MARKETS SMART PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2R3D3H 
         Participants: 1332
         Assets: 429248212
         $/Participant: 322258
@@ -70,6 +51,8 @@ IL : CHICAGO
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
     2020: CBOE GLOBAL MARKETS SMART PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K3D2R 
         Participants: 1259
         Assets: 374621568
         $/Participant: 297554
@@ -92,6 +75,8 @@ IL : CHICAGO
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
     2019: CBOE GLOBAL MARKETS SMART PLAN
+        Benefit Category: 401(k)
+        Codes: 2R3D2E2G2J2K 
         Participants: 1193
         Assets: 327953409
         $/Participant: 274898
@@ -114,6 +99,8 @@ IL : CHICAGO
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
     2018: CBOE GLOBAL MARKETS SMART PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K2R3D 
         Participants: 1135
         Assets: 275661571
         $/Participant: 242873
@@ -121,3 +108,41 @@ IL : CHICAGO
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
+   [503]
+    2022: CBOE GLOBAL MARKETS BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4H4I4L4Q
+        Participants: 
+    2021: CBOE GLOBAL MARKETS BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4F4G4H4I4Q
+        Participants: 709
+        Service Providers:
+           - FLORES & ASSOCIATES :  (Claims processing)
+           - PRUDENTIAL INSURANCE CO. OF AMERICA :  (Claims processing)
+    2020: CBOE GLOBAL MARKETS BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4F4G4H4I
+        Participants: 707
+        Service Providers:
+           - PRUDENTIAL INSURANCE CO. OF AMERICA :  (Claims processing)
+           - FLORES & ASSOCIATES :  (Claims processing)
+    2019: CBOE GLOBAL MARKETS BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4F4G4H4I
+        Participants: 671
+        Service Providers:
+           - FLORES & ASSOCIATES :  (Claims processing)
+           - PRUDENTIAL INSURANCE CO. OF AMERICA :  (Claims processing)
+    2018: CBOE GLOBAL MARKETS BENEFIT PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4F4G4H4I
+        Participants: 667
+        Service Providers:
+           - PRUDENTIAL INSURANCE CO. OF AMERICA :  (Claims processing)
+           - FLORES & ASSOCIATES :  (Claims processing)

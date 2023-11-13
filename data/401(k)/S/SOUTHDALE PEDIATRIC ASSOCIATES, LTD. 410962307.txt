@@ -1,72 +1,9 @@
 MN : EDINA
   SOUTHDALE PEDIATRIC ASSOCIATES, LTD.  410962307
-   [505]
-    2022: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LIFE INSURANCE PLAN
-        Participants: 
-    2021: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LIFE INSURANCE PLAN
-        Participants: 
-    2020: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LIFE INSURANCE PLAN
-        Participants: 
-    2019: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LIFE INSURANCE PLAN
-        Participants: 
-    2018: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LIFE INSURANCE PLAN
-        Participants: 
-    2017: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LIFE INSURANCE PLAN
-        Participants: 
-   [504]
-    2022: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LONG TERM DISABILITY PLAN
-        Participants: 
-    2021: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LONG TERM DISABILITY PLAN
-        Participants: 
-    2020: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LONG TERM DISABILITY PLAN
-        Participants: 
-    2019: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LONG TERM DISABILITY PLAN
-        Participants: 
-    2018: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LONG TERM DISABILITY PLAN
-        Participants: 
-    2017: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LONG TERM DISABILITY PLAN
-        Participants: 
-   [503]
-    2022: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP DENTAL PLAN
-        Participants: 
-        Service Providers:
-           - STRATACOR : BENEFIT ADMINISTRATOR (Claims processing | Contract Administrator)
-           - FLAGSHIP INSURANCE SERVICES, INC. : AGENT/AGENCY (Insurance agents and brokers)
-    2021: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP DENTAL PLAN
-        Participants: 
-    2020: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP DENTAL PLAN
-        Participants: 
-    2019: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP DENTAL PLAN
-        Participants: 
-   [502]
-    2022: SOUTHDALE PEDIATRIC ASSOCIATES, LTD., GROUP HEALTH INSURANCE PLAN
-        Participants: 
-        Service Providers:
-           - MEDICA SELF INSURED : CLAIM PROCESSING (Claims processing)
-           - MEDICA SELF INSURED : CLAIM PROCESSING (Claims processing)
-           - OPTUMINSIGHT, INC. : CLAIM PROCESSING (Claims processing)
-    2021: SOUTHDALE PEDIATRIC ASSOCIATES, LTD., GROUP HEALTH INSURANCE PLAN
-        Participants: 
-        Service Providers:
-           - MEDICA SELF INSURED : CLAIM PROCESSING (Claims processing)
-           - MEDICA SELF INSURED : CLAIM PROCESSING (Claims processing)
-    2019: SOUTHDALE PEDIATRIC ASSOCIATES, LTD., GROUP HEALTH INSURANCE PLAN
-        Participants: 
-        Service Providers:
-           - MEDICA SELF INSURED : CLAIM PROCESSING (Claims processing)
-           - MEDICA SELF INSURED : CLAIM PROCESSING (Claims processing)
-    2018: SOUTHDALE PEDIATRIC ASSOCIATES, LTD., GROUP HEALTH INSURANCE PLAN
-        Participants: 
-        Service Providers:
-           - MEDICA SELF INSURED : CLAIM PROCESSING (Claims processing)
-           - MEDICA SELF INSURED : CLAIM PROCESSING (Claims processing)
-    2017: SOUTHDALE PEDIATRIC ASSOCIATES, LTD., GROUP HEALTH INSURANCE PLAN
-        Participants: 
-        Service Providers:
-           - MEDICA SELF INSURED : CLAIM PROCESSING (Claims processing)
-           - MEDICA SELF INSURED : CLAIM PROCESSING (Claims processing)
    [002]
     2022: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2S2T3D 
         Participants: 198
         Assets: 57086493
         $/Participant: 288315
@@ -116,6 +53,8 @@ MN : EDINA
                  : VANGUARD REAL ESTATE INDX ADM
                  : VOYA GV MNY MKT F A (HLD ACCT)
     2021: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2A2E2F2G2J2R2S2T3D 
         Participants: 181
         Assets: 70318053
         $/Participant: 388497
@@ -164,27 +103,143 @@ MN : EDINA
                  : VANGRD VALUE INDEX FUND ADM
                  : VANGUARD REAL ESTATE INDX ADM
                  : VOYA GV MNY MKT F A
+   [502]
+    2022: SOUTHDALE PEDIATRIC ASSOCIATES, LTD., GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Service Providers:
+           - MEDICA SELF INSURED : CLAIM PROCESSING (Claims processing)
+           - MEDICA SELF INSURED : CLAIM PROCESSING (Claims processing)
+           - OPTUMINSIGHT, INC. : CLAIM PROCESSING (Claims processing)
+    2021: SOUTHDALE PEDIATRIC ASSOCIATES, LTD., GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Service Providers:
+           - MEDICA SELF INSURED : CLAIM PROCESSING (Claims processing)
+           - MEDICA SELF INSURED : CLAIM PROCESSING (Claims processing)
+    2019: SOUTHDALE PEDIATRIC ASSOCIATES, LTD., GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Service Providers:
+           - MEDICA SELF INSURED : CLAIM PROCESSING (Claims processing)
+           - MEDICA SELF INSURED : CLAIM PROCESSING (Claims processing)
+    2018: SOUTHDALE PEDIATRIC ASSOCIATES, LTD., GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Service Providers:
+           - MEDICA SELF INSURED : CLAIM PROCESSING (Claims processing)
+           - MEDICA SELF INSURED : CLAIM PROCESSING (Claims processing)
+    2017: SOUTHDALE PEDIATRIC ASSOCIATES, LTD., GROUP HEALTH INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A
+        Participants: 
+        Service Providers:
+           - MEDICA SELF INSURED : CLAIM PROCESSING (Claims processing)
+           - MEDICA SELF INSURED : CLAIM PROCESSING (Claims processing)
+   [002]
     2020: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. PROFIT SHARING PLAN
+        Benefit Category: Other
+        Codes: 2A2E2H2T3D 
         Participants: 189
         Assets: 64175131
         $/Participant: 339550
         Service Providers:
            - RBC WEALTH MANAGEMENT : BROKER (Investment advisory(plan))
     2019: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. PROFIT SHARING PLAN
+        Benefit Category: Other
+        Codes: 2A2E2H2T3D 
         Participants: 177
         Assets: 59767988
         $/Participant: 337672
         Service Providers:
            - RBC WEALTH MANAGEMENT : BROKER (Investment advisory(plan))
     2018: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. PROFIT SHARING PLAN
+        Benefit Category: Other
+        Codes: 2A2E2H2T3D 
         Participants: 176
         Assets: 49353106
         $/Participant: 280415
         Service Providers:
            - RBC WEALTH MANAGEMENT : BROKER (Investment advisory(plan))
     2017: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. PROFIT SHARING PLAN
+        Benefit Category: Other
+        Codes: 2A2E2H2T3D 
         Participants: 172
         Assets: 50253975
         $/Participant: 292174
         Service Providers:
            - RBC WEALTH MANAGEMENT : BROKER (Investment advisory(plan))
+   [503]
+    2022: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+        Service Providers:
+           - STRATACOR : BENEFIT ADMINISTRATOR (Claims processing | Contract Administrator)
+           - FLAGSHIP INSURANCE SERVICES, INC. : AGENT/AGENCY (Insurance agents and brokers)
+    2021: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2020: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D
+        Participants: 
+    2019: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP DENTAL PLAN
+        Benefit Category: Other
+        Codes:  4D4S
+        Participants: 
+   [504]
+    2022: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2021: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2020: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2019: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2018: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+    2017: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LONG TERM DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4H
+        Participants: 
+   [505]
+    2022: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2021: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2020: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2019: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2018: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 
+    2017: SOUTHDALE PEDIATRIC ASSOCIATES, LTD. GROUP LIFE INSURANCE PLAN
+        Benefit Category: Other
+        Codes:  4B
+        Participants: 

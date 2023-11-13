@@ -1,20 +1,55 @@
 OH : CINCINNATI
   KEATING MUETHING & KLEKAMP PLL  310570030
-   [502]
-    2021: KEATING MUETHING & KLEKAMP PLL LIFE AND DISABILITY PLAN
-        Participants: 
-    2020: KEATING MUETHING & KLEKAMP PLL LIFE AND DISABILITY PLAN
-        Participants: 195
-    2019: KEATING MUETHING & KLEKAMP PLL LIFE AND DISABILITY PLAN
-        Participants: 203
-    2018: KEATING MUETHING & KLEKAMP PLL LIFE AND DISABILITY PLAN
-        Participants: 204
-    2017: KEATING MUETHING & KLEKAMP PLL LIFE AND DISABILITY PLAN
-        Participants: 194
+   [001]
+    2021: KEATING MUETHING & KLEKAMP 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2S2T3B 
+        Participants: 307
+        Assets: 135569133
+        $/Participant: 441593
+        RecordKeeper: TD AMERITRADE, INC.
+    2020: KEATING MUETHING & KLEKAMP 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2S2T3B3H 
+        Participants: 289
+        Assets: 176524335
+        $/Participant: 610810
+        RecordKeeper: TD AMERITRADE
+    2019: KEATING MUETHING & KLEKAMP 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2S2T3B3H 
+        Participants: 282
+        Assets: 149138765
+        $/Participant: 528860
+        RecordKeeper: TD AMERITRADE
+    2018: KEATING MUETHING & KLEKAMP 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2S2T3B3H 
+        Participants: 284
+        Assets: 137840375
+        $/Participant: 485353
+        RecordKeeper: TD AMERITRADE
+        Available Investments:
+           - FEDERATED INVESTORS TRUST COMPANY
+                 : CAPITAL PRESERVATION FUND
+    2017: KEATING MUETHING & KLEKAMP 401(K) PROFIT SHARING PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2R2S2T3B3H 
+        Participants: 258
+        Assets: 132867298
+        $/Participant: 514989
+        RecordKeeper: FIFTH THIRD BANK RETIREMENT SERVICE
+        Available Investments:
+           - FEDERATED INVESTORS TRUST COMPANY
+                 : FEDERATED CAPITAL PRESERVATION FUND
    [501]
     2021: KEATING MUETHING AND KLEKAMP PLL HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4F
         Participants: 
     2020: KEATING MUETHING & KLEKAMP PLL HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4F
         Participants: 156
         Service Providers:
            - ENROLLMENT MANAGEMENT SERVICES : OTHER (Other services)
@@ -25,6 +60,8 @@ OH : CINCINNATI
            - RX RESULTS LLC : PRESCRIPTION AUTHO (Other services)
            - CUSTOM DESIGN BENEFITS, LLC : CLAIMS PROCESSING (Claims processing)
     2019: KEATING MUETHING & KLEKAMP PLL HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4F
         Participants: 155
         Service Providers:
            - CUSTOM DESIGN BENEFITS LLC :  (Claims processing)
@@ -35,6 +72,8 @@ OH : CINCINNATI
            - ENROLLMENT MANAGEMENT SERVICES : ENROLLMENT MANAGEMENT (Other services)
            - CALL A DOCTOR :  (Other services)
     2018: KEATING MUETHING & KLEKAMP PLL HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4F
         Participants: 151
         Service Providers:
            - CUSTOM DESIGN BENEFITS LLC :  (Claims processing)
@@ -44,6 +83,8 @@ OH : CINCINNATI
            - MEDICAL MUTUAL OF OHIO : PPO PROVIDER (Other insurance fees and expenses)
            - ENROLLMENT MANAGEMENT SERVICES : BROKER SERVICES (Other fees)
     2017: KEATING MUETHING & KLEKAMP PLL HEALTH BENEFITS PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4F
         Participants: 154
         Service Providers:
            - CUSTOM DESIGN BENEFITS LLC : CLAIMS PROCESSING (Claims processing)
@@ -54,35 +95,24 @@ OH : CINCINNATI
            - ENROLLMENT MANAGEMENT SERVICES : BROKER SERVICES (Other fees)
            - UMR INC : CLAIMS PROCESSING (Claims processing)
            - STRATEGIC EMPLOYEE BENEFITS SERVICE : BROKER (Other commissions)
-   [001]
-    2021: KEATING MUETHING & KLEKAMP 401(K) PROFIT SHARING PLAN
-        Participants: 307
-        Assets: 135569133
-        $/Participant: 441593
-        RecordKeeper: TD AMERITRADE, INC.
-    2020: KEATING MUETHING & KLEKAMP 401(K) PROFIT SHARING PLAN
-        Participants: 289
-        Assets: 176524335
-        $/Participant: 610810
-        RecordKeeper: TD AMERITRADE
-    2019: KEATING MUETHING & KLEKAMP 401(K) PROFIT SHARING PLAN
-        Participants: 282
-        Assets: 149138765
-        $/Participant: 528860
-        RecordKeeper: TD AMERITRADE
-    2018: KEATING MUETHING & KLEKAMP 401(K) PROFIT SHARING PLAN
-        Participants: 284
-        Assets: 137840375
-        $/Participant: 485353
-        RecordKeeper: TD AMERITRADE
-        Available Investments:
-           - FEDERATED INVESTORS TRUST COMPANY
-                 : CAPITAL PRESERVATION FUND
-    2017: KEATING MUETHING & KLEKAMP 401(K) PROFIT SHARING PLAN
-        Participants: 258
-        Assets: 132867298
-        $/Participant: 514989
-        RecordKeeper: FIFTH THIRD BANK RETIREMENT SERVICE
-        Available Investments:
-           - FEDERATED INVESTORS TRUST COMPANY
-                 : FEDERATED CAPITAL PRESERVATION FUND
+   [502]
+    2021: KEATING MUETHING & KLEKAMP PLL LIFE AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 
+    2020: KEATING MUETHING & KLEKAMP PLL LIFE AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 195
+    2019: KEATING MUETHING & KLEKAMP PLL LIFE AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 203
+    2018: KEATING MUETHING & KLEKAMP PLL LIFE AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 204
+    2017: KEATING MUETHING & KLEKAMP PLL LIFE AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4H4L
+        Participants: 194

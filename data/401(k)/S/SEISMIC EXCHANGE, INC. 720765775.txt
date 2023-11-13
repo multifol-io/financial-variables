@@ -1,18 +1,8 @@
 TX : HOUSTON
   SEISMIC EXCHANGE, INC.  720765775
-   [503]
-    2017: SEISMIC EXCHANGE, INC. MEDICAL AND DENTAL PLAN
-        Participants: 
-   [502]
-    2017: SEISMIC EXCHANGE, INC. LIFE AND DISABILITY PLAN
-        Participants: 
-   [501]
-    2019: SEISMIC EXCHANGE, INC. HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-    2018: SEISMIC EXCHANGE, INC. HEALTH AND WELFARE BENEFIT PLAN
-        Participants: 
-   [001]
     2022: SEISMIC EXCHANGE, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3F3H3D2R 
         Participants: 95
         Assets: 37377528
         $/Participant: 393447
@@ -26,6 +16,8 @@ TX : HOUSTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2021: SEISMIC EXCHANGE, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2T3F3H3D2R 
         Participants: 105
         Assets: 50678856
         $/Participant: 482655
@@ -39,6 +31,8 @@ TX : HOUSTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2020: SEISMIC EXCHANGE, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D3F3H 
         Participants: 121
         Assets: 44755260
         $/Participant: 369878
@@ -53,6 +47,8 @@ TX : HOUSTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2019: SEISMIC EXCHANGE, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2T3D3F3H 
         Participants: 151
         Assets: 40931365
         $/Participant: 271068
@@ -67,6 +63,8 @@ TX : HOUSTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2018: SEISMIC EXCHANGE, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 3F3H2E2F2G2J2K2R2T3D 
         Participants: 174
         Assets: 37367126
         $/Participant: 214753
@@ -81,6 +79,8 @@ TX : HOUSTON
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
     2017: SEISMIC EXCHANGE, INC. 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2G2J2K3D3H 
         Participants: 231
         Assets: 43639911
         $/Participant: 188917
@@ -132,3 +132,22 @@ TX : HOUSTON
                  : VANGUARD SMALL CAP GROW INDEX
                  : VANGUARD SMALL CAP VALUE INDEX
                  : VANGUARD VALUE INDEX FUND
+   [501]
+    2019: SEISMIC EXCHANGE, INC. HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L4R
+        Participants: 
+    2018: SEISMIC EXCHANGE, INC. HEALTH AND WELFARE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4F4H4L
+        Participants: 
+   [503]
+    2017: SEISMIC EXCHANGE, INC. MEDICAL AND DENTAL PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E
+        Participants: 
+   [502]
+    2017: SEISMIC EXCHANGE, INC. LIFE AND DISABILITY PLAN
+        Benefit Category: Other
+        Codes:  4B4F4H4L
+        Participants: 

@@ -1,44 +1,9 @@
 VA : CULPEPER
   SOCIETY FOR WORLDWIDE INTERBANK FINANCIAL TELECOMMUNICATION, INC.  541106980
-   [506]
-    2022: SWIFT RETIREE MEDICAL ACCOUNT
-        Participants: 
-    2021: SWIFT RETIREE MEDICAL ACCOUNT
-        Participants: 
-    2020: SWIFT RETIREE MEDICAL ACCOUNT
-        Participants: 
-    2019: SWIFT RETIREE MEDICAL ACCOUNT
-        Participants: 
-    2018: SWIFT RETIREE MEDICAL ACCOUNT
-        Participants: 
-    2017: SWIFT RETIREE MEDICAL ACCOUNT
-        Participants: 
-   [505]
-    2022: SWIFT RETIREE MEDICAL AND LIFE INSURANCE PLAN
-        Participants: 
-    2021: SWIFT RETIREE MEDICAL AND LIFE INSURANCE PLAN
-        Participants: 
-    2020: SWIFT RETIREE MEDICAL AND LIFE INSURANCE PLAN
-        Participants: 
-    2019: SWIFT RETIREE MEDICAL AND LIFE INSURANCE PLAN
-        Participants: 
-    2018: SWIFT RETIREE MEDICAL AND LIFE INSURANCE PLAN
-        Participants: 
-    2017: SWIFT RETIREE MEDICAL AND LIFE INSURANCE PLAN
-        Participants: 
-   [504]
-    2022: SWIFT HEALTH AND WELFARE BENEFITS PLAN
-        Participants: 
-    2021: SWIFT HEALTH AND WELFARE BENEFITS PLAN
-        Participants: 
-    2020: SWIFT HEALTH AND WELFARE BENEFITS PLAN
-        Participants: 
-    2019: SWIFT HEALTH AND WELFARE BENEFITS PLAN
-        Participants: 
-    2017: SWIFT HEALTH AND WELFARE BENEFITS PLAN
-        Participants: 
    [002]
     2022: SWIFT 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3B3D3F 
         Participants: 1024
         Assets: 227177547
         $/Participant: 221853
@@ -58,6 +23,8 @@ VA : CULPEPER
            - WELLINGTON TRUST COMPANY
                  : WELLINGTON CIF II GROWTH S2
     2021: SWIFT 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3B3D3F 
         Participants: 997
         Assets: 275550515
         $/Participant: 276379
@@ -76,6 +43,8 @@ VA : CULPEPER
            - T ROWE PRICE COLLECTIVE TRUSTS
                  : T ROWE PR RETIREMENT 2045 TRUST A
     2020: SWIFT 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3B3D3F 
         Participants: 956
         Assets: 238988619
         $/Participant: 249988
@@ -94,24 +63,108 @@ VA : CULPEPER
                  : T ROWE PR RETIREMENT 2055 TRUST A
                  : T ROWE PR RETIREMENT 2060 TRUST A
     2019: SWIFT 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3B3D3F 
         Participants: 922
         Assets: 202624938
         $/Participant: 219766
         RecordKeeper: GREAT-WEST LIFE & ANNUITY INSURANCE
     2018: SWIFT 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3B3D3F 
         Participants: 862
         Assets: 164682677
         $/Participant: 191047
         RecordKeeper: EMPOWER RETIREMENT ADVISORY SERVICE
 VA : MANASSAS
     2017: SWIFT 401(K) SAVINGS PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3B3D3F 
         Participants: 847
         Assets: 171165363
         $/Participant: 202084
         RecordKeeper: EMPOWER RETIREMENT ADVISORY SERVICE
 VA : CULPEPER
+   [504]
+    2022: SWIFT HEALTH AND WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4L4Q
+        Participants: 
+    2021: SWIFT HEALTH AND WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4L4Q
+        Participants: 
+    2020: SWIFT HEALTH AND WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4L4Q
+        Participants: 
+    2019: SWIFT HEALTH AND WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4L4Q
+        Participants: 
+    2017: SWIFT HEALTH AND WELFARE BENEFITS PLAN
+        Benefit Category: Healthcare
+        Benefit Category: Severance
+        Codes:  4A4B4D4E4H4I4L4Q
+        Participants: 
+   [505]
+    2022: SWIFT RETIREE MEDICAL AND LIFE INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 
+    2021: SWIFT RETIREE MEDICAL AND LIFE INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 
+    2020: SWIFT RETIREE MEDICAL AND LIFE INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 
+    2019: SWIFT RETIREE MEDICAL AND LIFE INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 
+    2018: SWIFT RETIREE MEDICAL AND LIFE INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 
+    2017: SWIFT RETIREE MEDICAL AND LIFE INSURANCE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E
+        Participants: 
+   [506]
+    2022: SWIFT RETIREE MEDICAL ACCOUNT
+        Benefit Category: Healthcare
+        Codes:  4A4B
+        Participants: 
+    2021: SWIFT RETIREE MEDICAL ACCOUNT
+        Benefit Category: Healthcare
+        Codes:  4A4B
+        Participants: 
+    2020: SWIFT RETIREE MEDICAL ACCOUNT
+        Benefit Category: Healthcare
+        Codes:  4A4B
+        Participants: 
+    2019: SWIFT RETIREE MEDICAL ACCOUNT
+        Benefit Category: Healthcare
+        Codes:  4A4B
+        Participants: 
+    2018: SWIFT RETIREE MEDICAL ACCOUNT
+        Benefit Category: Healthcare
+        Codes:  4A4B
+        Participants: 
+    2017: SWIFT RETIREE MEDICAL ACCOUNT
+        Benefit Category: Healthcare
+        Codes:  4A4B
+        Participants: 
    [001]
     2022: SWIFT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 562
         Assets: 203020436
         $/Participant: 361246
@@ -120,6 +173,8 @@ VA : CULPEPER
            - SEI TRUST COMPANY
                  : SEI LONG DURATION FUND CT-1
     2021: SWIFT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 583
         Assets: 277226381
         $/Participant: 475516
@@ -128,6 +183,8 @@ VA : CULPEPER
            - SEI TRUST COMPANY
                  : SEI LONG DURATION FUND CT-1
     2020: SWIFT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 590
         Assets: 255163826
         $/Participant: 432481
@@ -136,6 +193,8 @@ VA : CULPEPER
            - SEI TRUST COMPANY
                  : SEI LONG DURATION FUND CT-1
     2019: SWIFT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 600
         Assets: 221091742
         $/Participant: 368486
@@ -144,6 +203,8 @@ VA : CULPEPER
            - SEI TRUST COMPANY
                  : SEI LONG DURATION FUND CT-1
     2018: SWIFT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 609
         Assets: 184827702
         $/Participant: 303493
@@ -152,6 +213,8 @@ VA : CULPEPER
            - SEI TRUST COMPANY
                  : SEI LONG DURATION FUND CT-1
     2017: SWIFT PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A1E 
         Participants: 629
         Assets: 206715613
         $/Participant: 328641

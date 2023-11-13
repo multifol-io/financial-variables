@@ -1,25 +1,9 @@
 OR : FAIRVIEW
   CASCADE CORPORATION  930136592
-   [502]
-    2021: CASCADE CORPORATION RETIREE HRA PLAN
-        Participants: 73
-OR : PORTLAND
-   [501]
-    2022: CASCADE CORPORATION HEALTH AND WELFARE PLAN
-        Participants: 769
-    2021: CASCADE CORPORATION HEALTH AND WELFARE PLAN
-        Participants: 731
-    2020: CASCADE CORPORATION HEALTH AND WELFARE PLAN
-        Participants: 683
-    2019: CASCADE CORPORATION HEALTH AND WELFARE PLAN
-        Participants: 791
-    2018: CASCADE CORPORATION HEALTH AND WELFARE PLAN
-        Participants: 801
-    2017: CASCADE CORPORATION HEALTH AND WELFARE PLAN
-        Participants: 744
-OR : FAIRVIEW
    [003]
     2022: CASCADE CORPORATION SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2R2E2F2G2J2K2S2T3H 
         Participants: 1226
         Assets: 170285051
         $/Participant: 138894
@@ -30,6 +14,8 @@ OR : FAIRVIEW
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE
     2021: CASCADE CORPORATION SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H2R 
         Participants: 779
         Assets: 198108125
         $/Participant: 254310
@@ -38,6 +24,8 @@ OR : FAIRVIEW
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE
     2020: CASCADE CORPORATION SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3H2R 
         Participants: 745
         Assets: 176119609
         $/Participant: 236402
@@ -46,6 +34,8 @@ OR : FAIRVIEW
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE
     2019: CASCADE CORPORATION SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
         Participants: 792
         Assets: 163467474
         $/Participant: 206398
@@ -54,6 +44,8 @@ OR : FAIRVIEW
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE
     2018: CASCADE CORPORATION SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
         Participants: 800
         Assets: 140028984
         $/Participant: 175036
@@ -62,6 +54,8 @@ OR : FAIRVIEW
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE
     2017: CASCADE CORPORATION SAVINGS AND INVESTMENT PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2R2S2T3H 
         Participants: 749
         Assets: 146164781
         $/Participant: 195146
@@ -69,3 +63,35 @@ OR : FAIRVIEW
         Available Investments:
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE
+OR : PORTLAND
+   [501]
+    2022: CASCADE CORPORATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4B4F4H4Q
+        Participants: 769
+    2021: CASCADE CORPORATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4B4F4H4Q
+        Participants: 731
+    2020: CASCADE CORPORATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4B4F4H4Q
+        Participants: 683
+    2019: CASCADE CORPORATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4B4F4H4Q
+        Participants: 791
+    2018: CASCADE CORPORATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4B4F4H4Q
+        Participants: 801
+    2017: CASCADE CORPORATION HEALTH AND WELFARE PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4D4E4B4F4H4Q
+        Participants: 744
+OR : FAIRVIEW
+   [502]
+    2021: CASCADE CORPORATION RETIREE HRA PLAN
+        Benefit Category: Other
+        Codes:  4Q
+        Participants: 73

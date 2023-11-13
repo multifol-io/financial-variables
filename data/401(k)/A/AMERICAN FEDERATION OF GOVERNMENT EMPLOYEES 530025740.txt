@@ -1,45 +1,43 @@
 DC : WASHINGTON
-  AMERICAN FEDERATION OF GOVT EMPLOYEES  530025740
-   [501]
-    2022: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES EMPLOYEES HEALTH & LIFE BENEFIT PLAN
-        Participants: 
-    2021: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES EMPLOYEES HEALTH & LIFE BENEFIT PLAN
-        Participants: 
-    2020: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES EMPLOYEES HEALTH & LIFE BENEFIT PLAN
-        Participants: 
-    2019: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES EMPLOYEES HEALTH & LIFE BENEFIT PLAN
-        Participants: 
-    2018: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES EMPLOYEES HEALTH & LIFE BENEFIT PLAN
-        Participants: 
-    2017: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES EMPLOYEES HEALTH & LIFE BENEFIT PLAN
-        Participants: 
-   [002]
+  AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES  530025740
     2022: AFGE EMPLOYEES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 487
         Assets: 42694338
         $/Participant: 87668
         RecordKeeper: MASSACHUSETTS MUTUAL LIFE INSURANCE
     2021: AFGE EMPLOYEES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 413
         Assets: 48441062
         $/Participant: 117290
         RecordKeeper: MASSACHUSETTS MUTUAL LIFE INSURANCE
     2020: AFGE EMPLOYEES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 415
         Assets: 41551857
         $/Participant: 100124
         RecordKeeper: MASSACHUSETTS MUTUAL LIFE INSURANCE
     2019: AFGE EMPLOYEES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 422
         Assets: 35370469
         $/Participant: 83816
         RecordKeeper: MASSACHUSETTS MUTUAL LIFE INSURANCE
     2018: AFGE EMPLOYEES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 448
         Assets: 29252514
         $/Participant: 65295
         RecordKeeper: MASSACHUSETTS MUTUAL LIFE INSURANCE
     2017: AFGE EMPLOYEES 401(K) PLAN
+        Benefit Category: 401(k)
+        Codes: 2E2F2G2J2K2S2T3D 
         Participants: 450
         Assets: 28136273
         $/Participant: 62525
@@ -47,8 +45,35 @@ DC : WASHINGTON
         Available Investments:
            - T. ROWE PRICE TRUST COMPANY
                  : TRP ST VAL COMMON TRUST FUND
+   [501]
+    2022: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES EMPLOYEES HEALTH & LIFE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+    2021: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES EMPLOYEES HEALTH & LIFE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+    2020: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES EMPLOYEES HEALTH & LIFE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+    2019: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES EMPLOYEES HEALTH & LIFE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+    2018: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES EMPLOYEES HEALTH & LIFE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
+    2017: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES EMPLOYEES HEALTH & LIFE BENEFIT PLAN
+        Benefit Category: Healthcare
+        Codes:  4A4B4D4E4Q
+        Participants: 
    [001]
     2022: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 453
         Assets: 154880070
         $/Participant: 341898
@@ -77,6 +102,8 @@ DC : WASHINGTON
                  : RUSSELL 2000 (R) INDEX NL FUND
                  : U.S. AGGREGATE BOND INDEX FUND
     2021: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 484
         Assets: 176974507
         $/Participant: 365649
@@ -105,6 +132,8 @@ DC : WASHINGTON
                  : RUSSELL 2000 (R) INDEX NL FUND
                  : U.S. AGGREGATE BOND INDEX FUND
     2020: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 481
         Assets: 150181182
         $/Participant: 312226
@@ -131,6 +160,8 @@ DC : WASHINGTON
                  : RUSSELL 2000 (R) INDEX NL FUND
                  : U.S. AGGREGATE BOND INDEX FUND
     2019: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 508
         Assets: 127028060
         $/Participant: 250055
@@ -157,6 +188,8 @@ DC : WASHINGTON
                  : RUSSELL 2000 (R) INDEX NL FUND
                  : U.S. AGGREGATE BOND INDEX FUND
     2018: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 480
         Assets: 104712616
         $/Participant: 218151
@@ -183,6 +216,8 @@ DC : WASHINGTON
                  : RUSSELL 2000 (R) INDEX NL FUND
                  : U.S. AGGREGATE BOND INDEX FUND
     2017: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES PENSION PLAN
+        Benefit Category: Pension
+        Codes: 1A 
         Participants: 484
         Assets: 105358978
         $/Participant: 217683
