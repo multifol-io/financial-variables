@@ -1,74 +1,57 @@
-NE : OMAHA
-  UNION PACIFIC RAILROAD COMPANY  946001323
-   [015]
-    2022: UNION PACIFIC AGREEMENT EMPLOYEE 401K RETIREMENT THRIFT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3H 
-        Participants: 32430
-        Assets: 1965449453
-        $/Participant: 60605
+UNION PACIFIC RAILROAD COMPANY  946001323 -- NE : OMAHA
+  [401(k)] UNION PACIFIC AGREEMENT EMPLOYEE 401K RETIREMENT THRIFT PLAN [015]
+    2022  [codes: 2E2F2G2J2K2T3H]
+        Participants: 32,430  Average: $60,605
+        Assets: $1,965,449,453
         RecordKeeper: THE VANGUARD GROUP, INC
         Available Investments:
            - UNION PACIFIC CORPORATION
                  : UNION PACIFIC CORP MASTER TRUST
-    2021: UNION PACIFIC AGREEMENT EMPLOYEE 401K RETIREMENT THRIFT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3H 
-        Participants: 33746
-        Assets: 2455954779
-        $/Participant: 72777
+
+    2021
+        Participants: 33,746  Average: $72,777
+        Assets: $2,455,954,779
         RecordKeeper: THE VANGUARD GROUP, INC
         Available Investments:
            - UNION PACIFIC CORPORATION
                  : UNION PACIFIC CORP MASTER TRUST
-    2020: UNION PACIFIC AGREEMENT EMPLOYEE 401K RETIREMENT THRIFT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3H 
-        Participants: 37159
-        Assets: 2183965941
-        $/Participant: 58773
+
+    2020
+        Participants: 37,159  Average: $58,773
+        Assets: $2,183,965,941
         RecordKeeper: THE VANGUARD GROUP, INC
         Available Investments:
            - UNION PACIFIC CORPORATION
                  : UNION PACIFIC CORP MASTER TRUST
-    2019: UNION PACIFIC AGREEMENT EMPLOYEE 401K RETIREMENT THRIFT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3H 
-        Participants: 41016
-        Assets: 2082213190
-        $/Participant: 50765
+
+    2019
+        Participants: 41,016  Average: $50,765
+        Assets: $2,082,213,190
         RecordKeeper: THE VANGUARD GROUP, INC
         Available Investments:
            - UNION PACIFIC CORPORATION
                  : UNION PACIFIC CORP MASTER TRUST
-    2018: UNION PACIFIC AGREEMENT EMPLOYEE 401K RETIREMENT THRIFT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3H 
-        Participants: 41811
-        Assets: 1741587248
-        $/Participant: 41653
+
+    2018
+        Participants: 41,811  Average: $41,653
+        Assets: $1,741,587,248
         RecordKeeper: THE VANGUARD GROUP, INC
         Available Investments:
            - UNION PACIFIC CORPORATION
                  : UNION PACIFIC CORP MASTER TRUST
-    2017: UNION PACIFIC AGREEMENT EMPLOYEE 401K RETIREMENT THRIFT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3H 
-        Participants: 42093
-        Assets: 1848742712
-        $/Participant: 43920
+
+    2017
+        Participants: 42,093  Average: $43,920
+        Assets: $1,848,742,712
         RecordKeeper: THE VANGUARD GROUP, INC
         Available Investments:
            - UNION PACIFIC CORPORATION
                  : UNION PACIFIC CORP MASTER TRUST
-UT : SALT LAKE CITY
-   [501]
-    2022: UNION PACIFIC RAILROAD EMPLOYES HEALTH SYSTEMS
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H4Q4U
-        Participants: 
-        Assets: 131325944
-        $/Participant: 
+ -- UT : SALT LAKE CITY
+  [Healthcare, Life insurance, Dental, Long-term disability] UNION PACIFIC RAILROAD EMPLOYES HEALTH SYSTEMS [501]
+    2022  [codes: 4A4B4D4H4Q4U]
+        Participants:   Average: $
+        Assets: $131,325,944
         Service Providers:
            - ANTHEM BLUE CROSS BLUE SHIELD :  (Insurance services | Direct payment from the plan)
            - OPTUM RX :  (Other services | Direct payment from the plan)
@@ -201,13 +184,10 @@ UT : SALT LAKE CITY
            - CT CORPORATION :  (Other services | Direct payment from the plan)
            - TEMPTIME CORPORATION :  (Other services | Direct payment from the plan)
            - PERPETUAL STORAGE :  (Other services | Direct payment from the plan)
-UT : SALT LAKE
-    2021: UNION PACIFIC RAILROAD EMPLOYES HEALTH SYSTEMS
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H4Q4U
-        Participants: 
-        Assets: 146373813
-        $/Participant: 
+ -- UT : SALT LAKE
+    2021
+        Participants:   Average: $
+        Assets: $146,373,813
         Service Providers:
            - ERICKSON, CHRISTY : EMPLOYEE (Employee(plan) | Direct payment from the plan)
            - BOGUCKI, WENDY : EMPLOYEE (Employee(plan) | Direct payment from the plan)
@@ -349,12 +329,10 @@ UT : SALT LAKE
            - SAVIN, KATE : EMPLOYEE (Employee(plan) | Direct payment from the plan)
            - CHASE, SHANDA : EMPLOYEE (Employee(plan) | Direct payment from the plan)
            - THOMAS, RAELYNN : EMPLOYEE (Employee(plan) | Direct payment from the plan)
-    2020: UNION PACIFIC RAILROAD EMPLOYES HEALTH SYSTEMS
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H4Q4U
-        Participants: 
-        Assets: 155517050
-        $/Participant: 
+
+    2020
+        Participants:   Average: $
+        Assets: $155,517,050
         Service Providers:
            - ANTHEM BLUE CROSS BLUE SHIELD :  (Insurance services | Direct payment from the plan)
            - OPTUM RX :  (Direct payment from the plan | Other services)
@@ -512,12 +490,10 @@ UT : SALT LAKE
            - COREPOINT HEALTH LLC :  (Other services | Direct payment from the plan)
            - JOURNEYTEAM :  ()
            - ORANGE RHINO, LLC :  (Other services | Direct payment from the plan)
-    2019: UNION PACIFIC RAILROAD EMPLOYES HEALTH SYSTEMS
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H4Q
-        Participants: 
-        Assets: 151738378
-        $/Participant: 
+
+    2019  [codes: 4A4B4D4H4Q]
+        Participants:   Average: $
+        Assets: $151,738,378
         Service Providers:
            - ANTHEM BLUE CROSS BLUE SHIELD :  (Direct payment from the plan | Insurance services)
            - OPTUM RX :  (Other services | Direct payment from the plan)
@@ -670,12 +646,10 @@ UT : SALT LAKE
            - ROGER SNOOK :  (Direct payment from the plan | Consulting(general))
            - COREPOINT HEALTH LLC :  (Direct payment from the plan | Other services)
            - PERPETUAL STORAGE :  (Direct payment from the plan | Other services)
-    2018: UNION PACIFIC RAILROAD EMPLOYES HEALTH SYSTEMS
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H4Q
-        Participants: 
-        Assets: 135489954
-        $/Participant: 
+
+    2018
+        Participants:   Average: $
+        Assets: $135,489,954
         Service Providers:
            - ANTHEM BLUE CROSS BLUE SHIELD :  (Direct payment from the plan | Insurance services)
            - OPTUM RX :  (Other services | Direct payment from the plan)
@@ -820,13 +794,10 @@ UT : SALT LAKE
            - SCHINDLER ELEVATOR CORPORATION :  (Direct payment from the plan | Other services)
            - MULTIPLAN INC :  (Direct payment from the plan | Other services)
            - COREPOINT HEALTH LLC :  (Direct payment from the plan | Other services)
-UT : SALT LAKE CITY
-    2017: UNION PACIFIC RAILROAD EMPLOYES HEALTH SYSTEMS
-        Benefit Category: Healthcare, Life insurance, Dental
-        Codes:  4A4B4D4U
-        Participants: 
-        Assets: 129174195
-        $/Participant: 
+ -- UT : SALT LAKE CITY
+    2017  [codes: 4A4B4D4U]
+        Participants:   Average: $
+        Assets: $129,174,195
         Service Providers:
            - ANTHEM BLUE CROSS BLUE SHIELD :  (Other services)
            - CASTLIGHT HEALTH INC. :  (Consulting(general))
@@ -982,175 +953,137 @@ UT : SALT LAKE CITY
            - PERPETUAL STORAGE :  (Other services)
            - COREPOINT HEALTH LLC :  (Direct payment from the plan)
            - THE BURCHFIELD GROUP, INC : EMPLOYEE (Employee(plan))
-NE : OMAHA
-   [599]
-    2022: UNION PACIFIC RAILROAD COMPANY OFF-TRACK VEHICLE PLAN
-        Benefit Category: Healthcare, Life insurance, Short-term disability
-        Codes:  4A4B4F
+ -- NE : OMAHA
+  [Healthcare, Life insurance, Short-term disability] UNION PACIFIC RAILROAD COMPANY OFF-TRACK VEHICLE PLAN [599]
+    2022  [codes: 4A4B4F]
         Participants: 
-    2021: UNION PACIFIC RAILROAD COMPANY OFF-TRACK VEHICLE PLAN
-        Benefit Category: Healthcare, Life insurance, Short-term disability
-        Codes:  4A4B4F
+
+    2021
         Participants: 
-    2020: UNION PACIFIC RAILROAD COMPANY OFF-TRACK VEHICLE PLAN
-        Benefit Category: Healthcare, Life insurance, Short-term disability
-        Codes:  4A4B4F
+
+    2020
         Participants: 
-    2019: UNION PACIFIC RAILROAD COMPANY OFF-TRACK VEHICLE PLAN
-        Benefit Category: Healthcare, Life insurance, Short-term disability
-        Codes:  4A4B4F
+
+    2019
         Participants: 
-    2018: UNION PACIFIC RAILROAD COMPANY OFF-TRACK VEHICLE PLAN
-        Benefit Category: Healthcare, Life insurance, Short-term disability
-        Codes:  4A4B4F
+
+    2018
         Participants: 
-    2017: UNION PACIFIC RAILROAD COMPANY OFF-TRACK VEHICLE PLAN
-        Benefit Category: Healthcare, Life insurance, Short-term disability
-        Codes:  4A4B4F
+
+    2017
         Participants: 
-   [600]
-    2022: TCU/LOCAL 938/UNION PACIFIC RAILROAD HEALTH FUND
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident
-        Codes:  4A4B4D4F4L4E
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident] TCU/LOCAL 938/UNION PACIFIC RAILROAD HEALTH FUND [600]
+    2022  [codes: 4A4B4D4F4L4E]
         Participants: 
-    2021: TCU/LOCAL 938/UNION PACIFIC RAILROAD HEALTH FUND
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident
-        Codes:  4A4B4D4F4L4E
+
+    2021
         Participants: 
-    2020: TCU/LOCAL 938/UNION PACIFIC RAILROAD HEALTH FUND
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident
-        Codes:  4A4B4D4F4L4E
+
+    2020
         Participants: 
-    2019: TCU/LOCAL 938/UNION PACIFIC RAILROAD HEALTH FUND
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Travel accident
-        Codes:  4A4B4D4F4L
+
+    2019  [codes: 4A4B4D4F4L]
         Participants: 
-    2018: TCU/LOCAL 938/UNION PACIFIC RAILROAD HEALTH FUND
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Travel accident
-        Codes:  4A4B4D4F4L
+
+    2018
         Participants: 
-    2017: TCU/LOCAL 938/UNION PACIFIC RAILROAD HEALTH FUND
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident
-        Codes:  4A4B4D4E4F4L
+
+    2017  [codes: 4A4B4D4E4F4L]
         Participants: 
-   [601]
-    2017: UNION PACIFIC ON-DUTY INJURY PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] UNION PACIFIC ON-DUTY INJURY PLAN [601]
+    2017  [codes: 4A]
         Participants: 
-   [002]
-    2022: CHICAGO AND NORTH WESTERN RAILWAY COMPANY PROFIT SHARING AND RETIREMENT SAVINGS PROGRAM
-        Benefit Category: Other
-        Codes: 2E2F2G2T3H 
-        Participants: 121
-        Assets: 57175828
-        $/Participant: 472527
+
+  [Other] CHICAGO AND NORTH WESTERN RAILWAY COMPANY PROFIT SHARING AND RETIREMENT SAVINGS PROGRAM [002]
+    2022  [codes: 2E2F2G2T3H]
+        Participants: 121  Average: $472,527
+        Assets: $57,175,828
         RecordKeeper: THE VANGUARD GROUP, INC
         Available Investments:
            - UNION PACIFIC CORPORATION
                  : UNION PACIFIC CORP MASTER TRUST
-    2021: CHICAGO AND NORTH WESTERN RAILWAY COMPANY PROFIT SHARING AND RETIREMENT SAVINGS PROGRAM
-        Benefit Category: Other
-        Codes: 2E2F2G2T3H 
-        Participants: 133
-        Assets: 70220040
-        $/Participant: 527970
+
+    2021
+        Participants: 133  Average: $527,970
+        Assets: $70,220,040
         RecordKeeper: THE VANGUARD GROUP, INC
         Available Investments:
            - UNION PACIFIC CORPORATION
                  : UNION PACIFIC CORP MASTER TRUST
-    2020: CHICAGO AND NORTH WESTERN RAILWAY COMPANY PROFIT SHARING AND RETIREMENT SAVINGS PROGRAM
-        Benefit Category: Other
-        Codes: 2E2F2G2T3H 
-        Participants: 142
-        Assets: 67340893
-        $/Participant: 474231
+
+    2020
+        Participants: 142  Average: $474,231
+        Assets: $67,340,893
         RecordKeeper: THE VANGUARD GROUP, INC
         Available Investments:
            - UNION PACIFIC CORPORATION
                  : UNION PACIFIC CORP MASTER TRUST
-    2019: CHICAGO AND NORTH WESTERN RAILWAY COMPANY PROFIT SHARING AND RETIREMENT SAVINGS PROGRAM
-        Benefit Category: Other
-        Codes: 2E2F2G2T3H 
-        Participants: 150
-        Assets: 66777967
-        $/Participant: 445186
+
+    2019
+        Participants: 150  Average: $445,186
+        Assets: $66,777,967
         RecordKeeper: THE VANGUARD GROUP, INC
         Available Investments:
            - UNION PACIFIC CORPORATION
                  : UNION PACIFIC CORP MASTER TRUST
-    2018: CHICAGO AND NORTH WESTERN RAILWAY COMPANY PROFIT SHARING AND RETIREMENT SAVINGS PROGRAM
-        Benefit Category: Other
-        Codes: 2E2F2G2T3H 
-        Participants: 162
-        Assets: 62908861
-        $/Participant: 388326
+
+    2018
+        Participants: 162  Average: $388,326
+        Assets: $62,908,861
         RecordKeeper: THE VANGUARD GROUP, INC
         Available Investments:
            - UNION PACIFIC CORPORATION
                  : UNION PACIFIC CORP MASTER TRUST
-    2017: CHICAGO AND NORTH WESTERN RAILWAY COMPANY PROFIT SHARING AND RETIREMENT SAVINGS PROGRAM
-        Benefit Category: Other
-        Codes: 2E2F2G2T3H 
-        Participants: 179
-        Assets: 71047927
-        $/Participant: 396915
+
+    2017
+        Participants: 179  Average: $396,915
+        Assets: $71,047,927
         RecordKeeper: THE VANGUARD GROUP, INC
         Available Investments:
            - UNION PACIFIC CORPORATION
                  : UNION PACIFIC CORP MASTER TRUST
-   [010]
-    2022: CHICAGO & NORTH WESTERN RAILWAY COMPANY SUPPLEMENTAL PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 234
-        Assets: 16058767
-        $/Participant: 68627
+
+  [Pension] CHICAGO & NORTH WESTERN RAILWAY COMPANY SUPPLEMENTAL PENSION PLAN [010]
+    2022  [codes: 1A1I3H]
+        Participants: 234  Average: $68,627
+        Assets: $16,058,767
         Available Investments:
            - UNION PACIFIC CORPORATION
                  : UPC MASTER RETIREMENT TRUST
-    2021: CHICAGO & NORTH WESTERN RAILWAY COMPANY SUPPLEMENTAL PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 250
-        Assets: 20911743
-        $/Participant: 83646
+
+    2021
+        Participants: 250  Average: $83,646
+        Assets: $20,911,743
         Available Investments:
            - UNION PACIFIC CORPORATION
                  : UPC MASTER RETIREMENT TRUST
-    2020: CHICAGO & NORTH WESTERN RAILWAY COMPANY SUPPLEMENTAL PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 271
-        Assets: 19375933
-        $/Participant: 71497
+
+    2020
+        Participants: 271  Average: $71,497
+        Assets: $19,375,933
         Available Investments:
            - UNION PACIFIC CORPORATION
                  : UPC MASTER RETIREMENT TRUST
-    2019: CHICAGO & NORTH WESTERN RAILWAY COMPANY SUPPLEMENTAL PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 297
-        Assets: 17710999
-        $/Participant: 59632
+
+    2019
+        Participants: 297  Average: $59,632
+        Assets: $17,710,999
         Available Investments:
            - UNION PACIFIC CORPORATION
                  : UPC MASTER RETIREMENT TRUST
-    2018: CHICAGO & NORTH WESTERN RAILWAY COMPANY SUPPLEMENTAL PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 316
-        Assets: 15797798
-        $/Participant: 49993
+
+    2018
+        Participants: 316  Average: $49,993
+        Assets: $15,797,798
         Available Investments:
            - UNION PACIFIC CORPORATION
                  : UPC MASTER RETIREMENT TRUST
-    2017: CHICAGO & NORTH WESTERN RAILWAY COMPANY SUPPLEMENTAL PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 332
-        Assets: 17607466
-        $/Participant: 53034
+
+    2017
+        Participants: 332  Average: $53,034
+        Assets: $17,607,466
         Available Investments:
            - UNION PACIFIC CORPORATION
                  : UPC MASTER RETIREMENT TRUST

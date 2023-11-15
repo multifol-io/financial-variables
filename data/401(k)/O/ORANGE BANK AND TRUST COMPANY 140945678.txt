@@ -1,37 +1,27 @@
-NY : MIDDLETOWN
-  ORANGE BANK AND TRUST COMPANY  140945678
-   [502]
-    2022: ORANGE BANK AND TRUST COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+ORANGE BANK AND TRUST COMPANY  140945678 -- NY : MIDDLETOWN
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability] ORANGE BANK AND TRUST COMPANY EMPLOYEE BENEFITS PLAN [502]
+    2022  [codes: 4A4B4D4E4F4H4Q]
         Participants: 
-    2021: ORANGE BANK AND TRUST COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2021
         Participants: 
-    2020: ORANGE BANK AND TRUST COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2020
         Participants: 
-    2019: ORANGE BANK AND TRUST COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2019
         Participants: 
-    2018: ORANGE BANK AND TRUST COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+    2018  [codes: 4A4B4D4E4H4Q]
         Participants: 
-    2017: ORANGE BANK AND TRUST COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+    2017
         Participants: 
-   [001]
-    2021: ORANGE BANK & TRUST COMPANY PENSION PLAN AS A MEMBER OF THE NEW YORK STATE BANKERS RETIREMENT SYSTEM
-        Benefit Category: Pension
-        Codes: 1A1I3D 
-        Participants: 148
-        Assets: 31368031
-        $/Participant: 211946
+
+  [Pension] ORANGE BANK & TRUST COMPANY PENSION PLAN AS A MEMBER OF THE NEW YORK STATE BANKERS RETIREMENT SYSTEM [001]
+    2021  [codes: 1A1I3D]
+        Participants: 148  Average: $211,946
+        Assets: $31,368,031
         Service Providers:
            - JPMORGAN CHASE BANK, N.A. :  (Trustee(discretionary) | Investment advisory(plan) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - NEW YORK BANKERS ASSOCIATION :  (Plan Administrator | Direct payment from the plan)
@@ -39,12 +29,10 @@ NY : MIDDLETOWN
         Available Investments:
            - JPMORGAN CHASE BANK, N.A.
                  : COMMINGLED PENSION TRUST FUND
-    2020: ORANGE BANK & TRUST COMPANY PENSION PLAN AS A MEMBER OF THE NEW YORK STATE BANKERS RETIREMENT SYSTEM
-        Benefit Category: Pension
-        Codes: 1A1I3D 
-        Participants: 153
-        Assets: 41680362
-        $/Participant: 272420
+
+    2020
+        Participants: 153  Average: $272,420
+        Assets: $41,680,362
         Service Providers:
            - JP MORGAN INVESTMENT MANAGEMENT INC :  (Trustee(discretionary) | Investment advisory(plan) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - MILLIMAN, INC. :  (Actuarial | Direct payment from the plan)
@@ -52,12 +40,10 @@ NY : MIDDLETOWN
         Available Investments:
            - NEW YORK BANKERS ASSOCIATION
                  : COMMINGLED PENSION TRUST FUND
-    2019: ORANGE BANK & TRUST COMPANY PENSION PLAN AS A MEMBER OF THE NEW YORK STATE BANKERS RETIREMENT SYSTEM
-        Benefit Category: Pension
-        Codes: 1A1I3D 
-        Participants: 153
-        Assets: 37353058
-        $/Participant: 244137
+
+    2019
+        Participants: 153  Average: $244,137
+        Assets: $37,353,058
         Service Providers:
            - JP MORGAN INVESTMENT MANAGEMENT INC :  (Trustee(discretionary) | Investment advisory(plan) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - MILLIMAN, INC. :  (Actuarial | Direct payment from the plan)
@@ -66,12 +52,11 @@ NY : MIDDLETOWN
         Available Investments:
            - NEW YORK BANKERS ASSOCIATION
                  : COMMINGLED PENSION TRUST FUND
-    2018: ORANGE COUNTY TRUST COMPANY PENSION PLAN AS A MEMBER OF THE NEW YORK STATE BANKERS RETIREMENT SYSTEM
-        Benefit Category: Pension
-        Codes: 1A1I3D 
-        Participants: 156
-        Assets: 31694173
-        $/Participant: 203167
+
+  [Pension] ORANGE COUNTY TRUST COMPANY PENSION PLAN AS A MEMBER OF THE NEW YORK STATE BANKERS RETIREMENT SYSTEM
+    2018
+        Participants: 156  Average: $203,167
+        Assets: $31,694,173
         Service Providers:
            - JP MORGAN INVESTMENT MANAGEMENT INC :  (Trustee(discretionary) | Investment advisory(plan) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - MILLIMAN, INC. :  (Actuarial | Direct payment from the plan)
@@ -80,12 +65,10 @@ NY : MIDDLETOWN
         Available Investments:
            - NEW YORK BANKERS ASSOCIATION
                  : COMMINGLED PENSION TRUST FUND
-    2017: ORANGE COUNTY TRUST COMPANY PENSION PLAN AS A MEMBER OF THE NEW YORK STATE BANKERS RETIREMENT SYSTEM
-        Benefit Category: Pension
-        Codes: 1A1I3D 
-        Participants: 161
-        Assets: 27537272
-        $/Participant: 171038
+
+    2017
+        Participants: 161  Average: $171,038
+        Assets: $27,537,272
         Service Providers:
            - JP MORGAN INVESTMENT MANAGEMENT INC :  (Investment advisory(plan) | Investment management | Investment management fees paid directly by plan | 'Soft dollars' commissions)
            - ALLIANCEBERNSTEIN :  (Investment management | Investment management fees paid directly by plan | 'Soft dollars' commissions)

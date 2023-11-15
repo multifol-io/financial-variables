@@ -1,11 +1,8 @@
-MN : MOORHEAD
-  MAC'S INC.  450122660
-    2018: MAC'S INC. 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2J2R2S2T3D 
-        Participants: 1
-        Assets: 295494
-        $/Participant: 295494
+MAC'S INC.  450122660 -- MN : MOORHEAD
+  [401(k)] MAC'S INC. 401(K) PROFIT SHARING PLAN
+    2018  [codes: 2E2F2J2R2S2T3D]
+        Participants: 1  Average: $295,494
+        Assets: $295,494
         RecordKeeper: BELL BANK
         Available Investments:
            - BELL BANK
@@ -23,12 +20,10 @@ MN : MOORHEAD
                  : BELL TARGET TODAY FUND
            - FEDERATED INVESTORS TRUST COMPANY
                  : FEDERATED CAPITAL PRESERVATION FUND
-    2017: MAC'S INC. 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2J2R2S2T3D 
-        Participants: 205
-        Assets: 5697675
-        $/Participant: 27793
+
+    2017
+        Participants: 205  Average: $27,793
+        Assets: $5,697,675
         RecordKeeper: BELL BANK
         Available Investments:
            - BELL BANK
@@ -46,9 +41,7 @@ MN : MOORHEAD
                  : BELL TARGET TODAY FUND
            - FEDERATED INVESTORS TRUST COMPANY
                  : FEDERATED CAPITAL PRESERVATION FUND
-ND : FARGO
-   [501]
-    2017: MAC'S INC. WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability
-        Codes:  4A4B4D4E4F
+ -- ND : FARGO
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability] MAC'S INC. WELFARE BENEFIT PLAN [501]
+    2017  [codes: 4A4B4D4E4F]
         Participants: 

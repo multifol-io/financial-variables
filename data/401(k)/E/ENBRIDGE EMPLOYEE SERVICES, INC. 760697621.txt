@@ -1,11 +1,8 @@
-TX : HOUSTON
-  ENBRIDGE EMPLOYEE SERVICES, INC.  760697621
-    2022: ENBRIDGE EMPLOYEE SERVICES, INC. EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 4946
-        Assets: 1145320000
-        $/Participant: 231564
+ENBRIDGE EMPLOYEE SERVICES, INC.  760697621 -- TX : HOUSTON
+  [401(k)] ENBRIDGE EMPLOYEE SERVICES, INC. EMPLOYEES' SAVINGS PLAN
+    2022  [codes: 2E2F2G2J2K2S2T3H]
+        Participants: 4,946  Average: $231,564
+        Assets: $1,145,320,000
         RecordKeeper: T ROWE PRICE TRUST COMPANY
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -28,12 +25,10 @@ TX : HOUSTON
                  : BLACKROCK MSCI ACWI EX-US INDEX FUN
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
-    2021: ENBRIDGE EMPLOYEE SERVICES, INC. EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 4988
-        Assets: 1314329000
-        $/Participant: 263498
+
+    2021
+        Participants: 4,988  Average: $263,498
+        Assets: $1,314,329,000
         RecordKeeper: T ROWE PRICE TRUST COMPANY
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -70,12 +65,10 @@ TX : HOUSTON
                  : BLACKROCK RUSSELL 1000 GR T
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
-    2020: ENBRIDGE EMPLOYEE SERVICES, INC. EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 4833
-        Assets: 1137528000
-        $/Participant: 235366
+
+    2020
+        Participants: 4,833  Average: $235,366
+        Assets: $1,137,528,000
         RecordKeeper: T ROWE PRICE TRUST COMPANY
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -98,12 +91,10 @@ TX : HOUSTON
                  : BLACKROCK U.S. DEBT INDEX M
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
-    2019: ENBRIDGE EMPLOYEE SERVICES, INC. EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 5033
-        Assets: 1194907000
-        $/Participant: 237414
+
+    2019
+        Participants: 5,033  Average: $237,414
+        Assets: $1,194,907,000
         RecordKeeper: T ROWE PRICE TRUST COMPANY
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -126,12 +117,10 @@ TX : HOUSTON
                  : BLACKROCK U.S. DEBT INDEX M
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
-    2018: ENBRIDGE EMPLOYEE SERVICES, INC. EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 4374
-        Assets: 1008119000
-        $/Participant: 230479
+
+    2018
+        Participants: 4,374  Average: $230,479
+        Assets: $1,008,119,000
         RecordKeeper: T ROWE PRICE TRUST COMPANY
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -163,12 +152,10 @@ TX : HOUSTON
                  : BLACKROCK US DEBT W
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
-    2017: ENBRIDGE EMPLOYEE SERVICES, INC. EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 2996
-        Assets: 501473000
-        $/Participant: 167380
+
+    2017
+        Participants: 2,996  Average: $167,380
+        Assets: $501,473,000
         RecordKeeper: AON CONSULTING
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -187,13 +174,11 @@ TX : HOUSTON
                  : BLACKROCK US DEBT W
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
-   [502]
-    2022: ENBRIDGE EMPLOYEE SERVICES, INC. WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4E4D
-        Participants: 
-        Assets: 67916000
-        $/Participant: 
+
+  [Healthcare, Dental, Vision] ENBRIDGE EMPLOYEE SERVICES, INC. WELFARE BENEFITS PLAN [502]
+    2022  [codes: 4A4E4D]
+        Participants:   Average: $
+        Assets: $67,916,000
         Service Providers:
            - BLUE CROSS BLUE SHIELD OF TEXAS :  (Account maintenance fees)
            - CAREMARK :  (Account maintenance fees)
@@ -205,12 +190,10 @@ TX : HOUSTON
         Available Investments:
            - ENBRIDGE EMPLOYEE SERVICES, INC.
                  : EESI WELFARE BENEFIT PLANS TRUST
-    2021: ENBRIDGE EMPLOYEE SERVICES, INC. WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4E4D
-        Participants: 
-        Assets: 69621000
-        $/Participant: 
+
+    2021
+        Participants:   Average: $
+        Assets: $69,621,000
         Service Providers:
            - BLUE CROSS BLUE SHIELD OF TEXAS :  (Account maintenance fees)
            - CAREMARK :  (Account maintenance fees)
@@ -222,12 +205,10 @@ TX : HOUSTON
                  : EESI WELFARE BENEFIT PLANS TRUST
            - SPECTRA ENERGY CORP
                  : SPECTRA EMPLOYEE BENEFITS TRUST
-    2020: ENBRIDGE EMPLOYEE SERVICES, INC. WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4E4D
-        Participants: 
-        Assets: 61241000
-        $/Participant: 
+
+    2020
+        Participants:   Average: $
+        Assets: $61,241,000
         Service Providers:
            - BLUE CROSS BLUE SHIELD :  (Account maintenance fees)
            - CAREMARK(CVS PHARMACY) :  (Account maintenance fees)
@@ -240,12 +221,10 @@ TX : HOUSTON
                  : EESI WELFARE BENEFIT PLANS TRUST
            - SPECTRA ENERGY CORP
                  : SPECTRA EMPLOYEE BENEFITS TRUST
-    2019: ENBRIDGE EMPLOYEE SERVICES, INC. WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4E4D
-        Participants: 
-        Assets: 52742000
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $52,742,000
         Service Providers:
            - BLUE CROSS BLUE SHIELD :  (Account maintenance fees)
            - CAREMARK(CVS PHARMACY) :  (Account maintenance fees)
@@ -257,12 +236,10 @@ TX : HOUSTON
            - SPECTRA ENERGY CORP
                  : SE POST RETIREMENT MASTER TRUST VEB
                  : SPECTRA EMPLOYEE BENEFITS TRUST
-    2018: ENBRIDGE EMPLOYEE SERVICES, INC. WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4E4D
-        Participants: 
-        Assets: 82299000
-        $/Participant: 
+
+    2018
+        Participants:   Average: $
+        Assets: $82,299,000
         Service Providers:
            - BLUE CROSS BLUE SHIELD :  (Claims processing | Contract Administrator | Direct payment from the plan)
            - CVS PHARMACY INC :  (Claims processing | Contract Administrator | Direct payment from the plan)
@@ -273,12 +250,10 @@ TX : HOUSTON
         Available Investments:
            - ENBRIDGE EMPLOYEE SERVICES, INC.
                  : EESI WELFARE BENEFIT PLANS TRUST
-    2017: ENBRIDGE EMPLOYEE SERVICES, INC. WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4E4D
-        Participants: 
-        Assets: 89378000
-        $/Participant: 
+
+    2017
+        Participants:   Average: $
+        Assets: $89,378,000
         Service Providers:
            - HEALTH CARE SERVICE CORPORATION :  (Claims processing | Contract Administrator | Direct payment from the plan)
            - CVS PHARMACY INC :  (Claims processing | Contract Administrator | Direct payment from the plan)
@@ -290,38 +265,30 @@ TX : HOUSTON
         Available Investments:
            - ENBRIDGE EMPLOYEE SERVICES, INC.
                  : EESI WELFARE BENEFIT PLANS TRUST
-   [508]
-    2022: ENBRIDGE EMPLOYEE SERVICES, INC. CAFETERIA AND FLEXIBLE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] ENBRIDGE EMPLOYEE SERVICES, INC. CAFETERIA AND FLEXIBLE SPENDING ACCOUNT PLAN [508]
+    2022  [codes: 4A]
         Participants: 
-    2021: ENBRIDGE EMPLOYEE SERVICES, INC. CAFETERIA AND FLEXIBLE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2021
         Participants: 
-    2020: ENBRIDGE EMPLOYEE SERVICES, INC. CAFETERIA AND FLEXIBLE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2020
         Participants: 
-    2019: ENBRIDGE EMPLOYEE SERVICES, INC. CAFETERIA AND FLEXIBLE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2019
         Participants: 
-    2018: ENBRIDGE EMPLOYEE SERVICES, INC. CAFETERIA AND FLEXIBLE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2018
         Participants: 
-    2017: ENBRIDGE EMPLOYEE SERVICES, INC. CAFETERIA AND FLEXIBLE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2017
         Participants: 
-   [516]
-    2022: ENBRIDGE EMPLOYEE SERVICES, INC. HEALTH REIMBURSEMENT ACCOUNT PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
-        Participants: 
-        Assets: 56782000
-        $/Participant: 
+
+  [Healthcare, Dental] ENBRIDGE EMPLOYEE SERVICES, INC. HEALTH REIMBURSEMENT ACCOUNT PLAN [516]
+    2022  [codes: 4A4D]
+        Participants:   Average: $
+        Assets: $56,782,000
         Service Providers:
            - LIFEWORK (US) LTD. :  (Account maintenance fees)
            - BLACKROCK :  (Investment management)
@@ -330,34 +297,28 @@ TX : HOUSTON
         Available Investments:
            - ENBRIDGE EMPLOYEE SERVICES, INC
                  : EESI WELFARE BENEFIT PLANS TRUST
-    2021: ENBRIDGE EMPLOYEE SERVICES, INC. HEALTH REIMBURSEMENT ACCOUNT PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
-        Participants: 
-        Assets: 60772000
-        $/Participant: 
+
+    2021
+        Participants:   Average: $
+        Assets: $60,772,000
         Service Providers:
            - BLUE CROSS BLUE SHIELD OF TEXAS :  (Account maintenance fees)
         Available Investments:
            - ENBRIDGE EMPLOYEE SERVICES, INC
                  : EESI WELFARE BENEFIT PLANS TRUST
-    2020: ENBRIDGE EMPLOYEE SERVICES, INC. HEALTH REIMBURSEMENT ACCOUNT PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
-        Participants: 
-        Assets: 58816000
-        $/Participant: 
+
+    2020
+        Participants:   Average: $
+        Assets: $58,816,000
         Service Providers:
            - BLACKROCK :  (Investment management)
         Available Investments:
            - ENBRIDGE EMPLOYEE SERVICES, INC
                  : EESI WELFARE BENEFITS PLANS TRUST
-    2019: ENBRIDGE EMPLOYEE SERVICES, INC. HEALTH REIMBURSEMENT ACCOUNT PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
-        Participants: 
-        Assets: 55342000
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $55,342,000
         Service Providers:
            - BLACKROCK :  (Investment management)
         Available Investments:
@@ -365,32 +326,26 @@ TX : HOUSTON
                  : EESI WELFARE BENEFITS PLANS TRUST
            - SPECTRA ENERGY CORP
                  : SE POST RETIREMENT MASTER TRUST VEB
-    2018: ENBRIDGE EMPLOYEE SERVICES, INC. HEALTH REIMBURSEMENT ACCOUNT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2018  [codes: 4A]
         Participants: 
-    2017: ENBRIDGE EMPLOYEE SERVICES, INC. HEALTH REIMBURSEMENT ACCOUNT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2017
         Participants: 
-   [501]
-    2022: ENBRIDGE EMPLOYEE SERVICES, INC. ANCILLARY BENEFITS PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
-        Participants: 
-        Assets: 539000
-        $/Participant: 
+
+  [Life insurance] ENBRIDGE EMPLOYEE SERVICES, INC. ANCILLARY BENEFITS PLAN [501]
+    2022  [codes: 4B]
+        Participants:   Average: $
+        Assets: $539,000
         Service Providers:
            - BLACKROCK :  (Investment management)
         Available Investments:
            - ENBRIDGE EMPLOYEE SERVICES, INC.
                  : EESI WELFARE BENEFIT PLANS TRUST
-    2021: ENBRIDGE EMPLOYEE SERVICES, INC. ANCILLARY BENEFITS PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
-        Participants: 
-        Assets: 6800000
-        $/Participant: 
+
+    2021
+        Participants:   Average: $
+        Assets: $6,800,000
         Service Providers:
            - BLACKROCK :  (Investment management)
         Available Investments:
@@ -398,94 +353,77 @@ TX : HOUSTON
                  : EESI WELFARE BENEFIT PLANS TRUST
            - SPECTRA ENERGY CORP
                  : SPECTRA EMPLOYEE BENEFITS TRUST
-    2020: ENBRIDGE EMPLOYEE SERVICES, INC. ANCILLARY BENEFITS PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
-        Participants: 
-        Assets: 3599000
-        $/Participant: 
+
+    2020
+        Participants:   Average: $
+        Assets: $3,599,000
         Available Investments:
            - ENBRIDGE EMPLOYEE SERVICES, INC.
                  : EESI WELFARE BENEFIT PLANS TRUST
            - SPECTRA ENERGY CORP
                  : SPECTRA EMPLOYEE BENEFITS TRUST
-    2019: ENBRIDGE EMPLOYEE SERVICES, INC. ANCILLARY BENEFITS PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
-        Participants: 
-        Assets: 3342000
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $3,342,000
         Available Investments:
            - ENBRIDGE EMPLOYEE SERVICES, INC.
                  : EESI WELFARE BENEFIT PLANS TRUST
            - SPECTRA ENERGY CORP
                  : SPECTRA EMPLOYEE BENEFITS TRUST
-    2018: ENBRIDGE EMPLOYEE SERVICES, INC. GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
-        Participants: 
-        Assets: 2594000
-        $/Participant: 
+
+  [Life insurance] ENBRIDGE EMPLOYEE SERVICES, INC. GROUP TERM LIFE INSURANCE PLAN
+    2018
+        Participants:   Average: $
+        Assets: $2,594,000
         Available Investments:
            - ENBRIDGE EMPLOYEE SERVICES, INC.
                  : EESI WELFARE BENEFIT PLANS TRUST
-    2017: ENBRIDGE EMPLOYEE SERVICES, INC. GROUP TERM LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
-        Participants: 
-        Assets: 3141000
-        $/Participant: 
+
+    2017
+        Participants:   Average: $
+        Assets: $3,141,000
         Service Providers:
            - MCCONNELL & JONES LLP :  (Accounting(including auditing) | Direct payment from the plan)
         Available Investments:
            - ENBRIDGE EMPLOYEE SERVICES, INC.
                  : EESI WELFARE BENEFIT PLANS TRUST
-   [503]
-    2018: ENBRIDGE EMPLOYEE SERVICES, INC. LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+  [Long-term disability] ENBRIDGE EMPLOYEE SERVICES, INC. LONG TERM DISABILITY PLAN [503]
+    2018  [codes: 4H]
         Participants: 
-    2017: ENBRIDGE EMPLOYEE SERVICES, INC. LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2017
         Participants: 
-   [003]
-    2022: ENBRIDGE EMPLOYEE SERVICES, INC. WELFARE BENEFIT PLANS TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 127739000
-        $/Participant: 
+
+  [Other] ENBRIDGE EMPLOYEE SERVICES, INC. WELFARE BENEFIT PLANS TRUST [003]
+    2022  [codes: ]
+        Participants:   Average: $
+        Assets: $127,739,000
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A
                  : BGI ACWI EX US SUPERFUND B
                  : BGI EQUITY INDEX FUND B
-    2021: ENBRIDGE EMPLOYEE SERVICES, INC. WELFARE BENEFIT PLANS TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 140387000
-        $/Participant: 
+
+    2021
+        Participants:   Average: $
+        Assets: $140,387,000
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A
                  : BGI ACWI EX US SUPERFUND B
                  : BGI EQUITY INDEX FUND B
-    2020: ENBRIDGE EMPLOYEE SERVICES, INC. WELFARE BENEFIT PLANS TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 104864000
-        $/Participant: 
+
+    2020
+        Participants:   Average: $
+        Assets: $104,864,000
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A
                  : BGI ACWI EX US SUPERFUND B
                  : BGI EQUITY INDEX FUND B
-    2019: ENBRIDGE EMPLOYEE SERVICES, INC. WELFARE BENEFIT PLANS TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 97064000
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $97,064,000
         Service Providers:
            - BNYM :  (Custodial(other than securities))
            - MERCER :  (Account maintenance fees)
@@ -493,42 +431,34 @@ TX : HOUSTON
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A
                  : BGI ACWI EX US SUPERFUND B
                  : BGI EQUITY INDEX FUND B
-    2018: ENBRIDGE EMPLOYEE SERVICES, INC. WELFARE BENEFIT PLANS TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 84005000
-        $/Participant: 
+
+    2018
+        Participants:   Average: $
+        Assets: $84,005,000
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A
                  : BGI ACWI EX US SUPERFUND B
                  : BGI EQUITY INDEX FUND B
-    2017: ENBRIDGE EMPLOYEE SERVICES, INC. WELFARE BENEFIT PLANS TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 92519000
-        $/Participant: 
+
+    2017
+        Participants:   Average: $
+        Assets: $92,519,000
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A
                  : BGI ACWI EX US SUPERFUND B
                  : BGI EQUITY INDEX FUND B
-   [511]
-    2018: ENBRIDGE EMPLOYEE SERVICES, INC. LEGAL SERVICE PLAN
-        Benefit Category: Other
-        Codes:  4G
+
+  [Other] ENBRIDGE EMPLOYEE SERVICES, INC. LEGAL SERVICE PLAN [511]
+    2018  [codes: 4G]
         Participants: 
-    2017: ENBRIDGE EMPLOYEE SERVICES, INC. LEGAL SERVICE PLAN
-        Benefit Category: Other
-        Codes:  4G
+
+    2017
         Participants: 
-   [002]
-    2022: ENBRIDGE EMPLOYEE SERVICES, INC. EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1E3H 
-        Participants: 7770
-        Assets: 846079000
-        $/Participant: 108890
+
+  [Pension] ENBRIDGE EMPLOYEE SERVICES, INC. EMPLOYEES' PENSION PLAN [002]
+    2022  [codes: 1A1C1E3H]
+        Participants: 7,770  Average: $108,890
+        Assets: $846,079,000
         RecordKeeper: BCA RESEARCH INC
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -552,12 +482,10 @@ TX : HOUSTON
                  : EB TEMPORARY INVESTMENT FUND 1.147%
            - WELLINGTON TRUST COMPANY, NA
                  : CTF EMERGING MARKETS RESEARCH EQUI
-    2021: ENBRIDGE EMPLOYEE SERVICES, INC. EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1E3H 
-        Participants: 8046
-        Assets: 1000629000
-        $/Participant: 124363
+
+    2021
+        Participants: 8,046  Average: $124,363
+        Assets: $1,000,629,000
         RecordKeeper: BCA RESEARCH
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -581,12 +509,10 @@ TX : HOUSTON
                  : EB TEMPORARY INVESTMENT FUND 1.147%
            - WELLINGTON TRUST COMPANY, NA
                  : CTF EMERGING MARKETS RESEARCH EQUI
-    2020: ENBRIDGE EMPLOYEE SERVICES, INC. EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 8232
-        Assets: 956654000
-        $/Participant: 116211
+
+    2020  [codes: 1A1C3H]
+        Participants: 8,232  Average: $116,211
+        Assets: $956,654,000
         RecordKeeper: KIRKLAND AND ELLIS
         Available Investments:
            - BLACKROCK INC.
@@ -616,12 +542,10 @@ TX : HOUSTON
                  : VONTOBEL GLOBAL EMERGING MARKETS
            - WELLINGTON TRUST COMPANY, NA
                  : CTF EMERGING MARKETS RESEARCH
-    2019: ENBRIDGE EMPLOYEE SERVICES, INC. EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 8572
-        Assets: 927696000
-        $/Participant: 108223
+
+    2019
+        Participants: 8,572  Average: $108,223
+        Assets: $927,696,000
         Service Providers:
            - TOWER WATSON :  (Investment advisory(plan))
            - GIP I :  (Investment management)
@@ -662,12 +586,10 @@ TX : HOUSTON
                  : EB TEMPORARY INVESTMENT FUND 1.147%
            - VONTOBEL ASSET MANAGEMENT
                  : VONTOBEL GLOBAL EMERGING MARKETS
-    2018: ENBRIDGE EMPLOYEE SERVICES, INC. EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 8910
-        Assets: 865663000
-        $/Participant: 97156
+
+    2018
+        Participants: 8,910  Average: $97,156
+        Assets: $865,663,000
         Service Providers:
            - TOWER WATSON :  (Investment advisory(plan))
            - MERCER (US), INC. :  (Actuarial | Plan Administrator | Consulting(general) | Direct payment from the plan | Consulting fees)
@@ -701,12 +623,10 @@ TX : HOUSTON
                  : COLTV SHORT TERM INVESTMENT FUND
            - VONTOBEL ASSET MANAGEMENT
                  : VONTOBEL GLOBAL EMERGING MARKETS
-    2017: ENBRIDGE EMPLOYEE SERVICES, INC. EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 3132
-        Assets: 312297000
-        $/Participant: 99711
+
+    2017
+        Participants: 3,132  Average: $99,711
+        Assets: $312,297,000
         Service Providers:
            - GLOBAL INFRASTRUCTURE PARTERNS :  (Investment management | Direct payment from the plan)
            - VONTOBEL INTERNATIONAL :  (Investment management | Direct payment from the plan)
@@ -725,76 +645,59 @@ TX : HOUSTON
                  : BLACKROCK EQUITY INDEX FUND
                  : BLACKROCK MSCI WORLD INDEX FUND
                  : BLACKROCK U.S DEBT INDEX FUND
-   [509]
-    2022: ENBRIDGE EMPLOYEE SERVICES, INC SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] ENBRIDGE EMPLOYEE SERVICES, INC SEVERANCE PAY PLAN [509]
+    2022  [codes: 4I]
         Participants: 
-    2021: ENBRIDGE EMPLOYEE SERVICES, INC SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2021
         Participants: 
-    2020: ENBRIDGE EMPLOYEE SERVICES, INC SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2020
         Participants: 
-    2019: ENBRIDGE EMPLOYEE SERVICES, INC SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2019
         Participants: 
-    2018: ENBRIDGE EMPLOYEE SERVICES, INC SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2018
         Participants: 
-    2017: ENBRIDGE EMPLOYEE SERVICES, INC SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2017
         Participants: 
-   [513]
-    2022: ENBRIDGE EMPLOYEE SERVICES, INC SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+ [513]
+    2022
         Participants: 
-    2021: ENBRIDGE EMPLOYEE SERVICES, INC SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2021
         Participants: 
-    2020: ENBRIDGE EMPLOYEE SERVICES, INC SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2020
         Participants: 
-    2019: ENBRIDGE EMPLOYEE SERVICES, INC SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2019
         Participants: 
-    2018: ENBRIDGE EMPLOYEE SERVICES, INC SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2018
         Participants: 
-    2017: ENBRIDGE EMPLOYEE SERVICES, INC SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2017
         Participants: 
-   [517]
-    2020: ENBRIDGE EMPLOYEE SERVICES, INC. VOLUNTARY SEVERANCE PROGRAM
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] ENBRIDGE EMPLOYEE SERVICES, INC. VOLUNTARY SEVERANCE PROGRAM [517]
+    2020
         Participants: 
-   [510]
-    2018: ENBRIDGE EMPLOYEE SERVICES, INC. SHORT TERM DISABILITY PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+  [Short-term disability] ENBRIDGE EMPLOYEE SERVICES, INC. SHORT TERM DISABILITY PLAN [510]
+    2018  [codes: 4F]
         Participants: 
-    2017: ENBRIDGE EMPLOYEE SERVICES, INC. SHORT TERM DISABILITY PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+    2017
         Participants: 
-   [506]
-    2018: ENBRIDGE EMPLOYEE SERVICES, INC. ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Benefit Category: Travel accident
-        Codes:  4L4Q
+
+  [Travel accident] ENBRIDGE EMPLOYEE SERVICES, INC. ACCIDENTAL DEATH & DISMEMBERMENT PLAN [506]
+    2018  [codes: 4L4Q]
         Participants: 
-    2017: ENBRIDGE EMPLOYEE SERVICES, INC. ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Benefit Category: Travel accident
-        Codes:  4L4Q
+
+    2017
         Participants: 

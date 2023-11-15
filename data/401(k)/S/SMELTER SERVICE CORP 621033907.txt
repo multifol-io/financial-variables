@@ -1,11 +1,8 @@
-TN : MT. PLEASANT
-  SMELTER SERVICE CORP  621033907
-    2022: SMELTER SERVICE CORP 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T2X3D 
-        Participants: 152
-        Assets: 5792820
-        $/Participant: 38110
+SMELTER SERVICE CORP  621033907 -- TN : MT. PLEASANT
+  [401(k)] SMELTER SERVICE CORP 401(K) PROFIT SHARING PLAN
+    2022  [codes: 2A2E2F2G2J2K2S2T2X3D]
+        Participants: 152  Average: $38,110
+        Assets: $5,792,820
         RecordKeeper: JOHN HANCOCK LIFE INSURANCE COMPANY
         Available Investments:
            - JOHN HANCOCK USA
@@ -97,12 +94,10 @@ TN : MT. PLEASANT
                  : WESTERN ASSET CORE BOND FUND
                  : WISDOMTREE MIDCAP DIVIDEND ETF
                  : WISDOMTREE SC DIVIDEND ETF
-    2021: SMELTER SERVICE CORP 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3D 
-        Participants: 142
-        Assets: 6600341
-        $/Participant: 46481
+
+    2021  [codes: 2A2E2F2G2J2K2S2T3D]
+        Participants: 142  Average: $46,481
+        Assets: $6,600,341
         RecordKeeper: JOHN HANCOCK LIFE INSURANCE COMPANY
         Available Investments:
            - JOHN HANCOCK USA
@@ -202,12 +197,10 @@ TN : MT. PLEASANT
                  : WISDOMTREE MC EARNINGS ETF
                  : WISDOMTREE MIDCAP DIVIDEND ETF
                  : WISDOMTREE SC DIVIDEND ETF
-    2020: SMELTER SERVICE CORP 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2T3D 
-        Participants: 140
-        Assets: 5570669
-        $/Participant: 39790
+
+    2020  [codes: 2A2E2F2G2J2K2T3D]
+        Participants: 140  Average: $39,790
+        Assets: $5,570,669
         RecordKeeper: JOHN HANCOCK LIFE INSURANCE COMPANY
         Available Investments:
            - JOHN HANCOCK USA
@@ -303,12 +296,10 @@ TN : MT. PLEASANT
                  : WESTERN ASSET CORE BOND FUND
                  : WISDOMTREE MIDCAP DIVIDEND ETF
                  : WISDOMTREE SC DIVIDEND ETF
-    2019: SMELTER SERVICE CORP 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2T3D 
-        Participants: 142
-        Assets: 4353709
-        $/Participant: 30659
+
+    2019
+        Participants: 142  Average: $30,659
+        Assets: $4,353,709
         RecordKeeper: JOHN HANCOCK LIFE INSURANCE COMPANY
         Available Investments:
            - JOHN HANCOCK USA
@@ -421,12 +412,10 @@ TN : MT. PLEASANT
                  : WISDOMTREE MC EARNINGS ETF
                  : WISDOMTREE MIDCAP DIVIDEND ETF
                  : WISDOMTREE SC DIVIDEND ETF
-    2018: SMELTER SERVICE CORP 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2G2J2K2F2T3D 
-        Participants: 127
-        Assets: 3730547
-        $/Participant: 29374
+
+    2018  [codes: 2A2E2G2J2K2F2T3D]
+        Participants: 127  Average: $29,374
+        Assets: $3,730,547
         RecordKeeper: JOHN HANCOCK LIFE INSURANCE COMPANY
         Available Investments:
            - JOHN HANCOCK USA
@@ -517,12 +506,10 @@ TN : MT. PLEASANT
                  : WISDOMTREE MC EARNINGS ETF
                  : WISDOMTREE MIDCAP DIVIDEND ETF
                  : WISDOMTREE SC DIVIDEND ETF
-    2017: SMELTER SERVICE CORP 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2G2J2K2F2T3D 
-        Participants: 117
-        Assets: 3770440
-        $/Participant: 32225
+
+    2017
+        Participants: 117  Average: $32,225
+        Assets: $3,770,440
         RecordKeeper: JOHN HANCOCK LIFE INSURANCE COMPANY
         Available Investments:
            - JOHN HANCOCK USA
@@ -614,45 +601,33 @@ TN : MT. PLEASANT
                  : VANGUARD MID-CAP VALUE ETF
                  : VANGUARD SMALL CAP GROW INDEX
                  : VANGUARD VALUE INDEX FUND
-   [002]
-    2022: SMELTER SERVICE CORP EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H3I 
-        Participants: 90
-        Assets: 31250075
-        $/Participant: 347223
-    2021: SMELTER SERVICE CORP EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H3I 
-        Participants: 89
-        Assets: 12900075
-        $/Participant: 144944
-    2020: SMELTER SERVICE CORP EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H3I 
-        Participants: 90
-        Assets: 6550075
-        $/Participant: 72778
-    2019: SMELTER SERVICE CORP EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H3I 
-        Participants: 97
-        Assets: 6100085
-        $/Participant: 62887
-   [503]
-    2022: SMELTER SERVICE CORP HEALTH & WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4D4E4F4H
+
+  [Employee Stock Ownership Plan] SMELTER SERVICE CORP EMPLOYEE STOCK OWNERSHIP PLAN [002]
+    2022  [codes: 2I2P2Q3H3I]
+        Participants: 90  Average: $347,223
+        Assets: $31,250,075
+
+    2021
+        Participants: 89  Average: $144,944
+        Assets: $12,900,075
+
+    2020
+        Participants: 90  Average: $72,778
+        Assets: $6,550,075
+
+    2019
+        Participants: 97  Average: $62,887
+        Assets: $6,100,085
+
+  [Healthcare, Dental, Vision, Short-term disability, Long-term disability] SMELTER SERVICE CORP HEALTH & WELFARE BENEFIT PLAN [503]
+    2022  [codes: 4A4D4E4F4H]
         Participants: 
-    2021: SMELTER SERVICE CORP HEALTH & WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4D4E4F4H
+
+    2021
         Participants: 
-    2020: SMELTER SERVICE CORP HEALTH & WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4D4E4F4H
+
+    2020
         Participants: 
-    2019: SMELTER SERVICE CORP HEALTH & WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4D4E4F4H
+
+    2019
         Participants: 

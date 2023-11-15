@@ -1,12 +1,8 @@
-OH : WAKEMAN
-  BETTCHER INDUSTRIES, INC.  341575191
-   [002]
-    2022: BETTCHER INDUSTRIES, INC. 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T3D3H 
-        Participants: 364
-        Assets: 66105193
-        $/Participant: 181607
+BETTCHER INDUSTRIES, INC.  341575191 -- OH : WAKEMAN
+  [401(k)] BETTCHER INDUSTRIES, INC. 401(K) RETIREMENT SAVINGS PLAN [002]
+    2022  [codes: 2E2F2G2J2K2R2S2T3D3H]
+        Participants: 364  Average: $181,607
+        Assets: $66,105,193
         RecordKeeper: MORNINGSTAR INVESTMENT MANAGEMENT L
         Available Investments:
            - JPMORGAN CHASE BANK, N.A.
@@ -24,12 +20,10 @@ OH : WAKEMAN
                  : MORLEY STABLE VALUE IV FUND
            - WILMINGTON TRUST, N.A
                  : WESTERN ASSET COR BD PL R1 FD
-    2021: BETTCHER INDUSTRIES, INC. 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T3D3H 
-        Participants: 357
-        Assets: 88885303
-        $/Participant: 248978
+
+    2021
+        Participants: 357  Average: $248,978
+        Assets: $88,885,303
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - JPMORGAN CHASE BANK, N.A.
@@ -47,108 +41,81 @@ OH : WAKEMAN
                  : MORLEY STABLE VALUE IV FUND
            - WILMINGTON TRUST, N.A
                  : WESTERN ASSET COR BD PL R1 FD
-    2020: BETTCHER INDUSTRIES, INC. 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T3D3H 
-        Participants: 385
-        Assets: 89722247
-        $/Participant: 233044
+
+    2020
+        Participants: 385  Average: $233,044
+        Assets: $89,722,247
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
                  : MORLEY STABLE VALUE IV FUND
-    2019: BETTCHER INDUSTRIES, INC. 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T3D3H 
-        Participants: 408
-        Assets: 94708816
-        $/Participant: 232129
+
+    2019
+        Participants: 408  Average: $232,129
+        Assets: $94,708,816
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
                  : MORLEY STABLE VALUE IV FUND
-    2018: BETTCHER INDUSTRIES, INC. 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T3D3H 
-        Participants: 331
-        Assets: 100945000
-        $/Participant: 304969
+
+    2018
+        Participants: 331  Average: $304,969
+        Assets: $100,945,000
         RecordKeeper: WELLS FARGO ADVISORS FINANCIAL NETW
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
                  : MORLEY STABLE VALUE VI FUND
-    2017: BETTCHER INDUSTRIES, INC. 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T3D 
-        Participants: 295
-        Assets: 146433620
-        $/Participant: 496385
+
+    2017  [codes: 2E2F2G2J2K2R2S2T3D]
+        Participants: 295  Average: $496,385
+        Assets: $146,433,620
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
                  : MORLEY STABLE VALUE VI FUND
-OH : BIRMINGHAM
-   [003]
-    2022: BETTCHER INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3I 
-        Participants: 402
-        Assets: 28420849
-        $/Participant: 70698
-    2021: BETTCHER INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3I 
-        Participants: 402
-        Assets: 88593562
-        $/Participant: 220381
-    2020: BETTCHER INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O3I 
-        Participants: 402
-        Assets: 27727496
-        $/Participant: 68973
-    2019: BETTCHER INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O3I 
-        Participants: 383
-        Assets: 27873378
-        $/Participant: 72776
-    2018: BETTCHER INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O2Q3I 
-        Participants: 249
-        Assets: 20322011
-        $/Participant: 81614
-    2017: BETTCHER INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3I 
-        Participants: 263
-        Assets: 16748220
-        $/Participant: 63681
+ -- OH : BIRMINGHAM
+  [Employee Stock Ownership Plan] BETTCHER INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN [003]
+    2022  [codes: 2I2P3I]
+        Participants: 402  Average: $70,698
+        Assets: $28,420,849
+
+    2021
+        Participants: 402  Average: $220,381
+        Assets: $88,593,562
+
+    2020  [codes: 2I2O3I]
+        Participants: 402  Average: $68,973
+        Assets: $27,727,496
+
+    2019
+        Participants: 383  Average: $72,776
+        Assets: $27,873,378
+
+    2018  [codes: 2I2O2Q3I]
+        Participants: 249  Average: $81,614
+        Assets: $20,322,011
+
+    2017  [codes: 2I2P3I]
+        Participants: 263  Average: $63,681
+        Assets: $16,748,220
         Service Providers:
            - WELLS FARGO : CONSULTANT (Consulting(pension) | Consulting fees)
-   [507]
-    2022: BETTCHER INDUSTRIES, INC. WRAP BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] BETTCHER INDUSTRIES, INC. WRAP BENEFITS PLAN [507]
+    2022  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
-    2021: BETTCHER INDUSTRIES, INC. WRAP BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2021  [codes: 4A4B4D4E4F4H4L]
         Participants: 
-    2020: BETTCHER INDUSTRIES, INC. WRAP BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2020
         Participants: 
-    2019: BETTCHER INDUSTRIES, INC. WRAP BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2019
         Participants: 
-    2018: BETTCHER INDUSTRIES, INC. WRAP BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2018
         Participants: 
-    2017: BETTCHER INDUSTRIES, INC. WRAP BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2017  [codes: 4A4B4D4E4F4H4Q]
         Participants: 

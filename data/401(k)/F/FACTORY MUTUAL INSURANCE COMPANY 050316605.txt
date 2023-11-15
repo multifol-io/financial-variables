@@ -1,12 +1,8 @@
-RI : JOHNSTON
-  FACTORY MUTUAL INSURANCE COMPANY  050316605
-   [003]
-    2022: FM GLOBAL 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T3F3H 
-        Participants: 5602
-        Assets: 1429728934
-        $/Participant: 255217
+FACTORY MUTUAL INSURANCE COMPANY  050316605 -- RI : JOHNSTON
+  [401(k)] FM GLOBAL 401(K) SAVINGS PLAN [003]
+    2022  [codes: 2E2F2G2J2K2R2S2T3F3H]
+        Participants: 5,602  Average: $255,217
+        Assets: $1,429,728,934
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -16,185 +12,144 @@ RI : JOHNSTON
                  : BTC US DEBT INDEX L
            - GEODE CAPITAL MANAGEMENT TRUST
                  : SP 500 INDEX PL CL C
-    2021: FM GLOBAL 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3F2R 
-        Participants: 5268
-        Assets: 1837712525
-        $/Participant: 348844
+
+    2021  [codes: 2E2F2G2J2K2S2T3F2R]
+        Participants: 5,268  Average: $348,844
+        Assets: $1,837,712,525
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - GEODE CAPITAL MANAGEMENT TRUST
                  : SP 500 INDEX PL CL C
-    2020: FM GLOBAL 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3F2R 
-        Participants: 5214
-        Assets: 1630810822
-        $/Participant: 312775
+
+    2020
+        Participants: 5,214  Average: $312,775
+        Assets: $1,630,810,822
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - GEODE CAPITAL MANAGEMENT TRUST
                  : SP 500 INDEX PL CL C
-    2019: FM GLOBAL 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T3F 
-        Participants: 5119
-        Assets: 1355470214
-        $/Participant: 264791
+
+    2019  [codes: 2E2F2G2J2K2R2S2T3F]
+        Participants: 5,119  Average: $264,791
+        Assets: $1,355,470,214
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - GEODE CAPITAL MANAGEMENT TRUST
                  : SP 500 INDEX PL CL C
-    2018: FM GLOBAL 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2R2E2S2T3F 
-        Participants: 5017
-        Assets: 1137659407
-        $/Participant: 226760
+
+    2018  [codes: 2F2G2J2K2R2E2S2T3F]
+        Participants: 5,017  Average: $226,760
+        Assets: $1,137,659,407
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - GEODE CAPITAL MANAGEMENT TRUST
                  : SP 500 INDEX PL CL C
-    2017: FM GLOBAL 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2R2S2E2T3F 
-        Participants: 4913
-        Assets: 1196820140
-        $/Participant: 243602
+
+    2017  [codes: 2F2G2J2K2R2S2E2T3F]
+        Participants: 4,913  Average: $243,602
+        Assets: $1,196,820,140
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FID US EQ INDX
            - GEODE CAPITAL MANAGEMENT TRUST COMPANY, LLC
                  : SP 500 INDEX PL CL B
-   [506]
-    2022: FACTORY MUTUAL INSURANCE COMPANY POSTRETIREMENT WELFARE PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability
-        Codes:  4A4B4D4F
-        Participants: 
-        Assets: 155197107
-        $/Participant: 
+
+  [Healthcare, Life insurance, Dental, Short-term disability] FACTORY MUTUAL INSURANCE COMPANY POSTRETIREMENT WELFARE PROGRAM [506]
+    2022  [codes: 4A4B4D4F]
+        Participants:   Average: $
+        Assets: $155,197,107
         Service Providers:
            - JP MORGAN CHASE :  (Trustee(bank, trust company, or similar) | Investment management | Investment management fees paid directly by plan)
-    2021: FACTORY MUTUAL INSURANCE COMPANY POSTRETIREMENT WELFARE PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability
-        Codes:  4A4B4D4F
-        Participants: 
-        Assets: 196804032
-        $/Participant: 
+
+    2021
+        Participants:   Average: $
+        Assets: $196,804,032
         Service Providers:
            - JP MORGAN CHASE :  (Trustee(bank, trust company, or similar) | Investment management | Investment management fees paid directly by plan)
-    2020: FACTORY MUTUAL INSURANCE COMPANY POSTRETIREMENT WELFARE PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability
-        Codes:  4A4B4D4F
-        Participants: 
-        Assets: 170466413
-        $/Participant: 
+
+    2020
+        Participants:   Average: $
+        Assets: $170,466,413
         Service Providers:
            - JP MORGAN CHASE :  (Trustee(bank, trust company, or similar) | Investment management)
-    2019: FACTORY MUTUAL INSURANCE COMPANY POSTRETIREMENT WELFARE PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability
-        Codes:  4A4B4D4F
-        Participants: 
-        Assets: 156273672
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $156,273,672
         Service Providers:
            - JP MORGAN CHASE :  (Trustee(bank, trust company, or similar) | Investment management)
-    2018: FACTORY MUTUAL INSURANCE COMPANY POSTRETIREMENT WELFARE PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability
-        Codes:  4A4B4D4F
-        Participants: 
-        Assets: 137173654
-        $/Participant: 
+
+    2018
+        Participants:   Average: $
+        Assets: $137,173,654
         Service Providers:
            - JP MORGAN CHASE :  (Trustee(bank, trust company, or similar) | Investment management)
-    2017: FACTORY MUTUAL INSURANCE COMPANY POSTRETIREMENT WELFARE PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability
-        Codes:  4A4B4D4F
-        Participants: 
-        Assets: 157574949
-        $/Participant: 
+
+    2017
+        Participants:   Average: $
+        Assets: $157,574,949
         Service Providers:
            - JP MORGAN CHASE :  (Trustee(bank, trust company, or similar) | Investment management)
-   [509]
-    2022: FACTORY MUTUAL INSURANCE COMPANY HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] FACTORY MUTUAL INSURANCE COMPANY HEALTH AND WELFARE BENEFIT PLAN [509]
+    2022  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
-    2021: FACTORY MUTUAL INSURANCE COMPANY HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2021  [codes: 4A4B4D4E4F4H4L]
         Participants: 
-    2020: FACTORY MUTUAL INSURANCE COMPANY HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2020
         Participants: 
-    2018: FACTORY MUTUAL INSURANCE COMPANY HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2018  [codes: 4A4B4D4E4F4H4Q]
         Participants: 
-    2017: FACTORY MUTUAL INSURANCE COMPANY HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2017
         Participants: 
-   [510]
-    2022: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR VICE PRESIDENTS
-        Benefit Category: Other
-        Codes:  4Q
+
+  [Other] FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR VICE PRESIDENTS [510]
+    2022  [codes: 4Q]
         Participants: 
-    2021: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR VICE PRESIDENTS
-        Benefit Category: Other
-        Codes:  4Q
+
+    2021
         Participants: 
-    2020: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR VICE PRESIDENTS
-        Benefit Category: Other
-        Codes:  4Q
+
+    2020
         Participants: 
-    2019: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR VICE PRESIDENTS
-        Benefit Category: Other
-        Codes:  4Q
+
+    2019
         Participants: 
-    2018: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR VICE PRESIDENTS
-        Benefit Category: Other
-        Codes:  4Q
+
+    2018
         Participants: 
-    2017: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR VICE PRESIDENTS
-        Benefit Category: Other
-        Codes:  4Q
+
+    2017
         Participants: 
-   [511]
-    2022: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR SENIOR VICE PRESIDENTS
-        Benefit Category: Other
-        Codes:  4Q
+
+  [Other] FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR SENIOR VICE PRESIDENTS [511]
+    2022
         Participants: 
-    2021: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR SENIOR VICE PRESIDENTS
-        Benefit Category: Other
-        Codes:  4Q
+
+    2021
         Participants: 
-    2020: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR SENIOR VICE PRESIDENTS
-        Benefit Category: Other
-        Codes:  4Q
+
+    2020
         Participants: 
-    2019: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR SENIOR VICE PRESIDENTS
-        Benefit Category: Other
-        Codes:  4Q
+
+    2019
         Participants: 
-    2018: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR SENIOR VICE PRESIDENTS
-        Benefit Category: Other
-        Codes:  4Q
+
+    2018
         Participants: 
-    2017: FACTORY MUTUAL INSURANCE COMPANY EXECUTIVE DEATH BENEFIT PLAN FOR SENIOR VICE PRESIDENTS
-        Benefit Category: Other
-        Codes:  4Q
+
+    2017
         Participants: 
-   [001]
-    2022: FACTORY MUTUAL INSURANCE COMPANY PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3J3F3H 
-        Participants: 8687
-        Assets: 2658220492
-        $/Participant: 305999
+
+  [Pension] FACTORY MUTUAL INSURANCE COMPANY PENSION PLAN [001]
+    2022  [codes: 1A3J3F3H]
+        Participants: 8,687  Average: $305,999
+        Assets: $2,658,220,492
         RecordKeeper: PIMCO
         Available Investments:
            - ARROWSTREET CAPITAL LIMITED PARTNERSHIP
@@ -220,12 +175,10 @@ RI : JOHNSTON
                  : WTC-CIF II US LONG STRIPS
                  : WTC-CTF EMERGING MARKET DEVELOPMENT
                  : WTC-CTF OPPORTUNISTIC FXD INC ALLOC
-    2021: FACTORY MUTUAL INSURANCE COMPANY PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3J3F3H 
-        Participants: 8736
-        Assets: 3351646753
-        $/Participant: 383659
+
+    2021
+        Participants: 8,736  Average: $383,659
+        Assets: $3,351,646,753
         RecordKeeper: BLACKROCK
         Available Investments:
            - ARROWSTREET CAPITAL LIMITED PARTNERSHIP
@@ -249,12 +202,10 @@ RI : JOHNSTON
                  : WTC-CIF II US LONG STRIPS
                  : WTC-CTF EMERGING MARKET DEVELOPMENT
                  : WTC-CTF OPPORTUNISTIC FXD INC ALLOC
-    2020: FACTORY MUTUAL INSURANCE COMPANY PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3J3F3H 
-        Participants: 8694
-        Assets: 3080645805
-        $/Participant: 354341
+
+    2020
+        Participants: 8,694  Average: $354,341
+        Assets: $3,080,645,805
         RecordKeeper: BLACKROCK
         Available Investments:
            - ARROWSTREET CAPITAL LIMITED PARTNERSHIP
@@ -277,12 +228,10 @@ RI : JOHNSTON
                  : WTC-CIF II US LONG STRIPS
                  : WTC-CTF EMERGING MARKET DEVELOPMENT
                  : WTC-CTF OPPORTUNISTIC FXD INC ALLOC
-    2019: FACTORY MUTUAL INSURANCE COMPANY PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3J3F3H 
-        Participants: 8586
-        Assets: 2810542400
-        $/Participant: 327340
+
+    2019
+        Participants: 8,586  Average: $327,340
+        Assets: $2,810,542,400
         RecordKeeper: PINEBRIDGE
         Available Investments:
            - ARROWSTREET CAPITAL LIMITED PARTNERSHIP
@@ -295,30 +244,23 @@ RI : JOHNSTON
                  : PRUDENTIAL LONG DURATION GOVERNMENT
            - SEI TRUST COMPANY
                  : SCHRODER COLLECTIVE INVESTMENT TRUS
-    2018: FACTORY MUTUAL INSURANCE COMPANY PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3J3F3H 
-        Participants: 9509
-        Assets: 2530061559
-        $/Participant: 266070
+
+    2018
+        Participants: 9,509  Average: $266,070
+        Assets: $2,530,061,559
         RecordKeeper: GOLDMAN SACHS
-    2017: FACTORY MUTUAL INSURANCE COMPANY PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3J3F3H 
-        Participants: 9499
-        Assets: 2671567717
-        $/Participant: 281247
+
+    2017
+        Participants: 9,499  Average: $281,247
+        Assets: $2,671,567,717
         RecordKeeper: GROOM LAW GROUP
-   [512]
-    2022: FACTORY MUTUAL INSURANCE COMPANY AND ITS PARTICIPATING AFFILIATES SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] FACTORY MUTUAL INSURANCE COMPANY AND ITS PARTICIPATING AFFILIATES SEVERANCE PAY PLAN [512]
+    2022  [codes: 4I]
         Participants: 
-    2021: FACTORY MUTUAL INSURANCE COMPANY AND ITS PARTICIPATING AFFILIATES SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2021
         Participants: 
-    2020: FACTORY MUTUAL INSURANCE COMPANY AND ITS PARTICIPATING AFFILIATES SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2020
         Participants: 

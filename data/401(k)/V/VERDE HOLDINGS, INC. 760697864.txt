@@ -1,85 +1,64 @@
-TX : STAFFORD
-  VERDE HOLDINGS, INC.  760697864
-   [003]
-    2021: VERDE HOLDINGS, INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2H2J2K2T3D 
-        Participants: 611
-        Assets: 37892875
-        $/Participant: 62017
+VERDE HOLDINGS, INC.  760697864 -- TX : STAFFORD
+  [401(k)] VERDE HOLDINGS, INC. 401(K) PLAN [003]
+    2021  [codes: 2E2F2H2J2K2T3D]
+        Participants: 611  Average: $62,017
+        Assets: $37,892,875
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - SEI TRUST COMPANY
                  : GALLIARD STABLE RETURN PN
-    2020: VERDE HOLDINGS, INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 583
-        Assets: 41988352
-        $/Participant: 72021
+
+    2020  [codes: 2E2F2G2J2K2T3D]
+        Participants: 583  Average: $72,021
+        Assets: $41,988,352
         RecordKeeper: WELLS FARGO BANK, N.A.
         Available Investments:
            - WELLS FARGO
                  : WELLS FARGO STABLE RETRN N FD
-    2019: VERDE HOLDINGS, INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2K2T3D3H2G2F 
-        Participants: 665
-        Assets: 35287780
-        $/Participant: 53064
+
+    2019  [codes: 2E2J2K2T3D3H2G2F]
+        Participants: 665  Average: $53,064
+        Assets: $35,287,780
         RecordKeeper: WELLS FARGO BANK, N.A.
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : STABLE RETURN FUND N
-    2018: VERDE HOLDINGS, INC. 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2K2T3D3H2G2F 
-        Participants: 696
-        Assets: 33098293
-        $/Participant: 47555
+
+  [401(k)] VERDE HOLDINGS, INC. 401K PLAN
+    2018
+        Participants: 696  Average: $47,555
+        Assets: $33,098,293
         RecordKeeper: WELLS FARGO ADVISORS, PCG
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : STABLE RETURN FUND N
                  : STABLE RETURN FUND N60
-    2017: VERDE HOLDINGS, INC. 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2K2T3D3H2G 
-        Participants: 660
-        Assets: 28324952
-        $/Participant: 42916
+
+    2017  [codes: 2E2J2K2T3D3H2G]
+        Participants: 660  Average: $42,916
+        Assets: $28,324,952
         RecordKeeper: WELLS FARGO ADVISORS, PCG
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : STABLE RETURN FUND N60
-   [001]
-    2021: VERDE HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O3H2C2Q2K 
-        Participants: 527
-        Assets: 211203800
-        $/Participant: 400766
-    2020: VERDE HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O3H2C2Q2K 
-        Participants: 508
-        Assets: 237502803
-        $/Participant: 467525
-    2019: VERDE HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O3H2C2Q2K 
-        Participants: 562
-        Assets: 224379180
-        $/Participant: 399251
-    2018: VERDE HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O3H2C2Q2K 
-        Participants: 569
-        Assets: 266648435
-        $/Participant: 468626
-    2017: VERDE HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O3H2C2Q2K 
-        Participants: 522
-        Assets: 279939653
-        $/Participant: 536282
+
+  [Employee Stock Ownership Plan] VERDE HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN [001]
+    2021  [codes: 2I2O3H2C2Q2K]
+        Participants: 527  Average: $400,766
+        Assets: $211,203,800
+
+    2020
+        Participants: 508  Average: $467,525
+        Assets: $237,502,803
+
+    2019
+        Participants: 562  Average: $399,251
+        Assets: $224,379,180
+
+    2018
+        Participants: 569  Average: $468,626
+        Assets: $266,648,435
+
+    2017
+        Participants: 522  Average: $536,282
+        Assets: $279,939,653

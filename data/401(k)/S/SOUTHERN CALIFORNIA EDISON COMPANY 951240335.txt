@@ -1,12 +1,8 @@
-CA : ROSEMEAD
-  SOUTHERN CALIFORNIA EDISON COMPANY  951240335
-   [002]
-    2022: EDISON 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2I2J2K2R2T3F3H 
-        Participants: 16772
-        Assets: 4893916122
-        $/Participant: 291790
+SOUTHERN CALIFORNIA EDISON COMPANY  951240335 -- CA : ROSEMEAD
+  [401(k)] EDISON 401(K) SAVINGS PLAN [002]
+    2022  [codes: 2E2F2G2I2J2K2R2T3F3H]
+        Participants: 16,772  Average: $291,790
+        Assets: $4,893,916,122
         Service Providers:
            - FINANCIAL ENGINES : INVESTMENT ADVISOR (Investment advisory(participants) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - BLACKROCK : INVESTMENT MGMT (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
@@ -36,12 +32,10 @@ CA : ROSEMEAD
                  : INTERNATIONAL EQUITY COLLECTIVE INV
            - HOOD RIVER COLLECTIVE INVT TR MUTUAL FUND
                  : HOOD RIVER SMALL CAP GROWTH FUND
-    2021: EDISON 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2I2J2K2R2T3F3H 
-        Participants: 16554
-        Assets: 5924705525
-        $/Participant: 357901
+
+    2021
+        Participants: 16,554  Average: $357,901
+        Assets: $5,924,705,525
         Service Providers:
            - FINANCIAL ENGINES : INVESTMENT ADVISOR (Investment advisory(participants) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - BLACKROCK : INVESTMENT MGMT (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
@@ -69,12 +63,10 @@ CA : ROSEMEAD
                  : INTERNATIONAL EQUITY COLLECTIVE INV
            - HOOD RIVER COLLECTIVE INVT TR MUTUAL FUND
                  : HOOD RIVER SMALL CAP GROWTH FUND
-    2020: EDISON 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2I2J2K2R2T3F3H 
-        Participants: 16930
-        Assets: 5330104727
-        $/Participant: 314831
+
+    2020
+        Participants: 16,930  Average: $314,831
+        Assets: $5,330,104,727
         Service Providers:
            - FINANCIAL ENGINES : INVESTMENT ADVISOR (Investment advisory(participants) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - BLACKROCK : INVESTMENT MGMT (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
@@ -103,12 +95,10 @@ CA : ROSEMEAD
                  : INTERNATIONAL EQUITY COLLECTIVE INV
            - HOOD RIVER COLLECTIVE INVT TR MUTUAL FUND
                  : HOOD RIVER SMALL CAP GROWTH FUND
-    2019: EDISON 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2I2J2K3F3H2R2T 
-        Participants: 16704
-        Assets: 4849304624
-        $/Participant: 290307
+
+    2019  [codes: 2E2F2G2I2J2K3F3H2R2T]
+        Participants: 16,704  Average: $290,307
+        Assets: $4,849,304,624
         RecordKeeper: CONDUENT HR SERVICES, LLC
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST CO., NA
@@ -127,12 +117,10 @@ CA : ROSEMEAD
                  : INTERNATIONAL EQUITY COLLECTIVE INV
            - HOOD RIVER COLLECTIVE INVT TR MUTUAL FUND
                  : HOOD RIVER SMALL CAP GROWTH FUND
-    2018: EDISON 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2I2J2K3F3H2R2T 
-        Participants: 16584
-        Assets: 4050251846
-        $/Participant: 244226
+
+    2018
+        Participants: 16,584  Average: $244,226
+        Assets: $4,050,251,846
         RecordKeeper: STATE STREET GLOBAL ADVISORS
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST CO., NA
@@ -151,12 +139,10 @@ CA : ROSEMEAD
                  : INTERNATIONAL EQUITY COLLECTIVE INV
            - HOOD RIVER COLLECTIVE INVT TR MUTUAL FUND
                  : HOOD RIVER SMALL CAP GROWTH FUND
-    2017: EDISON 401(K) SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2F2G2I2J2K2O3F3H2R2T2S 
-        Participants: 16766
-        Assets: 4444711746
-        $/Participant: 265102
+
+    2017  [codes: 2E2F2G2I2J2K2O3F3H2R2T2S]
+        Participants: 16,766  Average: $265,102
+        Assets: $4,444,711,746
         RecordKeeper: WESTWOOD MANAGEMENT CORPORATION
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST CO., NA
@@ -171,13 +157,11 @@ CA : ROSEMEAD
                  : US TREASURY INFLATION PROTECTED SEC
            - HARDING LOEVNER LP
                  : INTERNATIONAL EQUITY COLLECTIVE INV
-   [501]
-    2022: EDISON INTERNATIONAL WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
-        Codes:  4A4B4D4E4L4Q
-        Participants: 26915
-        Assets: 1435244320
-        $/Participant: 53325
+
+  [Healthcare, Life insurance, Dental, Vision, Travel accident] EDISON INTERNATIONAL WELFARE BENEFIT PLAN [501]
+    2022  [codes: 4A4B4D4E4L4Q]
+        Participants: 26,915  Average: $53,325
+        Assets: $1,435,244,320
         RecordKeeper: WILSHIRE US PRVT MRKT VIII
         Available Investments:
            - BARCLAYS GLOBAL INVESTORS
@@ -190,12 +174,10 @@ CA : ROSEMEAD
                  : CF EAFE EQUITY INDEX FUND
            - THE BANK OF NEW YORK MELLON
                  : BNYM-MELLON CF SL SIF FUND
-    2021: EDISON INTERNATIONAL WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
-        Codes:  4A4B4D4E4L4Q
-        Participants: 26752
-        Assets: 1710692617
-        $/Participant: 63946
+
+    2021
+        Participants: 26,752  Average: $63,946
+        Assets: $1,710,692,617
         RecordKeeper: EAFE EQUITY INDEX FUND
         Available Investments:
            - BARCLAYS GLOBAL INVESTORS
@@ -208,12 +190,10 @@ CA : ROSEMEAD
                  : CF EAFE EQUITY INDEX FUND
            - THE BANK OF NEW YORK MELLON
                  : BNYM-MELLON CF SL SIF FUND
-    2020: EDISON INTERNATIONAL WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
-        Codes:  4A4B4D4E4L4Q
-        Participants: 26966
-        Assets: 1776939223
-        $/Participant: 65895
+
+    2020
+        Participants: 26,966  Average: $65,895
+        Assets: $1,776,939,223
         RecordKeeper: BLACKROCK INSTITUTIONAL TRUST CO.
         Available Investments:
            - BARCLAYS GLOBAL INVESTORS
@@ -226,12 +206,10 @@ CA : ROSEMEAD
                  : CF EAFE EQUITY INDEX FUND
            - THE BANK OF NEW YORK MELLON
                  : BNYM-MELLON CF SL SIF FUND
-    2019: EDISON INTERNATIONAL WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
-        Codes:  4A4B4D4E4L4Q
-        Participants: 26640
-        Assets: 1677845989
-        $/Participant: 62982
+
+    2019
+        Participants: 26,640  Average: $62,982
+        Assets: $1,677,845,989
         RecordKeeper: WILSHIRE US PRVT MRKT VIII
         Available Investments:
            - BARCLAYS GLOBAL INVESTORS
@@ -244,12 +222,10 @@ CA : ROSEMEAD
                  : CF EAFE EQUITY INDEX FUND
            - THE BANK OF NEW YORK MELLON
                  : BNYM-MELLON CF SL SIF FUND
-    2018: EDISON INTERNATIONAL WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
-        Codes:  4A4B4D4E4L4Q
-        Participants: 26321
-        Assets: 1489488043
-        $/Participant: 56589
+
+    2018
+        Participants: 26,321  Average: $56,589
+        Assets: $1,489,488,043
         RecordKeeper: DELOITTE TAX CONSULTING
         Available Investments:
            - BARCLAYS GLOBAL INVESTORS
@@ -259,12 +235,10 @@ CA : ROSEMEAD
            - MELLON CAPITAL MANAGEMENT
                  : CF COMPLETE STK INDEX FD (MELLON)
                  : CF EAFE EQUITY INDEX FD
-    2017: EDISON INTERNATIONAL WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
-        Codes:  4A4B4D4E4Q4L
-        Participants: 26325
-        Assets: 1624069740
-        $/Participant: 61693
+
+    2017  [codes: 4A4B4D4E4Q4L]
+        Participants: 26,325  Average: $61,693
+        Assets: $1,624,069,740
         RecordKeeper: PACIFIC INVESTMENT MANAGEMENT CO
         Available Investments:
            - BARCLAYS GLOBAL INVESTOR
@@ -275,50 +249,36 @@ CA : ROSEMEAD
            - MELLON CAPITAL MANAGEMENT
                  : CF COMPLETE STK INDEX FD (MELLON)
                  : CF EAFE EQTY INDEX FD
-   [527]
-    2022: SOUTHERN CALIFORNIA EDISON COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
-        Participants: 13253
-        Assets: 6379172
-        $/Participant: 481
-    2021: SOUTHERN CALIFORNIA EDISON COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
-        Participants: 
-        Assets: 5806893
-        $/Participant: 
-    2020: SOUTHERN CALIFORNIA EDISON COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
-        Participants: 13508
-        Assets: 6259850
-        $/Participant: 463
-    2019: SOUTHERN CALIFORNIA EDISON COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
-        Participants: 13139
-        Assets: 5664961
-        $/Participant: 431
-    2018: SOUTHERN CALIFORNIA EDISON COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
-        Participants: 12811
-        Assets: 5893304
-        $/Participant: 460
-    2017: SOUTHERN CALIFORNIA EDISON COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
-        Participants: 12858
-        Assets: 6694882
-        $/Participant: 520
-   [004]
-    2019: SOUTHERN CALIFORNIA EDISON COMPANY RETIREMENT PLAN TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 3881483220
-        $/Participant: 
+
+  [Long-term disability] SOUTHERN CALIFORNIA EDISON COMPANY LONG TERM DISABILITY PLAN [527]
+    2022  [codes: 4H]
+        Participants: 13,253  Average: $481
+        Assets: $6,379,172
+
+    2021
+        Participants:   Average: $
+        Assets: $5,806,893
+
+    2020
+        Participants: 13,508  Average: $463
+        Assets: $6,259,850
+
+    2019
+        Participants: 13,139  Average: $431
+        Assets: $5,664,961
+
+    2018
+        Participants: 12,811  Average: $460
+        Assets: $5,893,304
+
+    2017
+        Participants: 12,858  Average: $520
+        Assets: $6,694,882
+
+  [Other] SOUTHERN CALIFORNIA EDISON COMPANY RETIREMENT PLAN TRUST [004]
+    2019  [codes: ]
+        Participants:   Average: $
+        Assets: $3,881,483,220
         Service Providers:
            - PAYDEN & RYGLE : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
            - DODGE & COX : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | 'Soft dollars' commissions)
@@ -381,12 +341,10 @@ CA : ROSEMEAD
                  : WAMCO OPPORTUNISTIC INTL
                  : WAMCO OPPORTUNISTIC US HIGH
                  : WESTERN ASSET MBS PORTFOLIO
-    2018: SOUTHERN CALIFORNIA EDISON COMPANY RETIREMENT PLAN TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 3442147011
-        $/Participant: 
+
+    2018
+        Participants:   Average: $
+        Assets: $3,442,147,011
         Service Providers:
            - RUSSEL INVEST IMPLEMENTATION SVSC. : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
            - JP MORGAN US ACTIVE CORE PLUS EQUIT : INVESTMENT MANAGEMENT (Investment advisory(plan) | Investment management | Investment management fees paid directly by plan | Direct payment from the plan)
@@ -444,12 +402,10 @@ CA : ROSEMEAD
                  : WAMCO OPPORTUNISTIC INTL
                  : WAMCO OPPORTUNISTIC US HIGH
                  : WESTERN ASSET MBS PORTFOLIO
-    2017: SOUTHERN CALIFORNIA EDISON COMPANY RETIREMENT PLAN TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 3820626025
-        $/Participant: 
+
+    2017
+        Participants:   Average: $
+        Assets: $3,820,626,025
         Service Providers:
            - JP MORGAN US ACTIVE CORE PLUS EQUIT : INVESTMENT MANAGEMENT (Investment advisory(plan) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - ACUITAS INVESTMENTS LLC : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
@@ -496,13 +452,11 @@ CA : ROSEMEAD
                  : WAMCO OPPORTUNISTIC INTL
                  : WAMCO OPPORTUNISTIC US HIGH
                  : WESTERN ASSET MBS PORTFOLIO
-   [001]
-    2022: THE SOUTHERN CALIFORNIA EDISON COMPANY RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1E3F3H 
-        Participants: 22604
-        Assets: 4507844660
-        $/Participant: 199426
+
+  [Pension] THE SOUTHERN CALIFORNIA EDISON COMPANY RETIREMENT PLAN [001]
+    2022  [codes: 1A1C1E3F3H]
+        Participants: 22,604  Average: $199,426
+        Assets: $4,507,844,660
         RecordKeeper: MSCI INC.
         Available Investments:
            - BLACKROCK, INC.
@@ -525,12 +479,10 @@ CA : ROSEMEAD
                  : WA FLTG RATE HI INCOME FD
                  : WAMCO OPPORTUNISTIC US HIGH
                  : WESTERN ASSET MBS PORTFOLIO
-    2021: THE SOUTHERN CALIFORNIA EDISON COMPANY RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1E3F3H 
-        Participants: 23362
-        Assets: 5543336265
-        $/Participant: 237280
+
+    2021
+        Participants: 23,362  Average: $237,280
+        Assets: $5,543,336,265
         RecordKeeper: MSCI INC.
         Available Investments:
            - BLACKROCK, INC.
@@ -557,12 +509,10 @@ CA : ROSEMEAD
                  : WA FLTG RATE HI INCOME FD
                  : WAMCO OPPORTUNISTIC US HIGH
                  : WESTERN ASSET MBS PORTFOLIO
-    2020: THE SOUTHERN CALIFORNIA EDISON COMPANY RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1E3F3H 
-        Participants: 24162
-        Assets: 5292321698
-        $/Participant: 219034
+
+    2020
+        Participants: 24,162  Average: $219,034
+        Assets: $5,292,321,698
         RecordKeeper: TSG5 LP
         Available Investments:
            - BLACKROCK, INC.
@@ -592,12 +542,10 @@ CA : ROSEMEAD
                  : WA FLTG RATE HI INCOME FD
                  : WAMCO OPPORTUNISTIC US HIGH
                  : WESTERN ASSET MBS PORTFOLIO
-    2019: THE SOUTHERN CALIFORNIA EDISON COMPANY RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1E3F3H 
-        Participants: 24835
-        Assets: 4616381020
-        $/Participant: 185882
+
+    2019
+        Participants: 24,835  Average: $185,882
+        Assets: $4,616,381,020
         RecordKeeper: AJO LP
         Available Investments:
            - BLACKROCK, INC.
@@ -611,12 +559,10 @@ CA : ROSEMEAD
                  : RWC EMERGING MARKET EQUITY
            - SO. CA EDISON CO. RET PLAN TRUST
                  : INTEREST IN MASTER TRUST
-    2018: THE SOUTHERN CALIFORNIA EDISON COMPANY RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1E3F3H 
-        Participants: 24438
-        Assets: 3909410648
-        $/Participant: 159972
+
+    2018
+        Participants: 24,438  Average: $159,972
+        Assets: $3,909,410,648
         RecordKeeper: AJO LP
         Available Investments:
            - JP MORGAN CHASE BANK
@@ -629,12 +575,10 @@ CA : ROSEMEAD
                  : SO. CA EDISON CO. RET PLAN TRUST
            - STATE STREET
                  : BLACKROCK MSCI ACWI IMI INDEX
-    2017: THE SOUTHERN CALIFORNIA EDISON COMPANY RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1E3F3H 
-        Participants: 25388
-        Assets: 4244453670
-        $/Participant: 167183
+
+    2017
+        Participants: 25,388  Average: $167,183
+        Assets: $4,244,453,670
         RecordKeeper: AJO LP
         Available Investments:
            - JP MORGAN CHASE BANK
@@ -647,61 +591,45 @@ CA : ROSEMEAD
                  : SO CA EDISON CO RET PLAN TRUST
            - STATE STREET
                  : BLACKROCK MSCI ACWI IMI INDEX
-   [525]
-    2022: EDISON INTERNATIONAL INVOLUNTARY SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 13184
-    2021: EDISON INTERNATIONAL INVOLUNTARY SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] EDISON INTERNATIONAL INVOLUNTARY SEVERANCE PLAN [525]
+    2022  [codes: 4I]
+        Participants: 13,184
+
+    2021
         Participants: 
-    2020: EDISON INTERNATIONAL INVOLUNTARY SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 13525
-    2019: EDISON INTERNATIONAL INVOLUNTARY SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 13062
-    2018: EDISON INTERNATIONAL INVOLUNTARY SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 13615
-    2017: EDISON INTERNATIONAL INVOLUNTARY SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 12827
-   [504]
-    2022: COMPREHENSIVE DISABILITY PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
-        Participants: 13180
-        Assets: 651701
-        $/Participant: 49
-    2021: COMPREHENSIVE DISABILITY PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
-        Participants: 12917
-    2020: COMPREHENSIVE DISABILITY PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
-        Participants: 13425
-        Assets: 212530
-        $/Participant: 15
-    2019: COMPREHENSIVE DISABILITY PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
-        Participants: 13043
-    2018: COMPREHENSIVE DISABILITY PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
-        Participants: 12693
-        Assets: 210849
-        $/Participant: 16
-    2017: COMPREHENSIVE DISABILITY PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
-        Participants: 12835
-        Assets: 3465146
-        $/Participant: 269
+
+    2020
+        Participants: 13,525
+
+    2019
+        Participants: 13,062
+
+    2018
+        Participants: 13,615
+
+    2017
+        Participants: 12,827
+
+  [Short-term disability] COMPREHENSIVE DISABILITY PLAN [504]
+    2022  [codes: 4F]
+        Participants: 13,180  Average: $49
+        Assets: $651,701
+
+    2021
+        Participants: 12,917
+
+    2020
+        Participants: 13,425  Average: $15
+        Assets: $212,530
+
+    2019
+        Participants: 13,043
+
+    2018
+        Participants: 12,693  Average: $16
+        Assets: $210,849
+
+    2017
+        Participants: 12,835  Average: $269
+        Assets: $3,465,146

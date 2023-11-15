@@ -1,12 +1,8 @@
-MO : CHESTERFIELD
-  RGA REINSURANCE COMPANY  431235868
-   [001]
-    2022: RGA SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H3D 
-        Participants: 2258
-        Assets: 467603785
-        $/Participant: 207087
+RGA REINSURANCE COMPANY  431235868 -- MO : CHESTERFIELD
+  [401(k)] RGA SAVINGS PLAN [001]
+    2022  [codes: 2E2F2G2J2K2S2T3H3D]
+        Participants: 2,258  Average: $207,087
+        Assets: $467,603,785
         RecordKeeper: CAPITAL STRATEGIES INVESTMENT GROUP
         Available Investments:
            - NEW YORK LIFE INSURANCE COMPANY
@@ -23,12 +19,10 @@ MO : CHESTERFIELD
                  : VANGUARD TARGET 2060
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INC
-    2021: RGA SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D3H 
-        Participants: 2117
-        Assets: 545966555
-        $/Participant: 257896
+
+    2021  [codes: 2E2F2G2J2K2S2T3D3H]
+        Participants: 2,117  Average: $257,896
+        Assets: $545,966,555
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - JP MORGAN CHASE BANK, N.A.
@@ -44,12 +38,10 @@ MO : CHESTERFIELD
                  : JPMCB SMARTRETIREMENT INCOME FUND
            - NEW YORK LIFE INSURANCE COMPANY
                  : NEW YORK LIFE ANCHOR ACCOUNT
-    2020: RGA SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T2S3H 
-        Participants: 1958
-        Assets: 464136850
-        $/Participant: 237046
+
+    2020  [codes: 2E2F2G2J2K2T2S3H]
+        Participants: 1,958  Average: $237,046
+        Assets: $464,136,850
         RecordKeeper: CAPITAL STRATEGIES INVESTMENT GROUP
         Available Investments:
            - JP MORGAN CHASE BANK, N.A.
@@ -65,12 +57,10 @@ MO : CHESTERFIELD
                  : JPMCB SMARTRETIREMENT INCOME FUND
            - NEW YORK LIFE INSURANCE COMPANY
                  : NEW YORK LIFE ANCHOR ACCOUNT
-    2019: RGA SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T2S 
-        Participants: 1802
-        Assets: 364366730
-        $/Participant: 202201
+
+    2019  [codes: 2E2F2G2J2K2T2S]
+        Participants: 1,802  Average: $202,201
+        Assets: $364,366,730
         RecordKeeper: CAPITAL STRATEGIES INVESTMENT GROUP
         Available Investments:
            - INVESCO TRUST CO.
@@ -88,12 +78,10 @@ MO : CHESTERFIELD
                  : JPMCB SMARTRETIREMENT INCOME FUND
            - NEW YORK LIFE INSURANCE COMPANY
                  : NEW YORK LIFE ANCHOR ACCOUNT
-    2018: RGA SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T2S 
-        Participants: 1628
-        Assets: 278786218
-        $/Participant: 171244
+
+    2018
+        Participants: 1,628  Average: $171,244
+        Assets: $278,786,218
         RecordKeeper: CAPITAL STRATEGIES INVESTMENT GROUP
         Available Investments:
            - INVESCO TRUST CO.
@@ -111,12 +99,10 @@ MO : CHESTERFIELD
                  : JPMCB SMARTRETIREMENT INCOME FUND
            - NEW YORK LIFE INSURANCE COMPANY
                  : NEW YORK LIFE ANCHOR ACCOUNT
-    2017: RGA SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T2S 
-        Participants: 1489
-        Assets: 281716075
-        $/Participant: 189198
+
+    2017
+        Participants: 1,489  Average: $189,198
+        Assets: $281,716,075
         RecordKeeper: CAPITAL STRATEGIES INVESTMENT GROUP
         Available Investments:
            - INVESCO TRUST CO.
@@ -134,88 +120,66 @@ MO : CHESTERFIELD
                  : JPMCB SMARTRETIREMENT INCOME FUND
            - NEW YORK LIFE INSURANCE COMPANY
                  : NEW YORK LIFE ANCHOR ACCOUNT
-   [003]
-    2020: AURORA EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2T3H3D2E 
+
+  [401(k)] AURORA EMPLOYEE SAVINGS PLAN [003]
+    2020  [codes: 2F2G2J2K2T3H3D2E]
         Participants: 0
-    2019: AURORA EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D3H 
+
+    2019  [codes: 2E2F2G2J2K2T3D3H]
         Participants: 14
-    2018: AURORA EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2T3D3H2E 
+
+    2018  [codes: 2F2G2J2K2T3D3H2E]
         Participants: 19
-    2017: AURORA EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D3H 
+
+    2017  [codes: 2E2F2G2J2K2T3D3H]
         Participants: 19
-   [502]
-    2022: RGA REINSURANCE COMPANY WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4G4H4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability] RGA REINSURANCE COMPANY WELFARE BENEFITS PLAN [502]
+    2022  [codes: 4A4B4D4E4G4H4Q]
         Participants: 
-    2021: RGA REINSURANCE COMPANY WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4G4H4Q
+
+    2021
         Participants: 
-    2020: RGA REINSURANCE COMPANY WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4G4H4Q
+
+    2020  [codes: 4A4B4D4E4F4G4H4Q]
         Participants: 
-    2019: RGA REINSURANCE COMPANY WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4G4H4Q
+
+    2019
         Participants: 
-    2018: RGA REINSURANCE COMPANY WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2018  [codes: 4A4B4D4E4F4H4Q]
         Participants: 
-    2017: RGA REINSURANCE COMPANY WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2017
         Participants: 
-   [002]
-    2022: RGA REINSURANCE COMPANY PERFORMANCE PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1C1A3H 
-        Participants: 1749
-        Assets: 171143455
-        $/Participant: 97852
+
+  [Pension] RGA REINSURANCE COMPANY PERFORMANCE PENSION PLAN [002]
+    2022  [codes: 1C1A3H]
+        Participants: 1,749  Average: $97,852
+        Assets: $171,143,455
         RecordKeeper: CAPITAL STRATEGIES INVESTMENT GROUP
-    2021: RGA REINSURANCE COMPANY PERFORMANCE PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1C1A3H 
-        Participants: 1799
-        Assets: 185930285
-        $/Participant: 103352
+
+    2021
+        Participants: 1,799  Average: $103,352
+        Assets: $185,930,285
         RecordKeeper: CAPITAL STRATEGIES INVESTMENT GROUP
-    2020: RGA REINSURANCE COMPANY PERFORMANCE PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1C1A3H 
-        Participants: 1777
-        Assets: 171816120
-        $/Participant: 96688
+
+    2020
+        Participants: 1,777  Average: $96,688
+        Assets: $171,816,120
         RecordKeeper: JOHN HANCOCK
-    2019: RGA REINSURANCE COMPANY PERFORMANCE PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1C1A 
-        Participants: 1673
-        Assets: 146876879
-        $/Participant: 87792
+
+    2019  [codes: 1C1A]
+        Participants: 1,673  Average: $87,792
+        Assets: $146,876,879
         RecordKeeper: JOHN HANCOCK
-    2018: RGA REINSURANCE COMPANY PERFORMANCE PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1C1A 
-        Participants: 1505
-        Assets: 115060291
-        $/Participant: 76452
+
+    2018
+        Participants: 1,505  Average: $76,452
+        Assets: $115,060,291
         RecordKeeper: JOHN HANCOCK RETIREMENT PLAN SRVCS
-    2017: RGA REINSURANCE COMPANY PERFORMANCE PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1C1A 
-        Participants: 1379
-        Assets: 113235389
-        $/Participant: 82114
+
+    2017
+        Participants: 1,379  Average: $82,114
+        Assets: $113,235,389
         RecordKeeper: JOHN HANCOCK RETIREMENT PLAN SRVCS

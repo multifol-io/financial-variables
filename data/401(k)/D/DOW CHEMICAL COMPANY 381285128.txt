@@ -1,8 +1,7 @@
-MI : MIDLAND
-  DOW CHEMICAL COMPANY  381285128
+DOW CHEMICAL COMPANY  381285128 -- MI : MIDLAND
+  [401(k), Employee Stock Ownership Plan]THE DOW CHEMICAL COMPANY EMPLOYEES' SAVINGS PLAN
    [002]
-    2022: THE DOW CHEMICAL COMPANY EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
+    2022
         Codes: 2E2F2H2J2K2O2P2S2T3F3J3H 
         Participants: 34861
         Assets: 9307640951
@@ -36,8 +35,9 @@ MI : MIDLAND
            - STATE STREET GLOBAL ADVISORS TRUST COMPANY
                  : SS ERMG MARKTS IDX II
                  : SS GACEQ EXUS IDX II
-    2021: THE DOW CHEMICAL COMPANY EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
+
+  [401(k), Employee Stock Ownership Plan]THE DOW CHEMICAL COMPANY EMPLOYEES' SAVINGS PLAN
+    2021
         Codes: 2E2F2H2J2K2O2P2S2T3F3J3H 
         Participants: 34607
         Assets: 15394661065
@@ -79,8 +79,9 @@ MI : MIDLAND
                  : VFTC INSTITUTIONAL 500 INDEX TRUST
                  : VFTC INSTITUTIONAL EXTENDED MARKET
                  : VFTC INSTITUTIONAL TOTAL BOND FUND
-    2020: THE DOW CHEMICAL COMPANY EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
+
+  [401(k), Employee Stock Ownership Plan]THE DOW CHEMICAL COMPANY EMPLOYEES' SAVINGS PLAN
+    2020
         Codes: 2E2F2H2J2K2O2P2S2T3F3J3H 
         Participants: 35803
         Assets: 11517245038
@@ -112,8 +113,9 @@ MI : MIDLAND
                  : VFTC INSTITUTIONAL 500 INDEX TRUST
                  : VFTC INSTITUTIONAL EXTENDED MARKET
                  : VFTC INSTITUTIONAL TOTAL BOND FUND
-    2019: THE DOW CHEMICAL COMPANY EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
+
+  [401(k), Employee Stock Ownership Plan]THE DOW CHEMICAL COMPANY EMPLOYEES' SAVINGS PLAN
+    2019
         Codes: 2E2F2H2J2K2O2P2S2T3F3J3H 
         Participants: 37977
         Assets: 10938056029
@@ -149,8 +151,9 @@ MI : MIDLAND
                  : VFTC INSTITUTIONAL 500 INDEX TRUST
                  : VFTC INSTITUTIONAL EXTENDED MARKET
                  : VFTC INSTITUTIONAL TOTAL BOND FUND
-    2018: THE DOW CHEMICAL COMPANY EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
+
+  [401(k), Employee Stock Ownership Plan]THE DOW CHEMICAL COMPANY EMPLOYEES' SAVINGS PLAN
+    2018
         Codes: 2E2F2H2J2K2O2P2S2T3F3J3H 
         Participants: 40934
         Assets: 10798412055
@@ -184,8 +187,9 @@ MI : MIDLAND
                  : VFTC INSTITUTIONAL 500 INDEX TRUST
                  : VFTC INSTITUTIONAL EXTENDED MARKET
                  : VFTC INSTITUTIONAL TOTAL BOND FUND
-    2017: THE DOW CHEMICAL COMPANY EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
+
+  [401(k), Employee Stock Ownership Plan]THE DOW CHEMICAL COMPANY EMPLOYEES' SAVINGS PLAN
+    2017
         Codes: 2E2F2H2J2K2O2P2S2T3F3J3H 
         Participants: 41761
         Assets: 12490743088
@@ -222,84 +226,103 @@ MI : MIDLAND
                  : VFTC INSTITUTIONAL TOTAL BOND FUND
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE RETURN FUND G
+
+  [Dental]THE DOW CHEMICAL COMPANY DENTAL ASSISTANCE PROGRAM
    [503]
-    2022: THE DOW CHEMICAL COMPANY DENTAL ASSISTANCE PROGRAM
-        Benefit Category: Dental
+    2022
         Codes:  4D
         Participants: 
-    2021: THE DOW CHEMICAL COMPANY DENTAL ASSISTANCE PROGRAM
-        Benefit Category: Dental
+
+  [Dental]THE DOW CHEMICAL COMPANY DENTAL ASSISTANCE PROGRAM
+    2021
         Codes:  4D
         Participants: 
-    2020: THE DOW CHEMICAL COMPANY DENTAL ASSISTANCE PROGRAM
-        Benefit Category: Dental
+
+  [Dental]THE DOW CHEMICAL COMPANY DENTAL ASSISTANCE PROGRAM
+    2020
         Codes:  4D
         Participants: 
-    2019: THE DOW CHEMICAL COMPANY DENTAL ASSISTANCE PROGRAM
-        Benefit Category: Dental
+
+  [Dental]THE DOW CHEMICAL COMPANY DENTAL ASSISTANCE PROGRAM
+    2019
         Codes:  4D
         Participants: 
-    2018: THE DOW CHEMICAL COMPANY DENTAL ASSISTANCE PROGRAM
-        Benefit Category: Dental
+
+  [Dental]THE DOW CHEMICAL COMPANY DENTAL ASSISTANCE PROGRAM
+    2018
         Codes:  4D
         Participants: 
-    2017: THE DOW CHEMICAL COMPANY DENTAL ASSISTANCE PROGRAM
-        Benefit Category: Dental
+
+  [Dental]THE DOW CHEMICAL COMPANY DENTAL ASSISTANCE PROGRAM
+    2017
         Codes:  4D
         Participants: 
+
+  [Healthcare, Vision]THE DOW CHEMICAL COMPANY MEDICAL CARE PROGRAM
    [501]
-    2022: THE DOW CHEMICAL COMPANY MEDICAL CARE PROGRAM
-        Benefit Category: Healthcare, Vision
+    2022
         Codes:  4A4E
         Participants: 
-    2021: THE DOW CHEMICAL COMPANY MEDICAL CARE PROGRAM
-        Benefit Category: Healthcare, Vision
+
+  [Healthcare, Vision]THE DOW CHEMICAL COMPANY MEDICAL CARE PROGRAM
+    2021
         Codes:  4A4E
         Participants: 
-    2020: THE DOW CHEMICAL COMPANY MEDICAL CARE PROGRAM
-        Benefit Category: Healthcare, Vision
+
+  [Healthcare, Vision]THE DOW CHEMICAL COMPANY MEDICAL CARE PROGRAM
+    2020
         Codes:  4A4E
         Participants: 
-    2019: THE DOW CHEMICAL COMPANY MEDICAL CARE PROGRAM
-        Benefit Category: Healthcare, Vision
+
+  [Healthcare, Vision]THE DOW CHEMICAL COMPANY MEDICAL CARE PROGRAM
+    2019
         Codes:  4A4E
         Participants: 
-    2018: THE DOW CHEMICAL COMPANY MEDICAL CARE PROGRAM
-        Benefit Category: Healthcare, Vision
+
+  [Healthcare, Vision]THE DOW CHEMICAL COMPANY MEDICAL CARE PROGRAM
+    2018
         Codes:  4A4E
         Participants: 
-    2017: THE DOW CHEMICAL COMPANY MEDICAL CARE PROGRAM
-        Benefit Category: Healthcare, Vision
+
+  [Healthcare, Vision]THE DOW CHEMICAL COMPANY MEDICAL CARE PROGRAM
+    2017
         Codes:  4A4E
         Participants: 
+
+  [Healthcare, Dental, Vision]HEALTH CARE REIMBURSEMENT ACCOUNT
    [508]
-    2022: HEALTH CARE REIMBURSEMENT ACCOUNT
-        Benefit Category: Healthcare, Dental, Vision
+    2022
         Codes:  4A4D4E
         Participants: 
-    2021: HEALTH CARE REIMBURSEMENT ACCOUNT
-        Benefit Category: Healthcare, Dental, Vision
+
+  [Healthcare, Dental, Vision]HEALTH CARE REIMBURSEMENT ACCOUNT
+    2021
         Codes:  4A4D4E
         Participants: 
-    2020: HEALTH CARE REIMBURSEMENT ACCOUNT
-        Benefit Category: Healthcare, Dental, Vision
+
+  [Healthcare, Dental, Vision]HEALTH CARE REIMBURSEMENT ACCOUNT
+    2020
         Codes:  4A4D4E
         Participants: 
-    2019: HEALTH CARE REIMBURSEMENT ACCOUNT
-        Benefit Category: Healthcare, Dental, Vision
+
+  [Healthcare, Dental, Vision]HEALTH CARE REIMBURSEMENT ACCOUNT
+    2019
         Codes:  4A4D4E
         Participants: 
-    2018: HEALTH CARE REIMBURSEMENT ACCOUNT
-        Benefit Category: Healthcare, Dental, Vision
+
+  [Healthcare, Dental, Vision]HEALTH CARE REIMBURSEMENT ACCOUNT
+    2018
         Codes:  4A4D4E
         Participants: 
-    2017: HEALTH CARE REIMBURSEMENT ACCOUNT
-        Benefit Category: Healthcare, Dental, Vision
+
+  [Healthcare, Dental, Vision]HEALTH CARE REIMBURSEMENT ACCOUNT
+    2017
         Codes:  4A4D4E
         Participants: 
+
+  [Healthcare, Severance, Travel accident]THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR ACTIVE EMPLOYEES
    [540]
-    2022: THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare, Severance, Travel accident
+    2022
         Codes:  4A4I4L
         Participants: 
         Assets: 166915227
@@ -310,8 +333,9 @@ MI : MIDLAND
         Available Investments:
            - THE DOW CHEMICAL COMPANY
                  : RETIREMENT HEALTH CARE ASSIST MT
-    2021: THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare, Severance, Travel accident
+
+  [Healthcare, Severance, Travel accident]THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR ACTIVE EMPLOYEES
+    2021
         Codes:  4A4I4L
         Participants: 
         Assets: 226862026
@@ -322,8 +346,9 @@ MI : MIDLAND
         Available Investments:
            - THE DOW CHEMICAL COMPANY
                  : RETIREMENT HEALTH CARE ASSIST MT
-    2020: THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare, Severance, Travel accident
+
+  [Healthcare, Severance, Travel accident]THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR ACTIVE EMPLOYEES
+    2020
         Codes:  4A4I4L
         Participants: 
         Assets: 224106253
@@ -334,8 +359,9 @@ MI : MIDLAND
         Available Investments:
            - THE DOW CHEMICAL COMPANY
                  : RETIREMENT HEALTH CARE ASSIST MT
-    2019: THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare, Severance, Travel accident
+
+  [Healthcare, Severance, Travel accident]THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR ACTIVE EMPLOYEES
+    2019
         Codes:  4A4I4L
         Participants: 
         Assets: 207224243
@@ -346,8 +372,9 @@ MI : MIDLAND
         Available Investments:
            - THE DOW CHEMICAL COMPANY
                  : RETIREMENT HEALTH CARE ASSIST MT
-    2018: THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Healthcare, Severance, Travel accident
+
+  [Healthcare, Severance, Travel accident]THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR ACTIVE EMPLOYEES
+    2018
         Codes:  4A4I4L
         Participants: 
         Assets: 243752356
@@ -357,9 +384,10 @@ MI : MIDLAND
         Available Investments:
            - THE DOW CHEMICAL COMPANY
                  : RETIREMENT HEALTH CARE ASSIST MT
+
+  [Healthcare, Travel accident]THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR RETIREES
    [541]
-    2022: THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR RETIREES
-        Benefit Category: Healthcare, Travel accident
+    2022
         Codes:  4A4L
         Participants: 
         Assets: 460623829
@@ -370,8 +398,9 @@ MI : MIDLAND
         Available Investments:
            - THE DOW CHEMICAL COMPANY
                  : RETIREMENT HEALTH CARE ASSIST MT
-    2021: THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR RETIREES
-        Benefit Category: Healthcare, Travel accident
+
+  [Healthcare, Travel accident]THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR RETIREES
+    2021
         Codes:  4A4L
         Participants: 
         Assets: 553366535
@@ -382,8 +411,9 @@ MI : MIDLAND
         Available Investments:
            - THE DOW CHEMICAL COMPANY
                  : RETIREMENT HEALTH CARE ASSIST MT
-    2020: THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR RETIREES
-        Benefit Category: Healthcare, Travel accident
+
+  [Healthcare, Travel accident]THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR RETIREES
+    2020
         Codes:  4A4L
         Participants: 
         Assets: 475977091
@@ -394,8 +424,9 @@ MI : MIDLAND
         Available Investments:
            - THE DOW CHEMICAL COMPANY
                  : RETIREMENT HEALTH CARE ASSIST MT
-    2019: THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR RETIREES
-        Benefit Category: Healthcare, Travel accident
+
+  [Healthcare, Travel accident]THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR RETIREES
+    2019
         Codes:  4A4L
         Participants: 
         Assets: 400763933
@@ -406,8 +437,9 @@ MI : MIDLAND
         Available Investments:
            - THE DOW CHEMICAL COMPANY
                  : RETIREMENT HEALTH CARE ASSIST MT
-    2018: THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR RETIREES
-        Benefit Category: Healthcare, Travel accident
+
+  [Healthcare, Travel accident]THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR RETIREES
+    2018
         Codes:  4A4L
         Participants: 
         Assets: 270083114
@@ -417,8 +449,9 @@ MI : MIDLAND
         Available Investments:
            - THE DOW CHEMICAL COMPANY
                  : RETIREMENT HEALTH CARE ASSIST MT
-    2017: THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR RETIREES
-        Benefit Category: Healthcare, Travel accident
+
+  [Healthcare, Travel accident]THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR RETIREES
+    2017
         Codes:  4A4L
         Participants: 
         Assets: 256781084
@@ -429,134 +462,165 @@ MI : MIDLAND
         Available Investments:
            - THE DOW CHEMICAL COMPANY
                  : RETIREMENT HEALTH CARE ASSIST MT
+
+  [Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident]THE ROHM AND HAAS COMPANY HEALTH AND WELFARE PLAN
    [551]
-    2022: THE ROHM AND HAAS COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
+    2022
         Codes:  4A4B4D4F4H4L
         Participants: 
-    2021: THE ROHM AND HAAS COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
+
+  [Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident]THE ROHM AND HAAS COMPANY HEALTH AND WELFARE PLAN
+    2021
         Codes:  4A4B4D4F4H4L
         Participants: 
-    2020: THE ROHM AND HAAS COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
+
+  [Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident]THE ROHM AND HAAS COMPANY HEALTH AND WELFARE PLAN
+    2020
         Codes:  4A4B4D4F4H4L
         Participants: 
-    2019: THE ROHM AND HAAS COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
+
+  [Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident]THE ROHM AND HAAS COMPANY HEALTH AND WELFARE PLAN
+    2019
         Codes:  4A4B4D4F4H4L
         Participants: 
-    2018: THE ROHM AND HAAS COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
+
+  [Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident]THE ROHM AND HAAS COMPANY HEALTH AND WELFARE PLAN
+    2018
         Codes:  4A4B4D4F4H4L
         Participants: 
-    2017: THE ROHM AND HAAS COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
+
+  [Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident]THE ROHM AND HAAS COMPANY HEALTH AND WELFARE PLAN
+    2017
         Codes:  4A4B4D4F4H4L
         Participants: 
+
+  [Healthcare, Dental, Vision]TDCC INSURED HEALTH PROGRAM
    [601]
-    2022: TDCC INSURED HEALTH PROGRAM
-        Benefit Category: Healthcare, Dental, Vision
+    2022
         Codes:  4A4D4E
         Participants: 
-    2021: TDCC INSURED HEALTH PROGRAM
-        Benefit Category: Healthcare, Dental, Vision
+
+  [Healthcare, Dental, Vision]TDCC INSURED HEALTH PROGRAM
+    2021
         Codes:  4A4D4E
         Participants: 
-    2020: TDCC INSURED HEALTH PROGRAM
-        Benefit Category: Healthcare, Dental, Vision
+
+  [Healthcare, Dental, Vision]TDCC INSURED HEALTH PROGRAM
+    2020
         Codes:  4A4D4E
         Participants: 
-    2019: TDCC INSURED HEALTH PROGRAM
-        Benefit Category: Healthcare, Dental, Vision
+
+  [Healthcare, Dental, Vision]TDCC INSURED HEALTH PROGRAM
+    2019
         Codes:  4A4D4E
         Participants: 
-    2018: TDCC INSURED HEALTH PROGRAM
-        Benefit Category: Healthcare, Dental, Vision
+
+  [Healthcare, Dental, Vision]TDCC INSURED HEALTH PROGRAM
+    2018
         Codes:  4A4D4E
         Participants: 
-    2017: TDCC INSURED HEALTH PROGRAM
-        Benefit Category: Healthcare, Dental, Vision
+
+  [Healthcare, Dental, Vision]TDCC INSURED HEALTH PROGRAM
+    2017
         Codes:  4A4D4E
         Participants: 
+
+  [Life insurance, Short-term disability]THE DOW CHEMICAL COMPANY GROUP LIFE INSURANCE PROGRAM
    [507]
-    2022: THE DOW CHEMICAL COMPANY GROUP LIFE INSURANCE PROGRAM
-        Benefit Category: Life insurance, Short-term disability
+    2022
         Codes:  4B4F
         Participants: 
-    2021: THE DOW CHEMICAL COMPANY GROUP LIFE INSURANCE PROGRAM
-        Benefit Category: Life insurance, Short-term disability
+
+  [Life insurance, Short-term disability]THE DOW CHEMICAL COMPANY GROUP LIFE INSURANCE PROGRAM
+    2021
         Codes:  4B4F
         Participants: 
-    2020: THE DOW CHEMICAL COMPANY GROUP LIFE INSURANCE PROGRAM
-        Benefit Category: Life insurance, Short-term disability
+
+  [Life insurance, Short-term disability]THE DOW CHEMICAL COMPANY GROUP LIFE INSURANCE PROGRAM
+    2020
         Codes:  4B4F
         Participants: 
-    2019: THE DOW CHEMICAL COMPANY GROUP LIFE INSURANCE PROGRAM
-        Benefit Category: Life insurance, Short-term disability
+
+  [Life insurance, Short-term disability]THE DOW CHEMICAL COMPANY GROUP LIFE INSURANCE PROGRAM
+    2019
         Codes:  4B4F
         Participants: 
-    2018: THE DOW CHEMICAL COMPANY GROUP LIFE INSURANCE PROGRAM
-        Benefit Category: Life insurance, Short-term disability
+
+  [Life insurance, Short-term disability]THE DOW CHEMICAL COMPANY GROUP LIFE INSURANCE PROGRAM
+    2018
         Codes:  4B4F
         Participants: 
-    2017: THE DOW CHEMICAL COMPANY GROUP LIFE INSURANCE PROGRAM
-        Benefit Category: Life insurance, Short-term disability
+
+  [Life insurance, Short-term disability]THE DOW CHEMICAL COMPANY GROUP LIFE INSURANCE PROGRAM
+    2017
         Codes:  4B4F
         Participants: 
+
+  [Life insurance]EMPLOYEE-PAID AND DEPENDENT LIFE INSURANCE PLANS
    [515]
-    2022: EMPLOYEE-PAID AND DEPENDENT LIFE INSURANCE PLANS
-        Benefit Category: Life insurance
+    2022
         Codes:  4B
         Participants: 
-    2021: EMPLOYEE-PAID AND DEPENDENT LIFE INSURANCE PLANS
-        Benefit Category: Life insurance
+
+  [Life insurance]EMPLOYEE-PAID AND DEPENDENT LIFE INSURANCE PLANS
+    2021
         Codes:  4B
         Participants: 
-    2020: EMPLOYEE-PAID AND DEPENDENT LIFE INSURANCE PLANS
-        Benefit Category: Life insurance
+
+  [Life insurance]EMPLOYEE-PAID AND DEPENDENT LIFE INSURANCE PLANS
+    2020
         Codes:  4B
         Participants: 
-    2019: EMPLOYEE-PAID AND DEPENDENT LIFE INSURANCE PLANS
-        Benefit Category: Life insurance
+
+  [Life insurance]EMPLOYEE-PAID AND DEPENDENT LIFE INSURANCE PLANS
+    2019
         Codes:  4B
         Participants: 
-    2018: EMPLOYEE-PAID AND DEPENDENT LIFE INSURANCE PLANS
-        Benefit Category: Life insurance
+
+  [Life insurance]EMPLOYEE-PAID AND DEPENDENT LIFE INSURANCE PLANS
+    2018
         Codes:  4B
         Participants: 
-    2017: EMPLOYEE-PAID AND DEPENDENT LIFE INSURANCE PLANS
-        Benefit Category: Life insurance
+
+  [Life insurance]EMPLOYEE-PAID AND DEPENDENT LIFE INSURANCE PLANS
+    2017
         Codes:  4B
         Participants: 
+
+  [Long-term disability]LONG TERM DISABILITY PLAN FOR THOSE ACTIVELY AT WORK 1/1/2008 AND AFTER
    [606]
-    2022: LONG TERM DISABILITY PLAN FOR THOSE ACTIVELY AT WORK 1/1/2008 AND AFTER
-        Benefit Category: Long-term disability
+    2022
         Codes:  4H
         Participants: 
-    2021: LONG TERM DISABILITY PLAN FOR THOSE ACTIVELY AT WORK 1/1/2008 AND AFTER
-        Benefit Category: Long-term disability
+
+  [Long-term disability]LONG TERM DISABILITY PLAN FOR THOSE ACTIVELY AT WORK 1/1/2008 AND AFTER
+    2021
         Codes:  4H
         Participants: 
-    2020: LONG TERM DISABILITY PLAN FOR THOSE ACTIVELY AT WORK 1/1/2008 AND AFTER
-        Benefit Category: Long-term disability
+
+  [Long-term disability]LONG TERM DISABILITY PLAN FOR THOSE ACTIVELY AT WORK 1/1/2008 AND AFTER
+    2020
         Codes:  4H
         Participants: 
-    2019: LONG TERM DISABILITY PLAN FOR THOSE ACTIVELY AT WORK 1/1/2008 AND AFTER
-        Benefit Category: Long-term disability
+
+  [Long-term disability]LONG TERM DISABILITY PLAN FOR THOSE ACTIVELY AT WORK 1/1/2008 AND AFTER
+    2019
         Codes:  4H
         Participants: 
-    2018: LONG TERM DISABILITY PLAN FOR THOSE ACTIVELY AT WORK 1/1/2008 AND AFTER
-        Benefit Category: Long-term disability
+
+  [Long-term disability]LONG TERM DISABILITY PLAN FOR THOSE ACTIVELY AT WORK 1/1/2008 AND AFTER
+    2018
         Codes:  4H
         Participants: 
-    2017: LONG TERM DISABILITY PLAN FOR THOSE ACTIVELY AT WORK 1/1/2008 AND AFTER
-        Benefit Category: Long-term disability
+
+  [Long-term disability]LONG TERM DISABILITY PLAN FOR THOSE ACTIVELY AT WORK 1/1/2008 AND AFTER
+    2017
         Codes:  4H
         Participants: 
+
+  [Other]DOW RETIREMENT GROUP TRUST - TACTICAL FIXED INCOME
    [016]
-    2022: DOW RETIREMENT GROUP TRUST - TACTICAL FIXED INCOME
-        Benefit Category: Other
+    2022
         Codes:  
         Participants: 
         Assets: 172706442
@@ -573,8 +637,9 @@ MI : MIDLAND
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOV/CRED BD INDEX FD
                  : NT COLLECTIVE SHORT TERM INVT FD
-    2021: DOW RETIREMENT GROUP TRUST - TACTICAL FIXED INCOME
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - TACTICAL FIXED INCOME
+    2021
         Codes:  
         Participants: 
         Assets: 1279893253
@@ -590,8 +655,9 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
-    2020: DOW RETIREMENT GROUP TRUST - TACTICAL FIXED INCOME
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - TACTICAL FIXED INCOME
+    2020
         Codes:  
         Participants: 
         Assets: 1253471223
@@ -610,8 +676,9 @@ MI : MIDLAND
                  : NT COLLECTIVE GOVT STIF
            - TRANSAMERICA FINANCIAL LIFE INS CO
                  : BLACKROCK GOV/CR BOND INDEX FD
-    2019: DOW RETIREMENT GROUP TRUST - TACTICAL FIXED INCOME
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - TACTICAL FIXED INCOME
+    2019
         Codes:  
         Participants: 
         Assets: 1572037426
@@ -630,8 +697,9 @@ MI : MIDLAND
                  : NT COLLECTIVE GOVT STIF
            - TRANSAMERICA FINANCIAL LIFE INS CO
                  : BLACKROCK GOV/CR BOND INDEX FD
-    2018: DOW RETIREMENT GROUP TRUST - TACTICAL FIXED INCOME
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - TACTICAL FIXED INCOME
+    2018
         Codes:  
         Participants: 
         Assets: 1658111330
@@ -650,8 +718,9 @@ MI : MIDLAND
                  : NT COLLECTIVE GOVT STIF
            - TRANSAMERICA FINANCIAL LIFE INS CO
                  : BLACKROCK GOV/CR BOND INDEX FD
-    2017: DOW RETIREMENT GROUP TRUST - TACTICAL FIXED INCOME
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - TACTICAL FIXED INCOME
+    2017
         Codes:  
         Participants: 
         Assets: 1320668336
@@ -668,9 +737,10 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
+
+  [Other]DOW RETIREMENT GROUP TRUST - US LONG GOV/CRED FIXED INCOME
    [017]
-    2022: DOW RETIREMENT GROUP TRUST - US LONG GOV/CRED FIXED INCOME
-        Benefit Category: Other
+    2022
         Codes:  
         Participants: 
         Assets: 668358616
@@ -686,8 +756,9 @@ MI : MIDLAND
                  : LONG TERM GOVT CREDIT BOND INDEX NL
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE SHORT TERM INVT FD
-    2021: DOW RETIREMENT GROUP TRUST - US LONG GOV/CRED FIXED INCOME
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - US LONG GOV/CRED FIXED INCOME
+    2021
         Codes:  
         Participants: 
         Assets: 1244989184
@@ -702,8 +773,9 @@ MI : MIDLAND
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
                  : LONG TERM GOVT CREDIT BOND INDEX NL
-    2020: DOW RETIREMENT GROUP TRUST - US LONG GOV/CRED FIXED INCOME
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - US LONG GOV/CRED FIXED INCOME
+    2020
         Codes:  
         Participants: 
         Assets: 1516136535
@@ -718,8 +790,9 @@ MI : MIDLAND
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
                  : LONG TERM GOVT CREDIT BOND INDEX NL
-    2019: DOW RETIREMENT GROUP TRUST - US LONG GOV/CRED FIXED INCOME
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - US LONG GOV/CRED FIXED INCOME
+    2019
         Codes:  
         Participants: 
         Assets: 1720256139
@@ -734,8 +807,9 @@ MI : MIDLAND
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
                  : LONG TERM GOVT CREDIT BOND INDEX NL
-    2018: DOW RETIREMENT GROUP TRUST - US LONG GOV/CRED FIXED INCOME
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - US LONG GOV/CRED FIXED INCOME
+    2018
         Codes:  
         Participants: 
         Assets: 1573825501
@@ -761,8 +835,9 @@ MI : MIDLAND
                  : COMM PENSION TRUST FUND MTG PRIVATE
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
-    2017: DOW RETIREMENT GROUP TRUST - US LONG GOV/CRED FIXED INCOME
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - US LONG GOV/CRED FIXED INCOME
+    2017
         Codes:  
         Participants: 
         Assets: 1797145838
@@ -786,9 +861,10 @@ MI : MIDLAND
                  : COMM PENSION TRUST FUND MTG PRIVATE
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
+
+  [Other]DOW RETIREMENT GROUP TRUST - CONVERTIBLES
    [018]
-    2022: DOW RETIREMENT GROUP TRUST - CONVERTIBLES
-        Benefit Category: Other
+    2022
         Codes:  
         Participants: 
         Assets: 931819
@@ -798,8 +874,9 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE SHORT TERM INVT FD
-    2021: DOW RETIREMENT GROUP TRUST - CONVERTIBLES
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - CONVERTIBLES
+    2021
         Codes:  
         Participants: 
         Assets: 922087
@@ -807,8 +884,9 @@ MI : MIDLAND
         Service Providers:
            - ADVENT CAPITAL MANAGEMENT, LLC : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - MACKAY SHIELDS : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-    2020: DOW RETIREMENT GROUP TRUST - CONVERTIBLES
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - CONVERTIBLES
+    2020
         Codes:  
         Participants: 
         Assets: 214084079
@@ -816,8 +894,9 @@ MI : MIDLAND
         Service Providers:
            - ADVENT CAPITAL MANAGEMENT, LLC : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
            - MACKAY SHIELDS : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-    2019: DOW RETIREMENT GROUP TRUST - CONVERTIBLES
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - CONVERTIBLES
+    2019
         Codes:  
         Participants: 
         Assets: 299625866
@@ -826,8 +905,9 @@ MI : MIDLAND
            - ADVENT CAPITAL MANAGEMENT, LLC : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
            - OAKTREE CAPITAL MANAGEMENT, L.P. : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - MACKAY SHIELDS : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-    2018: DOW RETIREMENT GROUP TRUST - CONVERTIBLES
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - CONVERTIBLES
+    2018
         Codes:  
         Participants: 
         Assets: 252396220
@@ -838,8 +918,9 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
-    2017: DOW RETIREMENT GROUP TRUST - CONVERTIBLES
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - CONVERTIBLES
+    2017
         Codes:  
         Participants: 
         Assets: 255069880
@@ -852,9 +933,10 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
+
+  [Other]DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY
    [019]
-    2022: DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY
-        Benefit Category: Other
+    2022
         Codes:  
         Participants: 
         Assets: 189708637
@@ -868,8 +950,9 @@ MI : MIDLAND
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOV SHORT TERM INV FD
                  : NT COLLECTIVE SHORT TERM INVT FD
-    2021: DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY
+    2021
         Codes:  
         Participants: 
         Assets: 1321568891
@@ -880,8 +963,9 @@ MI : MIDLAND
            - T ROWE PRICE STABLE ASSET MGMT INC. :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan | 'Soft dollars' commissions)
            - JP MORGAN INVESTMENT MANAGEMENT INC :  (Investment advisory(plan) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue)
-    2020: DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY
+    2020
         Codes:  
         Participants: 
         Assets: 1301848560
@@ -891,8 +975,9 @@ MI : MIDLAND
            - T ROWE PRICE STABLE ASSET MGMT INC. :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan | 'Soft dollars' commissions)
            - JP MORGAN INVESTMENT MANAGEMENT INC :  (Investment advisory(plan) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue)
-    2019: DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY
+    2019
         Codes:  
         Participants: 
         Assets: 1336276800
@@ -905,8 +990,9 @@ MI : MIDLAND
         Available Investments:
            - JPMORGAN CHASE BANK, N.A.
                  : US ACTIVE CORE PLUS EQUITY OF JPM
-    2018: DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY
+    2018
         Codes:  
         Participants: 
         Assets: 1196777958
@@ -922,8 +1008,9 @@ MI : MIDLAND
                  : US ACTIVE CORE PLUS EQUITY OF JPM
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLL DLY GOVT STIF
-    2017: DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY
+    2017
         Codes:  
         Participants: 
         Assets: 1492259070
@@ -939,9 +1026,10 @@ MI : MIDLAND
                  : US ACTIVE CORE PLUS EQUITY OF JPM
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLL DLY GOVT STIF
+
+  [Other]DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY (PASSIVE)
    [020]
-    2022: DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY (PASSIVE)
-        Benefit Category: Other
+    2022
         Codes:  
         Participants: 
         Assets: 827290958
@@ -952,8 +1040,9 @@ MI : MIDLAND
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLL S&P 500 INDEX FUND NL
                  : NT COLLECTIVE SHORT TERM INVT FD
-    2021: DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY (PASSIVE)
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY (PASSIVE)
+    2021
         Codes:  
         Participants: 
         Assets: 850119161
@@ -964,8 +1053,9 @@ MI : MIDLAND
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLL S&P 500 INDEX FUND NL
                  : NT COLL S&P 500 INDEX FUND-LENDING
-    2020: DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY (PASSIVE)
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY (PASSIVE)
+    2020
         Codes:  
         Participants: 
         Assets: 807687335
@@ -975,8 +1065,9 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLL S&P 500 INDEX FUND-LENDING
-    2019: DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY (PASSIVE)
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY (PASSIVE)
+    2019
         Codes:  
         Participants: 
         Assets: 813227986
@@ -987,8 +1078,9 @@ MI : MIDLAND
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLL S&P 500 INDEX FUND-LENDING
                  : NT COLLECTIVE RUSSELL 1000 GROWTH
-    2018: DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY (PASSIVE)
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY (PASSIVE)
+    2018
         Codes:  
         Participants: 
         Assets: 664990648
@@ -1001,8 +1093,9 @@ MI : MIDLAND
                  : NT COLLECTIVE RUSSELL 1000 GROWTH
                  : NT COLLECTIVE RUSSELL 1000 VALUE
                  : NT COLLLECTIVE GOVT STIF
-    2017: DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY (PASSIVE)
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - US LARGE CAP EQUITY (PASSIVE)
+    2017
         Codes:  
         Participants: 
         Assets: 259559360
@@ -1013,9 +1106,10 @@ MI : MIDLAND
                  : NT COLLECTIVE RUSSELL 1000 GROWTH
                  : NT COLLECTIVE RUSSELL 1000 VALUE
                  : NT COLLLECTIVE GOVT STIF
+
+  [Other]DOW RETIREMENT GROUP TRUST - US SM/MID CAP EQUITY
    [021]
-    2022: DOW RETIREMENT GROUP TRUST - US SM/MID CAP EQUITY
-        Benefit Category: Other
+    2022
         Codes:  
         Participants: 
         Assets: 99706
@@ -1026,8 +1120,9 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE SHORT TERM INVT FD
-    2021: DOW RETIREMENT GROUP TRUST - US SM/MID CAP EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - US SM/MID CAP EQUITY
+    2021
         Codes:  
         Participants: 
         Assets: 412776675
@@ -1037,8 +1132,9 @@ MI : MIDLAND
            - WELLINGTON MANAGEMENT : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | 'Soft dollars' commissions)
            - JP MORGAN INVESTMENT MANAGEMENT INC : NONE KNOWN (Investment advisory(plan) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - NORTHERN TRUST COMPANY : CUSTODIAN (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue)
-    2020: DOW RETIREMENT GROUP TRUST - US SM/MID CAP EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - US SM/MID CAP EQUITY
+    2020
         Codes:  
         Participants: 
         Assets: 484590444
@@ -1052,8 +1148,9 @@ MI : MIDLAND
         Available Investments:
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CIF BIOTECHNOLOGY PORTFOLIO
-    2019: DOW RETIREMENT GROUP TRUST - US SM/MID CAP EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - US SM/MID CAP EQUITY
+    2019
         Codes:  
         Participants: 
         Assets: 631309334
@@ -1068,8 +1165,9 @@ MI : MIDLAND
         Available Investments:
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CIF BIOTECHNOLOGY PORTFOLIO
-    2018: DOW RETIREMENT GROUP TRUST - US SM/MID CAP EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - US SM/MID CAP EQUITY
+    2018
         Codes:  
         Participants: 
         Assets: 582038407
@@ -1086,8 +1184,9 @@ MI : MIDLAND
                  : NT COLLECTIVE GOVT STIF
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CIF BIOTECHNOLOGY PORTFOLIO
-    2017: DOW RETIREMENT GROUP TRUST - US SM/MID CAP EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - US SM/MID CAP EQUITY
+    2017
         Codes:  
         Participants: 
         Assets: 743262814
@@ -1105,9 +1204,10 @@ MI : MIDLAND
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CIF BIOTECHNOLOGY PORTFOLIO
                  : WTC-CIF REAL ESTATE SECURITIES PORT
+
+  [Other]DOW RETIREMENT GROUP TRUST - US SM/MID CAP EQUITY (PASSIVE)
    [022]
-    2022: DOW RETIREMENT GROUP TRUST - US SM/MID CAP EQUITY (PASSIVE)
-        Benefit Category: Other
+    2022
         Codes:  
         Participants: 
         Assets: 15
@@ -1115,21 +1215,24 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE SHORT TERM INVT FD
-    2021: DOW RETIREMENT GROUP TRUST - US SM/MID CAP EQUITY (PASSIVE)
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - US SM/MID CAP EQUITY (PASSIVE)
+    2021
         Codes:  
         Participants: 
         Assets: 15
         $/Participant: 
-    2020: DOW RETIREMENT GROUP TRUST - US SM/MID CAP EQUITY (PASSIVE)
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - US SM/MID CAP EQUITY (PASSIVE)
+    2020
         Codes:  
         Participants: 
         Assets: 100634996
         $/Participant: 
+
+  [Other]DOW RETIREMENT GROUP TRUST - INTERNATIONAL DEVELOPED EQUITY
    [023]
-    2022: DOW RETIREMENT GROUP TRUST - INTERNATIONAL DEVELOPED EQUITY
-        Benefit Category: Other
+    2022
         Codes:  
         Participants: 
         Assets: 915255129
@@ -1148,8 +1251,9 @@ MI : MIDLAND
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE EAFE INDEX FUND NL
                  : NT COLLECTIVE SHORT TERM INVT FD
-    2021: DOW RETIREMENT GROUP TRUST - INTERNATIONAL DEVELOPED EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - INTERNATIONAL DEVELOPED EQUITY
+    2021
         Codes:  
         Participants: 
         Assets: 1881132782
@@ -1167,8 +1271,9 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE EAFE INDEX FUND NL
-    2020: DOW RETIREMENT GROUP TRUST - INTERNATIONAL DEVELOPED EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - INTERNATIONAL DEVELOPED EQUITY
+    2020
         Codes:  
         Participants: 
         Assets: 2032627823
@@ -1186,8 +1291,9 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE EAFE INDEX FUND NL
-    2019: DOW RETIREMENT GROUP TRUST - INTERNATIONAL DEVELOPED EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - INTERNATIONAL DEVELOPED EQUITY
+    2019
         Codes:  
         Participants: 
         Assets: 1479570035
@@ -1206,8 +1312,9 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE EAFE INDEX FUND NL
-    2018: DOW RETIREMENT GROUP TRUST - INTERNATIONAL DEVELOPED EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - INTERNATIONAL DEVELOPED EQUITY
+    2018
         Codes:  
         Participants: 
         Assets: 1370026012
@@ -1228,8 +1335,9 @@ MI : MIDLAND
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE EAFE INDEX FUND NL
                  : NT COLLECTIVE GOVT STIF
-    2017: DOW RETIREMENT GROUP TRUST - INTERNATIONAL DEVELOPED EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - INTERNATIONAL DEVELOPED EQUITY
+    2017
         Codes:  
         Participants: 
         Assets: 1796025001
@@ -1249,9 +1357,10 @@ MI : MIDLAND
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE EAFE INDEX FUND NL
                  : NT COLLECTIVE GOVT STIF
+
+  [Other]DOW RETIREMENT GROUP TRUST - GLOBAL EQUITY
    [024]
-    2022: DOW RETIREMENT GROUP TRUST - GLOBAL EQUITY
-        Benefit Category: Other
+    2022
         Codes:  
         Participants: 
         Assets: 544646163
@@ -1266,8 +1375,9 @@ MI : MIDLAND
                  : BLACKROCK MSCI WORLD INDEX FUND
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE SHORT TERM INVT FD
-    2021: DOW RETIREMENT GROUP TRUST - GLOBAL EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - GLOBAL EQUITY
+    2021
         Codes:  
         Participants: 
         Assets: 993523916
@@ -1280,8 +1390,9 @@ MI : MIDLAND
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, NA
                  : BLACKROCK MSCI WORLD INDEX FUND
-    2020: DOW RETIREMENT GROUP TRUST - GLOBAL EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - GLOBAL EQUITY
+    2020
         Codes:  
         Participants: 
         Assets: 933770380
@@ -1294,8 +1405,9 @@ MI : MIDLAND
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, NA
                  : BLACKROCK MSCI WORLD INDEX FUND
-    2019: DOW RETIREMENT GROUP TRUST - GLOBAL EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - GLOBAL EQUITY
+    2019
         Codes:  
         Participants: 
         Assets: 830866638
@@ -1308,8 +1420,9 @@ MI : MIDLAND
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, NA
                  : BLACKROCK MSCI WORLD INDEX FUND
-    2018: DOW RETIREMENT GROUP TRUST - GLOBAL EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - GLOBAL EQUITY
+    2018
         Codes:  
         Participants: 
         Assets: 709189808
@@ -1325,8 +1438,9 @@ MI : MIDLAND
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, NA
                  : BLACKROCK MSCI WORLD INDEX FUND
                  : NT COLLECTIVE GOVT STIF
-    2017: DOW RETIREMENT GROUP TRUST - GLOBAL EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - GLOBAL EQUITY
+    2017
         Codes:  
         Participants: 
         Assets: 957898539
@@ -1343,9 +1457,10 @@ MI : MIDLAND
                  : BLACKROCK MSCI WORLD INDEX FUND
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
+
+  [Other]DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY
    [025]
-    2022: DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY
-        Benefit Category: Other
+    2022
         Codes:  
         Participants: 
         Assets: 256030640
@@ -1364,8 +1479,9 @@ MI : MIDLAND
                  : NT COLLECTIVE SHORT TERM INVT FD
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CTF EMERGING MARKETS RESEARCH
-    2021: DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY
+    2021
         Codes:  
         Participants: 
         Assets: 670004835
@@ -1382,8 +1498,9 @@ MI : MIDLAND
                  : JPMCB GLOBAL EMER MKTS DIS FND
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CTF EMERGING MARKETS RESEARCH
-    2020: DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY
+    2020
         Codes:  
         Participants: 
         Assets: 847467644
@@ -1400,8 +1517,9 @@ MI : MIDLAND
                  : JPMCB GLOBAL EMER MKTS DIS FND
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CTF EMERGING MARKETS RESEARCH
-    2019: DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY
+    2019
         Codes:  
         Participants: 
         Assets: 841756463
@@ -1419,8 +1537,9 @@ MI : MIDLAND
                  : JPMCB GLOBAL EMER MKTS DIS FND
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CTF EMERGING MARKETS RESEARCH
-    2018: DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY
+    2018
         Codes:  
         Participants: 
         Assets: 773691766
@@ -1436,8 +1555,9 @@ MI : MIDLAND
                  : MONDRIAN EMERGING MARKETS EQUITY LP
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
-    2017: DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY
+    2017
         Codes:  
         Participants: 
         Assets: 1091145870
@@ -1452,9 +1572,10 @@ MI : MIDLAND
                  : MONDRIAN EMERGING MARKETS EQUITY LP
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
+
+  [Other]DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY (PASSIVE)
    [026]
-    2022: DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY (PASSIVE)
-        Benefit Category: Other
+    2022
         Codes:  
         Participants: 
         Assets: 163168351
@@ -1466,8 +1587,9 @@ MI : MIDLAND
                  : NT COLLECTIVE SHORT TERM INVT FD
            - NORTHERN TRUST INVESTMENTS, INC
                  : NT COLL EMER MRKTS INDX FD NON-LEND
-    2021: DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY (PASSIVE)
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY (PASSIVE)
+    2021
         Codes:  
         Participants: 
         Assets: 77831812
@@ -1477,16 +1599,18 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC
                  : NT COLL EMER MRKTS INDX FD NON-LEND
-    2020: DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY (PASSIVE)
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY (PASSIVE)
+    2020
         Codes:  
         Participants: 
         Assets: 1
         $/Participant: 
         Service Providers:
            - THE NORTHERN TRUST COMPANY : NONE KNOWN (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue)
-    2019: DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY (PASSIVE)
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY (PASSIVE)
+    2019
         Codes:  
         Participants: 
         Assets: -611
@@ -1496,8 +1620,9 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLL EMER MRKTS INDX FD NON-LEND
-    2018: DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY (PASSIVE)
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY (PASSIVE)
+    2018
         Codes:  
         Participants: 
         Assets: 12155260
@@ -1505,13 +1630,15 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLL EMER MRKTS INDX FD NON-LEND
-    2017: DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY (PASSIVE)
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - EMERGING MARKET EQUITY (PASSIVE)
+    2017
         Codes:  
         Participants: 
+
+  [Other]DOW RETIREMENT GROUP TRUST - ABSOLUTE RETURN
    [027]
-    2022: DOW RETIREMENT GROUP TRUST - ABSOLUTE RETURN
-        Benefit Category: Other
+    2022
         Codes:  
         Participants: 
         Assets: 900165151
@@ -1527,8 +1654,9 @@ MI : MIDLAND
                  : SS LONG US GOVT BOND INDEX NL FUND
                  : SS MSCI EMERGING MKTS NL CTF
                  : SS MSCI WORLD INDEX NL COMMON TRUST
-    2021: DOW RETIREMENT GROUP TRUST - ABSOLUTE RETURN
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - ABSOLUTE RETURN
+    2021
         Codes:  
         Participants: 
         Assets: 1255098347
@@ -1542,8 +1670,9 @@ MI : MIDLAND
                  : SS LONG US GOVT BOND INDEX NL FUND
                  : SS MSCI EMERGING MKTS NL CTF
                  : SS MSCI WORLD INDEX NL COMMON TRUST
-    2020: DOW RETIREMENT GROUP TRUST - ABSOLUTE RETURN
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - ABSOLUTE RETURN
+    2020
         Codes:  
         Participants: 
         Assets: 1304277368
@@ -1557,8 +1686,9 @@ MI : MIDLAND
                  : SS LONG US GOVT BOND INDEX NL FUND
                  : SS MSCI EMERGING MKTS NL CTF
                  : SS MSCI WORLD INDEX NL COMMON TRUST
-    2019: DOW RETIREMENT GROUP TRUST - ABSOLUTE RETURN
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - ABSOLUTE RETURN
+    2019
         Codes:  
         Participants: 
         Assets: 1416530474
@@ -1572,8 +1702,9 @@ MI : MIDLAND
                  : SS LONG US GOVT BOND INDEX NL FUND
                  : SS MSCI EMERGING MKTS NL CTF
                  : SS MSCI WORLD INDEX NL COMMON TRUST
-    2018: DOW RETIREMENT GROUP TRUST - ABSOLUTE RETURN
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - ABSOLUTE RETURN
+    2018
         Codes:  
         Participants: 
         Assets: 1350982471
@@ -1589,8 +1720,9 @@ MI : MIDLAND
                  : SS LONG US GOVT BOND INDEX NL FUND
                  : SS MSCI EMERGING MKTS NL CTF
                  : SS MSCI WORLD INDEX NL COMMON TRUST
-    2017: DOW RETIREMENT GROUP TRUST - ABSOLUTE RETURN
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - ABSOLUTE RETURN
+    2017
         Codes:  
         Participants: 
         Assets: 1119025568
@@ -1607,9 +1739,10 @@ MI : MIDLAND
                  : SS LONG US GOVT BOND INDEX NL FUND
                  : SS MSCI EMERGING MKTS NL CTF
                  : SS MSCI WORLD INDEX NL COMMON TRUST
+
+  [Other]DOW RETIREMENT GROUP TRUST - OPPORTUNISTIC FI
    [028]
-    2022: DOW RETIREMENT GROUP TRUST - OPPORTUNISTIC FI
-        Benefit Category: Other
+    2022
         Codes:  
         Participants: 
         Assets: 1203649159
@@ -1617,26 +1750,30 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE SHORT TERM INVT FD
-    2021: DOW RETIREMENT GROUP TRUST - OPPORTUNISTIC FI
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - OPPORTUNISTIC FI
+    2021
         Codes:  
         Participants: 
         Assets: 1102960393
         $/Participant: 
-    2020: DOW RETIREMENT GROUP TRUST - OPPORTUNISTIC FI
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - OPPORTUNISTIC FI
+    2020
         Codes:  
         Participants: 
         Assets: 1032748583
         $/Participant: 
-    2019: DOW RETIREMENT GROUP TRUST - OPPORTUNISTIC FI
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - OPPORTUNISTIC FI
+    2019
         Codes:  
         Participants: 
         Assets: 936476363
         $/Participant: 
-    2018: DOW RETIREMENT GROUP TRUST - OPPORTUNISTIC FI
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - OPPORTUNISTIC FI
+    2018
         Codes:  
         Participants: 
         Assets: 843408701
@@ -1644,8 +1781,9 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
-    2017: DOW RETIREMENT GROUP TRUST - OPPORTUNISTIC FI
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - OPPORTUNISTIC FI
+    2017
         Codes:  
         Participants: 
         Assets: 664899818
@@ -1653,9 +1791,10 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
+
+  [Other]DOW RETIREMENT GROUP TRUST - LEGACY RH INFRASTRUCTURE
    [029]
-    2022: DOW RETIREMENT GROUP TRUST - LEGACY RH INFRASTRUCTURE
-        Benefit Category: Other
+    2022
         Codes:  
         Participants: 
         Assets: 7539823
@@ -1663,26 +1802,30 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE SHORT TERM INVT FD
-    2021: DOW RETIREMENT GROUP TRUST - LEGACY RH INFRASTRUCTURE
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - LEGACY RH INFRASTRUCTURE
+    2021
         Codes:  
         Participants: 
         Assets: 8707944
         $/Participant: 
-    2020: DOW RETIREMENT GROUP TRUST - LEGACY RH INFRASTRUCTURE
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - LEGACY RH INFRASTRUCTURE
+    2020
         Codes:  
         Participants: 
         Assets: 16793188
         $/Participant: 
-    2019: DOW RETIREMENT GROUP TRUST - LEGACY RH INFRASTRUCTURE
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - LEGACY RH INFRASTRUCTURE
+    2019
         Codes:  
         Participants: 
         Assets: 27351311
         $/Participant: 
-    2018: DOW RETIREMENT GROUP TRUST - LEGACY RH INFRASTRUCTURE
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - LEGACY RH INFRASTRUCTURE
+    2018
         Codes:  
         Participants: 
         Assets: 56915285
@@ -1690,8 +1833,9 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
-    2017: DOW RETIREMENT GROUP TRUST - LEGACY RH INFRASTRUCTURE
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - LEGACY RH INFRASTRUCTURE
+    2017
         Codes:  
         Participants: 
         Assets: 64052856
@@ -1699,9 +1843,10 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
+
+  [Other]DOW RETIREMENT GROUP TRUST - REAL ESTATE CORE OE FUNDS
    [030]
-    2022: DOW RETIREMENT GROUP TRUST - REAL ESTATE CORE OE FUNDS
-        Benefit Category: Other
+    2022
         Codes:  
         Participants: 
         Assets: 654804842
@@ -1709,26 +1854,30 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE SHORT TERM INVT FD
-    2021: DOW RETIREMENT GROUP TRUST - REAL ESTATE CORE OE FUNDS
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - REAL ESTATE CORE OE FUNDS
+    2021
         Codes:  
         Participants: 
         Assets: 528421896
         $/Participant: 
-    2020: DOW RETIREMENT GROUP TRUST - REAL ESTATE CORE OE FUNDS
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - REAL ESTATE CORE OE FUNDS
+    2020
         Codes:  
         Participants: 
         Assets: 439015035
         $/Participant: 
-    2019: DOW RETIREMENT GROUP TRUST - REAL ESTATE CORE OE FUNDS
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - REAL ESTATE CORE OE FUNDS
+    2019
         Codes:  
         Participants: 
         Assets: 521895129
         $/Participant: 
-    2018: DOW RETIREMENT GROUP TRUST - REAL ESTATE CORE OE FUNDS
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - REAL ESTATE CORE OE FUNDS
+    2018
         Codes:  
         Participants: 
         Assets: 464723603
@@ -1736,8 +1885,9 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
-    2017: DOW RETIREMENT GROUP TRUST - REAL ESTATE CORE OE FUNDS
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - REAL ESTATE CORE OE FUNDS
+    2017
         Codes:  
         Participants: 
         Assets: 774313848
@@ -1747,9 +1897,10 @@ MI : MIDLAND
                  : NT COLLECTIVE GOVT STIF
            - PRUDENTIAL INSURANCE CO.
                  : PRISA
+
+  [Other]DOW RETIREMENT GROUP TRUST - REAL ESTATE NON-CORE OE FUNDS
    [031]
-    2022: DOW RETIREMENT GROUP TRUST - REAL ESTATE NON-CORE OE FUNDS
-        Benefit Category: Other
+    2022
         Codes:  
         Participants: 
         Assets: 62621284
@@ -1759,8 +1910,9 @@ MI : MIDLAND
                  : NT COLLECTIVE SHORT TERM INVT FD
            - PRUDENTIAL INSURANCE COMPANY OF AMERICA
                  : PRISA II ACCOUNT
-    2021: DOW RETIREMENT GROUP TRUST - REAL ESTATE NON-CORE OE FUNDS
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - REAL ESTATE NON-CORE OE FUNDS
+    2021
         Codes:  
         Participants: 
         Assets: 56489802
@@ -1768,8 +1920,9 @@ MI : MIDLAND
         Available Investments:
            - PRUDENTIAL INSURANCE COMPANY OF AMERICA
                  : PRISA II ACCOUNT
-    2020: DOW RETIREMENT GROUP TRUST - REAL ESTATE NON-CORE OE FUNDS
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - REAL ESTATE NON-CORE OE FUNDS
+    2020
         Codes:  
         Participants: 
         Assets: 105010238
@@ -1777,8 +1930,9 @@ MI : MIDLAND
         Available Investments:
            - PRUDENTIAL INSURANCE COMPANY OF AMERICA
                  : PRISA II ACCOUNT
-    2019: DOW RETIREMENT GROUP TRUST - REAL ESTATE NON-CORE OE FUNDS
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - REAL ESTATE NON-CORE OE FUNDS
+    2019
         Codes:  
         Participants: 
         Assets: 109831411
@@ -1786,8 +1940,9 @@ MI : MIDLAND
         Available Investments:
            - PRUDENTIAL INSURANCE COMPANY OF AMERICA
                  : PRISA II ACCOUNT
-    2018: DOW RETIREMENT GROUP TRUST - REAL ESTATE NON-CORE OE FUNDS
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - REAL ESTATE NON-CORE OE FUNDS
+    2018
         Codes:  
         Participants: 
         Assets: 108464341
@@ -1797,8 +1952,9 @@ MI : MIDLAND
                  : NT COLLECTIVE GOVT STIF
            - PRUDENTIAL INSURANCE COMPANY OF AMERICA
                  : PRISA II ACCOUNT
-    2017: DOW RETIREMENT GROUP TRUST - REAL ESTATE NON-CORE OE FUNDS
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - REAL ESTATE NON-CORE OE FUNDS
+    2017
         Codes:  
         Participants: 
         Assets: 103360991
@@ -1808,9 +1964,10 @@ MI : MIDLAND
                  : NT COLLECTIVE GOVT STIF
            - PRUDENTIAL INSURANCE COMPANY OF AMERICA
                  : PRISA II ACCOUNT
+
+  [Other]DOW RETIREMENT GROUP TRUST - REAL ESTATE REIT
    [032]
-    2022: DOW RETIREMENT GROUP TRUST - REAL ESTATE REIT
-        Benefit Category: Other
+    2022
         Codes:  
         Participants: 
         Assets: 1293
@@ -1820,8 +1977,9 @@ MI : MIDLAND
                  : NT COLLECTIVE SHORT TERM INVT FD
            - SEI TRUST COMPANY
                  : COHEN & STEERS COLLECTIVE INVT FD
-    2021: DOW RETIREMENT GROUP TRUST - REAL ESTATE REIT
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - REAL ESTATE REIT
+    2021
         Codes:  
         Participants: 
         Assets: 39367147
@@ -1831,14 +1989,16 @@ MI : MIDLAND
         Available Investments:
            - SEI TRUST COMPANY
                  : COHEN & STEERS CIT
-    2020: DOW RETIREMENT GROUP TRUST - REAL ESTATE REIT
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - REAL ESTATE REIT
+    2020
         Codes:  
         Participants: 
         Assets: 5058
         $/Participant: 
-    2019: DOW RETIREMENT GROUP TRUST - REAL ESTATE REIT
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - REAL ESTATE REIT
+    2019
         Codes:  
         Participants: 
         Assets: 4243
@@ -1846,8 +2006,9 @@ MI : MIDLAND
         Service Providers:
            - LDR CAPITAL MANAGEMENT, LLC : NONE KNOWN (Investment advisory(plan) | Direct payment from the plan | Investment management fees paid directly by plan)
            - THE NORTHERN TRUST COMPANY : CUSTODIAN (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue)
-    2018: DOW RETIREMENT GROUP TRUST - REAL ESTATE REIT
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - REAL ESTATE REIT
+    2018
         Codes:  
         Participants: 
         Assets: 54610007
@@ -1858,8 +2019,9 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
-    2017: DOW RETIREMENT GROUP TRUST - REAL ESTATE REIT
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - REAL ESTATE REIT
+    2017
         Codes:  
         Participants: 
         Assets: 58351486
@@ -1871,9 +2033,10 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
+
+  [Other]DOW RETIREMENT GROUP TRUST - CASH AND SECURITIES LENDING
    [036]
-    2022: DOW RETIREMENT GROUP TRUST - CASH AND SECURITIES LENDING
-        Benefit Category: Other
+    2022
         Codes:  
         Participants: 
         Assets: 10335
@@ -1883,8 +2046,9 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE SHORT TERM INVT FD
-    2021: DOW RETIREMENT GROUP TRUST - CASH AND SECURITIES LENDING
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - CASH AND SECURITIES LENDING
+    2021
         Codes:  
         Participants: 
         Assets: 25344103
@@ -1895,8 +2059,9 @@ MI : MIDLAND
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
                  : NT COLLECTIVE STIF
-    2020: DOW RETIREMENT GROUP TRUST - CASH AND SECURITIES LENDING
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - CASH AND SECURITIES LENDING
+    2020
         Codes:  
         Participants: 
         Assets: 19123971
@@ -1906,8 +2071,9 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
-    2019: DOW RETIREMENT GROUP TRUST - CASH AND SECURITIES LENDING
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - CASH AND SECURITIES LENDING
+    2019
         Codes:  
         Participants: 
         Assets: 81879124
@@ -1917,8 +2083,9 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
-    2018: DOW RETIREMENT GROUP TRUST - CASH AND SECURITIES LENDING
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - CASH AND SECURITIES LENDING
+    2018
         Codes:  
         Participants: 
         Assets: 92575938
@@ -1928,8 +2095,9 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
-    2017: DOW RETIREMENT GROUP TRUST - CASH AND SECURITIES LENDING
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST - CASH AND SECURITIES LENDING
+    2017
         Codes:  
         Participants: 
         Assets: 107769127
@@ -1945,9 +2113,10 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
+
+  [Other]DOW RETIREMENT GROUP TRUST- INFRASTRUCTURE & REAL ASSETS PUBLIC
    [037]
-    2022: DOW RETIREMENT GROUP TRUST- INFRASTRUCTURE & REAL ASSETS PUBLIC
-        Benefit Category: Other
+    2022
         Codes:  
         Participants: 
         Assets: 94
@@ -1957,28 +2126,32 @@ MI : MIDLAND
                  : NT COLLECTIVE SHORT TERM INVT FD
            - SEI TRUST COMPANY
                  : COHEN & STEERS COLLECTIVE INVT FD
-    2021: DOW RETIREMENT GROUP TRUST- INFRASTRUCTURE & REAL ASSETS PUBLIC
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST- INFRASTRUCTURE & REAL ASSETS PUBLIC
+    2021
         Codes:  
         Participants: 
         Assets: 724
         $/Participant: 
-    2020: DOW RETIREMENT GROUP TRUST- INFRASTRUCTURE & REAL ASSETS PUBLIC
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST- INFRASTRUCTURE & REAL ASSETS PUBLIC
+    2020
         Codes:  
         Participants: 
         Assets: 781
         $/Participant: 
-    2019: DOW RETIREMENT GROUP TRUST- INFRASTRUCTURE & REAL ASSETS PUBLIC
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST- INFRASTRUCTURE & REAL ASSETS PUBLIC
+    2019
         Codes:  
         Participants: 
         Assets: 725
         $/Participant: 
         Service Providers:
            - CHICKASAW CAPITAL MANAGEMENT : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-    2018: DOW RETIREMENT GROUP TRUST- INFRASTRUCTURE & REAL ASSETS PUBLIC
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST- INFRASTRUCTURE & REAL ASSETS PUBLIC
+    2018
         Codes:  
         Participants: 
         Assets: 15134125
@@ -1988,8 +2161,9 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
-    2017: DOW RETIREMENT GROUP TRUST- INFRASTRUCTURE & REAL ASSETS PUBLIC
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST- INFRASTRUCTURE & REAL ASSETS PUBLIC
+    2017
         Codes:  
         Participants: 
         Assets: 27806358
@@ -1999,9 +2173,10 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVT STIF
+
+  [Other]DOW RETIREMENT GROUP TRUST-REINSURANCE
    [038]
-    2022: DOW RETIREMENT GROUP TRUST-REINSURANCE
-        Benefit Category: Other
+    2022
         Codes:  
         Participants: 
         Assets: 128669134
@@ -2009,39 +2184,45 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE SHORT TERM INVT FD
-    2021: DOW RETIREMENT GROUP TRUST-REINSURANCE
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST-REINSURANCE
+    2021
         Codes:  
         Participants: 
         Assets: 237314949
         $/Participant: 
-    2020: DOW RETIREMENT GROUP TRUST-REINSURANCE
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST-REINSURANCE
+    2020
         Codes:  
         Participants: 
         Assets: 397220247
         $/Participant: 
-    2019: DOW RETIREMENT GROUP TRUST-REINSURANCE
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST-REINSURANCE
+    2019
         Codes:  
         Participants: 
         Assets: 506024873
         $/Participant: 
-    2018: DOW RETIREMENT GROUP TRUST-REINSURANCE
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST-REINSURANCE
+    2018
         Codes:  
         Participants: 
         Assets: 433072051
         $/Participant: 
-    2017: DOW RETIREMENT GROUP TRUST-REINSURANCE
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST-REINSURANCE
+    2017
         Codes:  
         Participants: 
         Assets: 375985243
         $/Participant: 
+
+  [Other]DOW RETIREMENT GROUP TRUST-INTERNATIONAL SMALL CAP
    [039]
-    2022: DOW RETIREMENT GROUP TRUST-INTERNATIONAL SMALL CAP
-        Benefit Category: Other
+    2022
         Codes:  
         Participants: 
         Assets: 2060794
@@ -2053,8 +2234,9 @@ MI : MIDLAND
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE SHORT TERM INVT FD
-    2021: DOW RETIREMENT GROUP TRUST-INTERNATIONAL SMALL CAP
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST-INTERNATIONAL SMALL CAP
+    2021
         Codes:  
         Participants: 
         Assets: 125020636
@@ -2064,8 +2246,9 @@ MI : MIDLAND
            - PRICEWATERHOUSECOOPERS MGMT CONS : NONE KNOWN (Actuarial | Direct payment from the plan)
            - HENRY JAMES INTERNATIONAL MGMT : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - THE NORTHERN TRUST COMPANY : NONE KNOWN (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue)
-    2020: DOW RETIREMENT GROUP TRUST-INTERNATIONAL SMALL CAP
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST-INTERNATIONAL SMALL CAP
+    2020
         Codes:  
         Participants: 
         Assets: 65697260
@@ -2073,8 +2256,9 @@ MI : MIDLAND
         Service Providers:
            - ACADIAN ASSET MANAGEMENT, LLC : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - THE NORTHERN TRUST COMPANY : NONE KNOWN (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue)
-    2019: DOW RETIREMENT GROUP TRUST-INTERNATIONAL SMALL CAP
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST-INTERNATIONAL SMALL CAP
+    2019
         Codes:  
         Participants: 
         Assets: 151269476
@@ -2082,46 +2266,55 @@ MI : MIDLAND
         Service Providers:
            - ACADIAN ASSET MANAGEMENT, LLC : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - THE NORTHERN TRUST COMPANY : NONE KNOWN (Direct payment from the plan | Float revenue | Trustee(bank, trust company, or similar))
-    2018: DOW RETIREMENT GROUP TRUST-INTERNATIONAL SMALL CAP
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST-INTERNATIONAL SMALL CAP
+    2018
         Codes:  
         Participants: 
         Assets: 125225868
         $/Participant: 
-    2017: DOW RETIREMENT GROUP TRUST-INTERNATIONAL SMALL CAP
-        Benefit Category: Other
+
+  [Other]DOW RETIREMENT GROUP TRUST-INTERNATIONAL SMALL CAP
+    2017
         Codes:  
         Participants: 
         Assets: 163287935
         $/Participant: 
+
+  [Other]GROUP LEGAL PLAN
    [542]
-    2022: GROUP LEGAL PLAN
-        Benefit Category: Other
+    2022
         Codes:  4G
         Participants: 
-    2021: GROUP LEGAL PLAN
-        Benefit Category: Other
+
+  [Other]GROUP LEGAL PLAN
+    2021
         Codes:  4G
         Participants: 
-    2020: GROUP LEGAL PLAN
-        Benefit Category: Other
+
+  [Other]GROUP LEGAL PLAN
+    2020
         Codes:  4G
         Participants: 
-    2019: GROUP LEGAL PLAN
-        Benefit Category: Other
+
+  [Other]GROUP LEGAL PLAN
+    2019
         Codes:  4G
         Participants: 
-    2018: GROUP LEGAL PLAN
-        Benefit Category: Other
+
+  [Other]GROUP LEGAL PLAN
+    2018
         Codes:  4G
         Participants: 
-    2017: GROUP LEGAL PLAN
-        Benefit Category: Other
+
+  [Other]GROUP LEGAL PLAN
+    2017
         Codes:  4G
         Participants: 
+
+  [Other]THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE MASTER TRUST
    [555]
-    2022: THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE MASTER TRUST
-        Benefit Category: Other
+    2022
         Codes:  
         Participants: 
         Assets: 318717287
@@ -2130,8 +2323,9 @@ MI : MIDLAND
            - NORTHERN TRUST GLOBAL INVESTMENTS
                  : NT COMMON AGGREGATE BD INDX FN NL
                  : NT COMMON US IMI INDEX FUND NL
-    2021: THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE MASTER TRUST
-        Benefit Category: Other
+
+  [Other]THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE MASTER TRUST
+    2021
         Codes:  
         Participants: 
         Assets: 394719108
@@ -2140,8 +2334,9 @@ MI : MIDLAND
            - NORTHERN TRUST GLOBAL INVESTMENTS
                  : NT COMMON AGGREGATE BD INDX FN NL
                  : NT COMMON US IMI INDEX FUND NL
-    2020: THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE MASTER TRUST
-        Benefit Category: Other
+
+  [Other]THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE MASTER TRUST
+    2020
         Codes:  
         Participants: 
         Assets: 354326075
@@ -2150,8 +2345,9 @@ MI : MIDLAND
            - NORTHERN TRUST GLOBAL INVESTMENTS
                  : NT COMMON AGGREGATE BD INDX FN NL
                  : NT COMMON US IMI INDEX FUND NL
-    2019: THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE MASTER TRUST
-        Benefit Category: Other
+
+  [Other]THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE MASTER TRUST
+    2019
         Codes:  
         Participants: 
         Assets: 307921156
@@ -2160,8 +2356,9 @@ MI : MIDLAND
            - NORTHERN TRUST GLOBAL INVESTMENTS
                  : NT COMMON AGGREGATE BD INDX FN NL
                  : NT COMMON US IMI INDEX FUND NL
-    2017: THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE MASTER TRUST
-        Benefit Category: Other
+
+  [Other]THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE MASTER TRUST
+    2017
         Codes:  
         Participants: 
         Assets: 267604507
@@ -2170,9 +2367,10 @@ MI : MIDLAND
            - NORTHERN TRUST GLOBAL INVESTMENTS
                  : NT COMMON AGGREGATE BD INDX FN NL
                  : NT COMMON US IMI INDEX FUND NL
+
+  [Pension]DOW EMPLOYEES' PENSION PLAN
    [001]
-    2022: DOW EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
+    2022
         Codes: 1A1B1C1E3F3H 
         Participants: 47861
         Assets: 13018181682
@@ -2228,8 +2426,9 @@ MI : MIDLAND
                  : DRGT US LCE(PASSIVE)
                  : DRGT US LONG GOV/CREDIT FI
                  : DRGT US SM/MID CAP EQUITY
-    2021: DOW EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
+
+  [Pension]DOW EMPLOYEES' PENSION PLAN
+    2021
         Codes: 1A1B1C1E3F3H 
         Participants: 52535
         Assets: 16537316142
@@ -2259,8 +2458,9 @@ MI : MIDLAND
                  : DRGT US LCE(PASSIVE)
                  : DRGT US LONG GOV/CREDIT FI
                  : DRGT US SM/MID CAP EQUITY
-    2020: DOW EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
+
+  [Pension]DOW EMPLOYEES' PENSION PLAN
+    2020
         Codes: 1A1B1C1E3F3H 
         Participants: 52946
         Assets: 15425983534
@@ -2288,8 +2488,9 @@ MI : MIDLAND
                  : DRGT US LCE(PASSIVE)
                  : DRGT US LONG GOV/CREDIT FI
                  : DRGT US SM/MID CAP EQUITY
-    2019: DOW EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
+
+  [Pension]DOW EMPLOYEES' PENSION PLAN
+    2019
         Codes: 1A1B1C1E3F3H 
         Participants: 60342
         Assets: 14518646988
@@ -2316,8 +2517,9 @@ MI : MIDLAND
                  : DRGT US LCE(PASSIVE)
                  : DRGT US LONG GOV/CREDIT FI
                  : DRGT US SM/MID CAP EQUITY
-    2018: DOW EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
+
+  [Pension]DOW EMPLOYEES' PENSION PLAN
+    2018
         Codes: 1A1B1C1E3F3H 
         Participants: 61089
         Assets: 13037078076
@@ -2344,8 +2546,9 @@ MI : MIDLAND
                  : DRGT US LCE(PASSIVE)
                  : DRGT US LONG GOV/CREDIT FI
                  : DRGT US SM/MID CAP EQUITY
-    2017: DOW EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
+
+  [Pension]DOW EMPLOYEES' PENSION PLAN
+    2017
         Codes: 1A1B1C1E3F3H 
         Participants: 61151
         Assets: 13548639158
@@ -2378,34 +2581,41 @@ MI : MIDLAND
                  : DRGT US LCE(PASSIVE)
                  : DRGT US LONG GOV/CREDIT FI
                  : DRGT US SM/MID CAP EQUITY
+
+  [Severance]THE DOW CHEMICAL COMPANY TRANSITION PAYMENT PROGRAM
    [521]
-    2022: THE DOW CHEMICAL COMPANY TRANSITION PAYMENT PROGRAM
-        Benefit Category: Severance
+    2022
         Codes:  4I
         Participants: 
-    2021: THE DOW CHEMICAL COMPANY TRANSITION PAYMENT PROGRAM
-        Benefit Category: Severance
+
+  [Severance]THE DOW CHEMICAL COMPANY TRANSITION PAYMENT PROGRAM
+    2021
         Codes:  4I
         Participants: 
-    2020: THE DOW CHEMICAL COMPANY TRANSITION PAYMENT PROGRAM
-        Benefit Category: Severance
+
+  [Severance]THE DOW CHEMICAL COMPANY TRANSITION PAYMENT PROGRAM
+    2020
         Codes:  4I
         Participants: 
-    2019: THE DOW CHEMICAL COMPANY TRANSITION PAYMENT PROGRAM
-        Benefit Category: Severance
+
+  [Severance]THE DOW CHEMICAL COMPANY TRANSITION PAYMENT PROGRAM
+    2019
         Codes:  4I
         Participants: 
-    2018: THE DOW CHEMICAL COMPANY TRANSITION PAYMENT PROGRAM
-        Benefit Category: Severance
+
+  [Severance]THE DOW CHEMICAL COMPANY TRANSITION PAYMENT PROGRAM
+    2018
         Codes:  4I
         Participants: 
-    2017: THE DOW CHEMICAL COMPANY TRANSITION PAYMENT PROGRAM
-        Benefit Category: Severance
+
+  [Severance]THE DOW CHEMICAL COMPANY TRANSITION PAYMENT PROGRAM
+    2017
         Codes:  4I
         Participants: 
+
+  [Severance, Travel accident]THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR ACTIVE EMPLOYEES
    [540]
-    2017: THE DOW CHEMICAL COMPANY RETIREMENT HEALTH CARE ASSISTANCE PLAN FOR ACTIVE EMPLOYEES
-        Benefit Category: Severance, Travel accident
+    2017
         Codes:  4I4L
         Participants: 
         Assets: 273809213
@@ -2416,78 +2626,96 @@ MI : MIDLAND
         Available Investments:
            - THE DOW CHEMICAL COMPANY
                  : RETIREMENT HEALTH CARE ASSIST MT
+
+  [Travel accident]BUSINESS TRAVEL ACCIDENT AND OCCUPATIONAL ACCIDENT INSURANCE PLAN
    [502]
-    2022: BUSINESS TRAVEL ACCIDENT AND OCCUPATIONAL ACCIDENT INSURANCE PLAN
-        Benefit Category: Travel accident
+    2022
         Codes:  4L
         Participants: 
-    2021: BUSINESS TRAVEL ACCIDENT AND OCCUPATIONAL ACCIDENT INSURANCE PLAN
-        Benefit Category: Travel accident
+
+  [Travel accident]BUSINESS TRAVEL ACCIDENT AND OCCUPATIONAL ACCIDENT INSURANCE PLAN
+    2021
         Codes:  4L
         Participants: 
-    2020: BUSINESS TRAVEL ACCIDENT AND OCCUPATIONAL ACCIDENT INSURANCE PLAN
-        Benefit Category: Travel accident
+
+  [Travel accident]BUSINESS TRAVEL ACCIDENT AND OCCUPATIONAL ACCIDENT INSURANCE PLAN
+    2020
         Codes:  4L
         Participants: 
-    2019: BUSINESS TRAVEL ACCIDENT AND OCCUPATIONAL ACCIDENT INSURANCE PLAN
-        Benefit Category: Travel accident
+
+  [Travel accident]BUSINESS TRAVEL ACCIDENT AND OCCUPATIONAL ACCIDENT INSURANCE PLAN
+    2019
         Codes:  4L
         Participants: 
-    2018: BUSINESS TRAVEL ACCIDENT AND OCCUPATIONAL ACCIDENT INSURANCE PLAN
-        Benefit Category: Travel accident
+
+  [Travel accident]BUSINESS TRAVEL ACCIDENT AND OCCUPATIONAL ACCIDENT INSURANCE PLAN
+    2018
         Codes:  4L
         Participants: 
-    2017: BUSINESS TRAVEL ACCIDENT AND OCCUPATIONAL ACCIDENT INSURANCE PLAN
-        Benefit Category: Travel accident
+
+  [Travel accident]BUSINESS TRAVEL ACCIDENT AND OCCUPATIONAL ACCIDENT INSURANCE PLAN
+    2017
         Codes:  4L
         Participants: 
+
+  [Travel accident]VOLUNTARY GROUP ACCIDENT INSURANCE
    [504]
-    2022: VOLUNTARY GROUP ACCIDENT INSURANCE
-        Benefit Category: Travel accident
+    2022
         Codes:  4L
         Participants: 
-    2021: VOLUNTARY GROUP ACCIDENT INSURANCE
-        Benefit Category: Travel accident
+
+  [Travel accident]VOLUNTARY GROUP ACCIDENT INSURANCE
+    2021
         Codes:  4L
         Participants: 
-    2020: VOLUNTARY GROUP ACCIDENT INSURANCE
-        Benefit Category: Travel accident
+
+  [Travel accident]VOLUNTARY GROUP ACCIDENT INSURANCE
+    2020
         Codes:  4L
         Participants: 
-    2019: VOLUNTARY GROUP ACCIDENT INSURANCE
-        Benefit Category: Travel accident
+
+  [Travel accident]VOLUNTARY GROUP ACCIDENT INSURANCE
+    2019
         Codes:  4L
         Participants: 
-    2018: VOLUNTARY GROUP ACCIDENT INSURANCE
-        Benefit Category: Travel accident
+
+  [Travel accident]VOLUNTARY GROUP ACCIDENT INSURANCE
+    2018
         Codes:  4L
         Participants: 
-    2017: VOLUNTARY GROUP ACCIDENT INSURANCE
-        Benefit Category: Travel accident
+
+  [Travel accident]VOLUNTARY GROUP ACCIDENT INSURANCE
+    2017
         Codes:  4L
         Participants: 
+
+  [Travel accident]COLI INCENTIVE BENEFIT PROGRAM
    [530]
-    2022: COLI INCENTIVE BENEFIT PROGRAM
-        Benefit Category: Travel accident
+    2022
         Codes:  4L
         Participants: 
-    2021: COLI INCENTIVE BENEFIT PROGRAM
-        Benefit Category: Travel accident
+
+  [Travel accident]COLI INCENTIVE BENEFIT PROGRAM
+    2021
         Codes:  4L
         Participants: 
-    2020: COLI INCENTIVE BENEFIT PROGRAM
-        Benefit Category: Travel accident
+
+  [Travel accident]COLI INCENTIVE BENEFIT PROGRAM
+    2020
         Codes:  4L
         Participants: 
-    2019: COLI INCENTIVE BENEFIT PROGRAM
-        Benefit Category: Travel accident
+
+  [Travel accident]COLI INCENTIVE BENEFIT PROGRAM
+    2019
         Codes:  4L
         Participants: 
-    2018: COLI INCENTIVE BENEFIT PROGRAM
-        Benefit Category: Travel accident
+
+  [Travel accident]COLI INCENTIVE BENEFIT PROGRAM
+    2018
         Codes:  4L
         Participants: 
-    2017: COLI INCENTIVE BENEFIT PROGRAM
-        Benefit Category: Travel accident
+
+  [Travel accident]COLI INCENTIVE BENEFIT PROGRAM
+    2017
         Codes:  4L
         Participants: 

@@ -1,11 +1,8 @@
-TX : HOUSTON
-  CHAMBERLAIN, HRDLICKA, WHITE, WILLIAMS & AUGHTRY  741541761
-    2022: CHAMBERLAIN, HRDLICKA, WHITE, WILLIAMS & AUGHTRY PROFIT SHARING AND 401(K)PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2R3H 
-        Participants: 350
-        Assets: 89392083
-        $/Participant: 255405
+CHAMBERLAIN, HRDLICKA, WHITE, WILLIAMS & AUGHTRY  741541761 -- TX : HOUSTON
+  [401(k)] CHAMBERLAIN, HRDLICKA, WHITE, WILLIAMS & AUGHTRY PROFIT SHARING AND 401(K)PLAN [002]
+    2022  [codes: 2A2E2F2G2J2R3H]
+        Participants: 350  Average: $255,405
+        Assets: $89,392,083
         Service Providers:
            - BRIGHTWORTH LLC :  (Investment advisory(participants) | Direct payment from the plan)
            - FISHER INVESTMENTS :  (Investment advisory(participants) | Direct payment from the plan)
@@ -27,12 +24,10 @@ TX : HOUSTON
                  : SCHWAB INDEXED RET TR FUND 2060
            - NEW YORK LIFE INSURANCE COMPANY
                  : PSA NO. 25 (STABLE VALUE ACCOUNT)
-    2017: CHAMBERLAIN, HRDLICKA, WHITE, WILLIAMS & AUGHTRY PROFIT SHARING AND 401(K)PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2R3H 
-        Participants: 254
-        Assets: 73274016
-        $/Participant: 288480
+
+    2017
+        Participants: 254  Average: $288,480
+        Assets: $73,274,016
         Service Providers:
            - BRIGHTWORTH LLC :  (Investment advisory(participants) | Direct payment from the plan)
            - DIVERSIFIED TRUST COMPANY INC :  (Investment advisory(participants) | Direct payment from the plan)
@@ -56,13 +51,11 @@ TX : HOUSTON
                  : SCHWAB INDEXED RET TRUST FUND 2040
            - NEW YORK LIFE INSURANCE COMPANY
                  : NEW YORK LIFE ANCHOR ACCT III
-   [501]
-    2017: CHAMBERLAIN,HRDLICKA,WHITE,WILLIAMS & AUGHTRY WELFARE BENEFIT & CAFETERIA PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
-        Participants: 
-        Assets: 293568
-        $/Participant: 
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability] CHAMBERLAIN,HRDLICKA,WHITE,WILLIAMS & AUGHTRY WELFARE BENEFIT & CAFETERIA PLAN [501]
+    2017  [codes: 4A4B4D4E4H4Q]
+        Participants:   Average: $
+        Assets: $293,568
         Service Providers:
            - AETNA : ADMIN (Claims processing)
            - SNELLINGS WALTERS INSURANCE AGCY : BROKER (Insurance agents and brokers)

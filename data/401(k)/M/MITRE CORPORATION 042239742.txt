@@ -1,7 +1,6 @@
-MA : BEDFORD
-  MITRE CORPORATION  042239742
-    2022: THE MITRE CORPORATION TAX SHELTERED ANNUITY PLAN
-        Benefit Category: 403(b)
+MITRE CORPORATION  042239742 -- MA : BEDFORD
+  [403(b)]THE MITRE CORPORATION TAX SHELTERED ANNUITY PLAN
+    2022
         Codes: 2L2M2G2F 
         Participants: 20331
         Assets: 4147643081
@@ -10,8 +9,9 @@ MA : BEDFORD
         Available Investments:
            - TIAA
                  : TIAA REAL ESTATE
-    2021: THE MITRE CORPORATION TAX SHELTERED ANNUITY PLAN
-        Benefit Category: 403(b)
+
+  [403(b)]THE MITRE CORPORATION TAX SHELTERED ANNUITY PLAN
+    2021
         Codes: 2L2M2G2F 
         Participants: 19648
         Assets: 5015773736
@@ -20,8 +20,9 @@ MA : BEDFORD
         Available Investments:
            - TIAA
                  : TIAA REAL ESTATE
-    2020: THE MITRE CORPORATION TAX SHELTERED ANNUITY PLAN
-        Benefit Category: 403(b)
+
+  [403(b)]THE MITRE CORPORATION TAX SHELTERED ANNUITY PLAN
+    2020
         Codes: 2L2M2G2F 
         Participants: 19007
         Assets: 4545351415
@@ -31,8 +32,9 @@ MA : BEDFORD
         Available Investments:
            - TIAA
                  : TIAA REAL ESTATE
-    2019: THE MITRE CORPORATION TAX SHELTERED ANNUITY PLAN
-        Benefit Category: 403(b)
+
+  [403(b)]THE MITRE CORPORATION TAX SHELTERED ANNUITY PLAN
+    2019
         Codes: 2L2M2G2F 
         Participants: 17849
         Assets: 4110529920
@@ -42,8 +44,9 @@ MA : BEDFORD
         Available Investments:
            - TIAA
                  : TIAA REAL ESTATE
-    2018: THE MITRE CORPORATION TAX SHELTERED ANNUITY PLAN
-        Benefit Category: 403(b)
+
+  [403(b)]THE MITRE CORPORATION TAX SHELTERED ANNUITY PLAN
+    2018
         Codes: 2L2M2G2F 
         Participants: 17544
         Assets: 3438862398
@@ -51,8 +54,9 @@ MA : BEDFORD
         Available Investments:
            - TIAA
                  : TIAA REAL ESTATE
-    2017: THE MITRE CORPORATION TAX SHELTERED ANNUITY PLAN
-        Benefit Category: 403(b)
+
+  [403(b)]THE MITRE CORPORATION TAX SHELTERED ANNUITY PLAN
+    2017
         Codes: 2L2M2G2F 
         Participants: 14366
         Assets: 3643681898
@@ -60,48 +64,58 @@ MA : BEDFORD
         Available Investments:
            - TIAA
                  : TIAA REAL ESTATE
+
+  [Dental]GROUP DENTAL PLAN
    [509]
-    2019: GROUP DENTAL PLAN
-        Benefit Category: Dental
+    2019
         Codes:  4D
         Participants: 
-    2018: GROUP DENTAL PLAN
-        Benefit Category: Dental
+
+  [Dental]GROUP DENTAL PLAN
+    2018
         Codes:  4D
         Participants: 6627
-    2017: GROUP DENTAL PLAN
-        Benefit Category: Dental
+
+  [Dental]GROUP DENTAL PLAN
+    2017
         Codes:  4D
         Participants: 6521
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident]THE MITRE CORPORATION HEALTH & WELFARE PLAN
    [501]
-    2022: THE MITRE CORPORATION HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
+    2022
         Codes:  4A4B4D4E4F4I4G4H4L4Q
         Participants: 
-    2021: THE MITRE CORPORATION HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident]THE MITRE CORPORATION HEALTH & WELFARE PLAN
+    2021
         Codes:  4A4B4D4E4F4I4G4H4L4Q
         Participants: 
-    2020: THE MITRE CORPORATION HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident]THE MITRE CORPORATION HEALTH & WELFARE PLAN
+    2020
         Codes:  4A4B4D4E4F4I4G4H4L4Q
         Participants: 
+
+  [Healthcare]MITRE CORPORATION HEALTH CARE EXPENSE ACCOUNT PLAN
    [530]
-    2019: MITRE CORPORATION HEALTH CARE EXPENSE ACCOUNT PLAN
-        Benefit Category: Healthcare
+    2019
         Codes:  4A
         Participants: 
-    2018: MITRE CORPORATION HEALTH CARE EXPENSE ACCOUNT PLAN
-        Benefit Category: Healthcare
+
+  [Healthcare]MITRE CORPORATION HEALTH CARE EXPENSE ACCOUNT PLAN
+    2018
         Codes:  4A
         Participants: 2639
-    2017: MITRE CORPORATION HEALTH CARE EXPENSE ACCOUNT PLAN
-        Benefit Category: Healthcare
+
+  [Healthcare]MITRE CORPORATION HEALTH CARE EXPENSE ACCOUNT PLAN
+    2017
         Codes:  4A
         Participants: 2567
+
+  [Healthcare]MITRE CORPORATION HEALTH CARE PLAN
    [542]
-    2021: MITRE CORPORATION HEALTH CARE PLAN
-        Benefit Category: Healthcare
+    2021
         Codes:  4A
         Participants: 7322
         Assets: 76722086
@@ -111,8 +125,9 @@ MA : BEDFORD
            - BDO USA LLP : AUDITORS (Accounting(including auditing))
            - AETNA HEALTH : CONTRACT ADMINISTRATIVE (Claims processing)
            - WILLIS TOWERS WATSON : ACTURAL (Actuarial)
-    2020: MITRE CORPORATION HEALTH CARE PLAN
-        Benefit Category: Healthcare
+
+  [Healthcare]MITRE CORPORATION HEALTH CARE PLAN
+    2020
         Codes:  4A
         Participants: 6644
         Assets: 70849662
@@ -122,8 +137,9 @@ MA : BEDFORD
            - AETNA HEALTH INC : CONTRACT ADMINISTRATIVE (Claims processing)
            - BDO USA LLP : AUDITORS (Accounting(including auditing))
            - FIDELITY TRUST INVESTMENT MANAGER : INVESTMENT MANAGER (Trustee(bank, trust company, or similar))
-    2019: MITRE CORPORATION HEALTH CARE PLAN
-        Benefit Category: Healthcare
+
+  [Healthcare]MITRE CORPORATION HEALTH CARE PLAN
+    2019
         Codes:  4A
         Participants: 6484
         Assets: 63501364
@@ -133,8 +149,9 @@ MA : BEDFORD
            - BDO USA LLP : AUDITORS (Accounting(including auditing))
            - PRICEWATERCOOPERS LLP : ACTURAL (Actuarial)
            - AETNA HEALTH INC : CONTRACT ADMINISTRATIVE (Claims processing)
-    2018: MITRE CORPORATION HEALTH CARE PLAN
-        Benefit Category: Healthcare
+
+  [Healthcare]MITRE CORPORATION HEALTH CARE PLAN
+    2018
         Codes:  4A
         Participants: 6281
         Assets: 55894648
@@ -145,8 +162,9 @@ MA : BEDFORD
            - PNC : INVESTMENT MANAGER (Trustee(bank, trust company, or similar))
            - PRICEWATERCOOPERS LLP : ACTURAL (Actuarial)
            - BDO USA LLP : AUDITORS (Accounting(including auditing))
-    2017: MITRE CORPORATION HEALTH CARE PLAN
-        Benefit Category: Healthcare
+
+  [Healthcare]MITRE CORPORATION HEALTH CARE PLAN
+    2017
         Codes:  4A
         Participants: 6090
         Assets: 63539827
@@ -159,48 +177,58 @@ MA : BEDFORD
            - AETNA HEALTH INC : CONTRACT ADMINISTRATIVE (Claims processing)
            - BLUE CROSS & BLUE SHIELD : CONTRACT ADMINISTRATIVE (Claims processing)
            - HARVARDA PILGRIM HEALTH CARE : CONTRACT ADMINISTRATIVE (Claims processing)
+
+  [Life insurance]GROUP LIFE INSURANCE PLAN
    [503]
-    2019: GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
+    2019
         Codes:  4B4Q
         Participants: 
-    2018: GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
+
+  [Life insurance]GROUP LIFE INSURANCE PLAN
+    2018
         Codes:  4B4Q
         Participants: 7694
-    2017: GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
+
+  [Life insurance]GROUP LIFE INSURANCE PLAN
+    2017
         Codes:  4B4Q
         Participants: 7648
+
+  [Life insurance]THE MITRE CORPORATION GROUP BUSINESS TRAVEL ACCIDENT
    [504]
-    2019: THE MITRE CORPORATION GROUP BUSINESS TRAVEL ACCIDENT
-        Benefit Category: Life insurance
+    2019
         Codes:  4B
         Participants: 
-    2018: GROUP BUSINESS TRAVEL ACCIDENT
-        Benefit Category: Life insurance
+
+  [Life insurance]GROUP BUSINESS TRAVEL ACCIDENT
+    2018
         Codes:  4B
         Participants: 
-    2017: GROUP BUSINESS TRAVEL ACCIDENT
-        Benefit Category: Life insurance
+
+  [Life insurance]GROUP BUSINESS TRAVEL ACCIDENT
+    2017
         Codes:  4B
         Participants: 8517
+
+  [Long-term disability]GROUP LONG TERM DISABILITY PLAN
    [502]
-    2019: GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
+    2019
         Codes:  4H
         Participants: 
-    2018: GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
+
+  [Long-term disability]GROUP LONG TERM DISABILITY PLAN
+    2018
         Codes:  4H
         Participants: 5628
-    2017: GROUP LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
+
+  [Long-term disability]GROUP LONG TERM DISABILITY PLAN
+    2017
         Codes:  4H
         Participants: 5664
+
+  [Other]THE MITRE CORPORATION QUALIFIED RETIREMENT PLAN
    [002]
-    2022: THE MITRE CORPORATION QUALIFIED RETIREMENT PLAN
-        Benefit Category: Other
+    2022
         Codes: 2C2F2G 
         Participants: 17415
         Assets: 2245275345
@@ -209,8 +237,9 @@ MA : BEDFORD
         Available Investments:
            - TIAA
                  : TIAA REAL ESTATE
-    2021: THE MITRE CORPORATION QUALIFIED RETIREMENT PLAN
-        Benefit Category: Other
+
+  [Other]THE MITRE CORPORATION QUALIFIED RETIREMENT PLAN
+    2021
         Codes: 2C2F2G 
         Participants: 16659
         Assets: 2744988144
@@ -219,8 +248,9 @@ MA : BEDFORD
         Available Investments:
            - TIAA
                  : TIAA REAL ESTATE
-    2020: THE MITRE CORPORATION QUALIFIED RETIREMENT PLAN
-        Benefit Category: Other
+
+  [Other]THE MITRE CORPORATION QUALIFIED RETIREMENT PLAN
+    2020
         Codes: 2C2F2G 
         Participants: 15934
         Assets: 2509575169
@@ -230,8 +260,9 @@ MA : BEDFORD
         Available Investments:
            - TIAA
                  : TIAA REAL ESTATE
-    2019: THE MITRE CORPORATION QUALIFIED RETIREMENT PLAN
-        Benefit Category: Other
+
+  [Other]THE MITRE CORPORATION QUALIFIED RETIREMENT PLAN
+    2019
         Codes: 2C2F2G 
         Participants: 14525
         Assets: 2248394700
@@ -239,8 +270,9 @@ MA : BEDFORD
         Available Investments:
            - TIAA
                  : TIAA REAL ESTATE
-    2018: THE MITRE CORPORATION QUALIFIED RETIREMENT PLAN
-        Benefit Category: Other
+
+  [Other]THE MITRE CORPORATION QUALIFIED RETIREMENT PLAN
+    2018
         Codes: 2C2F2G 
         Participants: 14186
         Assets: 1865133065
@@ -250,8 +282,9 @@ MA : BEDFORD
         Available Investments:
            - TIAA
                  : TIAA REAL ESTATE
-    2017: THE MITRE CORPORATION QUALIFIED RETIREMENT PLAN
-        Benefit Category: Other
+
+  [Other]THE MITRE CORPORATION QUALIFIED RETIREMENT PLAN
+    2017
         Codes: 2C2F2G 
         Participants: 11145
         Assets: 1985628354
@@ -259,55 +292,67 @@ MA : BEDFORD
         Available Investments:
            - TIAA
                  : TIAA REAL ESTATE
+
+  [Other]GROUP LONG TERM CARE INSURANCE
    [545]
-    2019: GROUP LONG TERM CARE INSURANCE
-        Benefit Category: Other
+    2019
         Codes:  4Q
         Participants: 
-    2018: GROUP LONG TERM CARE INSURANCE
-        Benefit Category: Other
+
+  [Other]GROUP LONG TERM CARE INSURANCE
+    2018
         Codes:  4Q
         Participants: 376
-    2017: GROUP LONG TERM CARE INSURANCE
-        Benefit Category: Other
+
+  [Other]GROUP LONG TERM CARE INSURANCE
+    2017
         Codes:  4Q
         Participants: 386
+
+  [Other]GROUP LEGAL PLAN
    [547]
-    2019: GROUP LEGAL PLAN
-        Benefit Category: Other
+    2019
         Codes:  4G
         Participants: 
-    2018: GROUP LEGAL PLAN
-        Benefit Category: Other
+
+  [Other]GROUP LEGAL PLAN
+    2018
         Codes:  4G
         Participants: 2422
-    2017: GROUP LEGAL PLAN
-        Benefit Category: Other
+
+  [Other]GROUP LEGAL PLAN
+    2017
         Codes:  4G
         Participants: 2168
+
+  [Severance]SEVERANCE ASSISTANCE PLAN
    [540]
-    2019: SEVERANCE ASSISTANCE PLAN
-        Benefit Category: Severance
+    2019
         Codes:  4I
         Participants: 
-    2018: SEVERANCE ASSISTANCE PLAN
-        Benefit Category: Severance
+
+  [Severance]SEVERANCE ASSISTANCE PLAN
+    2018
         Codes:  4I
         Participants: 7752
-    2017: SEVERANCE ASSISTANCE PLAN
-        Benefit Category: Severance
+
+  [Severance]SEVERANCE ASSISTANCE PLAN
+    2017
         Codes:  4I
         Participants: 7624
+
+  [Vision]GROUP VISION CARE PLAN
    [546]
-    2019: GROUP VISION CARE PLAN
-        Benefit Category: Vision
+    2019
         Codes:  4E
         Participants: 
-    2018: GROUP VISION CARE PLAN
-        Benefit Category: Vision
+
+  [Vision]GROUP VISION CARE PLAN
+    2018
         Codes:  4E
         Participants: 5814
-    2017: GROUP VISION CARE PLAN
-        Benefit Category: Vision
+
+  [Vision]GROUP VISION CARE PLAN
+    2017
         Codes:  4E
         Participants: 5615

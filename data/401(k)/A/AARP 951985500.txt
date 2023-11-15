@@ -1,12 +1,8 @@
-DC : WASHINGTON
-  AARP  951985500
-   [002]
-    2022: AARP EMPLOYEES 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 3658
-        Assets: 735718120
-        $/Participant: 201125
+AARP  951985500 -- DC : WASHINGTON
+  [401(k)] AARP EMPLOYEES 401K PLAN [002]
+    2022  [codes: 2E2F2G2J2K]
+        Participants: 3,658  Average: $201,125
+        Assets: $735,718,120
         RecordKeeper: GRANT THORNTON
         Available Investments:
            - GLOBAL TRUST COMPANY
@@ -35,12 +31,10 @@ DC : WASHINGTON
                  : T ROWE PRICE STABLE VALUE FUND
                  : T ROWE RPICE RETIREMENT 2025 FUND
                  : US SMALL CAP VALUE EQUITY
-    2021: AARP EMPLOYEES 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 3588
-        Assets: 889925231
-        $/Participant: 248028
+
+    2021
+        Participants: 3,588  Average: $248,028
+        Assets: $889,925,231
         RecordKeeper: AON HEWITT ASSOCIATES LP
         Available Investments:
            - GLOBAL TRUST COMPANY
@@ -69,12 +63,10 @@ DC : WASHINGTON
                  : T ROWE PRICE STABLE VALUE FUND
                  : T ROWE RPICE RETIREMENT 2025 FUND
                  : US SMALL CAP VALUE EQUITY
-    2020: AARP EMPLOYEES 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 3544
-        Assets: 780774477
-        $/Participant: 220308
+
+    2020
+        Participants: 3,544  Average: $220,308
+        Assets: $780,774,477
         RecordKeeper: WILLIS TOWERS WATSON
         Available Investments:
            - GLOBAL TRUST COMPANY
@@ -105,12 +97,10 @@ DC : WASHINGTON
                  : T ROWE PRICE RETIREMENT 2060 FUND
                  : T ROWE PRICE RETIREMENT INCOME FUND
                  : T ROWE PRICE STABLE VALUE FUND
-    2019: AARP EMPLOYEES 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 3484
-        Assets: 656039976
-        $/Participant: 188300
+
+    2019
+        Participants: 3,484  Average: $188,300
+        Assets: $656,039,976
         RecordKeeper: WILLIS TOWERS WATSON
         Available Investments:
            - PRUDENTIAL
@@ -135,12 +125,10 @@ DC : WASHINGTON
                  : T ROWE PRICE STABLE VALUE FUND
            - T ROWE PRIICE
                  : T ROWE PRICE RETIREMENT 2030 FUND
-    2018: AARP EMPLOYEES 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 3448
-        Assets: 520534015
-        $/Participant: 150966
+
+    2018
+        Participants: 3,448  Average: $150,966
+        Assets: $520,534,015
         Service Providers:
            - AON HEWITT ASSOCIATES LP :  (Consulting(general))
            - GRANT THORNTON :  (Accounting(including auditing))
@@ -170,12 +158,10 @@ DC : WASHINGTON
                  : T ROWE PRICE RETIREMENT INCOME FUND
                  : T ROWE PRICE STABLE VALUE FUND
                  : T ROWES PRICE RETIREMENT 2020 FUND
-    2017: AARP EMPLOYEES 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 3423
-        Assets: 531236483
-        $/Participant: 155196
+
+    2017
+        Participants: 3,423  Average: $155,196
+        Assets: $531,236,483
         Service Providers:
            - WILLIS TOWERS WATSON :  (Consulting(general))
            - WILLIAM MERCER :  (Consulting(general))
@@ -203,75 +189,61 @@ DC : WASHINGTON
                  : T ROWE PRICE RETIREMENT 2060 FUND
                  : T ROWE PRICE RETIREMENT INCOME FUND
                  : T ROWE PRICE STABLE VALUE FUND
-   [507]
-    2022: AARP EMPLOYEES WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
-        Participants: 3049
-    2021: AARP EMPLOYEES WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
-        Participants: 2935
-    2020: AARP EMPLOYEES WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
-        Participants: 2895
-    2019: AARP EMPLOYEES WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
-        Participants: 2749
-    2018: AARP EMPLOYEES WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
-        Participants: 2822
-    2017: AARP EMPLOYEES WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
-        Participants: 2799
-   [509]
-    2022: LIFEWORKS EMPLOYEE RESOURCE PROGRAM
-        Benefit Category: Other
-        Codes:  4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] AARP EMPLOYEES WELFARE PLAN [507]
+    2022  [codes: 4A4B4D4E4F4H4L]
+        Participants: 3,049
+
+    2021
+        Participants: 2,935
+
+    2020
+        Participants: 2,895
+
+    2019
+        Participants: 2,749
+
+    2018
+        Participants: 2,822
+
+    2017
+        Participants: 2,799
+
+  [Other] LIFEWORKS EMPLOYEE RESOURCE PROGRAM [509]
+    2022  [codes: 4Q]
         Participants: 
         Service Providers:
            - LIFEWORKS, INC : ACCT. MGRS. (Claims processing)
-    2021: LIFEWORKS EMPLOYEE RESOURCE PROGRAM
-        Benefit Category: Other
-        Codes:  4Q
+
+    2021
         Participants: 
         Service Providers:
            - LIFEWORKS, INC : ACCT. MGRS. (Claims processing)
-    2020: LIFEWORKS EMPLOYEE RESOURCE PROGRAM
-        Benefit Category: Other
-        Codes:  4Q
+
+    2020
         Participants: 
         Service Providers:
            - LIFEWORKS, INC : ACCT. MGRS. (Claims processing)
-    2019: LIFEWORKS EMPLOYEE RESOURCE PROGRAM
-        Benefit Category: Other
-        Codes:  4Q
+
+    2019
         Participants: 
         Service Providers:
            - LIFEWORKS, INC : ACCT. MGRS. (Claims processing)
-    2018: LIFEWORKS EMPLOYEE RESOURCE PROGRAM
-        Benefit Category: Other
-        Codes:  4Q
+
+    2018
         Participants: 
         Service Providers:
            - LIFEWORKS, INC : ACCT. MGRS. (Claims processing)
-    2017: LIFEWORKS EMPLOYEE RESOURCE PROGRAM
-        Benefit Category: Other
-        Codes:  4Q
+
+    2017
         Participants: 
         Service Providers:
            - LIFEWORKS, INC : ACCT. MGRS. (Claims processing)
-   [001]
-    2022: AARP EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 5456
-        Assets: 1311939736
-        $/Participant: 240458
+
+  [Pension] AARP EMPLOYEES' PENSION PLAN [001]
+    2022  [codes: 1A]
+        Participants: 5,456  Average: $240,458
+        Assets: $1,311,939,736
         Service Providers:
            - VITRUVIAM IV :  (Investment management)
            - T ROWE PRICE :  (Trustee(bank, trust company, or similar))
@@ -324,12 +296,10 @@ DC : WASHINGTON
                  : STATE STREET RUSSELL 100 INDEX SL
            - THE BANK OF NEW YORK
                  : COLLECTIVE US COV'T STIF 15
-    2021: AARP EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 5352
-        Assets: 1488003685
-        $/Participant: 278027
+
+    2021
+        Participants: 5,352  Average: $278,027
+        Assets: $1,488,003,685
         Service Providers:
            - VITRUVIAM IV :  (Investment management)
            - THOMA BRAVO ADVISERS, LP :  (Investment management)
@@ -380,12 +350,10 @@ DC : WASHINGTON
                  : STATE STREET MSCI EAFE SMALL
            - THE BANK OF NEW YORK
                  : COLLECTIVE US GOV'T STIF 15
-    2020: AARP EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 5267
-        Assets: 1307588346
-        $/Participant: 248260
+
+    2020
+        Participants: 5,267  Average: $248,260
+        Assets: $1,307,588,346
         Service Providers:
            - AON HEWITT ASSOCIATES LP :  (Consulting(general))
            - ARENT FOX LLP :  (Legal)
@@ -440,12 +408,10 @@ DC : WASHINGTON
                  : STATE STREET MSCI CANADA SMALL
            - THE BANK OF NEW YORK MELLON
                  : COLLECTIVE US GOV'T STIF 15
-    2019: AARP EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 5162
-        Assets: 1207152641
-        $/Participant: 233853
+
+    2019
+        Participants: 5,162  Average: $233,853
+        Assets: $1,207,152,641
         Service Providers:
            - ARLINGTON CAPITAL :  (Investment management)
            - ARDIAN SFVIII :  (Investment management)
@@ -492,12 +458,10 @@ DC : WASHINGTON
                  : STATE STREET RUSSELL 100 INDEX SL
            - THE BANK OF NEW YORK MELLON
                  : COLLECTIVE US GOV'T STIF 15
-    2018: AARP EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 5078
-        Assets: 915480527
-        $/Participant: 180283
+
+    2018
+        Participants: 5,078  Average: $180,283
+        Assets: $915,480,527
         Service Providers:
            - ACADIAN :  (Investment management)
            - ARENT FOX LLP :  (Legal)
@@ -534,12 +498,10 @@ DC : WASHINGTON
                  : STATE STREET MSCI EAFE SMALL
            - THE BANK OF NEW YORK MELLON
                  : COLLECTIVE US GOV'T STIF 15
-    2017: AARP EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 4937
-        Assets: 962657731
-        $/Participant: 194988
+
+    2017
+        Participants: 4,937  Average: $194,988
+        Assets: $962,657,731
         Service Providers:
            - ACADIAN :  (Investment management)
            - PIMCO :  (Investment management)

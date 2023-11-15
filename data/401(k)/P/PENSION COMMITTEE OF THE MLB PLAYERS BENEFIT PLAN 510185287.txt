@@ -1,48 +1,34 @@
-MD : SPARKS
-  PENSION COMMITTEE OF THE MLB PLAYERS BENEFIT PLAN  510185287
-   [002]
-    2021: MAJOR LEAGUE BASEBALL PLAYERS INVESTMENT PLAN
-        Benefit Category: Other
-        Codes: 2E2G 
-        Participants: 4338
-        Assets: 973733875
-        $/Participant: 224466
+PENSION COMMITTEE OF THE MLB PLAYERS BENEFIT PLAN  510185287 -- MD : SPARKS
+  [Other] MAJOR LEAGUE BASEBALL PLAYERS INVESTMENT PLAN [002]
+    2021  [codes: 2E2G]
+        Participants: 4,338  Average: $224,466
+        Assets: $973,733,875
         RecordKeeper: SEGAL SELECT INSURANCE SERVICES
-    2020: MAJOR LEAGUE BASEBALL PLAYERS INVESTMENT PLAN
-        Benefit Category: Other
-        Codes: 2E2G 
-        Participants: 4219
-        Assets: 955467811
-        $/Participant: 226467
+
+    2020
+        Participants: 4,219  Average: $226,467
+        Assets: $955,467,811
         RecordKeeper: SEGAL SELECT INSURANCE SERVICES
-    2019: MAJOR LEAGUE BASEBALL PLAYERS INVESTMENT PLAN
-        Benefit Category: Other
-        Codes: 2E2G 
-        Participants: 4167
-        Assets: 703036588
-        $/Participant: 168715
+
+    2019
+        Participants: 4,167  Average: $168,715
+        Assets: $703,036,588
         RecordKeeper: SEGAL SELECT INSURANCE SERVICES
-    2018: MAJOR LEAGUE BASEBALL PLAYERS INVESTMENT PLAN
-        Benefit Category: Other
-        Codes: 2E2G 
-        Participants: 4077
-        Assets: 751623675
-        $/Participant: 184357
+
+    2018
+        Participants: 4,077  Average: $184,357
+        Assets: $751,623,675
         RecordKeeper: SEGAL SELECT INSURANCE SERVICES
-    2017: MAJOR LEAGUE BASEBALL PLAYERS INVESTMENT PLAN
-        Benefit Category: Other
-        Codes: 2E2G 
-        Participants: 3961
-        Assets: 707044073
-        $/Participant: 178501
+
+    2017
+        Participants: 3,961  Average: $178,501
+        Assets: $707,044,073
         RecordKeeper: SEGAL SELECT INSURANCE SERVICES
-   [001]
-    2021: MAJOR LEAGUE BASEBALL PLAYERS PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1B 
-        Participants: 9847
-        Assets: 4525714802
-        $/Participant: 459603
+
+  [Pension] MAJOR LEAGUE BASEBALL PLAYERS PENSION PLAN [001]
+    2021  [codes: 1B]
+        Participants: 9,847  Average: $459,603
+        Assets: $4,525,714,802
         RecordKeeper: SEGAL SELECT INSURANCE
         Available Investments:
            - BLACKROCK INSTITUTIONAL
@@ -64,12 +50,10 @@ MD : SPARKS
            - WESTERN ASSET MANAGEMENT COMPANY
                  : WA FLT RATE HI INC
                  : WESTERN ASSET US HIGH YIELD
-    2020: MAJOR LEAGUE BASEBALL PLAYERS PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1B 
-        Participants: 9274
-        Assets: 4431001373
-        $/Participant: 477787
+
+    2020
+        Participants: 9,274  Average: $477,787
+        Assets: $4,431,001,373
         RecordKeeper: SEGAL SELECT INSURANCE
         Available Investments:
            - ACADIAN ASSET MANAGEMENT, LLC
@@ -92,12 +76,10 @@ MD : SPARKS
                  : WA FLT RATE HI INC
                  : WA OPPORTUNISTIC INTL INV
                  : WESTERN ASSET US HIGH YIELD
-    2019: MAJOR LEAGUE BASEBALL PLAYERS PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1B 
-        Participants: 9011
-        Assets: 3328534776
-        $/Participant: 369385
+
+    2019
+        Participants: 9,011  Average: $369,385
+        Assets: $3,328,534,776
         RecordKeeper: SEGAL SELECT INSURANCE
         Available Investments:
            - ACADIAN ASSET MANAGEMENT, LLC
@@ -120,12 +102,10 @@ MD : SPARKS
                  : WA FLT RATE HI INC
                  : WA OPPORTUNISTIC INTL INV
                  : WESTERN ASSET US HIGH YIELD
-    2018: MAJOR LEAGUE BASEBALL PLAYERS PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1B 
-        Participants: 8898
-        Assets: 3621575716
-        $/Participant: 407010
+
+    2018
+        Participants: 8,898  Average: $407,010
+        Assets: $3,621,575,716
         RecordKeeper: SEGAL SELECT INSURANCE SERVICES
         Available Investments:
            - BLACKROCK INSTITUTIONAL
@@ -143,12 +123,10 @@ MD : SPARKS
                  : WA FLT RATE HI INC
                  : WA OPPORTUNISTIC INTL INV
                  : WESTERN ASSET US HIGH YIELD
-    2017: MAJOR LEAGUE BASEBALL PLAYERS PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1B 
-        Participants: 8766
-        Assets: 3543408471
-        $/Participant: 404221
+
+    2017
+        Participants: 8,766  Average: $404,221
+        Assets: $3,543,408,471
         RecordKeeper: SEGAL SELECT INSURANCE SERVICES
         Available Investments:
            - BLACKROCK INSTITUTIONAL

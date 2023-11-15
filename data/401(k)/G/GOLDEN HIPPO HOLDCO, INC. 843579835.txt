@@ -1,53 +1,39 @@
-CA : WOODLAND HILLS
-  GOLDEN HIPPO HOLDCO, INC.  843579835
-   [001]
-    2021: GOLDEN HIPPO RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H3D 
-        Participants: 1152
-        Assets: 20684469
-        $/Participant: 17955
+GOLDEN HIPPO HOLDCO, INC.  843579835 -- CA : WOODLAND HILLS
+  [401(k)] GOLDEN HIPPO RETIREMENT PLAN [001]
+    2021  [codes: 2E2F2G2J2K2S2T3H3D]
+        Participants: 1,152  Average: $17,955
+        Assets: $20,684,469
         RecordKeeper: PENSIONMARK FINANCIAL GROUP LLC
         Available Investments:
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE
-    2020: GOLDEN HIPPO RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D3H 
-        Participants: 967
-        Assets: 12439460
-        $/Participant: 12863
+
+    2020  [codes: 2E2F2G2J2K2S2T3D3H]
+        Participants: 967  Average: $12,863
+        Assets: $12,439,460
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - RELIANCE TRUST COMPANY
                  : METLIFE REL ST VAL 25053 - 0
-    2019: GOLDEN HIPPO EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3I 
-        Participants: 703
-        Assets: 258699000
-        $/Participant: 367992
-   [002]
-    2022: GOLDEN HIPPO EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3I 
-        Participants: 703
-        Assets: 258699000
-        $/Participant: 367992
-    2021: GOLDEN HIPPO EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3H3I 
-        Participants: 888
-        Assets: 479425220
-        $/Participant: 539893
-    2020: GOLDEN HIPPO EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3H3I 
-        Participants: 701
-        Assets: 390733240
-        $/Participant: 557394
-   [501]
-    2020: GOLDEN HIPPO HOLDCO, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+  [Employee Stock Ownership Plan] GOLDEN HIPPO EMPLOYEE STOCK OWNERSHIP PLAN
+    2019  [codes: 2I2P3I]
+        Participants: 703  Average: $367,992
+        Assets: $258,699,000
+
+ [002]
+    2022
+        Participants: 703  Average: $367,992
+        Assets: $258,699,000
+
+    2021  [codes: 2I2P3H3I]
+        Participants: 888  Average: $539,893
+        Assets: $479,425,220
+
+    2020
+        Participants: 701  Average: $557,394
+        Assets: $390,733,240
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] GOLDEN HIPPO HOLDCO, INC. HEALTH AND WELFARE PLAN [501]
+    2020  [codes: 4A4B4D4E4F4H4L]
         Participants: 

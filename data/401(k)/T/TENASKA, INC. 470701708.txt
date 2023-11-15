@@ -1,12 +1,8 @@
-NE : OMAHA
-  TENASKA, INC.  470701708
-   [001]
-    2022: TENASKA RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2S2T3H3D2E 
-        Participants: 895
-        Assets: 278338808
-        $/Participant: 310993
+TENASKA, INC.  470701708 -- NE : OMAHA
+  [401(k)] TENASKA RETIREMENT PLAN [001]
+    2022  [codes: 2F2G2J2S2T3H3D2E]
+        Participants: 895  Average: $310,993
+        Assets: $278,338,808
         RecordKeeper: QUALIFIED PLAN ADVISORS
         Available Investments:
            - AMERICAN CENTURY
@@ -24,12 +20,10 @@ NE : OMAHA
                  : MORLEY STABLE VAL FUND CLASS 25 I
            - WILMINGTON TRUST
                  : EMERGING MKTS FUND CLASS R1
-    2021: TENASKA RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2S2T3H3D2E 
-        Participants: 869
-        Assets: 335092129
-        $/Participant: 385606
+
+    2021
+        Participants: 869  Average: $385,606
+        Assets: $335,092,129
         RecordKeeper: QUALIFIED PLAN ADVISORS
         Available Investments:
            - AMERICAN CENTURY
@@ -47,12 +41,10 @@ NE : OMAHA
                  : MORLEY STABLE VALUE FUND CLASS 25 I
            - WILMINGTON TRUST
                  : EMERGING MARKETS FUND CLASS R1
-    2020: TENASKA RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2S2T3H3D2E 
-        Participants: 853
-        Assets: 298940551
-        $/Participant: 350457
+
+    2020
+        Participants: 853  Average: $350,457
+        Assets: $298,940,551
         RecordKeeper: LUTZ & COMPANY, PC
         Available Investments:
            - AMERICAN CENTURY
@@ -68,12 +60,10 @@ NE : OMAHA
                  : AMERICAN CENTURY RETIREMENT 2060 TR
            - MORLEY
                  : MORLEY STABLE VALUE FUND CLASS 25 I
-    2019: TENASKA RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2S2T3H3D2E 
-        Participants: 871
-        Assets: 259593791
-        $/Participant: 298041
+
+    2019
+        Participants: 871  Average: $298,041
+        Assets: $259,593,791
         RecordKeeper: LUTZ & COMPANY, PC
         Available Investments:
            - AMERICAN CENTURY
@@ -89,12 +79,10 @@ NE : OMAHA
                  : AMERICAN CENTURY RETIREMENT 2060 TR
            - MORLEY
                  : MORLEY STABLE VALUE FUND CLASS 25 I
-    2018: TENASKA RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2S2T3H3D2E 
-        Participants: 811
-        Assets: 207814220
-        $/Participant: 256244
+
+    2018
+        Participants: 811  Average: $256,244
+        Assets: $207,814,220
         RecordKeeper: NATIONAL FINANCIAL SERCIVES
         Available Investments:
            - AMERICAN CENTURY
@@ -120,52 +108,41 @@ NE : OMAHA
                  : AMERICAN CENTURY RETIREMENT 2060 TR
            - MORLEY
                  : MORLEY STABLE VALUE FUND CLASS 25 I
-    2017: TENASKA RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2S2T3H3D2E 
-        Participants: 892
-        Assets: 213959341
-        $/Participant: 239864
+
+    2017
+        Participants: 892  Average: $239,864
+        Assets: $213,959,341
         RecordKeeper: LUTZ & COMPANY, PC
-   [501]
-    2019: FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] FLEXIBLE BENEFIT PLAN [501]
+    2019  [codes: 4A]
         Participants: 
-    2018: FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2018
         Participants: 
-    2017: FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2017
         Participants: 
-   [502]
-    2019: TENASKA, INC. GROUP MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+
+  [Healthcare, Dental] TENASKA, INC. GROUP MEDICAL AND DENTAL PLAN [502]
+    2019  [codes: 4A4D]
         Participants: 
-    2018: TENASKA, INC. GROUP MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+
+    2018
         Participants: 
-    2017: TENASKA, INC. GROUP MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+
+    2017
         Participants: 
-   [505]
-    2018: TENASKA, INC. GROUP LIFE/AD&D AND LONG TERM DISABILITY PLAN
-        Benefit Category: Healthcare, Life insurance, Long-term disability, Travel accident
-        Codes:  4A4B4H4L4Q
+
+  [Healthcare, Life insurance, Long-term disability, Travel accident] TENASKA, INC. GROUP LIFE/AD&D AND LONG TERM DISABILITY PLAN [505]
+    2018  [codes: 4A4B4H4L4Q]
         Participants: 
-    2017: TENASKA, INC. GROUP LIFE/AD&D AND LONG TERM DISABILITY PLAN
-        Benefit Category: Healthcare, Life insurance, Long-term disability, Travel accident
-        Codes:  4A4B4H4L
+
+    2017  [codes: 4A4B4H4L]
         Participants: 
-   [507]
-    2022: TENASKA, INC. WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability] TENASKA, INC. WELFARE BENEFIT PLAN [507]
+    2022  [codes: 4A4B4D4E4H4Q]
         Participants: 
         Service Providers:
            - BLUECROSS BLUESHIELD OF NEBRASKA : ADMINISTRATOR (Contract Administrator)
@@ -173,9 +150,8 @@ NE : OMAHA
            - DELTA DENTAL OF NEBRASKA : DENTAL ADMINISTRATOR (Claims processing | Contract Administrator)
            - PAYFLEX SYSTEMS USA, INC. : FSA ADMINISTRATOR (Contract Administrator)
            - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
-    2021: TENASKA, INC. WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+    2021
         Participants: 
         Service Providers:
            - BLUECROSS BLUESHIELD OF NEBRASKA : ADMINISTRATOR (Contract Administrator)
@@ -183,30 +159,25 @@ NE : OMAHA
            - DELTA DENTAL OF NEBRASKA : DENTAL ADMINISTRATOR (Contract Administrator)
            - PAYFLEX SYSTEMS USA, INC. : FSA ADMINISTRATOR (Contract Administrator)
            - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
-    2020: TENASKA, INC. WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+    2020
         Participants: 
         Service Providers:
            - BLUECROSS BLUESHIELD OF NEBRASKA : ADMINISTRATOR (Contract Administrator)
            - NEBRASKA METHODIST HEALTH SYSTEM : EAP ADMINISTRATOR (Contract Administrator)
            - DELTA DENTAL OF NEBRASKA : DENTAL ADMINISTRATOR (Contract Administrator)
            - PAYFLEX SYSTEMS USA, INC. : FSA ADMINISTRATOR (Contract Administrator)
-   [505]
-    2019: TENASKA, INC. GROUP LIFE/AD&D AND LONG TERM DISABILITY PLAN
-        Benefit Category: Life insurance, Long-term disability, Travel accident
-        Codes:  4B4H4L4Q
+
+  [Life insurance, Long-term disability, Travel accident] TENASKA, INC. GROUP LIFE/AD&D AND LONG TERM DISABILITY PLAN [505]
+    2019  [codes: 4B4H4L4Q]
         Participants: 
-   [506]
-    2019: TENASKA, INC. VISION PLAN
-        Benefit Category: Vision
-        Codes:  4E
+
+  [Vision] TENASKA, INC. VISION PLAN [506]
+    2019  [codes: 4E]
         Participants: 
-    2018: TENASKA, INC. VISION PLAN
-        Benefit Category: Vision
-        Codes:  4E
+
+    2018
         Participants: 
-    2017: TENASKA, INC. VISION PLAN
-        Benefit Category: Vision
-        Codes:  4E
+
+    2017
         Participants: 

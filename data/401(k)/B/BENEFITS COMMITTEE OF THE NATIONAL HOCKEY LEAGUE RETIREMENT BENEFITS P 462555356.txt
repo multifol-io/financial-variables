@@ -1,11 +1,8 @@
-NY : NEW YORK
-  BENEFITS COMMITTEE OF THE NATIONAL HOCKEY LEAGUE RETIREMENT BENEFITS P  462555356
-    2021: NATIONAL HOCKEY LEAGUE PLAYERS RETIREMENT BENEFIT PLAN
-        Benefit Category: Pension
-        Codes: 1B 
-        Participants: 2103
-        Assets: 606382543
-        $/Participant: 288341
+BENEFITS COMMITTEE OF THE NATIONAL HOCKEY LEAGUE RETIREMENT BENEFITS P  462555356 -- NY : NEW YORK
+  [Pension] NATIONAL HOCKEY LEAGUE PLAYERS RETIREMENT BENEFIT PLAN
+    2021  [codes: 1B]
+        Participants: 2,103  Average: $288,341
+        Assets: $606,382,543
         Service Providers:
            - WESTERN ASSET MANAGEMENT LLC : INVESTMENT MGMT (Investment management)
            - PROSKAUER ROSE LLP : LEGAL (Legal)
@@ -33,12 +30,10 @@ NY : NEW YORK
            - WESTERN ASSET MANAGEMENT COMPANY
                  : CF WESTERN ASSET GBL MULTI-SECTOR
                  : CF WESTERN ASSET TOTAL RETURN BOND
-    2020: NATIONAL HOCKEY LEAGUE PLAYERS RETIREMENT BENEFIT PLAN
-        Benefit Category: Pension
-        Codes: 1B 
-        Participants: 1935
-        Assets: 554467517
-        $/Participant: 286546
+
+    2020
+        Participants: 1,935  Average: $286,546
+        Assets: $554,467,517
         Service Providers:
            - WESTERN ASSET MANAGEMENT LLC : INVESTMENT MGMT (Investment management)
            - GRAYSTONE CONSULTING : INVEST CONSULT (Consulting(pension) | Investment advisory(plan))
@@ -65,12 +60,11 @@ NY : NEW YORK
            - WESTERN ASSET MANAGEMENT COMPANY
                  : CF WESTERN ASSET GBL MULTI-SECTOR
                  : CF WESTERN ASSET TOTAL RETURN BOND
-    2019: NATIONAL HOCKEY LEAGUE PLAYERS' RETIREMENT BENEFIT PLAN
-        Benefit Category: Pension
-        Codes: 1B 
-        Participants: 1811
-        Assets: 355185420
-        $/Participant: 196126
+
+  [Pension] NATIONAL HOCKEY LEAGUE PLAYERS' RETIREMENT BENEFIT PLAN
+    2019
+        Participants: 1,811  Average: $196,126
+        Assets: $355,185,420
         Service Providers:
            - GRAYSTONE CONSULTING : INVEST CONSULT (Consulting(pension) | Investment advisory(plan))
            - WESTERN ASSET MANAGEMENT LLC : INVESTMENT MGMT (Investment management)
@@ -95,12 +89,10 @@ NY : NEW YORK
            - WESTERN ASSET MANAGEMENT COMPANY
                  : CF WESTERN ASSET GBL MULTI-SECTOR
                  : CF WESTERN ASSET TOTAL RETURN BOND
-    2018: NATIONAL HOCKEY LEAGUE PLAYERS' RETIREMENT BENEFIT PLAN
-        Benefit Category: Pension
-        Codes: 1B 
-        Participants: 1712
-        Assets: 323193395
-        $/Participant: 188781
+
+    2018
+        Participants: 1,712  Average: $188,781
+        Assets: $323,193,395
         Service Providers:
            - BLACKSTONE : INVEST MGMT (Investment management)
            - MORGAN STANLEY : INVEST CONSULT (Consulting(pension) | Investment advisory(plan))
@@ -130,12 +122,10 @@ NY : NEW YORK
            - WESTERN ASSET MANAGEMENT COMPANY
                  : CF WESTERN ASSET GBL MULTI-SECTOR
                  : CF WESTERN ASSET TOTAL RETURN BOND
-    2017: NATIONAL HOCKEY LEAGUE PLAYERS' RETIREMENT BENEFIT PLAN
-        Benefit Category: Pension
-        Codes: 1B 
-        Participants: 1586
-        Assets: 264237892
-        $/Participant: 166606
+
+    2017
+        Participants: 1,586  Average: $166,606
+        Assets: $264,237,892
         Service Providers:
            - WESTERN ASSET MANAGEMENT COMPANY : INVESTMENT MANAGEMENT (Investment management)
            - MORGAN STANLEY : INVESTMENT CONSULTING (Consulting(pension))

@@ -1,132 +1,101 @@
-GA : ATLANTA
-  MAG MUTUAL INSURANCE COMPANY  581449198
-   [002]
-    2022: MAGMUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D3H 
-        Participants: 486
-        Assets: 39281321
-        $/Participant: 80825
+MAG MUTUAL INSURANCE COMPANY  581449198 -- GA : ATLANTA
+  [401(k)] MAGMUTUAL INSURANCE COMPANY 401(K) PLAN [002]
+    2022  [codes: 2E2F2G2J2K2T3D3H]
+        Participants: 486  Average: $80,825
+        Assets: $39,281,321
         RecordKeeper: NEWPORT GROUP, INC.
         Available Investments:
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE TRUST
-    2021: MAGMUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D3H 
-        Participants: 399
-        Assets: 43274584
-        $/Participant: 108457
+
+    2021
+        Participants: 399  Average: $108,457
+        Assets: $43,274,584
         RecordKeeper: NEWPORT GROUP, INC.
         Available Investments:
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE TRUST
-    2020: MAGMUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D3H 
-        Participants: 330
-        Assets: 31185342
-        $/Participant: 94501
+
+    2020
+        Participants: 330  Average: $94,501
+        Assets: $31,185,342
         RecordKeeper: NEWPORT GROUP, INC.
         Available Investments:
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE TRUST
-    2019: MAGMUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2T3D3H 
-        Participants: 315
-        Assets: 25909054
-        $/Participant: 82250
+
+    2019  [codes: 2A2E2F2G2J2K2T3D3H]
+        Participants: 315  Average: $82,250
+        Assets: $25,909,054
         RecordKeeper: NEWPORT GROUP, INC.
         Available Investments:
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE TRUST
-    2018: MAGMUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2T3D3H 
-        Participants: 292
-        Assets: 21103785
-        $/Participant: 72273
+
+    2018
+        Participants: 292  Average: $72,273
+        Assets: $21,103,785
         RecordKeeper: NEWPORT GROUP, INC.
         Available Investments:
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE TRUST
-    2017: MAG MUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 293
-        Assets: 22962361
-        $/Participant: 78369
+
+  [401(k)] MAG MUTUAL INSURANCE COMPANY 401(K) PLAN
+    2017  [codes: 2E2F2G2J2K2T3D]
+        Participants: 293  Average: $78,369
+        Assets: $22,962,361
         RecordKeeper: ALERUS FINANCIAL, N.A.
         Available Investments:
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE VALUE TRUST
-   [502]
-    2022: MAG MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability] MAG MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN [502]
+    2022  [codes: 4A4B4D4E4H4Q]
         Participants: 
-    2021: MAG MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+    2021
         Participants: 
-    2020: MAG MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+    2020
         Participants: 
-    2019: MAG MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+    2019
         Participants: 
-    2018: MAG MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2018  [codes: 4A4B4D4E4F4H4Q]
         Participants: 
-    2017: MAG MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2017
         Participants: 
-   [001]
-    2022: MAG MUTUAL INSURANCE COMPANY DEFINED BENEFIT PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 267
-        Assets: 69177837
-        $/Participant: 259093
-    2021: MAG MUTUAL INSURANCE COMPANY DEFINED BENEFIT PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 273
-        Assets: 90538211
-        $/Participant: 331641
-    2020: MAG MUTUAL INSURANCE COMPANY DEFINED BENEFIT PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 279
-        Assets: 91177463
-        $/Participant: 326800
-    2019: MAG MUTUAL INSURANCE COMPANY DEFINED BENEFIT PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 287
-        Assets: 83940628
-        $/Participant: 292476
+
+  [Pension] MAG MUTUAL INSURANCE COMPANY DEFINED BENEFIT PLAN [001]
+    2022  [codes: 1A3H]
+        Participants: 267  Average: $259,093
+        Assets: $69,177,837
+
+    2021
+        Participants: 273  Average: $331,641
+        Assets: $90,538,211
+
+    2020
+        Participants: 279  Average: $326,800
+        Assets: $91,177,463
+
+    2019
+        Participants: 287  Average: $292,476
+        Assets: $83,940,628
         Service Providers:
            - SAGE ADVISORY SERVICES, LTD. CO. : INVESTMENT ADVISOR (Investment management)
-    2018: MAG MUTUAL INSURANCE COMPANY DEFINED BENEFIT PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 295
-        Assets: 70170293
-        $/Participant: 237865
+
+    2018
+        Participants: 295  Average: $237,865
+        Assets: $70,170,293
         Service Providers:
            - SAGE ADVISORY SERVICES, LTD. CO. : INVESTMENT ADVISOR (Investment management)
            - NEWPORT GROUP, INC. : ACTUARY (Actuarial)
-    2017: MAG MUTUAL INSURANCE COMPANY DEFINED BENEFIT PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 305
-        Assets: 74486026
-        $/Participant: 244216
+
+    2017
+        Participants: 305  Average: $244,216
+        Assets: $74,486,026
         Service Providers:
            - RELIANCE TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar) | Direct payment from the plan)

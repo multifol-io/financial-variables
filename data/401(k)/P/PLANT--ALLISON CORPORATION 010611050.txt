@@ -1,12 +1,8 @@
-CA : SAN FRANCISCO
-  PLANT/ALLISON CORPORATION  010611050
-   [001]
-    2022: PLANT/ALLISON CORPORATION PROFIT SHARING 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2T3D 
-        Participants: 182
-        Assets: 46078279
-        $/Participant: 253177
+PLANT/ALLISON CORPORATION  010611050 -- CA : SAN FRANCISCO
+  [401(k)] PLANT/ALLISON CORPORATION PROFIT SHARING 401(K) PLAN [001]
+    2022  [codes: 2A2E2F2G2J2T3D]
+        Participants: 182  Average: $253,177
+        Assets: $46,078,279
         RecordKeeper: MINNESOTA LIFE INSURANCE COMPANY
         Available Investments:
            - MINNESOTA LIFE INSURANCE COMPANY
@@ -32,12 +28,10 @@ CA : SAN FRANCISCO
                  : VANGUARD SMALL-CAP IDX ADM
                  : VANGUARD TOT BOND MKT IDX ADM
                  : VGD WELLESLEY INC ADMIRAL
-    2021: PLANT/ALLISON CORPORATION PROFIT SHARING 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2T3D 
-        Participants: 183
-        Assets: 55439731
-        $/Participant: 302949
+
+    2021  [codes: 2E2F2G2J2T3D]
+        Participants: 183  Average: $302,949
+        Assets: $55,439,731
         RecordKeeper: MINNESOTA LIFE INSURANCE COMPANY
         Available Investments:
            - MINNESOTA LIFE INSURANCE COMPANY
@@ -63,12 +57,10 @@ CA : SAN FRANCISCO
                  : VANGUARD SMALL-CAP IDX ADM
                  : VANGUARD TOT BOND MKT IDX ADM
                  : VGD WELLESLEY INC ADMIRAL
-    2020: PLANT/ALLISON CORPORATION PROFIT SHARING 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2T3D 
-        Participants: 180
-        Assets: 49132203
-        $/Participant: 272956
+
+    2020
+        Participants: 180  Average: $272,956
+        Assets: $49,132,203
         RecordKeeper: MINNESOTA LIFE INSURANCE COMPANY
         Available Investments:
            - MINNESOTA LIFE INSURANCE COMPANY
@@ -97,12 +89,10 @@ CA : SAN FRANCISCO
                  : VANGUARD SMALL-CAP IDX ADM
                  : VANGUARD TOT BOND MKT IDX ADM
                  : VGD WELLESLEY INC ADMIRAL
-    2019: PLANT/ALLISON CORPORATION PROFIT SHARING 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2T3D 
-        Participants: 204
-        Assets: 42853118
-        $/Participant: 210064
+
+    2019
+        Participants: 204  Average: $210,064
+        Assets: $42,853,118
         RecordKeeper: MINNESOTA LIFE INSURANCE COMPANY
         Available Investments:
            - MINNESOTA LIFE INSURANCE COMPANY
@@ -129,12 +119,10 @@ CA : SAN FRANCISCO
                  : VANGUARD TOT BOND MKT IDX ADM
                  : VANGUARD TOT INTL STK IDX ADM
                  : VGD WELLESLEY INC ADMIRAL
-    2018: PLANT/ALLISON CORPORATION PROFIT SHARING 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2T3D 
-        Participants: 183
-        Assets: 33673706
-        $/Participant: 184009
+
+    2018
+        Participants: 183  Average: $184,009
+        Assets: $33,673,706
         RecordKeeper: MINNESOTA LIFE INSURANCE COMPANY
         Available Investments:
            - MINNESOTA LIFE INSURANCE COMPANY
@@ -161,12 +149,10 @@ CA : SAN FRANCISCO
                  : VANGUARD TOT BOND MKT IDX ADM
                  : VANGUARD TOT INTL STK IDX ADM
                  : VGD WELLESLEY INC ADMIRAL
-    2017: PLANT/ALLISON CORPORATION PROFIT SHARING 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2T3D 
-        Participants: 153
-        Assets: 36226219
-        $/Participant: 236772
+
+    2017
+        Participants: 153  Average: $236,772
+        Assets: $36,226,219
         RecordKeeper: MINNESOTA LIFE INSURANCE COMPANY
         Available Investments:
            - MINNESOTA LIFE INSURANCE COMPANY
@@ -195,32 +181,26 @@ CA : SAN FRANCISCO
                  : VANGUARD TOT BOND MKT IDX ADM
                  : VANGUARD TOT INTL STK IDX ADM
                  : VGD WELLESLEY INC ADMIRAL
-   [501]
-    2018: PLANT/ALLISON CORPORATION
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] PLANT/ALLISON CORPORATION [501]
+    2018  [codes: 4A]
         Participants: 
-   [503]
-    2019: PLANT/ALLISON CORPORATION
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+ [503]
+    2019  [codes: 4A4D4E]
         Participants: 
-   [505]
-    2021: PLANT/ALLISON CORPORATION HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident] PLANT/ALLISON CORPORATION HEALTH AND WELFARE PLAN [505]
+    2021  [codes: 4A4B4D4E4H4L4Q]
         Participants: 
-    2020: PLANT/ALLISON CORPORATION HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4Q
+
+    2020
         Participants: 
-   [502]
-    2018: PLANT/ALLISON CORPORATION
-        Benefit Category: Life insurance, Travel accident
-        Codes:  4B4L
+
+  [Life insurance, Travel accident] PLANT/ALLISON CORPORATION [502]
+    2018  [codes: 4B4L]
         Participants: 
-   [504]
-    2019: PLANT/ALLISON CORPORATION
-        Benefit Category: Life insurance, Long-term disability, Travel accident
-        Codes:  4B4H4L
+
+ [504]
+    2019  [codes: 4B4H4L]
         Participants: 

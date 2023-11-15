@@ -1,46 +1,31 @@
-KS : SHAWNEE
-  PBI-GORDON CORPORATION  480529113
-   [002]
-    2019: PBI-GORDON CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H3I 
-        Participants: 493
-        Assets: 245186667
-        $/Participant: 497336
-    2018: PBI-GORDON CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H3I 
-        Participants: 495
-        Assets: 208109096
-        $/Participant: 420422
-    2017: PBI-GORDON CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H3I 
-        Participants: 468
-        Assets: 201627621
-        $/Participant: 430828
-MO : KANSAS CITY
-   [507]
-    2019: PBI-GORDON CORPORATION EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H
+PBI-GORDON CORPORATION  480529113 -- KS : SHAWNEE
+  [Employee Stock Ownership Plan] PBI-GORDON CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN [002]
+    2019  [codes: 2I2P2Q3H3I]
+        Participants: 493  Average: $497,336
+        Assets: $245,186,667
+
+    2018
+        Participants: 495  Average: $420,422
+        Assets: $208,109,096
+
+    2017
+        Participants: 468  Average: $430,828
+        Assets: $201,627,621
+ -- MO : KANSAS CITY
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability] PBI-GORDON CORPORATION EMPLOYEE BENEFIT PLAN [507]
+    2019  [codes: 4A4B4D4E4F4H]
         Participants: 
-    2018: PBI-GORDON CORPORATION EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2018  [codes: 4A4B4D4E4F4H4L]
         Participants: 
-    2017: PBI-GORDON CORPORATION EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2017
         Participants: 
-KS : SHAWNEE
-   [001]
-    2019: PBI/GORDON CORPORATION 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: Life insurance, 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 4B
-        Participants: 491
-        Assets: 20011574
-        $/Participant: 40756
+ -- KS : SHAWNEE
+  [Life insurance, 401(k)] PBI/GORDON CORPORATION 401(K) RETIREMENT SAVINGS PLAN [001]
+    2019  [codes: 2E2F2G2J2K2S2T3H4B]
+        Participants: 491  Average: $40,756
+        Assets: $20,011,574
         RecordKeeper: CREATIVE PLANNING INC
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -81,12 +66,10 @@ KS : SHAWNEE
                  : PRINCIPAL U.S. PROPERTY SA-Z
            - RELIANCE TRUST COMPANY
                  : METLIFE SV FD SER 25053 CL 0
-    2018: PBI/GORDON CORPORATION 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: Life insurance, 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 4B
-        Participants: 465
-        Assets: 17972077
-        $/Participant: 38649
+
+    2018
+        Participants: 465  Average: $38,649
+        Assets: $17,972,077
         RecordKeeper: CREATIVE PLANNING INC
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -133,13 +116,10 @@ KS : SHAWNEE
                  : PRINL LIFETIME 2030 SEP ACCT-Z
            - RELIANCE TRUST COMPANY
                  : METLIFE SV FD SER 25053 CL 0
-MO : KANSAS CITY
-    2017: PBI/GORDON CORPORATION 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: Life insurance, 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 4B
-        Participants: 420
-        Assets: 18637195
-        $/Participant: 44374
+ -- MO : KANSAS CITY
+    2017
+        Participants: 420  Average: $44,374
+        Assets: $18,637,195
         RecordKeeper: CREATIVE PLANNING BENEFITS LLC-000
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY

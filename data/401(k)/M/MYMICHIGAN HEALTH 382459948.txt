@@ -1,85 +1,63 @@
-MI : MIDLAND
-  MYMICHIGAN HEALTH  382459948
-   [003]
-    2022: MIDMICHIGAN HEALTH 403B SAVINGS PLAN
-        Benefit Category: 403(b)
-        Codes: 2L2M2T2R2F3H2S 
-        Participants: 8247
-        Assets: 531483457
-        $/Participant: 64445
+MYMICHIGAN HEALTH  382459948 -- MI : MIDLAND
+  [403(b)] MIDMICHIGAN HEALTH 403B SAVINGS PLAN [003]
+    2022  [codes: 2L2M2T2R2F3H2S]
+        Participants: 8,247  Average: $64,445
+        Assets: $531,483,457
         RecordKeeper: PRUDENTIAL RETIREMENT INSURANCE AND
-    2021: MIDMICHIGAN HEALTH 403B SAVINGS PLAN
-        Benefit Category: 403(b)
-        Codes: 2L2M2T2R2F3H2S 
-        Participants: 7451
-        Assets: 538272925
-        $/Participant: 72241
+
+    2021
+        Participants: 7,451  Average: $72,241
+        Assets: $538,272,925
         RecordKeeper: PRUDENTIAL RETIREMENT INSURANCE AND
-    2020: MIDMICHIGAN HEALTH 403B SAVINGS PLAN
-        Benefit Category: 403(b)
-        Codes: 2L2M2T2R2F3H2S 
-        Participants: 7046
-        Assets: 481220241
-        $/Participant: 68296
+
+    2020
+        Participants: 7,046  Average: $68,296
+        Assets: $481,220,241
         RecordKeeper: PRUDENTIAL RETIREMENT INSURANCE AND
-    2019: MIDMICHIGAN HEALTH 403B SAVINGS PLAN
-        Benefit Category: 403(b)
-        Codes: 2L2M2T2R2F3H2S 
-        Participants: 6253
-        Assets: 349317877
-        $/Participant: 55864
+
+    2019
+        Participants: 6,253  Average: $55,864
+        Assets: $349,317,877
         RecordKeeper: PRUDENTIAL RETIREMENT INSURANCE AND
-    2018: MIDMICHIGAN HEALTH 403B SAVINGS PLAN
-        Benefit Category: 403(b)
-        Codes: 2L2M2T2R2F3H2S 
-        Participants: 5797
-        Assets: 284076133
-        $/Participant: 49003
+
+    2018
+        Participants: 5,797  Average: $49,003
+        Assets: $284,076,133
         RecordKeeper: PRUDENTIAL INVESTMENT MANAGEMENT SE
-    2017: MIDMICHIGAN HEALTH 403B SAVINGS PLAN
-        Benefit Category: 403(b)
-        Codes: 2L2M2T2R2F3H2S 
-        Participants: 5715
-        Assets: 288086344
-        $/Participant: 50408
+
+    2017
+        Participants: 5,715  Average: $50,408
+        Assets: $288,086,344
         RecordKeeper: PRUDENTIAL RETIREMENT INSURANCE AND
-   [502]
-    2022: MYMICHIGAN HEALTH - HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
-        Codes:  4A4B4D4H4F4Q
+
+  [Healthcare, Life insurance, Dental, Short-term disability, Long-term disability] MYMICHIGAN HEALTH - HEALTH AND WELFARE PLAN [502]
+    2022  [codes: 4A4B4D4H4F4Q]
         Participants: 
-    2021: MYMICHIGAN HEALTH - HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
-        Codes:  4A4B4D4H4F4Q
+
+    2021
         Participants: 
-    2020: MIDMICHIGAN HEALTH - HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
-        Codes:  4A4B4D4H4F4Q
+
+  [Healthcare, Life insurance, Dental, Short-term disability, Long-term disability] MIDMICHIGAN HEALTH - HEALTH AND WELFARE PLAN
+    2020
         Participants: 
-    2019: MIDMICHIGAN HEALTH - HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
-        Codes:  4A4B4D4H4F4Q
+
+    2019
         Participants: 
-    2018: MIDMICHIGAN HEALTH - HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H4Q
+
+    2018  [codes: 4A4B4D4H4Q]
         Participants: 
-    2017: MIDMICHIGAN HEALTH - HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H4Q
+
+    2017
         Participants: 
-   [503]
-    2017: MIDMICHIGAN MEDICAL CENTER ALPENA FLEX BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H4Q
+
+  [Healthcare, Life insurance, Dental, Long-term disability] MIDMICHIGAN MEDICAL CENTER ALPENA FLEX BENEFIT PLAN [503]
+    2017
         Participants: 
-   [001]
-    2022: MYMICHIGAN HEALTH EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1I3H 
-        Participants: 5070
-        Assets: 203648813
-        $/Participant: 40167
+
+  [Pension] MYMICHIGAN HEALTH EMPLOYEES' PENSION PLAN [001]
+    2022  [codes: 1A1C1I3H]
+        Participants: 5,070  Average: $40,167
+        Assets: $203,648,813
         Service Providers:
            - WILLIS TOWERS WATSON US LLC :  (Actuarial | Consulting(pension) | Direct payment from the plan)
            - LGIMA :  (Investment management | Investment management fees paid directly by plan)
@@ -100,12 +78,10 @@ MI : MIDLAND
                  : PARAMETRIC GLOBAL DEFENSIVE EQUITY
            - RELIANCE TRUST COMPANY
                  : LG LONG DUR US CREDIT CIT FUND
-    2021: MYMICHIGAN HEALTH EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 4773
-        Assets: 311656718
-        $/Participant: 65295
+
+    2021  [codes: 1A1C3H]
+        Participants: 4,773  Average: $65,295
+        Assets: $311,656,718
         Service Providers:
            - LGIMA :  (Investment management | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
         Available Investments:
@@ -122,12 +98,11 @@ MI : MIDLAND
                  : PARAMETRIC GLOBAL DEFENSIVE EQUITY
            - RELIANCE TRUST COMPANY
                  : LG LONG DUR US CREDIT CIT FUND
-    2020: MIDMICHIGAN HEALTH EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 4773
-        Assets: 307208277
-        $/Participant: 64363
+
+  [Pension] MIDMICHIGAN HEALTH EMPLOYEES' PENSION PLAN
+    2020
+        Participants: 4,773  Average: $64,363
+        Assets: $307,208,277
         Service Providers:
            - BLACKROCK INSTITUTIONAL TRUST CO. :  (Trustee(bank, trust company, or similar) | Trustee(discretionary) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - COMERICA : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other investment fees and expenses | Other fees)
@@ -139,12 +114,10 @@ MI : MIDLAND
                  : LG LONG DUR US CREDIT CIT FUND
            - WALTER SCOTT AND PARTNERS LIMITED
                  : WALTER SCOTT GLOBAL
-    2019: MIDMICHIGAN HEALTH EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 5711
-        Assets: 369642274
-        $/Participant: 64724
+
+    2019
+        Participants: 5,711  Average: $64,724
+        Assets: $369,642,274
         Service Providers:
            - BLACKROCK INSTITUTIONAL TRUST CO. :  (Trustee(bank, trust company, or similar) | Trustee(discretionary) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - STATE STREET GLOBAL ADVISORS :  (Custodial(other than securities) | Custodial(securities) | Investment management fees paid directly by plan)
@@ -160,12 +133,10 @@ MI : MIDLAND
                  : STATE STREET US AGGREGATE BOND MKT
            - WALTER SCOTT AND PARTNERS LIMITED
                  : WALTER SCOTT GLOBAL
-    2018: MIDMICHIGAN HEALTH EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 5750
-        Assets: 313842327
-        $/Participant: 54581
+
+    2018
+        Participants: 5,750  Average: $54,581
+        Assets: $313,842,327
         Service Providers:
            - STATE STREET GLOBAL ADVISORS :  (Custodial(other than securities) | Custodial(securities) | Investment management fees paid directly by plan)
            - BLACKROCK INSTITUTIONAL TRUST CO. :  (Trustee(bank, trust company, or similar) | Trustee(discretionary) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
@@ -180,12 +151,10 @@ MI : MIDLAND
                  : STATE STREET US AGGREGATE BOND MKT
            - WALTER SCOTT AND PARTNERS LIMITED
                  : WALTER SCOTT GLOBAL
-    2017: MIDMICHIGAN HEALTH EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 5437
-        Assets: 339899733
-        $/Participant: 62516
+
+    2017
+        Participants: 5,437  Average: $62,516
+        Assets: $339,899,733
         Service Providers:
            - STATE STREET GLOBAL ADVISORS :  (Custodial(other than securities) | Custodial(securities) | Investment management fees paid directly by plan)
            - BLACKROCK INSTITUTIONAL TRUST CO. :  (Trustee(bank, trust company, or similar) | Trustee(discretionary) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
@@ -204,13 +173,11 @@ MI : MIDLAND
                  : STATE STREET US AGGREGATE BOND MKT
            - WALTER SCOTT AND PARTNERS LIMITED
                  : WALTER SCOTT GLOBAL
-   [004]
-    2022: MYMICHIGAN HEALTH PENSION PLAN FOR ARMC EMPLOYEES
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 720
-        Assets: 206310052
-        $/Participant: 286541
+
+  [Pension] MYMICHIGAN HEALTH PENSION PLAN FOR ARMC EMPLOYEES [004]
+    2022  [codes: 1A1I3H]
+        Participants: 720  Average: $286,541
+        Assets: $206,310,052
         Service Providers:
            - LGIMA :  (Investment management | Investment management fees paid directly by plan)
            - WILLIS TOWERS WATSON US LLC :  (Actuarial | Consulting(pension) | Direct payment from the plan)
@@ -226,12 +193,10 @@ MI : MIDLAND
                  : PARAMETRIC GLOBAL DEFENSIVE EQUITY
            - RELIANCE TRUST COMPANY
                  : LG LONG DUR US CREDIT CIT FUND
-    2021: MYMICHIGAN HEALTH PENSION PLAN FOR ARMC EMPLOYEES
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 730
-        Assets: 246769194
-        $/Participant: 338039
+
+    2021  [codes: 1A3H]
+        Participants: 730  Average: $338,039
+        Assets: $246,769,194
         Service Providers:
            - LGIMA :  (Investment management | Other fees | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
         Available Investments:
@@ -243,12 +208,11 @@ MI : MIDLAND
                  : PARAMETRIC GLOBAL DEFENSIVE EQUITY
            - RELIANCE TRUST COMPANY
                  : LG LONG DUR US CREDIT CIT FUND
-    2020: MIDMICHIGAN HEALTH PENSION PLAN FOR ARMC EMPLOYEES
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 739
-        Assets: 227398255
-        $/Participant: 307710
+
+  [Pension] MIDMICHIGAN HEALTH PENSION PLAN FOR ARMC EMPLOYEES
+    2020
+        Participants: 739  Average: $307,710
+        Assets: $227,398,255
         Service Providers:
            - COMERICA : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other investment fees and expenses)
         Available Investments:
@@ -258,12 +222,10 @@ MI : MIDLAND
                  : SHORT TERM FUND
            - WALTER SCOTT AND PARTNERS LIMITED
                  : WALTER SCOTT GLOBAL
-    2019: MIDMICHIGAN HEALTH PENSION PLAN FOR ARMC EMPLOYEES
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 750
-        Assets: 195618935
-        $/Participant: 260825
+
+    2019
+        Participants: 750  Average: $260,825
+        Assets: $195,618,935
         Service Providers:
            - COMERICA : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other investment fees and expenses)
         Available Investments:
@@ -275,12 +237,10 @@ MI : MIDLAND
                  : LG LONG DUR US CREDIT CIT FUND
            - WALTER SCOTT AND PARTNERS LIMITED
                  : WALTER SCOTT GLOBAL
-    2018: MIDMICHIGAN HEALTH PENSION PLAN FOR ARMC EMPLOYEES
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 765
-        Assets: 155013104
-        $/Participant: 202631
+
+    2018
+        Participants: 765  Average: $202,631
+        Assets: $155,013,104
         Service Providers:
            - COMERICA : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other investment fees and expenses)
         Available Investments:
@@ -290,12 +250,10 @@ MI : MIDLAND
                  : SHORT TERM FUND
            - WALTER SCOTT AND PARTNERS LIMITED
                  : WALTER SCOTT GLOBAL
-    2017: MIDMICHIGAN HEALTH PENSION PLAN FOR ARMC EMPLOYEES
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 782
-        Assets: 159970008
-        $/Participant: 204565
+
+    2017
+        Participants: 782  Average: $204,565
+        Assets: $159,970,008
         Service Providers:
            - COMERICA : TRUSTEE (Custodial(securities) | Trustee(bank, trust company, or similar) | Other services | Shareholder servicing fees | Float revenue | Other investment fees and expenses | Other fees)
         Available Investments:

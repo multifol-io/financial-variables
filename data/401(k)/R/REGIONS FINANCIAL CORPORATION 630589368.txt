@@ -1,12 +1,8 @@
-AL : HOOVER
-  REGIONS FINANCIAL CORPORATION  630589368
-   [012]
-    2022: REGIONS FINANCIAL CORPORATION 401(K) PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2F2G2J2K2O2S2T3H 
-        Participants: 30770
-        Assets: 2473693723
-        $/Participant: 80393
+REGIONS FINANCIAL CORPORATION  630589368 -- AL : HOOVER
+  [401(k), Employee Stock Ownership Plan] REGIONS FINANCIAL CORPORATION 401(K) PLAN [012]
+    2022  [codes: 2E2F2G2J2K2O2S2T3H]
+        Participants: 30,770  Average: $80,393
+        Assets: $2,473,693,723
         RecordKeeper: QDRO CONSULTANTS COMPANY, LLC
         Available Investments:
            - AST WILMINGTON TRUST
@@ -45,12 +41,10 @@ AL : HOOVER
                  : T. ROWE PRICE RETIREMENT 2060 CIT
                  : T. ROWE PRICE RETIREMENT 2060 TR-B
                  : T. ROWE PRICE RETIREMENT 2065 TR-B
-    2021: REGIONS FINANCIAL CORPORATION 401(K) PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2F2G2J2K2O2S2T3H 
-        Participants: 29511
-        Assets: 2868976104
-        $/Participant: 97217
+
+    2021
+        Participants: 29,511  Average: $97,217
+        Assets: $2,868,976,104
         RecordKeeper: MASSACHUSETTS MUTUAL LIFE INS. CO.
         Available Investments:
            - BNY MELLON
@@ -76,12 +70,10 @@ AL : HOOVER
                  : T. ROWE PRICE RETIREMENT 2060 CIT
            - WILMINGTON TRUST
                  : CRM SMALL/MID CAP VALUE CIT
-    2020: REGIONS FINANCIAL CORPORATION 401(K) PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2F2G2J2K2O2S2T3H 
-        Participants: 28630
-        Assets: 2482129149
-        $/Participant: 86696
+
+    2020
+        Participants: 28,630  Average: $86,696
+        Assets: $2,482,129,149
         RecordKeeper: VANGUARD
         Available Investments:
            - BNY MELLON
@@ -105,13 +97,10 @@ AL : HOOVER
                  : T. ROWE PRICE RETIREMENT 2050 CIT
                  : T. ROWE PRICE RETIREMENT 2055 CIT
                  : T. ROWE PRICE RETIREMENT 2060 CIT
-AL : BIRMINGHAM
-    2019: REGIONS FINANCIAL CORPORATION 401(K) PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2J2F2G2K2S2T2O3H 
-        Participants: 29009
-        Assets: 2153189343
-        $/Participant: 74224
+ -- AL : BIRMINGHAM
+    2019  [codes: 2E2J2F2G2K2S2T2O3H]
+        Participants: 29,009  Average: $74,224
+        Assets: $2,153,189,343
         RecordKeeper: VANGUARD
         Available Investments:
            - BNY MELLON
@@ -135,13 +124,10 @@ AL : BIRMINGHAM
                  : T. ROWE PRICE RETIREMENT 2050 CIT
                  : T. ROWE PRICE RETIREMENT 2055 CIT
                  : T. ROWE PRICE RETIREMENT 2060 CIT
-AL : BRIMINGHAM
-    2018: REGIONS FINANCIAL CORPORATION 401(K) PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2J2F2G2K3H2S2T2O 
-        Participants: 29418
-        Assets: 1739363040
-        $/Participant: 59125
+ -- AL : BRIMINGHAM
+    2018  [codes: 2E2J2F2G2K3H2S2T2O]
+        Participants: 29,418  Average: $59,125
+        Assets: $1,739,363,040
         RecordKeeper: VANGUARD
         Available Investments:
            - BNY MELLON
@@ -164,13 +150,10 @@ AL : BRIMINGHAM
                  : T. ROWE PRICE RETIREMENT 2050 FUND
                  : T. ROWE PRICE RETIREMENT 2055 FUND
                  : T. ROWE PRICE RETIREMENT 2060 FUND
-AL : BIRMINGHAM
-    2017: REGIONS FINANCIAL CORPORATION 401(K) PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2J2F2G2K3H2S2T2O 
-        Participants: 30904
-        Assets: 1969846454
-        $/Participant: 63740
+ -- AL : BIRMINGHAM
+    2017
+        Participants: 30,904  Average: $63,740
+        Assets: $1,969,846,454
         RecordKeeper: VANGUARD
         Available Investments:
            - BNY MELLON
@@ -214,63 +197,49 @@ AL : BIRMINGHAM
                  : T. ROWE PRICE RETIREMENT 2060
            - UNION BOND & TRUST COMPANY
                  : MORLEY STABLE VALUE FD
-   [509]
-    2022: REGIONS FINANCIAL CORPORATION DENTAL PLAN
-        Benefit Category: Dental
-        Codes:  4D
+
+  [Dental] REGIONS FINANCIAL CORPORATION DENTAL PLAN [509]
+    2022  [codes: 4D]
         Participants: 
-    2021: REGIONS FINANCIAL CORPORATION DENTAL PLAN
-        Benefit Category: Dental
-        Codes:  4D
+
+    2021
         Participants: 
-    2020: REGIONS FINANCIAL CORPORATION DENTAL PLAN
-        Benefit Category: Dental
-        Codes:  4D
+
+    2020
         Participants: 
-    2019: REGIONS FINANCIAL CORPORATION DENTAL PLAN
-        Benefit Category: Dental
-        Codes:  4D
+
+    2019
         Participants: 
-    2018: REGIONS FINANCIAL CORPORATION DENTAL PLAN
-        Benefit Category: Dental
-        Codes:  4D
+
+    2018
         Participants: 
-    2017: REGIONS FINANCIAL CORPORATION DENTAL PLAN
-        Benefit Category: Dental
-        Codes:  4D
+
+    2017
         Participants: 
-   [507]
-    2022: REGIONS FINANCIAL CORPORATION MEDICAL BENEFIT PLAN
-        Benefit Category: Healthcare, Vision
-        Codes:  4A4E
+
+  [Healthcare, Vision] REGIONS FINANCIAL CORPORATION MEDICAL BENEFIT PLAN [507]
+    2022  [codes: 4A4E]
         Participants: 
-    2021: REGIONS FINANCIAL CORPORATION MEDICAL BENEFIT PLAN
-        Benefit Category: Healthcare, Vision
-        Codes:  4A4E
+
+    2021
         Participants: 
-    2020: REGIONS FINANCIAL CORPORATION MEDICAL BENEFIT PLAN
-        Benefit Category: Healthcare, Vision
-        Codes:  4A4E
+
+    2020
         Participants: 
-    2019: REGIONS FINANCIAL CORPORATION MEDICAL BENEFIT PLAN
-        Benefit Category: Healthcare, Vision
-        Codes:  4A4E
+
+    2019
         Participants: 
-    2018: REGIONS FINANCIAL CORPORATION MEDICAL BENEFIT PLAN
-        Benefit Category: Healthcare, Vision
-        Codes:  4A4E
+
+    2018
         Participants: 
-    2017: REGIONS FINANCIAL CORPORATION MEDICAL BENEFIT PLAN
-        Benefit Category: Healthcare, Vision
-        Codes:  4A4E
+
+    2017
         Participants: 
-   [001]
-    2022: REGIONS FINANCIAL CORPORATION RETIREMENT PLAN
-        Benefit Category: Life insurance, Pension
-        Codes: 1A3H 4B
-        Participants: 14271
-        Assets: 1234102296
-        $/Participant: 86476
+
+  [Life insurance, Pension] REGIONS FINANCIAL CORPORATION RETIREMENT PLAN [001]
+    2022  [codes: 1A3H4B]
+        Participants: 14,271  Average: $86,476
+        Assets: $1,234,102,296
         RecordKeeper: FLEX DIGITAL
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST CO NA
@@ -283,12 +252,10 @@ AL : BIRMINGHAM
                  : CASTLEARK COLLECTIVE INVESTMENT
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CIF II LONG BOND PORTFOLIO
-    2021: REGIONS FINANCIAL CORPORATION RETIREMENT PLAN
-        Benefit Category: Life insurance, Pension
-        Codes: 1A3H 4B
-        Participants: 14749
-        Assets: 1683088988
-        $/Participant: 114115
+
+    2021
+        Participants: 14,749  Average: $114,115
+        Assets: $1,683,088,988
         RecordKeeper: US POSTMASTER
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST CO NA
@@ -301,12 +268,10 @@ AL : BIRMINGHAM
                  : CASTLEARK COLLECTIVE INVESTMENT
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CIF II LONG BOND PORTFOLIO
-    2020: REGIONS FINANCIAL CORPORATION RETIREMENT PLAN
-        Benefit Category: Life insurance, Pension
-        Codes: 1A3H 4B
-        Participants: 15157
-        Assets: 1682513294
-        $/Participant: 111005
+
+    2020
+        Participants: 15,157  Average: $111,005
+        Assets: $1,682,513,294
         RecordKeeper: FLEX DIGITAL
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST CO NA
@@ -319,12 +284,10 @@ AL : BIRMINGHAM
                  : CASTLEARK COLLECTIVE INVESTMENT
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CIF II LONG BOND PORTFOLIO
-    2019: REGIONS FINANCIAL CORPORATION RETIREMENT PLAN
-        Benefit Category: Life insurance, Pension
-        Codes: 1A3H 4B
-        Participants: 15602
-        Assets: 1274461064
-        $/Participant: 81685
+
+    2019
+        Participants: 15,602  Average: $81,685
+        Assets: $1,274,461,064
         RecordKeeper: ERNST & YOUNG
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST CO NA
@@ -337,12 +300,10 @@ AL : BIRMINGHAM
                  : CASTLEARK COLLECTIVE INVESTMENT
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CIF II LONG BOND PORTFOLIO
-    2018: REGIONS FINANCIAL CORPORATION RETIREMENT PLAN
-        Benefit Category: Life insurance, Pension
-        Codes: 1A3H 4B
-        Participants: 14096
-        Assets: 1139398966
-        $/Participant: 80831
+
+    2018
+        Participants: 14,096  Average: $80,831
+        Assets: $1,139,398,966
         RecordKeeper: FLEX DIGITAL
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST CO NA
@@ -356,68 +317,53 @@ AL : BIRMINGHAM
                  : CASTLEARK COLLECTIVE INVESTMENT
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CIF II LONG BOND PORTFOLIO
-   [502]
-    2022: REGIONS FINANCIAL CORPORATION LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+  [Life insurance] REGIONS FINANCIAL CORPORATION LIFE INSURANCE PLAN [502]
+    2022  [codes: 4B4Q]
         Participants: 
-    2021: REGIONS FINANCIAL CORPORATION LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2021
         Participants: 
-    2020: REGIONS FINANCIAL CORPORATION LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2020
         Participants: 
-    2019: REGIONS FINANCIAL CORPORATION LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2019
         Participants: 
-    2018: REGIONS FINANCIAL CORPORATION LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2018
         Participants: 
-    2017: REGIONS FINANCIAL CORPORATION LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2017
         Participants: 
-   [505]
-    2022: REGIONS FINANCIAL CORPORATION TRAVEL ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+  [Other] REGIONS FINANCIAL CORPORATION TRAVEL ACCIDENTAL DEATH AND DISMEMBERMENT PLAN [505]
+    2022  [codes: 4Q]
         Participants: 
-    2021: REGIONS FINANCIAL CORPORATION TRAVEL ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2021
         Participants: 
-    2020: REGIONS FINANCIAL CORPORATION TRAVEL ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2020
         Participants: 
-    2019: REGIONS FINANCIAL CORPORATION TRAVEL ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2019
         Participants: 
-    2018: REGIONS FINANCIAL CORPORATION TRAVEL ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2018
         Participants: 
-    2017: REGIONS FINANCIAL CORPORATION TRAVEL ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2017
         Participants: 
-   [510]
-    2017: REGIONS FINANCIAL CORPORATION LONG TERM CARE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+  [Other] REGIONS FINANCIAL CORPORATION LONG TERM CARE PLAN [510]
+    2017
         Participants: 
-   [001]
-    2017: REGIONS FINANCIAL CORPORATION RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 14491
-        Assets: 1294550647
-        $/Participant: 89334
+
+  [Pension] REGIONS FINANCIAL CORPORATION RETIREMENT PLAN [001]
+    2017  [codes: 1A3H]
+        Participants: 14,491  Average: $89,334
+        Assets: $1,294,550,647
         RecordKeeper: FLEX DIGITAL
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST CO NA
@@ -431,13 +377,11 @@ AL : BIRMINGHAM
                  : CASTLEARK COLLECTIVE INVESTMENT
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CIF II LONG BOND PORTFOLIO
-   [013]
-    2022: REGIONS FINANCIAL CORPORATION RETIREMENT PLAN FOR ASSOCIATES
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 2887
-        Assets: 700189014
-        $/Participant: 242531
+
+  [Pension] REGIONS FINANCIAL CORPORATION RETIREMENT PLAN FOR ASSOCIATES [013]
+    2022
+        Participants: 2,887  Average: $242,531
+        Assets: $700,189,014
         RecordKeeper: ERNST & YOUNG
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST CO NA
@@ -452,12 +396,10 @@ AL : BIRMINGHAM
                  : BNY MELLON NEWTON GLOBAL REAL RETUR
            - WELLINGTON TRUST COMPANY NA
                  : WTC-CIF II LONG BOND PORTFOLIO
-    2021: REGIONS FINANCIAL CORPORATION RETIREMENT PLAN FOR ASSOCIATES
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 3031
-        Assets: 901255956
-        $/Participant: 297346
+
+    2021
+        Participants: 3,031  Average: $297,346
+        Assets: $901,255,956
         RecordKeeper: ERNST & YOUNG
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST CO NA
@@ -470,12 +412,10 @@ AL : BIRMINGHAM
                  : CASTLEARK COLLECTIVE INVESTMENT
            - WELLINGTON TRUST COMPANY NA
                  : WTC-CIF II LONG BOND PORTFOLIO
-    2020: REGIONS FINANCIAL CORPORATION RETIREMENT PLAN FOR ASSOCIATES
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 3226
-        Assets: 840789274
-        $/Participant: 260629
+
+    2020
+        Participants: 3,226  Average: $260,629
+        Assets: $840,789,274
         RecordKeeper: ERNST & YOUNG
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST CO NA
@@ -488,12 +428,10 @@ AL : BIRMINGHAM
                  : CASTLEARK COLLECTIVE INVESTMENT
            - WELLINGTON TRUST COMPANY NA
                  : WTC-CIF II LONG BOND PORTFOLIO
-    2019: REGIONS FINANCIAL CORPORATION RETIREMENT PLAN FOR ASSOCIATES
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 3226
-        Assets: 1071899517
-        $/Participant: 332268
+
+    2019
+        Participants: 3,226  Average: $332,268
+        Assets: $1,071,899,517
         RecordKeeper: FLEX DIGITAL
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST CO NA
@@ -506,12 +444,10 @@ AL : BIRMINGHAM
                  : CASTLEARK COLLECTIVE INVESTMENT
            - WELLINGTON TRUST COMPANY NA
                  : WTC-CIF II LONG BOND PORTFOLIO
-    2018: REGIONS FINANCIAL CORPORATION RETIREMENT PLAN FOR ASSOCIATES
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 5180
-        Assets: 929158350
-        $/Participant: 179374
+
+    2018
+        Participants: 5,180  Average: $179,374
+        Assets: $929,158,350
         RecordKeeper: FLEX DIGITAL
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST CO NA
@@ -525,12 +461,10 @@ AL : BIRMINGHAM
                  : CASTLEARK COLLECTIVE INVESTMENT
            - WELLINGTON TRUST COMPANY NA
                  : WTC-CIF II LONG BOND PORTFOLIO
-    2017: REGIONS FINANCIAL CORPORATION RETIREMENT PLAN FOR ASSOCIATES
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 5398
-        Assets: 1050161917
-        $/Participant: 194546
+
+    2017
+        Participants: 5,398  Average: $194,546
+        Assets: $1,050,161,917
         RecordKeeper: ERNST & YOUNG
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST CO NA
@@ -542,53 +476,41 @@ AL : BIRMINGHAM
                  : CASTLEARK COLLECTIVE INVESTMENT
            - WELLINGTON TRUST COMPANY NA
                  : WTC-CIF II LONG BOND PORTFOLIO
-   [508]
-    2022: REGIONS FINANCIAL CORPORATION SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] REGIONS FINANCIAL CORPORATION SEVERANCE PLAN [508]
+    2022  [codes: 4I]
         Participants: 
-    2021: REGIONS FINANCIAL CORPORATION SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2021
         Participants: 
-    2020: REGIONS FINANCIAL CORPORATION SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2020
         Participants: 
-    2019: REGIONS FINANCIAL CORPORATION SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2019
         Participants: 
-    2018: REGIONS FINANCIAL CORPORATION SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2018
         Participants: 
-    2017: REGIONS FINANCIAL CORPORATION SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2017
         Participants: 
-   [513]
-    2022: REGIONS FINANCIAL CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Short-term disability, Long-term disability
-        Codes:  4F4H
+
+  [Short-term disability, Long-term disability] REGIONS FINANCIAL CORPORATION LONG TERM DISABILITY PLAN [513]
+    2022  [codes: 4F4H]
         Participants: 
-    2021: REGIONS FINANCIAL CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Short-term disability, Long-term disability
-        Codes:  4F4H
+
+    2021
         Participants: 
-    2020: REGIONS FINANCIAL CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Short-term disability, Long-term disability
-        Codes:  4F4H
+
+    2020
         Participants: 
-    2019: REGIONS FINANCIAL CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Short-term disability, Long-term disability
-        Codes:  4F4H
+
+    2019
         Participants: 
-    2018: REGIONS FINANCIAL CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Short-term disability, Long-term disability
-        Codes:  4F4H
+
+    2018
         Participants: 
-    2017: REGIONS FINANCIAL CORPORATION LONG TERM DISABILITY PLAN
-        Benefit Category: Short-term disability, Long-term disability
-        Codes:  4F4H
+
+    2017
         Participants: 

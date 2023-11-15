@@ -1,97 +1,70 @@
-MA : BOSTON
-  FIDUCIARY TRUST COMPANY  041309690
-   [003]
-    2022: FIDUCIARY TRUST COMPANY PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2T 
-        Participants: 175
-        Assets: 48266377
-        $/Participant: 275807
+FIDUCIARY TRUST COMPANY  041309690 -- MA : BOSTON
+  [401(k)] FIDUCIARY TRUST COMPANY PROFIT SHARING PLAN [003]
+    2022  [codes: 2A2E2F2G2J2K2T]
+        Participants: 175  Average: $275,807
+        Assets: $48,266,377
         RecordKeeper: THE VANGUARD GROUP, INC.
-    2021: FIDUCIARY TRUST COMPANY PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2T 
-        Participants: 167
-        Assets: 61967629
-        $/Participant: 371063
+
+    2021
+        Participants: 167  Average: $371,063
+        Assets: $61,967,629
         RecordKeeper: THE VANGUARD GROUP, INC.
-    2020: FIDUCIARY TRUST COMPANY PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2T 
-        Participants: 163
-        Assets: 56755208
-        $/Participant: 348191
+
+    2020
+        Participants: 163  Average: $348,191
+        Assets: $56,755,208
         RecordKeeper: THE VANGUARD GROUP, INC.
-    2019: FIDUCIARY TRUST COMPANY PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2T 
-        Participants: 163
-        Assets: 52269537
-        $/Participant: 320672
+
+    2019
+        Participants: 163  Average: $320,672
+        Assets: $52,269,537
         RecordKeeper: THE VANGUARD GROUP, INC.
-    2018: FIDUCIARY TRUST COMPANY PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2T 
-        Participants: 158
-        Assets: 41131812
-        $/Participant: 260327
+
+    2018
+        Participants: 158  Average: $260,327
+        Assets: $41,131,812
         RecordKeeper: THE VANGUARD GROUP, INC.
-    2017: FIDUCIARY TRUST COMPANY PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2T 
-        Participants: 150
-        Assets: 45987329
-        $/Participant: 306582
+
+    2017
+        Participants: 150  Average: $306,582
+        Assets: $45,987,329
         RecordKeeper: THE VANGUARD GROUP, INC.
-   [004]
-    2019: FIDUCIARY TRUST COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O3I 
+
+  [Employee Stock Ownership Plan] FIDUCIARY TRUST COMPANY EMPLOYEE STOCK OWNERSHIP PLAN [004]
+    2019  [codes: 2I2O3I]
         Participants: 0
-    2018: FIDUCIARY TRUST COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O3I 
-        Participants: 142
-        Assets: 30540262
-        $/Participant: 215072
-    2017: FIDUCIARY TRUST COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O3I 
-        Participants: 157
-        Assets: 36704646
-        $/Participant: 233787
-   [501]
-    2022: FIDUCIARY TRUST COMPANY CONSOLIDATED HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H
+
+    2018
+        Participants: 142  Average: $215,072
+        Assets: $30,540,262
+
+    2017
+        Participants: 157  Average: $233,787
+        Assets: $36,704,646
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability] FIDUCIARY TRUST COMPANY CONSOLIDATED HEALTH AND WELFARE PLAN [501]
+    2022  [codes: 4A4B4D4E4F4H]
         Participants: 
-    2021: FIDUCIARY TRUST COMPANY CONSOLIDATED HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H
+
+    2021
         Participants: 
-    2020: FIDUCIARY TRUST COMPANY CONSOLIDATED HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H
+
+    2020
         Participants: 
-    2019: FIDUCIARY TRUST COMPANY CONSOLIDATED HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H
+
+    2019
         Participants: 
-    2018: FIDUCIARY TRUST COMPANY CONSOLIDATED HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H
+
+    2018
         Participants: 
-    2017: FIDUCIARY TRUST COMPANY CONSOLIDATED HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H
+
+    2017
         Participants: 
-   [001]
-    2019: RETIREMENT PLAN FOR EMPLOYEES OF FIDUCIARY TRUST COMPANY
-        Benefit Category: Other
-        Codes: 1I 
-        Participants: 174
-        Assets: 37919117
-        $/Participant: 217925
+
+  [Other] RETIREMENT PLAN FOR EMPLOYEES OF FIDUCIARY TRUST COMPANY [001]
+    2019  [codes: 1I]
+        Participants: 174  Average: $217,925
+        Assets: $37,919,117
         Service Providers:
            - STATE STREET GLOBAL ADVISORS TRUST :  (Custodial(other than securities) | Custodial(securities) | Direct payment from the plan | Investment management fees paid directly by plan)
         Available Investments:
@@ -110,12 +83,10 @@ MA : BOSTON
                  : US AGGREGATE BOND INDEX
                  : US REIT INDEX
                  : US TREASURY STRIPS
-    2018: RETIREMENT PLAN FOR EMPLOYEES OF FIDUCIARY TRUST COMPANY
-        Benefit Category: Other
-        Codes: 1I 
-        Participants: 179
-        Assets: 33447319
-        $/Participant: 186856
+
+    2018
+        Participants: 179  Average: $186,856
+        Assets: $33,447,319
         Service Providers:
            - STATE STREET GLOBAL ADVISORS :  (Direct payment from the plan | Custodial(securities) | Custodial(other than securities))
         Available Investments:
@@ -134,12 +105,10 @@ MA : BOSTON
                  : US REIT INDEX
                  : US TIPS FUND
                  : US TREASURY STRIPS
-    2017: RETIREMENT PLAN FOR EMPLOYEES OF FIDUCIARY TRUST COMPANY
-        Benefit Category: Other
-        Codes: 1I 
-        Participants: 181
-        Assets: 37974886
-        $/Participant: 209806
+
+    2017
+        Participants: 181  Average: $209,806
+        Assets: $37,974,886
         Service Providers:
            - STATE STREET GLOBAL ADVISORS :  (Investment management fees paid directly by plan)
            - TOWERS WATSON DELAWARE INC :  (Actuarial)
@@ -158,9 +127,8 @@ MA : BOSTON
                  : US REIT INDEX
                  : US TIPS FUND
                  : US TREASURY STRIPS
-    2021: RETIREMENT PLAN FOR EMPLOYEES OF FIDUCIARY TRUST COMPANY
-        Benefit Category: Pension
-        Codes: 1A1I1H 
+
+    2021  [codes: 1A1I1H]
         Participants: 0
         RecordKeeper: STATE STREET GLOBAL ADVISORS TRUST
         Available Investments:
@@ -175,12 +143,10 @@ MA : BOSTON
                  : RUSSELL 2000 INDEX
                  : SSGA US HIGH QUALITY CORP BOND NL
                  : US TREASURY STRIPS
-    2020: RETIREMENT PLAN FOR EMPLOYEES OF FIDUCIARY TRUST COMPANY
-        Benefit Category: Pension
-        Codes: 1I1A 
-        Participants: 171
-        Assets: 40261572
-        $/Participant: 235447
+
+    2020  [codes: 1I1A]
+        Participants: 171  Average: $235,447
+        Assets: $40,261,572
         Service Providers:
            - STATE STREET GLOBAL ADVISORS TRUST :  (Custodial(other than securities) | Custodial(securities) | Direct payment from the plan | Investment management fees paid directly by plan | Non - monetary compensation)
         Available Investments:

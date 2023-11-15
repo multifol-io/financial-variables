@@ -1,11 +1,8 @@
-MA : WALTHAM
-  DASSAULT SYSTEMES AMERICAS CORP.  510379588
-    2022: DASSAULT SYSTEMES EMPLOYEE SAVINGS PLAN PLUS
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3H3D 
-        Participants: 8089
-        Assets: 1467771903
-        $/Participant: 181452
+DASSAULT SYSTEMES AMERICAS CORP.  510379588 -- MA : WALTHAM
+  [401(k)] DASSAULT SYSTEMES EMPLOYEE SAVINGS PLAN PLUS
+    2022  [codes: 2E2F2G2J2K2T3H3D]
+        Participants: 8,089  Average: $181,452
+        Assets: $1,467,771,903
         RecordKeeper: KESTRA ADVISORY SERVICES, LLC
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
@@ -35,12 +32,10 @@ MA : WALTHAM
                  : WF SPL SM CAP VAL E
            - WILMINGTON TRUST, N.A.
                  : WT FKLN GROWTH R
-    2021: DASSAULT SYSTEMES EMPLOYEE SAVINGS PLAN PLUS
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3H3D 
-        Participants: 7579
-        Assets: 1741601932
-        $/Participant: 229793
+
+    2021
+        Participants: 7,579  Average: $229,793
+        Assets: $1,741,601,932
         RecordKeeper: STRATEGIC ADVISORS, INC.
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
@@ -69,12 +64,10 @@ MA : WALTHAM
                  : WT FKLN GROWTH R
            - WILMINGTON TRUST
                  : WT METLIFE STAB VAL
-    2020: DASSAULT SYSTEMES EMPLOYEE SAVINGS PLAN PLUS
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3H3D 
-        Participants: 5367
-        Assets: 1491417232
-        $/Participant: 277886
+
+    2020
+        Participants: 5,367  Average: $277,886
+        Assets: $1,491,417,232
         RecordKeeper: KESTRA ADVISORY SERVICES, LLC
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
@@ -96,12 +89,10 @@ MA : WALTHAM
                  : TRP RETIRE BAL F
            - WILMINGTON TRUST
                  : WT METLIFE STAB VAL
-    2019: DASSAULT SYSTEMES EMPLOYEE SAVINGS PLAN PLUS
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D3H 
-        Participants: 4652
-        Assets: 1060627102
-        $/Participant: 227993
+
+    2019  [codes: 2E2F2G2J2K2T3D3H]
+        Participants: 4,652  Average: $227,993
+        Assets: $1,060,627,102
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
@@ -121,12 +112,10 @@ MA : WALTHAM
                  : TRP RETIRE 2055 F
                  : TRP RETIRE 2060 F
                  : TRP RETIRE BAL F
-    2018: DASSAULT SYSTEMES EMPLOYEE SAVINGS PLAN PLUS
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2T3D3H2E 
-        Participants: 4381
-        Assets: 808298345
-        $/Participant: 184500
+
+    2018  [codes: 2F2G2J2K2T3D3H2E]
+        Participants: 4,381  Average: $184,500
+        Assets: $808,298,345
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
@@ -146,57 +135,46 @@ MA : WALTHAM
                  : TRP RETIRE 2055 F
                  : TRP RETIRE 2060 F
                  : TRP RETIRE BAL F
-    2017: DASSAULT SYSTEMES EMPLOYEE SAVINGS PLAN PLUS
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D3H 
-        Participants: 4128
-        Assets: 804131081
-        $/Participant: 194799
+
+    2017  [codes: 2E2F2G2J2K2T3D3H]
+        Participants: 4,128  Average: $194,799
+        Assets: $804,131,081
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-   [501]
-    2022: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE HEALTH BENEFITS PLAN [501]
+    2022  [codes: 4A4B4D4E4F4G4H4L4Q]
         Participants: 
-    2021: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
+
+    2021
         Participants: 
-    2020: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
+
+    2020
         Participants: 
-    2019: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2019  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
-    2018: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2018
         Participants: 
-    2017: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2017
         Participants: 
-   [002]
-    2019: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1I1H 
+
+  [Pension] DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE RETIREMENT PLAN [002]
+    2019  [codes: 1A1I1H]
         Participants: 0
         Service Providers:
            - GALLAGHER :  (Plan Administrator | Direct payment from the plan)
            - RYAN LABS :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - WILLIS TOWERS WATSON US LLC :  (Actuarial | Direct payment from the plan)
            - FIRST STATE TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Trustee(directed) | Investment management | Direct payment from the plan)
-    2018: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 448
-        Assets: 57355286
-        $/Participant: 128025
+
+    2018  [codes: 1A1I]
+        Participants: 448  Average: $128,025
+        Assets: $57,355,286
         Service Providers:
            - MCDONNELL INVESTMENT MANAGEMENT :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - LAZARD FRERES & CO :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
@@ -206,12 +184,10 @@ MA : WALTHAM
            - MORGAN STANLEY :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - RIVERBRIDGE PARTNERS :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - RYAN LABS :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
-    2017: DASSAULT SYSTEMES AMERICAS CORP. EMPLOYEE RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 449
-        Assets: 58181640
-        $/Participant: 129580
+
+    2017
+        Participants: 449  Average: $129,580
+        Assets: $58,181,640
         Service Providers:
            - MCDONNELL INVESTMENT MANAGEMENT :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - LAZARD FRERES & CO :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)

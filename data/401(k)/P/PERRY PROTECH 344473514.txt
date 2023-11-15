@@ -1,73 +1,56 @@
-OH : LIMA
-  PERRY PROTECH  344473514
-    2021: PERRY PROTECH EMPLOYEE STOCK OWNERSHIP AND PROFIT SHARING PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2I2Q2E 
-        Participants: 295
-        Assets: 107448404
-        $/Participant: 364231
-    2020: PERRY PROTECH EMPLOYEE STOCK OWNERSHIP AND PROFIT SHARING PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2I2Q2E 
-        Participants: 281
-        Assets: 105350551
-        $/Participant: 374912
-    2019: PERRY PROTECH EMPLOYEE STOCK OWNERSHIP AND PROFIT SHARING PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2I2Q2E 
-        Participants: 297
-        Assets: 97153283
-        $/Participant: 327115
-    2018: PERRY PROTECH EMPLOYEE STOCK OWNERSHIP AND PROFIT SHARING PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2I2Q2E 
-        Participants: 330
-        Assets: 100952610
-        $/Participant: 305917
+PERRY PROTECH  344473514 -- OH : LIMA
+  [Employee Stock Ownership Plan] PERRY PROTECH EMPLOYEE STOCK OWNERSHIP AND PROFIT SHARING PLAN
+    2021  [codes: 2P2I2Q2E]
+        Participants: 295  Average: $364,231
+        Assets: $107,448,404
+
+    2020
+        Participants: 281  Average: $374,912
+        Assets: $105,350,551
+
+    2019
+        Participants: 297  Average: $327,115
+        Assets: $97,153,283
+
+    2018
+        Participants: 330  Average: $305,917
+        Assets: $100,952,610
         RecordKeeper: THE VANGUARD GROUP, INC.
-    2017: PERRY PROTECH EMPLOYEE STOCK OWNERSHIP AND PROFIT SHARING PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2I2Q2E 
-        Participants: 289
-        Assets: 96140154
-        $/Participant: 332664
+
+    2017
+        Participants: 289  Average: $332,664
+        Assets: $96,140,154
         RecordKeeper: THE VANGUARD GROUP, INC.
-   [501]
-    2022: PERRY PROTECH HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H
+
+  [Healthcare, Life insurance, Dental, Long-term disability] PERRY PROTECH HEALTH BENEFITS PLAN [501]
+    2022  [codes: 4A4B4D4H]
         Participants: 
         Service Providers:
            - BENEFIT ASSISTANCE CORPORATION : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - TRUE RX MANAGEMENT SERVICES, INC : PBM (Claims processing)
-    2021: PERRY PROTECH HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H
+
+    2021
         Participants: 
         Service Providers:
            - BENEFIT ASSISTANCE CORPORATION : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - TRUE RX MANAGEMENT SERVICES, INC : PBM (Claims processing)
-    2020: PERRY PROTECH HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H
+
+    2020
         Participants: 
         Service Providers:
            - BENEFIT ASSISTANCE CORPORATION : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2019: PERRY PROTECH HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H
+
+    2019
         Participants: 
         Service Providers:
            - BENEFIT ASSISTANCE CORPORATION : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2018: PERRY PROTECH HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H
+
+    2018
         Participants: 
         Service Providers:
            - BENEFIT ASSISTANCE CORPORATION : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2017: PERRY PROTECH HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H
+
+    2017
         Participants: 
         Service Providers:
            - BENEFIT ASSISTANCE CORPORATION : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)

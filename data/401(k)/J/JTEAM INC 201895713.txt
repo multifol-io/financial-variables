@@ -1,37 +1,24 @@
-NC : RALEIGH
-  JTEAM INC  201895713
-   [002]
-    2022: JTEAM INC EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H3I 
-        Participants: 124
-        Assets: 58200015
-        $/Participant: 469354
-    2021: JTEAM INC EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H3I 
-        Participants: 125
-        Assets: 52200550
-        $/Participant: 417604
-    2020: JTEAM INC EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H3I 
-        Participants: 152
-        Assets: 8802207
-        $/Participant: 57909
-    2019: JTEAM INC EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H3I 
-        Participants: 134
-        Assets: 4158673
-        $/Participant: 31034
-    2018: JTEAM INC EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H 
-        Participants: 121
-        Assets: 4190639
-        $/Participant: 34633
-    2017: JTEAM INC EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3H3I 
+JTEAM INC  201895713 -- NC : RALEIGH
+  [Employee Stock Ownership Plan] JTEAM INC EMPLOYEE STOCK OWNERSHIP PLAN [002]
+    2022  [codes: 2I2P2Q3H3I]
+        Participants: 124  Average: $469,354
+        Assets: $58,200,015
+
+    2021
+        Participants: 125  Average: $417,604
+        Assets: $52,200,550
+
+    2020
+        Participants: 152  Average: $57,909
+        Assets: $8,802,207
+
+    2019
+        Participants: 134  Average: $31,034
+        Assets: $4,158,673
+
+    2018  [codes: 2I2P2Q3H]
+        Participants: 121  Average: $34,633
+        Assets: $4,190,639
+
+    2017  [codes: 2I2P3H3I]
         Participants: 116

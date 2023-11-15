@@ -1,8 +1,7 @@
-IL : NORTHFIELD
-  COLLEGE OF AMERICAN PATHOLOGISTS  362118323
+COLLEGE OF AMERICAN PATHOLOGISTS  362118323 -- IL : NORTHFIELD
+  [401(k)]COLLEGE OF AMERICAN PATHOLOGISTS EMPLOYEES RETIREMENT AND 401(K) PLAN
    [002]
-    2022: COLLEGE OF AMERICAN PATHOLOGISTS EMPLOYEES RETIREMENT AND 401(K) PLAN
-        Benefit Category: 401(k)
+    2022
         Codes: 2G2J2K2T2E2F3D 
         Participants: 931
         Assets: 232674183
@@ -11,8 +10,9 @@ IL : NORTHFIELD
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-    2021: COLLEGE OF AMERICAN PATHOLOGISTS EMPLOYEES RETIREMENT AND 401(K) PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]COLLEGE OF AMERICAN PATHOLOGISTS EMPLOYEES RETIREMENT AND 401(K) PLAN
+    2021
         Codes: 2G2J2K2T2E3D2F 
         Participants: 902
         Assets: 277512680
@@ -21,8 +21,9 @@ IL : NORTHFIELD
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-    2020: COLLEGE OF AMERICAN PATHOLOGISTS EMPLOYEES RETIREMENT AND 401(K) PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]COLLEGE OF AMERICAN PATHOLOGISTS EMPLOYEES RETIREMENT AND 401(K) PLAN
+    2020
         Codes: 2F2G2J2K2T3D2E 
         Participants: 857
         Assets: 243517998
@@ -31,8 +32,9 @@ IL : NORTHFIELD
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-    2019: COLLEGE OF AMERICAN PATHOLOGISTS EMPLOYEES RETIREMENT AND 401(K) PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]COLLEGE OF AMERICAN PATHOLOGISTS EMPLOYEES RETIREMENT AND 401(K) PLAN
+    2019
         Codes: 2E2F2G2J2K2T3D 
         Participants: 834
         Assets: 208803929
@@ -41,8 +43,9 @@ IL : NORTHFIELD
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-    2018: COLLEGE OF AMERICAN PATHOLOGISTS EMPLOYEES RETIREMENT AND 401(K) PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]COLLEGE OF AMERICAN PATHOLOGISTS EMPLOYEES RETIREMENT AND 401(K) PLAN
+    2018
         Codes: 2E2F2G2J2K2T3D 
         Participants: 821
         Assets: 169618315
@@ -51,8 +54,9 @@ IL : NORTHFIELD
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-    2017: COLLEGE OF AMERICAN PATHOLOGISTS EMPLOYEES RETIREMENT AND 401(K) PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]COLLEGE OF AMERICAN PATHOLOGISTS EMPLOYEES RETIREMENT AND 401(K) PLAN
+    2017
         Codes: 2E2F2G2J2K2T3D 
         Participants: 791
         Assets: 173302334
@@ -61,9 +65,10 @@ IL : NORTHFIELD
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident]THE COLLEGE OF AMERICAN PATHOLOGISTS EMPLOYEE BENEFITS PLAN
    [501]
-    2022: THE COLLEGE OF AMERICAN PATHOLOGISTS EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
+    2022
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
         Service Providers:
@@ -72,24 +77,27 @@ IL : NORTHFIELD
            - EMPLOYEE BENEFITS CORPORATION :  (Claims processing | Contract Administrator)
            - RXBENEFITS, INC. : CLAIMS PROCESSING (Claims processing | Contract Administrator)
            - HUB INTERNATIONAL MIDWEST LTD : BROKER (Insurance agents and brokers)
-    2021: THE COLLEGE OF AMERICAN PATHOLOGISTS EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident]THE COLLEGE OF AMERICAN PATHOLOGISTS EMPLOYEE BENEFITS PLAN
+    2021
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
         Service Providers:
            - BLUECROSS BLUESHIELD OF IL : ADMINISTRATIVE SERVICES (Claims processing | Contract Administrator)
            - RXBENEFITS, INC. : CLAIMS PROCESSING (Claims processing | Contract Administrator)
            - HUB INTERNATIONAL MIDWEST LTD : BROKER (Insurance agents and brokers)
-    2020: THE COLLEGE OF AMERICAN PATHOLOGISTS EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident]THE COLLEGE OF AMERICAN PATHOLOGISTS EMPLOYEE BENEFITS PLAN
+    2020
         Codes:  4A4B4D4E4H4L4Q
         Participants: 
         Service Providers:
            - BLUECROSS BLUESHIELD OF IL : ADMINISTRATIVE SERVICES (Claims processing | Contract Administrator)
            - RXBENEFITS, INC. : CLAIMS PROCESSING (Claims processing | Contract Administrator)
            - HUB INTERNATIONAL MIDWEST LTD : BROKER (Insurance agents and brokers)
-    2019: THE COLLEGE OF AMERICAN PATHOLOGISTS EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability]THE COLLEGE OF AMERICAN PATHOLOGISTS EMPLOYEE BENEFITS PLAN
+    2019
         Codes:  4A4B4D4H4Q4E
         Participants: 
         Service Providers:
@@ -97,8 +105,9 @@ IL : NORTHFIELD
            - COMPSYCH : CONTRACT ADMINISTRATOR (Contract Administrator | Other services)
            - EMPLOYEE BENEFITS CORPORATION : THIRD PARTY ADMINISTRATO (Claims processing | Contract Administrator)
            - HUB INTERNATIONAL MIDWEST LTD : BROKER (Insurance agents and brokers)
-    2018: THE COLLEGE OF AMERICAN PATHOLOGISTS HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
+
+  [Healthcare, Life insurance, Dental, Long-term disability]THE COLLEGE OF AMERICAN PATHOLOGISTS HEALTH INSURANCE PLAN
+    2018
         Codes:  4A4B4D4H4Q
         Participants: 
         Service Providers:
@@ -106,15 +115,17 @@ IL : NORTHFIELD
            - COMPSYCH : CONTRACT ADMINISTRATOR (Contract Administrator | Other services)
            - RXBENEFITS, INC : CONTRACT ADMINISTRATOR (Contract Administrator | Other services)
            - HUB INTERNATIONAL MIDWEST LTD : BROKER (Insurance agents and brokers)
-    2017: THE COLLEGE OF AMERICAN PATHOLOGISTS HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability, Travel accident
+
+  [Healthcare, Life insurance, Dental, Long-term disability, Travel accident]THE COLLEGE OF AMERICAN PATHOLOGISTS HEALTH INSURANCE PLAN
+    2017
         Codes:  4A4B4D4H4L4Q
         Participants: 
         Service Providers:
            - BLUECROSS BLUESHIELD : ADMINISTRATIVE SERVICES (Claims processing | Contract Administrator)
            - HUB INTERNATIONAL MIDWEST LTD : BROKER (Insurance agents and brokers)
+
+  [Healthcare]COLLEGE OF AMERICAN PATHOLOGISTS FLEXIBLE COMPENSATION PLAN
    [505]
-    2018: COLLEGE OF AMERICAN PATHOLOGISTS FLEXIBLE COMPENSATION PLAN
-        Benefit Category: Healthcare
+    2018
         Codes:  4A
         Participants: 

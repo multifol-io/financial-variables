@@ -1,77 +1,57 @@
-MA : BOSTON
-  MEDICAL PROFESSIONAL MUTUAL INSURANCE COMPANY  042595783
-   [002]
-    2022: COVERYS 401(K) RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2K2E2S2T3H2F2G2J3D 
-        Participants: 756
-        Assets: 149456793
-        $/Participant: 197694
+MEDICAL PROFESSIONAL MUTUAL INSURANCE COMPANY  042595783 -- MA : BOSTON
+  [401(k)] COVERYS 401(K) RETIREMENT PLAN [002]
+    2022  [codes: 2K2E2S2T3H2F2G2J3D]
+        Participants: 756  Average: $197,694
+        Assets: $149,456,793
         RecordKeeper: PLANTE MORAN
-    2021: COVERYS 401(K) RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2K2E2S2T3H3D2F2G2J 
-        Participants: 723
-        Assets: 192367682
-        $/Participant: 266068
+
+    2021  [codes: 2K2E2S2T3H3D2F2G2J]
+        Participants: 723  Average: $266,068
+        Assets: $192,367,682
         RecordKeeper: PLANTE MORAN
-    2020: COVERYS 401(K) RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2E2S2T3H3D 
-        Participants: 716
-        Assets: 173153677
-        $/Participant: 241834
+
+    2020  [codes: 2F2G2J2K2E2S2T3H3D]
+        Participants: 716  Average: $241,834
+        Assets: $173,153,677
         RecordKeeper: STRATEGIC ADVISORS, INC.
-    2019: COVERYS 401(K) RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D3H 
-        Participants: 707
-        Assets: 151304269
-        $/Participant: 214008
+
+    2019  [codes: 2E2F2G2J2K2S2T3D3H]
+        Participants: 707  Average: $214,008
+        Assets: $151,304,269
         RecordKeeper: STRATEGIC ADVISORS, INC.
-    2018: COVERYS 401(K) RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D3H 
-        Participants: 706
-        Assets: 120456911
-        $/Participant: 170618
+
+    2018
+        Participants: 706  Average: $170,618
+        Assets: $120,456,911
         RecordKeeper: STRATEGIC ADVISORS, INC.
-    2017: COVERYS 401(K) RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 602
-        Assets: 121417796
-        $/Participant: 201690
+
+    2017  [codes: 2E2F2G2J2K2S2T3H]
+        Participants: 602  Average: $201,690
+        Assets: $121,417,796
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-   [502]
-    2022: MEDICAL PROFESSIONAL MUTUAL INSURANCE COMPANY EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident] MEDICAL PROFESSIONAL MUTUAL INSURANCE COMPANY EMPLOYEE BENEFIT PLAN [502]
+    2022  [codes: 4A4B4D4E4H4L4Q]
         Participants: 
-    2021: MEDICAL PROFESSIONAL MUTUAL INSURANCE COMPANY EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4Q
+
+    2021
         Participants: 
-    2020: MEDICAL PROFESSIONAL MUTUAL INSURANCE COMPANY EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4Q
+
+    2020
         Participants: 
-    2019: COVERYS GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident] COVERYS GROUP BENEFIT PLAN
+    2019
         Participants: 
-    2018: COVERYS GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+    2018  [codes: 4A4B4D4E4H4L]
         Participants: 
-    2017: COVERYS GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+    2017
         Participants: 
-   [004]
-    2021: FINCOR HOLDINGS, INC. PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I3H 
+
+  [Pension] FINCOR HOLDINGS, INC. PENSION PLAN [004]
+    2021  [codes: 1A1I3H]
         Participants: 0
         Service Providers:
            - FID MGMT TRUST CO : TRUSTEE (Trustee(directed) | Other investment fees and expenses | Other fees)
@@ -83,12 +63,10 @@ MA : BOSTON
                  : FIAM LONG DURATION COMM PL
                  : FIAM LONG U.S. TREASURY STRIPS
                  : FIAM SHORT DURATION COMM PL
-    2020: FINCOR HOLDINGS, INC. PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 152
-        Assets: 24009761
-        $/Participant: 157958
+
+    2020
+        Participants: 152  Average: $157,958
+        Assets: $24,009,761
         Service Providers:
            - FID MGMT TRUST CO : TRUSTEE (Trustee(directed) | Other investment fees and expenses | Other fees)
         Available Investments:
@@ -98,12 +76,10 @@ MA : BOSTON
                  : FIAM LONG DURATION COMM PL
                  : FIAM LONG U.S. TREASURY STRIPS
                  : FIAM SHORT DURATION COMM PL
-    2019: FINCOR HOLDINGS, INC. PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 198
-        Assets: 26677896
-        $/Participant: 134736
+
+    2019
+        Participants: 198  Average: $134,736
+        Assets: $26,677,896
         Service Providers:
            - FID MGMT TRUST CO : TRUSTEE (Trustee(directed) | Other investment fees and expenses | Other fees)
         Available Investments:
@@ -112,11 +88,9 @@ MA : BOSTON
                  : FIAM LONG CORP A OR BETTER COMM PL
                  : FIAM LONG DURATION COMM PL
                  : FIAM LONG U.S. TREASURY STRIPS
-    2018: FINCOR HOLDINGS, INC. PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 200
-        Assets: 22485928
-        $/Participant: 112429
+
+    2018
+        Participants: 200  Average: $112,429
+        Assets: $22,485,928
         Service Providers:
            - FID MGMT TRUST CO : TRUSTEE (Trustee(directed) | Other investment fees and expenses | Other fees)

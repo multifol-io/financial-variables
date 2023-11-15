@@ -1,64 +1,44 @@
-OR : PORTLAND
-  HOFFMAN CORPORATION  930863884
-   [502]
-    2022: HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+HOFFMAN CORPORATION  930863884 -- OR : PORTLAND
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] HEALTH AND WELFARE BENEFIT PLAN [502]
+    2022  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
-    2021: HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2021
         Participants: 
-    2020: HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4F4H4L4Q
+
+    2020  [codes: 4A4B4D4F4H4L4Q]
         Participants: 
-    2019: HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4F4H4L4Q
+
+    2019
         Participants: 
-    2018: HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4F4H4L4Q
+
+    2018
         Participants: 
-    2017: HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4F4H4L4Q
+
+    2017
         Participants: 
-   [003]
-    2022: THE HOFFMAN EMPLOYEE RETIREMENT INCOME PLAN
-        Benefit Category: Other
-        Codes: 2E 
-        Participants: 644
-        Assets: 146675789
-        $/Participant: 227757
-    2021: THE HOFFMAN EMPLOYEE RETIREMENT INCOME PLAN
-        Benefit Category: Other
-        Codes: 2E 
-        Participants: 618
-        Assets: 170765934
-        $/Participant: 276320
-    2020: THE HOFFMAN EMPLOYEE RETIREMENT INCOME PLAN
-        Benefit Category: Other
-        Codes: 2E 
-        Participants: 611
-        Assets: 168149728
-        $/Participant: 275204
-    2019: THE HOFFMAN EMPLOYEE RETIREMENT INCOME PLAN
-        Benefit Category: Other
-        Codes: 2E 
-        Participants: 551
-        Assets: 164352144
-        $/Participant: 298279
-    2018: THE HOFFMAN EMPLOYEE RETIREMENT INCOME PLAN
-        Benefit Category: Other
-        Codes: 2E 
-        Participants: 534
-        Assets: 140017027
-        $/Participant: 262204
-    2017: THE HOFFMAN EMPLOYEE RETIREMENT INCOME PLAN
-        Benefit Category: Other
-        Codes: 2E 
-        Participants: 526
-        Assets: 155611701
-        $/Participant: 295839
+
+  [Other] THE HOFFMAN EMPLOYEE RETIREMENT INCOME PLAN [003]
+    2022  [codes: 2E]
+        Participants: 644  Average: $227,757
+        Assets: $146,675,789
+
+    2021
+        Participants: 618  Average: $276,320
+        Assets: $170,765,934
+
+    2020
+        Participants: 611  Average: $275,204
+        Assets: $168,149,728
+
+    2019
+        Participants: 551  Average: $298,279
+        Assets: $164,352,144
+
+    2018
+        Participants: 534  Average: $262,204
+        Assets: $140,017,027
+
+    2017
+        Participants: 526  Average: $295,839
+        Assets: $155,611,701

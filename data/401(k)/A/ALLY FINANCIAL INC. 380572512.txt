@@ -1,12 +1,8 @@
-MI : DETROIT
-  ALLY FINANCIAL INC.  380572512
-   [001]
-    2022: ALLY FINANCIAL INC. RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 15752
-        Assets: 2147869051
-        $/Participant: 136355
+ALLY FINANCIAL INC.  380572512 -- MI : DETROIT
+  [401(k)] ALLY FINANCIAL INC. RETIREMENT SAVINGS PLAN [001]
+    2022  [codes: 2E2F2G2J2K2S2T3H]
+        Participants: 15,752  Average: $136,355
+        Assets: $2,147,869,051
         Service Providers:
            - CALLAN :  (Consulting(pension) | Direct payment from the plan)
            - INVESCO ADVISERS, INC. :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Other fees)
@@ -47,12 +43,10 @@ MI : DETROIT
                  : CALLAN INTERNATIONAL EQUITY
                  : CALLAN LARGE CAP EQUITY
                  : CALLAN SMALL CAP EQUITY
-    2021: ALLY FINANCIAL INC. RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 14266
-        Assets: 2465775074
-        $/Participant: 172842
+
+    2021
+        Participants: 14,266  Average: $172,842
+        Assets: $2,465,775,074
         RecordKeeper: DELOITTE & TOUCHE
         Available Investments:
            - INVESCO TRUST COMPANY
@@ -78,12 +72,10 @@ MI : DETROIT
                  : VANGUARD FTC TGT RET 2065 TRUST PLU
                  : VANGUARD FTC TGT RET INC TRUST PLUS
                  : VANGUARD TGT RET 2030 TRUST PLU
-    2020: ALLY FINANCIAL INC. RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 13429
-        Assets: 2106150276
-        $/Participant: 156835
+
+    2020
+        Participants: 13,429  Average: $156,835
+        Assets: $2,106,150,276
         RecordKeeper: DELOITTE & TOUCHE
         Available Investments:
            - INVESCO TRUST COMPANY
@@ -109,12 +101,10 @@ MI : DETROIT
                  : VANGUARD FTC TGT RET 2065 TRUST I
                  : VANGUARD FTC TGT RET INC TRUST I
                  : VANGUARD TGT RET 2030 TRUST I
-    2019: ALLY FINANCIAL INC. RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 15043
-        Assets: 1787359485
-        $/Participant: 118816
+
+    2019
+        Participants: 15,043  Average: $118,816
+        Assets: $1,787,359,485
         RecordKeeper: CALLAN
         Available Investments:
            - INVESCO TRUST COMPANY
@@ -144,12 +134,10 @@ MI : DETROIT
                  : VANGUARD FTC TGT RET 2065 TRUST I
                  : VANGUARD FTC TGT RET INC TRUST II
                  : VANGUARD TGT RET 2030 TRUST II
-    2018: ALLY FINANCIAL INC. RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 14759
-        Assets: 1451668348
-        $/Participant: 98358
+
+    2018
+        Participants: 14,759  Average: $98,358
+        Assets: $1,451,668,348
         RecordKeeper: PLANTE & MORAN, PLLC
         Available Investments:
            - INVESCO TRUST COMPANY
@@ -182,12 +170,10 @@ MI : DETROIT
                  : VANGUARD FTC TGT RET 2065 TRUST II
                  : VANGUARD FTC TGT RET INC TRUST II
                  : VANGUARD TGT RET 2030 TRUST II
-    2017: ALLY FINANCIAL INC. RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 15831
-        Assets: 1522675016
-        $/Participant: 96183
+
+    2017
+        Participants: 15,831  Average: $96,183
+        Assets: $1,522,675,016
         RecordKeeper: PLANTE & MORAN, PLLC
         Available Investments:
            - INVESCO TRUST COMPANY
@@ -221,38 +207,30 @@ MI : DETROIT
                  : VANGUARD FTC TGT RET 2065 TRUST II
                  : VANGUARD FTC TGT RET INC TRUST II
                  : VANGUARD TGT RET 2030 TRUST II
-   [525]
-    2022: ALLY FINANCIAL INC. WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4E4F4H4L4Q
+
+  [Healthcare, Life insurance, Vision, Short-term disability, Long-term disability, Travel accident] ALLY FINANCIAL INC. WELFARE BENEFIT PLAN [525]
+    2022  [codes: 4A4B4E4F4H4L4Q]
         Participants: 
-    2021: ALLY FINANCIAL INC. WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4E4F4H4L4Q
+
+    2021
         Participants: 
-    2020: ALLY FINANCIAL INC. WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4E4F4H4L4Q
+
+    2020
         Participants: 
-    2019: ALLY FINANCIAL INC. WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4E4F4H4L4Q
+
+    2019
         Participants: 
-    2018: ALLY FINANCIAL INC. WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2018  [codes: 4A4B4D4E4F4H4Q]
         Participants: 
-    2017: ALLY FINANCIAL INC. WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2017
         Participants: 
-   [002]
-    2022: EMPLOYEES' RETIREMENT PLAN FOR FORMER ALLY BUSINESS UNITS
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 1
-        Assets: 525478
-        $/Participant: 525478
+
+  [Pension] EMPLOYEES' RETIREMENT PLAN FOR FORMER ALLY BUSINESS UNITS [002]
+    2022  [codes: 1A1I3H]
+        Participants: 1  Average: $525,478
+        Assets: $525,478
         Service Providers:
            - WILLIS TOWERS WATSON US LLC :  (Actuarial | Consulting(pension) | Direct payment from the plan)
            - GOLDMAN SACHS ASSET MANAGEMENT, LP :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Non - monetary compensation)
@@ -268,12 +246,10 @@ MI : DETROIT
            - THE GOLDMAN SACHS TRUST COMPANY NA
                  : GS CT LONG DURATION CREDIT FUND
                  : GSTCO INTERMEDIATE DUR CREDIT FUND
-    2021: EMPLOYEES' RETIREMENT PLAN FOR FORMER ALLY BUSINESS UNITS
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 2200
-        Assets: 138329943
-        $/Participant: 62877
+
+    2021
+        Participants: 2,200  Average: $62,877
+        Assets: $138,329,943
         Service Providers:
            - GOLDMAN SACHS ASSET MANAGEMENT, LP :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Non - monetary compensation)
            - WILLIS TOWERS WATSON US LLC :  (Actuarial | Consulting(pension) | Direct payment from the plan)
@@ -289,12 +265,10 @@ MI : DETROIT
            - THE GOLDMAN SACHS TRUST COMPANY NA
                  : GS CT LONG DURATION CREDIT FUND
                  : GSTCO INTERMEDIATE DUR CREDIT FUND
-    2020: EMPLOYEES' RETIREMENT PLAN FOR FORMER ALLY BUSINESS UNITS
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 2206
-        Assets: 134887295
-        $/Participant: 61145
+
+    2020
+        Participants: 2,206  Average: $61,145
+        Assets: $134,887,295
         Service Providers:
            - GOLDMAN SACHS ASSET MANAGEMENT, LP :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Non - monetary compensation)
            - WILLIS TOWERS WATSON US LLC :  (Actuarial | Consulting(pension) | Direct payment from the plan)
@@ -310,12 +284,10 @@ MI : DETROIT
            - THE GOLDMAN SACHS TRUST COMPANY NA
                  : GS CT LONG DURATION CREDIT FUND
                  : GSTCO INTERMEDIATE DUR CREDIT FUND
-    2019: EMPLOYEES' RETIREMENT PLAN FOR FORMER ALLY BUSINESS UNITS
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 2208
-        Assets: 123834474
-        $/Participant: 56084
+
+    2019
+        Participants: 2,208  Average: $56,084
+        Assets: $123,834,474
         Service Providers:
            - GOLDMAN SACHS ASSET MANAGEMENT, LP :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Non - monetary compensation)
            - WILLIS TOWERS WATSON US LLC :  (Actuarial | Consulting(pension) | Direct payment from the plan)
@@ -330,12 +302,10 @@ MI : DETROIT
                  : SSGA RUSSELL 1000(R) INDEX NL FUND
            - THE GOLDMAN SACHS TRUST COMPANY NA
                  : GS CT LONG DURATION CREDIT FUND
-    2018: EMPLOYEES' RETIREMENT PLAN FOR FORMER ALLY BUSINESS UNITS
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 2211
-        Assets: 105007932
-        $/Participant: 47493
+
+    2018
+        Participants: 2,211  Average: $47,493
+        Assets: $105,007,932
         Service Providers:
            - GOLDMAN SACHS ASSET MANAGEMENT, LP : NONE KNOWN (Investment management | Investment management fees paid directly by plan | Direct payment from the plan | Non - monetary compensation)
            - WILLIS TOWERS WATSON US LLC : NONE KNOWN (Actuarial | Consulting(pension) | Direct payment from the plan)
@@ -350,12 +320,10 @@ MI : DETROIT
                  : SSGA RUSSELL 1000(R) INDEX NL FUND
            - THE GOLDMAN SACHS TRUST COMPANY NA
                  : GS CT LONG DURATION CREDIT FUND
-    2017: EMPLOYEES' RETIREMENT PLAN FOR FORMER ALLY BUSINESS UNITS
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 2222
-        Assets: 118592459
-        $/Participant: 53371
+
+    2017
+        Participants: 2,222  Average: $53,371
+        Assets: $118,592,459
         Service Providers:
            - GOLDMAN SACHS ASSET MANAGEMENT, LP : NONE KNOWN (Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Non - monetary compensation)
            - TOWERS WATSON DELAWARE, INC. : NONE KNOWN (Actuarial | Consulting(pension) | Direct payment from the plan)
@@ -370,53 +338,41 @@ MI : DETROIT
                  : SSGA RUSSELL 1000(R) INDEX NL FUND
            - THE GOLDMAN SACHS TRUST COMPANY NA
                  : GS CT LONG DURATION CREDIT FUND
-   [535]
-    2022: ALLY FINANCIAL INC. SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] ALLY FINANCIAL INC. SEVERANCE PLAN [535]
+    2022  [codes: 4I]
         Participants: 
-    2021: ALLY FINANCIAL INC. SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2021
         Participants: 
-    2020: ALLY FINANCIAL INC. SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2020
         Participants: 
-    2019: ALLY FINANCIAL INC. SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2019
         Participants: 
-    2018: ALLY FINANCIAL INC. SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2018
         Participants: 
-    2017: ALLY FINANCIAL INC. SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2017
         Participants: 
-   [555]
-    2022: ALLY FINANCIAL INC. BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Travel accident
-        Codes:  4L4Q
+
+  [Travel accident] ALLY FINANCIAL INC. BUSINESS TRAVEL ACCIDENT PLAN [555]
+    2022  [codes: 4L4Q]
         Participants: 
-    2021: ALLY FINANCIAL INC. BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Travel accident
-        Codes:  4L4Q
+
+    2021
         Participants: 
-    2020: ALLY FINANCIAL INC. BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Travel accident
-        Codes:  4L4Q
+
+    2020
         Participants: 
-    2019: ALLY FINANCIAL INC. BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Travel accident
-        Codes:  4L4Q
+
+    2019
         Participants: 
-    2018: ALLY FINANCIAL INC. BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Travel accident
-        Codes:  4L4Q
+
+    2018
         Participants: 
-    2017: ALLY FINANCIAL INC. BUSINESS TRAVEL ACCIDENT PLAN
-        Benefit Category: Travel accident
-        Codes:  4L4Q
+
+    2017
         Participants: 

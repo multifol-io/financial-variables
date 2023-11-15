@@ -1,47 +1,34 @@
-NC : WINSTON-SALEM
-  PRIMO WATER  300278688
-    2020: PRIMO WATER CORPORATION 401(K) PLAN & TRUST
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 1
-        Assets: 374383
-        $/Participant: 374383
+PRIMO WATER  300278688 -- NC : WINSTON-SALEM
+  [401(k)] PRIMO WATER CORPORATION 401(K) PLAN & TRUST
+    2020  [codes: 2E2F2G2J2K2S2T3D]
+        Participants: 1  Average: $374,383
+        Assets: $374,383
         RecordKeeper: JOHN HANCOCK LIFE INSURANCE COMPANY
-    2019: PRIMO WATER CORPORATION 401(K) PLAN & TRUST
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 621
-        Assets: 21329633
-        $/Participant: 34347
+
+    2019
+        Participants: 621  Average: $34,347
+        Assets: $21,329,633
         RecordKeeper: ADVISED ASSETS GROUP
-    2018: PRIMO WATER CORPORATION 401(K) PLAN & TRUST
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 765
-        Assets: 19766375
-        $/Participant: 25838
+
+    2018
+        Participants: 765  Average: $25,838
+        Assets: $19,766,375
         RecordKeeper: MERRILL LYNCH LIFE AGENCY INC
-    2017: PRIMO WATER CORPORATION 401(K) PLAN & TRUST
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 723
-        Assets: 21278031
-        $/Participant: 29430
+
+    2017
+        Participants: 723  Average: $29,430
+        Assets: $21,278,031
         RecordKeeper: MERRILL LYNCH LIFE AGENCY INC
-   [501]
-    2020: PRIMO WATER CORPORATION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] PRIMO WATER CORPORATION WELFARE BENEFITS PLAN [501]
+    2020  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
-    2019: PRIMO WATER CORPORATION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2019
         Participants: 
-    2018: PRIMO WATER CORPORATION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2018  [codes: 4A4B4D4E4F4H4Q]
         Participants: 
-    2017: PRIMO WATER CORPORATION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2017
         Participants: 

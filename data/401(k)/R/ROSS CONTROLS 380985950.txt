@@ -1,24 +1,17 @@
-MI : FERNDALE
-  ROSS CONTROLS  380985950
-   [005]
-    2022: ROSS CONTROLS RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 
-        Participants: 112
-        Assets: 30272488
-        $/Participant: 270290
+ROSS CONTROLS  380985950 -- MI : FERNDALE
+  [401(k)] ROSS CONTROLS RETIREMENT PLAN [005]
+    2022  [codes: 2E2F2G2J2K2S2T]
+        Participants: 112  Average: $270,290
+        Assets: $30,272,488
         RecordKeeper: BDO
         Available Investments:
            - MASSMUTUAL
                  : MASSMUTUAL SELECT TRP RETIREMENT 20
                  : US GOVT MONEY MARKT
-MI : TROY
-    2021: ROSS CONTROLS RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2F2G2K2S2T 
-        Participants: 139
-        Assets: 36739629
-        $/Participant: 264313
+ -- MI : TROY
+    2021  [codes: 2E2J2F2G2K2S2T]
+        Participants: 139  Average: $264,313
+        Assets: $36,739,629
         RecordKeeper: MASSACHUSETTS MUTUAL LIFE INS. CO.
         Available Investments:
            - MASSACHUSETTS MUTUAL LIFE INSURANCE
@@ -35,12 +28,10 @@ MI : TROY
                  : SIA-JMV MM SEL T. ROWE PRICE RET 20
                  : SIA-JMW MM SEL T. ROWE PRICE RET 20
                  : SIA-YG US GOVT MONEY MARKT
-    2020: ROSS CONTROLS RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2F2G2K2S2T 
-        Participants: 130
-        Assets: 32639905
-        $/Participant: 251076
+
+    2020
+        Participants: 130  Average: $251,076
+        Assets: $32,639,905
         RecordKeeper: VICTORY
         Available Investments:
            - MASSACHUSETTS MUTUAL LIFE INSURANCE
@@ -57,32 +48,26 @@ MI : TROY
                  : SIA-JMV MM SEL T. ROWE PRICE RET 20
                  : SIA-JMW MM SEL T. ROWE PRICE RET 20
                  : SIA-YG US GOVT MONEY MARKT
-    2019: ROSS CONTROLS RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2F2G2K2S2T 
-        Participants: 135
-        Assets: 29435713
-        $/Participant: 218042
+
+    2019
+        Participants: 135  Average: $218,042
+        Assets: $29,435,713
         RecordKeeper: VICTORY
         Available Investments:
            - MASSACHUSETTS MUTUAL LIFE INSURANCE
                  : SIA-YG PREM U.S. GOVT MONEY MRKT
-    2018: ROSS CONTROLS RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2F2G2K2S2T 
-        Participants: 140
-        Assets: 24990310
-        $/Participant: 178502
+
+    2018
+        Participants: 140  Average: $178,502
+        Assets: $24,990,310
         RecordKeeper: VICTORY
         Available Investments:
            - MASSACHUSETTS MUTUAL LIFE INSURANCE
                  : SIA-YG PREM U.S. GOVT MONEY MRKT
-    2017: ROSS CONTROLS RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2F2G2K2S2T 
-        Participants: 141
-        Assets: 25674487
-        $/Participant: 182088
+
+    2017
+        Participants: 141  Average: $182,088
+        Assets: $25,674,487
         RecordKeeper: VICTORY
         Available Investments:
            - MASSACHUSETTS MUTUAL LIFE INSURANCE
@@ -112,30 +97,22 @@ MI : TROY
                  : SIA-WF SELECT MID CAP GR
                  : SIA-YG PREM U.S. GOVT MONEY MRKT
                  : SIA-ZX MM S&P 500 INDEX
-MI : FERNDALE
-   [501]
-    2022: ROSS CONTROLS HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+ -- MI : FERNDALE
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability] ROSS CONTROLS HEALTH AND WELFARE BENEFIT PLAN [501]
+    2022  [codes: 4A4B4D4E4F4H4Q]
         Participants: 
-    2021: ROSS CONTROLS HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2021
         Participants: 
-    2020: ROSS CONTROLS HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2020
         Participants: 
-MI : TROY
-    2019: ROSS CONTROLS HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+ -- MI : TROY
+    2019
         Participants: 
-    2018: ROSS CONTROLS HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2018
         Participants: 
-    2017: ROSS CONTROLS HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2017
         Participants: 

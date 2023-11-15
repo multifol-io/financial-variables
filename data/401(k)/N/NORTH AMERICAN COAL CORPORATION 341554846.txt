@@ -1,8 +1,7 @@
-TX : PLANO
-  NORTH AMERICAN COAL CORPORATION  341554846
+NORTH AMERICAN COAL CORPORATION  341554846 -- TX : PLANO
+  [401(k)]THE NORTH AMERICAN COAL CORPORATION RETIREMENT SAVINGS PLAN
    [002]
-    2022: THE NORTH AMERICAN COAL CORPORATION RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
+    2022
         Codes: 2E2F2G2J2K2S2T3H 
         Participants: 2546
         Assets: 627113507
@@ -24,8 +23,9 @@ TX : PLANO
                  : TARGET RETIREMENT 2070 TRUST II
                  : TARGET RETIREMENT INCOME TRUST II
                  : VFTC RETIREMENT SAVINGS TRUST III
-    2021: THE NORTH AMERICAN COAL CORPORATION RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]THE NORTH AMERICAN COAL CORPORATION RETIREMENT SAVINGS PLAN
+    2021
         Codes: 2E2F2G2J2K2S2T3H 
         Participants: 2530
         Assets: 754670609
@@ -48,8 +48,9 @@ TX : PLANO
                  : VFTC RETIREMENT SAVINGS TRUST III
            - VANGUARD RETIREMENT SAVINGS
                  : VANGUARD RET. SVNGS TRUST PORT. III
-    2020: THE NORTH AMERICAN COAL CORPORATION RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]THE NORTH AMERICAN COAL CORPORATION RETIREMENT SAVINGS PLAN
+    2020
         Codes: 2E2F2G2J2K2S2T3H 
         Participants: 2821
         Assets: 729997004
@@ -57,8 +58,9 @@ TX : PLANO
         Available Investments:
            - VANGUARD RETIREMENT SAVINGS
                  : VANGUARD RET. SVNGS TRUST PORT. III
-    2019: THE NORTH AMERICAN COAL CORPORATION RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]THE NORTH AMERICAN COAL CORPORATION RETIREMENT SAVINGS PLAN
+    2019
         Codes: 2E2F2G2J2K3H2T 
         Participants: 2931
         Assets: 663418500
@@ -66,8 +68,9 @@ TX : PLANO
         Available Investments:
            - VANGUARD RETIREMENT SAVINGS
                  : VANGUARD RET. SVNGS TRUST PORT. III
-    2018: THE NORTH AMERICAN COAL CORPORATION RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]THE NORTH AMERICAN COAL CORPORATION RETIREMENT SAVINGS PLAN
+    2018
         Codes: 2E2F2G2J2K3H2T 
         Participants: 2884
         Assets: 545001893
@@ -76,8 +79,9 @@ TX : PLANO
         Available Investments:
            - VANGUARD RETIREMENT SAVINGS
                  : VANGUARD RET. SVNGS TRUST PORT. III
-    2017: THE NORTH AMERICAN COAL CORPORATION RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]THE NORTH AMERICAN COAL CORPORATION RETIREMENT SAVINGS PLAN
+    2017
         Codes: 2E2F2G2J2K3H2T 
         Participants: 2896
         Assets: 564495502
@@ -87,146 +91,176 @@ TX : PLANO
         Available Investments:
            - VANGUARD RETIREMENT SAVINGS
                  : VANGUARD RET. SVNGS TRUST PORT. III
+
+  [Dental]THE NORTH AMERICAN COAL CORPORATION ACTIVE DENTAL PLAN
    [513]
-    2022: THE NORTH AMERICAN COAL CORPORATION ACTIVE DENTAL PLAN
-        Benefit Category: Dental
+    2022
         Codes:  4D
         Participants: 1502
-    2021: THE NORTH AMERICAN COAL CORPORATION ACTIVE DENTAL PLAN
-        Benefit Category: Dental
+
+  [Dental]THE NORTH AMERICAN COAL CORPORATION ACTIVE DENTAL PLAN
+    2021
         Codes:  4D
         Participants: 1524
-    2020: THE NORTH AMERICAN COAL CORPORATION ACTIVE DENTAL PLAN
-        Benefit Category: Dental
+
+  [Dental]THE NORTH AMERICAN COAL CORPORATION ACTIVE DENTAL PLAN
+    2020
         Codes:  4D
         Participants: 
-    2019: THE NORTH AMERICAN COAL CORPORATION ACTIVE DENTAL PLAN
-        Benefit Category: Dental
+
+  [Dental]THE NORTH AMERICAN COAL CORPORATION ACTIVE DENTAL PLAN
+    2019
         Codes:  4D
         Participants: 
-    2018: THE NORTH AMERICAN COAL CORPORATION ACTIVE DENTAL PLAN
-        Benefit Category: Dental
+
+  [Dental]THE NORTH AMERICAN COAL CORPORATION ACTIVE DENTAL PLAN
+    2018
         Codes:  4D
         Participants: 
-    2017: THE NORTH AMERICAN COAL CORPORATION ACTIVE DENTAL PLAN
-        Benefit Category: Dental
+
+  [Dental]THE NORTH AMERICAN COAL CORPORATION ACTIVE DENTAL PLAN
+    2017
         Codes:  4D
         Participants: 2092
+
+  [Healthcare]THE NORTH AMERICAN COAL CORPORATION ACTIVE MEDICAL PLAN
    [501]
-    2022: THE NORTH AMERICAN COAL CORPORATION ACTIVE MEDICAL PLAN
-        Benefit Category: Healthcare
+    2022
         Codes:  4A4Q
         Participants: 1501
-    2021: THE NORTH AMERICAN COAL CORPORATION ACTIVE MEDICAL PLAN
-        Benefit Category: Healthcare
+
+  [Healthcare]THE NORTH AMERICAN COAL CORPORATION ACTIVE MEDICAL PLAN
+    2021
         Codes:  4A4Q
         Participants: 1459
-    2020: THE NORTH AMERICAN COAL CORPORATION ACTIVE MEDICAL PLAN
-        Benefit Category: Healthcare
+
+  [Healthcare]THE NORTH AMERICAN COAL CORPORATION ACTIVE MEDICAL PLAN
+    2020
         Codes:  4A4Q
         Participants: 
-    2019: THE NORTH AMERICAN COAL CORPORATION ACTIVE MEDICAL PLAN
-        Benefit Category: Healthcare
+
+  [Healthcare]THE NORTH AMERICAN COAL CORPORATION ACTIVE MEDICAL PLAN
+    2019
         Codes:  4A4Q
         Participants: 
-    2018: THE NORTH AMERICAN COAL CORPORATION ACTIVE MEDICAL PLAN
-        Benefit Category: Healthcare
+
+  [Healthcare]THE NORTH AMERICAN COAL CORPORATION ACTIVE MEDICAL PLAN
+    2018
         Codes:  4A
         Participants: 
-    2017: THE NORTH AMERICAN COAL CORPORATION ACTIVE MEDICAL PLAN
-        Benefit Category: Healthcare
+
+  [Healthcare]THE NORTH AMERICAN COAL CORPORATION ACTIVE MEDICAL PLAN
+    2017
         Codes:  4A4Q
         Participants: 2092
+
+  [Healthcare]THE NORTH AMERICAN COAL CORPORATION FLEX PLAN
    [506]
-    2022: THE NORTH AMERICAN COAL CORPORATION FLEX PLAN
-        Benefit Category: Healthcare
+    2022
         Codes:  4A
         Participants: 1457
-    2021: THE NORTH AMERICAN COAL FLEX PLAN
-        Benefit Category: Healthcare
+
+  [Healthcare]THE NORTH AMERICAN COAL FLEX PLAN
+    2021
         Codes:  4A
         Participants: 1434
-    2020: THE NORTH AMERICAN COAL FLEX PLAN
-        Benefit Category: Healthcare
+
+  [Healthcare]THE NORTH AMERICAN COAL FLEX PLAN
+    2020
         Codes:  4A
         Participants: 
-    2019: THE NORTH AMERICAN COAL FLEX PLAN
-        Benefit Category: Healthcare
+
+  [Healthcare]THE NORTH AMERICAN COAL FLEX PLAN
+    2019
         Codes:  4A
         Participants: 
-    2018: THE NORTH AMERICAN COAL FLEX PLAN
-        Benefit Category: Healthcare
+
+  [Healthcare]THE NORTH AMERICAN COAL FLEX PLAN
+    2018
         Codes:  4A
         Participants: 
-    2017: THE NORTH AMERICAN COAL FLEX PLAN
-        Benefit Category: Healthcare
+
+  [Healthcare]THE NORTH AMERICAN COAL FLEX PLAN
+    2017
         Codes:  4A
         Participants: 2092
+
+  [Life insurance, Vision, Short-term disability, Long-term disability, Travel accident]THE NORTH AMERICAN COAL CORPORATION INSURED WELFARE BENEFIT PLAN
    [503]
-    2022: THE NORTH AMERICAN COAL CORPORATION INSURED WELFARE BENEFIT PLAN
-        Benefit Category: Life insurance, Vision, Short-term disability, Long-term disability, Travel accident
+    2022
         Codes:  4B4E4F4H4L
         Participants: 1570
         Service Providers:
            - METROPOLITAN LIFE INSURANCE COMPANY :  (Claims processing | Contract Administrator)
-    2021: THE NORTH AMERICAN COAL CORPORATION INSURED WELFARE BENEFIT PLAN
-        Benefit Category: Life insurance, Vision, Short-term disability, Long-term disability, Travel accident
+
+  [Life insurance, Vision, Short-term disability, Long-term disability, Travel accident]THE NORTH AMERICAN COAL CORPORATION INSURED WELFARE BENEFIT PLAN
+    2021
         Codes:  4B4E4F4H4L
         Participants: 1555
-    2020: THE NORTH AMERICAN COAL CORPORATION INSURED WELFARE BENEFIT PLAN
-        Benefit Category: Life insurance, Vision, Short-term disability, Long-term disability, Travel accident
+
+  [Life insurance, Vision, Short-term disability, Long-term disability, Travel accident]THE NORTH AMERICAN COAL CORPORATION INSURED WELFARE BENEFIT PLAN
+    2020
         Codes:  4B4E4F4H4L
         Participants: 
-    2019: THE NORTH AMERICAN COAL CORPORATION INSURED WELFARE BENEFIT PLAN
-        Benefit Category: Life insurance, Vision, Short-term disability, Long-term disability, Travel accident
+
+  [Life insurance, Vision, Short-term disability, Long-term disability, Travel accident]THE NORTH AMERICAN COAL CORPORATION INSURED WELFARE BENEFIT PLAN
+    2019
         Codes:  4B4E4F4H4L
         Participants: 
-    2018: THE NORTH AMERICAN COAL CORPORATION INSURED WELFARE BENEFIT PLAN
-        Benefit Category: Life insurance, Vision, Long-term disability, Travel accident
+
+  [Life insurance, Vision, Long-term disability, Travel accident]THE NORTH AMERICAN COAL CORPORATION INSURED WELFARE BENEFIT PLAN
+    2018
         Codes:  4B4E4H4L4Q
         Participants: 
-    2017: THE NORTH AMERICAN COAL CORPORATION INSURED WELFARE BENEFIT PLAN
-        Benefit Category: Life insurance, Vision, Long-term disability, Travel accident
+
+  [Life insurance, Vision, Long-term disability, Travel accident]THE NORTH AMERICAN COAL CORPORATION INSURED WELFARE BENEFIT PLAN
+    2017
         Codes:  4B4H4L4Q4E
         Participants: 2100
+
+  [Pension]THE COMBINED DEFINED BENEFIT PLAN FOR NACCO INDUSTRIES, INC. AND ITS SUBSIDIARIES
    [005]
-    2022: THE COMBINED DEFINED BENEFIT PLAN FOR NACCO INDUSTRIES, INC. AND ITS SUBSIDIARIES
-        Benefit Category: Pension
+    2022
         Codes: 1A1I3H 
         Participants: 206
         Assets: 34483111
         $/Participant: 167393
         RecordKeeper: CROWE LLP
-    2021: THE COMBINED DEFINED BENEFIT PLAN FOR NACCO INDUSTRIES, INC. AND ITS SUBSIDIARIES
-        Benefit Category: Pension
+
+  [Pension]THE COMBINED DEFINED BENEFIT PLAN FOR NACCO INDUSTRIES, INC. AND ITS SUBSIDIARIES
+    2021
         Codes: 1A1I3H 
         Participants: 210
         Assets: 44007316
         $/Participant: 209558
         RecordKeeper: CROWE LLP
-    2020: THE COMBINED DEFINED BENEFIT PLAN FOR NACCO INDUSTRIES, INC. AND ITS SUBSIDIARIES
-        Benefit Category: Pension
+
+  [Pension]THE COMBINED DEFINED BENEFIT PLAN FOR NACCO INDUSTRIES, INC. AND ITS SUBSIDIARIES
+    2020
         Codes: 1A1I3H 
         Participants: 214
         Assets: 41097446
         $/Participant: 192044
         RecordKeeper: VANGUARD GROUP, INC.
-    2019: THE COMBINED DEFINED BENEFIT PLAN FOR NACCO INDUSTRIES, INC. AND ITS SUBSIDIARIES
-        Benefit Category: Pension
+
+  [Pension]THE COMBINED DEFINED BENEFIT PLAN FOR NACCO INDUSTRIES, INC. AND ITS SUBSIDIARIES
+    2019
         Codes: 1A1I3H 
         Participants: 215
         Assets: 37362806
         $/Participant: 173780
         RecordKeeper: CROWE LLP
-    2018: THE COMBINED DEFINED BENEFIT PLAN FOR NACCO INDUSTRIES, INC. AND ITS SUBSIDIARIES
-        Benefit Category: Pension
+
+  [Pension]THE COMBINED DEFINED BENEFIT PLAN FOR NACCO INDUSTRIES, INC. AND ITS SUBSIDIARIES
+    2018
         Codes: 1A1I3H 
         Participants: 269
         Assets: 34953564
         $/Participant: 129938
         RecordKeeper: VANGUARD GROUP, INC.
-    2017: THE COMBINED DEFINED BENEFIT PLAN FOR NACCO INDUSTRIES, INC. AND ITS SUBSIDIARIES
-        Benefit Category: Pension
+
+  [Pension]THE COMBINED DEFINED BENEFIT PLAN FOR NACCO INDUSTRIES, INC. AND ITS SUBSIDIARIES
+    2017
         Codes: 1A1I3H 
         Participants: 273
         Assets: 38526132
@@ -234,28 +268,34 @@ TX : PLANO
         Service Providers:
            - WILLIS TOWERS WATSON :  (Actuarial)
            - CROWE LLP :  (Accounting(including auditing))
+
+  [Severance]THE NORTH AMERICAN COAL CORPORATION STAFF EMPLOYEES SEVERANCE PAY PLAN
    [505]
-    2022: THE NORTH AMERICAN COAL CORPORATION STAFF EMPLOYEES SEVERANCE PAY PLAN
-        Benefit Category: Severance
+    2022
         Codes:  4I
         Participants: 1212
-    2021: THE NORTH AMERICAN COAL CORPORATION STAFF EMPLOYEES SEVERANCE PAY PLAN
-        Benefit Category: Severance
+
+  [Severance]THE NORTH AMERICAN COAL CORPORATION STAFF EMPLOYEES SEVERANCE PAY PLAN
+    2021
         Codes:  4I
         Participants: 1208
-    2020: THE NORTH AMERICAN COAL CORPORATION STAFF EMPLOYEES SEVERANCE PAY PLAN
-        Benefit Category: Severance
+
+  [Severance]THE NORTH AMERICAN COAL CORPORATION STAFF EMPLOYEES SEVERANCE PAY PLAN
+    2020
         Codes:  4I
         Participants: 
-    2019: THE NORTH AMERICAN COAL CORPORATION STAFF EMPLOYEES SEVERANCE PAY PLAN
-        Benefit Category: Severance
+
+  [Severance]THE NORTH AMERICAN COAL CORPORATION STAFF EMPLOYEES SEVERANCE PAY PLAN
+    2019
         Codes:  4I
         Participants: 
-    2018: THE NORTH AMERICAN COAL CORPORATION STAFF EMPLOYEES SEVERANCE PAY PLAN
-        Benefit Category: Severance
+
+  [Severance]THE NORTH AMERICAN COAL CORPORATION STAFF EMPLOYEES SEVERANCE PAY PLAN
+    2018
         Codes:  4I
         Participants: 
-    2017: THE NORTH AMERICAN COAL CORPORATION STAFF EMPLOYEES SEVERANCE PAY PLAN
-        Benefit Category: Severance
+
+  [Severance]THE NORTH AMERICAN COAL CORPORATION STAFF EMPLOYEES SEVERANCE PAY PLAN
+    2017
         Codes:  4I
         Participants: 1619

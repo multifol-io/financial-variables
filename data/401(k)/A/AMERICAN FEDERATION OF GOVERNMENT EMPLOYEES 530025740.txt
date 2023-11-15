@@ -1,82 +1,61 @@
-DC : WASHINGTON
-  AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES  530025740
-    2022: AFGE EMPLOYEES 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 487
-        Assets: 42694338
-        $/Participant: 87668
+AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES  530025740 -- DC : WASHINGTON
+  [401(k)] AFGE EMPLOYEES 401(K) PLAN
+    2022  [codes: 2E2F2G2J2K2S2T3D]
+        Participants: 487  Average: $87,668
+        Assets: $42,694,338
         RecordKeeper: MASSACHUSETTS MUTUAL LIFE INSURANCE
-    2021: AFGE EMPLOYEES 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 413
-        Assets: 48441062
-        $/Participant: 117290
+
+    2021
+        Participants: 413  Average: $117,290
+        Assets: $48,441,062
         RecordKeeper: MASSACHUSETTS MUTUAL LIFE INSURANCE
-    2020: AFGE EMPLOYEES 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 415
-        Assets: 41551857
-        $/Participant: 100124
+
+    2020
+        Participants: 415  Average: $100,124
+        Assets: $41,551,857
         RecordKeeper: MASSACHUSETTS MUTUAL LIFE INSURANCE
-    2019: AFGE EMPLOYEES 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 422
-        Assets: 35370469
-        $/Participant: 83816
+
+    2019
+        Participants: 422  Average: $83,816
+        Assets: $35,370,469
         RecordKeeper: MASSACHUSETTS MUTUAL LIFE INSURANCE
-    2018: AFGE EMPLOYEES 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 448
-        Assets: 29252514
-        $/Participant: 65295
+
+    2018
+        Participants: 448  Average: $65,295
+        Assets: $29,252,514
         RecordKeeper: MASSACHUSETTS MUTUAL LIFE INSURANCE
-    2017: AFGE EMPLOYEES 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 450
-        Assets: 28136273
-        $/Participant: 62525
+
+    2017
+        Participants: 450  Average: $62,525
+        Assets: $28,136,273
         RecordKeeper: MASSACHUSETTS MUTUAL LIFE INSURANCE
         Available Investments:
            - T. ROWE PRICE TRUST COMPANY
                  : TRP ST VAL COMMON TRUST FUND
-   [501]
-    2022: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES EMPLOYEES HEALTH & LIFE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E4Q
+
+  [Healthcare, Life insurance, Dental, Vision] AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES EMPLOYEES HEALTH & LIFE BENEFIT PLAN [501]
+    2022  [codes: 4A4B4D4E4Q]
         Participants: 
-    2021: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES EMPLOYEES HEALTH & LIFE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E4Q
+
+    2021
         Participants: 
-    2020: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES EMPLOYEES HEALTH & LIFE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E4Q
+
+    2020
         Participants: 
-    2019: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES EMPLOYEES HEALTH & LIFE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E4Q
+
+    2019
         Participants: 
-    2018: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES EMPLOYEES HEALTH & LIFE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E4Q
+
+    2018
         Participants: 
-    2017: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES EMPLOYEES HEALTH & LIFE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E4Q
+
+    2017
         Participants: 
-   [001]
-    2022: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 453
-        Assets: 154880070
-        $/Participant: 341898
+
+  [Pension] AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES PENSION PLAN [001]
+    2022  [codes: 1A]
+        Participants: 453  Average: $341,898
+        Assets: $154,880,070
         Service Providers:
            - MARSHFIELD ASSOCIATES :  (Investment management | Investment management fees paid directly by plan)
            - SEGALL, BRYANT & HAMILL :  (Investment management | Investment management fees paid directly by plan)
@@ -101,12 +80,10 @@ DC : WASHINGTON
                  : RUSSELL 1000 (R) GROWTH
                  : RUSSELL 2000 (R) INDEX NL FUND
                  : U.S. AGGREGATE BOND INDEX FUND
-    2021: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 484
-        Assets: 176974507
-        $/Participant: 365649
+
+    2021
+        Participants: 484  Average: $365,649
+        Assets: $176,974,507
         Service Providers:
            - MARSHFIELD ASSOCIATES :  (Investment management | Investment management fees paid directly by plan)
            - SEGALL, BRYANT & HAMILL :  (Investment management | Investment management fees paid directly by plan)
@@ -131,12 +108,10 @@ DC : WASHINGTON
                  : RUSSELL 1000 (R) GROWTH
                  : RUSSELL 2000 (R) INDEX NL FUND
                  : U.S. AGGREGATE BOND INDEX FUND
-    2020: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 481
-        Assets: 150181182
-        $/Participant: 312226
+
+    2020
+        Participants: 481  Average: $312,226
+        Assets: $150,181,182
         Service Providers:
            - MARSHFIELD ASSOCIATES :  (Investment management | Investment management fees paid directly by plan)
            - SEGALL, BRYANT & HAMILL :  (Investment management | Investment management fees paid directly by plan)
@@ -159,12 +134,10 @@ DC : WASHINGTON
                  : RUSSELL 1000 (R) GROWTH
                  : RUSSELL 2000 (R) INDEX NL FUND
                  : U.S. AGGREGATE BOND INDEX FUND
-    2019: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 508
-        Assets: 127028060
-        $/Participant: 250055
+
+    2019
+        Participants: 508  Average: $250,055
+        Assets: $127,028,060
         Service Providers:
            - MARSHFIELD ASSOCIATES :  (Investment management | Investment management fees paid directly by plan)
            - SEGALL, BRYANT & HAMILL :  (Investment management | Investment management fees paid directly by plan)
@@ -187,12 +160,10 @@ DC : WASHINGTON
                  : RUSSELL 1000 (R) GROWTH INDEX NL
                  : RUSSELL 2000 (R) INDEX NL FUND
                  : U.S. AGGREGATE BOND INDEX FUND
-    2018: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 480
-        Assets: 104712616
-        $/Participant: 218151
+
+    2018
+        Participants: 480  Average: $218,151
+        Assets: $104,712,616
         Service Providers:
            - MARSHFIELD ASSOCIATES :  (Investment management | Investment management fees paid directly by plan)
            - SEGALL, BRYANT & HAMILL :  (Investment management | Investment management fees paid directly by plan)
@@ -215,12 +186,10 @@ DC : WASHINGTON
                  : RUSSELL 1000 (R) GROWTH INDEX NL
                  : RUSSELL 2000 (R) INDEX NL FUND
                  : U.S. AGGREGATE BOND INDEX FUND
-    2017: AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 484
-        Assets: 105358978
-        $/Participant: 217683
+
+    2017
+        Participants: 484  Average: $217,683
+        Assets: $105,358,978
         Service Providers:
            - MARSHFIELD ASSOCIATES :  (Investment management | Investment management fees paid directly by plan)
            - SEGALL, BRYANT & HAMILL :  (Investment management | Investment management fees paid directly by plan)

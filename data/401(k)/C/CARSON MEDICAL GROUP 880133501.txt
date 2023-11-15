@@ -1,49 +1,35 @@
-NV : CARSON CITY
-  CARSON MEDICAL GROUP  880133501
-   [001]
-    2022: CARSON MEDICAL GROUP 401(K) RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 143
-        Assets: 31593124
-        $/Participant: 220930
+CARSON MEDICAL GROUP  880133501 -- NV : CARSON CITY
+  [401(k)] CARSON MEDICAL GROUP 401(K) RETIREMENT PLAN [001]
+    2022  [codes: 2E2F2G2J2K2T3D]
+        Participants: 143  Average: $220,930
+        Assets: $31,593,124
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2021: CARSON MEDICAL GROUP 401(K) RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 135
-        Assets: 36480657
-        $/Participant: 270227
+
+    2021
+        Participants: 135  Average: $270,227
+        Assets: $36,480,657
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2020: CARSON MEDICAL GROUP 401(K) RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 129
-        Assets: 29935003
-        $/Participant: 232054
+
+    2020
+        Participants: 129  Average: $232,054
+        Assets: $29,935,003
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2019: CARSON MEDICAL GROUP 401(K) RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
+
+    2019
         Participants: 130
-    2018: CARSON MEDICAL GROUP 401(K) RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
+
+    2018
         Participants: 111
-    2017: CARSON MEDICAL GROUP 401(K) RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
+
+    2017
         Participants: 111
-   [501]
-    2022: CARSON MEDICAL GROUP HEALTH PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+  [Healthcare, Dental, Vision] CARSON MEDICAL GROUP HEALTH PLAN [501]
+    2022  [codes: 4A4D4E]
         Participants: 
-    2021: CARSON MEDICAL GROUP HEALTH PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2021
         Participants: 
-    2020: CARSON MEDICAL GROUP HEALTH PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2020  [codes: 4A]
         Participants: 

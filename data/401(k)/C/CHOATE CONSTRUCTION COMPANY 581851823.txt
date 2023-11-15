@@ -1,11 +1,8 @@
-GA : ATLANTA
-  CHOATE CONSTRUCTION COMPANY  581851823
-    2022: CHOATE CONSTRUCTION COMPANY PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2G2J2K2T2E2F3D2R 
-        Participants: 713
-        Assets: 65422736
-        $/Participant: 91756
+CHOATE CONSTRUCTION COMPANY  581851823 -- GA : ATLANTA
+  [401(k)] CHOATE CONSTRUCTION COMPANY PROFIT SHARING PLAN
+    2022  [codes: 2G2J2K2T2E2F3D2R]
+        Participants: 713  Average: $91,756
+        Assets: $65,422,736
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
@@ -25,12 +22,10 @@ GA : ATLANTA
                  : FLEXPATH+MOD 2055 I1
                  : FLEXPATH+MOD 2065 I1
                  : FLEXPATH+MOD RET I1
-    2021: CHOATE CONSTRUCTION COMPANY PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2G2J2K2T2E2F3D2R 
-        Participants: 670
-        Assets: 79629067
-        $/Participant: 118849
+
+    2021
+        Participants: 670  Average: $118,849
+        Assets: $79,629,067
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
@@ -47,12 +42,10 @@ GA : ATLANTA
                  : FLEXPATH+MOD 2045 I2
                  : FLEXPATH+MOD 2055 I2
                  : FLEXPATH+MOD RET I2
-    2020: CHOATE CONSTRUCTION COMPANY PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2G2J2K2T2E2F3D2R 
-        Participants: 662
-        Assets: 72463066
-        $/Participant: 109460
+
+    2020
+        Participants: 662  Average: $109,460
+        Assets: $72,463,066
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
@@ -63,91 +56,68 @@ GA : ATLANTA
                  : FLEXPATH+MOD 2045 I2
                  : FLEXPATH+MOD 2055 I2
                  : FLEXPATH+MOD RET I2
-    2019: CHOATE CONSTRUCTION COMPANY PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2G2J2K2T3D2E2F 
-        Participants: 696
-        Assets: 61620417
-        $/Participant: 88535
+
+    2019  [codes: 2G2J2K2T3D2E2F]
+        Participants: 696  Average: $88,535
+        Assets: $61,620,417
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-    2018: CHOATE CONSTRUCTION COMPANY PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 666
-        Assets: 49746846
-        $/Participant: 74694
+
+    2018  [codes: 2E2F2G2J2K2T3D]
+        Participants: 666  Average: $74,694
+        Assets: $49,746,846
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-    2017: CHOATE CONSTRUCTION COMPANY PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 623
-        Assets: 52124592
-        $/Participant: 83667
+
+    2017
+        Participants: 623  Average: $83,667
+        Assets: $52,124,592
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-   [002]
-    2022: CHOATE CONSTRUCTION COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P3I 
-        Participants: 576
-        Assets: 315657741
-        $/Participant: 548016
-    2021: CHOATE CONSTRUCTION COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P3I 
-        Participants: 553
-        Assets: 252112591
-        $/Participant: 455899
-    2020: CHOATE CONSTRUCTION COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P3I 
-        Participants: 518
-        Assets: 196243127
-        $/Participant: 378847
-    2019: CHOATE CONSTRUCTION COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P3I 
-        Participants: 482
-        Assets: 162019229
-        $/Participant: 336139
-    2018: CHOATE CONSTRUCTION COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P3I 
-        Participants: 413
-        Assets: 123958330
-        $/Participant: 300141
-    2017: CHOATE CONSTRUCTION COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P3I 
-        Participants: 375
-        Assets: 132811733
-        $/Participant: 354164
-   [516]
-    2021: CHOATE CONSTRUCTION COMPANY BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+  [Employee Stock Ownership Plan] CHOATE CONSTRUCTION COMPANY EMPLOYEE STOCK OWNERSHIP PLAN [002]
+    2022  [codes: 2P3I]
+        Participants: 576  Average: $548,016
+        Assets: $315,657,741
+
+    2021
+        Participants: 553  Average: $455,899
+        Assets: $252,112,591
+
+    2020
+        Participants: 518  Average: $378,847
+        Assets: $196,243,127
+
+    2019
+        Participants: 482  Average: $336,139
+        Assets: $162,019,229
+
+    2018
+        Participants: 413  Average: $300,141
+        Assets: $123,958,330
+
+    2017
+        Participants: 375  Average: $354,164
+        Assets: $132,811,733
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] CHOATE CONSTRUCTION COMPANY BENEFIT PLAN [516]
+    2021  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
-    2020: CHOATE CONSTRUCTION COMPANY BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2020  [codes: 4A4B4D4E4F4H4L]
         Participants: 
-    2019: CHOATE CONSTRUCTION COMPANY BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2019
         Participants: 
-    2018: CHOATE CONSTRUCTION COMPANY BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2018
         Participants: 
-    2017: CHOATE CONSTRUCTION COMPANY BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2017
         Participants: 

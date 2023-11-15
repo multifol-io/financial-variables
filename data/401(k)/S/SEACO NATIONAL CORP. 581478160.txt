@@ -1,12 +1,8 @@
-GA : AUSTELL
-  SEACO NATIONAL CORP.  581478160
-   [001]
-    2022: SOUTHEAST PET 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 150
-        Assets: 3312787
-        $/Participant: 22085
+SEACO NATIONAL CORP.  581478160 -- GA : AUSTELL
+  [401(k)] SOUTHEAST PET 401(K) PROFIT SHARING PLAN [001]
+    2022  [codes: 2E2F2G2J2K2T3D]
+        Participants: 150  Average: $22,085
+        Assets: $3,312,787
         RecordKeeper: TRANSAMERICA LIFE INSURANCE COMPANY
         Available Investments:
            - TRANSAMERICA LIFE INS CO
@@ -31,12 +27,10 @@ GA : AUSTELL
                  : TRANSAMERICA PTNR STOCK IDX RT OPT
                  : VICTORY SYCAMORE EST VALUE RET OPT
                  : VOYA CORPORATE LEADERS 100 RET OPT
-    2021: SOUTHEAST PET 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 135
-        Assets: 3724947
-        $/Participant: 27592
+
+    2021
+        Participants: 135  Average: $27,592
+        Assets: $3,724,947
         RecordKeeper: FUTUREPLAN BY ASCENSUS
         Available Investments:
            - TRANSAMERICA LIFE INSURANCE COMPANY
@@ -61,12 +55,10 @@ GA : AUSTELL
                  : VICTORY SYCAMORE ESTABLISHED VALUE
            - TRANSAMRICA LIFE INSURANCE COMPANY
                  : DWS CORE EQUITY RET OPT
-    2020: SOUTHEAST PET 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 125
-        Assets: 3562619
-        $/Participant: 28500
+
+    2020
+        Participants: 125  Average: $28,500
+        Assets: $3,562,619
         RecordKeeper: SWERDLIN & COMPANY
         Available Investments:
            - TRANSAMERICA LIFE INSURANCE COMPANY
@@ -99,43 +91,33 @@ GA : AUSTELL
                  : TRANSAMERICA LIFEGOAL RETIREMENT WI
                  : TRANSAMERICA PARTNERS STOCK INDEX R
                  : VICTORY SYCAMORE ESTABLISHED VALUE
-   [002]
-    2022: SEACO NATIONAL CORP. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 3I2P2Q 
-        Participants: 136
-        Assets: 35913418
-        $/Participant: 264069
-    2021: SEACO NATIONAL CORP. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 3I2P2Q 
+
+  [Employee Stock Ownership Plan] SEACO NATIONAL CORP. EMPLOYEE STOCK OWNERSHIP PLAN [002]
+    2022  [codes: 3I2P2Q]
+        Participants: 136  Average: $264,069
+        Assets: $35,913,418
+
+    2021
         Participants: 119
-    2020: SEACO NATIONAL CORP. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P3I2Q 
+
+    2020  [codes: 2P3I2Q]
         Participants: 113
-    2019: SEACO NATIONAL CORP. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P3I2Q 
+
+    2019
         Participants: 89
-    2018: SEACO NATIONAL CORP. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P3I2Q 
+
+    2018
         Participants: 87
-    2017: SEACO NATIONAL CORP. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P3I 
+
+    2017  [codes: 2P3I]
         Participants: 74
-   [501]
-    2022: SEACO NATIONAL CORP. EMPLOYEE BENEFITS WRAP PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E
+
+  [Healthcare, Life insurance, Dental, Vision] SEACO NATIONAL CORP. EMPLOYEE BENEFITS WRAP PLAN [501]
+    2022  [codes: 4A4B4D4E]
         Participants: 
-    2021: SEACO NATIONAL CORP. EMPLOYEE BENEFITS WRAP PLAN
-        Benefit Category: Life insurance, Dental, Vision
-        Codes:  4B4D4E
+
+    2021  [codes: 4B4D4E]
         Participants: 
-    2020: SEACO NATIONAL CORP. EMPLOYEE BENEFITS WRAP PLAN
-        Benefit Category: Life insurance, Dental, Vision
-        Codes:  4B4D4E
+
+    2020
         Participants: 

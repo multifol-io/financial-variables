@@ -1,88 +1,62 @@
-TX : WACO
-  BRAZOS ELECTRIC POWER COOPERATIVE INC.  740524729
-   [526]
-    2022: BRAZOS ELECTRIC POWER COOPERATIVE RETIREE BENEFIT PLAN TRUST
-        Benefit Category: Healthcare, Life insurance, Dental
-        Codes:  4A4B4D
-        Participants: 
-        Assets: 8522716
-        $/Participant: 
-    2021: BRAZOS ELECTRIC POWER COOPERATIVE RETIREE BENEFIT PLAN TRUST
-        Benefit Category: Healthcare, Life insurance, Dental
-        Codes:  4A4B4D
-        Participants: 
-        Assets: 9022480
-        $/Participant: 
-    2020: BRAZOS ELECTRIC POWER COOPERATIVE RETIREE BENEFIT PLAN TRUST
-        Benefit Category: Healthcare, Life insurance, Dental
-        Codes:  4A4B4D
-        Participants: 
-        Assets: 8365480
-        $/Participant: 
-    2019: BRAZOS ELECTRIC POWER COOPERATIVE RETIREE BENEFIT PLAN TRUST
-        Benefit Category: Healthcare, Life insurance, Dental
-        Codes:  4A4B4D
-        Participants: 
-        Assets: 8443291
-        $/Participant: 
-    2018: BRAZOS ELECTRIC POWER COOPERATIVE RETIREE BENEFIT PLAN TRUST
-        Benefit Category: Healthcare, Life insurance, Dental
-        Codes:  4A4B4D
-        Participants: 
-        Assets: 7523463
-        $/Participant: 
-    2017: BRAZOS ELECTRIC POWER COOPERATIVE RETIREE BENEFIT PLAN TRUST
-        Benefit Category: Healthcare, Life insurance, Dental
-        Codes:  4A4B4D
-        Participants: 
-        Assets: 7776747
-        $/Participant: 
-   [001]
-    2022: BRAZOS ELECTRIC POWER COOPERATIVE INC. PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 367
-        Assets: 95179632
-        $/Participant: 259345
+BRAZOS ELECTRIC POWER COOPERATIVE INC.  740524729 -- TX : WACO
+  [Healthcare, Life insurance, Dental] BRAZOS ELECTRIC POWER COOPERATIVE RETIREE BENEFIT PLAN TRUST [526]
+    2022  [codes: 4A4B4D]
+        Participants:   Average: $
+        Assets: $8,522,716
+
+    2021
+        Participants:   Average: $
+        Assets: $9,022,480
+
+    2020
+        Participants:   Average: $
+        Assets: $8,365,480
+
+    2019
+        Participants:   Average: $
+        Assets: $8,443,291
+
+    2018
+        Participants:   Average: $
+        Assets: $7,523,463
+
+    2017
+        Participants:   Average: $
+        Assets: $7,776,747
+
+  [Pension] BRAZOS ELECTRIC POWER COOPERATIVE INC. PENSION PLAN [001]
+    2022  [codes: 1A]
+        Participants: 367  Average: $259,345
+        Assets: $95,179,632
         Service Providers:
            - MORGAN STANLEY SMITH BARNEY :  (Consulting(general) | Consulting(pension) | Investment advisory(plan) | Investment management)
-    2021: BRAZOS ELECTRIC POWER COOPERATIVE INC. PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 381
-        Assets: 126195415
-        $/Participant: 331221
+
+    2021
+        Participants: 381  Average: $331,221
+        Assets: $126,195,415
         Service Providers:
            - MORGAN STANLEY SMITH BARNEY :  (Consulting(general) | Consulting(pension) | Investment advisory(plan) | Investment management)
-    2020: BRAZOS ELECTRIC POWER COOPERATIVE INC. PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 389
-        Assets: 117373518
-        $/Participant: 301731
+
+    2020
+        Participants: 389  Average: $301,731
+        Assets: $117,373,518
         Service Providers:
            - MORGAN STANLEY SMITH BARNEY :  (Consulting(general) | Consulting(pension) | Investment advisory(plan) | Investment management)
-    2019: BRAZOS ELECTRIC POWER COOPERATIVE INC. PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 389
-        Assets: 103655483
-        $/Participant: 266466
+
+    2019
+        Participants: 389  Average: $266,466
+        Assets: $103,655,483
         Service Providers:
            - MORGAN STANLEY SMITH BARNEY :  (Consulting(general) | Consulting(pension) | Investment advisory(plan) | Investment management)
-    2018: BRAZOS ELECTRIC POWER COOPERATIVE INC. PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 397
-        Assets: 87695440
-        $/Participant: 220895
+
+    2018
+        Participants: 397  Average: $220,895
+        Assets: $87,695,440
         Service Providers:
            - MORGAN STANLEY SMITH BARNEY :  (Consulting(general) | Consulting(pension) | Investment advisory(plan) | Investment management)
-    2017: BRAZOS ELECTRIC POWER COOPERATIVE INC. PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 401
-        Assets: 94223605
-        $/Participant: 234971
+
+    2017
+        Participants: 401  Average: $234,971
+        Assets: $94,223,605
         Service Providers:
            - MORGAN STANLEY SMITH BARNEY :  (Consulting(general) | Consulting(pension) | Investment advisory(plan) | Investment management)

@@ -1,11 +1,8 @@
-PA : EXTON
-  SHIRE HOLDINGS US AG  611323690
-    2019: SHIRE HOLDINGS US AG 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2R2S2T3D3F2E3H 
-        Participants: 41
-        Assets: 31284692
-        $/Participant: 763041
+SHIRE HOLDINGS US AG  611323690 -- PA : EXTON
+  [401(k)] SHIRE HOLDINGS US AG 401(K) SAVINGS PLAN
+    2019  [codes: 2F2G2J2K2R2S2T3D3F2E3H]
+        Participants: 41  Average: $763,041
+        Assets: $31,284,692
         RecordKeeper: FISCHER CUNNANE & ASSOCIATES LTD
         Available Investments:
            - FIAM TRUST COMPANY
@@ -30,12 +27,10 @@ PA : EXTON
                  : PUTN LG CP VAL TR IA
            - WILMINGTON TRUST, N.A.
                  : WT FKLN GROWTH S
-    2018: SHIRE HOLDINGS US AG 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2R2E2F2G2J2K2S2T3D3F3H 
-        Participants: 18967
-        Assets: 1531087287
-        $/Participant: 80723
+
+    2018  [codes: 2R2E2F2G2J2K2S2T3D3F3H]
+        Participants: 18,967  Average: $80,723
+        Assets: $1,531,087,287
         RecordKeeper: FISCHER CUNNANE & ASSOCIATES LTD
         Available Investments:
            - FIAM TRUST COMPANY
@@ -60,12 +55,10 @@ PA : EXTON
                  : PUTN LG CP VAL TR IA
            - WILMINGTON TRUST
                  : WILMINGTON TRUST FRANKLIN GROWTH
-    2017: SHIRE HOLDINGS US AG 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2R2S2T3D3F3H2E 
-        Participants: 6988
-        Assets: 881647694
-        $/Participant: 126165
+
+    2017  [codes: 2F2G2J2K2R2S2T3D3F3H2E]
+        Participants: 6,988  Average: $126,165
+        Assets: $881,647,694
         RecordKeeper: FISCHER CUNNANE
         Available Investments:
            - FIAM TRUST COMPANY
@@ -84,34 +77,26 @@ PA : EXTON
                  : FIAM TD INCOME CP S
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
-MA : LEXINGTON
-   [502]
-    2019: SHIRE HOLDINGS US AG WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4G4H4L4Q
+ -- MA : LEXINGTON
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident] SHIRE HOLDINGS US AG WELFARE PLAN [502]
+    2019  [codes: 4A4B4D4E4G4H4L4Q]
         Participants: 
-    2018: SHIRE HOLDINGS US AG WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4G4H4Q
+
+    2018  [codes: 4A4B4D4E4G4H4Q]
         Participants: 
-    2017: SHIRE HOLDINGS US AG WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
+
+    2017  [codes: 4A4B4D4E4F4G4H4L4Q]
         Participants: 
-   [505]
-    2020: SHIRE HOLDINGS US AG SEVERANCE PAY PLAN
-        Benefit Category: Healthcare, Dental, Vision, Severance
-        Codes:  4A4D4E4I
+
+  [Healthcare, Dental, Vision, Severance] SHIRE HOLDINGS US AG SEVERANCE PAY PLAN [505]
+    2020  [codes: 4A4D4E4I]
         Participants: 
-    2019: SHIRE HOLDINGS US AG SEVERANCE PAY PLAN
-        Benefit Category: Healthcare, Dental, Vision, Severance
-        Codes:  4A4D4E4I
+
+    2019
         Participants: 
-    2018: SHIRE HOLDINGS US AG SEVERANCE PAY PLAN
-        Benefit Category: Healthcare, Dental, Vision, Severance
-        Codes:  4A4D4E4I
+
+    2018
         Participants: 
-    2017: SHIRE HOLDINGS US AG SEVERANCE PAY PLAN
-        Benefit Category: Healthcare, Dental, Vision, Severance
-        Codes:  4A4D4E4I
+
+    2017
         Participants: 

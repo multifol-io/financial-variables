@@ -1,11 +1,8 @@
-CA : MILPITAS
-  KLA CORPORATION  042564110
-    2022: KLA 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2H2J2K2S2T3H2E2F2R 
-        Participants: 5949
-        Assets: 1494971954
-        $/Participant: 251298
+KLA CORPORATION  042564110 -- CA : MILPITAS
+  [401(k)] KLA 401(K) PLAN
+    2022  [codes: 2H2J2K2S2T3H2E2F2R]
+        Participants: 5,949  Average: $251,298
+        Assets: $1,494,971,954
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIAM TRUST COMPANY
@@ -23,12 +20,10 @@ CA : MILPITAS
                  : FID FRDM INX INC T
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 4
-    2021: KLA 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2H2J2K2S2T3H2E2F2R 
-        Participants: 5224
-        Assets: 1832406558
-        $/Participant: 350766
+
+    2021
+        Participants: 5,224  Average: $350,766
+        Assets: $1,832,406,558
         RecordKeeper: MOSS ADAMS LLP
         Available Investments:
            - FIAM TRUST COMPANY
@@ -46,149 +41,115 @@ CA : MILPITAS
                  : FIAM INX TD INCOME T
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 4
-    2020: KLA 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2H2J2K2S2T3H2E2R2F 
-        Participants: 4592
-        Assets: 1590800252
-        $/Participant: 346428
+
+    2020  [codes: 2H2J2K2S2T3H2E2R2F]
+        Participants: 4,592  Average: $346,428
+        Assets: $1,590,800,252
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 4
-    2019: KLA 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2H2J2K2R2S2T3H2E 
-        Participants: 4410
-        Assets: 1311306132
-        $/Participant: 297348
+
+    2019  [codes: 2F2H2J2K2R2S2T3H2E]
+        Participants: 4,410  Average: $297,348
+        Assets: $1,311,306,132
         RecordKeeper: MOSSADAMS
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
-    2018: KLA-TENCOR 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2H2J2K2R2S2T 
-        Participants: 3932
-        Assets: 1018940298
-        $/Participant: 259140
+
+  [401(k)] KLA-TENCOR 401(K) PLAN
+    2018  [codes: 2E2F2H2J2K2R2S2T]
+        Participants: 3,932  Average: $259,140
+        Assets: $1,018,940,298
         RecordKeeper: STRATEGIC ADVISORS, INC.
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
-    2017: KLA-TENCOR 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2H2J2K2R2S2T3H 
-        Participants: 3804
-        Assets: 1096392879
-        $/Participant: 288221
+
+    2017  [codes: 2E2F2H2J2K2R2S2T3H]
+        Participants: 3,804  Average: $288,221
+        Assets: $1,096,392,879
         RecordKeeper: STRATEGIC ADVISORS, INC.
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
-   [501]
-    2022: KLA-TENCOR CORPORATION GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] KLA-TENCOR CORPORATION GROUP INSURANCE PLAN [501]
+    2022  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
-    2021: KLA-TENCOR CORPORATION GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2021
         Participants: 
-    2020: KLA-TENCOR CORPORATION GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2020
         Participants: 
-    2019: KLA-TENCOR CORPORATION GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2019
         Participants: 
-    2018: KLA-TENCOR CORPORATION GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2018
         Participants: 
-    2017: KLA-TENCOR CORPORATION GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4Q
+
+    2017  [codes: 4A4B4D4E4H4L4Q]
         Participants: 
-   [515]
-    2022: KLA CORPORATION EMPLOYEE TIER 1 SEVERANCE BENEFITS PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] KLA CORPORATION EMPLOYEE TIER 1 SEVERANCE BENEFITS PLAN [515]
+    2022  [codes: 4I]
         Participants: 
-    2021: KLA CORPORATION EMPLOYEE TIER 1 SEVERANCE BENEFITS PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2021
         Participants: 
-    2020: KLA CORPORATION EMPLOYEE TIER 1 SEVERANCE BENEFITS PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2020
         Participants: 
-    2019: KLA CORPORATION EMPLOYEE TIER 1 SEVERANCE BENEFITS PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2019
         Participants: 
-    2018: KLA-TENCOR SEVERANCE BENEFITS PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] KLA-TENCOR SEVERANCE BENEFITS PLAN
+    2018
         Participants: 
-    2017: KLA-TENCOR SEVERANCE BENEFITS PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2017
         Participants: 
-   [516]
-    2022: KLA CORPORATION EMPLOYEE TIER 2 SEVERANCE BENEFITS PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] KLA CORPORATION EMPLOYEE TIER 2 SEVERANCE BENEFITS PLAN [516]
+    2022
         Participants: 
-    2021: KLA CORPORATION EMPLOYEE TIER 2 SEVERANCE BENEFITS PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2021
         Participants: 
-    2020: KLA CORPORATION EMPLOYEE TIER 2 SEVERANCE BENEFITS PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2020
         Participants: 
-    2019: KLA CORPORATION EMPLOYEE TIER 2 SEVERANCE BENEFITS PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2019
         Participants: 
-   [510]
-    2022: KLA-TENCOR CORPORATION SHORT TERM DISABILITY BENEFIT PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
-        Participants: 
-        Assets: 2972640
-        $/Participant: 
-    2021: KLA-TENCOR CORPORATION SHORT TERM DISABILITY BENEFIT PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
-        Participants: 
-        Assets: 2814576
-        $/Participant: 
-    2020: KLA-TENCOR CORPORATION SHORT TERM DISABILITY BENEFIT PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
-        Participants: 
-        Assets: 2657524
-        $/Participant: 
-    2019: KLA-TENCOR CORPORATION SHORT TERM DISABILITY BENEFIT PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
-        Participants: 
-        Assets: 2784178
-        $/Participant: 
+
+  [Short-term disability] KLA-TENCOR CORPORATION SHORT TERM DISABILITY BENEFIT PLAN [510]
+    2022  [codes: 4F]
+        Participants:   Average: $
+        Assets: $2,972,640
+
+    2021
+        Participants:   Average: $
+        Assets: $2,814,576
+
+    2020
+        Participants:   Average: $
+        Assets: $2,657,524
+
+    2019
+        Participants:   Average: $
+        Assets: $2,784,178
         Service Providers:
            - BANK OF AMERICA : N/A (Investment management | Investment management fees paid directly by plan)
-    2018: KLA-TENCOR CORPORATION SHORT TERM DISABILITY BENEFIT PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
-        Participants: 
-        Assets: 2519130
-        $/Participant: 
-    2017: KLA-TENCOR CORPORATION SHORT TERM DISABILITY BENEFIT PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
-        Participants: 
-        Assets: 2364653
-        $/Participant: 
+
+    2018
+        Participants:   Average: $
+        Assets: $2,519,130
+
+    2017
+        Participants:   Average: $
+        Assets: $2,364,653

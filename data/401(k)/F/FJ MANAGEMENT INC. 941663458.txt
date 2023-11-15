@@ -1,12 +1,8 @@
-UT : SALT LAKE CITY
-  FJ MANAGEMENT INC.  941663458
-   [005]
-    2022: FJ MANAGEMENT INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 
-        Participants: 5546
-        Assets: 130963033
-        $/Participant: 23613
+FJ MANAGEMENT INC.  941663458 -- UT : SALT LAKE CITY
+  [401(k)] FJ MANAGEMENT INC. 401(K) PLAN [005]
+    2022  [codes: 2E2F2G2J2K2S2T]
+        Participants: 5,546  Average: $23,613
+        Assets: $130,963,033
         RecordKeeper: NATIONAL FINANCIAL SERVICES
         Available Investments:
            - AMERICAN CENTURY
@@ -22,12 +18,10 @@ UT : SALT LAKE CITY
                  : AMERICAN CENTURY RETIRE 2065 TRUST
            - WILMINGTON TRUST
                  : WILMINGTON/BLACKROCK TOTAL RETURN
-    2021: FJ MANAGEMENT INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 
-        Participants: 4865
-        Assets: 144087974
-        $/Participant: 29617
+
+    2021
+        Participants: 4,865  Average: $29,617
+        Assets: $144,087,974
         RecordKeeper: NATIONAL FINANCIAL SERVICES
         Available Investments:
            - AMERICAN CENTURY
@@ -40,12 +34,10 @@ UT : SALT LAKE CITY
                  : AMERICAN CENTURY RETIRE 2050 TRUST
                  : AMERICAN CENTURY RETIRE 2055 TRUST
                  : AMERICAN CENTURY RETIRE 2060 TRUST
-    2020: FJ MANAGEMENT INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 
-        Participants: 4515
-        Assets: 120255887
-        $/Participant: 26634
+
+    2020
+        Participants: 4,515  Average: $26,634
+        Assets: $120,255,887
         RecordKeeper: NATIONAL FINANCIAL SERVICES
         Available Investments:
            - AMERICAN CENTURY
@@ -59,12 +51,10 @@ UT : SALT LAKE CITY
                  : AMERICAN CENTURY RETIRE 2050 TRUST
                  : AMERICAN CENTURY RETIRE 2055 TRUST
                  : AMERICAN CENTURY RETIRE 2060 TRUST
-    2019: FJ MANAGEMENT INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 
-        Participants: 5470
-        Assets: 96299362
-        $/Participant: 17605
+
+    2019
+        Participants: 5,470  Average: $17,605
+        Assets: $96,299,362
         RecordKeeper: RESOURCES INVESTMENT ADVISORS, INC.
         Available Investments:
            - AMERICAN CENTURY
@@ -78,12 +68,10 @@ UT : SALT LAKE CITY
                  : AMERICAN CENTURY RETIRE 2050 TRUST
                  : AMERICAN CENTURY RETIRE 2055 TRUST
                  : AMERICAN CENTURY RETIRE 2060 TRUST
-    2018: FJ MANAGEMENT INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 
-        Participants: 5064
-        Assets: 72608964
-        $/Participant: 14338
+
+    2018
+        Participants: 5,064  Average: $14,338
+        Assets: $72,608,964
         RecordKeeper: RESOURCES INVESTMENT ADVISORS, INC.
         Available Investments:
            - AMERICAN CENTURY
@@ -97,12 +85,10 @@ UT : SALT LAKE CITY
                  : AMERICAN CENTURY RETIRE 2050 TRUST
                  : AMERICAN CENTURY RETIRE 2055 TRUST
                  : AMERICAN CENTURY RETIRE 2060 TRUST
-    2017: FJ MANAGEMENT INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 
-        Participants: 3631
-        Assets: 71813272
-        $/Participant: 19777
+
+    2017
+        Participants: 3,631  Average: $19,777
+        Assets: $71,813,272
         RecordKeeper: INDEPENDENT FINANCIAL PARTNERS
         Available Investments:
            - AMERICAN CENTURY
@@ -116,83 +102,65 @@ UT : SALT LAKE CITY
                  : AMERICAN CENTURY RETIRE 2050 TRUST
                  : AMERICAN CENTURY RETIRE 2055 TRUST
                  : AMERICAN CENTURY RETIRE 2060 TRUST
-   [003]
-    2022: FJ MANAGEMENT INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O3I 
-        Participants: 212
-        Assets: 100217205
-        $/Participant: 472722
-    2021: FJ MANAGEMENT INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O3I 
-        Participants: 222
-        Assets: 85926388
-        $/Participant: 387055
-    2020: FJ MANAGEMENT INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O3I 
-        Participants: 239
-        Assets: 71149916
-        $/Participant: 297698
-    2019: FJ MANAGEMENT INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O3I 
-        Participants: 265
-        Assets: 77731303
-        $/Participant: 293325
-    2018: FJ MANAGEMENT INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O3I 
-        Participants: 278
-        Assets: 66670565
-        $/Participant: 239822
-    2017: FJ MANAGEMENT INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O3I 
-        Participants: 304
-        Assets: 57344902
-        $/Participant: 188634
-   [501]
-    2022: FJ MANAGEMENT INC CAFETERIA PLAN
-        Benefit Category: Healthcare, Life insurance, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4E4F4H4Q
+
+  [Employee Stock Ownership Plan] FJ MANAGEMENT INC. EMPLOYEE STOCK OWNERSHIP PLAN [003]
+    2022  [codes: 2I2O3I]
+        Participants: 212  Average: $472,722
+        Assets: $100,217,205
+
+    2021
+        Participants: 222  Average: $387,055
+        Assets: $85,926,388
+
+    2020
+        Participants: 239  Average: $297,698
+        Assets: $71,149,916
+
+    2019
+        Participants: 265  Average: $293,325
+        Assets: $77,731,303
+
+    2018
+        Participants: 278  Average: $239,822
+        Assets: $66,670,565
+
+    2017
+        Participants: 304  Average: $188,634
+        Assets: $57,344,902
+
+  [Healthcare, Life insurance, Vision, Short-term disability, Long-term disability] FJ MANAGEMENT INC CAFETERIA PLAN [501]
+    2022  [codes: 4A4B4E4F4H4Q]
         Participants: 
-    2021: FJ MANAGEMENT INC CAFETERIA PLAN
-        Benefit Category: Healthcare, Life insurance, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4E4F4H4Q
+
+    2021
         Participants: 
         Service Providers:
            - REGENCE BLUECROSS BLUESHEILD OF UT : CLAIMS PROCESSING (Claims processing | Direct payment from the plan | Float revenue | Contract Administrator | Insurance brokerage commissions and fees | Other services | Non - monetary compensation)
            - SELECTHEALTH : CONTRACT ADMINISTRATION (Claims processing)
            - METROPOLITAN LIFE INSURANCE CO. : CLAIMS PROCESSING (Claims processing | Contract Administrator)
-    2020: FJ MANAGEMENT INC CAFETERIA PLAN
-        Benefit Category: Healthcare, Life insurance, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4E4F4H4Q
+
+    2020
         Participants: 
         Service Providers:
            - REGENCE BLUECROSS BLUESHEILD OF UT : CLAIMS PROCESSING (Claims processing | Direct payment from the plan | Float revenue | Contract Administrator | Insurance brokerage commissions and fees | Other services | Non - monetary compensation)
            - SELECTHEALTH : CONTRACT ADMINISTRATION (Claims processing)
            - METROPOLITAN LIFE INSURANCE CO. : CLAIMS PROCESSING (Claims processing | Contract Administrator)
-    2019: FJ MANAGEMENT INC CAFETERIA PLAN
-        Benefit Category: Healthcare, Life insurance, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4E4F4H4Q
+
+    2019
         Participants: 
         Service Providers:
            - REGENCE BLUECROSS BLUESHEILD OF UT : CLAIMS PROCESSING (Claims processing | Direct payment from the plan | Float revenue | Contract Administrator | Insurance brokerage commissions and fees | Other services | Non - monetary compensation)
            - SELECTHEALTH : CONTRACT ADMINISTRATION (Claims processing)
            - METROPOLITAN LIFE INSURANCE CO. : CLAIMS PROCESSING (Claims processing | Contract Administrator)
-    2018: FJ MANAGEMENT INC CAFETERIA PLAN
-        Benefit Category: Healthcare, Life insurance, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4E4F4H4Q
+
+    2018
         Participants: 
         Service Providers:
            - REGENCE BLUECROSS BLUESHEILD OF UT : CLAIMS PROCESSING (Claims processing | Direct payment from the plan | Float revenue)
            - SELECTHEALTH : CONTRACT ADMINISTRATION (Claims processing)
            - METROPOLITAN LIFE INSURANCE CO. : CLAIMS PROCESSING (Claims processing | Contract Administrator)
-    2017: FJ MANAGEMENT INC CAFETERIA PLAN
-        Benefit Category: Healthcare, Life insurance, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4E4F4H4Q
+
+    2017
         Participants: 
         Service Providers:
            - REGENCE BLUECROSS BLUESHEILD OF UT : CLAIMS PROCESSING (Claims processing | Direct payment from the plan | Float revenue)

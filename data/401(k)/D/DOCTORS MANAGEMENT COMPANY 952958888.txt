@@ -1,8 +1,7 @@
-CA : NAPA
-  DOCTORS MANAGEMENT COMPANY  952958888
+DOCTORS MANAGEMENT COMPANY  952958888 -- CA : NAPA
+  [401(k)]THE DOCTORS MANAGEMENT COMPANY 401(K) SAVINGS PLAN
    [002]
-    2022: THE DOCTORS MANAGEMENT COMPANY 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
+    2022
         Codes: 2J2K3H2E2F2G2T3D2R 
         Participants: 1091
         Assets: 232210101
@@ -13,8 +12,9 @@ CA : NAPA
                  : MIP CL 2
            - WELLS FARGO BANK, N.A.
                  : GALLIARD STBLE RTN C
-    2021: THE DOCTORS MANAGEMENT COMPANY 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]THE DOCTORS MANAGEMENT COMPANY 401(K) SAVINGS PLAN
+    2021
         Codes: 2J2K3D2R3H2E2F2G2T 
         Participants: 1039
         Assets: 286377886
@@ -23,8 +23,9 @@ CA : NAPA
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
-    2020: THE DOCTORS MANAGEMENT COMPANY 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]THE DOCTORS MANAGEMENT COMPANY 401(K) SAVINGS PLAN
+    2020
         Codes: 3H2E2F2G2T2J2K3D2R 
         Participants: 1030
         Assets: 252577837
@@ -35,8 +36,9 @@ CA : NAPA
                  : MIP CL 2
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
-    2019: THE DOCTORS MANAGEMENT COMPANY 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]THE DOCTORS MANAGEMENT COMPANY 401(K) SAVINGS PLAN
+    2019
         Codes: 2R2T3D3H2E2F2G2J2K 
         Participants: 1031
         Assets: 218341221
@@ -47,8 +49,9 @@ CA : NAPA
                  : MIP CL 2
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
-    2018: THE DOCTORS MANAGEMENT COMPANY 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]THE DOCTORS MANAGEMENT COMPANY 401(K) SAVINGS PLAN
+    2018
         Codes: 2F2G2J2K2R2T3D3H2E 
         Participants: 861
         Assets: 179438159
@@ -61,8 +64,9 @@ CA : NAPA
                  : STABLE POOLED FUND
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
-    2017: THE DOCTORS MANAGEMENT COMPANY 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]THE DOCTORS MANAGEMENT COMPANY 401(K) SAVINGS PLAN
+    2017
         Codes: 2F2G2J2K2R2T3D3H 
         Participants: 883
         Assets: 193362062
@@ -71,37 +75,45 @@ CA : NAPA
         Available Investments:
            - TRANSAMERICA RETIREMENT SOLUTIONS
                  : STABLE POOLED FUND
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident]THE DOCTORS MANAGEMENT COMPANY HEALTH PLAN
    [501]
-    2022: THE DOCTORS MANAGEMENT COMPANY HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
+    2022
         Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
-    2021: THE DOCTORS MANAGEMENT COMPANY HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident]THE DOCTORS MANAGEMENT COMPANY HEALTH PLAN
+    2021
         Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
-    2020: THE DOCTORS MANAGEMENT COMPANY HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident]THE DOCTORS MANAGEMENT COMPANY HEALTH PLAN
+    2020
         Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
-    2019: THE DOCTORS MANAGEMENT COMPANY HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident]THE DOCTORS MANAGEMENT COMPANY HEALTH PLAN
+    2019
         Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
-    2018: THE DOCTORS MANAGEMENT COMPANY HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident]THE DOCTORS MANAGEMENT COMPANY HEALTH PLAN
+    2018
         Codes:  4A4B4D4E4F4G4H4L4Q
         Participants: 
-    2017: THE DOCTORS MANAGEMENT COMPANY HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident]THE DOCTORS MANAGEMENT COMPANY HEALTH PLAN
+    2017
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
+
+  [Healthcare, Dental, Vision]THE DOCTORS MANAGEMENT COMPANY FLEXIBLE BENEFIT PLAN
    [520]
-    2018: THE DOCTORS MANAGEMENT COMPANY FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare, Dental, Vision
+    2018
         Codes:  4A4D4E
         Participants: 
-    2017: THE DOCTORS MANAGEMENT COMPANY FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare, Dental, Vision
+
+  [Healthcare, Dental, Vision]THE DOCTORS MANAGEMENT COMPANY FLEXIBLE BENEFIT PLAN
+    2017
         Codes:  4A4D4E
         Participants: 

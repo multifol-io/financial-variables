@@ -1,12 +1,8 @@
-VA : ARLINGTON
-  BLOOMBERG INDUSTRY GROUP, INC  530040540
-   [002]
-    2022: BNA 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2F2G2K3H2S2T3D 
-        Participants: 2325
-        Assets: 362643055
-        $/Participant: 155975
+BLOOMBERG INDUSTRY GROUP, INC  530040540 -- VA : ARLINGTON
+  [401(k)] BNA 401(K) PLAN [002]
+    2022  [codes: 2E2J2F2G2K3H2S2T3D]
+        Participants: 2,325  Average: $155,975
+        Assets: $362,643,055
         RecordKeeper: EMPOWER ANNUITY INSURANCE COMPANY O
         Available Investments:
            - VANGUARD COLLECTIVE INVESTMENT TRUST FUNDS
@@ -21,152 +17,119 @@ VA : ARLINGTON
                  : THE VANGUARD TARGET RETIRE 2060 TRU
                  : THE VANGUARD TARGET RETIRE 2065 TRU
                  : THE VANGUARD TARGET RETIRE INCM TRU
-    2021: BNA 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2F2G2K3H2S2T3D 
-        Participants: 2062
-        Assets: 442771723
-        $/Participant: 214729
+
+    2021
+        Participants: 2,062  Average: $214,729
+        Assets: $442,771,723
         RecordKeeper: MASSACHUSETTS MUTUAL LIFE INS. CO.
-    2020: BNA 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2F2G2K3D3H2S2T 
-        Participants: 2062
-        Assets: 406063513
-        $/Participant: 196927
+
+    2020  [codes: 2E2J2F2G2K3D3H2S2T]
+        Participants: 2,062  Average: $196,927
+        Assets: $406,063,513
         RecordKeeper: VANGUARD
-    2019: BNA 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2F2G2K3D3H2S2T 
-        Participants: 2056
-        Assets: 360885499
-        $/Participant: 175527
+
+    2019
+        Participants: 2,056  Average: $175,527
+        Assets: $360,885,499
         RecordKeeper: VANGUARD
-    2018: THE BNA 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2F2G2K3D3H2S2T 
-        Participants: 2031
-        Assets: 304180139
-        $/Participant: 149768
+
+  [401(k)] THE BNA 401(K) PLAN
+    2018
+        Participants: 2,031  Average: $149,768
+        Assets: $304,180,139
         RecordKeeper: VANGUARD
-    2017: THE BNA 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 2043
-        Assets: 324793111
-        $/Participant: 158978
+
+    2017  [codes: 2E2F2G2J2K2S2T3H]
+        Participants: 2,043  Average: $158,978
+        Assets: $324,793,111
         RecordKeeper: BDO USA LLP
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
-   [503]
-    2022: THE BLOOMBERG BNA HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
-        Codes:  4A4B4D4E4L4Q
-        Participants: 2028
-        Assets: 9636821
-        $/Participant: 4751
+
+  [Healthcare, Life insurance, Dental, Vision, Travel accident] THE BLOOMBERG BNA HEALTH AND WELFARE PLAN [503]
+    2022  [codes: 4A4B4D4E4L4Q]
+        Participants: 2,028  Average: $4,751
+        Assets: $9,636,821
         Service Providers:
            - LINCOLN NATIONAL LIFE INSURANCE CO :  (Contract Administrator)
            - LINCOLN NATIONAL LIFE INSURANCE CO :  (Contract Administrator)
-    2021: THE BLOOMBERG BNA HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
-        Codes:  4A4B4D4E4L4Q
-        Participants: 1912
-        Assets: 15176138
-        $/Participant: 7937
+
+    2021
+        Participants: 1,912  Average: $7,937
+        Assets: $15,176,138
         RecordKeeper: ANTHEM INSURANCE COMPANIES, INC.
-    2020: THE BLOOMBERG BNA HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
-        Codes:  4A4B4D4E4L4Q
-        Participants: 2004
-        Assets: 15889436
-        $/Participant: 7928
+
+    2020
+        Participants: 2,004  Average: $7,928
+        Assets: $15,889,436
         Service Providers:
            - LINCOLN FINANCIAL GROUP :  (Contract Administrator)
            - LINCOLN FINANCIAL GROUP :  (Contract Administrator)
-    2019: THE BLOOMBERG BNA HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
-        Codes:  4A4B4D4E4L4Q
-        Participants: 1893
-        Assets: 15912134
-        $/Participant: 8405
+
+    2019
+        Participants: 1,893  Average: $8,405
+        Assets: $15,912,134
         RecordKeeper: LINCOLN LIFE ASSURANCE COMPANY
-    2018: THE BLOOMBERG BNA HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
-        Codes:  4A4B4D4E4L4Q
-        Participants: 2038
-        Assets: 14536314
-        $/Participant: 7132
+
+    2018
+        Participants: 2,038  Average: $7,132
+        Assets: $14,536,314
         Service Providers:
            - LINCOLN FINANCIAL GROUP :  (Contract Administrator)
            - LINCOLN FINANCIAL GROUP :  (Contract Administrator)
            - PNC INSTITUTIONAL ASSET MANAGEMENT :  (Custodial(securities))
-    2017: THE BLOOMBERG BNA HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
-        Codes:  4A4B4D4E4L4Q
-        Participants: 2293
-        Assets: 16215938
-        $/Participant: 7071
+
+    2017
+        Participants: 2,293  Average: $7,071
+        Assets: $16,215,938
         Service Providers:
            - LIBERTY LIFE ASSURANCE COMPANY OF B :  (Contract Administrator)
            - LIBERTY LIFE ASSURANCE COMPANY OF B :  (Contract Administrator)
-   [001]
-    2022: BNA EMPLOYEES RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 1187
-        Assets: 295152410
-        $/Participant: 248654
+
+  [Pension] BNA EMPLOYEES RETIREMENT PLAN [001]
+    2022  [codes: 1A]
+        Participants: 1,187  Average: $248,654
+        Assets: $295,152,410
         Service Providers:
            - APRIO LLP :  (Accounting(including auditing))
            - PNC :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - WTW :  (Actuarial | Direct payment from the plan)
-    2021: BNA EMPLOYEES RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 1200
-        Assets: 376684409
-        $/Participant: 313903
+
+    2021
+        Participants: 1,200  Average: $313,903
+        Assets: $376,684,409
         Service Providers:
            - WILLIS TOWERS WATSON :  (Actuarial | Direct payment from the plan)
            - PNC :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-    2020: BNA EMPLOYEES RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 1227
-        Assets: 346622760
-        $/Participant: 282496
+
+    2020
+        Participants: 1,227  Average: $282,496
+        Assets: $346,622,760
         Service Providers:
            - T. ROWE PRICE :  (Investment advisory(plan) | Direct payment from the plan)
            - PNC :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - WILLIS TOWERS WATSON :  (Actuarial | Direct payment from the plan)
-    2019: BNA EMPLOYEES RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 1263
-        Assets: 343053333
-        $/Participant: 271617
+
+    2019
+        Participants: 1,263  Average: $271,617
+        Assets: $343,053,333
         Service Providers:
            - WILLIS TOWERS WATSON :  (Actuarial | Direct payment from the plan)
            - PNC :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - T. ROWE PRICE :  (Investment advisory(plan) | Direct payment from the plan)
-    2018: BNA EMPLOYEES RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 1308
-        Assets: 299595732
-        $/Participant: 229048
+
+    2018
+        Participants: 1,308  Average: $229,048
+        Assets: $299,595,732
         Service Providers:
            - T. ROWE PRICE :  (Investment advisory(plan) | Direct payment from the plan)
            - PNC :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - WILLIS TOWERS WATSON :  (Actuarial | Direct payment from the plan)
-    2017: BNA EMPLOYEES RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 1429
-        Assets: 322349314
-        $/Participant: 225576
+
+    2017
+        Participants: 1,429  Average: $225,576
+        Assets: $322,349,314
         Service Providers:
            - T. ROWE PRICE :  (Investment advisory(plan) | Direct payment from the plan)
            - PNC :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)

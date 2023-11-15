@@ -1,12 +1,8 @@
-CA : LOS ANGELES
-  HANNIBAL INDUSTRIES, INC.  262103182
-   [001]
-    2021: HANNIBAL INDUSTRIES, INC. 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3D3F 
-        Participants: 434
-        Assets: 12719285
-        $/Participant: 29307
+HANNIBAL INDUSTRIES, INC.  262103182 -- CA : LOS ANGELES
+  [401(k)] HANNIBAL INDUSTRIES, INC. 401(K) SAVINGS PLAN [001]
+    2021  [codes: 2A2E2F2G2J2K2S2T3D3F]
+        Participants: 434  Average: $29,307
+        Assets: $12,719,285
         RecordKeeper: LOCKTON INVESTMENT ADVISORS
         Available Investments:
            - JOHN HACOCK USA
@@ -47,12 +43,10 @@ CA : LOS ANGELES
                  : VANGUARD TARGET RET 2065
                  : VANGUARD TARGET RET INCOME
                  : VANGUARD VALUE INDEX FUND
-    2020: HANNIBAL INDUSTRIES, INC. 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3D3F 
-        Participants: 363
-        Assets: 10399335
-        $/Participant: 28648
+
+    2020
+        Participants: 363  Average: $28,648
+        Assets: $10,399,335
         RecordKeeper: LOCKTON INVESTMENT ADVISORS
         Available Investments:
            - JOHN HANCOCK USA
@@ -92,12 +86,10 @@ CA : LOS ANGELES
                  : VANGUARD TARGET RET 2065
                  : VANGUARD TARGET RET INCOME
                  : VANGUARD VALUE INDEX FUND
-    2019: HANNIBAL INDUSTRIES, INC. 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3D3F 
-        Participants: 316
-        Assets: 9061504
-        $/Participant: 28675
+
+    2019
+        Participants: 316  Average: $28,675
+        Assets: $9,061,504
         RecordKeeper: JOHN HANCOCK LIFE INSURANCE COMPANY
         Available Investments:
            - JOHN HANCOCK USA
@@ -136,12 +128,10 @@ CA : LOS ANGELES
                  : VANGUARD TARGET RET 2060
                  : VANGUARD TARGET RET INCOME
                  : VANGUARD VALUE INDEX FUND
-    2018: HANNIBAL INDUSTRIES, INC. 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3D3F 
-        Participants: 281
-        Assets: 6981587
-        $/Participant: 24845
+
+    2018
+        Participants: 281  Average: $24,845
+        Assets: $6,981,587
         RecordKeeper: JOHN HANCOCK LIFE INSURANCE COMPANY
         Available Investments:
            - JOHN HANCOCK USA
@@ -180,12 +170,10 @@ CA : LOS ANGELES
                  : VANGUARD TARGET RET 2060
                  : VANGUARD TARGET RET INCOME
                  : VANGUARD VALUE INDEX FUND
-    2017: HANNIBAL INDUSTRIES, INC. 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3D3F 
-        Participants: 267
-        Assets: 6817666
-        $/Participant: 25534
+
+    2017
+        Participants: 267  Average: $25,534
+        Assets: $6,817,666
         RecordKeeper: JOHN HANCOCK LIFE INSURANCE COMPANY
         Available Investments:
            - JOHN HANCOCK USA
@@ -236,58 +224,41 @@ CA : LOS ANGELES
                  : VS CAP APPRECIATION
                  : VS EQUITY INCOME
                  : VS REAL RETURN
-   [002]
-    2022: HANNIBAL INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3I 
-        Participants: 508
-        Assets: 193562142
-        $/Participant: 381027
-    2021: HANNIBAL INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3I 
-        Participants: 508
-        Assets: 194637524
-        $/Participant: 383144
-    2020: HANNIBAL INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3I 
-        Participants: 395
-        Assets: 286761928
-        $/Participant: 725979
-    2019: HANNIBAL INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3I 
-        Participants: 340
-        Assets: 58694616
-        $/Participant: 172631
-    2018: HANNIBAL INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3I 
-        Participants: 299
-        Assets: 70388499
-        $/Participant: 235413
-    2017: HANNIBAL INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3I 
-        Participants: 255
-        Assets: 71082471
-        $/Participant: 278754
-CA : VERNON
-   [502]
-    2020: HANNIBAL INDUSTRIES, INC. HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4F4H4L
+
+  [Employee Stock Ownership Plan] HANNIBAL INDUSTRIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN [002]
+    2022  [codes: 2I2P2Q3I]
+        Participants: 508  Average: $381,027
+        Assets: $193,562,142
+
+    2021
+        Participants: 508  Average: $383,144
+        Assets: $194,637,524
+
+    2020
+        Participants: 395  Average: $725,979
+        Assets: $286,761,928
+
+    2019
+        Participants: 340  Average: $172,631
+        Assets: $58,694,616
+
+    2018
+        Participants: 299  Average: $235,413
+        Assets: $70,388,499
+
+    2017
+        Participants: 255  Average: $278,754
+        Assets: $71,082,471
+ -- CA : VERNON
+  [Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident] HANNIBAL INDUSTRIES, INC. HEALTH INSURANCE PLAN [502]
+    2020  [codes: 4A4B4D4F4H4L]
         Participants: 
-    2019: HANNIBAL INDUSTRIES, INC. HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4F4H4L
+
+    2019
         Participants: 
-    2018: HANNIBAL INDUSTRIES, INC. HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4F4H4L
+
+    2018
         Participants: 
-    2017: HANNIBAL INDUSTRIES, INC. HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4F4H4L
+
+    2017
         Participants: 

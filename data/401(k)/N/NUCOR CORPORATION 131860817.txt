@@ -1,12 +1,8 @@
-NC : CHARLOTTE
-  NUCOR CORPORATION  131860817
-   [334]
-    2022: NUCOR CORPORATION PROFIT SHARING AND RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2J2T3F3H2E2G2R 
-        Participants: 29522
-        Assets: 6904286956
-        $/Participant: 233869
+NUCOR CORPORATION  131860817 -- NC : CHARLOTTE
+  [401(k)] NUCOR CORPORATION PROFIT SHARING AND RETIREMENT SAVINGS PLAN [334]
+    2022  [codes: 2J2T3F3H2E2G2R]
+        Participants: 29,522  Average: $233,869
+        Assets: $6,904,286,956
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -37,12 +33,10 @@ NC : CHARLOTTE
            - WELLS FARGO BANK, N.A.
                  : AS SPL MD CAP VAL E2
                  : WF SPECIAL MID CAP VALUE CIT
-    2021: NUCOR CORPORATION PROFIT SHARING AND RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2G2J2T3F3H2E2R 
-        Participants: 25718
-        Assets: 7525494067
-        $/Participant: 292615
+
+    2021  [codes: 2G2J2T3F3H2E2R]
+        Participants: 25,718  Average: $292,615
+        Assets: $7,525,494,067
         RecordKeeper: GREERWALKER
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -69,12 +63,10 @@ NC : CHARLOTTE
                  : TRP EQUITY INCOME C
            - WELLS FARGO BANK, N.A.
                  : WF SPECIAL MID CAP VALUE CIT
-    2020: NUCOR CORPORATION PROFIT SHARING AND RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2G2J2T3F3H2E2R 
-        Participants: 22232
-        Assets: 5612130009
-        $/Participant: 252434
+
+    2020
+        Participants: 22,232  Average: $252,434
+        Assets: $5,612,130,009
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -103,12 +95,10 @@ NC : CHARLOTTE
                  : MELLON STABLE VAL M
            - WELLS FARGO BANK, N.A.
                  : WF SPECIAL MID CAP VALUE CIT
-    2019: NUCOR CORPORATION PROFIT SHARING AND RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2G2J2R2T3F3H2E 
-        Participants: 21028
-        Assets: 4910107418
-        $/Participant: 233503
+
+    2019  [codes: 2G2J2R2T3F3H2E]
+        Participants: 21,028  Average: $233,503
+        Assets: $4,910,107,418
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N. A.
@@ -132,12 +122,10 @@ NC : CHARLOTTE
                  : MIP II CL 3
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VAL M
-    2018: NUCOR CORPORATION PROFIT SHARING AND RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 3H2E2G2J2R2T3F 
-        Participants: 20078
-        Assets: 4028998779
-        $/Participant: 200667
+
+    2018  [codes: 3H2E2G2J2R2T3F]
+        Participants: 20,078  Average: $200,667
+        Assets: $4,028,998,779
         RecordKeeper: SHEPARD SCHWARTZ & HARRIS LLP
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N. A.
@@ -161,12 +149,10 @@ NC : CHARLOTTE
                  : MIP II CL 3
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VAL M
-    2017: NUCOR CORPORATION PROFIT SHARING AND RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2R2T3F3H 
-        Participants: 18628
-        Assets: 4164377238
-        $/Participant: 223554
+
+    2017  [codes: 2E2G2J2R2T3F3H]
+        Participants: 18,628  Average: $223,554
+        Assets: $4,164,377,238
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N. A.
@@ -189,83 +175,59 @@ NC : CHARLOTTE
                  : MIP II CL 3
            - THE BANK OF NEW YORK MELLON
                  : MELLON STABLE VAL M
-   [003]
-    2022: NUCOR CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2O3F3I2I 
-        Participants: 522
-        Assets: 21615176
-        $/Participant: 41408
-    2021: NUCOR CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2O3F3I2I 
-        Participants: 571
-        Assets: 28890195
-        $/Participant: 50595
-    2020: NUCOR CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O3F3I 
-        Participants: 607
-        Assets: 18146875
-        $/Participant: 29896
-    2019: NUCOR CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O3F3I 
-        Participants: 681
-        Assets: 21273658
-        $/Participant: 31238
-    2018: NUCOR CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2O3F3I2I 
-        Participants: 718
-        Assets: 22634864
-        $/Participant: 31524
-    2017: NUCOR CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O3F3I 
-        Participants: 859
-        Assets: 36297512
-        $/Participant: 42255
-   [502]
-    2022: NUCOR CORPORATION GROUP LIFE & HEALTH INSURANCE PLAN FOR ALL EMPLOYEES
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H
-        Participants: 
-        Assets: 53982563
-        $/Participant: 
+
+  [Employee Stock Ownership Plan] NUCOR CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN [003]
+    2022  [codes: 2O3F3I2I]
+        Participants: 522  Average: $41,408
+        Assets: $21,615,176
+
+    2021
+        Participants: 571  Average: $50,595
+        Assets: $28,890,195
+
+    2020  [codes: 2I2O3F3I]
+        Participants: 607  Average: $29,896
+        Assets: $18,146,875
+
+    2019
+        Participants: 681  Average: $31,238
+        Assets: $21,273,658
+
+    2018  [codes: 2O3F3I2I]
+        Participants: 718  Average: $31,524
+        Assets: $22,634,864
+
+    2017  [codes: 2I2O3F3I]
+        Participants: 859  Average: $42,255
+        Assets: $36,297,512
+
+  [Healthcare, Life insurance, Dental, Long-term disability] NUCOR CORPORATION GROUP LIFE & HEALTH INSURANCE PLAN FOR ALL EMPLOYEES [502]
+    2022  [codes: 4A4B4D4H]
+        Participants:   Average: $
+        Assets: $53,982,563
         RecordKeeper: WAGEWORKS
-    2021: NUCOR CORPORATION GROUP LIFE & HEALTH INSURANCE PLAN FOR ALL EMPLOYEES
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H
-        Participants: 
-        Assets: 33398944
-        $/Participant: 
+
+    2021
+        Participants:   Average: $
+        Assets: $33,398,944
         RecordKeeper: PAYFLEX
-    2020: NUCOR CORPORATION GROUP LIFE & HEALTH INSURANCE PLAN FOR ALL EMPLOYEES
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H
-        Participants: 
-        Assets: 29570178
-        $/Participant: 
+
+    2020
+        Participants:   Average: $
+        Assets: $29,570,178
         RecordKeeper: PAYFLEX
-    2019: NUCOR CORPORATION GROUP LIFE & HEALTH INSURANCE PLAN FOR ALL EMPLOYEES
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H
-        Participants: 
-        Assets: 27643482
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $27,643,482
         RecordKeeper: PAYFLEX
-    2018: NUCOR CORPORATION GROUP LIFE & HEALTH INSURANCE PLAN FOR ALL EMPLOYEES
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H
-        Participants: 
-        Assets: 24889315
-        $/Participant: 
+
+    2018
+        Participants:   Average: $
+        Assets: $24,889,315
         RecordKeeper: COMMUNITY INSURANCE COMPANY
-    2017: NUCOR CORPORATION GROUP LIFE & HEALTH INSURANCE PLAN FOR ALL EMPLOYEES
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H
-        Participants: 
-        Assets: 22678388
-        $/Participant: 
+
+    2017
+        Participants:   Average: $
+        Assets: $22,678,388
         RecordKeeper: PAYFLEX

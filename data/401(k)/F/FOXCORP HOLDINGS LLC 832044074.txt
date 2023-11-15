@@ -1,12 +1,8 @@
-NY : NEW YORK
-  FOXCORP HOLDINGS LLC  832044074
-   [002]
-    2019: FOX SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2G2J2K2R2S2T3H 
-        Participants: 10342
-        Assets: 1538493935
-        $/Participant: 148761
+FOXCORP HOLDINGS LLC  832044074 -- NY : NEW YORK
+  [401(k)] FOX SAVINGS PLAN [002]
+    2019  [codes: 2A2E2G2J2K2R2S2T3H]
+        Participants: 10,342  Average: $148,761
+        Assets: $1,538,493,935
         RecordKeeper: FIDELITY INV. INST. OPS. CO, INC.
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY
@@ -35,12 +31,10 @@ NY : NEW YORK
                  : VFTC TARGET RETIREMENT INCOME TRUST
            - VOYA INVESTMENT TRUST CO
                  : VOYA DEDICATED MULTI-SECTOR SV TF
-    2018: FOX SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2G2J2K2R2S2T3H 
-        Participants: 9950
-        Assets: 1246860294
-        $/Participant: 125312
+
+    2018
+        Participants: 9,950  Average: $125,312
+        Assets: $1,246,860,294
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY
                  : 1-3 YEAR GOVERNMENT BOND INDEX FUND
@@ -67,13 +61,11 @@ NY : NEW YORK
                  : VFTC TARGET RETIREMENT INCOME TRUST
            - VOYA INVESTMENT TRUST CO
                  : VOYA DEDICATED MULTI-SECTOR SV TF
-   [001]
-    2019: NEW FOX PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 2257
-        Assets: 707268564
-        $/Participant: 313366
+
+  [Pension] NEW FOX PENSION PLAN [001]
+    2019  [codes: 1A3H]
+        Participants: 2,257  Average: $313,366
+        Assets: $707,268,564
         Service Providers:
            - MERCER HUMAN RESOURCE CONSULTING :  (Actuarial | Consulting(pension) | Direct payment from the plan)
            - BUCK CONSULTANTS LLP :  (Actuarial | Consulting(pension) | Direct payment from the plan)
@@ -84,12 +76,10 @@ NY : NEW YORK
         Available Investments:
            - FOXCORP HOLDINGS LLC
                  : NEW FOX MASTER TRUST
-    2018: NEW FOX PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 2298
-        Assets: 627339510
-        $/Participant: 272993
+
+    2018
+        Participants: 2,298  Average: $272,993
+        Assets: $627,339,510
         RecordKeeper: MOSS ADAMS LLP
         Available Investments:
            - 21ST CENTURY FOX AMERICA, INC.

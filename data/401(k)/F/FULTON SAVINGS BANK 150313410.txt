@@ -1,33 +1,25 @@
-NY : FULTON
-  FULTON SAVINGS BANK  150313410
-   [505]
-    2021: EMPLOYEE LIFE, LTD, DENTAL AND HEALTH BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H4Q
+FULTON SAVINGS BANK  150313410 -- NY : FULTON
+  [Healthcare, Life insurance, Dental, Long-term disability] EMPLOYEE LIFE, LTD, DENTAL AND HEALTH BENEFIT PLAN [505]
+    2021  [codes: 4A4B4D4H4Q]
         Participants: 
-    2020: EMPLOYEE LIFE, LTD, AND HEALTH BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H4Q
+
+  [Healthcare, Life insurance, Dental, Long-term disability] EMPLOYEE LIFE, LTD, AND HEALTH BENEFIT PLAN
+    2020
         Participants: 
-    2019: EMPLOYEE LIFE, LTD, AND HEALTH BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H4Q
+
+    2019
         Participants: 
-    2018: EMPLOYEE LIFE, LTD, AND HEALTH BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H4Q
+
+    2018
         Participants: 
-    2017: EMPLOYEE LIFE, LTD, AND HEALTH BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability
-        Codes:  4A4B4D4H4Q
+
+    2017
         Participants: 
-   [001]
-    2021: RETIREMENT PLAN OF FULTON SAVINGS BANK
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 119
-        Assets: 25797111
-        $/Participant: 216782
+
+  [Pension] RETIREMENT PLAN OF FULTON SAVINGS BANK [001]
+    2021  [codes: 1A]
+        Participants: 119  Average: $216,782
+        Assets: $25,797,111
         Service Providers:
            - PENTEGRA RETIREMENT TRUST : TRUSTEE (Trustee(bank, trust company, or similar))
         Available Investments:
@@ -38,12 +30,10 @@ NY : FULTON
                  : RUSSELL 2000(R) INDEX NL
                  : S&P 500(R) FLAGSHIP NL
                  : S&P MIDCAP 400(R) INDEX NL
-    2020: RETIREMENT PLAN OF FULTON SAVINGS BANK
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 121
-        Assets: 37095151
-        $/Participant: 306571
+
+    2020
+        Participants: 121  Average: $306,571
+        Assets: $37,095,151
         Service Providers:
            - PENTEGRA RETIREMENT TRUST : TRUSTEE (Trustee(bank, trust company, or similar))
         Available Investments:
@@ -54,12 +44,11 @@ NY : FULTON
                  : RUSSELL 2000(R) INDEX NL
                  : S&P 500(R) FLAGSHIP NL
                  : S&P MIDCAP 400(R) INDEX NL
-    2019: RETIREMENT PLAN OF FULTON SAVINGS BANK IN PENTEGRA RETIREMENT TRUST
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 124
-        Assets: 31371379
-        $/Participant: 252994
+
+  [Pension] RETIREMENT PLAN OF FULTON SAVINGS BANK IN PENTEGRA RETIREMENT TRUST
+    2019
+        Participants: 124  Average: $252,994
+        Assets: $31,371,379
         Service Providers:
            - PENTEGRA RETIREMENT TRUST : TRUSTEE (Trustee(bank, trust company, or similar))
         Available Investments:
@@ -70,12 +59,10 @@ NY : FULTON
                  : RUSSELL 2000(R) INDEX NL
                  : S&P 500(R) FLAGSHIP NL
                  : S&P MIDCAP 400(R) INDEX NL
-    2018: RETIREMENT PLAN OF FULTON SAVINGS BANK IN PENTEGRA RETIREMENT TRUST
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 121
-        Assets: 28420921
-        $/Participant: 234883
+
+    2018
+        Participants: 121  Average: $234,883
+        Assets: $28,420,921
         Service Providers:
            - PENTEGRA RETIREMENT TRUST : TRUSTEE (Trustee(bank, trust company, or similar))
         Available Investments:
@@ -86,12 +73,10 @@ NY : FULTON
                  : RUSSELL 2000(R) INDEX NL
                  : S&P 500(R) FLAGSHIP NL
                  : S&P MIDCAP 400(R) INDEX NL
-    2017: RETIREMENT PLAN OF FULTON SAVINGS BANK IN PENTEGRA RETIREMENT TRUST
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 126
-        Assets: 28107571
-        $/Participant: 223075
+
+    2017
+        Participants: 126  Average: $223,075
+        Assets: $28,107,571
         Service Providers:
            - PENTEGRA RETIREMENT TRUST : TRUSTEE (Trustee(bank, trust company, or similar))
         Available Investments:

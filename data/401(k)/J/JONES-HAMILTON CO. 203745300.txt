@@ -1,93 +1,69 @@
-OH : WALBRIDGE
-  JONES-HAMILTON CO.  203745300
-   [003]
-    2022: JONES-HAMILTON CO. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2T3D3F 
-        Participants: 121
-        Assets: 4621827
-        $/Participant: 38196
+JONES-HAMILTON CO.  203745300 -- OH : WALBRIDGE
+  [401(k)] JONES-HAMILTON CO. 401(K) PLAN [003]
+    2022  [codes: 2E2F2G2J2T3D3F]
+        Participants: 121  Average: $38,196
+        Assets: $4,621,827
         RecordKeeper: NEWPORT GROUP, INC.
         Available Investments:
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND
-    2021: JONES-HAMILTON CO. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2T3D3F 
-        Participants: 115
-        Assets: 6139125
-        $/Participant: 53383
+
+    2021  [codes: 2A2E2F2G2J2T3D3F]
+        Participants: 115  Average: $53,383
+        Assets: $6,139,125
         RecordKeeper: NEWPORT GROUP, INC.
         Available Investments:
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND
-    2020: JONES-HAMILTON CO. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2T3D 
-        Participants: 119
-        Assets: 5670931
-        $/Participant: 47654
+
+    2020  [codes: 2A2E2F2G2J2T3D]
+        Participants: 119  Average: $47,654
+        Assets: $5,670,931
         RecordKeeper: NEWPORT GROUP, INC.
         Available Investments:
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE FUND
-   [002]
-    2022: JONES-HAMILTON CO. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2I2P2Q3I 
-        Participants: 144
-        Assets: 122798274
-        $/Participant: 852765
-    2021: JONES-HAMILTON CO. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2I2P2Q3I 
-        Participants: 138
-        Assets: 115654866
-        $/Participant: 838078
-    2020: JONES-HAMILTON CO. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2I2P2Q3I 
-        Participants: 134
-        Assets: 110320763
-        $/Participant: 823289
-    2019: JONES-HAMILTON CO. EMPLOYEE STOCK OWNERSHIP AND PROFIT SHARING PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2I2P2Q3I 
-        Participants: 129
-        Assets: 137676128
-        $/Participant: 1067256
-    2018: JONES-HAMILTON CO. EMPLOYEE STOCK OWNERSHIP AND PROFIT SHARING PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2I2P2Q3I 
-        Participants: 123
-        Assets: 130318898
-        $/Participant: 1059503
-    2017: JONES-HAMILTON CO. EMPLOYEE STOCK OWNERSHIP AND PROFIT SHARING PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2I2P2Q3I 
+
+  [Employee Stock Ownership Plan] JONES-HAMILTON CO. EMPLOYEE STOCK OWNERSHIP PLAN [002]
+    2022  [codes: 2E2I2P2Q3I]
+        Participants: 144  Average: $852,765
+        Assets: $122,798,274
+
+    2021
+        Participants: 138  Average: $838,078
+        Assets: $115,654,866
+
+    2020
+        Participants: 134  Average: $823,289
+        Assets: $110,320,763
+
+  [Employee Stock Ownership Plan] JONES-HAMILTON CO. EMPLOYEE STOCK OWNERSHIP AND PROFIT SHARING PLAN
+    2019
+        Participants: 129  Average: $1,067,256
+        Assets: $137,676,128
+
+    2018
+        Participants: 123  Average: $1,059,503
+        Assets: $130,318,898
+
+    2017
         Participants: 120
-   [501]
-    2022: JONES-HAMILTON HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] JONES-HAMILTON HEALTH AND WELFARE PLAN [501]
+    2022  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
-    2021: JONES-HAMILTON HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2021
         Participants: 
-    2020: JONES-HAMILTON HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2020
         Participants: 
-    2019: JONES-HAMILTON HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2019
         Participants: 
-    2018: JONES-HAMILTON HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2018
         Participants: 
-    2017: JONES-HAMILTON HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+    2017  [codes: 4A4B4D4E4H4L]
         Participants: 

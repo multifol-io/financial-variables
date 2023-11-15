@@ -1,112 +1,90 @@
-ME : FARMINGTON
-  FRANKLIN SAVINGS BANK  010072660
-   [002]
-    2022: FRANKLIN SAVINGS BANK 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 155
-        Assets: 8000648
-        $/Participant: 51617
+FRANKLIN SAVINGS BANK  010072660 -- ME : FARMINGTON
+  [401(k)] FRANKLIN SAVINGS BANK 401K PLAN [002]
+    2022  [codes: 2E2F2G2J2K2S2T3D]
+        Participants: 155  Average: $51,617
+        Assets: $8,000,648
         RecordKeeper: LPL FINANCIAL
         Available Investments:
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE ASSET
            - STATE STREET BANK & TRUST CO
                  : STATE ST S&P 500 IDX IX
-    2021: FRANKLIN SAVINGS BANK 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 142
-        Assets: 11794672
-        $/Participant: 83061
+
+    2021
+        Participants: 142  Average: $83,061
+        Assets: $11,794,672
         RecordKeeper: WESTERN MTN. FINANCIAL SERVICES
         Available Investments:
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE ASSET
-    2020: FRANKLIN SAVINGS BANK 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 131
-        Assets: 10482394
-        $/Participant: 80018
+
+    2020
+        Participants: 131  Average: $80,018
+        Assets: $10,482,394
         RecordKeeper: LPL FINANCIAL
         Available Investments:
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE ASSET
-    2019: FRANKLIN SAVINGS BANK 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 125
-        Assets: 9368720
-        $/Participant: 74949
-        RecordKeeper: LPL FINANCIAL
-        Available Investments:
-           - INVESCO TRUST COMPANY
-                 : INVESCO STABLE ASSET
-           - STATE STREET BANK & TRUST CO
-                 : STATE ST S&P 500 IDX IX
-    2018: FRANKLIN SAVINGS BANK 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 123
-        Assets: 7875990
-        $/Participant: 64032
+
+    2019
+        Participants: 125  Average: $74,949
+        Assets: $9,368,720
         RecordKeeper: LPL FINANCIAL
         Available Investments:
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE ASSET
            - STATE STREET BANK & TRUST CO
                  : STATE ST S&P 500 IDX IX
-    2017: FRANKLIN SAVINGS BANK 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 116
-        Assets: 8865440
-        $/Participant: 76426
+
+    2018
+        Participants: 123  Average: $64,032
+        Assets: $7,875,990
         RecordKeeper: LPL FINANCIAL
         Available Investments:
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE ASSET
-   [001]
-    2022: THE RETIREMENT PLAN FOR EMPLOYEES OF FRANKLIN SAVINGS BANK
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 228
-        Assets: 54641424
-        $/Participant: 239655
+           - STATE STREET BANK & TRUST CO
+                 : STATE ST S&P 500 IDX IX
+
+    2017
+        Participants: 116  Average: $76,426
+        Assets: $8,865,440
+        RecordKeeper: LPL FINANCIAL
+        Available Investments:
+           - INVESCO TRUST COMPANY
+                 : INVESCO STABLE ASSET
+
+  [Pension] THE RETIREMENT PLAN FOR EMPLOYEES OF FRANKLIN SAVINGS BANK [001]
+    2022  [codes: 1A]
+        Participants: 228  Average: $239,655
+        Assets: $54,641,424
         Service Providers:
            - PENTEGRA RETIREMENT TRUST : NAMED FIDUCIARY (Trustee(bank, trust company, or similar))
         Available Investments:
            - DEPRINCE RACE & ZOLLO MASTER TRUST
                  : VALUE EQUITY COLLECTIVE FUND
-    2021: THE RETIREMENT PLAN FOR EMPLOYEES OF FRANKLIN SAVINGS BANK
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 219
-        Assets: 70672826
-        $/Participant: 322706
+
+    2021
+        Participants: 219  Average: $322,706
+        Assets: $70,672,826
         Service Providers:
            - PENTEGRA RETIREMENT TRUST : NAMED FIDUCIARY (Trustee(bank, trust company, or similar))
         Available Investments:
            - DEPRINCE RACE & ZOLLO MASTER TRUST
                  : VALUE EQUITY COLLECTIVE FUND
-    2020: THE RETIREMENT PLAN FOR EMPLOYEES OF FRANKLIN SAVINGS BANK
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 215
-        Assets: 62900102
-        $/Participant: 292558
+
+    2020
+        Participants: 215  Average: $292,558
+        Assets: $62,900,102
         Service Providers:
            - PENTEGRA RETIREMENT TRUST : NAMED FIDUCIARY (Trustee(bank, trust company, or similar))
         Available Investments:
            - DEPRINCE RACE & ZOLLO MASTER TRUST
                  : VALUE EQUITY COLLECTIVE FUND
-    2019: THE RETIREMENT PLAN FOR EMPLOYEES OF FRANKLIN SAVINGS BANK
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 211
-        Assets: 53437689
-        $/Participant: 253259
+
+    2019
+        Participants: 211  Average: $253,259
+        Assets: $53,437,689
         Service Providers:
            - PENTEGRA RETIREMENT TRUST : NAMED FIDUCIARY (Trustee(bank, trust company, or similar))
         Available Investments:
@@ -115,24 +93,21 @@ ME : FARMINGTON
            - PENTEGRA RETIREMENT TRUST
                  : LIABILITY FOCUSED FIXED-INCOME STRA
                  : LONG-TERM GROWTH EQUITY STRATEGY
-    2018: THE RETIREMENT PLAN FOR EMPLOYEES OF FRANKLIN SAVINGS BANK IN PENTEGRA RETIREMENT TRUST
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 198
-        Assets: 42202065
-        $/Participant: 213141
+
+  [Pension] THE RETIREMENT PLAN FOR EMPLOYEES OF FRANKLIN SAVINGS BANK IN PENTEGRA RETIREMENT TRUST
+    2018
+        Participants: 198  Average: $213,141
+        Assets: $42,202,065
         Service Providers:
            - PENTEGRA RETIREMENT TRUST : NAMED FIDUCIARY (Trustee(bank, trust company, or similar))
         Available Investments:
            - PENTEGRA RETIREMENT TRUST
                  : LIABILITY FOCUSED FIXED-INCOME STRA
                  : LONG-TERM GROWTH EQUITY STRATEGY
-    2017: THE RETIREMENT PLAN FOR EMPLOYEES OF FRANKLIN SAVINGS BANK IN PENTEGRA RETIREMENT TRUST
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 194
-        Assets: 46313643
-        $/Participant: 238730
+
+    2017
+        Participants: 194  Average: $238,730
+        Assets: $46,313,643
         Service Providers:
            - PRT RETIREMENT TRUST : NAMED FIDUCIARY (Trustee(bank, trust company, or similar))
         Available Investments:

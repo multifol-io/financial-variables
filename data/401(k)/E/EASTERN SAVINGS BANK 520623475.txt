@@ -1,12 +1,8 @@
-MD : HUNT VALLEY
-  EASTERN SAVINGS BANK  520623475
-   [001]
-    2022: EASTERN SAVINGS BANK SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 130
-        Assets: 31424021
-        $/Participant: 241723
+EASTERN SAVINGS BANK  520623475 -- MD : HUNT VALLEY
+  [401(k)] EASTERN SAVINGS BANK SAVINGS PLAN [001]
+    2022  [codes: 2E2F2G2J2K2S2T3D]
+        Participants: 130  Average: $241,723
+        Assets: $31,424,021
         RecordKeeper: MORNINGSTAR INVESTMENT MANAGEMENT L
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -19,12 +15,10 @@ MD : HUNT VALLEY
                  : PRIN SMCAP S&P 600 INDEX SA-Z
            - T. ROWE PRICE TRUST COMPANY
                  : T. ROWE PRICE STABLE VALUE A
-    2021: EASTERN SAVINGS BANK SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 134
-        Assets: 40881535
-        $/Participant: 305086
+
+    2021
+        Participants: 134  Average: $305,086
+        Assets: $40,881,535
         RecordKeeper: SC&H ATTEST SERVICES, P.C.
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -37,12 +31,10 @@ MD : HUNT VALLEY
                  : PRIN SMCAP S&P 600 INDEX SA-Z
            - T. ROWE PRICE TRUST COMPANY
                  : T. ROWE PRICE STABLE VALUE A
-    2020: EASTERN SAVINGS BANK SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 141
-        Assets: 40782529
-        $/Participant: 289237
+
+    2020
+        Participants: 141  Average: $289,237
+        Assets: $40,782,529
         RecordKeeper: MERCER INVESTMENTS LLC
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -53,12 +45,10 @@ MD : HUNT VALLEY
                  : PRIN MIDCAP S&P 400 IDX SA-R6
                  : PRIN MIDCAP VALUE I SA-I2
                  : PRIN SMCAP S&P 600 INDEX SA-R6
-    2019: EASTERN SAVINGS BANK SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 143
-        Assets: 38775632
-        $/Participant: 271158
+
+    2019
+        Participants: 143  Average: $271,158
+        Assets: $38,775,632
         RecordKeeper: MMC SECURITIES CORPORATION
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -69,12 +59,10 @@ MD : HUNT VALLEY
                  : PRIN MIDCAP S&P 400 IDX SA-R6
                  : PRIN MIDCAP VALUE I SA-I2
                  : PRIN SMCAP S&P 600 INDEX SA-R6
-    2018: EASTERN SAVINGS BANK SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 148
-        Assets: 32030230
-        $/Participant: 216420
+
+    2018
+        Participants: 148  Average: $216,420
+        Assets: $32,030,230
         RecordKeeper: EASTERN SAVINGS BANK
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -85,12 +73,10 @@ MD : HUNT VALLEY
                  : PRIN MIDCAP S&P 400 IDX SA-R6
                  : PRIN MIDCAP VALUE I SA-I2
                  : PRIN SMCAP S&P 600 INDEX SA-R6
-    2017: EASTERN SAVINGS BANK SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 151
-        Assets: 33436716
-        $/Participant: 221435
+
+    2017
+        Participants: 151  Average: $221,435
+        Assets: $33,436,716
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -108,16 +94,13 @@ MD : HUNT VALLEY
                  : PRIN MIDCAP S&P 400 IDX SA-R6
                  : PRIN MIDCAP VALUE I SA-I2
                  : PRIN SMCAP S&P 600 INDEX SA-R6
-   [501]
-    2020: EASTERN SAVINGS BANK HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4G4H4L4Q4R
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident] EASTERN SAVINGS BANK HEALTH PLAN [501]
+    2020  [codes: 4A4B4D4E4G4H4L4Q4R]
         Participants: 
-    2019: EASTERN SAVINGS BANK HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4G4H4L4Q
+
+    2019  [codes: 4A4B4D4E4G4H4L4Q]
         Participants: 
-    2017: EASTERN SAVINGS BANK HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4G4H4L4Q
+
+    2017
         Participants: 

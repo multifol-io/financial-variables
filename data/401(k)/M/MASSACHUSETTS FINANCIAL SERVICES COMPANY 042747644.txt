@@ -1,12 +1,8 @@
-MA : BOSTON
-  MASSACHUSETTS FINANCIAL SERVICES COMPANY  042747644
-   [015]
-    2022: MFSAVING RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2R2S2T3H 
-        Participants: 2390
-        Assets: 441894257
-        $/Participant: 184892
+MASSACHUSETTS FINANCIAL SERVICES COMPANY  042747644 -- MA : BOSTON
+  [401(k)] MFSAVING RETIREMENT PLAN [015]
+    2022  [codes: 2E2F2G2J2R2S2T3H]
+        Participants: 2,390  Average: $184,892
+        Assets: $441,894,257
         RecordKeeper: MERRILL LYNCH, PIERCE, FENNER AND S
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -34,12 +30,10 @@ MA : BOSTON
                  : VANGUARD TARGET RETIREMENT 2060
                  : VANGUARD TARGET RETIREMENT 2065
                  : VANGUARD TARGET RETIREMENT INCOME T
-    2021: MFSAVING RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2R2S2T3H 
-        Participants: 2321
-        Assets: 524510884
-        $/Participant: 225984
+
+    2021
+        Participants: 2,321  Average: $225,984
+        Assets: $524,510,884
         RecordKeeper: MERRILL LYNCH, PIERCE, FENNER AND S
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -67,71 +61,54 @@ MA : BOSTON
                  : VANGUARD TARGET RETIREMENT 2060
                  : VANGUARD TARGET RETIREMENT 2065
                  : VANGUARD TARGET RETIREMENT INCOME T
-    2020: MFSAVING RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2S2T3H 
-        Participants: 2337
-        Assets: 458950834
-        $/Participant: 196384
+
+    2020  [codes: 2E2F2G2J2S2T3H]
+        Participants: 2,337  Average: $196,384
+        Assets: $458,950,834
         RecordKeeper: MERRILL LYNCH, PIERCE, FENNER AND S
-    2019: MFSAVING RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2S2T3H 
-        Participants: 2318
-        Assets: 392279145
-        $/Participant: 169231
+
+    2019
+        Participants: 2,318  Average: $169,231
+        Assets: $392,279,145
         RecordKeeper: MERRILL LYNCH, PIERCE, FENNER AND S
-    2018: MFSAVING RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2S2T3H 
-        Participants: 2340
-        Assets: 310063140
-        $/Participant: 132505
+
+    2018
+        Participants: 2,340  Average: $132,505
+        Assets: $310,063,140
         RecordKeeper: MERRILL LYNCH, PIERCE, FENNER AND S
-    2017: MFSAVING RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2S2T3H 
-        Participants: 2326
-        Assets: 319058862
-        $/Participant: 137170
+
+    2017
+        Participants: 2,326  Average: $137,170
+        Assets: $319,058,862
         RecordKeeper: MERRILL LYNCH, PIERCE, FENNER AND S
-   [501]
-    2022: MASSACHUSETTS FINANCIAL SERVICES COMPANY WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
-        Codes:  4A4B4D4E4H4I4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident] MASSACHUSETTS FINANCIAL SERVICES COMPANY WELFARE BENEFIT PLAN [501]
+    2022  [codes: 4A4B4D4E4H4I4L4Q]
         Participants: 
-    2021: MASSACHUSETTS FINANCIAL SERVICES COMPANY WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
-        Codes:  4A4B4D4E4H4I4L4Q
+
+    2021
         Participants: 
-    2020: MASSACHUSETTS FINANCIAL SERVICES COMPANY WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
-        Codes:  4A4B4D4E4H4I4L4Q
+
+    2020
         Participants: 
-    2019: MASSACHUSETTS FINANCIAL SERVICES COMPANY WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
-        Codes:  4A4B4D4E4H4I4L4Q
+
+    2019
         Participants: 
-    2018: MASSACHUSETTS FINANCIAL SERVICES COMPANY WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
-        Codes:  4A4B4D4E4H4I4L4Q
+
+    2018
         Participants: 
-    2017: MASSACHUSETTS FINANCIAL SERVICES COMPANY WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
-        Codes:  4A4B4D4E4H4I4L4Q
-        Participants: 1629
-   [001]
-    2017: MASSACHUSETTS FINANCIAL SERVICES COMPANY PENSION PLAN
-        Benefit Category: Other
-        Codes: 1I 
+
+    2017
+        Participants: 1,629
+
+  [Other] MASSACHUSETTS FINANCIAL SERVICES COMPANY PENSION PLAN [001]
+    2017  [codes: 1I]
         Participants: 0
-   [002]
-    2022: MASSACHUSETTS FINANCIAL SERVICES COMPANY DEFINED CONTRIBUTION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2R2T3H 
-        Participants: 2529
-        Assets: 732234875
-        $/Participant: 289535
+
+  [Other] MASSACHUSETTS FINANCIAL SERVICES COMPANY DEFINED CONTRIBUTION PLAN [002]
+    2022  [codes: 2C2F2G2R2T3H]
+        Participants: 2,529  Average: $289,535
+        Assets: $732,234,875
         RecordKeeper: MERRILL LYNCH, PIERCE, FENNER AND S
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -159,12 +136,10 @@ MA : BOSTON
                  : VANGUARD TARGET RETIREMENT 2060
                  : VANGUARD TARGET RETIREMENT 2065
                  : VANGUARD TARGET RETIREMENT INCOME T
-    2021: MASSACHUSETTS FINANCIAL SERVICES COMPANY DEFINED CONTRIBUTION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2R2T3H 
-        Participants: 2488
-        Assets: 889796294
-        $/Participant: 357635
+
+    2021
+        Participants: 2,488  Average: $357,635
+        Assets: $889,796,294
         RecordKeeper: MERRILL LYNCH, PIERCE, FENNER AND S
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -192,31 +167,23 @@ MA : BOSTON
                  : VANGUARD TARGET RETIREMENT 2060
                  : VANGUARD TARGET RETIREMENT 2065
                  : VANGUARD TARGET RETIREMENT INCOME T
-    2020: MASSACHUSETTS FINANCIAL SERVICES COMPANY DEFINED CONTRIBUTION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2T3H 
-        Participants: 2512
-        Assets: 790728825
-        $/Participant: 314780
+
+    2020  [codes: 2C2F2G2T3H]
+        Participants: 2,512  Average: $314,780
+        Assets: $790,728,825
         RecordKeeper: MERRILL LYNCH, PIERCE, FENNER AND S
-    2019: MASSACHUSETTS FINANCIAL SERVICES COMPANY DEFINED CONTRIBUTION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2T3H 
-        Participants: 2399
-        Assets: 683167148
-        $/Participant: 284771
+
+    2019
+        Participants: 2,399  Average: $284,771
+        Assets: $683,167,148
         RecordKeeper: MERRILL LYNCH, PIERCE, FENNER AND S
-    2018: MASSACHUSETTS FINANCIAL SERVICES COMPANY DEFINED CONTRIBUTION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2T3H 
-        Participants: 2410
-        Assets: 542530177
-        $/Participant: 225116
+
+    2018
+        Participants: 2,410  Average: $225,116
+        Assets: $542,530,177
         RecordKeeper: MERRILL LYNCH, PIERCE, FENNER AND S
-    2017: MASSACHUSETTS FINANCIAL SERVICES COMPANY DEFINED CONTRIBUTION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2T3H 
-        Participants: 2399
-        Assets: 563561150
-        $/Participant: 234915
+
+    2017
+        Participants: 2,399  Average: $234,915
+        Assets: $563,561,150
         RecordKeeper: MERRILL LYNCH, PIERCE, FENNER AND S

@@ -1,133 +1,102 @@
-PA : PITTSBURGH
-  UNITED STEELWORKERS  250818080
-   [509]
-    2017: USW INTERNATIONAL UNION LONG TERM HEALTH CARE PLAN
-        Benefit Category: Healthcare
-        Codes:  4A4Q
+UNITED STEELWORKERS  250818080 -- PA : PITTSBURGH
+  [Healthcare] USW INTERNATIONAL UNION LONG TERM HEALTH CARE PLAN [509]
+    2017  [codes: 4A4Q]
         Participants: 
-   [510]
-    2022: UNITED STEELWORKERS HEALTH REIMBURSEMENT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] UNITED STEELWORKERS HEALTH REIMBURSEMENT PLAN [510]
+    2022  [codes: 4A]
         Participants: 
-    2021: UNITED STEELWORKERS HEALTH REIMBURSEMENT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2021
         Participants: 
-    2020: UNITED STEELWORKERS HEALTH REIMBURSEMENT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2020
         Participants: 
-    2019: UNITED STEELWORKERS HEALTH REIMBURSEMENT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2019
         Participants: 
-    2018: UNITED STEELWORKERS HEALTH REIMBURSEMENT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2018
         Participants: 
-    2017: UNITED STEELWORKERS HEALTH REIMBURSEMENT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2017
         Participants: 
-   [501]
-    2021: UNITED STEELWORKERS INTERNATIONAL UNION SOCIAL INSURANCE PROGRAM
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+  [Life insurance] UNITED STEELWORKERS INTERNATIONAL UNION SOCIAL INSURANCE PROGRAM [501]
+    2021  [codes: 4B4Q]
         Participants: 
-    2020: UNITED STEELWORKERS INTERNATIONAL UNION SOCIAL INSURANCE PROGRAM
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2020
         Participants: 
-    2019: UNITED STEELWORKERS INTERNATIONAL UNION SOCIAL INSURANCE PROGRAM
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2019
         Participants: 
-    2018: UNITED STEELWORKERS INTERNATIONAL UNION SOCIAL INSURANCE PROGRAM
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2018
         Participants: 
-    2017: UNITED STEELWORKERS INTERNATIONAL UNION SOCIAL INSURANCE PROGRAM
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2017
         Participants: 
-   [509]
-    2022: USW INTERNATIONAL UNION LONG TERM HEALTH CARE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+  [Other] USW INTERNATIONAL UNION LONG TERM HEALTH CARE PLAN [509]
+    2022  [codes: 4Q]
         Participants: 
-    2021: USW INTERNATIONAL UNION LONG TERM HEALTH CARE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2021
         Participants: 
-    2020: USW INTERNATIONAL UNION LONG TERM HEALTH CARE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2020
         Participants: 
-    2019: USW INTERNATIONAL UNION LONG TERM HEALTH CARE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2019
         Participants: 
-    2018: USW INTERNATIONAL UNION LONG TERM HEALTH CARE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2018
         Participants: 
-   [511]
-    2022: GMP MEMBER DEATH BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4Q
-        Participants: 
-        Assets: 32992272
-        $/Participant: 
+
+  [Other] GMP MEMBER DEATH BENEFIT PLAN [511]
+    2022
+        Participants:   Average: $
+        Assets: $32,992,272
         Service Providers:
            - MORGAN STANLEY : INVESTMENT ADVISOR (Custodial(securities) | Investment advisory(plan))
            - PENSION BENEFIT INFORMATION, LLC : OTHER SERVICES (Other services)
-    2021: GMP MEMBER DEATH BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4Q
-        Participants: 
-        Assets: 59116949
-        $/Participant: 
+
+    2021
+        Participants:   Average: $
+        Assets: $59,116,949
         Service Providers:
            - MORGAN STANLEY : INVESTMENT ADVISOR (Custodial(securities) | Investment advisory(plan))
            - PENSION BENEFIT INFORMATION, LLC : OTHER SERVICES (Other services)
-    2020: GMP MEMBER DEATH BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4Q
-        Participants: 
-        Assets: 58501350
-        $/Participant: 
+
+    2020
+        Participants:   Average: $
+        Assets: $58,501,350
         Service Providers:
            - MORGAN STANLEY : INVESTMENT ADVISOR (Custodial(securities) | Investment advisory(plan))
            - SCHNEIDER DOWNS & CO., INC : PLAN AUDITOR (Accounting(including auditing))
            - PNC BANK : INVESTMENT MANAGER (Custodial(securities) | Investment management)
-    2019: GMP MEMBER DEATH BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4Q
-        Participants: 
-        Assets: 55898149
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $55,898,149
         Service Providers:
            - MORGAN STANLEY : INVESTMENT ADVISOR (Custodial(securities) | Investment advisory(plan))
            - PNC BANK : INVESTMENT MANAGER (Custodial(securities) | Investment management)
            - SCHNEIDER DOWNS & CO., INC : PLAN AUDITOR (Accounting(including auditing))
            - CBIZ RETIREMENT PLAN SERVICES : PLAN ACTUARY (Actuarial)
-    2018: GMP MEMBER DEATH BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4Q
-        Participants: 
-        Assets: 47052244
-        $/Participant: 
+
+    2018
+        Participants:   Average: $
+        Assets: $47,052,244
         Service Providers:
            - MORGAN STANLEY : INVESTMENT ADVISOR (Custodial(securities) | Investment advisory(plan))
            - PNC BANK : INVESTMENT MANAGER (Custodial(securities) | Investment management)
-   [001]
-    2022: UNITED STEELWORKERS INTERNATIONAL UNION STAFF PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 2219
-        Assets: 687379081
-        $/Participant: 309769
+
+  [Pension] UNITED STEELWORKERS INTERNATIONAL UNION STAFF PENSION PLAN [001]
+    2022  [codes: 1A]
+        Participants: 2,219  Average: $309,769
+        Assets: $687,379,081
         Service Providers:
            - NISA INVESTMENT ADVISORS, LLC : INVESTMENT MANAGER (Investment management)
            - EAGLE CAPITAL MANAGEMENT, LLC : INVESTMENT MANAGER (Investment management)
@@ -136,12 +105,10 @@ PA : PITTSBURGH
            - NORTHERN TRUST GLOBAL INVESTMENTS
                  : EAFE INDEX FUND - LENDING
                  : RUSSELL 2000 EQUITY INDEX FD-LEND
-    2021: UNITED STEELWORKERS INTERNATIONAL UNION STAFF PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 2256
-        Assets: 886052031
-        $/Participant: 392753
+
+    2021
+        Participants: 2,256  Average: $392,753
+        Assets: $886,052,031
         Service Providers:
            - NISA INVESTMENT ADVISORS, LLC : INVESTMENT MANAGER (Investment management)
            - EAGLE CAPITAL MANAGEMENT, LLC : INVESTMENT MANAGER (Investment management)
@@ -150,12 +117,10 @@ PA : PITTSBURGH
            - NORTHERN TRUST GLOBAL INVESTMENTS
                  : EAFE INDEX FUND - LENDING
                  : RUSSELL 2000 EQUITY INDEX FD-LEND
-    2020: UNITED STEELWORKERS INTERNATIONAL UNION STAFF PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 2268
-        Assets: 899005193
-        $/Participant: 396386
+
+    2020
+        Participants: 2,268  Average: $396,386
+        Assets: $899,005,193
         Service Providers:
            - NISA INVESTMENT ADVISORS, LLC : INVESTMENT MANAGER (Investment management)
            - EAGLE CAPITAL MANAGEMENT, LLC : INVESTMENT MANAGER (Investment management)
@@ -163,12 +128,10 @@ PA : PITTSBURGH
         Available Investments:
            - NORTHERN TRUST GLOBAL INVESTMENTS
                  : RUSSELL 2000 EQUITY INDEX FD-LEND
-    2019: UNITED STEELWORKERS INTERNATIONAL UNION STAFF PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 2298
-        Assets: 814132283
-        $/Participant: 354278
+
+    2019
+        Participants: 2,298  Average: $354,278
+        Assets: $814,132,283
         Service Providers:
            - NISA INVESTMENT ADVISORS, LLC : INVESTMENT MANAGER (Investment management)
            - EAGLE CAPITAL MANAGEMENT, LLC : INVESTMENT MANAGER (Investment management)
@@ -178,12 +141,10 @@ PA : PITTSBURGH
         Available Investments:
            - NORTHERN TRUST GLOBAL INVESTMENTS
                  : RUSSELL 2000 EQUITY INDEX FD-LEND
-    2018: UNITED STEELWORKERS INTERNATIONAL UNION STAFF PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 2328
-        Assets: 719542800
-        $/Participant: 309081
+
+    2018
+        Participants: 2,328  Average: $309,081
+        Assets: $719,542,800
         Service Providers:
            - EAGLE CAPITAL MANAGEMENT, LLC : INVESTMENT MANAGER (Investment management)
            - LOOMIS, SAYLES & COMPANY : INVESTMENT MANAGER (Investment management)
@@ -208,12 +169,10 @@ PA : PITTSBURGH
                  : RUSSELL 2000 EQUITY INDEX FD-LEND
            - PRUDENTIAL INSURANCE CO.
                  : PRISA
-    2017: UNITED STEELWORKERS INTERNATIONAL UNION STAFF PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 2350
-        Assets: 720355978
-        $/Participant: 306534
+
+    2017
+        Participants: 2,350  Average: $306,534
+        Assets: $720,355,978
         Service Providers:
            - EAGLE CAPITAL MANAGEMENT, LLC : INVESTMENT MANAGER (Investment management)
            - LOOMIS, SAYLES & COMPANY : INVESTMENT MANAGER (Investment management)
@@ -236,40 +195,32 @@ PA : PITTSBURGH
                  : RUSSEL 2000 EQUITY INDEX FD-LEND
            - PRUDENTIAL INSURANCE CO.
                  : PRISA
-   [010]
-    2022: PACE INTERNATIONAL UNION PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 497
-        Assets: 146543975
-        $/Participant: 294857
+
+  [Pension] PACE INTERNATIONAL UNION PENSION PLAN [010]
+    2022  [codes: 1A1I]
+        Participants: 497  Average: $294,857
+        Assets: $146,543,975
         Service Providers:
            - NISA INVESTMENT ADVISORS, LLC : INVESTMENT MANAGER (Investment management)
            - NORTHERN TRUST CORPORATION : CUST./INV. MGR. (Custodial(securities) | Investment management)
-    2021: PACE INTERNATIONAL UNION PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 509
-        Assets: 190238587
-        $/Participant: 373749
+
+    2021
+        Participants: 509  Average: $373,749
+        Assets: $190,238,587
         Service Providers:
            - NISA INVESTMENT ADVISORS, LLC : INVESTMENT MANAGER (Investment management)
            - NORTHERN TRUST CORPORATION : CUST./INV. MGR. (Custodial(securities) | Investment management)
-    2020: PACE INTERNATIONAL UNION PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 534
-        Assets: 208113946
-        $/Participant: 389726
+
+    2020
+        Participants: 534  Average: $389,726
+        Assets: $208,113,946
         Service Providers:
            - NISA INVESTMENT ADVISORS, LLC : INVESTMENT MANAGER (Investment management)
            - NORTHERN TRUST CORPORATION : CUST./INV. MGR. (Custodial(securities) | Investment management)
-    2019: PACE INTERNATIONAL UNION PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 543
-        Assets: 199136214
-        $/Participant: 366733
+
+    2019
+        Participants: 543  Average: $366,733
+        Assets: $199,136,214
         Service Providers:
            - NISA INVESTMENT ADVISORS, LLC : INVESTMENT MANAGER (Investment management)
            - NORTHERN TRUST CORPORATION : CUST./INV. MGR. (Custodial(securities) | Investment management)
@@ -277,12 +228,10 @@ PA : PITTSBURGH
            - JOHN HANCOCK LIFE INS. CO. : CONTRACT ADMINISTRATOR (Contract Administrator)
            - MORGAN STANLEY : INVESTMENT ADVISOR (Investment advisory(plan))
            - WEAVER C. BARKSDALE & ASSOCIATES : INVESTMENT MANAGER (Investment management)
-    2018: PACE INTERNATIONAL UNION PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 588
-        Assets: 190555311
-        $/Participant: 324073
+
+    2018
+        Participants: 588  Average: $324,073
+        Assets: $190,555,311
         Service Providers:
            - VULCAN VALUE PARTNERS LLC : INVESTMENT MANAGER (Investment management)
            - SEGAL CONSULTING : PLAN ACTUARY (Actuarial)
@@ -303,12 +252,10 @@ PA : PITTSBURGH
                  : NT COLLECTIVE 1-10 YEAR INTERMEDIAT
                  : NT COLLECTIVE LONG-TERM GOV BOND IN
                  : NT COLLECTIVE WORLD EX-US INDEX FD
-    2017: PACE INTERNATIONAL UNION PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 601
-        Assets: 181696649
-        $/Participant: 302323
+
+    2017
+        Participants: 601  Average: $302,323
+        Assets: $181,696,649
         Service Providers:
            - VULCAN VALUE PARTNERS LLC : INVESTMENT MANAGER (Investment management)
            - SEGAL CONSULTING : PLAN ACTUARY (Actuarial)
@@ -330,58 +277,48 @@ PA : PITTSBURGH
                  : AFL-CIO EQUITY INDEX FUND
            - NORTHERN TRUST GLOBAL INVESTMENTS
                  : NT COLLECTIVE WORLD EX-US INDEX FD
-   [011]
-    2022: PENSION PROGRAM OF THE GMP COUNCIL OF THE UNITED STEELWORKERS UNION
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 89
-        Assets: 43768105
-        $/Participant: 491776
+
+  [Pension] PENSION PROGRAM OF THE GMP COUNCIL OF THE UNITED STEELWORKERS UNION [011]
+    2022
+        Participants: 89  Average: $491,776
+        Assets: $43,768,105
         Service Providers:
            - SCHAFER CULLEN CAPITAL MANAGEMENT : INVESTMENT MANAGER (Investment management)
            - NORTHERN TRUST CORPORATION : CUST/INV. MGR. (Custodial(securities) | Investment management)
         Available Investments:
            - NORTHERN TRUST GLOBAL INVESTMENTS
                  : RUSSELL 1000 INDEX FD - LENDING
-    2021: PENSION PROGRAM OF THE GMP COUNCIL OF THE UNITED STEELWORKERS UNION
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 91
-        Assets: 56957596
-        $/Participant: 625907
+
+    2021
+        Participants: 91  Average: $625,907
+        Assets: $56,957,596
         Service Providers:
            - SCHAFER CULLEN CAPITAL MANAGEMENT : INVESTMENT MANAGER (Investment management)
            - NORTHERN TRUST CORPORATION : CUST/INV. MGR. (Custodial(securities) | Investment management)
         Available Investments:
            - NORTHERN TRUST GLOBAL INVESTMENTS
                  : RUSSELL 1000 INDEX FD - LENDING
-    2020: PENSION PROGRAM OF THE GMP COUNCIL OF THE UNITED STEELWORKERS UNION
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 91
-        Assets: 54725742
-        $/Participant: 601381
+
+    2020
+        Participants: 91  Average: $601,381
+        Assets: $54,725,742
         Service Providers:
            - MORGAN STANLEY : INVESTMENT ADVISOR (Custodial(securities) | Investment advisory(plan))
            - THE UNION LABOR LIFE INSURANCE CO : INVESTMENT MANAGER (Investment management fees paid directly by plan | Custodial(securities) | Investment management)
            - PIMCO : OTHER SERVICES/OTHER FEES (Other services | Other fees)
-    2019: PENSION PROGRAM OF THE GMP COUNCIL OF THE UNITED STEELWORKERS UNION
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 153
-        Assets: 57835845
-        $/Participant: 378012
+
+    2019  [codes: 1A]
+        Participants: 153  Average: $378,012
+        Assets: $57,835,845
         Service Providers:
            - MORGAN STANLEY : INVESTMENT ADVISOR (Custodial(securities) | Investment advisory(plan))
            - THE UNION LABOR LIFE INSURANCE CO : INVESTMENT MANAGER (Custodial(securities) | Investment management | Investment management fees paid directly by plan)
            - PIMCO : OTHER SERVICES/OTHER FEES (Other services | Other fees)
            - BLACKROCK : OTHER SERVICES/OTHER FEES (Other services | Other fees)
-    2018: PENSION PROGRAM OF THE GMP COUNCIL OF THE UNITED STEELWORKERS UNION
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 160
-        Assets: 50753634
-        $/Participant: 317210
+
+    2018
+        Participants: 160  Average: $317,210
+        Assets: $50,753,634
         Service Providers:
            - MORGAN STANLEY : INVESTMENT ADVISOR (Custodial(securities) | Investment advisory(plan))
            - THE UNION LABOR LIFE INSURANCE CO : INVESTMENT MANAGER (Custodial(securities) | Investment management | Investment management fees paid directly by plan)

@@ -1,11 +1,8 @@
-NC : MONROE
-  STATE UTILITY CONTRACTORS, INC.  561444827
-    2022: STATE UTILITY CONTRACTORS, INC. 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 175
-        Assets: 12982841
-        $/Participant: 74187
+STATE UTILITY CONTRACTORS, INC.  561444827 -- NC : MONROE
+  [401(k)] STATE UTILITY CONTRACTORS, INC. 401(K) PROFIT SHARING PLAN
+    2022  [codes: 2E2F2G2J2K2T3D]
+        Participants: 175  Average: $74,187
+        Assets: $12,982,841
         RecordKeeper: JOHN HANCOCK LIFE INSURANCE COMPANY
         Available Investments:
            - JOHN HANCOCK USA
@@ -50,12 +47,10 @@ NC : MONROE
                  : TOTAL STOCK MARKET INDEX FUND
                  : VANGUARD ENERGY FUND
                  : VANGUARD TOTAL BOND MARKET IDX
-    2021: STATE UTILITY CONTRACTORS, INC. 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 175
-        Assets: 14817973
-        $/Participant: 84674
+
+    2021
+        Participants: 175  Average: $84,674
+        Assets: $14,817,973
         RecordKeeper: JOHN HANCOCK LIFE INSURANCE COMPANY
         Available Investments:
            - JOHN HANCOCK USA
@@ -102,12 +97,10 @@ NC : MONROE
                  : TOTAL STOCK MARKET INDEX FUND
                  : VANGUARD ENERGY FUND
                  : VANGUARD TOTAL BOND MARKET IDX
-    2020: STATE UTILITY CONTRACTORS, INC. 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 161
-        Assets: 13896686
-        $/Participant: 86314
+
+    2020
+        Participants: 161  Average: $86,314
+        Assets: $13,896,686
         RecordKeeper: HARBOR CAPITAL MANAGEMENT
         Available Investments:
            - JOHN HANCOCK USA
@@ -156,12 +149,10 @@ NC : MONROE
                  : TOTAL STOCK MARKET INDEX FUND
                  : VANGUARD ENERGY FUND
                  : VANGUARD TOTAL BOND MARKET IDX
-    2019: STATE UTILITY CONTRACTORS, INC. 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 144
-        Assets: 12125464
-        $/Participant: 84204
+
+    2019
+        Participants: 144  Average: $84,204
+        Assets: $12,125,464
         RecordKeeper: HARBOR CAPITAL MANAGEMENT
         Available Investments:
            - JOHN HANCOCK USA
@@ -212,12 +203,10 @@ NC : MONROE
                  : TOTAL STOCK MARKET INDEX FUND
                  : VANGUARD ENERGY FUND
                  : VANGUARD TOTAL BOND MARKET IDX
-    2018: STATE UTILITY CONTRACTORS, INC. 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 143
-        Assets: 10120053
-        $/Participant: 70769
+
+    2018
+        Participants: 143  Average: $70,769
+        Assets: $10,120,053
         RecordKeeper: JOHN HANCOCK LIFE INSURANCE COMPANY
         Available Investments:
            - JOHN HANCOCK USA
@@ -267,12 +256,10 @@ NC : MONROE
                  : UTLITIES FUND
                  : VANGUARD ENERGY FUND
                  : VANGUARD TOTAL BOND MARKET IDX
-    2017: STATE UTILITY CONTRACTORS, INC. 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 148
-        Assets: 11060713
-        $/Participant: 74734
+
+    2017
+        Participants: 148  Average: $74,734
+        Assets: $11,060,713
         RecordKeeper: JOHN HANCOCK LIFE INSURANCE COMPANY
         Available Investments:
            - JOHN HANCOCK USA
@@ -323,65 +310,47 @@ NC : MONROE
                  : TOTAL STOCK MARKET INDEX
                  : UTILITIES FUND
                  : VANGUARD ENERGY
-   [002]
-    2022: STATE UTILITY CONTRACTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O2Q3I 
-        Participants: 207
-        Assets: 82312735
-        $/Participant: 397646
-    2021: STATE UTILITY CONTRACTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2O2P2Q 
-        Participants: 218
-        Assets: 42856244
-        $/Participant: 196588
-    2020: STATE UTILITY CONTRACTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2O2P2Q 
-        Participants: 239
-        Assets: 44796490
-        $/Participant: 187433
-    2019: STATE UTILITY CONTRACTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2O2P2Q 
-        Participants: 222
-        Assets: 39677375
-        $/Participant: 178726
-    2018: STATE UTILITY CONTRACTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2Q 
-        Participants: 234
-        Assets: 29926270
-        $/Participant: 127890
-    2017: STATE UTILITY CONTRACTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2O2P2Q 
-        Participants: 227
-        Assets: 22043736
-        $/Participant: 97108
-   [501]
-    2022: STATE UTILITY CONTRACTORS, INC. EMPLOYEE BENEFIT P
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
-        Codes:  4A4B4D4F4H
+
+  [Employee Stock Ownership Plan] STATE UTILITY CONTRACTORS, INC. EMPLOYEE STOCK OWNERSHIP PLAN [002]
+    2022  [codes: 2I2O2Q3I]
+        Participants: 207  Average: $397,646
+        Assets: $82,312,735
+
+    2021  [codes: 2O2P2Q]
+        Participants: 218  Average: $196,588
+        Assets: $42,856,244
+
+    2020
+        Participants: 239  Average: $187,433
+        Assets: $44,796,490
+
+    2019
+        Participants: 222  Average: $178,726
+        Assets: $39,677,375
+
+    2018  [codes: 2P2Q]
+        Participants: 234  Average: $127,890
+        Assets: $29,926,270
+
+    2017  [codes: 2O2P2Q]
+        Participants: 227  Average: $97,108
+        Assets: $22,043,736
+
+  [Healthcare, Life insurance, Dental, Short-term disability, Long-term disability] STATE UTILITY CONTRACTORS, INC. EMPLOYEE BENEFIT P [501]
+    2022  [codes: 4A4B4D4F4H]
         Participants: 
-    2021: STATE UTILITY CONTRACTORS, INC. EMPLOYEE BENEFIT P
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
-        Codes:  4A4B4D4F4H
+
+    2021
         Participants: 
-    2020: STATE UTILITY CONTRACTORS, INC. EMPLOYEE BENEFIT P
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
-        Codes:  4A4B4D4F4H
+
+    2020
         Participants: 
-    2019: STATE UTILITY CONTRACTORS, INC. EMPLOYEE BENEFIT P
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
-        Codes:  4A4B4D4F4H
+
+    2019
         Participants: 
-    2018: STATE UTILITY CONTRACTORS, INC. EMPLOYEE BENEFIT P
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
-        Codes:  4A4B4D4F4H
+
+    2018
         Participants: 
-    2017: STATE UTILITY CONTRACTORS, INC. EMPLOYEE BENEFIT P
-        Benefit Category: Healthcare, Life insurance, Short-term disability, Long-term disability
-        Codes:  4A4B4F4H
+
+    2017  [codes: 4A4B4F4H]
         Participants: 

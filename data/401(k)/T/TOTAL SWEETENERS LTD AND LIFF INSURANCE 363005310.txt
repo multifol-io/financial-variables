@@ -1,96 +1,74 @@
-IL : ROSEMONT
-  TOTAL SWEETENERS LTD AND LIFF INSURANCE  363005310
-   [504]
-    2022: TOTAL SWEETENERS, INC. HEALTH CARE PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+TOTAL SWEETENERS LTD AND LIFF INSURANCE  363005310 -- IL : ROSEMONT
+  [Healthcare] TOTAL SWEETENERS, INC. HEALTH CARE PLAN [504]
+    2022  [codes: 4A]
         Participants: 642
-    2021: TOTAL SWEETENERS, INC. HEALTH CARE PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2021
         Participants: 523
-    2019: TOTAL SWEETENERS, INC. HEALTH CARE PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2019
         Participants: 405
-    2018: TOTAL SWEETENERS, INC. HEALTH CARE PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2018
         Participants: 463
-    2017: TOTAL SWEETENERS, INC. HEALTH CARE PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2017
         Participants: 480
-   [502]
-    2022: TOTAL SWEETENERS LTD AND LIFE INSURANCE
-        Benefit Category: Life insurance, Dental, Short-term disability
-        Codes:  4B4D4F
+
+  [Life insurance, Dental, Short-term disability] TOTAL SWEETENERS LTD AND LIFE INSURANCE [502]
+    2022  [codes: 4B4D4F]
         Participants: 561
-    2021: TOTAL SWEETENERS LTD AND LIFE INSURANCE
-        Benefit Category: Life insurance, Dental, Short-term disability, Long-term disability
-        Codes:  4B4D4F4H
+
+    2021  [codes: 4B4D4F4H]
         Participants: 484
-    2020: TOTAL SWEETENERS LTD AND LIFE INSURANCE
-        Benefit Category: Life insurance, Dental, Long-term disability
-        Codes:  4B4D4H4Q
+
+    2020  [codes: 4B4D4H4Q]
         Participants: 466
-    2019: TOTAL SWEETENERS, INC. LTD AND LIFE INSURANCE
-        Benefit Category: Life insurance, Dental, Long-term disability
-        Codes:  4B4D4H4Q
+
+  [Life insurance, Dental, Long-term disability] TOTAL SWEETENERS, INC. LTD AND LIFE INSURANCE
+    2019
         Participants: 291
-    2018: TOTAL SWEETENERS, INC. LTD AND LIFE INSURANCE
-        Benefit Category: Life insurance, Dental, Long-term disability
-        Codes:  4B4D4H4Q
+
+    2018
         Participants: 324
-    2017: TOTAL SWEETENERS, INC. LTD AND LIFE INSURANCE
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2017  [codes: 4H]
         Participants: 328
-   [001]
-    2021: BATORY FOODS PROFIT SHARING PLAN
-        Benefit Category: Other
-        Codes: 2E 
-        Participants: 428
-        Assets: 78201130
-        $/Participant: 182712
+
+  [Other] BATORY FOODS PROFIT SHARING PLAN [001]
+    2021  [codes: 2E]
+        Participants: 428  Average: $182,712
+        Assets: $78,201,130
         Service Providers:
            - LIPSCHULTZ,LEVIN & GRAY :  (Accounting(including auditing))
            - WESTWOOD MANAGEMENT :  (Investment management)
            - BATORY FOODS : SPONSOR (Employee(plan sponsor))
-    2020: BATORY FOODS PROFIT SHARING PLAN
-        Benefit Category: Other
-        Codes: 2E 
-        Participants: 418
-        Assets: 135254989
-        $/Participant: 323576
+
+    2020
+        Participants: 418  Average: $323,576
+        Assets: $135,254,989
         Service Providers:
            - BATORY FOODS : SPONSOR (Employee(plan sponsor))
            - WESTWOOD MANAGEMENT :  (Investment management)
            - LIPSCHULTZ, LEVIN & GRAY :  (Accounting(including auditing))
-    2019: BATORY FOODS PROFIT SHARING PLAN
-        Benefit Category: Other
-        Codes: 2E 
-        Participants: 471
-        Assets: 122507060
-        $/Participant: 260099
+
+    2019
+        Participants: 471  Average: $260,099
+        Assets: $122,507,060
         Service Providers:
            - LIPSCHULTZ, LEVIN & GRAY :  (Accounting(including auditing))
            - WESTWOOD MANAGEMENT :  (Investment management)
-    2018: BATORY FOODS PROFIT SHARING PLAN
-        Benefit Category: Other
-        Codes: 2E 
-        Participants: 427
-        Assets: 83367476
-        $/Participant: 195239
+
+    2018
+        Participants: 427  Average: $195,239
+        Assets: $83,367,476
         Service Providers:
            - WESTWOOD MANAGEMENT :  (Investment management)
            - LIPSCHULTZ, LEVIN & GRAY :  (Accounting(including auditing))
-    2017: BATORY FOODS PROFIT SHARING PLAN
-        Benefit Category: Other
-        Codes: 2E 
-        Participants: 424
-        Assets: 78519054
-        $/Participant: 185186
+
+    2017
+        Participants: 424  Average: $185,186
+        Assets: $78,519,054
         Service Providers:
            - LIPSCHULTZ, LEVIN & GRAY :  (Accounting(including auditing))
            - WESTWOOD MANAGEMENT :  (Investment management)

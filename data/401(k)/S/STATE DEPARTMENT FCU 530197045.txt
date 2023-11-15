@@ -1,43 +1,33 @@
-VA : ALEXANDRIA
-  STATE DEPARTMENT FCU  530197045
-   [501]
-    2022: STATE DEPARTMENT FEDERAL CREDIT UNION EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4D4E4F4H4L4Q
+STATE DEPARTMENT FCU  530197045 -- VA : ALEXANDRIA
+  [Healthcare, Dental, Vision, Short-term disability, Long-term disability, Travel accident] STATE DEPARTMENT FEDERAL CREDIT UNION EMPLOYEE BENEFITS PLAN [501]
+    2022  [codes: 4A4D4E4F4H4L4Q]
         Participants: 
-    2021: STATE DEPARTMENT FEDERAL CREDIT UNION EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2021  [codes: 4A4B4D4E4F4H4L]
         Participants: 
         Service Providers:
            - CIGNA HEALTH AND LIFE INS CO : MEDICAL ADMIN (Claims processing | Contract Administrator)
-    2020: STATE DEPARTMENT FEDERAL CREDIT UNION EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2020
         Participants: 
-    2019: STATE DEPARTMENT FEDERAL CREDIT UNION EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2019
         Participants: 
         Service Providers:
            - CBIZ : FSA ADMIN (Claims processing | Contract Administrator)
-    2018: STATE DEPARTMENT FEDERAL CREDIT UNION EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2018
         Participants: 
         Service Providers:
            - CBIZ : FSA ADMIN (Claims processing | Contract Administrator)
-    2017: STATE DEPARTMENT FEDERAL CREDIT UNION EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2017  [codes: 4A4B4D4E4F4H4Q]
         Participants: 
-   [001]
-    2022: STATE DEPARTMENT FEDERAL CREDIT UNION DEFINED BENEFIT PENSION PLAN AND TRUST
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 207
-        Assets: 70267186
-        $/Participant: 339455
+
+  [Pension] STATE DEPARTMENT FEDERAL CREDIT UNION DEFINED BENEFIT PENSION PLAN AND TRUST [001]
+    2022  [codes: 1A1I]
+        Participants: 207  Average: $339,455
+        Assets: $70,267,186
         Service Providers:
            - PENTEGRA TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar))
            - H BECK INC :  (Consulting(general) | Consulting(pension))
@@ -49,12 +39,10 @@ VA : ALEXANDRIA
                  : RUSSELL 2000 INDEX SL
                  : S&P MIDCAP 400(R)INDEX SL FUND
                  : U.S. TIPS INDEX SL FUND
-    2021: STATE DEPARTMENT FEDERAL CREDIT UNION DEFINED BENEFIT PENSION PLAN AND TRUST
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 208
-        Assets: 86484473
-        $/Participant: 415790
+
+    2021
+        Participants: 208  Average: $415,790
+        Assets: $86,484,473
         Service Providers:
            - PENTEGRA TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar))
            - H BECK INC :  (Consulting(general) | Consulting(pension))
@@ -66,12 +54,10 @@ VA : ALEXANDRIA
                  : RUSSELL 2000 INDEX SL
                  : S&P MIDCAP 400(R)INDEX SL FUND
                  : U.S. TIPS INDEX SL FUND
-    2020: STATE DEPARTMENT FEDERAL CREDIT UNION DEFINED BENEFIT PENSION PLAN AND TRUST
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 211
-        Assets: 78150566
-        $/Participant: 370381
+
+    2020
+        Participants: 211  Average: $370,381
+        Assets: $78,150,566
         Service Providers:
            - PENTEGRA TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar))
            - H BECK INC :  (Consulting(general) | Consulting(pension))
@@ -83,12 +69,10 @@ VA : ALEXANDRIA
                  : RUSSELL 2000 INDEX SL SERIES
                  : S&P MIDCAP 400(R)INDEX SL FUND
                  : U.S. TIPS INDEX SL FUND
-    2019: STATE DEPARTMENT FEDERAL CREDIT UNION DEFINED BENEFIT PENSION PLAN AND TRUST
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 212
-        Assets: 68953105
-        $/Participant: 325250
+
+    2019
+        Participants: 212  Average: $325,250
+        Assets: $68,953,105
         Service Providers:
            - PENTEGRA TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar))
            - H BECK INC :  (Consulting(general) | Consulting(pension))
@@ -100,12 +84,10 @@ VA : ALEXANDRIA
                  : RUSSELL 2000 INDEX SL SERIES
                  : S&P MIDCAP 400(R)INDEX SL FUND
                  : U.S. TIPS INDEX SL FUND
-    2018: STATE DEPARTMENT FEDERAL CREDIT UNION DEFINED BENEFIT PENSION PLAN AND TRUST
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 213
-        Assets: 58290369
-        $/Participant: 273663
+
+    2018
+        Participants: 213  Average: $273,663
+        Assets: $58,290,369
         Service Providers:
            - PENTEGRA TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar))
            - H BECK INC :  (Consulting(general) | Consulting(pension))
@@ -118,12 +100,10 @@ VA : ALEXANDRIA
                  : RUSSELL 2000 INDEX SL SERIES
                  : S&P MIDCAP 400 INDEX SL
                  : U.S. TIPS INDEX SL FUND
-    2017: STATE DEPARTMENT FEDERAL CREDIT UNION DEFINED BENEFIT PENSION PLAN AND TRUST
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 213
-        Assets: 63041251
-        $/Participant: 295968
+
+    2017
+        Participants: 213  Average: $295,968
+        Assets: $63,041,251
         Service Providers:
            - PENTEGRA TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar))
            - H BECK INC :  (Consulting(general) | Consulting(pension))

@@ -1,11 +1,8 @@
-NC : CARY
-  SAS INSTITUTE INC.  561133017
-    2022: SAS RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3F3H 
-        Participants: 8692
-        Assets: 2844761857
-        $/Participant: 327285
+SAS INSTITUTE INC.  561133017 -- NC : CARY
+  [401(k)] SAS RETIREMENT PLAN
+    2022  [codes: 2E2F2G2J2K2T3F3H]
+        Participants: 8,692  Average: $327,285
+        Assets: $2,844,761,857
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
@@ -32,12 +29,10 @@ NC : CARY
                  : VANG DEV MKT IDX TR
                  : VANG INST INDEX PLUS
                  : VG IS TOT BD MKT IDX
-    2021: SAS RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3F3H 
-        Participants: 8421
-        Assets: 3625530532
-        $/Participant: 430534
+
+    2021
+        Participants: 8,421  Average: $430,534
+        Assets: $3,625,530,532
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
@@ -62,12 +57,10 @@ NC : CARY
                  : TRP GROWTH STOCK C
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANG INST INDEX PLUS
-    2020: SAS RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3F3H 
-        Participants: 8504
-        Assets: 3327770809
-        $/Participant: 391318
+
+    2020
+        Participants: 8,504  Average: $391,318
+        Assets: $3,327,770,809
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
@@ -90,12 +83,10 @@ NC : CARY
                  : RT GQG INTL EQ CIT D
            - T. ROWE PRICE TRUST COMPANY
                  : TRP GRTH STK TRUST B
-    2019: SAS RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3F3H 
-        Participants: 8502
-        Assets: 2891072282
-        $/Participant: 340046
+
+    2019
+        Participants: 8,502  Average: $340,046
+        Assets: $2,891,072,282
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
@@ -114,12 +105,10 @@ NC : CARY
                  : JPMCB SR PB 2060 CFB
            - T. ROWE PRICE TRUST COMPANY
                  : TRP GRTH STK TRUST B
-    2017: SAS RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3F 
-        Participants: 8506
-        Assets: 2582378808
-        $/Participant: 303594
+
+    2017  [codes: 2E2F2G2J2K2T3F]
+        Participants: 8,506  Average: $303,594
+        Assets: $2,582,378,808
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - COMMINGLED PENSION TRUST FUNDS OF JPMORGAN CHASE BANK, N.A.
@@ -148,143 +137,110 @@ NC : CARY
                  : JPMCB SR PB INC CF
            - T. ROWE PRICE TRUST COMPANY
                  : TRP GRTH STK TRUST B
-   [501]
-    2021: SAS INSTITUTE INC. WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+  [Healthcare, Dental, Vision] SAS INSTITUTE INC. WELFARE BENEFITS PLAN [501]
+    2021  [codes: 4A4D4E]
         Participants: 
-    2020: SAS INSTITUTE INC. WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2020
         Participants: 
-    2019: SAS INSTITUTE INC. WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2019
         Participants: 
-    2018: SAS INSTITUTE INC. WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2018
         Participants: 
-    2017: SAS INSTITUTE INC. WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2017
         Participants: 
-   [520]
-    2022: SAS INSTITUTE INC. HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance
-        Codes:  4A4B4D4E4H4I4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance] SAS INSTITUTE INC. HEALTH AND WELFARE BENEFIT PLAN [520]
+    2022  [codes: 4A4B4D4E4H4I4Q]
         Participants: 
-   [505]
-    2021: SAS INSTITUTE INC. EMPLOYEE LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+  [Life insurance] SAS INSTITUTE INC. EMPLOYEE LIFE INSURANCE PLAN [505]
+    2021  [codes: 4B4Q]
         Participants: 
-    2020: SAS INSTITUTE INC. EMPLOYEE LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2020
         Participants: 
-    2019: SAS INSTITUTE INC. EMPLOYEE LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2019
         Participants: 
-    2018: SAS INSTITUTE INC. EMPLOYEE LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2018
         Participants: 
-    2017: SAS INSTITUTE INC. EMPLOYEE LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2017
         Participants: 
-   [510]
-    2021: SAS INSTITUTE INC. EMPLOYEE VOLUNTARY LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+  [Life insurance] SAS INSTITUTE INC. EMPLOYEE VOLUNTARY LIFE INSURANCE PLAN [510]
+    2021  [codes: 4B]
         Participants: 
-    2020: SAS INSTITUTE INC. EMPLOYEE VOLUNTARY LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2020
         Participants: 
-    2019: SAS INSTITUTE INC. EMPLOYEE VOLUNTARY LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2019
         Participants: 
-    2018: SAS INSTITUTE INC. EMPLOYEE VOLUNTARY LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2018
         Participants: 
-    2017: SAS INSTITUTE INC. EMPLOYEE VOLUNTARY LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2017
         Participants: 
-   [504]
-    2021: SAS INSTITUTE INC. EMPLOYEES LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+  [Long-term disability] SAS INSTITUTE INC. EMPLOYEES LONG TERM DISABILITY PLAN [504]
+    2021  [codes: 4H]
         Participants: 
-    2020: SAS INSTITUTE INC. EMPLOYEES LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2020
         Participants: 
-    2019: SAS INSTITUTE INC. EMPLOYEES LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2019
         Participants: 
-    2018: SAS INSTITUTE INC. EMPLOYEES LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2018
         Participants: 
-    2017: SAS INSTITUTE INC. EMPLOYEES LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2017
         Participants: 
-   [506]
-    2021: SAS INSTITUTE INC. EMPLOYEE ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+  [Other] SAS INSTITUTE INC. EMPLOYEE ASSISTANCE PLAN [506]
+    2021  [codes: 4Q]
         Participants: 
-    2020: SAS INSTITUTE INC. EMPLOYEE ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2020
         Participants: 
-    2019: SAS INSTITUTE INC. EMPLOYEE ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2019
         Participants: 
-    2018: SAS INSTITUTE INC. EMPLOYEE ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2018
         Participants: 
-    2017: SAS INSTITUTE INC. EMPLOYEE ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2017
         Participants: 
-   [508]
-    2021: SAS INSTITUTE INC. SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] SAS INSTITUTE INC. SEVERANCE PAY PLAN [508]
+    2021  [codes: 4I]
         Participants: 
-    2020: SAS INSTITUTE INC. SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2020
         Participants: 
-    2019: SAS INSTITUTE INC. SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2019
         Participants: 
-    2018: SAS INSTITUTE INC. SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2018
         Participants: 
-    2017: SAS INSTITUTE INC. SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2017
         Participants: 
-   [511]
-    2021: SAS INSTITUTE INC. VOLUNTARY RETIREMENT BENEFIT PR
-        Benefit Category: Severance
-        Codes:  4I4Q
+
+  [Severance] SAS INSTITUTE INC. VOLUNTARY RETIREMENT BENEFIT PR [511]
+    2021  [codes: 4I4Q]
         Participants: 
-    2019: SAS INSTITUTE INC. VOLUNTARY RETIREMENT BENEFIT PR
-        Benefit Category: Severance
-        Codes:  4I4Q
+
+    2019
         Participants: 

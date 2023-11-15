@@ -1,12 +1,8 @@
-NM : SANTA FE
-  CENTURY BANK  850056050
-   [001]
-    2022: CENTURY BANK 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2T3D 
-        Participants: 197
-        Assets: 21804010
-        $/Participant: 110680
+CENTURY BANK  850056050 -- NM : SANTA FE
+  [401(k)] CENTURY BANK 401(K) PLAN [001]
+    2022  [codes: 2A2E2F2G2J2T3D]
+        Participants: 197  Average: $110,680
+        Assets: $21,804,010
         RecordKeeper: WILSHIRE ADVISORS LLC
         Available Investments:
            - PRINCIPAL LIFE INMSURANCE COMPANY
@@ -42,12 +38,10 @@ NM : SANTA FE
                  : PRIN SMCAP VALUE II SEP ACCT-Z
                  : PRIN SPEC PREF CAP SEC INC PREM
                  : PRINCIPAL U.S. PROPERTY SA-Z
-    2021: CENTURY BANK 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2D2E2F2G2J2K2T3D3H 
-        Participants: 205
-        Assets: 26608365
-        $/Participant: 129796
+
+    2021  [codes: 2A2D2E2F2G2J2K2T3D3H]
+        Participants: 205  Average: $129,796
+        Assets: $26,608,365
         RecordKeeper: WILSHIRE ASSOCIATES INCORPORATED
         Available Investments:
            - PRINCIPAL LIFE INSURANCE CO.
@@ -83,12 +77,10 @@ NM : SANTA FE
                  : PRIN LIFETIME 2055 SEP ACCT-R6
                  : PRIN LIFETIME 2060 SEP ACCT R6
                  : PRIN LIFETIME SEP ACCT-R6
-    2020: CENTURY BANK 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2D2E2F2G2J2K2T3D3H 
-        Participants: 210
-        Assets: 24942239
-        $/Participant: 118772
+
+    2020
+        Participants: 210  Average: $118,772
+        Assets: $24,942,239
         RecordKeeper: WILSHIRE ASSOCIATES INCORPORATED
         Available Investments:
            - PRINCIPAL LIFE INSURANCE CO.
@@ -124,12 +116,10 @@ NM : SANTA FE
                  : PRIN LIFETIME 2055 SEP ACCT-R6
                  : PRIN LIFETIME 2060 SEP ACCT R6
                  : PRIN LIFETIME SEP ACCT-R6
-    2019: CENTURY BANK 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2D2E2F2G2J2K2T3D3H 
-        Participants: 185
-        Assets: 24657285
-        $/Participant: 133282
+
+    2019
+        Participants: 185  Average: $133,282
+        Assets: $24,657,285
         RecordKeeper: WILSHIRE ASSOCIATES INCORPORATED
         Available Investments:
            - PRINCIPAL LIFE INSURANCE CO.
@@ -164,12 +154,10 @@ NM : SANTA FE
                  : PRIN LIFETIME 2045SEP ACCT-R6
                  : PRIN LIFETIME 2055 SEP ACCT-R6
                  : PRIN LIFETIME 2060 SEP ACCT R6
-    2018: CENTURY BANK 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2D2E2F2G2J2K2T3D3H 
-        Participants: 175
-        Assets: 22618730
-        $/Participant: 129249
+
+    2018
+        Participants: 175  Average: $129,249
+        Assets: $22,618,730
         RecordKeeper: WILSHIRE ASSOCIATES INCORPORATED
         Available Investments:
            - PRINCIPAL LIFE INSURANCE CO.
@@ -206,12 +194,10 @@ NM : SANTA FE
                  : PRIN LIFETIME 2045SEP ACCT-R6
                  : PRIN LIFETIME 2055 SEP ACCT-R6
                  : PRIN LIFETIME 2060 SEP ACCT R6
-    2017: CENTURY BANK 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2D2E2F2G2J2K2T3D3H 
-        Participants: 177
-        Assets: 23287314
-        $/Participant: 131566
+
+    2017
+        Participants: 177  Average: $131,566
+        Assets: $23,287,314
         RecordKeeper: WILSHIRE ASSOCIATES INCORPORATED
         Available Investments:
            - PRINCIPAL LIFE INSURANCE CO.
@@ -248,41 +234,31 @@ NM : SANTA FE
                  : PRIN LIFETIME 2045SEP ACCT-R6
                  : PRIN LIFETIME 2055 SEP ACCT-R6
                  : PRIN LIFETIME 2060 SEP ACCT R6
-   [501]
-    2022: CENTURY BANK FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4E4H4D4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability] CENTURY BANK FLEXIBLE BENEFIT PLAN [501]
+    2022  [codes: 4A4B4E4H4D4Q]
         Participants: 279
-    2021: CENTURY BANK FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Vision, Long-term disability
-        Codes:  4A4B4E4H
+
+    2021  [codes: 4A4B4E4H]
         Participants: 280
-    2020: CENTURY BANK FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Vision, Long-term disability
-        Codes:  4A4B4E4H
+
+    2020
         Participants: 184
-    2019: CENTURY BANK FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Vision, Long-term disability
-        Codes:  4A4B4E4H
+
+    2019
         Participants: 185
-    2018: CENTURY BANK FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Vision, Long-term disability
-        Codes:  4A4B4E4H
+
+    2018
         Participants: 170
-    2017: CENTURY BANK FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Vision, Long-term disability
-        Codes:  4A4B4E4H
+
+    2017
         Participants: 171
-   [002]
-    2018: CENTURY BANK DEFINED BENEFIT PLAN
-        Benefit Category: Pension
-        Codes: 1A1D1I3H 
-        Participants: 2
-        Assets: 2363730
-        $/Participant: 1181865
-    2017: CENTURY BANK DEFINED BENEFIT PLAN
-        Benefit Category: Pension
-        Codes: 1A1D3H 
-        Participants: 121
-        Assets: 2007456
-        $/Participant: 16590
+
+  [Pension] CENTURY BANK DEFINED BENEFIT PLAN [002]
+    2018  [codes: 1A1D1I3H]
+        Participants: 2  Average: $1,181,865
+        Assets: $2,363,730
+
+    2017  [codes: 1A1D3H]
+        Participants: 121  Average: $16,590
+        Assets: $2,007,456

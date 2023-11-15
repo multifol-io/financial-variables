@@ -1,12 +1,8 @@
-MO : ST. LOUIS
-  MCCARTHY HOLDINGS, INC.  431136212
-   [001]
-    2019: MCCARTHY EMPLOYEE RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D3H 
-        Participants: 4727
-        Assets: 383547196
-        $/Participant: 81139
+MCCARTHY HOLDINGS, INC.  431136212 -- MO : ST. LOUIS
+  [401(k)] MCCARTHY EMPLOYEE RETIREMENT SAVINGS PLAN [001]
+    2019  [codes: 2E2F2G2J2K2S2T3D3H]
+        Participants: 4,727  Average: $81,139
+        Assets: $383,547,196
         RecordKeeper: WELLS FARGO BANK N.A.
         Available Investments:
            - RELIANCE TRUST COMPANY
@@ -26,12 +22,10 @@ MO : ST. LOUIS
                  : AON HEWITT RETIREMENT INCOME FUND
            - WELLS FARGO BANK N.A.
                  : WELLS FARGO STABLE RETURN FUND N
-    2018: MCCARTHY EMPLOYEE RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D3H 
-        Participants: 4258
-        Assets: 307897991
-        $/Participant: 72310
+
+    2018
+        Participants: 4,258  Average: $72,310
+        Assets: $307,897,991
         RecordKeeper: WELLS FARGO BANK N.A.
         Available Investments:
            - RELIANCE TRUST COMPANY
@@ -51,12 +45,10 @@ MO : ST. LOUIS
                  : AON HEWITT RETIREMENT INCOME FUND
            - WELLS FARGO BANK N.A.
                  : WELLS FARGO STABLE RETURN FUND N
-    2017: MCCARTHY EMPLOYEE RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D3H 
-        Participants: 3485
-        Assets: 308804440
-        $/Participant: 88609
+
+    2017
+        Participants: 3,485  Average: $88,609
+        Assets: $308,804,440
         RecordKeeper: WELLS FARGO BANK N.A.
         Available Investments:
            - RELIANCE TRUST COMPANY
@@ -77,42 +69,30 @@ MO : ST. LOUIS
            - WELLS FARGO BANK N.A.
                  : WELLS FARGO STABLE RETURN FUND N
                  : WELLS FARGO STABLE VALUE FUND
-MO : ST LOUIS
-   [002]
-    2019: MCCARTHY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O2Q3H3I 
-        Participants: 2732
-        Assets: 835883707
-        $/Participant: 305960
-    2018: MCCARTHY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O2Q3H3I 
-        Participants: 2472
-        Assets: 725104740
-        $/Participant: 293327
-    2017: MCCARTHY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O2Q3I 
-        Participants: 2275
-        Assets: 660442158
-        $/Participant: 290304
-MO : ST. LOUIS
-   [501]
-    2019: MCCARTHY EMPLOYEE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
+ -- MO : ST LOUIS
+  [Employee Stock Ownership Plan] MCCARTHY EMPLOYEE STOCK OWNERSHIP PLAN [002]
+    2019  [codes: 2I2O2Q3H3I]
+        Participants: 2,732  Average: $305,960
+        Assets: $835,883,707
+
+    2018
+        Participants: 2,472  Average: $293,327
+        Assets: $725,104,740
+
+    2017  [codes: 2I2O2Q3I]
+        Participants: 2,275  Average: $290,304
+        Assets: $660,442,158
+ -- MO : ST. LOUIS
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] MCCARTHY EMPLOYEE HEALTH AND WELFARE PLAN [501]
+    2019  [codes: 4A4B4D4E4F4G4H4L4Q]
         Participants: 
-    2018: MCCARTHY EMPLOYEE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
+
+    2018
         Participants: 
-    2017: MCCARTHY EMPLOYEE HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
+
+    2017
         Participants: 
-   [505]
-    2017: MCCARTHY FLEXIBLE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] MCCARTHY FLEXIBLE SPENDING ACCOUNT PLAN [505]
+    2017  [codes: 4A]
         Participants: 

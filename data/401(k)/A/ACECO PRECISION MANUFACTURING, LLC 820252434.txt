@@ -1,77 +1,57 @@
-ID : BOISE
-  ACECO PRECISION MANUFACTURING, LLC  820252434
-    2022: ACE COMPANY, INC. 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D3H 
-        Participants: 156
-        Assets: 7036628
-        $/Participant: 45106
-    2021: ACE COMPANY, INC. 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D3H 
-        Participants: 147
-        Assets: 10841602
-        $/Participant: 73752
-    2020: ACE COMPANY, INC. 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2T3D3H 
-        Participants: 151
-        Assets: 9601801
-        $/Participant: 63588
-    2019: ACE COMPANY, INC. 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2T3D3H 
-        Participants: 156
-        Assets: 6819331
-        $/Participant: 43713
-    2018: ACE COMPANY, INC. 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D3H 
-        Participants: 143
-        Assets: 5934301
-        $/Participant: 41498
-    2017: ACE COMPANY, INC. 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
+ACECO PRECISION MANUFACTURING, LLC  820252434 -- ID : BOISE
+  [401(k)] ACE COMPANY, INC. 401K PLAN
+    2022  [codes: 2E2F2G2J2K2T3D3H]
+        Participants: 156  Average: $45,106
+        Assets: $7,036,628
+
+    2021
+        Participants: 147  Average: $73,752
+        Assets: $10,841,602
+
+    2020  [codes: 2E2F2G2J2T3D3H]
+        Participants: 151  Average: $63,588
+        Assets: $9,601,801
+
+    2019
+        Participants: 156  Average: $43,713
+        Assets: $6,819,331
+
+    2018  [codes: 2E2F2G2J2K2T3D3H]
+        Participants: 143  Average: $41,498
+        Assets: $5,934,301
+
+    2017  [codes: 2E2F2G2J2K2T3D]
         Participants: 106
-   [002]
-    2019: THE ACE COMPANY, INC. PROFIT SHARING PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2I2Q3I 
-        Participants: 155
-        Assets: 72028595
-        $/Participant: 464700
+
+  [Employee Stock Ownership Plan] THE ACE COMPANY, INC. PROFIT SHARING PLAN [002]
+    2019  [codes: 2P2I2Q3I]
+        Participants: 155  Average: $464,700
+        Assets: $72,028,595
         Service Providers:
            - UBS FINANCIAL SERVICES INC. :  (Investment advisory(plan) | Account maintenance fees)
-    2018: THE ACE COMPANY INC EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2I2Q3I 
+
+  [Employee Stock Ownership Plan] THE ACE COMPANY INC EMPLOYEE STOCK OWNERSHIP PLAN
+    2018
         Participants: 119
-    2017: THE ACE COMPANY INC EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2I2Q3I 
+
+    2017
         Participants: 89
-   [501]
-    2020: ACECO PRECISION MANUFACTURING HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D4Q
+
+  [Healthcare, Dental] ACECO PRECISION MANUFACTURING HEALTH AND WELFARE PLAN [501]
+    2020  [codes: 4A4D4Q]
         Participants: 
-    2019: ACECO PRECISION MANUFACTURING HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D4Q
+
+    2019
         Participants: 
-    2018: ACECO PRECISION MANUFACTURING HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+
+    2018  [codes: 4A4D]
         Participants: 148
-    2017: ACECO PRECISION MANUFACTURING HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+
+    2017
         Participants: 152
-   [002]
-    2021: THE ACE COMPANY, INC. PROFIT SHARING PLAN
-        Benefit Category: Other
-        Codes: 2E 
+
+  [Other] THE ACE COMPANY, INC. PROFIT SHARING PLAN [002]
+    2021  [codes: 2E]
         Participants: 154
         Service Providers:
            - UBS FINANCIAL SERVICES INC. :  ()
@@ -79,12 +59,10 @@ ID : BOISE
            - SIDNEY CHARLES SULLIVAN :  ()
            - EIDE BAILLY LLP :  ()
            - AMBROSE ESOP ADVISORS, LLC :  ()
-    2020: THE ACE COMPANY, INC. PROFIT SHARING PLAN
-        Benefit Category: Other
-        Codes: 2E3I 
-        Participants: 154
-        Assets: 18652471
-        $/Participant: 121119
+
+    2020  [codes: 2E3I]
+        Participants: 154  Average: $121,119
+        Assets: $18,652,471
         Service Providers:
            - UBS FINANCIAL SERVICES INC. :  ()
            - STEVENS & LEE P.C. :  ()

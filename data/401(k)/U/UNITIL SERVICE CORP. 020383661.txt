@@ -1,140 +1,109 @@
-NH : HAMPTON
-  UNITIL SERVICE CORP.  020383661
-   [503]
-    2022: UNITIL EMPLOYEE HEALTH & WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+UNITIL SERVICE CORP.  020383661 -- NH : HAMPTON
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] UNITIL EMPLOYEE HEALTH & WELFARE BENEFITS PLAN [503]
+    2022  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
-    2021: UNITIL EMPLOYEE HEALTH & WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2021  [codes: 4A4B4D4E4F4H4L]
         Participants: 
-    2020: UNITIL EMPLOYEE HEALTH & WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2020
         Participants: 
-    2019: UNITIL EMPLOYEE HEALTH & WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+    2019  [codes: 4A4B4D4E4H4L]
         Participants: 
-    2018: UNITIL EMPLOYEE HEALTH AND WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident] UNITIL EMPLOYEE HEALTH AND WELFARE BENEFITS PLAN
+    2018
         Participants: 513
         RecordKeeper: ANTHEM HEALTH PLANS OF NH, INC
-    2017: UNITIL EMPLOYEE HEALTH AND WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+    2017
         Participants: 502
         RecordKeeper: BOSTON COMMONWEALTH ADVANTAGE, LLC
-   [520]
-    2022: UNITIL RETIREE HEALTH AND WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B4Q
-        Participants: 
-        Assets: 27087783
-        $/Participant: 
+
+  [Healthcare, Life insurance] UNITIL RETIREE HEALTH AND WELFARE BENEFITS PLAN [520]
+    2022  [codes: 4A4B4Q]
+        Participants:   Average: $
+        Assets: $27,087,783
         RecordKeeper: CARON & BLETZER TS, PLLC
-    2021: UNITIL RETIREE HEALTH AND WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B4Q
-        Participants: 
-        Assets: 22330788
-        $/Participant: 
+
+    2021
+        Participants:   Average: $
+        Assets: $22,330,788
         RecordKeeper: ERNST & YOUNG LLP
-    2020: UNITIL RETIREE HEALTH AND WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B4Q
-        Participants: 
-        Assets: 15512011
-        $/Participant: 
+
+    2020
+        Participants:   Average: $
+        Assets: $15,512,011
         RecordKeeper: CARON & BLETZER TS, PLLC
-    2019: UNITIL RETIREE HEALTH AND WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B4Q
-        Participants: 
-        Assets: 12974582
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $12,974,582
         RecordKeeper: ANTHEM HEALTH PLANS OF NEW HAMPSHIR
-    2018: UNITIL RETIREE HEALTH AND WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B4Q
-        Participants: 
-        Assets: 10019497
-        $/Participant: 
+
+    2018
+        Participants:   Average: $
+        Assets: $10,019,497
         Service Providers:
            - HEALTH PLANS, INC. : THIRD PARTY ADMINISTRATOR (Claims processing | Other services)
            - CARON & BLETZER, PLLC : ACCOUNTANT (Accounting(including auditing) | Direct payment from the plan)
            - SEI INVESTMENTS :  (Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - EBPA LLC : CONTRACT ADMINISTRATOR (Contract Administrator)
-    2017: UNITIL RETIREE HEALTH AND WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B4Q
-        Participants: 321
-        Assets: 9613819
-        $/Participant: 29949
+
+    2017
+        Participants: 321  Average: $29,949
+        Assets: $9,613,819
         Service Providers:
            - HEALTH PLANS, INC. : THIRD PARTY ADMINISTRATOR (Claims processing | Other services)
            - CARON & BLETZER, PLLC : ACCOUNTANT (Accounting(including auditing) | Direct payment from the plan)
            - SEI INVESTMENTS :  (Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - EBPA LLC : CONTRACT ADMINISTRATOR (Contract Administrator)
-   [001]
-    2022: UNITIL CORPORATION RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1E3H 
-        Participants: 655
-        Assets: 148114256
-        $/Participant: 226128
+
+  [Pension] UNITIL CORPORATION RETIREMENT PLAN [001]
+    2022  [codes: 1A1E3H]
+        Participants: 655  Average: $226,128
+        Assets: $148,114,256
         RecordKeeper: CARON & BLETZER, PLLC
         Available Investments:
            - SEI TRUST COMPANY
                  : SEI CORE PROPERTY COLL. INV. TRUST
-    2021: UNITIL CORPORATION RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1E3H 
-        Participants: 677
-        Assets: 176126257
-        $/Participant: 260156
+
+    2021
+        Participants: 677  Average: $260,156
+        Assets: $176,126,257
         RecordKeeper: CARON & BLETZER, PLLC
         Available Investments:
            - SEI TRUST COMPANY
                  : SEI CORE PROPERTY COLL. INV. TRUST
-    2020: UNITIL CORPORATION RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1E3H 
-        Participants: 687
-        Assets: 158840949
-        $/Participant: 231209
+
+    2020
+        Participants: 687  Average: $231,209
+        Assets: $158,840,949
         RecordKeeper: TRANSAMERICA RETIREMENT SOLUTIONS
         Available Investments:
            - SEI TRUST COMPANY
                  : SEI CORE PROPERTY COLL. INV. TRUST
-    2019: UNITIL CORPORATION RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1E3H 
-        Participants: 701
-        Assets: 144769956
-        $/Participant: 206519
+
+    2019
+        Participants: 701  Average: $206,519
+        Assets: $144,769,956
         RecordKeeper: CARON & BLETZER, PLLC
         Available Investments:
            - SEI TRUST COMPANY
                  : SEI CORE PROPERTY COLL. INV. TRUST
-    2018: UNITIL CORPORATION RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1E3H 
-        Participants: 718
-        Assets: 125999491
-        $/Participant: 175486
+
+    2018
+        Participants: 718  Average: $175,486
+        Assets: $125,999,491
         RecordKeeper: SKAPERS & ASSOCIATES
         Available Investments:
            - SEI TRUST COMPANY
                  : SEI CORE PROPERTY COLL. INV. TRUST
-    2017: UNITIL CORPORATION RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1E3H 
-        Participants: 738
-        Assets: 128003882
-        $/Participant: 173446
+
+    2017
+        Participants: 738  Average: $173,446
+        Assets: $128,003,882
         RecordKeeper: SKAPERS & ASSOCIATES
         Available Investments:
            - SEI TRUST COMPANY

@@ -1,80 +1,55 @@
-VA : VIENNA
-  GROUP W INC.  200795636
-    2022: GROUP W INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2T3D2E 
-        Participants: 148
-        Assets: 37626199
-        $/Participant: 254231
+GROUP W INC.  200795636 -- VA : VIENNA
+  [401(k)] GROUP W INC. 401(K) PLAN
+    2022  [codes: 2F2G2J2T3D2E]
+        Participants: 148  Average: $254,231
+        Assets: $37,626,199
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2021: GROUP W INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2T3D 
-        Participants: 140
-        Assets: 48064126
-        $/Participant: 343315
+
+    2021  [codes: 2E2F2G2J2T3D]
+        Participants: 140  Average: $343,315
+        Assets: $48,064,126
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2020: GROUP W INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2T3D 
+
+    2020
         Participants: 134
-    2019: GROUP W INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2T3D 
+
+    2019
         Participants: 118
-    2018: GROUP W INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2T3D 
+
+    2018
         Participants: 112
-    2017: GROUP W INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2T3D 
+
+    2017
         Participants: 102
-   [002]
-    2022: GROUP W INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3I 
-        Participants: 188
-        Assets: 22750883
-        $/Participant: 121015
-    2021: GROUP W INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3I 
-        Participants: 182
-        Assets: 21449203
-        $/Participant: 117852
-    2020: GROUP W INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3I 
-        Participants: 167
-        Assets: 21396787
-        $/Participant: 128124
-    2019: GROUP W INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3I 
-        Participants: 153
-        Assets: 19510612
-        $/Participant: 127520
-    2018: GROUP W INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3I 
-        Participants: 145
-        Assets: 19641730
-        $/Participant: 135460
-VA : FAIRFAX
-    2017: GROUP W INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3I 
-        Participants: 138
-        Assets: 17351548
-        $/Participant: 125735
-VA : VIENNA
-   [501]
-    2022: GROUP W INC. WRAP BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+  [Employee Stock Ownership Plan] GROUP W INC. EMPLOYEE STOCK OWNERSHIP PLAN [002]
+    2022  [codes: 2I2P3I]
+        Participants: 188  Average: $121,015
+        Assets: $22,750,883
+
+    2021
+        Participants: 182  Average: $117,852
+        Assets: $21,449,203
+
+    2020
+        Participants: 167  Average: $128,124
+        Assets: $21,396,787
+
+    2019
+        Participants: 153  Average: $127,520
+        Assets: $19,510,612
+
+    2018
+        Participants: 145  Average: $135,460
+        Assets: $19,641,730
+ -- VA : FAIRFAX
+    2017
+        Participants: 138  Average: $125,735
+        Assets: $17,351,548
+ -- VA : VIENNA
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability] GROUP W INC. WRAP BENEFIT PLAN [501]
+    2022  [codes: 4A4B4D4E4F4H4Q]
         Participants: 
-    2021: GROUP W INC. WRAP BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2021
         Participants: 

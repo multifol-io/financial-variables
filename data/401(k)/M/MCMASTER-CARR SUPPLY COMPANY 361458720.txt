@@ -1,154 +1,118 @@
-IL : ELMHURST
-  MCMASTER-CARR SUPPLY COMPANY  361458720
-   [501]
-    2022: MCMASTER-CARR SUPPLY COMPANY GROUP INSURANCE PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
-        Participants: 5364
-        Assets: 385849249
-        $/Participant: 71933
-    2021: MCMASTER-CARR SUPPLY COMPANY GROUP INSURANCE PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
-        Participants: 5130
-        Assets: 451957330
-        $/Participant: 88100
-    2020: MCMASTER-CARR SUPPLY COMPANY GROUP INSURANCE PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H
-        Participants: 4703
-        Assets: 366103431
-        $/Participant: 77844
-    2019: MCMASTER-CARR SUPPLY COMPANY GROUP INSURANCE PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H
-        Participants: 4445
-        Assets: 324072535
-        $/Participant: 72907
-    2018: MCMASTER-CARR SUPPLY COMPANY GROUP INSURANCE PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H
-        Participants: 4364
-        Assets: 259441486
-        $/Participant: 59450
-    2017: MCMASTER-CARR SUPPLY COMPANY GROUP INSURANCE PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H
-        Participants: 4279
-        Assets: 285834470
-        $/Participant: 66799
-   [001]
-    2022: MCMASTER-CARR SUPPLY COMPANY PROFIT SHARING TRUST
-        Benefit Category: Other
-        Codes: 2E 
-        Participants: 5328
-        Assets: 2451303819
-        $/Participant: 460079
+MCMASTER-CARR SUPPLY COMPANY  361458720 -- IL : ELMHURST
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability] MCMASTER-CARR SUPPLY COMPANY GROUP INSURANCE PROGRAM [501]
+    2022  [codes: 4A4B4D4E4H4Q]
+        Participants: 5,364  Average: $71,933
+        Assets: $385,849,249
+
+    2021
+        Participants: 5,130  Average: $88,100
+        Assets: $451,957,330
+
+    2020  [codes: 4A4B4D4E4H]
+        Participants: 4,703  Average: $77,844
+        Assets: $366,103,431
+
+    2019
+        Participants: 4,445  Average: $72,907
+        Assets: $324,072,535
+
+    2018
+        Participants: 4,364  Average: $59,450
+        Assets: $259,441,486
+
+    2017
+        Participants: 4,279  Average: $66,799
+        Assets: $285,834,470
+
+  [Other] MCMASTER-CARR SUPPLY COMPANY PROFIT SHARING TRUST [001]
+    2022  [codes: 2E]
+        Participants: 5,328  Average: $460,079
+        Assets: $2,451,303,819
         Service Providers:
            - NORTHERN TRUST : CUSTODIAN (Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - MCMASTER-CARR SUPPLY CO. PS TRUST : PLAN SPONSOR (Direct payment from the plan | Account maintenance fees)
         Available Investments:
            - THE NORTHERN TRUST CO.
                  : COLLECTIVE SHORT TERM INVESTMENT
-    2021: MCMASTER-CARR SUPPLY COMPANY PROFIT SHARING TRUST
-        Benefit Category: Other
-        Codes: 2E 
-        Participants: 5194
-        Assets: 2807426695
-        $/Participant: 540513
+
+    2021
+        Participants: 5,194  Average: $540,513
+        Assets: $2,807,426,695
         Service Providers:
            - MCMASTER-CARR SUPPLY CO. PS TRUST : PLAN SPONSOR (Direct payment from the plan | Account maintenance fees)
            - NORTHERN TRUST : CUSTODIAN (Trustee(bank, trust company, or similar) | Direct payment from the plan)
         Available Investments:
            - THE NORTHERN TRUST CO.
                  : COLLECTIVE SHORT TERM INVESTMENT
-    2020: MCMASTER-CARR SUPPLY COMPANY PROFIT SHARING TRUST
-        Benefit Category: Other
-        Codes: 2E 
-        Participants: 4648
-        Assets: 2423689538
-        $/Participant: 521447
+
+    2020
+        Participants: 4,648  Average: $521,447
+        Assets: $2,423,689,538
         Service Providers:
            - MCMASTER-CARR SUPPLY CO. PS TRUST : PLAN SPONSOR (Direct payment from the plan | Account maintenance fees)
            - NORTHERN TRUST : CUSTODIAN (Trustee(bank, trust company, or similar) | Direct payment from the plan)
         Available Investments:
            - THE NORTHERN TRUST CO.
                  : COLLECTIVE SHORT TERM INVESTMENT
-    2019: MCMASTER-CARR SUPPLY COMPANY PROFIT SHARING TRUST
-        Benefit Category: Other
-        Codes: 2E 
-        Participants: 4603
-        Assets: 2143623652
-        $/Participant: 465701
+
+    2019
+        Participants: 4,603  Average: $465,701
+        Assets: $2,143,623,652
         Service Providers:
            - MCMASTER-CARR SUPPLY CO. PS TRUST : PLAN SPONSOR (Direct payment from the plan | Account maintenance fees)
            - NORTHERN TRUST : CUSTODIAN (Trustee(bank, trust company, or similar) | Direct payment from the plan)
         Available Investments:
            - THE NORTHERN TRUST CO.
                  : COLLECTIVE SHORT TERM INVESTMENT
-    2018: MCMASTER-CARR SUPPLY COMPANY PROFIT SHARING TRUST
-        Benefit Category: Other
-        Codes: 2E 
-        Participants: 4473
-        Assets: 1778043456
-        $/Participant: 397505
+
+    2018
+        Participants: 4,473  Average: $397,505
+        Assets: $1,778,043,456
         Service Providers:
            - PLAN : PLAN (Direct payment from the plan | Account maintenance fees)
            - NORTHERN TRUST : CUSTODIAN (Trustee(bank, trust company, or similar) | Direct payment from the plan)
         Available Investments:
            - THE NORTHERN TRUST CO.
                  : COLLECTIVE SHORT TERM INVESTMENT
-    2017: MCMASTER-CARR SUPPLY COMPANY PROFIT SHARING TRUST
-        Benefit Category: Other
-        Codes: 2E 
-        Participants: 4495
-        Assets: 1892977334
-        $/Participant: 421129
+
+    2017
+        Participants: 4,495  Average: $421,129
+        Assets: $1,892,977,334
         Service Providers:
            - MCMASTER-CARR SUPPLY CO.PS TRUST : PLAN (Direct payment from the plan | Account maintenance fees)
            - NORTHERN TRUST : CUSTODIAN (Trustee(bank, trust company, or similar) | Direct payment from the plan)
         Available Investments:
            - THE NORTHERN TRUST CO.
                  : COLLECTIVE SHORT TERM INVESTMENT
-   [502]
-    2021: MCMASTER-CARR SUPPLY COMPANY J.A. DELANEY, SR. COLLEGE ASSISTANCE
-        Benefit Category: Other
-        Codes:  4Q
+
+  [Other] MCMASTER-CARR SUPPLY COMPANY J.A. DELANEY, SR. COLLEGE ASSISTANCE [502]
+    2021  [codes: 4Q]
         Participants: 0
-    2020: MCMASTER-CARR SUPPLY COMPANY J.A. DELANEY, SR. COLLEGE ASSISTANCE
-        Benefit Category: Other
-        Codes:  4Q
+
+    2020
         Participants: 388
-    2019: MCMASTER-CARR SUPPLY COMPANY J.A. DELANEY, SR. COLLEGE ASSISTANCE
-        Benefit Category: Other
-        Codes:  4Q
+
+    2019
         Participants: 417
-    2018: MCMASTER-CARR SUPPLY COMPANY J.A. DELANEY, SR. COLLEGE ASSISTANCE
-        Benefit Category: Other
-        Codes:  4Q
+
+    2018
         Participants: 431
-    2017: MCMASTER-CARR SUPPLY COMPANY J.A. DELANEY, SR. COLLEGE ASSISTANCE
-        Benefit Category: Other
-        Codes:  4Q
+
+    2017
         Participants: 395
-   [504]
-    2021: MCMASTER-CARR SUPPLY COMPANY EMPLOYEE ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+  [Other] MCMASTER-CARR SUPPLY COMPANY EMPLOYEE ASSISTANCE PLAN [504]
+    2021
         Participants: 0
-    2020: MCMASTER-CARR SUPPLY COMPANY EMPLOYEE ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
-        Participants: 4640
-    2019: MCMASTER-CARR SUPPLY COMPANY EMPLOYEE ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
-        Participants: 4373
-    2018: MCMASTER-CARR SUPPLY COMPANY EMPLOYEE ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
-        Participants: 4294
-    2017: MCMASTER-CARR SUPPLY COMPANY EMPLOYEE ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
-        Participants: 4185
+
+    2020
+        Participants: 4,640
+
+    2019
+        Participants: 4,373
+
+    2018
+        Participants: 4,294
+
+    2017
+        Participants: 4,185

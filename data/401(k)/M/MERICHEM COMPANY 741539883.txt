@@ -1,11 +1,8 @@
-TX : HOUSTON
-  MERICHEM COMPANY  741539883
-    2022: MERICHEM COMPANY SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2F2G2K2S3D2T 
-        Participants: 197
-        Assets: 52064326
-        $/Participant: 264285
+MERICHEM COMPANY  741539883 -- TX : HOUSTON
+  [401(k)] MERICHEM COMPANY SAVINGS PLAN
+    2022  [codes: 2E2J2F2G2K2S3D2T]
+        Participants: 197  Average: $264,285
+        Assets: $52,064,326
         RecordKeeper: PRUDENTIAL RETIREMENT INSURANCE AND
         Available Investments:
            - PRUDENTIAL RETIREMENT INS.
@@ -14,12 +11,10 @@ TX : HOUSTON
                  : INVESCO SCG STGY
                  : SCV/INTEGRITY
                  : TRP GROWTH STK STGY
-    2021: MERICHEM COMPANY SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2F2G2K2S3D2T 
-        Participants: 197
-        Assets: 60792980
-        $/Participant: 308593
+
+    2021
+        Participants: 197  Average: $308,593
+        Assets: $60,792,980
         RecordKeeper: PRUDENTIAL RETIREMENT INSURANCE AND
         Available Investments:
            - PRUDENTIAL RETIREMENT INS.
@@ -28,12 +23,10 @@ TX : HOUSTON
                  : INVESCO SCG STGY
                  : SCV/INTEGRITY
                  : TRP GROWTH STK STGY
-    2020: MERICHEM COMPANY SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2F2G2K2S3D2T 
-        Participants: 210
-        Assets: 65831263
-        $/Participant: 313482
+
+    2020
+        Participants: 210  Average: $313,482
+        Assets: $65,831,263
         RecordKeeper: PRUDENTIAL RETIREMENT INSURANCE AND
         Available Investments:
            - PRUDENTIAL RETIREMENT INS.
@@ -42,12 +35,10 @@ TX : HOUSTON
                  : INVESCO SCG STGY
                  : SCV/INTEGRITY
                  : TRP GROWTH STK STGY
-    2019: MERICHEM COMPANY SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2F2G2K2S3D2T 
-        Participants: 206
-        Assets: 57335607
-        $/Participant: 278328
+
+    2019
+        Participants: 206  Average: $278,328
+        Assets: $57,335,607
         RecordKeeper: PRUDENTIAL RETIREMENT INSURANCE AND
         Available Investments:
            - PRUDENTIAL RETIREMENT INS.
@@ -56,12 +47,10 @@ TX : HOUSTON
                  : INVESCO SCG STGY
                  : SCV/INTEGRITY
                  : TRP GROWTH STK STGY
-    2018: MERICHEM COMPANY SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2F2G2K2S3D2T 
-        Participants: 205
-        Assets: 46243630
-        $/Participant: 225578
+
+    2018
+        Participants: 205  Average: $225,578
+        Assets: $46,243,630
         RecordKeeper: PRUDENTIAL RETIREMENT INSURANCE AND
         Available Investments:
            - PRUDENTIAL RETIREMENT INS.
@@ -73,12 +62,10 @@ TX : HOUSTON
                  : MCV/WELLINGTON
                  : SCV/INTEGRITY
                  : TRP GROWTH STK STGY
-    2017: MERICHEM COMPANY SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2F2G2K2S3D2T 
-        Participants: 211
-        Assets: 48255223
-        $/Participant: 228697
+
+    2017
+        Participants: 211  Average: $228,697
+        Assets: $48,255,223
         RecordKeeper: PRUDENTIAL RETIREMENT INSURANCE AND
         Available Investments:
            - PRUDENTIAL RETIREMENT INS.
@@ -90,35 +77,28 @@ TX : HOUSTON
                  : MCV/WELLINGTON
                  : SCV/INTEGRITY
                  : TRP GROWTH STK STGY
-   [501]
-    2022: MERICHEM COMPANY WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident] MERICHEM COMPANY WELFARE BENEFIT PLAN [501]
+    2022  [codes: 4A4B4D4E4H4L]
         Participants: 
-    2021: MERICHEM COMPANY WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+    2021
         Participants: 
-    2020: MERICHEM COMPANY WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+    2020
         Participants: 
-    2019: MERICHEM COMPANY WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+    2019
         Participants: 
-    2018: MERICHEM COMPANY WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2018  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
-    2017: MERICHEM COMPANY WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2017
         Participants: 
-   [001]
-    2019: MERICHEM COMPANY RETIREMENT TRUST
-        Benefit Category: Pension
-        Codes: 1A1H 
+
+  [Pension] MERICHEM COMPANY RETIREMENT TRUST [001]
+    2019  [codes: 1A1H]
         Participants: 178
         Service Providers:
            - PRUDENTIAL RETIREMENT INS & ANNUITY :  (Contract Administrator)
@@ -129,12 +109,10 @@ TX : HOUSTON
                  : CORE BOND ENHANCED INDEX/PGIM
                  : LONG DURATION BOND/IR & M FUND
                  : PRU LONG CORPORATE BOND
-    2018: MERICHEM COMPANY RETIREMENT TRUST
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 245
-        Assets: 44423236
-        $/Participant: 181319
+
+    2018  [codes: 1A]
+        Participants: 245  Average: $181,319
+        Assets: $44,423,236
         Service Providers:
            - PRUDENTIAL RETIREMENT INS & ANNUITY :  (Contract Administrator)
            - GLOBAL PORTFOLIO STRATEGIES, INC. :  (Investment management)
@@ -149,12 +127,10 @@ TX : HOUSTON
                  : MID CAP VALUE/WELLINGTON
                  : PRU LONG CORPORATE BOND
                  : SMALL CAP VALUE/ INTEGRITY
-    2017: MERICHEM COMPANY RETIREMENT TRUST
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 266
-        Assets: 43918424
-        $/Participant: 165106
+
+    2017
+        Participants: 266  Average: $165,106
+        Assets: $43,918,424
         Service Providers:
            - PRUDENTIAL RETIREMENT INS & ANNUITY :  (Contract Administrator)
            - GLOBAL PORTFOLIO STRATEGIES, INC. :  (Investment management)

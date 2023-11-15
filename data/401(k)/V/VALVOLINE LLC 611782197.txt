@@ -1,150 +1,117 @@
-KY : LEXINGTON
-  VALVOLINE LLC  611782197
-    2022: VALVOLINE GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+VALVOLINE LLC  611782197 -- KY : LEXINGTON
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] VALVOLINE GROUP BENEFIT PLAN
+    2022  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
-    2021: VALVOLINE GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2021
         Participants: 
-    2020: VALVOLINE GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2020
         Participants: 
-    2019: VALVOLINE GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2019
         Participants: 
-    2018: VALVOLINE GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2018  [codes: 4A4B4D4E4F4H4L]
         Participants: 
-    2017: VALVOLINE GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2017
         Participants: 
-   [004]
-    2021: VALVOLINE LLC DEFINED BENEFIT TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 1448825008
-        $/Participant: 
+
+  [Other] VALVOLINE LLC DEFINED BENEFIT TRUST [004]
+    2021  [codes: ]
+        Participants:   Average: $
+        Assets: $1,448,825,008
         RecordKeeper: MERCER (US) INC.
         Available Investments:
            - GOLDMAN SACHS ASSET MANAGEMENT
                  : CF GSTCO TACTICAL EXPOSURE FUND
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE GOVERNMENT STIF
-    2020: VALVOLINE LLC DEFINED BENEFIT TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 2001072779
-        $/Participant: 
+
+    2020
+        Participants:   Average: $
+        Assets: $2,001,072,779
         RecordKeeper: BLUE AND COMPANY LLC
         Available Investments:
            - GOLDMAN SACHS ASSET MANAGEMENT
                  : CF GSTCO TACTICAL EXPOSURE FUND
-    2019: VALVOLINE LLC DEFINED BENEFIT TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 1992981711
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $1,992,981,711
         RecordKeeper: BLUE AND COMPANY LLC
         Available Investments:
            - GOLDMAN SACHS ASSET MANAGEMENT
                  : CF GSTCO TACTICAL EXPOSURE FUND
-    2018: VALVOLINE LLC DEFINED BENEFIT TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 1916583628
-        $/Participant: 
+
+    2018
+        Participants:   Average: $
+        Assets: $1,916,583,628
         Available Investments:
            - GOLDMAN SACHS ASSET MANAGEMENT
                  : CF GSTCO TACTICAL EXPOSURE FUND
-    2017: VALVOLINE LLC DEFINED BENEFIT TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 1761467096
-        $/Participant: 
-   [001]
-    2021: ASHLAND HERCULES PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3H1I 
-        Participants: 5209
-        Assets: 996911000
-        $/Participant: 191382
+
+    2017
+        Participants:   Average: $
+        Assets: $1,761,467,096
+
+  [Pension] ASHLAND HERCULES PENSION PLAN [001]
+    2021  [codes: 1A3H1I]
+        Participants: 5,209  Average: $191,382
+        Assets: $996,911,000
         Available Investments:
            - VALVOLINE LLC
                  : VALVOLINE LLC DEFINED BENEFIT TRUST
-    2020: ASHLAND HERCULES PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3H1I 
-        Participants: 5313
-        Assets: 1374040000
-        $/Participant: 258618
+
+    2020
+        Participants: 5,313  Average: $258,618
+        Assets: $1,374,040,000
         Available Investments:
            - VALVOLINE LLC
                  : VALVOLINE LLC DEFINED BENEFIT TRUST
-    2019: ASHLAND HERCULES PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3H1I 
-        Participants: 5365
-        Assets: 1364813000
-        $/Participant: 254391
+
+    2019
+        Participants: 5,365  Average: $254,391
+        Assets: $1,364,813,000
         Available Investments:
            - VALVOLINE LLC
                  : VALVOLINE LLC DEFINED BENEFIT TRUST
-    2018: ASHLAND HERCULES PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3H1I 
-        Participants: 13100
-        Assets: 1310094000
-        $/Participant: 100007
+
+    2018
+        Participants: 13,100  Average: $100,007
+        Assets: $1,310,094,000
         RecordKeeper: BLUE AND COMPANY LLC
         Available Investments:
            - VALVOLINE LLC
                  : VALVOLINE LLC DEFINED BENEFIT TRUST
-    2017: ASHLAND HERCULES PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3H1I 
-        Participants: 13256
-        Assets: 1737845564
-        $/Participant: 131098
+
+    2017
+        Participants: 13,256  Average: $131,098
+        Assets: $1,737,845,564
         RecordKeeper: BLUE AND COMPANY LLC
         Available Investments:
            - VALVOLINE LLC
                  : VALVOLINE LLC DEFINED BENEFIT TRUST
-   [005]
-    2021: ASHLAND HERCULES PENSION PLAN II
-        Benefit Category: Pension
-        Codes: 1A3H1I 
-        Participants: 6967
-        Assets: 441198000
-        $/Participant: 63326
+
+  [Pension] ASHLAND HERCULES PENSION PLAN II [005]
+    2021
+        Participants: 6,967  Average: $63,326
+        Assets: $441,198,000
         Available Investments:
            - VALVOLINE LLC
                  : VALVOLINE LLC DEFINED BENEFIT TRUST
-    2020: ASHLAND HERCULES PENSION PLAN II
-        Benefit Category: Pension
-        Codes: 1A3H1I 
-        Participants: 7201
-        Assets: 612953000
-        $/Participant: 85120
+
+    2020
+        Participants: 7,201  Average: $85,120
+        Assets: $612,953,000
         Available Investments:
            - VALVOLINE LLC
                  : VALVOLINE LLC DEFINED BENEFIT TRUST
-    2019: ASHLAND HERCULES PENSION PLAN II
-        Benefit Category: Pension
-        Codes: 1A3H1I 
-        Participants: 7371
-        Assets: 612818000
-        $/Participant: 83139
+
+    2019
+        Participants: 7,371  Average: $83,139
+        Assets: $612,818,000
         Available Investments:
            - VALVOLINE LLC
                  : VALVOLINE LLC DEFINED BENEFIT TRUST

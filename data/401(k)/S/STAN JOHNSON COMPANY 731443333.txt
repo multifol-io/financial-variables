@@ -1,62 +1,45 @@
-OK : TULSA
-  STAN JOHNSON COMPANY  731443333
-    2021: STAN JOHNSON COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2R2T3D3H 
-        Participants: 140
-        Assets: 36610527
-        $/Participant: 261503
+STAN JOHNSON COMPANY  731443333 -- OK : TULSA
+  [401(k)] STAN JOHNSON COMPANY 401(K) PLAN
+    2021  [codes: 2A2E2F2G2J2K2R2T3D3H]
+        Participants: 140  Average: $261,503
+        Assets: $36,610,527
         RecordKeeper: CAPITAL BANK AND TRUST
-    2020: STAN JOHNSON COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2R2T3D3H 
-        Participants: 139
-        Assets: 33394480
-        $/Participant: 240248
+
+    2020
+        Participants: 139  Average: $240,248
+        Assets: $33,394,480
         RecordKeeper: CAPITAL RESEARCH AND MANAGEMENT
-    2019: STAN JOHNSON COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2R2T3D3H 
-        Participants: 167
-        Assets: 34301282
-        $/Participant: 205396
+
+    2019
+        Participants: 167  Average: $205,396
+        Assets: $34,301,282
         RecordKeeper: CAPITAL RESEARCH AND MANAGEMENT
-    2018: STAN JOHNSON COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2R2T3D3H 
-        Participants: 163
-        Assets: 32962036
-        $/Participant: 202221
+
+    2018
+        Participants: 163  Average: $202,221
+        Assets: $32,962,036
         RecordKeeper: CAPITAL RESEARCH AND MANAGEMENT
-    2017: STAN JOHNSON COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2R2T3D3H 
-        Participants: 155
-        Assets: 29768762
-        $/Participant: 192056
+
+    2017
+        Participants: 155  Average: $192,056
+        Assets: $29,768,762
         RecordKeeper: CAPITAL RESEARCH AND MANAGEMENT
-   [501]
-    2022: STAN JOHNSON COMPANY
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] STAN JOHNSON COMPANY [501]
+    2022  [codes: 4A4B4D4E4F4H4L]
         Participants: 
-    2021: STAN JOHNSON COMPANY
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2021
         Participants: 
-    2020: STAN JOHNSON COMPANY
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2020
         Participants: 
-    2019: STAN JOHNSON COMPANY
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4C4D4H4E4B
+
+    2019  [codes: 4A4C4D4H4E4B]
         Participants: 165
-    2018: STAN JOHNSON COMPANY
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4C4D4H4E4B
+
+    2018
         Participants: 289
-    2017: STAN JOHNSON COMPANY
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4C4D4H4E4B
+
+    2017
         Participants: 264

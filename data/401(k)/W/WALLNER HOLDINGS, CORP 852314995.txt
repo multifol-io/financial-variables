@@ -1,21 +1,13 @@
-CA : ONTARIO
-  WALLNER HOLDINGS, CORP  852314995
-   [001]
-    2022: WALLNER EXPAC EMPLOYER STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3I 
-        Participants: 140
-        Assets: 48759306
-        $/Participant: 348280
-    2021: WALLNER EXPAC EMPLOYER STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3I 
-        Participants: 131
-        Assets: 46992500
-        $/Participant: 358721
-    2020: WALLNER EXPAC EMPLOYER STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3I 
-        Participants: 134
-        Assets: 16800000
-        $/Participant: 125373
+WALLNER HOLDINGS, CORP  852314995 -- CA : ONTARIO
+  [Employee Stock Ownership Plan] WALLNER EXPAC EMPLOYER STOCK OWNERSHIP PLAN [001]
+    2022  [codes: 2I2P3I]
+        Participants: 140  Average: $348,280
+        Assets: $48,759,306
+
+    2021
+        Participants: 131  Average: $358,721
+        Assets: $46,992,500
+
+    2020
+        Participants: 134  Average: $125,373
+        Assets: $16,800,000

@@ -1,51 +1,38 @@
-NY : NEW YORK
-  LLOYDS BANK PLC  133321516
-    2018: LLOYDS BANK PLC 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2F2G2K3D3F3H2S2T 
-        Participants: 522
-        Assets: 76778825
-        $/Participant: 147085
+LLOYDS BANK PLC  133321516 -- NY : NEW YORK
+  [401(k)] LLOYDS BANK PLC 401(K) PLAN
+    2018  [codes: 2E2J2F2G2K3D3F3H2S2T]
+        Participants: 522  Average: $147,085
+        Assets: $76,778,825
         RecordKeeper: T. ROWE PRICE
-    2017: LLOYDS BANK PLC 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2F2G2K3D3F3H2S2T 
-        Participants: 519
-        Assets: 78675434
-        $/Participant: 151590
+
+    2017
+        Participants: 519  Average: $151,590
+        Assets: $78,675,434
         RecordKeeper: T. ROWE PRICE
-   [501]
-    2022: LLOYDS BANK PLC WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
-        Codes:  4A4B4D4E4F4H4I4L
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident] LLOYDS BANK PLC WELFARE BENEFIT PLAN [501]
+    2022  [codes: 4A4B4D4E4F4H4I4L]
         Participants: 
-    2021: LLOYDS BANK PLC WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
-        Codes:  4A4B4D4E4H4I4L
+
+    2021  [codes: 4A4B4D4E4H4I4L]
         Participants: 
-    2020: LLOYDS BANK PLC WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
-        Codes:  4A4B4D4E4F4H4I4L
+
+    2020  [codes: 4A4B4D4E4F4H4I4L]
         Participants: 
-    2019: LLOYDS BANK PLC WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
-        Codes:  4A4B4D4E4F4H4I4L
+
+    2019
         Participants: 
-    2018: LLOYDS BANK PLC WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
-        Codes:  4A4B4D4E4F4H4I4L
+
+    2018
         Participants: 
-    2017: LLOYDS BANK PLC WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
-        Codes:  4A4B4D4E4F4H4I4L
+
+    2017
         Participants: 
-   [001]
-    2022: THE RETIREMENT PLAN FOR EMPLOYEES OF THE UNITED STATES OFFICES OF LLOYDS BANK PLC
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 625
-        Assets: 127027327
-        $/Participant: 203243
+
+  [Pension] THE RETIREMENT PLAN FOR EMPLOYEES OF THE UNITED STATES OFFICES OF LLOYDS BANK PLC [001]
+    2022  [codes: 1A1I3H]
+        Participants: 625  Average: $203,243
+        Assets: $127,027,327
         RecordKeeper: UHY, LLP
         Available Investments:
            - BNY MELLON
@@ -60,12 +47,10 @@ NY : NEW YORK
                  : GLOBAL EQUITY EX US INDEX
                  : RUSSELL 2000 INDEX STRATEGY
                  : US LONG GOVT BOND INDEX
-    2021: THE RETIREMENT PLAN FOR EMPLOYEES OF THE UNITED STATES OFFICES OF LLOYDS BANK PLC
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 631
-        Assets: 180454771
-        $/Participant: 285982
+
+    2021
+        Participants: 631  Average: $285,982
+        Assets: $180,454,771
         RecordKeeper: UHY, LLP
         Available Investments:
            - BNY MELLON
@@ -78,12 +63,10 @@ NY : NEW YORK
                  : GLOBAL EQUITY EX US INDEX
                  : RUSSELL SMALL CAP INDEX
                  : US LONG GOVT BOND INDEX
-    2020: THE RETIREMENT PLAN FOR EMPLOYEES OF THE UNITED STATES OFFICES OF LLOYDS BANK PLC
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 632
-        Assets: 185094094
-        $/Participant: 292870
+
+    2020
+        Participants: 632  Average: $292,870
+        Assets: $185,094,094
         RecordKeeper: UHY, LLP
         Available Investments:
            - BNY MELLON
@@ -96,12 +79,10 @@ NY : NEW YORK
                  : GLOBAL EQUITY EX US INDEX
                  : RUSSELL SMALL CAP INDEX
                  : US LONG GOVT BOND INDEX
-    2019: THE RETIREMENT PLAN FOR EMPLOYEES OF THE UNITED STATES OFFICES OF LLOYDS BANK PLC
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 636
-        Assets: 162652716
-        $/Participant: 255743
+
+    2019
+        Participants: 636  Average: $255,743
+        Assets: $162,652,716
         Service Providers:
            - MERCER INVESTMENTS LLC : FIDUCIARY (Investment management fees paid directly by plan)
            - MERCER(US),INC. : ACTUARY (Account maintenance fees | Investment management)
@@ -120,12 +101,10 @@ NY : NEW YORK
                  : GLOBAL EQUITY EX US INDEX
                  : RUSSELL SMALL CAP INDEX
                  : US LONG GOVT BOND INDEX
-    2018: THE RETIREMENT PLAN FOR EMPLOYEES OF THE UNITED STATES OFFICES OF LLOYDS BANK PLC
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 640
-        Assets: 135564814
-        $/Participant: 211820
+
+    2018
+        Participants: 640  Average: $211,820
+        Assets: $135,564,814
         RecordKeeper: BANK OF NEW YORK MELLON
         Available Investments:
            - BNY MELLON
@@ -138,12 +117,10 @@ NY : NEW YORK
                  : GLOBAL EQUITY EX US INDEX
                  : RUSSELL SMALL CAP INDEX
                  : US LONG GOVT BOND INDEX
-    2017: THE RETIREMENT PLAN FOR EMPLOYEES OF THE UNITED STATES OFFICES OF LLOYDS BANK PLC
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 647
-        Assets: 148686042
-        $/Participant: 229808
+
+    2017  [codes: 1A3H]
+        Participants: 647  Average: $229,808
+        Assets: $148,686,042
         RecordKeeper: BANK OF NEW YORK MELLON
         Available Investments:
            - BNY MELLON
@@ -157,10 +134,9 @@ NY : NEW YORK
                  : GLOBAL EQUITY EX US INDEX
                  : RUSSELL SMALL CAP INDEX
                  : US LONG GOVT BOND INDEX
-   [004]
-    2017: BANK OF SCOTLAND RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A3D3H 
+
+  [Pension] BANK OF SCOTLAND RETIREMENT PLAN [004]
+    2017  [codes: 1A3D3H]
         Participants: 0
         RecordKeeper: GREENBERG TRAURIG
         Available Investments:

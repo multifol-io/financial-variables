@@ -1,128 +1,99 @@
-OH : FAIRFIELD
-  CINCINNATI FINANCIAL CORPORATION  310746871
-    2022: CINCINNATI FINANCIAL CORPORATION TAX-QUALIFIED SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2F2G2J2K2O2R2S2T3F3H 
-        Participants: 6035
-        Assets: 892580291
-        $/Participant: 147900
+CINCINNATI FINANCIAL CORPORATION  310746871 -- OH : FAIRFIELD
+  [401(k), Employee Stock Ownership Plan] CINCINNATI FINANCIAL CORPORATION TAX-QUALIFIED SAVINGS PLAN
+    2022  [codes: 2E2F2G2J2K2O2R2S2T3F3H]
+        Participants: 6,035  Average: $147,900
+        Assets: $892,580,291
         RecordKeeper: DELOITTE & TOUCHE LLP
-    2021: CINCINNATI FINANCIAL CORPORATION TAX-QUALIFIED SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2F2G2J2K2O2R2S2T3F3H 
-        Participants: 5895
-        Assets: 1070373658
-        $/Participant: 181573
+
+    2021
+        Participants: 5,895  Average: $181,573
+        Assets: $1,070,373,658
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2020: CINCINNATI FINANCIAL CORPORATION TAX-QUALIFIED SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2F2G2J2K2O2R2S2T3F3H2E 
-        Participants: 5872
-        Assets: 898828368
-        $/Participant: 153070
+
+    2020  [codes: 2F2G2J2K2O2R2S2T3F3H2E]
+        Participants: 5,872  Average: $153,070
+        Assets: $898,828,368
         RecordKeeper: KEATING MUETHING & KLEKAMP PLL
-    2019: CINCINNATI FINANCIAL CORPORATION TAX-QUALIFIED SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2F2E2G2J2K2O2R2S2T3F3H 
-        Participants: 5805
-        Assets: 746007202
-        $/Participant: 128511
+
+    2019  [codes: 2F2E2G2J2K2O2R2S2T3F3H]
+        Participants: 5,805  Average: $128,511
+        Assets: $746,007,202
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2018: CINCINNATI FINANCIAL CORPORATION TAX-QUALIFIED SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2F2G2J2K2O2R2S2T2E3F3H 
-        Participants: 5669
-        Assets: 564488626
-        $/Participant: 99574
+
+    2018  [codes: 2F2G2J2K2O2R2S2T2E3F3H]
+        Participants: 5,669  Average: $99,574
+        Assets: $564,488,626
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2017: CINCINNATI FINANCIAL CORPORATION TAX-QUALIFIED SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2F2G2J2K2O2R2S2T3H 
-        Participants: 5673
-        Assets: 564534844
-        $/Participant: 99512
+
+    2017  [codes: 2E2F2G2J2K2O2R2S2T3H]
+        Participants: 5,673  Average: $99,512
+        Assets: $564,534,844
         RecordKeeper: KEATING MUETHING & KLEKAMP PLL
-   [510]
-    2022: THE CINCINNATI FINANCIAL CORPORATION GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
-        Participants: 5159
-    2021: THE CINCINNATI FINANCIAL CORPORATION GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
-        Participants: 5161
-    2020: THE CINCINNATI FINANCIAL CORPORATION GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
-        Participants: 5263
-    2019: THE CINCINNATI FINANCIAL CORPORATION BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4H4E4L
-        Participants: 4527
-    2018: THE CINCINNATI FINANCIAL CORPORATION GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
-        Participants: 5076
-    2017: THE CINCINNATI FINANCIAL CORPORATION GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
-        Participants: 4978
-   [001]
-    2022: CINCINNATI FINANCIAL CORPORATION RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 1057
-        Assets: 332893332
-        $/Participant: 314941
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] THE CINCINNATI FINANCIAL CORPORATION GROUP BENEFIT PLAN [510]
+    2022  [codes: 4A4B4D4E4F4H4L]
+        Participants: 5,159
+
+    2021
+        Participants: 5,161
+
+    2020
+        Participants: 5,263
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident] THE CINCINNATI FINANCIAL CORPORATION BENEFIT PLAN
+    2019  [codes: 4A4B4D4H4E4L]
+        Participants: 4,527
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] THE CINCINNATI FINANCIAL CORPORATION GROUP BENEFIT PLAN
+    2018  [codes: 4A4B4D4E4F4H4L]
+        Participants: 5,076
+
+    2017
+        Participants: 4,978
+
+  [Pension] CINCINNATI FINANCIAL CORPORATION RETIREMENT PLAN [001]
+    2022  [codes: 1A3H]
+        Participants: 1,057  Average: $314,941
+        Assets: $332,893,332
         Service Providers:
            - WILLIS TOWERS WATSON US LLC :  (Actuarial | Direct payment from the plan)
            - DELOITTE & TOUCHE LLP :  (Accounting(including auditing) | Direct payment from the plan)
-    2021: CINCINNATI FINANCIAL CORPORATION RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 1121
-        Assets: 397372441
-        $/Participant: 354480
+
+    2021
+        Participants: 1,121  Average: $354,480
+        Assets: $397,372,441
         Service Providers:
            - WILLIS TOWERS WATSON US LLC :  (Actuarial | Direct payment from the plan)
            - DELOITTE TAX LLP :  (Accounting(including auditing) | Direct payment from the plan)
            - KEATING MUETHING & KLEKAMP :  (Legal | Direct payment from the plan)
-    2020: CINCINNATI FINANCIAL CORPORATION RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 1211
-        Assets: 357407959
-        $/Participant: 295134
+
+    2020
+        Participants: 1,211  Average: $295,134
+        Assets: $357,407,959
         Service Providers:
            - WILLIS TOWERS WATSON US LLC :  (Actuarial | Direct payment from the plan)
            - DELOITTE TAX LLP :  (Accounting(including auditing) | Direct payment from the plan)
            - KEATING MUETHING & KLEKAMP :  (Legal | Direct payment from the plan)
-    2019: CINCINNATI FINANCIAL CORPORATION RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 1267
-        Assets: 354429673
-        $/Participant: 279739
+
+    2019
+        Participants: 1,267  Average: $279,739
+        Assets: $354,429,673
         Service Providers:
            - WILLIS TOWERS WATSON US LLC :  (Actuarial | Direct payment from the plan)
            - DELOITTE TAX LLP :  (Accounting(including auditing) | Direct payment from the plan)
            - KEATING MUETHING & KLEKAMP :  (Legal | Direct payment from the plan)
-    2018: CINCINNATI FINANCIAL CORPORATION RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 1328
-        Assets: 318446967
-        $/Participant: 239794
+
+    2018
+        Participants: 1,328  Average: $239,794
+        Assets: $318,446,967
         Service Providers:
            - WILLIS TOWERS WATSON US LLC :  (Actuarial | Direct payment from the plan)
            - KEATING MUETHING & KLEKAMP :  (Legal | Direct payment from the plan)
            - DELOITTE TAX LLP :  (Accounting(including auditing) | Direct payment from the plan)
-    2017: CINCINNATI FINANCIAL CORPORATION RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 1409
-        Assets: 360495526
-        $/Participant: 255852
+
+    2017
+        Participants: 1,409  Average: $255,852
+        Assets: $360,495,526
         Service Providers:
            - KEATING MUETHING & KLEKAMP :  (Legal | Direct payment from the plan)
            - DELOITTE TAX LLP :  (Accounting(including auditing) | Direct payment from the plan)

@@ -1,66 +1,53 @@
-MS : CLEVELAND
-  LT CORPORATION  640666466
-    2022: LT CORPORATION & AFFILIATES SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D3H 
-        Participants: 505
-        Assets: 17295402
-        $/Participant: 34248
+LT CORPORATION  640666466 -- MS : CLEVELAND
+  [401(k)] LT CORPORATION & AFFILIATES SAVINGS PLAN
+    2022  [codes: 2E2F2G2J2K2S2T3D3H]
+        Participants: 505  Average: $34,248
+        Assets: $17,295,402
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
-    2021: LT CORPORATION & AFFILIATES SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D3H 
-        Participants: 405
-        Assets: 18797873
-        $/Participant: 46414
+
+    2021
+        Participants: 405  Average: $46,414
+        Assets: $18,797,873
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
-    2020: LT CORPORATION & AFFILIATES SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D3H 
-        Participants: 354
-        Assets: 12756765
-        $/Participant: 36036
+
+    2020
+        Participants: 354  Average: $36,036
+        Assets: $12,756,765
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
-    2019: LT CORPORATION & AFFILIATES SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D3H 
-        Participants: 329
-        Assets: 11253091
-        $/Participant: 34203
+
+    2019
+        Participants: 329  Average: $34,203
+        Assets: $11,253,091
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
-    2018: LT CORPORATION & AFFILIATES SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D3H 
-        Participants: 227
-        Assets: 6881772
-        $/Participant: 30316
+
+    2018
+        Participants: 227  Average: $30,316
+        Assets: $6,881,772
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
-    2017: LT CORPORATION & AFFILIATES SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D3H 
-        Participants: 235
-        Assets: 7212619
-        $/Participant: 30691
+
+    2017
+        Participants: 235  Average: $30,691
+        Assets: $7,212,619
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -83,53 +70,40 @@ MS : CLEVELAND
                  : PRIN REAL ESTATE SECS SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRINCIPAL SMALLCAP SEP ACCT-Z
-   [002]
-    2022: LT CORPORATION & AFFILIATES EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3H3I 
-        Participants: 456
-        Assets: 130739574
-        $/Participant: 286709
+
+  [Employee Stock Ownership Plan] LT CORPORATION & AFFILIATES EMPLOYEE STOCK OWNERSHIP PLAN [002]
+    2022  [codes: 2I2P3H3I]
+        Participants: 456  Average: $286,709
+        Assets: $130,739,574
         Service Providers:
            - REGIONS BANK : TRUSTEE (Trustee(bank, trust company, or similar) | Other fees)
-    2021: LT CORPORATION & AFFILIATES EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3H3I 
-        Participants: 312
-        Assets: 83707290
-        $/Participant: 268292
+
+    2021
+        Participants: 312  Average: $268,292
+        Assets: $83,707,290
         Service Providers:
            - REGIONS BANK : TRUSTEE (Trustee(bank, trust company, or similar) | Other fees)
-    2020: LT CORPORATION & AFFILIATES EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3H3I 
-        Participants: 246
-        Assets: 66975921
-        $/Participant: 272259
-    2019: LT CORPORATION & AFFILIATES EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3H3I 
-        Participants: 204
-        Assets: 54079785
-        $/Participant: 265096
-    2018: LT CORPORATION & AFFILIATES EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3H3I 
-        Participants: 188
-        Assets: 45852736
-        $/Participant: 243897
-    2017: LT CORPORATION AND AFFILIATES EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3H3I 
-        Participants: 188
-        Assets: 39777863
-        $/Participant: 211584
-   [501]
-    2022: LT CORPORATION HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2020
+        Participants: 246  Average: $272,259
+        Assets: $66,975,921
+
+    2019
+        Participants: 204  Average: $265,096
+        Assets: $54,079,785
+
+    2018
+        Participants: 188  Average: $243,897
+        Assets: $45,852,736
+
+  [Employee Stock Ownership Plan] LT CORPORATION AND AFFILIATES EMPLOYEE STOCK OWNERSHIP PLAN
+    2017
+        Participants: 188  Average: $211,584
+        Assets: $39,777,863
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] LT CORPORATION HEALTH AND WELFARE PLAN [501]
+    2022  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
-    2021: LT CORPORATION HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2021
         Participants: 

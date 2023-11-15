@@ -1,11 +1,8 @@
-CA : SAN FRANCISCO
-  NORCAL MUTUAL INSURANCE COMPANY  942301054
-    2021: NORCAL MUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 370
-        Assets: 110937198
-        $/Participant: 299830
+NORCAL MUTUAL INSURANCE COMPANY  942301054 -- CA : SAN FRANCISCO
+  [401(k)] NORCAL MUTUAL INSURANCE COMPANY 401(K) PLAN
+    2021  [codes: 2E2F2G2J2K2S2T3D]
+        Participants: 370  Average: $299,830
+        Assets: $110,937,198
         RecordKeeper: WILSHIRE ASSOCIATES INCORPORATED
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -39,12 +36,10 @@ CA : SAN FRANCISCO
                  : PRIN SMCAP VALUE II SEP ACCT-Z
                  : PRINCIPAL DIV REAL ASSET SA-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
-    2020: NORCAL MUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 426
-        Assets: 110429494
-        $/Participant: 259224
+
+    2020
+        Participants: 426  Average: $259,224
+        Assets: $110,429,494
         RecordKeeper: WILSHIRE ASSOCIATES INCORPORATED
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -78,12 +73,10 @@ CA : SAN FRANCISCO
                  : PRIN SMCAP VALUE II SEP ACCT-Z
                  : PRINCIPAL DIV REAL ASSET SA-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
-    2019: NORCAL MUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 431
-        Assets: 96378517
-        $/Participant: 223616
+
+    2019
+        Participants: 431  Average: $223,616
+        Assets: $96,378,517
         RecordKeeper: WILSHIRE ASSOCIATES INCORPORATED
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -117,12 +110,10 @@ CA : SAN FRANCISCO
                  : PRIN SMCAP VALUE II SEP ACCT-Z
                  : PRINCIPAL DIV REAL ASSET SA-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
-    2018: NORCAL MUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 432
-        Assets: 80775079
-        $/Participant: 186979
+
+    2018  [codes: 2E2F2G2J2K2T3D]
+        Participants: 432  Average: $186,979
+        Assets: $80,775,079
         RecordKeeper: WILSHIRE ASSOCIATES INCORPORATED
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -155,12 +146,10 @@ CA : SAN FRANCISCO
                  : PRIN SMCAP VALUE II SEP ACCT-Z
                  : PRINCIPAL DIV REAL ASSET SA-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
-    2017: NORCAL MUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 417
-        Assets: 91401943
-        $/Participant: 219189
+
+    2017
+        Participants: 417  Average: $219,189
+        Assets: $91,401,943
         RecordKeeper: WILSHIRE ASSOCIATES INCORPORATED
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -193,35 +182,27 @@ CA : SAN FRANCISCO
                  : PRIN SMCAP VALUE II SEP ACCT-Z
                  : PRINCIPAL DIV REAL ASSET SA-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
-   [501]
-    2021: NORCAL MUTUAL INSURANCE COMPANY EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability] NORCAL MUTUAL INSURANCE COMPANY EMPLOYEE BENEFIT PLAN [501]
+    2021  [codes: 4A4B4D4E4H4Q]
         Participants: 
-    2020: NORCAL MUTUAL INSURANCE COMPANY EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+    2020
         Participants: 
-    2019: NORCAL MUTUAL INSURANCE COMPANY EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4Q
+
+    2019  [codes: 4A4B4D4E4H4L4Q]
         Participants: 
-    2018: NORCAL MUTUAL INSURANCE COMPANY EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4Q
+
+    2018
         Participants: 
-    2017: NORCAL MUTUAL INSURANCE COMPANY EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4Q
+
+    2017
         Participants: 
-AL : BIRMINGHAM
-   [002]
-    2022: NORCAL MUTUAL INSURANCE COMPANY PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I3D 
-        Participants: 241
-        Assets: 36087963
-        $/Participant: 149742
+ -- AL : BIRMINGHAM
+  [Pension] NORCAL MUTUAL INSURANCE COMPANY PENSION PLAN [002]
+    2022  [codes: 1A1I3D]
+        Participants: 241  Average: $149,742
+        Assets: $36,087,963
         RecordKeeper: PRINCIPAL GLOBAL INVESTORS LLC
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -236,13 +217,10 @@ AL : BIRMINGHAM
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRINCIPAL OVERSEAS SEP ACCT-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
-PA : MECHANICSBURG
-    2021: NORCAL MUTUAL INSURANCE COMPANY PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I3D 
-        Participants: 266
-        Assets: 63184284
-        $/Participant: 237534
+ -- PA : MECHANICSBURG
+    2021
+        Participants: 266  Average: $237,534
+        Assets: $63,184,284
         RecordKeeper: PRINCIPAL GLOBAL INVESTORS LLC
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -257,12 +235,10 @@ PA : MECHANICSBURG
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRINCIPAL OVERSEAS SEP ACCT-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
-    2020: NORCAL MUTUAL INSURANCE COMPANY PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I3D 
-        Participants: 290
-        Assets: 66684934
-        $/Participant: 229948
+
+    2020
+        Participants: 290  Average: $229,948
+        Assets: $66,684,934
         RecordKeeper: PRINCIPAL FINANCIAL ADVISORS, INC.
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -279,12 +255,10 @@ PA : MECHANICSBURG
                  : PRIN SMCAP S&P 600 INDEX SA-Z
                  : PRINCIPAL OVERSEAS SEP ACCT-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
-    2019: NORCAL MUTUAL INSURANCE COMPANY PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I3D 
-        Participants: 303
-        Assets: 63251124
-        $/Participant: 208749
+
+    2019
+        Participants: 303  Average: $208,749
+        Assets: $63,251,124
         RecordKeeper: BROWN SCHULTZ SHERIDAN &
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -300,12 +274,10 @@ PA : MECHANICSBURG
                  : PRIN SMCAP S&P 600 INDEX SA-I3
                  : PRIN U.S. PROPERTY SA-I5
                  : PRINCIPAL OVERSEAS SA-I2
-    2018: NORCAL MUTUAL INSURANCE COMPANY PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 324
-        Assets: 57678701
-        $/Participant: 178020
+
+    2018  [codes: 1A1I]
+        Participants: 324  Average: $178,020
+        Assets: $57,678,701
         RecordKeeper: PRINCIPAL FINANCIAL ADVISOR INC
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -320,12 +292,10 @@ PA : MECHANICSBURG
                  : PRIN SMCAP S&P 600 INDEX SA-I3
                  : PRIN U.S. PROPERTY SA-I5
                  : PRINCIPAL OVERSEAS SA-I2
-    2017: NORCAL MUTUAL INSURANCE COMPANY PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 361
-        Assets: 65473566
-        $/Participant: 181367
+
+    2017
+        Participants: 361  Average: $181,367
+        Assets: $65,473,566
         RecordKeeper: PRINCIPAL FINANCIAL ADVISORS, INC
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -340,25 +310,19 @@ PA : MECHANICSBURG
                  : PRIN SMCAP S&P 600 INDEX SA-I3
                  : PRIN U.S. PROPERTY SA-I5
                  : PRINCIPAL OVERSEAS SA-I2
-CA : SAN FRANCISCO
-   [503]
-    2021: NORCAL GROUP SEVERANCE PAY PROGRAM
-        Benefit Category: Severance
-        Codes:  4I
+ -- CA : SAN FRANCISCO
+  [Severance] NORCAL GROUP SEVERANCE PAY PROGRAM [503]
+    2021  [codes: 4I]
         Participants: 
-    2020: NORCAL GROUP SEVERANCE PAY PROGRAM
-        Benefit Category: Severance
-        Codes:  4I
+
+    2020
         Participants: 
-    2019: NORCAL GROUP SEVERANCE PAY PROGRAM
-        Benefit Category: Severance
-        Codes:  4I
+
+    2019
         Participants: 
-    2018: NORCAL GROUP SEVERANCE PAY PROGRAM
-        Benefit Category: Severance
-        Codes:  4I
+
+    2018
         Participants: 
-    2017: NORCAL GROUP SEVERANCE PAY PROGRAM
-        Benefit Category: Severance
-        Codes:  4I
+
+    2017
         Participants: 

@@ -1,45 +1,34 @@
-TX : DALLAS
-  HR PEROT, PEROT ASSOCIATES  751138655
-   [333]
-    2019: PEROT EMPLOYEE RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2K3D 
-        Participants: 120
-        Assets: 46984222
-        $/Participant: 391535
+HR PEROT, PEROT ASSOCIATES  751138655 -- TX : DALLAS
+  [401(k)] PEROT EMPLOYEE RETIREMENT SAVINGS PLAN [333]
+    2019  [codes: 2E2G2J2K3D]
+        Participants: 120  Average: $391,535
+        Assets: $46,984,222
         RecordKeeper: THE VANGUARD GROUP, INC.
         Available Investments:
            - THE VANGUARD GROUP, INC
                  : VFTC RETIREMENT SAVINGS TRUST III
-    2018: PEROT EMPLOYEE RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2K3D 
-        Participants: 119
-        Assets: 39187022
-        $/Participant: 329302
+
+    2018
+        Participants: 119  Average: $329,302
+        Assets: $39,187,022
         RecordKeeper: THE VANGUARD GROUP, INC.
         Available Investments:
            - THE VANGUARD GROUP, INC
                  : VFTC RETIREMENT SAVINGS TRUST III
-    2017: PEROT EMPLOYEE RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2K3D 
-        Participants: 121
-        Assets: 42327777
-        $/Participant: 349816
+
+    2017
+        Participants: 121  Average: $349,816
+        Assets: $42,327,777
         Available Investments:
            - THE VANGUARD GROUP, INC
                  : VFTC RETIREMENT SAVINGS TRUST III
-   [501]
-    2019: PEROT WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident] PEROT WELFARE BENEFIT PLAN [501]
+    2019  [codes: 4A4B4D4E4H4L]
         Participants: 
-    2018: PEROT WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+    2018
         Participants: 
-    2017: PEROT WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2017  [codes: 4A4B4D4E4F4H4L]
         Participants: 

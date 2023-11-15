@@ -1,11 +1,8 @@
-MA : HOLYOKE
-  ISO NEW ENGLAND INC.  043372500
-    2022: ISO NEW ENGLAND INC. SUPPLEMENTAL RETIREMENT AND SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2S2T3D2R 
-        Participants: 762
-        Assets: 231082925
-        $/Participant: 303258
+ISO NEW ENGLAND INC.  043372500 -- MA : HOLYOKE
+  [401(k)] ISO NEW ENGLAND INC. SUPPLEMENTAL RETIREMENT AND SAVINGS PLAN
+    2022  [codes: 2F2G2J2K2S2T3D2R]
+        Participants: 762  Average: $303,258
+        Assets: $231,082,925
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
@@ -15,87 +12,67 @@ MA : HOLYOKE
                  : MFS MID CAP VALUE CT
            - WILMINGTON TRUST, N.A
                  : MFS LRG CAP VALUE CT
-    2021: ISO NEW ENGLAND INC. SUPPLEMENTAL RETIREMENT AND SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2S2T3D2R 
-        Participants: 725
-        Assets: 290501017
-        $/Participant: 400691
+
+    2021
+        Participants: 725  Average: $400,691
+        Assets: $290,501,017
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-    2020: ISO NEW ENGLAND INC. SUPPLEMENTAL RETIREMENT AND SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2S2T3D2R 
-        Participants: 713
-        Assets: 258912256
-        $/Participant: 363130
+
+    2020
+        Participants: 713  Average: $363,130
+        Assets: $258,912,256
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-    2019: ISO NEW ENGLAND INC. SUPPLEMENTAL RETIREMENT AND SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2R2S2T3D 
-        Participants: 718
-        Assets: 208542305
-        $/Participant: 290448
+
+    2019  [codes: 2F2G2J2K2R2S2T3D]
+        Participants: 718  Average: $290,448
+        Assets: $208,542,305
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-    2018: ISO NEW ENGLAND INC. SUPPLEMENTAL RETIREMENT AND SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2R2S2T3D 
-        Participants: 696
-        Assets: 164081664
-        $/Participant: 235749
+
+    2018
+        Participants: 696  Average: $235,749
+        Assets: $164,081,664
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-    2017: ISO NEW ENGLAND INC. SUPPLEMENTAL RETIREMENT AND SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2R2S2T3D 
-        Participants: 672
-        Assets: 167221354
-        $/Participant: 248841
+
+    2017
+        Participants: 672  Average: $248,841
+        Assets: $167,221,354
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-   [501]
-    2022: ISO NEW ENGLAND, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
-        Participants: 
-        Assets: 23686583
-        $/Participant: 
-    2021: ISO NEW ENGLAND, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
-        Participants: 
-        Assets: 28382920
-        $/Participant: 
-    2020: ISO NEW ENGLAND, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
-        Participants: 
-        Assets: 25876182
-        $/Participant: 
-    2019: ISO NEW ENGLAND, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
-        Participants: 
-        Assets: 22967420
-        $/Participant: 
-    2018: ISO NEW ENGLAND, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
-        Participants: 
-        Assets: 19231258
-        $/Participant: 
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident] ISO NEW ENGLAND, INC. HEALTH AND WELFARE PLAN [501]
+    2022  [codes: 4A4B4D4E4H4L]
+        Participants:   Average: $
+        Assets: $23,686,583
+
+    2021
+        Participants:   Average: $
+        Assets: $28,382,920
+
+    2020
+        Participants:   Average: $
+        Assets: $25,876,182
+
+    2019
+        Participants:   Average: $
+        Assets: $22,967,420
+
+    2018
+        Participants:   Average: $
+        Assets: $19,231,258
         Service Providers:
            - STATE STREET BANK AND TRUST COMPANY : TRUSTEE/CUSTODIAN (Trustee(directed))
            - U.S. BANK : TRUSTEE/CUSTODIAN (Trustee(directed))
@@ -108,12 +85,10 @@ MA : HOLYOKE
                  : TUCKERMAN US REIT INDX NL QP CTF
                  : U.S. AGGREGATE BOND INDX NL QP CTF
                  : U.S. TIPS INDX NL QP CTF
-    2017: ISO NEW ENGLAND, INC. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
-        Participants: 
-        Assets: 20221117
-        $/Participant: 
+
+    2017
+        Participants:   Average: $
+        Assets: $20,221,117
         Service Providers:
            - STATE STREET BANK AND TRUST COMPANY : TRUSTEE/CUSTODIAN (Trustee(directed))
         Available Investments:
@@ -125,83 +100,64 @@ MA : HOLYOKE
                  : TUCKERMAN US REIT INDX NL QP CTF
                  : U.S. AGGREGATE BOND INDX NL QP CTF
                  : U.S. TIPS INDX NL QP CTF
-   [502]
-    2022: ISO NEW ENGLAND INC. FLEXIBLE BENEFITS PROGRAM
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] ISO NEW ENGLAND INC. FLEXIBLE BENEFITS PROGRAM [502]
+    2022  [codes: 4A]
         Participants: 
-    2021: ISO NEW ENGLAND INC. FLEXIBLE BENEFITS PROGRAM
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2021
         Participants: 
-    2020: ISO NEW ENGLAND INC. FLEXIBLE BENEFITS PROGRAM
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2020
         Participants: 
-    2019: ISO NEW ENGLAND INC. FLEXIBLE BENEFITS PROGRAM
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2019
         Participants: 
-    2018: ISO NEW ENGLAND INC. FLEXIBLE BENEFITS PROGRAM
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2018
         Participants: 
-    2017: ISO NEW ENGLAND INC. FLEXIBLE BENEFITS PROGRAM
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2017
         Participants: 
-   [503]
-    2019: ISO NEW ENGLAND HEALTH REIMBURSEMENT ARRANGEMENT
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] ISO NEW ENGLAND HEALTH REIMBURSEMENT ARRANGEMENT [503]
+    2019
         Participants: 
-    2018: ISO NEW ENGLAND HEALTH REIMBURSEMENT ARRANGEMENT
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2018
         Participants: 
-    2017: ISO NEW ENGLAND HEALTH REIMBURSEMENT ARRANGEMENT
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2017
         Participants: 
-   [005]
-    2022: ISO NEW ENGLAND INC. MASTER TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 197748287
-        $/Participant: 
+
+  [Other] ISO NEW ENGLAND INC. MASTER TRUST [005]
+    2022  [codes: ]
+        Participants:   Average: $
+        Assets: $197,748,287
         Service Providers:
            - SLC MANAGEMENT :  (Investment management | Investment management fees paid directly by plan)
-    2021: ISO NEW ENGLAND INC. MASTER TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 243725272
-        $/Participant: 
+
+    2021
+        Participants:   Average: $
+        Assets: $243,725,272
         Service Providers:
            - SLC MANAGEMENT :  (Investment management | Investment management fees paid directly by plan)
-    2020: ISO NEW ENGLAND INC. MASTER TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 230661712
-        $/Participant: 
+
+    2020
+        Participants:   Average: $
+        Assets: $230,661,712
         Service Providers:
            - SLC MANAGEMENT :  (Investment management | Investment management fees paid directly by plan)
-    2019: ISO NEW ENGLAND INC. MASTER TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 196518499
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $196,518,499
         Service Providers:
            - RYAN LABS :  (Investment management | Investment management fees paid directly by plan)
-    2018: ISO NEW ENGLAND INC. MASTER TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 169485525
-        $/Participant: 
+
+    2018
+        Participants:   Average: $
+        Assets: $169,485,525
         Service Providers:
            - RYAN LABS :  (Investment management | Investment management fees paid directly by plan)
         Available Investments:
@@ -211,12 +167,10 @@ MA : HOLYOKE
                  : S&P 500 (R) FLAGSHIP NL FUND
                  : S&P MIDCAP 400 (R) INDEX NL FUND
                  : U.S. REIT INDEX NL FUND
-    2017: ISO NEW ENGLAND INC. MASTER TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 158025106
-        $/Participant: 
+
+    2017
+        Participants:   Average: $
+        Assets: $158,025,106
         Service Providers:
            - RYAN LABS :  (Investment management | Investment management fees paid directly by plan)
         Available Investments:
@@ -227,77 +181,61 @@ MA : HOLYOKE
                  : S&P 500 (R) FLAGSHIP NL FUND
                  : S&P MIDCAP 400 (R) INDEX NL FUND
                  : TUCKERMAN U.S. REIT INDEX NL FUND
-   [002]
-    2022: ISO NEW ENGLAND INC. RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 600
-        Assets: 195040187
-        $/Participant: 325066
+
+  [Pension] ISO NEW ENGLAND INC. RETIREMENT PLAN [002]
+    2022  [codes: 1A]
+        Participants: 600  Average: $325,066
+        Assets: $195,040,187
         Available Investments:
            - US BANK
                  : ISO NEW ENGLAND INC.
-    2021: ISO NEW ENGLAND INC. RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 620
-        Assets: 240072576
-        $/Participant: 387213
+
+    2021
+        Participants: 620  Average: $387,213
+        Assets: $240,072,576
         Available Investments:
            - US BANK
                  : ISO NEW ENGLAND INC.
-    2020: ISO NEW ENGLAND INC. RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 642
-        Assets: 227519287
-        $/Participant: 354391
+
+    2020
+        Participants: 642  Average: $354,391
+        Assets: $227,519,287
         Available Investments:
            - US BANK
                  : ISO NEW ENGLAND INC.
-    2019: ISO NEW ENGLAND INC. RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 649
-        Assets: 193863026
-        $/Participant: 298710
+
+    2019
+        Participants: 649  Average: $298,710
+        Assets: $193,863,026
         Available Investments:
            - US BANK
                  : ISO NEW ENGLAND INC.
-    2018: ISO NEW ENGLAND INC. RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 652
-        Assets: 167388506
-        $/Participant: 256730
+
+    2018
+        Participants: 652  Average: $256,730
+        Assets: $167,388,506
         Available Investments:
            - STATE STREET BANK & TRUST COMPANY
                  : ISO NEW ENGLAND INC.
            - US BANK
                  : ISO NEW ENGLAND INC.
-    2017: ISO NEW ENGLAND INC. RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 658
-        Assets: 155633474
-        $/Participant: 236525
+
+    2017
+        Participants: 658  Average: $236,525
+        Assets: $155,633,474
         Available Investments:
            - STATE STREET BANK & TRUST COMPANY
                  : ISO NEW ENGLAND INC.
-   [505]
-    2022: SEVERANCE PAY PLAN FOR NON-BARGAINING UNIT EMPLOYEES
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] SEVERANCE PAY PLAN FOR NON-BARGAINING UNIT EMPLOYEES [505]
+    2022  [codes: 4I]
         Participants: 
-    2021: SEVERANCE PAY PLAN FOR NON-BARGAINING UNIT EMPLOYEES
-        Benefit Category: Severance
-        Codes:  4I
+
+    2021
         Participants: 
-    2020: SEVERANCE PAY PLAN FOR NON-BARGAINING UNIT EMPLOYEES
-        Benefit Category: Severance
-        Codes:  4I
+
+    2020
         Participants: 556
-    2019: SEVERANCE PAY PLAN FOR NON-BARGAINING UNIT EMPLOYEES
-        Benefit Category: Severance
-        Codes:  4I
+
+    2019
         Participants: 560

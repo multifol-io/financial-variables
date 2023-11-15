@@ -1,124 +1,87 @@
-TN : COLUMBIA
-  TENNESSEE FARM BUREAU FEDERATION  620380840
-   [002]
-    2022: TENNESSEE FARM BUREAU FEDERATION RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2H2J2K2T3F3H 
-        Participants: 103
-        Assets: 12205281
-        $/Participant: 118497
-    2021: TENNESSEE FARM BUREAU FEDERATION RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2H2J2K2T3F3H 
-        Participants: 106
-        Assets: 14151309
-        $/Participant: 133502
-    2020: TENNESSEE FARM BUREAU FEDERATION RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2H2J2K2T3F3H 
-        Participants: 108
-        Assets: 13300099
-        $/Participant: 123149
-    2019: TENNESSEE FARM BUREAU FEDERATION RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2H2J2K2T3F3H 
-        Participants: 113
-        Assets: 13346582
-        $/Participant: 118111
-    2018: TENNESSEE FARM BUREAU FEDERATION RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2H2J2K2T3F3H 
-        Participants: 111
-        Assets: 11255267
-        $/Participant: 101398
-    2017: TENNESSEE FARM BUREAU FEDERATION RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2H2J2K2T3F3H 
+TENNESSEE FARM BUREAU FEDERATION  620380840 -- TN : COLUMBIA
+  [401(k)] TENNESSEE FARM BUREAU FEDERATION RETIREMENT SAVINGS PLAN [002]
+    2022  [codes: 2E2F2H2J2K2T3F3H]
+        Participants: 103  Average: $118,497
+        Assets: $12,205,281
+
+    2021
+        Participants: 106  Average: $133,502
+        Assets: $14,151,309
+
+    2020
+        Participants: 108  Average: $123,149
+        Assets: $13,300,099
+
+    2019
+        Participants: 113  Average: $118,111
+        Assets: $13,346,582
+
+    2018
+        Participants: 111  Average: $101,398
+        Assets: $11,255,267
+
+    2017
         Participants: 161
-   [520]
-    2022: TENNESSEE FARM BUREAU FEDERATION MEDICAL PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+
+  [Healthcare, Dental] TENNESSEE FARM BUREAU FEDERATION MEDICAL PLAN [520]
+    2022  [codes: 4A4D]
         Participants: 124
-    2021: TENNESSEE FARM BUREAU FEDERATION MEDICAL PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+
+    2021
         Participants: 122
-    2020: TENNESSEE FARM BUREAU FEDERATION MEDICAL PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+
+    2020
         Participants: 131
-    2019: TENNESSEE FARM BUREAU FEDERATION MEDICAL PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+
+    2019
         Participants: 133
-    2018: TENNESSEE FARM BUREAU FEDERATION MEDICAL PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+
+    2018
         Participants: 136
-    2017: TENNESSEE FARM BUREAU FEDERATION MEDICAL PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+
+    2017
         Participants: 141
-   [501]
-    2022: WELFARE PLAN OF TENNESSEE FARM BUREAU ET AL
-        Benefit Category: Life insurance, Long-term disability
-        Codes:  4B4H
-        Participants: 1564
-    2021: WELFARE PLAN OF TENNESSEE FARM BUREAU ET AL
-        Benefit Category: Life insurance, Long-term disability
-        Codes:  4B4H
-        Participants: 1503
-    2020: WELFARE PLAN OF TENNESSEE FARM BUREAU ET AL
-        Benefit Category: Life insurance, Long-term disability
-        Codes:  4B4H
-        Participants: 1500
-    2019: WELFARE PLAN OF TENNESSEE FARM BUREAU ET AL
-        Benefit Category: Life insurance, Long-term disability
-        Codes:  4B4H
-        Participants: 1480
-    2018: WELFARE PLAN OF TENNESSEE FARM BUREAU ET AL
-        Benefit Category: Life insurance, Long-term disability
-        Codes:  4B4H
-        Participants: 1422
-    2017: WELFARE PLAN OF TENNESSEE FARM BUREAU ET AL
-        Benefit Category: Life insurance, Long-term disability
-        Codes:  4B4H
-        Participants: 1380
-   [001]
-    2022: RETIREMENT PLAN OF THE TENNESSEE FARM BUREAU FEDER
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 155
-        Assets: 50791835
-        $/Participant: 327689
-    2021: RETIREMENT PLAN OF THE TENNESSEE FARM BUREAU FEDER
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 155
-        Assets: 58999850
-        $/Participant: 380644
-    2020: RETIREMENT PLAN OF THE TENNESSEE FARM BUREAU FEDER
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 161
-        Assets: 53553890
-        $/Participant: 332632
-    2019: RETIREMENT PLAN OF THE TENNESSEE FARM BUREAU FEDER
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 162
-        Assets: 46048778
-        $/Participant: 284251
-    2018: RETIREMENT PLAN OF THE TENNESSEE FARM BUREAU FEDER
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 162
-        Assets: 39992701
-        $/Participant: 246868
-    2017: RETIREMENT PLAN OF THE TENNESSEE FARM BUREAU FEDER
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 169
-        Assets: 42120798
-        $/Participant: 249235
+
+  [Life insurance, Long-term disability] WELFARE PLAN OF TENNESSEE FARM BUREAU ET AL [501]
+    2022  [codes: 4B4H]
+        Participants: 1,564
+
+    2021
+        Participants: 1,503
+
+    2020
+        Participants: 1,500
+
+    2019
+        Participants: 1,480
+
+    2018
+        Participants: 1,422
+
+    2017
+        Participants: 1,380
+
+  [Pension] RETIREMENT PLAN OF THE TENNESSEE FARM BUREAU FEDER [001]
+    2022  [codes: 1A3H]
+        Participants: 155  Average: $327,689
+        Assets: $50,791,835
+
+    2021
+        Participants: 155  Average: $380,644
+        Assets: $58,999,850
+
+    2020
+        Participants: 161  Average: $332,632
+        Assets: $53,553,890
+
+    2019
+        Participants: 162  Average: $284,251
+        Assets: $46,048,778
+
+    2018
+        Participants: 162  Average: $246,868
+        Assets: $39,992,701
+
+    2017
+        Participants: 169  Average: $249,235
+        Assets: $42,120,798

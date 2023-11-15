@@ -1,81 +1,61 @@
-AZ : PHOENIX
-  MUTUAL INSURANCE COMPANY OF ARIZONA  860312181
-   [001]
-    2022: MICA PROFIT SHARING/401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
+MUTUAL INSURANCE COMPANY OF ARIZONA  860312181 -- AZ : PHOENIX
+  [401(k)] MICA PROFIT SHARING/401(K) PLAN [001]
+    2022  [codes: 2E2F2G2J2K2T3D]
         Participants: 94
-    2021: MICA PROFIT SHARING/401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
+
+    2021
         Participants: 93
-    2020: MICA PROFIT SHARING/401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
+
+    2020
         Participants: 96
-    2019: MICA PROFIT SHARING/401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
+
+    2019
         Participants: 99
-    2018: MICA PROFIT SHARING/401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
+
+    2018
         Participants: 104
-    2017: MICA PROFIT SHARING/401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D3H 
+
+    2017  [codes: 2E2F2G2J2K2T3D3H]
         Participants: 107
-   [002]
-    2022: MICA RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 149
-        Assets: 37360714
-        $/Participant: 250743
+
+  [Pension] MICA RETIREMENT PLAN [002]
+    2022  [codes: 1A]
+        Participants: 149  Average: $250,743
+        Assets: $37,360,714
         Service Providers:
            - VANGUARD : INVEST. MANAGER & TRUSTE (Trustee(bank, trust company, or similar) | Investment management fees paid directly by plan)
-    2021: MICA RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 146
-        Assets: 45953304
-        $/Participant: 314748
+
+    2021
+        Participants: 146  Average: $314,748
+        Assets: $45,953,304
         Service Providers:
            - VANGUARD : INVEST. MANAGER & TRUSTE (Trustee(bank, trust company, or similar) | Investment management fees paid directly by plan)
-    2020: MICA RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 149
-        Assets: 45000653
-        $/Participant: 302017
+
+    2020
+        Participants: 149  Average: $302,017
+        Assets: $45,000,653
         Service Providers:
            - VANGUARD : INVEST. MANAGER & TRUSTE (Trustee(bank, trust company, or similar) | Investment management fees paid directly by plan)
-    2019: MICA RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 144
-        Assets: 42230124
-        $/Participant: 293264
+
+    2019
+        Participants: 144  Average: $293,264
+        Assets: $42,230,124
         Service Providers:
            - VANGUARD : INVEST. MANAGER & TRUSTEE (Trustee(bank, trust company, or similar) | Investment management fees paid directly by plan)
-    2018: MICA RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 141
-        Assets: 38015751
-        $/Participant: 269615
+
+    2018
+        Participants: 141  Average: $269,615
+        Assets: $38,015,751
         Service Providers:
            - VANGUARD : INVEST. MANAGER & TRUSTEE (Trustee(bank, trust company, or similar) | Investment management fees paid directly by plan)
         Available Investments:
            - NORTHERN TRUST
                  : CF SSGA BALANCED GROWTH INDEX SL FD
                  : COLTV SHORT TERM INVT FD
-    2017: MICA RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 143
-        Assets: 39176181
-        $/Participant: 273959
+
+    2017
+        Participants: 143  Average: $273,959
+        Assets: $39,176,181
         Service Providers:
            - STATE STREET GLOBAL ADVISORS : INVESTMENT MANAGERS (Investment management fees paid directly by plan | Custodial(other than securities) | Custodial(securities) | Investment management fees paid indirectly by plan)
         Available Investments:

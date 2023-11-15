@@ -1,12 +1,8 @@
-IL : MARQUETTE HEIGHTS
-  OTTER TAIL CORPORATION  270383995
-   [011]
-    2022: OTTER TAIL CORPORATION RETIREMENT SAVINGS
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 
-        Participants: 3596
-        Assets: 323152263
-        $/Participant: 89864
+OTTER TAIL CORPORATION  270383995 -- IL : MARQUETTE HEIGHTS
+  [401(k)] OTTER TAIL CORPORATION RETIREMENT SAVINGS [011]
+    2022  [codes: 2E2F2G2J2K2S2T]
+        Participants: 3,596  Average: $89,864
+        Assets: $323,152,263
         RecordKeeper: MERCER
         Available Investments:
            - INVESCO NATIONAL TRUST CO
@@ -27,12 +23,10 @@ IL : MARQUETTE HEIGHTS
                  : SSGA TARGET RET INCOME NL K FD
            - STATE STREET GLOBAL ADVISORS
                  : SSGA TARGET RET 2065 NL K FUND
-    2021: OTTER TAIL CORPORATION RETIREMENT SAVINGS
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 
-        Participants: 3638
-        Assets: 385486351
-        $/Participant: 105961
+
+    2021
+        Participants: 3,638  Average: $105,961
+        Assets: $385,486,351
         RecordKeeper: WELLS FARGO BANK, N.A.
         Available Investments:
            - INVESCO NATIONAL TRUST CO
@@ -53,13 +47,11 @@ IL : MARQUETTE HEIGHTS
                  : SSGA TARGET RET INCOME NL K FD
            - STATE STREET GLOBAL ADVISORS
                  : SSGA TARGET RET 2065 NL K FUND
-ND : FARGO
-    2020: OTTER TAIL CORPORATION RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 
-        Participants: 3269
-        Assets: 341522308
-        $/Participant: 104473
+ -- ND : FARGO
+  [401(k)] OTTER TAIL CORPORATION RETIREMENT SAVINGS PLAN
+    2020
+        Participants: 3,269  Average: $104,473
+        Assets: $341,522,308
         RecordKeeper: MERCER INVESTMENTS LLC
         Available Investments:
            - INVESCO NATIONAL TRUST CO
@@ -81,12 +73,10 @@ ND : FARGO
                  : SSGA TARGET RET INCOME NL K FD
            - WELLS FARGO
                  : WELLS FARGO STABLE RETRN N FD
-    2019: OTTER TAIL CORPORATION RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 
-        Participants: 3442
-        Assets: 297042282
-        $/Participant: 86299
+
+    2019
+        Participants: 3,442  Average: $86,299
+        Assets: $297,042,282
         RecordKeeper: EIDE BAILLY LLP
         Available Investments:
            - RELIANCE TRUST COMPANY
@@ -106,12 +96,10 @@ ND : FARGO
                  : TARGET RETIREMENT INCOME NL SF CL C
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE RETURN FUND N
-    2018: OTTER TAIL CORPORATION RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 
-        Participants: 3516
-        Assets: 246633316
-        $/Participant: 70145
+
+    2018
+        Participants: 3,516  Average: $70,145
+        Assets: $246,633,316
         RecordKeeper: EIDE BAILLY LLP
         Available Investments:
            - RELIANCE TRUST COMPANY
@@ -131,12 +119,10 @@ ND : FARGO
                  : TARGET RETIREMENT INCOME NL SF CL C
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE RETURN FUND N
-    2017: OTTER TAIL CORPORATION RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 
-        Participants: 3337
-        Assets: 269830456
-        $/Participant: 80860
+
+    2017
+        Participants: 3,337  Average: $80,860
+        Assets: $269,830,456
         RecordKeeper: EIDE BAILLY LLP
         Available Investments:
            - RELIANCE TRUST COMPANY
@@ -157,182 +143,140 @@ ND : FARGO
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE RETURN FUND N
                  : WELLS FARGO STABLE RETURN FUND N25
-   [012]
-    2022: OTTER TAIL CORP EMPLOYEE STOCK OWNERSHIP
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2G2H2I2O2T3I 
-        Participants: 1134
-        Assets: 44353279
-        $/Participant: 39112
-    2021: OTTER TAIL CORP EMPLOYEE STOCK OWNERSHIP
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2G2H2I2O2T3I 
-        Participants: 1111
-        Assets: 58360679
-        $/Participant: 52529
-    2020: OTTER TAIL CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2G2I2O2T 
-        Participants: 1079
-        Assets: 39558500
-        $/Participant: 36662
+
+  [Employee Stock Ownership Plan] OTTER TAIL CORP EMPLOYEE STOCK OWNERSHIP [012]
+    2022  [codes: 2E2G2H2I2O2T3I]
+        Participants: 1,134  Average: $39,112
+        Assets: $44,353,279
+
+    2021
+        Participants: 1,111  Average: $52,529
+        Assets: $58,360,679
+
+  [Employee Stock Ownership Plan] OTTER TAIL CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+    2020  [codes: 2E2G2I2O2T]
+        Participants: 1,079  Average: $36,662
+        Assets: $39,558,500
         Service Providers:
            - WELLS FARGO BANK, N.A. : RECORDKEEPER/BOOKKEEPER ()
-    2019: OTTER TAIL CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2O2T 
-        Participants: 998
-        Assets: 49352215
-        $/Participant: 49451
+
+    2019  [codes: 2E2O2T]
+        Participants: 998  Average: $49,451
+        Assets: $49,352,215
         RecordKeeper: WELLS FARGO BANK, N.A.
-    2018: OTTER TAIL CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2O2T 
-        Participants: 991
-        Assets: 54860858
-        $/Participant: 55359
+
+    2018
+        Participants: 991  Average: $55,359
+        Assets: $54,860,858
         RecordKeeper: WELLS FARGO BANK, N.A.
-    2017: OTTER TAIL CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2O2T 
-        Participants: 982
-        Assets: 53100148
-        $/Participant: 54073
+
+    2017
+        Participants: 982  Average: $54,073
+        Assets: $53,100,148
         RecordKeeper: WELLS FARGO BANK, N.A.
-   [501]
-    2022: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN [501]
+    2022  [codes: 4A4B4D4E4F4H4L]
         Participants: 
-    2021: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2021
         Participants: 
-    2020: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2020
         Participants: 
-    2019: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2019
         Participants: 
-    2018: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2018
         Participants: 
-    2017: OTTER TAIL CORPORATION COMPREHENSIVE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2017
         Participants: 
-   [506]
-    2022: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Travel accident
-        Codes:  4A4B4L
+
+  [Healthcare, Life insurance, Travel accident] OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN [506]
+    2022  [codes: 4A4B4L]
         Participants: 
-    2021: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Travel accident
-        Codes:  4A4B4L
+
+    2021
         Participants: 
-    2020: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Travel accident
-        Codes:  4A4B4L
+
+    2020
         Participants: 
-    2019: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Travel accident
-        Codes:  4A4B4L
+
+    2019
         Participants: 
-    2018: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Travel accident
-        Codes:  4A4B4L
+
+    2018
         Participants: 
-    2017: OTTER TAIL CORPORATION RETIREE WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B
+
+    2017  [codes: 4A4B]
         Participants: 
-MN : FERGUS FALLS
-   [006]
-    2022: OTTER TAIL CORPORATION PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 1284
-        Assets: 315223261
-        $/Participant: 245500
+ -- MN : FERGUS FALLS
+  [Pension] OTTER TAIL CORPORATION PENSION PLAN [006]
+    2022  [codes: 1A3H]
+        Participants: 1,284  Average: $245,500
+        Assets: $315,223,261
         RecordKeeper: PENSION BENEFIT GUARANTY CORP
         Available Investments:
            - SEI TRUST COMPANY
                  : SEI ENERGY DEBT
-    2021: OTTER TAIL CORPORATION PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 1302
-        Assets: 408613241
-        $/Participant: 313835
+
+    2021
+        Participants: 1,302  Average: $313,835
+        Assets: $408,613,241
         RecordKeeper: EIDE BAILLY LLP
         Available Investments:
            - SEI TRUST COMPANY
                  : SEI ENERGY DEBT
-    2020: OTTER TAIL CORPORATION PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 1319
-        Assets: 371996114
-        $/Participant: 282028
+
+    2020
+        Participants: 1,319  Average: $282,028
+        Assets: $371,996,114
         Service Providers:
            - SEI INVESTMENTS COMPANY :  (Investment management | Investment management fees paid directly by plan | Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Other services | Investment management fees paid indirectly by plan | Trustee(discretionary) | Float revenue)
            - MERCER :  (Actuarial)
            - EIDE BAILLY LLP :  (Accounting(including auditing))
-    2019: OTTER TAIL CORPORATION PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 1336
-        Assets: 342652072
-        $/Participant: 256476
+
+    2019
+        Participants: 1,336  Average: $256,476
+        Assets: $342,652,072
         Service Providers:
            - EIDE BAILLY LLP :  (Accounting(including auditing))
            - MERCER :  (Actuarial)
            - SEI INVESTMENTS COMPANY :  (Investment management | Investment management fees paid directly by plan | Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Other services | Investment management fees paid indirectly by plan | Trustee(discretionary) | Float revenue)
-    2018: OTTER TAIL CORPORATION PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 1389
-        Assets: 293487127
-        $/Participant: 211293
+
+    2018
+        Participants: 1,389  Average: $211,293
+        Assets: $293,487,127
         Service Providers:
            - SEI INVESTMENTS COMPANY :  (Investment management | Investment management fees paid directly by plan | Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Other services | Investment management fees paid indirectly by plan | Trustee(discretionary) | Float revenue)
            - MERCER :  (Actuarial)
            - EIDE BAILLY LLP :  (Accounting(including auditing))
-    2017: OTTER TAIL CORPORATION PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 1408
-        Assets: 307022482
-        $/Participant: 218055
+
+    2017
+        Participants: 1,408  Average: $218,055
+        Assets: $307,022,482
         Service Providers:
            - EIDE BAILLY LLP :  (Accounting(including auditing))
            - MERCER :  (Actuarial)
            - SEI INVESTMENTS COMPANY :  (Investment management | Investment management fees paid directly by plan | Custodial(securities) | Trustee(bank, trust company, or similar) | Trustee(directed) | Other services | Investment management fees paid indirectly by plan | Trustee(discretionary) | Float revenue)
-   [502]
-    2022: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
-        Benefit Category: Travel accident
-        Codes:  4L
-        Participants: 2485
-    2021: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
-        Benefit Category: Travel accident
-        Codes:  4L
-        Participants: 2533
-    2020: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
-        Benefit Category: Travel accident
-        Codes:  4L
-        Participants: 2222
-    2019: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
-        Benefit Category: Travel accident
-        Codes:  4L
-        Participants: 2360
-    2018: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
-        Benefit Category: Travel accident
-        Codes:  4L
-        Participants: 2434
-    2017: OTTER TAIL CORPORATION SPECIAL RISK INSURANCE
-        Benefit Category: Travel accident
-        Codes:  4L
-        Participants: 2229
+
+  [Travel accident] OTTER TAIL CORPORATION SPECIAL RISK INSURANCE [502]
+    2022  [codes: 4L]
+        Participants: 2,485
+
+    2021
+        Participants: 2,533
+
+    2020
+        Participants: 2,222
+
+    2019
+        Participants: 2,360
+
+    2018
+        Participants: 2,434
+
+    2017
+        Participants: 2,229

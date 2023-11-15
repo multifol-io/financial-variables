@@ -1,11 +1,8 @@
-CA : BREA
-  KIRKHILL AIRCRAFT PARTS CO.  952770000
-    2021: PROPONENT 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 339
-        Assets: 14238409
-        $/Participant: 42001
+KIRKHILL AIRCRAFT PARTS CO.  952770000 -- CA : BREA
+  [401(k)] PROPONENT 401(K) RETIREMENT SAVINGS PLAN
+    2021  [codes: 2E2F2G2J2K2T3D]
+        Participants: 339  Average: $42,001
+        Assets: $14,238,409
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -34,12 +31,10 @@ CA : BREA
                  : PRIN SMCAP S&P 600 INDEX SA-R6
                  : PRIN U.S. PROPERTY SEP ACCT-R6
                  : PRINCIPAL SMALLCAP SEP ACCT-R6
-    2020: PROPONENT 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 337
-        Assets: 14269154
-        $/Participant: 42341
+
+    2020
+        Participants: 337  Average: $42,341
+        Assets: $14,269,154
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -68,12 +63,10 @@ CA : BREA
                  : PRIN SMCAP S&P 600 INDEX SA-R6
                  : PRIN U.S. PROPERTY SEP ACCT-R6
                  : PRINCIPAL SMALLCAP SEP ACCT-R6
-    2019: PROPONENT 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 352
-        Assets: 10517087
-        $/Participant: 29878
+
+    2019
+        Participants: 352  Average: $29,878
+        Assets: $10,517,087
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -102,12 +95,10 @@ CA : BREA
                  : PRIN SMCAP S&P 600 INDEX SA-R6
                  : PRIN U.S. PROPERTY SEP ACCT-R6
                  : PRINCIPAL SMALLCAP SEP ACCT-R6
-    2018: PROPONENT 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D3H 
-        Participants: 333
-        Assets: 10874975
-        $/Participant: 32657
+
+    2018  [codes: 2E2F2G2J2K2T3D3H]
+        Participants: 333  Average: $32,657
+        Assets: $10,874,975
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -136,12 +127,10 @@ CA : BREA
                  : PRIN SMCAP S&P 600 INDEX SA-R6
                  : PRIN U.S. PROPERTY SEP ACCT-R6
                  : PRINCIPAL SMALLCAP SEP ACCT-R6
-    2017: PROPONENT 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D3H 
-        Participants: 308
-        Assets: 10711235
-        $/Participant: 34776
+
+    2017
+        Participants: 308  Average: $34,776
+        Assets: $10,711,235
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -171,63 +160,48 @@ CA : BREA
                  : PRIN SMCAP S&P 600 INDEX SA-R6
                  : PRIN U.S. PROPERTY SEP ACCT-R6
                  : PRINCIPAL SMALLCAP SEP ACCT-R6
-   [002]
-    2021: PROPONENT EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H3I 
-        Participants: 400
-        Assets: 221965585
-        $/Participant: 554913
-    2020: PROPONENT EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H3I 
-        Participants: 396
-        Assets: 205148375
-        $/Participant: 518051
-    2019: PROPONENT EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3I 
-        Participants: 396
-        Assets: 176573459
-        $/Participant: 445892
-    2018: PROPONENT EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H3I 
-        Participants: 371
-        Assets: 213586823
-        $/Participant: 575705
-    2017: PROPONENT EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H3I 
-        Participants: 357
-        Assets: 193820747
-        $/Participant: 542915
-   [501]
-    2022: PROPONENT EMPLOYEE HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+  [Employee Stock Ownership Plan] PROPONENT EMPLOYEE STOCK OWNERSHIP PLAN [002]
+    2021  [codes: 2I2P2Q3H3I]
+        Participants: 400  Average: $554,913
+        Assets: $221,965,585
+
+    2020
+        Participants: 396  Average: $518,051
+        Assets: $205,148,375
+
+    2019  [codes: 2I2P2Q3I]
+        Participants: 396  Average: $445,892
+        Assets: $176,573,459
+
+    2018  [codes: 2I2P2Q3H3I]
+        Participants: 371  Average: $575,705
+        Assets: $213,586,823
+
+    2017
+        Participants: 357  Average: $542,915
+        Assets: $193,820,747
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] PROPONENT EMPLOYEE HEALTH BENEFITS PLAN [501]
+    2022  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
-    2021: KAPCO EMPLOYEE MEDICAL BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] KAPCO EMPLOYEE MEDICAL BENEFITS PLAN
+    2021
         Participants: 
-    2020: KAPCO EMPLOYEE MEDICAL BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2020
         Participants: 
-    2019: KAPCO EMPLOYEE MEDICAL BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2019
         Participants: 
-    2018: KAPCO EMPLOYEE MEDICAL BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2018
         Participants: 294
         Service Providers:
            - UNION SECURITY INSURANCE COMPANY : SERVICE PROVIDER (Claims processing)
-    2017: KAPCO EMPLOYEE MEDICAL BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2017
         Participants: 354
         Service Providers:
            -  : SERVICE PROVIDER (Claims processing)

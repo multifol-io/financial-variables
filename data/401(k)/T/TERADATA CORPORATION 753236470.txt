@@ -1,11 +1,8 @@
-CA : SAN DIEGO
-  TERADATA CORPORATION  753236470
-    2022: TERADATA SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T3H 
-        Participants: 4241
-        Assets: 967551318
-        $/Participant: 228142
+TERADATA CORPORATION  753236470 -- CA : SAN DIEGO
+  [401(k)] TERADATA SAVINGS PLAN
+    2022  [codes: 2E2F2G2J2K2R2S2T3H]
+        Participants: 4,241  Average: $228,142
+        Assets: $967,551,318
         RecordKeeper: MOSS ADAM LLP
         Available Investments:
            - ALLIANCEBERNSTEIN, LP
@@ -23,12 +20,10 @@ CA : SAN DIEGO
                  : NT COLL DAILY S&P 500 INDEX FD
                  : NT COLL RUSS 2000 INDEX FD NL
                  : NT TIPS 1-10YR INDEX FD NL
-    2021: TERADATA SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T3H 
-        Participants: 4321
-        Assets: 1240763052
-        $/Participant: 287147
+
+    2021
+        Participants: 4,321  Average: $287,147
+        Assets: $1,240,763,052
         RecordKeeper: THOMPSON HINE
         Available Investments:
            - ALLIANCEBERNSTEIN, LP
@@ -46,12 +41,10 @@ CA : SAN DIEGO
                  : NTGI-QM COLL DAILY RUSS 2000 NL
                  : NTGI-QM COLL DAILY S&P 500 EQ NL TI
                  : NTGI-QM TIPS INDEX FUND NL
-    2020: TERADATA SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T 
-        Participants: 4546
-        Assets: 1161753390
-        $/Participant: 255555
+
+    2020  [codes: 2E2F2G2J2K2R2S2T]
+        Participants: 4,546  Average: $255,555
+        Assets: $1,161,753,390
         RecordKeeper: THOMPSON HINE
         Available Investments:
            - ALLIANCEBERNSTEIN, LP
@@ -67,35 +60,10 @@ CA : SAN DIEGO
                  : NTGI-QM COLL DAILY RUSS 2000 NL
                  : NTGI-QM COLL DAILY S&P 500 EQ NL TI
                  : NTGI-QM TIPS INDEX FUND NL
-    2019: TERADATA SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T 
-        Participants: 4988
-        Assets: 1128284851
-        $/Participant: 226199
-        RecordKeeper: THOMPSON HINE
-        Available Investments:
-           - ALLIANCEBERNSTEIN, LP
-                 : AB GLOBAL RE SEC INDEX COLL TRUST
-           - FIDELITY MANAGEMENT TRUST COMPANY
-                 : FID MGD INC PORT
-                 : FIDELITY CONTRAFUND-COMMINGLED POOL
-           - JPMORGAN CHASE BANK, N.A.
-                 : JPMCB DIVERSIFIED COMMERCIAL PROPER
-           - NORTHERN TRUST GLOBAL INVESTMENTS
-                 : NT COLL ACWI EX-US FUND-NON LENDING
-                 : NT SHORT TERM GOVT BOND INDEX L
-                 : NTGI-QM COLL DAILY AGGR BOND NL TIE
-                 : NTGI-QM COLL DAILY RUSS 2000 NL
-                 : NTGI-QM COLL DAILY S&P 500 EQ NL TI
-                 : NTGI-QM RUSSELL 3000 INDEX NL
-                 : NTGI-QM TIPS INDEX FUND NL
-    2018: TERADATA SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T 
-        Participants: 5241
-        Assets: 1022638225
-        $/Participant: 195122
+
+    2019
+        Participants: 4,988  Average: $226,199
+        Assets: $1,128,284,851
         RecordKeeper: THOMPSON HINE
         Available Investments:
            - ALLIANCEBERNSTEIN, LP
@@ -113,13 +81,31 @@ CA : SAN DIEGO
                  : NTGI-QM COLL DAILY S&P 500 EQ NL TI
                  : NTGI-QM RUSSELL 3000 INDEX NL
                  : NTGI-QM TIPS INDEX FUND NL
-OH : DAYTON
-    2017: TERADATA SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T 
-        Participants: 5238
-        Assets: 1106494418
-        $/Participant: 211243
+
+    2018
+        Participants: 5,241  Average: $195,122
+        Assets: $1,022,638,225
+        RecordKeeper: THOMPSON HINE
+        Available Investments:
+           - ALLIANCEBERNSTEIN, LP
+                 : AB GLOBAL RE SEC INDEX COLL TRUST
+           - FIDELITY MANAGEMENT TRUST COMPANY
+                 : FID MGD INC PORT
+                 : FIDELITY CONTRAFUND-COMMINGLED POOL
+           - JPMORGAN CHASE BANK, N.A.
+                 : JPMCB DIVERSIFIED COMMERCIAL PROPER
+           - NORTHERN TRUST GLOBAL INVESTMENTS
+                 : NT COLL ACWI EX-US FUND-NON LENDING
+                 : NT SHORT TERM GOVT BOND INDEX L
+                 : NTGI-QM COLL DAILY AGGR BOND NL TIE
+                 : NTGI-QM COLL DAILY RUSS 2000 NL
+                 : NTGI-QM COLL DAILY S&P 500 EQ NL TI
+                 : NTGI-QM RUSSELL 3000 INDEX NL
+                 : NTGI-QM TIPS INDEX FUND NL
+ -- OH : DAYTON
+    2017
+        Participants: 5,238  Average: $211,243
+        Assets: $1,106,494,418
         RecordKeeper: THOMPSON HINE
         Available Investments:
            - ALLIANCEBERNSTEIN, LP
@@ -140,30 +126,22 @@ OH : DAYTON
                  : NTGI-QM TIPS INDEX FUND NL
            - NORTHERN TRUST GOLOBAL INVESTMENTS
                  : NT SHORT TERM GOVT BOND INDEX L
-CA : SAN DIEGO
-   [502]
-    2022: TERADATA CORP. GROUP BENEFITS FOR ACTIVE ASSOCIATES
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
-        Codes:  4A4B4D4E4F4G4H4I4L4Q
+ -- CA : SAN DIEGO
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident] TERADATA CORP. GROUP BENEFITS FOR ACTIVE ASSOCIATES [502]
+    2022  [codes: 4A4B4D4E4F4G4H4I4L4Q]
         Participants: 
-    2021: TERADATA CORP. GROUP BENEFITS FOR ACTIVE ASSOCIATES
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
-        Codes:  4A4B4D4E4F4G4H4I4L4Q
+
+    2021
         Participants: 
-    2020: TERADATA CORP. GROUP BENEFITS FOR ACTIVE ASSOCIATES
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
-        Codes:  4A4B4D4E4F4G4H4I4L4Q
+
+    2020
         Participants: 
-    2019: TERADATA CORP. GROUP BENEFITS FOR ACTIVE ASSOCIATES
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
+
+    2019  [codes: 4A4B4D4E4F4G4H4L4Q]
         Participants: 
-    2018: TERADATA CORP. GROUP BENEFITS FOR ACTIVE ASSOCIATES
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
+
+    2018
         Participants: 
-OH : DAYTON
-    2017: TERADATA CORP. GROUP BENEFITS FOR ACTIVE ASSOCIATES
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
+ -- OH : DAYTON
+    2017
         Participants: 

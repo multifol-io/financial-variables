@@ -1,43 +1,35 @@
-IL : WOODRIDGE
-  GERBER PLUMBING FIXTURES LLC  571143272
-   [501]
-    2022: EMPLOYEE GROUP INSURANCE BENEFIT
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+GERBER PLUMBING FIXTURES LLC  571143272 -- IL : WOODRIDGE
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability] EMPLOYEE GROUP INSURANCE BENEFIT [501]
+    2022  [codes: 4A4B4D4E4F4H4Q]
         Participants: 
-    2021: EMPLOYEE GROUP INSURANCE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability] EMPLOYEE GROUP INSURANCE BENEFIT PLAN
+    2021  [codes: 4A4B4D4E4H4Q]
         Participants: 
-    2020: EMPLOYEE GROUP INSURANCE BENEFIT
-        Benefit Category: Healthcare, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4A4D4E4F4H4Q
+
+  [Healthcare, Dental, Vision, Short-term disability, Long-term disability] EMPLOYEE GROUP INSURANCE BENEFIT
+    2020  [codes: 4A4A4D4E4F4H4Q]
         Participants: 
-   [006]
-    2021: GERBER CONSOLIDATED PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1B1I1H 
+
+  [Pension] GERBER CONSOLIDATED PENSION PLAN [006]
+    2021  [codes: 1B1I1H]
         Participants: 0
         Service Providers:
            - RSM US LLP : 0 ()
            - FINDLEY : ACTUARIES ()
            - WELLS FARGO : TRUSTEE (Trustee(bank, trust company, or similar))
-    2020: GERBER CONSOLIDATED PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1B1I 
-        Participants: 465
-        Assets: 3022534
-        $/Participant: 6500
+
+    2020  [codes: 1B1I]
+        Participants: 465  Average: $6,500
+        Assets: $3,022,534
         Service Providers:
            - WELLS FARGO : TRUSTEE (Trustee(bank, trust company, or similar))
            - FINDLEY : ACTUARIES (Actuarial)
            - RSM US LLP : AUDITORS (Accounting(including auditing))
-    2019: GERBER CONSOLIDATED PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1B1I 
-        Participants: 477
-        Assets: 3118171
-        $/Participant: 6537
+
+    2019
+        Participants: 477  Average: $6,537
+        Assets: $3,118,171
         Service Providers:
            - RSM US LLP : AUDITORS (Accounting(including auditing))
            - FINDLEY : ACTUARIES (Actuarial)
@@ -57,12 +49,10 @@ IL : WOODRIDGE
                  : WF/TROWE PRICE INST EQ INC MGD CIT
                  : WF/TROWE PRICE INST LCG MGD CIT F
                  : WF/VOYA LARGE CAP GROWTH CIT F
-    2018: GERBER CONSOLIDATED PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1B1I 
-        Participants: 485
-        Assets: 2588057
-        $/Participant: 5336
+
+    2018
+        Participants: 485  Average: $5,336
+        Assets: $2,588,057
         Service Providers:
            - FINDLEY : ACTUARIES (Actuarial)
            - RSM US LLP : AUDITORS (Accounting(including auditing))
@@ -82,12 +72,10 @@ IL : WOODRIDGE
                  : WF/TROWE PRICE INST EQ INC MGD CIT
                  : WF/TROWE PRICE INST LCG MGD CIT F
                  : WF/VOYA LARGE CAP GROWTH CIT F
-    2017: GERBER CONSOLIDATED PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1B1I 
-        Participants: 1
-        Assets: 2860706
-        $/Participant: 2860706
+
+    2017
+        Participants: 1  Average: $2,860,706
+        Assets: $2,860,706
         Service Providers:
            - WELLS FARGO : TRUSTEE ()
            - RSM US LLP : AUDITORS (Accounting(including auditing))

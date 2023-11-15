@@ -1,12 +1,8 @@
-CT : STAMFORD
-  NATWEST MARKETS SECURITIES INC.  133172275
-   [002]
-    2022: NATWEST MARKETS RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2T3H 
-        Participants: 1620
-        Assets: 494810467
-        $/Participant: 305438
+NATWEST MARKETS SECURITIES INC.  133172275 -- CT : STAMFORD
+  [401(k)] NATWEST MARKETS RETIREMENT SAVINGS PLAN [002]
+    2022  [codes: 2E2F2G2J2K2R2T3H]
+        Participants: 1,620  Average: $305,438
+        Assets: $494,810,467
         RecordKeeper: EMPOWER FINANCIAL SERVICES, INC.
         Available Investments:
            - BLACKROCK
@@ -25,12 +21,10 @@ CT : STAMFORD
                  : SMARTRETIREMENT 2060
            - PRUDENTIAL
                  : PRUDENTIAL CORE PLUS BOND FUND 5
-    2021: NATWEST MARKETS RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2T3H 
-        Participants: 1701
-        Assets: 641099917
-        $/Participant: 376895
+
+    2021
+        Participants: 1,701  Average: $376,895
+        Assets: $641,099,917
         RecordKeeper: GWFS EQUITIES INC
         Available Investments:
            - BLACKROCK
@@ -49,12 +43,10 @@ CT : STAMFORD
                  : SMARTRETIREMENT 2060
            - PRUDENTIAL
                  : PRUDENTIAL CORE PLUS BOND FUND 5
-    2020: NATWEST MARKETS RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2T3H 
-        Participants: 1816
-        Assets: 601830322
-        $/Participant: 331404
+
+    2020
+        Participants: 1,816  Average: $331,404
+        Assets: $601,830,322
         RecordKeeper: GWFS EQUITIES INC
         Available Investments:
            - BLACKROCK
@@ -73,29 +65,23 @@ CT : STAMFORD
                  : SMARTRETIREMENT 2060
            - PRUDENTIAL
                  : PRUDENTIAL CORE PLUS BOND FUND 5
-   [520]
-    2022: NATWEST MARKETS HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] NATWEST MARKETS HEALTH AND WELFARE PLAN [520]
+    2022  [codes: 4A4B4D4E4F4G4H4L]
         Participants: 
-    2021: NATWEST MARKETS HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
+
+    2021  [codes: 4A4B4D4E4F4G4H4L4Q]
         Participants: 
-    2020: NATWEST MARKETS HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
+
+    2020
         Participants: 
-   [530]
-    2022: NATWEST MARKETS U.S. SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] NATWEST MARKETS U.S. SEVERANCE PAY PLAN [530]
+    2022  [codes: 4I]
         Participants: 
-    2021: NATWEST MARKETS U.S. SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2021
         Participants: 
-    2020: NATWEST MARKETS U.S. SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2020
         Participants: 

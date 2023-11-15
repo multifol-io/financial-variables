@@ -1,8 +1,7 @@
-PA : NEWTOWN
-  FIRST NATIONAL BANK AND TRUST COMPANY  230916895
+FIRST NATIONAL BANK AND TRUST COMPANY  230916895 -- PA : NEWTOWN
+  [401(k)]FIRST NATIONAL BANK OF NEWTOWN SAVINGS/INCENTIVE PLAN
    [002]
-    2022: FIRST NATIONAL BANK OF NEWTOWN SAVINGS/INCENTIVE PLAN
-        Benefit Category: 401(k)
+    2022
         Codes: 2E2F2G2J3D 
         Participants: 164
         Assets: 32587977
@@ -12,8 +11,9 @@ PA : NEWTOWN
            - INVESCO CAPITAL MANAGEMENT LLC :  (Investment management | Investment management fees paid indirectly by plan)
            - VAN ECK ASSOCIATES CORPORATION :  (Investment management | Investment management fees paid indirectly by plan)
            - FIDELITY & RESEARCH COMPANY :  (Investment management | Investment management fees paid indirectly by plan)
-    2021: FIRST NATIONAL BANK OF NEWTOWN SAVINGS/INCENTIVE PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]FIRST NATIONAL BANK OF NEWTOWN SAVINGS/INCENTIVE PLAN
+    2021
         Codes: 2E2F2G2J3D 
         Participants: 161
         Assets: 40337689
@@ -23,8 +23,9 @@ PA : NEWTOWN
            - INVESCO CAPITAL MANAGEMENT LLC :  (Investment management | Investment management fees paid indirectly by plan)
            - VAN ECK ASSOCIATES CORPORATION :  (Investment management | Investment management fees paid indirectly by plan)
            - FIDELITY & RESEARCH COMPANY :  (Investment management | Investment management fees paid indirectly by plan)
-    2020: FIRST NATIONAL BANK OF NEWTOWN SAVINGS/INCENTIVE PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]FIRST NATIONAL BANK OF NEWTOWN SAVINGS/INCENTIVE PLAN
+    2020
         Codes: 2E2F2G2J3D 
         Participants: 166
         Assets: 35534188
@@ -36,8 +37,9 @@ PA : NEWTOWN
            - FIDELITY & RESEARCH COMPANY :  (Investment management | Investment management fees paid indirectly by plan)
            - J.P. MORGAN INVESTMENT INC. :  (Investment management | Investment management fees paid indirectly by plan)
            - NUVEEN FUND ADVISORS, LLC. :  (Investment management | Investment management fees paid indirectly by plan)
-    2019: FIRST NATIONAL BANK OF NEWTOWN SAVINGS/INCENTIVE PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]FIRST NATIONAL BANK OF NEWTOWN SAVINGS/INCENTIVE PLAN
+    2019
         Codes: 2E2F2G2J2K3D 
         Participants: 176
         Assets: 30331903
@@ -60,8 +62,9 @@ PA : NEWTOWN
            - VAN ECK ASSOCIATES CORPORATION :  (Investment management | Investment management fees paid indirectly by plan)
            - INVESCO CAPITAL MANAGEMENT LLC :  (Investment management | Investment management fees paid indirectly by plan)
            - TEMPLETON INVESTMENT COUNSEL LLC :  (Investment management | Investment management fees paid indirectly by plan)
-    2018: FIRST NATIONAL BANK OF NEWTOWN SAVINGS/INCENTIVE PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]FIRST NATIONAL BANK OF NEWTOWN SAVINGS/INCENTIVE PLAN
+    2018
         Codes: 2E2F2G2J2K3D 
         Participants: 174
         Assets: 25101138
@@ -75,64 +78,76 @@ PA : NEWTOWN
            - INVESCO CAPITAL MANAGEMENT LLC :  (Investment management | Investment management fees paid indirectly by plan)
            - TEMPLETON INVESTMENT COUNSEL LLC :  (Investment management | Investment management fees paid indirectly by plan)
            - NUVEEN FUND ADVISORS, LLC. :  (Investment management | Investment management fees paid indirectly by plan)
-    2017: FIRST NATIONAL BANK OF NEWTOWN SAVINGS/INCENTIVE PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]FIRST NATIONAL BANK OF NEWTOWN SAVINGS/INCENTIVE PLAN
+    2017
         Codes: 2E2F2G2J2K3D 
         Participants: 174
         Assets: 27788978
         $/Participant: 159706
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident]THE FIRST NATIONAL BANK AND TRUST COMPANY HEALTH AND WELFARE PLAN
    [501]
-    2022: THE FIRST NATIONAL BANK AND TRUST COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
+    2022
         Codes:  4A4B4D4E4F4H4L4Q
         Participants: 
-    2021: THE FIRST NATIONAL BANK AND TRUST COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability]THE FIRST NATIONAL BANK AND TRUST COMPANY HEALTH AND WELFARE PLAN
+    2021
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
-    2020: THE FIRST NATIONAL BANK AND TRUST COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
+
+  [Healthcare, Life insurance, Dental, Short-term disability, Long-term disability]THE FIRST NATIONAL BANK AND TRUST COMPANY HEALTH AND WELFARE PLAN
+    2020
         Codes:  4A4B4D4F4H4Q
         Participants: 
-    2019: THE FIRST NATIONAL BANK AND TRUST COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
+
+  [Healthcare, Life insurance, Dental, Short-term disability, Long-term disability]THE FIRST NATIONAL BANK AND TRUST COMPANY HEALTH AND WELFARE PLAN
+    2019
         Codes:  4A4B4D4F4H4Q
         Participants: 
-    2018: THE FIRST NATIONAL BANK AND TRUST COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
+
+  [Healthcare, Life insurance, Dental, Short-term disability, Long-term disability]THE FIRST NATIONAL BANK AND TRUST COMPANY HEALTH AND WELFARE PLAN
+    2018
         Codes:  4A4B4D4F4H4Q
         Participants: 
-    2017: THE FIRST NATIONAL BANK AND TRUST COMPANY HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
+
+  [Healthcare, Life insurance, Dental, Short-term disability, Long-term disability]THE FIRST NATIONAL BANK AND TRUST COMPANY HEALTH AND WELFARE PLAN
+    2017
         Codes:  4A4B4F4H4D4Q
         Participants: 
+
+  [Pension]THE FIRST NATIONAL BANK AND TRUST COMPANY OF NEWTOWN PENSION PLAN
    [001]
-    2021: THE FIRST NATIONAL BANK AND TRUST COMPANY OF NEWTOWN PENSION PLAN
-        Benefit Category: Pension
+    2021
         Codes: 1A 
         Participants: 148
         Assets: 44221547
         $/Participant: 298794
-    2020: THE FIRST NATIONAL BANK AND TRUST COMPANY OF NEWTOWN PENSION PLAN
-        Benefit Category: Pension
+
+  [Pension]THE FIRST NATIONAL BANK AND TRUST COMPANY OF NEWTOWN PENSION PLAN
+    2020
         Codes: 1A 
         Participants: 157
         Assets: 43789987
         $/Participant: 278917
-    2019: THE FIRST NATIONAL BANK AND TRUST COMPANY OF NEWTOWN PENSION PLAN
-        Benefit Category: Pension
+
+  [Pension]THE FIRST NATIONAL BANK AND TRUST COMPANY OF NEWTOWN PENSION PLAN
+    2019
         Codes: 1A 
         Participants: 163
         Assets: 33642932
         $/Participant: 206398
-    2018: THE FIRST NATIONAL BANK AND TRUST COMPANY OF NEWTOWN PENSION PLAN
-        Benefit Category: Pension
+
+  [Pension]THE FIRST NATIONAL BANK AND TRUST COMPANY OF NEWTOWN PENSION PLAN
+    2018
         Codes: 1A 
         Participants: 166
         Assets: 31934838
         $/Participant: 192378
-    2017: THE FIRST NATIONAL BANK AND TRUST COMPANY OF NEWTOWN PENSION PLAN
-        Benefit Category: Pension
+
+  [Pension]THE FIRST NATIONAL BANK AND TRUST COMPANY OF NEWTOWN PENSION PLAN
+    2017
         Codes: 1A 
         Participants: 160
         Assets: 28363820

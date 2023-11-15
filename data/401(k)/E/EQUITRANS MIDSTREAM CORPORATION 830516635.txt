@@ -1,12 +1,8 @@
-PA : CANONSBURG
-  EQUITRANS MIDSTREAM CORPORATION  830516635
-   [201]
-    2022: EQUITRANS MIDSTREAM CORPORATION EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 870
-        Assets: 197394968
-        $/Participant: 226890
+EQUITRANS MIDSTREAM CORPORATION  830516635 -- PA : CANONSBURG
+  [401(k)] EQUITRANS MIDSTREAM CORPORATION EMPLOYEE SAVINGS PLAN [201]
+    2022  [codes: 2E2F2G2J2K2S2T3D]
+        Participants: 870  Average: $226,890
+        Assets: $197,394,968
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIAM TRUST COMPANY
@@ -27,12 +23,10 @@ PA : CANONSBURG
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
                  : MIP II CL 1
-    2021: EQUITRANS MIDSTREAM CORPORATION EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 846
-        Assets: 228636341
-        $/Participant: 270255
+
+    2021
+        Participants: 846  Average: $270,255
+        Assets: $228,636,341
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIAM TRUST COMPANY
@@ -51,12 +45,10 @@ PA : CANONSBURG
                  : FIAM BLEND TD INC Q
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
-    2020: EQUITRANS MIDSTREAM CORPORATION EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 847
-        Assets: 184508493
-        $/Participant: 217837
+
+    2020
+        Participants: 847  Average: $217,837
+        Assets: $184,508,493
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIAM TRUST COMPANY
@@ -74,12 +66,10 @@ PA : CANONSBURG
                  : FIAM BLEND TD INC Q
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
-    2019: EQUITRANS MIDSTREAM CORPORATION EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 848
-        Assets: 149959337
-        $/Participant: 176838
+
+    2019
+        Participants: 848  Average: $176,838
+        Assets: $149,959,337
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIAM TRUST COMPANY
@@ -98,13 +88,10 @@ PA : CANONSBURG
                  : FIAM BLEND TD INC Q
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
-PA : PITTSBURGH
-    2018: EQUITRANS MIDSTREAM CORPORATION EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J3D2K2S2T 
-        Participants: 768
-        Assets: 113874115
-        $/Participant: 148273
+ -- PA : PITTSBURGH
+    2018  [codes: 2E2F2G2J3D2K2S2T]
+        Participants: 768  Average: $148,273
+        Assets: $113,874,115
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIAM TRUST COMPANY
@@ -123,74 +110,56 @@ PA : PITTSBURGH
                  : FIAM BLEND TD INC Q
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 1
-PA : CANONSBURG
-   [501]
-    2022: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR UNFUNDED BENEFITS
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
-        Codes:  4A4B4D4E4H4I4L4Q
+ -- PA : CANONSBURG
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident] EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR UNFUNDED BENEFITS [501]
+    2022  [codes: 4A4B4D4E4H4I4L4Q]
         Participants: 
-    2021: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR UNFUNDED BENEFITS
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
-        Codes:  4A4B4D4E4H4I4L4Q
+
+    2021
         Participants: 
-    2020: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR UNFUNDED BENEFITS
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
-        Codes:  4A4B4D4E4H4I4L4Q
+
+    2020
         Participants: 
-    2019: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR UNFUNDED BENEFITS
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
-        Codes:  4A4B4D4E4H4I4L4Q
+
+    2019
         Participants: 
-PA : PITTSBURGH
-    2018: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR UNFUNDED BENEFITS
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Severance, Travel accident
-        Codes:  4A4B4D4E4H4I4L4Q
+ -- PA : PITTSBURGH
+    2018
         Participants: 
-PA : CANONSBURG
-   [502]
-    2022: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR RETIREES
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E
-        Participants: 
-        Assets: 6539877
-        $/Participant: 
+ -- PA : CANONSBURG
+  [Healthcare, Life insurance, Dental, Vision] EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR RETIREES [502]
+    2022  [codes: 4A4B4D4E]
+        Participants:   Average: $
+        Assets: $6,539,877
         Service Providers:
            - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - TOWERS WATSON DELAWARE INC : ACTUARY (Actuarial | Direct payment from the plan)
-    2021: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR RETIREES
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E
-        Participants: 
-        Assets: 5452305
-        $/Participant: 
+
+    2021
+        Participants:   Average: $
+        Assets: $5,452,305
         Service Providers:
            - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - TOWERS WATSON DELAWARE INC : ACTUARY (Actuarial | Direct payment from the plan)
-    2020: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR RETIREES
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E
-        Participants: 
-        Assets: 4495295
-        $/Participant: 
+
+    2020
+        Participants:   Average: $
+        Assets: $4,495,295
         Service Providers:
            - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - TOWERS WATSON DELAWARE INC : ACTUARY (Actuarial | Direct payment from the plan)
            - XEROX CORPORATION : CONTRACT ADMNSTRTR (Contract Administrator | Direct payment from the plan)
-    2019: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR RETIREES
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E
-        Participants: 
-        Assets: 3517655
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $3,517,655
         Service Providers:
            - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - XEROX CORPORATION : CONTRACT ADMNSTRTR (Contract Administrator | Direct payment from the plan)
-   [503]
-    2019: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR FUNDED BENEFITS
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E
+
+  [Healthcare, Life insurance, Dental, Vision] EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR FUNDED BENEFITS [503]
+    2019
         Participants: 
-    2018: EQUITRANS MIDSTREAM CORPORATION COMPREHENSIVE WELFARE PLAN FOR FUNDED BENEFITS
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E
+
+    2018
         Participants: 

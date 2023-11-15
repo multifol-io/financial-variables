@@ -1,93 +1,73 @@
-MS : JACKSON
-  SOUTHERN FARM BUREAU LIFE INSURANCE COMPANY  640283583
-   [503]
-    2019: SOUTHERN FARM BUREAU LIFE INS. CO. FLEXIBLE BENEFIT CAFETERIA PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+SOUTHERN FARM BUREAU LIFE INSURANCE COMPANY  640283583 -- MS : JACKSON
+  [Healthcare] SOUTHERN FARM BUREAU LIFE INS. CO. FLEXIBLE BENEFIT CAFETERIA PLAN [503]
+    2019  [codes: 4A]
         Participants: 181
-    2018: SOUTHERN FARM BUREAU LIFE INS. CO. FLEXIBLE BENEFIT CAFETERIA PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2018
         Participants: 176
-    2017: SOUTHERN FARM BUREAU GROUP HEALTH AND MEDICAL INSURANCE PLAN FOR EMPLOYEES
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+
+  [Healthcare, Dental] SOUTHERN FARM BUREAU GROUP HEALTH AND MEDICAL INSURANCE PLAN FOR EMPLOYEES
+    2017  [codes: 4A4D]
         Participants: 629
         Service Providers:
            - DELTA DENTAL INSURANCE COMPANY : CONTACT ADMINISTRATOR (Claims processing)
            - MEA CARES : CONTRACT ADMINISTRATOR (Employee(plan))
            - UMR : CONTRACT ADMINISTRATOR (Claims processing)
            - AMERICAN FIDELITY ASSURANCE COMPANY : CONTRACT ADMINISTRATOR (Custodial(securities))
-   [525]
-    2022: SOUTHERN FARM BUREAU GROUP HEALTH AND MEDICAL INSURANCE PLAN FOR EMPLOYEES
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+ [525]
+    2022  [codes: 4A4D4E]
         Participants: 623
-    2021: SOUTHERN FARM BUREAU GROUP HEALTH AND MEDICAL INSURANCE PLAN FOR EMPLOYEES
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2021
         Participants: 662
-    2020: SOUTHERN FARM BUREAU GROUP HEALTH AND MEDICAL INSURANCE PLAN FOR EMPLOYEES
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2020
         Participants: 753
-    2019: SOUTHERN FARM BUREAU GROUP HEALTH AND MEDICAL INSURANCE PLAN FOR EMPLOYEES
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2019
         Participants: 668
-    2018: SOUTHERN FARM BUREAU GROUP HEALTH AND MEDICAL INSURANCE PLAN FOR EMPLOYEES
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+
+    2018  [codes: 4A4D]
         Participants: 663
-   [501]
-    2021: SOUTHERN FARM BUREAU INSURANCE TRUST
-        Benefit Category: Life insurance
-        Codes:  4B
+
+  [Life insurance] SOUTHERN FARM BUREAU INSURANCE TRUST [501]
+    2021  [codes: 4B]
         Participants: 958
-    2020: SOUTHERN FARM BUREAU INSURANCE TRUST
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2020
         Participants: 952
-    2019: SOUTHERN FARM BUREAU INSURANCE TRUST
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2019
         Participants: 934
-    2018: SOUTHERN FARM BUREAU INSURANCE TRUST
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2018
         Participants: 951
-    2017: SOUTHERN FARM BUREAU INSURANCE TRUST
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2017
         Participants: 931
-   [504]
-    2021: SOUTHERN FARM BUREAU LIFE INS CO. EMPLOYEES AD&D PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+  [Life insurance] SOUTHERN FARM BUREAU LIFE INS CO. EMPLOYEES AD&D PLAN [504]
+    2021
         Participants: 600
-    2020: SOUTHERN FARM BUREAU LIFE INS CO. EMPLOYEES AD&D PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2020
         Participants: 629
-    2019: SOUTHERN FARM BUREAU LIFE INS CO. EMPLOYEES AD&D PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2019
         Participants: 654
-    2018: SOUTHERN FARM BUREAU LIFE INS. CO. EMPLOYEES AD&D PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+  [Life insurance] SOUTHERN FARM BUREAU LIFE INS. CO. EMPLOYEES AD&D PLAN
+    2018
         Participants: 652
-    2017: SOUTHERN FARM BUREAU LIFE INS. CO. EMPLOYEES AD&D PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2017
         Participants: 640
-   [001]
-    2021: SFB LIFE INSURANCE CO RETIREMENT PLAN AND TRUST
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 940
-        Assets: 234149621
-        $/Participant: 249095
+
+  [Pension] SFB LIFE INSURANCE CO RETIREMENT PLAN AND TRUST [001]
+    2021  [codes: 1A]
+        Participants: 940  Average: $249,095
+        Assets: $234,149,621
         Service Providers:
            - JP MORGAN CHASE BANK, NATIONAL ASSO : INVESTMENT MANAGER (Investment management | Investment advisory(plan) | Trustee(discretionary))
            - WILLIS TOWERS WATSON INVESTMENT SER : INVESTMENT CONSULTANT (Consulting(pension))
@@ -101,12 +81,10 @@ MS : JACKSON
            - SEI TRUST COMPANY
                  : SANDS CAPITAL INTERNATIONAL GROWTH
                  : TCW LONG DURATION GOVT/CREDIT FUND
-    2020: SFB LIFE INSURANCE CO RETIREMENT PLAN AND TRUST
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 950
-        Assets: 295156791
-        $/Participant: 310691
+
+    2020
+        Participants: 950  Average: $310,691
+        Assets: $295,156,791
         Service Providers:
            - THE NORTHERN TRUST COMPANY : TRUSTEE (Custodial(other than securities) | Custodial(securities) | Trustee(bank, trust company, or similar))
            - WILLIS TOWERS WATSON INVESTMENT SER : INVESTMENT CONSULTANT (Consulting(pension))
@@ -121,12 +99,10 @@ MS : JACKSON
            - SEI TRUST COMPANY
                  : SANDS CAPITAL INTERNATIONAL GROWTH
                  : TCW LONG DURATION GOVERNMENT/CREDIT
-    2019: SFB LIFE INSURANCE CO RETIREMENT PLAN AND TRUST
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 969
-        Assets: 264930905
-        $/Participant: 273406
+
+    2019
+        Participants: 969  Average: $273,406
+        Assets: $264,930,905
         Service Providers:
            - THE NORTHERN TRUST COMPANY : TRUSTEE (Custodial(other than securities) | Custodial(securities) | Trustee(bank, trust company, or similar))
            - WILLIS TOWERS WATSON INVESTMENT SER : INVESTMENT CONSULTANT (Consulting(pension))
@@ -140,12 +116,10 @@ MS : JACKSON
                  : NT COLLECTIVE (STIF)
            - SEI TRUST COMPANY
                  : TCW LONG DURATION GOVERNMENT/CREDIT
-    2018: SFB LIFE INSURANCE CO RETIREMENT PLAN AND TRUST
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 909
-        Assets: 248886598
-        $/Participant: 273802
+
+    2018
+        Participants: 909  Average: $273,802
+        Assets: $248,886,598
         Service Providers:
            - WILLIS TOWERS WATSON INVESTMENT SER : INVESTMENT CONSULTANT (Consulting(pension))
            - JP MORGAN CHASE BANK, NATIONAL ASSO : INVESTMENT MANAGER (Investment management | Investment advisory(plan) | Trustee(discretionary) | Direct payment from the plan | Investment management fees paid directly by plan)
@@ -158,12 +132,10 @@ MS : JACKSON
                  : NT COLLECTIVE (STIF)
            - SEI TRUST COMPANY
                  : TCW LONG DURATION GOVERNMENT/CREDIT
-    2017: SFB LIFE INSURANCE CO RETIREMENT PLAN AND TRUST
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 884
-        Assets: 225227266
-        $/Participant: 254781
+
+    2017
+        Participants: 884  Average: $254,781
+        Assets: $225,227,266
         Service Providers:
            - METROPOLITAN WEST ASSET MANAGEMENT : INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan)
            - JPMORGAN CHASE BANK, NATIONAL ASSOC : INVESTMENT MANAGER (Investment management | Investment advisory(plan) | Trustee(discretionary) | Direct payment from the plan | Investment management fees paid directly by plan)

@@ -1,57 +1,45 @@
-CT : NAUGATUCK
-  ION BANK  060465530
-   [002]
-    2018: ION FINANCIAL, MHC 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 411
-        Assets: 24314868
-        $/Participant: 59160
+ION BANK  060465530 -- CT : NAUGATUCK
+  [401(k)] ION FINANCIAL, MHC 401K PLAN [002]
+    2018  [codes: 2E2F2G2J2K]
+        Participants: 411  Average: $59,160
+        Assets: $24,314,868
         Service Providers:
            - VOYA RETIREMENT INSURANCE & ANNUITY : SERVICE PROVIDER (Investment advisory(participants))
            - INSTITUTIONAL INVESTMENT CONSULTING : SERVICE PROVIDER (Other fees)
            - MORNINGSTAR : SERVICE PROVIDER (Investment advisory(plan))
-    2017: ION FINANCIAL, MHC 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 388
-        Assets: 23840653
-        $/Participant: 61444
+
+    2017
+        Participants: 388  Average: $61,444
+        Assets: $23,840,653
         RecordKeeper: WHITTLESEY PC
         Available Investments:
            - VOYA RETIREMENT INSURANCE & ANNUITY CO
                  : VARIABLE ANNUITY ACCOUNT D
-   [001]
-    2022: RETIREMENT PLAN FOR EMPLOYEES OF ION BANK
-        Benefit Category: Pension
-        Codes: 1A3H1I 
-        Participants: 205
-        Assets: 70963872
-        $/Participant: 346165
+
+  [Pension] RETIREMENT PLAN FOR EMPLOYEES OF ION BANK [001]
+    2022  [codes: 1A3H1I]
+        Participants: 205  Average: $346,165
+        Assets: $70,963,872
         Service Providers:
            - BROADRIDGE :  (Investment management | Securities brokerage commissions and fees)
            - AETNA LIFE INSURANCE COMPANY :  (Contract Administrator | Investment management fees paid indirectly by plan | Other insurance fees and expenses)
         Available Investments:
            - AETNA LIFE INSURANCE COMPANY
                  : AETNA LIFE INS. CO. SEP. ACCT 174
-    2021: RETIREMENT PLAN FOR EMPLOYEES OF ION BANK
-        Benefit Category: Pension
-        Codes: 1A3H1I 
-        Participants: 205
-        Assets: 84418257
-        $/Participant: 411796
+
+    2021
+        Participants: 205  Average: $411,796
+        Assets: $84,418,257
         Service Providers:
            - BROADRIDGE :  (Investment management | Securities brokerage commissions and fees)
            - AETNA LIFE INSURANCE COMPANY :  (Contract Administrator | Investment management fees paid indirectly by plan | Other insurance fees and expenses)
         Available Investments:
            - AETNA LIFE INSURANCE COMPANY
                  : AETNA LIFE INS. CO. SEP. ACCT 174
-    2020: RETIREMENT PLAN FOR EMPLOYEES OF ION BANK
-        Benefit Category: Pension
-        Codes: 1A3H1I 
-        Participants: 207
-        Assets: 75957122
-        $/Participant: 366942
+
+    2020
+        Participants: 207  Average: $366,942
+        Assets: $75,957,122
         Service Providers:
            - MERRILL LYNCH, PIERCE, FENNER AND S :  (Investment management | Securities brokerage commissions and fees)
            - BROADRIDGE :  (Investment management | Securities brokerage commissions and fees)
@@ -59,36 +47,30 @@ CT : NAUGATUCK
         Available Investments:
            - AETNA LIFE INSURANCE COMPANY
                  : AETNA LIFE INS. CO. SEP. ACCT 174
-    2019: RETIREMENT PLAN FOR EMPLOYEES OF ION BANK
-        Benefit Category: Pension
-        Codes: 1A3H1I 
-        Participants: 207
-        Assets: 65585277
-        $/Participant: 316837
+
+    2019
+        Participants: 207  Average: $316,837
+        Assets: $65,585,277
         Service Providers:
            - MERRILL LYNCH, PIERCE, FENNER AND S :  (Investment management | Securities brokerage commissions and fees)
            - AETNA LIFE INSURANCE COMPANY :  (Contract Administrator | Investment management fees paid indirectly by plan | Other insurance fees and expenses)
         Available Investments:
            - AETNA LIFE INSURANCE COMPANY
                  : AETNA LIFE INS. CO. SEP. ACCT 174
-    2018: RETIREMENT PLAN FOR EMPLOYEES OF ION BANK
-        Benefit Category: Pension
-        Codes: 1A3H1I 
-        Participants: 209
-        Assets: 55070532
-        $/Participant: 263495
+
+    2018
+        Participants: 209  Average: $263,495
+        Assets: $55,070,532
         Service Providers:
            - MERRILL LYNCH, PIERCE, FENNER AND S :  (Investment management | Securities brokerage commissions and fees)
            - AETNA LIFE INSURANCE COMPANY :  (Contract Administrator | Investment management fees paid indirectly by plan | Other insurance fees and expenses)
         Available Investments:
            - AETNA LIFE INSURANCE COMPANY
                  : AETNA LIFE INS. CO. SEP. ACCT 174
-    2017: RETIREMENT PLAN FOR EMPLOYEES OF ION BANK
-        Benefit Category: Pension
-        Codes: 1A3H1I 
-        Participants: 209
-        Assets: 60066828
-        $/Participant: 287401
+
+    2017
+        Participants: 209  Average: $287,401
+        Assets: $60,066,828
         Service Providers:
            - MERRILL LYNCH, PIERCE, FENNER AND S :  (Investment management | Securities brokerage commissions and fees)
            - AETNA LIFE INSURANCE COMPANY :  (Contract Administrator | Investment management fees paid indirectly by plan | Other insurance fees and expenses)

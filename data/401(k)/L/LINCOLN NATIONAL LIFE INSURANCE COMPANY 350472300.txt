@@ -1,12 +1,8 @@
-PA : RADNOR
-  LINCOLN NATIONAL LIFE INSURANCE COMPANY  350472300
-   [006]
-    2022: LNL AGENTS' 401(K) SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2F2G2J2K2O2R2T3H 
-        Participants: 1120
-        Assets: 239421503
-        $/Participant: 213769
+LINCOLN NATIONAL LIFE INSURANCE COMPANY  350472300 -- PA : RADNOR
+  [401(k), Employee Stock Ownership Plan] LNL AGENTS' 401(K) SAVINGS PLAN [006]
+    2022  [codes: 2E2F2G2J2K2O2R2T3H]
+        Participants: 1,120  Average: $213,769
+        Assets: $239,421,503
         Available Investments:
            - ACADIAN ASSET MANAGEMENT
                  : ALL COUNTRY WORLD EX US EQUITY CIT
@@ -45,12 +41,10 @@ PA : RADNOR
                  : TARGET RETIREMENT INCOME NON LENDIN
                  : TARGET RETIREMENT INCOME NON-LENDIN
                  : US BOND INDEX NON-LENDING SERIES
-    2021: LNL AGENTS' 401(K) SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2F2G2J2K2O2R2T3H 
-        Participants: 1165
-        Assets: 309884210
-        $/Participant: 265995
+
+    2021
+        Participants: 1,165  Average: $265,995
+        Assets: $309,884,210
         Service Providers:
            - CALLAN ASSOCIATES : CONSULTANT (Investment management)
         Available Investments:
@@ -82,12 +76,10 @@ PA : RADNOR
                  : TARGET RETIREMENT 2065 FUND
                  : TARGET RETIREMENT INCOME FUND
                  : U.S. BOND INDEX FUND
-    2020: LNL AGENTS' 401(K) SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2F2G2J2K2O2R2T3H 
-        Participants: 1014
-        Assets: 288521847
-        $/Participant: 284538
+
+    2020
+        Participants: 1,014  Average: $284,538
+        Assets: $288,521,847
         Service Providers:
            - CALLAN ASSOCIATES : CONSULTANT (Investment management)
         Available Investments:
@@ -118,12 +110,10 @@ PA : RADNOR
                  : TARGET RETIREMENT 2065 FUND
                  : TARGET RETIREMENT INCOME FUND
                  : U.S. BOND INDEX FUND
-    2019: LNL AGENTS' 401(K) SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2F2G2J2K2O2R2T3H 
-        Participants: 1076
-        Assets: 260024415
-        $/Participant: 241658
+
+    2019
+        Participants: 1,076  Average: $241,658
+        Assets: $260,024,415
         Service Providers:
            - MITCHELL & TITUS : AUDITOR (Accounting(including auditing))
         Available Investments:
@@ -154,12 +144,10 @@ PA : RADNOR
                  : TARGET RETIREMENT FUND 2060
                  : TARGET RETIREMENT INCOME FUND
                  : U.S. BOND INDEX FUND
-    2018: LNL AGENTS' 401(K) SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2F2G2J2K2O2R2T3H 
-        Participants: 1126
-        Assets: 231512430
-        $/Participant: 205606
+
+    2018
+        Participants: 1,126  Average: $205,606
+        Assets: $231,512,430
         Service Providers:
            - MITCHELL & TITUS : AUDITOR (Accounting(including auditing))
            - CALLAN ASSOCIATES : ADVISOR (Investment management)
@@ -188,12 +176,10 @@ PA : RADNOR
                  : TARGET RETIREMENT FUND 2060
                  : TARGET RETIREMENT INCOME FUND
                  : U.S. BOND INDEX FUND
-    2017: LNL AGENTS' 401(K) SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2F2G2J2K2O2R2T3H 
-        Participants: 1186
-        Assets: 260305727
-        $/Participant: 219482
+
+    2017
+        Participants: 1,186  Average: $219,482
+        Assets: $260,305,727
         Service Providers:
            - CALLAN ASSOCIATES : ADVISOR (Investment management)
         Available Investments:
@@ -225,33 +211,24 @@ PA : RADNOR
                  : TARGET RETIREMENT FUND 2060
                  : TARGET RETIREMENT INCOME FUND
                  : U.S. BOND INDEX FUND
-AZ : SPRINGVILLE
-   [001]
-    2018: WHITE MOUNTAIN REGIONAL MEDICAL CENTER 403(B) PLAN
-        Benefit Category: 403(b)
-        Codes: 2F2J2M2T 
-        Participants: 174
-        Assets: 298332
-        $/Participant: 1714
-AL : HUNTSVILLE
-   [505]
-    2020: LINCOLN NATIONAL LIFE INSURANCE COMPANY
-        Benefit Category: Dental
-        Codes:  4D
+ -- AZ : SPRINGVILLE
+  [403(b)] WHITE MOUNTAIN REGIONAL MEDICAL CENTER 403(B) PLAN [001]
+    2018  [codes: 2F2J2M2T]
+        Participants: 174  Average: $1,714
+        Assets: $298,332
+ -- AL : HUNTSVILLE
+  [Dental] LINCOLN NATIONAL LIFE INSURANCE COMPANY [505]
+    2020  [codes: 4D]
         Participants: 133
-   [510]
-    2021: DESE RESEARCH, INC.
-        Benefit Category: Dental
-        Codes:  4D
+
+  [Dental] DESE RESEARCH, INC. [510]
+    2021
         Participants: 132
-PA : RADNOR
-   [005]
-    2017: LNL MONEY PURCHASE PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2C2F2G2O2R2T3H 
-        Participants: 518
-        Assets: 12844355
-        $/Participant: 24796
+ -- PA : RADNOR
+  [Employee Stock Ownership Plan] LNL MONEY PURCHASE PLAN [005]
+    2017  [codes: 2C2F2G2O2R2T3H]
+        Participants: 518  Average: $24,796
+        Assets: $12,844,355
         Available Investments:
            - BOSTON CO. ASSET MANAGEMENT, LLC
                  : EB US SMALL-MID CAPITALIZATION VALU
@@ -279,13 +256,11 @@ PA : RADNOR
                  : TARGET RETIREMENT 2060 FUND
                  : TARGET RETIREMENT INCOME FUND
                  : U.S. BOND INDEX FUND
-   [012]
-    2022: LNL ABGA MONEY PURCHASE PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2C2F2G2O2R2T3H 
-        Participants: 358
-        Assets: 27341142
-        $/Participant: 76371
+
+  [Employee Stock Ownership Plan] LNL ABGA MONEY PURCHASE PLAN [012]
+    2022
+        Participants: 358  Average: $76,371
+        Assets: $27,341,142
         Available Investments:
            - ACADIAN ASSET MANAGEMENT
                  : ALL COUNTRY WORLD EX US EQUITY CIT
@@ -323,12 +298,10 @@ PA : RADNOR
                  : TARGET RETIREMENT INCOME NON LENDIN
                  : TARGET RETIREMENT INCOME NON-LENDIN
                  : US BOND INDEX NON-LENDING SERIES
-    2021: LNL ABGA MONEY PURCHASE PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2C2F2G2O2R2T3H 
-        Participants: 393
-        Assets: 37391107
-        $/Participant: 95142
+
+    2021
+        Participants: 393  Average: $95,142
+        Assets: $37,391,107
         Available Investments:
            - ACADIAN ASSET MANAGEMENT
                  : ALL COUNTRY WORLD/EX U.S. EQUITY
@@ -357,12 +330,10 @@ PA : RADNOR
                  : TARGET RETIREMENT 2060 FUND
                  : TARGET RETIREMENT INCOME FUND
                  : U.S. BOND INDEX FUND
-    2020: LNL ABGA MONEY PURCHASE PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2C2F2G2O2R2T3H 
-        Participants: 440
-        Assets: 36998163
-        $/Participant: 84086
+
+    2020
+        Participants: 440  Average: $84,086
+        Assets: $36,998,163
         Available Investments:
            - ACADIAN ASSET MANAGEMENT
                  : ALL COUNTRY WORLD/EX U.S. EQUITY
@@ -390,12 +361,10 @@ PA : RADNOR
                  : TARGET RETIREMENT 2060 FUND
                  : TARGET RETIREMENT INCOME FUND
                  : U.S. BOND INDEX FUND
-    2019: LNL ABGA MONEY PURCHASE PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2C2F2G2O2R2T3H 
-        Participants: 453
-        Assets: 33230988
-        $/Participant: 73357
+
+    2019
+        Participants: 453  Average: $73,357
+        Assets: $33,230,988
         Available Investments:
            - MACQUARIE INVESTMENT ADVISERS
                  : DELAWARE DIVERSIFIED INCOME TRUST
@@ -424,12 +393,10 @@ PA : RADNOR
            - STATE STREET GLOBAL ADVISORS LTD
                  : TARGET RETIREMENT 2015 FUND
                  : TARGET RETIREMENT 2060 FUND
-    2018: LNL ABGA MONEY PURCHASE PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2C2F2G2O2R2T3H 
-        Participants: 483
-        Assets: 30253667
-        $/Participant: 62636
+
+    2018
+        Participants: 483  Average: $62,636
+        Assets: $30,253,667
         Available Investments:
            - MACQUARIE INVESTMENT ADVISERS
                  : DELAWARE DIVERSIFIED INCOME TRUST
@@ -456,195 +423,148 @@ PA : RADNOR
            - STATE STREET GLOBAL ADVISORS LTD
                  : TARGET RETIREMENT 2015 FUND
                  : TARGET RETIREMENT 2060 FUND
-OK : BROKEN ARROW
-   [501]
-    2019: BROTHERTON HOLDINGS INC
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B
+ -- OK : BROKEN ARROW
+  [Healthcare, Life insurance] BROTHERTON HOLDINGS INC [501]
+    2019  [codes: 4A4B]
         Participants: 101
-PA : RADNOR
-   [502]
-    2022: LINCOLN NATIONAL LIFE INSURANCE CO AGENTS LIFE, HEALTH & ACCIDENT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E
-        Participants: 
-        Assets: 490298
-        $/Participant: 
+ -- PA : RADNOR
+  [Healthcare, Life insurance, Dental, Vision] LINCOLN NATIONAL LIFE INSURANCE CO AGENTS LIFE, HEALTH & ACCIDENT PLAN [502]
+    2022  [codes: 4A4B4D4E]
+        Participants:   Average: $
+        Assets: $490,298
         RecordKeeper: IBM
-    2021: LINCOLN NATIONAL LIFE INSURANCE CO AGENTS LIFE, HEALTH & ACCIDENT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E
-        Participants: 
-        Assets: 1168404
-        $/Participant: 
+
+    2021
+        Participants:   Average: $
+        Assets: $1,168,404
         Service Providers:
            - CVS CAREMARK :  (Plan Administrator)
            - MITCHELL & TITUS :  (Accounting(including auditing))
            - LINCOLN NATIONAL LIFE INSURANCE CO : SUBSIDIARY (Plan Administrator)
-    2020: LINCOLN NATIONAL LIFE INSURANCE CO AGENTS LIFE, HEALTH & ACCIDENT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E
-        Participants: 
-        Assets: 1069363
-        $/Participant: 
+
+    2020
+        Participants:   Average: $
+        Assets: $1,069,363
         RecordKeeper: HEALTH EQUITY
-    2019: LINCOLN NATIONAL LIFE INSURANCE CO AGENTS LIFE, HEALTH & ACCIDENT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E
-        Participants: 
-        Assets: 3688594
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $3,688,594
         RecordKeeper: IBM WATSON
-    2018: LINCOLN NATIONAL LIFE INSURANCE CO AGENTS LIFE, HEALTH & ACCIDENT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E
-        Participants: 
-        Assets: 6237317
-        $/Participant: 
+
+    2018
+        Participants:   Average: $
+        Assets: $6,237,317
         RecordKeeper: HEALTH EQUITY
-    2017: LINCOLN NATIONAL LIFE INSURANCE CO AGENTS LIFE, HEALTH & ACCIDENT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E
-        Participants: 
-        Assets: 8692307
-        $/Participant: 
+
+    2017
+        Participants:   Average: $
+        Assets: $8,692,307
         RecordKeeper: HEALTH EQUITY
-   [509]
-    2022: AGENTS HEALTH CARE EXPENSE ACCOUNT
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] AGENTS HEALTH CARE EXPENSE ACCOUNT [509]
+    2022  [codes: 4A]
         Participants: 
-    2021: AGENTS HEALTH CARE EXPENSE ACCOUNT
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2021
         Participants: 
-    2020: AGENTS HEALTH CARE EXPENSE ACCOUNT
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2020
         Participants: 
-    2019: AGENTS HEALTH CARE EXPENSE ACCOUNT
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2019
         Participants: 
-    2018: AGENTS HEALTH CARE EXPENSE ACCOUNT
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2018
         Participants: 
-    2017: AGENTS HEALTH CARE EXPENSE ACCOUNT
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2017
         Participants: 
-   [511]
-    2022: LINCOLN NATIONAL LIFE INSURANCE CO LIFE & HEALTH PLAN FOR RETIRED AGENTS
-        Benefit Category: Healthcare, Life insurance, Dental
-        Codes:  4A4B4D
-        Participants: 
-        Assets: 1722683
-        $/Participant: 
+
+  [Healthcare, Life insurance, Dental] LINCOLN NATIONAL LIFE INSURANCE CO LIFE & HEALTH PLAN FOR RETIRED AGENTS [511]
+    2022  [codes: 4A4B4D]
+        Participants:   Average: $
+        Assets: $1,722,683
         RecordKeeper: LINCOLN NATIONAL LIFE INSURANCE CO
-    2021: LINCOLN NATIONAL LIFE INSURANCE CO LIFE & HEALTH PLAN FOR RETIRED AGENTS
-        Benefit Category: Healthcare, Life insurance, Dental
-        Codes:  4A4B4D
-        Participants: 
-        Assets: 1694026
-        $/Participant: 
+
+    2021
+        Participants:   Average: $
+        Assets: $1,694,026
         Service Providers:
            - CVS CAREMARK :  (Contract Administrator)
            - MITCHELL & TITUS :  (Accounting(including auditing))
            - MEDICAL CARD SYSTEMS :  (Plan Administrator)
            - LINCOLN NATIONAL LIFE INSURANCE CO : SUBSIDIARY (Plan Administrator)
-    2020: LINCOLN NATIONAL LIFE INSURANCE CO LIFE & HEALTH PLAN FOR RETIRED AGENTS
-        Benefit Category: Healthcare, Life insurance, Dental
-        Codes:  4A4B4D
-        Participants: 
-        Assets: 1934412
-        $/Participant: 
+
+    2020
+        Participants:   Average: $
+        Assets: $1,934,412
         Service Providers:
            - INDEPENDENCE BLUE CROSS :  (Plan Administrator)
            - CVS CAREMARK :  (Contract Administrator)
            - MITCHELL & TITUS :  (Accounting(including auditing))
            - LINCOLN NATIONAL LIFE INSURANCE CO : SUBSIDIARY (Plan Administrator)
            - MEDICAL CARD SYSTEMS :  (Plan Administrator)
-    2019: LINCOLN NATIONAL LIFE INSURANCE CO LIFE & HEALTH PLAN FOR RETIRED AGENTS
-        Benefit Category: Healthcare, Life insurance, Dental
-        Codes:  4A4B4D
-        Participants: 
-        Assets: 975601
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $975,601
         Service Providers:
            - INDEPENDENCE BLUE CROSS :  (Plan Administrator)
            - CVS CAREMARK :  (Contract Administrator)
            - MITCHELL & TITUS :  (Accounting(including auditing))
            - LINCOLN NATIONAL LIFE INSURANCE CO : SUBSIDIARY (Plan Administrator)
            - MEDICAL CARD SYSTEMS :  (Plan Administrator)
-    2018: LINCOLN NATIONAL LIFE INSURANCE CO LIFE & HEALTH PLAN FOR RETIRED AGENTS
-        Benefit Category: Healthcare, Life insurance, Dental
-        Codes:  4A4B4D
-        Participants: 
-        Assets: 941728
-        $/Participant: 
+
+    2018
+        Participants:   Average: $
+        Assets: $941,728
         Service Providers:
            - INDEPENDENCE BLUE CROSS :  (Plan Administrator)
            - CVS CAREMARK :  (Contract Administrator)
            - MITCHELL & TITUS :  (Accounting(including auditing))
            - MEDICAL CARD SYSTEMS :  (Plan Administrator)
-    2017: LINCOLN NATIONAL LIFE INSURANCE CO LIFE & HEALTH PLAN FOR RETIRED AGENTS
-        Benefit Category: Healthcare, Life insurance, Dental
-        Codes:  4A4B4D
-        Participants: 
-        Assets: 1141317
-        $/Participant: 
+
+    2017
+        Participants:   Average: $
+        Assets: $1,141,317
         RecordKeeper: TOWERS WATSON DELAWARE INC/TRUVEN
-IA : GUTTENBERG
-   [501]
-    2020: GUTTENBERG MUNICIPAL HOSPITAL
-        Benefit Category: Life insurance
-        Codes:  4B
+ -- IA : GUTTENBERG
+  [Life insurance] GUTTENBERG MUNICIPAL HOSPITAL [501]
+    2020  [codes: 4B]
         Participants: 127
-WI : MILWAUKEE
-    2017: FOUNDERS 3 REAL ESTATE SERVICES BENEFIT PLAN
-        Benefit Category: Life insurance, Short-term disability, Long-term disability
-        Codes:  4B4F4H4Q
+ -- WI : MILWAUKEE
+  [Life insurance, Short-term disability, Long-term disability] FOUNDERS 3 REAL ESTATE SERVICES BENEFIT PLAN
+    2017  [codes: 4B4F4H4Q]
         Participants: 
-AL : HUNTSVILLE
-   [508]
-    2020: LINCOLN NATIONAL LIFE INSURANCE COMPANY
-        Benefit Category: Life insurance
-        Codes:  4B
+ -- AL : HUNTSVILLE
+  [Life insurance] LINCOLN NATIONAL LIFE INSURANCE COMPANY [508]
+    2020  [codes: 4B]
         Participants: 149
-PA : RADNOR
-   [503]
-    2022: LINCOLN NATIONAL LIFE INS CO AGENTS LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
+ -- PA : RADNOR
+  [Long-term disability] LINCOLN NATIONAL LIFE INS CO AGENTS LONG TERM DISABILITY PLAN [503]
+    2022  [codes: 4H]
         Participants: 
-    2021: LINCOLN NATIONAL LIFE INS CO AGENTS LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2021
         Participants: 
-    2020: LINCOLN NATIONAL LIFE INS CO AGENTS LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2020
         Participants: 
-    2019: LINCOLN NATIONAL LIFE INS CO AGENTS LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2019
         Participants: 
-    2018: LINCOLN NATIONAL LIFE INS CO AGENTS LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2018
         Participants: 
-    2017: LINCOLN NATIONAL LIFE INS CO AGENTS LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2017
         Participants: 
-   [005]
-    2022: LNL MONEY PURCHASE PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2R2T3H 
-        Participants: 368
-        Assets: 11346125
-        $/Participant: 30831
+
+  [Other] LNL MONEY PURCHASE PLAN [005]
+    2022  [codes: 2C2F2G2R2T3H]
+        Participants: 368  Average: $30,831
+        Assets: $11,346,125
         Available Investments:
            - ACADIAN ASSET MANAGEMENT
                  : ALL COUNTRY WORLD EX US EQUITY CIT
@@ -683,12 +603,10 @@ PA : RADNOR
                  : TARGET RETIREMENT INCOME NON LENDIN
                  : TARGET RETIREMENT INCOME NON-LENDIN
                  : US BOND INDEX NON-LENDING SERIES
-    2021: LNL MONEY PURCHASE PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2R2T3H 
-        Participants: 407
-        Assets: 14840123
-        $/Participant: 36462
+
+    2021
+        Participants: 407  Average: $36,462
+        Assets: $14,840,123
         Available Investments:
            - ACADIAN ASSET MANAGEMENT
                  : ALL COUNTRY WORLD/EX U.S. EQUITY
@@ -717,12 +635,10 @@ PA : RADNOR
                  : TARGET RETIREMENT 2060 FUND
                  : TARGET RETIREMENT INCOME FUND
                  : U.S. BOND INDEX FUND
-    2020: LNL MONEY PURCHASE PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2R2T3H 
-        Participants: 434
-        Assets: 14771886
-        $/Participant: 34036
+
+    2020
+        Participants: 434  Average: $34,036
+        Assets: $14,771,886
         Available Investments:
            - ACADIAN ASSET MANAGEMENT
                  : ALL COUNTRY WORLD/EX U.S. EQUITY
@@ -750,12 +666,10 @@ PA : RADNOR
                  : TARGET RETIREMENT 2060 FUND
                  : TARGET RETIREMENT INCOME FUND
                  : U.S. BOND INDEX FUND
-    2019: LNL MONEY PURCHASE PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2R2T3H 
-        Participants: 454
-        Assets: 12831733
-        $/Participant: 28263
+
+    2019
+        Participants: 454  Average: $28,263
+        Assets: $12,831,733
         Available Investments:
            - MACQUARIE INVESTMENT ADVISERS
                  : DELAWARE DIVERSIFIED INCOME TRUST
@@ -783,12 +697,10 @@ PA : RADNOR
                  : TARGET RETIREMENT 2060 FUND
                  : TARGET RETIREMENT INCOME FUND
                  : U.S. BOND INDEX FUND
-    2018: LNL MONEY PURCHASE PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2R2T3H 
-        Participants: 482
-        Assets: 11572755
-        $/Participant: 24009
+
+    2018
+        Participants: 482  Average: $24,009
+        Assets: $11,572,755
         Available Investments:
            - MACQUARIE INVESTMENT ADVISERS
                  : DELAWARE DIVERSIFIED INCOME TRUST
@@ -813,13 +725,11 @@ PA : RADNOR
                  : TARGET RETIREMENT 2060 FUND
                  : TARGET RETIREMENT INCOME FUND
                  : U.S. BOND INDEX FUND
-   [012]
-    2017: LNL ABGA MONEY PURCHASE PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2R2T3H 
-        Participants: 521
-        Assets: 34637292
-        $/Participant: 66482
+
+  [Other] LNL ABGA MONEY PURCHASE PLAN [012]
+    2017
+        Participants: 521  Average: $66,482
+        Assets: $34,637,292
         Available Investments:
            - BOSTON CO. ASSET MANAGEMENT, LLC
                  : EB US SMALL-MID CAPITALIZATION VALU
@@ -849,1689 +759,1194 @@ PA : RADNOR
            - STATE STREET GLOBAL ADVISORS LTD
                  : TARGET RETIREMENT 2015 FUND
                  : TARGET RETIREMENT 2060 FUND
-   [111]
-    2019: LNL SA11 CORE EQUITY
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA11 CORE EQUITY
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 43818672
-        $/Participant: 
-    2017: LNL SA11 CORE EQUITY
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 65135730
-        $/Participant: 
-   [112]
-    2019: LNL SA12 GOVERNMENT/CORPORATE BOND
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA12 GOVERNMENT/CORPORATE BOND
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 65295888
-        $/Participant: 
-    2017: LNL SA12 GOVERNMENT/CORPORATE BOND
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 107234675
-        $/Participant: 
-   [114]
-    2019: LNL SA14 SHORT TERM
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA14 SHORT TERM
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 169911140
-        $/Participant: 
-    2017: LNL SA14 SHORT TERM
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 180161741
-        $/Participant: 
-   [117]
-    2019: LNL SA17 MEDIUM CAPITALIZATION EQUITY
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA17 MEDIUM CAPITALIZATION EQUITY
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 39909777
-        $/Participant: 
-    2017: LNL SA17 MEDIUM CAPITALIZATION EQUITY
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 47422717
-        $/Participant: 
-   [119]
-    2019: LNL SA19 ALLIANCE BERNSTEIN VPS GROWTH AND INCOME
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA19 ALLIANCE BERNSTEIN VPS GROWTH AND INCOME
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 23089427
-        $/Participant: 
-    2017: LNL SA19 ALLIANCE BERNSTEIN VPS GROWTH AND INCOME
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 30504119
-        $/Participant: 
-   [120]
-    2019: LNL SA20 HIGH YIELD BOND
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA20 HIGH YIELD BOND
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 40955617
-        $/Participant: 
-    2017: LNL SA20 HIGH YIELD BOND
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 56604808
-        $/Participant: 
-   [121]
-    2019: LNL SA21 BALANCED
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA21 BALANCED
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 207725586
-        $/Participant: 
-    2017: LNL SA21 BALANCED
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 280329905
-        $/Participant: 
-   [122]
-    2019: LNL SA22 INTERNATIONAL EQUITY
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA22 INTERNATIONAL EQUITY
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 28770237
-        $/Participant: 
-    2017: LNL SA22 INTERNATIONAL EQUITY
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 40622140
-        $/Participant: 
-   [123]
-    2019: LNL SA23 LARGE CAPITALIZATION EQUITY
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA23 LARGE CAPITALIZATION EQUITY
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 60883852
-        $/Participant: 
-    2017: LNL SA23 LARGE CAPITALIZATION EQUITY
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 78061857
-        $/Participant: 
-   [124]
-    2019: LNL SA24 SMALL CAPITALIZATION EQUITY
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA24 SMALL CAPITALIZATION EQUITY
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 61260012
-        $/Participant: 
-    2017: LNL SA24 SMALL CAPITALIZATION EQUITY
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 79906726
-        $/Participant: 
-   [127]
-    2019: LNL SA27 LVIP SSGA S&P 500 INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA27 LVIP SSGA S&P 500 INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 203066360
-        $/Participant: 
-    2017: LNL SA27 LVIP SSGA S&P 500 INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 233590602
-        $/Participant: 
-   [128]
-    2019: LNL SA28 VALUE EQUITY
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA28 VALUE EQUITY
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 63769254
-        $/Participant: 
-    2017: LNL SA28 VALUE EQUITY
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 91278162
-        $/Participant: 
-   [130]
-    2019: LNL SA30 CONSERVATIVE BALANCED
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA30 CONSERVATIVE BALANCED
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 75405910
-        $/Participant: 
-    2017: LNL SA30 CONSERVATIVE BALANCED
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 98445899
-        $/Participant: 
-   [132]
-    2019: LNL SA32 AGGRESSIVE BALANCED
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA32 AGGRESSIVE BALANCED
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 137038131
-        $/Participant: 
-    2017: LNL SA32 AGGRESSIVE BALANCED
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 169067513
-        $/Participant: 
-   [133]
-    2019: LNL SA33 LVIP DELAWARE SOCIAL AWARENESS
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA33 LVIP DELAWARE SOCIAL AWARENESS
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 16439901
-        $/Participant: 
-    2017: LNL SA33 LVIP DELAWARE SOCIAL AWARENESS
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 21997968
-        $/Participant: 
-   [134]
-    2019: LNL SA34 AFIS GLOBAL GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA34 AFIS GLOBAL GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 34462682
-        $/Participant: 
-    2017: LNL SA34 AFIS GLOBAL GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 44018899
-        $/Participant: 
-   [135]
-    2019: LNL SA35 FIDELITY VIP II CONTRAFUND
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA35 FIDELITY VIP II CONTRAFUND
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 104069324
-        $/Participant: 
-    2017: LNL SA35 FIDELITY VIP II CONTRAFUND
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 135549532
-        $/Participant: 
-   [136]
-    2019: LNL SA36 LVIP SSGA SMALL CAP INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA36 LVIP SSGA SMALL CAP INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 20334063
-        $/Participant: 
-    2017: LNL SA36 LVIP SSGA SMALL CAP INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 29759497
-        $/Participant: 
-   [139]
-    2019: LNL SA39 ALLIANCE BERNSTEIN VPS SMALL/MID CAP VALUE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA39 ALLIANCE BERNSTEIN VPS SMALL/MID CAP VALUE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 19928351
-        $/Participant: 
-    2017: LNL SA39 ALLIANCE BERNSTEIN VPS SMALL/MID CAP VALUE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 29147755
-        $/Participant: 
-   [146]
-    2019: LNL SA46 AFIS GLOBAL SMALL CAPITALIZATION
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA46 AFIS GLOBAL SMALL CAPITALIZATION
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 31049193
-        $/Participant: 
-    2017: LNL SA46 AFIS GLOBAL SMALL CAPITALIZATION
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 42975837
-        $/Participant: 
-   [148]
-    2019: LNL SA48 AFIS GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA48 AFIS GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 100762517
-        $/Participant: 
-    2017: LNL SA48 AFIS GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 124672223
-        $/Participant: 
-   [149]
-    2019: LNL SA49 AFIS GROWTH & INCOME
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA49 AFIS GROWTH & INCOME
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 73418810
-        $/Participant: 
-    2017: LNL SA49 AFIS GROWTH & INCOME
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 99993747
-        $/Participant: 
-   [154]
-    2019: LNL SA54 AFIS INTERNATIONAL
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA54 AFIS INTERNATIONAL
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 41736899
-        $/Participant: 
-    2017: LNL SA54 AFIS INTERNATIONAL
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 58440633
-        $/Participant: 
-   [155]
-    2019: LNL SA55 LVIP COHEN & STEERS GLOBAL REAL ESTATE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA55 LVIP COHEN & STEERS GLOBAL REAL ESTATE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 30467565
-        $/Participant: 
-    2017: LNL SA55 LVIP COHEN & STEERS GLOBAL REAL ESTATE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 41781356
-        $/Participant: 
-   [156]
-    2019: LNL SA56 DELAWARE VIP SMALL CAP
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA56 DELAWARE VIP SMALL CAP
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 39636615
-        $/Participant: 
-    2017: LNL SA56 DELAWARE VIP SMALL CAP
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 61520678
-        $/Participant: 
-   [157]
-    2019: LNL SA57 LVIP DIMENSIONAL U.S. EQUITY RPM FUND
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA57 LVIP DIMENSIONAL U.S. EQUITY RPM FUND
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 16359769
-        $/Participant: 
-    2017: LNL SA57 LVIP DIMENSIONAL U.S. EQUITY RPM FUND
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 21592711
-        $/Participant: 
-   [158]
-    2019: LNL SA58 FIDELITY VIP GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA58 FIDELITY VIP GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 22840551
-        $/Participant: 
-    2017: LNL SA58 FIDELITY VIP GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 30371994
-        $/Participant: 
-   [159]
-    2019: LNL SA59 FIDELITY VIP OVERSEAS
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA59 FIDELITY VIP OVERSEAS
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 12275363
-        $/Participant: 
-    2017: LNL SA59 FIDELITY VIP OVERSEAS
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 16939489
-        $/Participant: 
-   [161]
-    2019: LNL SA61 DELAWARE VIP VALUE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA61 DELAWARE VIP VALUE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 41725315
-        $/Participant: 
-    2017: LNL SA61 DELAWARE VIP VALUE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 48691902
-        $/Participant: 
-   [162]
-    2019: LNL SA62 LVIP TEMPLETON GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA62 LVIP TEMPLETON GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 6341695
-        $/Participant: 
-    2017: LNL SA62 LVIP TEMPLETON GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 8887833
-        $/Participant: 
-   [163]
-    2019: LNL SA63 FRANKLIN SMALL-MID CAP GROWTH SECURITIES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA63 FRANKLIN SMALL-MID CAP GROWTH SECURITIES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 14207322
-        $/Participant: 
-    2017: LNL SA63 FRANKLIN SMALL-MID CAP GROWTH SECURITIES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 18832369
-        $/Participant: 
-   [164]
-    2019: LNL SA64 JANUS ASPEN SERIES MID CAP GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA64 JANUS ASPEN SERIES MID CAP GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 53724756
-        $/Participant: 
-    2017: LNL SA64 JANUS ASPEN SERIES MID CAP GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 59308053
-        $/Participant: 
-   [165]
-    2019: LNL SA65 MFS VIT GROWTH SERIES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA65 MFS VIT GROWTH SERIES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 92380761
-        $/Participant: 
-    2017: LNL SA65 MFS VIT GROWTH SERIES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 98361487
-        $/Participant: 
-   [167]
-    2019: LNL SA67 MFS VIT UTILITIES SERIES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA67 MFS VIT UTILITIES SERIES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 35239005
-        $/Participant: 
-    2017: LNL SA67 MFS VIT UTILITIES SERIES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 46490628
-        $/Participant: 
-   [176]
-    2019: LNL SA76 BLACKROCK SMALL/MID-CAP GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA76 BLACKROCK SMALL/MID-CAP GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 11597635
-        $/Participant: 
-    2017: LNL SA76 BLACKROCK SMALL/MID-CAP GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 13143266
-        $/Participant: 
-   [177]
-    2019: LNL SA77 BLACKROCK GLOBAL RESOURCES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA77 BLACKROCK GLOBAL RESOURCES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 17791820
-        $/Participant: 
-    2017: LNL SA77 BLACKROCK GLOBAL RESOURCES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 28813070
-        $/Participant: 
-   [181]
-    2019: LNL SA81 BLACKROCK CAPITAL APPRECIATION
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA81 BLACKROCK CAPITAL APPRECIATION
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 19461015
-        $/Participant: 
-    2017: LNL SA81 BLACKROCK CAPITAL APPRECIATION
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 14453977
-        $/Participant: 
-   [183]
-    2019: LNL SA83 BLACKROCK MID-CAP VALUE EQUITY
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA83 BLACKROCK MID-CAP VALUE EQUITY
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 26446274
-        $/Participant: 
-    2017: LNL SA83 BLACKROCK MID-CAP VALUE EQUITY
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 30905608
-        $/Participant: 
-   [184]
-    2019: LNL SA84 FIDELITY VIP MID CAP
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA84 FIDELITY VIP MID CAP
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 28589946
-        $/Participant: 
-    2017: LNL SA84 FIDELITY VIP MID CAP
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 41026767
-        $/Participant: 
-   [186]
-    2019: LNL SA86 TEMPLETON GLOBAL INCOME SECURITIES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA86 TEMPLETON GLOBAL INCOME SECURITIES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 23145652
-        $/Participant: 
-    2017: LNL SA86 TEMPLETON GLOBAL INCOME SECURITIES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 26497957
-        $/Participant: 
-   [187]
-    2019: LNL SA87 DELAWARE VIP CAPITAL RESERVES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA87 DELAWARE VIP CAPITAL RESERVES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 5187989
-        $/Participant: 
-    2017: LNL SA87 DELAWARE VIP CAPITAL RESERVES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 6486357
-        $/Participant: 
-   [192]
-    2019: LNL SA92 AMERICAN CENTURY VP INFLATION PROTECTION
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA92 AMERICAN CENTURY VP INFLATION PROTECTION
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 18773830
-        $/Participant: 
-    2017: LNL SA92 AMERICAN CENTURY VP INFLATION PROTECTION
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 23449448
-        $/Participant: 
-   [193]
-    2019: LNL SA93 DELAWARE DIVERSIFIED INCOME
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA93 DELAWARE DIVERSIFIED INCOME
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 18662425
-        $/Participant: 
-    2017: LNL SA93 DELAWARE DIVERSIFIED INCOME
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 23829026
-        $/Participant: 
-   [194]
-    2019: LNL SA94 DELAWARE VIP EMERGING MARKETS
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA94 DELAWARE VIP EMERGING MARKETS
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 54935124
-        $/Participant: 
-    2017: LNL SA94 DELAWARE VIP EMERGING MARKETS
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 75287742
-        $/Participant: 
-   [195]
-    2019: LNL SA95 LVIP WILSHIRE CONSERVATIVE PROFILE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA95 LVIP WILSHIRE CONSERVATIVE PROFILE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 15632623
-        $/Participant: 
-    2017: LNL SA95 LVIP WILSHIRE CONSERVATIVE PROFILE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 24869877
-        $/Participant: 
-   [196]
-    2019: LNL SA96 LVIP WILSHIRE MODERATE PROFILE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA96 LVIP WILSHIRE MODERATE PROFILE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 37559011
-        $/Participant: 
-    2017: LNL SA96 LVIP WILSHIRE MODERATE PROFILE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 52790759
-        $/Participant: 
-   [197]
-    2019: LNL SA97 LVIP WILSHIRE MODERATELY AGGRESSIVE PROFILE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA97 LVIP WILSHIRE MODERATELY AGGRESSIVE PROFILE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 33701699
-        $/Participant: 
-    2017: LNL SA97 LVIP WILSHIRE MODERATELY AGGRESSIVE PROFILE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 42938704
-        $/Participant: 
-   [199]
-    2019: LNL SA99 DIST NO.9 I.A.OF M. & A.W. ACCOUNT
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: -1
-        $/Participant: 
-    2018: LNL SA99 DIST NO.9 I.A.OF M. & A.W. ACCOUNT
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: -1
-        $/Participant: 
-    2017: LNL SA99 DIST NO.9 I.A.OF M. & A.W. ACCOUNT
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 5567940
-        $/Participant: 
-   [402]
-    2022: LINCOLN LIFE SEPARATE ACCOUNT 4K
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 7855201642
-        $/Participant: 
-    2021: LINCOLN LIFE SEPARATE ACCOUNT 4K
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 9403856775
-        $/Participant: 
-    2020: LINCOLN LIFE SEPARATE ACCOUNT 4K
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 8289787877
-        $/Participant: 
-    2019: LINCOLN LIFE SEPARATE ACCOUNT 4K
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 7293234632
-        $/Participant: 
-    2018: LINCOLN LIFE SEPARATE ACCOUNT 4K
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 2614728742
-        $/Participant: 
-    2017: LINCOLN LIFE SEPARATE ACCOUNT 4K
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 2077054973
-        $/Participant: 
-   [701]
-    2019: LNL SAL1 LVIP WILSHIRE 2010 PROFILE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SAL1 LVIP WILSHIRE 2010 PROFILE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 5480762
-        $/Participant: 
-    2017: LNL SAL1 LVIP WILSHIRE 2010 PROFILE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 10259012
-        $/Participant: 
-   [702]
-    2019: LNL SAL2 LVIP WILSHIRE 2020 PROFILE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SAL2 LVIP WILSHIRE 2020 PROFILE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 33494416
-        $/Participant: 
-    2017: LNL SAL2 LVIP WILSHIRE 2020 PROFILE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 44728378
-        $/Participant: 
-   [703]
-    2019: LNL SAL3 LVIP WILSHIRE 2030 PROFILE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SAL3 LVIP WILSHIRE 2030 PROFILE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 52831669
-        $/Participant: 
-    2017: LNL SAL3 LVIP WILSHIRE 2030 PROFILE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 65189233
-        $/Participant: 
-   [704]
-    2019: LNL SAL4 LVIP WILSHIRE 2040 PROFILE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SAL4 LVIP WILSHIRE 2040 PROFILE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 41361561
-        $/Participant: 
-    2017: LNL SAL4 LVIP WILSHIRE 2040 PROFILE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 50244700
-        $/Participant: 
-   [705]
-    2022: LNL SATC 401K TOOLBOX MANAGED CONSERVATIVE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 36521896
-        $/Participant: 
-    2021: LNL SATC 401K TOOLBOX MANAGED CONSERVATIVE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 59037040
-        $/Participant: 
-    2020: LNL SATC 401K TOOLBOX MANAGED CONSERVATIVE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 51528975
-        $/Participant: 
-    2019: LNL SATC 401K TOOLBOX MANAGED CONSERVATIVE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 53085985
-        $/Participant: 
-    2018: LNL SATC 401K TOOLBOX MANAGED CONSERVATIVE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 53003545
-        $/Participant: 
-    2017: LNL SATC 401K TOOLBOX MANAGED CONSERVATIVE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 51205215
-        $/Participant: 
-   [706]
-    2022: LNL SATM 401K TOOLBOX MANAGED MODERATE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 118410496
-        $/Participant: 
-    2021: LNL SATM 401K TOOLBOX MANAGED MODERATE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 190477077
-        $/Participant: 
-    2020: LNL SATM 401K TOOLBOX MANAGED MODERATE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 180434667
-        $/Participant: 
-    2019: LNL SATM 401K TOOLBOX MANAGED MODERATE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 192085302
-        $/Participant: 
-    2018: LNL SATM 401K TOOLBOX MANAGED MODERATE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 210258360
-        $/Participant: 
-    2017: LNL SATM 401K TOOLBOX MANAGED MODERATE
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 273828005
-        $/Participant: 
-   [707]
-    2022: LNL SATG 401K TOOLBOX MANAGED GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 89786779
-        $/Participant: 
-    2021: LNL SATG 401K TOOLBOX MANAGED GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 137117890
-        $/Participant: 
-    2020: LNL SATG 401K TOOLBOX MANAGED GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 137031286
-        $/Participant: 
-    2019: LNL SATG 401K TOOLBOX MANAGED GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 156871413
-        $/Participant: 
-    2018: LNL SATG 401K TOOLBOX MANAGED GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 170246924
-        $/Participant: 
-    2017: LNL SATG 401K TOOLBOX MANAGED GROWTH
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 236598936
-        $/Participant: 
-   [708]
-    2019: LNL SAL5 LVIP SSGA INTERNATIONAL INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SAL5 LVIP SSGA INTERNATIONAL INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 21827993
-        $/Participant: 
-    2017: LNL SAL5 LVIP SSGA INTERNATIONAL INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 30183785
-        $/Participant: 
-   [709]
-    2019: LNL SAL6 LVIP SSGA BOND INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SAL6 LVIP SSGA BOND INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 18151898
-        $/Participant: 
-    2017: LNL SAL6 LVIP SSGA BOND INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 24603670
-        $/Participant: 
-   [710]
-    2019: LNL SAL7 LVIP DELAWARE SPECIAL OPPORTUNITIES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SAL7 LVIP DELAWARE SPECIAL OPPORTUNITIES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 5097644
-        $/Participant: 
-    2017: LNL SAL7 LVIP DELAWARE SPECIAL OPPORTUNITIES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 7333981
-        $/Participant: 
-   [711]
-    2019: LNL SAL8 SSGA RUSSELL 1000 VALUE INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SAL8 SSGA RUSSELL 1000 VALUE INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 20237206
-        $/Participant: 
-    2017: LNL SAL8 SSGA RUSSELL 1000 VALUE INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 25793445
-        $/Participant: 
-   [712]
-    2019: LNL SAL9 SSGA RUSSELL 1000 GROWTH INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SAL9 SSGA RUSSELL 1000 GROWTH INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 37213286
-        $/Participant: 
-    2017: LNL SAL9 SSGA RUSSELL 1000 GROWTH INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 41540623
-        $/Participant: 
-   [713]
-    2019: LNL SALA SSGA S&P MIDCAP INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SALA SSGA S&P MIDCAP INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 77288535
-        $/Participant: 
-    2017: LNL SALA SSGA S&P MIDCAP INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 101489103
-        $/Participant: 
-   [714]
-    2019: LNL SALB SSGA RUSSELL SMALL CAP VALUE INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SALB SSGA RUSSELL SMALL CAP VALUE INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 26592769
-        $/Participant: 
-    2017: LNL SALB SSGA RUSSELL SMALL CAP VALUE INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 36792153
-        $/Participant: 
-   [715]
-    2019: LNL SALC SSGA RUSSELL SMALL CAP GROWTH INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SALC SSGA RUSSELL SMALL CAP GROWTH INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 40626964
-        $/Participant: 
-    2017: LNL SALC SSGA RUSSELL SMALL CAP GROWTH INDEX
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 46718418
-        $/Participant: 
-   [716]
-    2019: LNL SA1C AMERICAN FUNDS HIGH-INCOME TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA1C AMERICAN FUNDS HIGH-INCOME TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 5680654
-        $/Participant: 
-    2017: LNL SA1C AMERICAN FUNDS HIGH-INCOME TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 7072171
-        $/Participant: 
-   [717]
-    2019: LNL SA1E AMERICAN FUNDS BOND FUND OF AMERICA
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA1E AMERICAN FUNDS BOND FUND OF AMERICA
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 11676413
-        $/Participant: 
-    2017: LNL SA1E AMERICAN FUNDS BOND FUND OF AMERICA
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 14732030
-        $/Participant: 
-   [718]
-    2019: LNL SA1X LVIP BARON GROWTH OPPORTUNITIES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SA1X LVIP BARON GROWTH OPPORTUNITIES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 7416594
-        $/Participant: 
-    2017: LNL SA1X LVIP BARON GROWTH OPPORTUNITIES
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 7905990
-        $/Participant: 
-   [719]
-    2019: LNL SALL LVIP PROTECTED PROFILE 2050
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SALL LVIP PROTECTED PROFILE 2050
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 20858442
-        $/Participant: 
-    2017: LNL SALL LVIP PROTECTED PROFILE 2050
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 23100995
-        $/Participant: 
-   [720]
-    2019: LNL SALM PIMCO TOTAL RETURN
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SALM PIMCO TOTAL RETURN
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 14541218
-        $/Participant: 
-    2017: LNL SALM PIMCO TOTAL RETURN
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 17688030
-        $/Participant: 
-   [722]
-    2022: LNL SATB 401K TOOLBOX MANAGED BALANCED
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 62627106
-        $/Participant: 
-    2021: LNL SATB 401K TOOLBOX MANAGED BALANCED
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 96806614
-        $/Participant: 
-    2020: LNL SATB 401K TOOLBOX MANAGED BALANCED
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 91943616
-        $/Participant: 
-    2019: LNL SATB 401K TOOLBOX MANAGED BALANCED
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 97032757
-        $/Participant: 
-    2018: LNL SATB 401K TOOLBOX MANAGED BALANCED
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 105940664
-        $/Participant: 
-    2017: LNL SATB 401K TOOLBOX MANAGED BALANCED
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 115073156
-        $/Participant: 
-   [723]
-    2022: LNL SATP 401K TOOLBOX MANAGED CAPITAL PRESERVATION
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 20720760
-        $/Participant: 
-    2021: LNL SATP 401K TOOLBOX MANAGED CAPITAL PRESERVATION
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 25296373
-        $/Participant: 
-    2020: LNL SATP 401K TOOLBOX MANAGED CAPITAL PRESERVATION
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 22054055
-        $/Participant: 
-    2019: LNL SATP 401K TOOLBOX MANAGED CAPITAL PRESERVATION
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 22948120
-        $/Participant: 
-    2018: LNL SATP 401K TOOLBOX MANAGED CAPITAL PRESERVATION
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 28228725
-        $/Participant: 
-    2017: LNL SATP 401K TOOLBOX MANAGED CAPITAL PRESERVATION
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 23639024
-        $/Participant: 
-   [724]
-    2022: LNL SATT 401K TOOLBOX MANAGED TACTICAL
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 20040193
-        $/Participant: 
-    2021: LNL SATT 401K TOOLBOX MANAGED TACTICAL
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 33465275
-        $/Participant: 
-    2020: LNL SATT 401K TOOLBOX MANAGED TACTICAL
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 33574345
-        $/Participant: 
-    2019: LNL SATT 401K TOOLBOX MANAGED TACTICAL
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 34604226
-        $/Participant: 
-    2018: LNL SATT 401K TOOLBOX MANAGED TACTICAL
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 38312917
-        $/Participant: 
-    2017: LNL SATT 401K TOOLBOX MANAGED TACTICAL
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 52328952
-        $/Participant: 
-   [730]
-    2018: LNL SAV1 VANGUARD TARGET RETIREMENT 2010
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2017: LNL SAV1 VANGUARD TARGET RETIREMENT 2010
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 1
-        $/Participant: 
-   [731]
-    2019: LNL SAV2 VANGUARD TARGET RETIREMENT 2020
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SAV2 VANGUARD TARGET RETIREMENT 2020
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 151301889
-        $/Participant: 
-    2017: LNL SAV2 VANGUARD TARGET RETIREMENT 2020
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 185951645
-        $/Participant: 
-   [732]
-    2019: LNL SAV3 VANGUARD TARGET RETIREMENT 2030
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SAV3 VANGUARD TARGET RETIREMENT 2030
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 205647277
-        $/Participant: 
-    2017: LNL SAV3 VANGUARD TARGET RETIREMENT 2030
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 238781597
-        $/Participant: 
-   [733]
-    2019: LNL SAV4 VANGUARD TARGET RETIREMENT 2040
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SAV4 VANGUARD TARGET RETIREMENT 2040
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 115853154
-        $/Participant: 
-    2017: LNL SAV4 VANGUARD TARGET RETIREMENT 2040
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 129957178
-        $/Participant: 
-   [734]
-    2019: LNL SAV5 VANGUARD TARGET RETIREMENT 2050
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SAV5 VANGUARD TARGET RETIREMENT 2050
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 54320831
-        $/Participant: 
-    2017: LNL SAV5 VANGUARD TARGET RETIREMENT 2050
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 58526759
-        $/Participant: 
-   [735]
-    2019: LNL SALE BLACKROCK GLOBAL ALLOCATION
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SALE BLACKROCK GLOBAL ALLOCATION
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 7693427
-        $/Participant: 
-    2017: LNL SALE BLACKROCK GLOBAL ALLOCATION
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 8674089
-        $/Participant: 
-   [749]
-    2019: AMERICAN FUNDS TARGET2060 SAE9
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: AMERICAN FUNDS TARGET2060 SAE9
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 325935
-        $/Participant: 
-    2017: AMERICAN FUNDS TARGET2060 SAE9
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 70791
-        $/Participant: 
-   [750]
-    2019: LNL SADY BAIRD AGGREGATE BOND INST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SADY BAIRD AGGREGATE BOND INST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 12765259
-        $/Participant: 
-    2017: LNL SADY BAIRD AGGREGATE BOND INST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 14617146
-        $/Participant: 
-   [751]
-    2019: LNL SADZ BAIRD CORE PLUS BOND INST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SADZ BAIRD CORE PLUS BOND INST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 5017641
-        $/Participant: 
-    2017: LNL SADZ BAIRD CORE PLUS BOND INST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 5140875
-        $/Participant: 
-   [752]
-    2019: LNL SAF9 EATON VANCE INC FUND BOS
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SAF9 EATON VANCE INC FUND BOS
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 15202100
-        $/Participant: 
-    2017: LNL SAF9 EATON VANCE INC FUND BOS
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 19153990
-        $/Participant: 
-   [753]
-    2019: LNL SAEG VG TARGET RET INC INV
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SAEG VG TARGET RET INC INV
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 52609746
-        $/Participant: 
-    2017: LNL SAEG VG TARGET RET INC INV
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 68738575
-        $/Participant: 
-   [754]
-    2019: LNL SAEF VANGUARD TARGET DATE 2060
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2018: LNL SAEF VANGUARD TARGET DATE 2060
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 2103632
-        $/Participant: 
-    2017: LNL SAEF VANGUARD TARGET DATE 2060
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 398317
-        $/Participant: 
-   [004]
-    2022: AGENTS RETIREMENT PLAN OF THE LINCOLN NATIONAL LIFE INSURANCE COMPANY
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 1517
-        Assets: 76473657
-        $/Participant: 50411
+
+  [Other] LNL SA11 CORE EQUITY [111]
+    2019  [codes: ]
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $43,818,672
+
+    2017
+        Participants:   Average: $
+        Assets: $65,135,730
+
+  [Other] LNL SA12 GOVERNMENT/CORPORATE BOND [112]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $65,295,888
+
+    2017
+        Participants:   Average: $
+        Assets: $107,234,675
+
+  [Other] LNL SA14 SHORT TERM [114]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $169,911,140
+
+    2017
+        Participants:   Average: $
+        Assets: $180,161,741
+
+  [Other] LNL SA17 MEDIUM CAPITALIZATION EQUITY [117]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $39,909,777
+
+    2017
+        Participants:   Average: $
+        Assets: $47,422,717
+
+  [Other] LNL SA19 ALLIANCE BERNSTEIN VPS GROWTH AND INCOME [119]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $23,089,427
+
+    2017
+        Participants:   Average: $
+        Assets: $30,504,119
+
+  [Other] LNL SA20 HIGH YIELD BOND [120]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $40,955,617
+
+    2017
+        Participants:   Average: $
+        Assets: $56,604,808
+
+  [Other] LNL SA21 BALANCED [121]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $207,725,586
+
+    2017
+        Participants:   Average: $
+        Assets: $280,329,905
+
+  [Other] LNL SA22 INTERNATIONAL EQUITY [122]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $28,770,237
+
+    2017
+        Participants:   Average: $
+        Assets: $40,622,140
+
+  [Other] LNL SA23 LARGE CAPITALIZATION EQUITY [123]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $60,883,852
+
+    2017
+        Participants:   Average: $
+        Assets: $78,061,857
+
+  [Other] LNL SA24 SMALL CAPITALIZATION EQUITY [124]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $61,260,012
+
+    2017
+        Participants:   Average: $
+        Assets: $79,906,726
+
+  [Other] LNL SA27 LVIP SSGA S&P 500 INDEX [127]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $203,066,360
+
+    2017
+        Participants:   Average: $
+        Assets: $233,590,602
+
+  [Other] LNL SA28 VALUE EQUITY [128]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $63,769,254
+
+    2017
+        Participants:   Average: $
+        Assets: $91,278,162
+
+  [Other] LNL SA30 CONSERVATIVE BALANCED [130]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $75,405,910
+
+    2017
+        Participants:   Average: $
+        Assets: $98,445,899
+
+  [Other] LNL SA32 AGGRESSIVE BALANCED [132]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $137,038,131
+
+    2017
+        Participants:   Average: $
+        Assets: $169,067,513
+
+  [Other] LNL SA33 LVIP DELAWARE SOCIAL AWARENESS [133]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $16,439,901
+
+    2017
+        Participants:   Average: $
+        Assets: $21,997,968
+
+  [Other] LNL SA34 AFIS GLOBAL GROWTH [134]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $34,462,682
+
+    2017
+        Participants:   Average: $
+        Assets: $44,018,899
+
+  [Other] LNL SA35 FIDELITY VIP II CONTRAFUND [135]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $104,069,324
+
+    2017
+        Participants:   Average: $
+        Assets: $135,549,532
+
+  [Other] LNL SA36 LVIP SSGA SMALL CAP INDEX [136]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $20,334,063
+
+    2017
+        Participants:   Average: $
+        Assets: $29,759,497
+
+  [Other] LNL SA39 ALLIANCE BERNSTEIN VPS SMALL/MID CAP VALUE [139]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $19,928,351
+
+    2017
+        Participants:   Average: $
+        Assets: $29,147,755
+
+  [Other] LNL SA46 AFIS GLOBAL SMALL CAPITALIZATION [146]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $31,049,193
+
+    2017
+        Participants:   Average: $
+        Assets: $42,975,837
+
+  [Other] LNL SA48 AFIS GROWTH [148]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $100,762,517
+
+    2017
+        Participants:   Average: $
+        Assets: $124,672,223
+
+  [Other] LNL SA49 AFIS GROWTH & INCOME [149]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $73,418,810
+
+    2017
+        Participants:   Average: $
+        Assets: $99,993,747
+
+  [Other] LNL SA54 AFIS INTERNATIONAL [154]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $41,736,899
+
+    2017
+        Participants:   Average: $
+        Assets: $58,440,633
+
+  [Other] LNL SA55 LVIP COHEN & STEERS GLOBAL REAL ESTATE [155]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $30,467,565
+
+    2017
+        Participants:   Average: $
+        Assets: $41,781,356
+
+  [Other] LNL SA56 DELAWARE VIP SMALL CAP [156]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $39,636,615
+
+    2017
+        Participants:   Average: $
+        Assets: $61,520,678
+
+  [Other] LNL SA57 LVIP DIMENSIONAL U.S. EQUITY RPM FUND [157]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $16,359,769
+
+    2017
+        Participants:   Average: $
+        Assets: $21,592,711
+
+  [Other] LNL SA58 FIDELITY VIP GROWTH [158]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $22,840,551
+
+    2017
+        Participants:   Average: $
+        Assets: $30,371,994
+
+  [Other] LNL SA59 FIDELITY VIP OVERSEAS [159]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $12,275,363
+
+    2017
+        Participants:   Average: $
+        Assets: $16,939,489
+
+  [Other] LNL SA61 DELAWARE VIP VALUE [161]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $41,725,315
+
+    2017
+        Participants:   Average: $
+        Assets: $48,691,902
+
+  [Other] LNL SA62 LVIP TEMPLETON GROWTH [162]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $6,341,695
+
+    2017
+        Participants:   Average: $
+        Assets: $8,887,833
+
+  [Other] LNL SA63 FRANKLIN SMALL-MID CAP GROWTH SECURITIES [163]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $14,207,322
+
+    2017
+        Participants:   Average: $
+        Assets: $18,832,369
+
+  [Other] LNL SA64 JANUS ASPEN SERIES MID CAP GROWTH [164]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $53,724,756
+
+    2017
+        Participants:   Average: $
+        Assets: $59,308,053
+
+  [Other] LNL SA65 MFS VIT GROWTH SERIES [165]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $92,380,761
+
+    2017
+        Participants:   Average: $
+        Assets: $98,361,487
+
+  [Other] LNL SA67 MFS VIT UTILITIES SERIES [167]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $35,239,005
+
+    2017
+        Participants:   Average: $
+        Assets: $46,490,628
+
+  [Other] LNL SA76 BLACKROCK SMALL/MID-CAP GROWTH [176]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $11,597,635
+
+    2017
+        Participants:   Average: $
+        Assets: $13,143,266
+
+  [Other] LNL SA77 BLACKROCK GLOBAL RESOURCES [177]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $17,791,820
+
+    2017
+        Participants:   Average: $
+        Assets: $28,813,070
+
+  [Other] LNL SA81 BLACKROCK CAPITAL APPRECIATION [181]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $19,461,015
+
+    2017
+        Participants:   Average: $
+        Assets: $14,453,977
+
+  [Other] LNL SA83 BLACKROCK MID-CAP VALUE EQUITY [183]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $26,446,274
+
+    2017
+        Participants:   Average: $
+        Assets: $30,905,608
+
+  [Other] LNL SA84 FIDELITY VIP MID CAP [184]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $28,589,946
+
+    2017
+        Participants:   Average: $
+        Assets: $41,026,767
+
+  [Other] LNL SA86 TEMPLETON GLOBAL INCOME SECURITIES [186]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $23,145,652
+
+    2017
+        Participants:   Average: $
+        Assets: $26,497,957
+
+  [Other] LNL SA87 DELAWARE VIP CAPITAL RESERVES [187]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $5,187,989
+
+    2017
+        Participants:   Average: $
+        Assets: $6,486,357
+
+  [Other] LNL SA92 AMERICAN CENTURY VP INFLATION PROTECTION [192]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $18,773,830
+
+    2017
+        Participants:   Average: $
+        Assets: $23,449,448
+
+  [Other] LNL SA93 DELAWARE DIVERSIFIED INCOME [193]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $18,662,425
+
+    2017
+        Participants:   Average: $
+        Assets: $23,829,026
+
+  [Other] LNL SA94 DELAWARE VIP EMERGING MARKETS [194]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $54,935,124
+
+    2017
+        Participants:   Average: $
+        Assets: $75,287,742
+
+  [Other] LNL SA95 LVIP WILSHIRE CONSERVATIVE PROFILE [195]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $15,632,623
+
+    2017
+        Participants:   Average: $
+        Assets: $24,869,877
+
+  [Other] LNL SA96 LVIP WILSHIRE MODERATE PROFILE [196]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $37,559,011
+
+    2017
+        Participants:   Average: $
+        Assets: $52,790,759
+
+  [Other] LNL SA97 LVIP WILSHIRE MODERATELY AGGRESSIVE PROFILE [197]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $33,701,699
+
+    2017
+        Participants:   Average: $
+        Assets: $42,938,704
+
+  [Other] LNL SA99 DIST NO.9 I.A.OF M. & A.W. ACCOUNT [199]
+    2019
+        Participants:   Average: $
+        Assets: $-1
+
+    2018
+        Participants:   Average: $
+        Assets: $-1
+
+    2017
+        Participants:   Average: $
+        Assets: $5,567,940
+
+  [Other] LINCOLN LIFE SEPARATE ACCOUNT 4K [402]
+    2022
+        Participants:   Average: $
+        Assets: $7,855,201,642
+
+    2021
+        Participants:   Average: $
+        Assets: $9,403,856,775
+
+    2020
+        Participants:   Average: $
+        Assets: $8,289,787,877
+
+    2019
+        Participants:   Average: $
+        Assets: $7,293,234,632
+
+    2018
+        Participants:   Average: $
+        Assets: $2,614,728,742
+
+    2017
+        Participants:   Average: $
+        Assets: $2,077,054,973
+
+  [Other] LNL SAL1 LVIP WILSHIRE 2010 PROFILE [701]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $5,480,762
+
+    2017
+        Participants:   Average: $
+        Assets: $10,259,012
+
+  [Other] LNL SAL2 LVIP WILSHIRE 2020 PROFILE [702]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $33,494,416
+
+    2017
+        Participants:   Average: $
+        Assets: $44,728,378
+
+  [Other] LNL SAL3 LVIP WILSHIRE 2030 PROFILE [703]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $52,831,669
+
+    2017
+        Participants:   Average: $
+        Assets: $65,189,233
+
+  [Other] LNL SAL4 LVIP WILSHIRE 2040 PROFILE [704]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $41,361,561
+
+    2017
+        Participants:   Average: $
+        Assets: $50,244,700
+
+  [Other] LNL SATC 401K TOOLBOX MANAGED CONSERVATIVE [705]
+    2022
+        Participants:   Average: $
+        Assets: $36,521,896
+
+    2021
+        Participants:   Average: $
+        Assets: $59,037,040
+
+    2020
+        Participants:   Average: $
+        Assets: $51,528,975
+
+    2019
+        Participants:   Average: $
+        Assets: $53,085,985
+
+    2018
+        Participants:   Average: $
+        Assets: $53,003,545
+
+    2017
+        Participants:   Average: $
+        Assets: $51,205,215
+
+  [Other] LNL SATM 401K TOOLBOX MANAGED MODERATE [706]
+    2022
+        Participants:   Average: $
+        Assets: $118,410,496
+
+    2021
+        Participants:   Average: $
+        Assets: $190,477,077
+
+    2020
+        Participants:   Average: $
+        Assets: $180,434,667
+
+    2019
+        Participants:   Average: $
+        Assets: $192,085,302
+
+    2018
+        Participants:   Average: $
+        Assets: $210,258,360
+
+    2017
+        Participants:   Average: $
+        Assets: $273,828,005
+
+  [Other] LNL SATG 401K TOOLBOX MANAGED GROWTH [707]
+    2022
+        Participants:   Average: $
+        Assets: $89,786,779
+
+    2021
+        Participants:   Average: $
+        Assets: $137,117,890
+
+    2020
+        Participants:   Average: $
+        Assets: $137,031,286
+
+    2019
+        Participants:   Average: $
+        Assets: $156,871,413
+
+    2018
+        Participants:   Average: $
+        Assets: $170,246,924
+
+    2017
+        Participants:   Average: $
+        Assets: $236,598,936
+
+  [Other] LNL SAL5 LVIP SSGA INTERNATIONAL INDEX [708]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $21,827,993
+
+    2017
+        Participants:   Average: $
+        Assets: $30,183,785
+
+  [Other] LNL SAL6 LVIP SSGA BOND INDEX [709]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $18,151,898
+
+    2017
+        Participants:   Average: $
+        Assets: $24,603,670
+
+  [Other] LNL SAL7 LVIP DELAWARE SPECIAL OPPORTUNITIES [710]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $5,097,644
+
+    2017
+        Participants:   Average: $
+        Assets: $7,333,981
+
+  [Other] LNL SAL8 SSGA RUSSELL 1000 VALUE INDEX [711]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $20,237,206
+
+    2017
+        Participants:   Average: $
+        Assets: $25,793,445
+
+  [Other] LNL SAL9 SSGA RUSSELL 1000 GROWTH INDEX [712]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $37,213,286
+
+    2017
+        Participants:   Average: $
+        Assets: $41,540,623
+
+  [Other] LNL SALA SSGA S&P MIDCAP INDEX [713]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $77,288,535
+
+    2017
+        Participants:   Average: $
+        Assets: $101,489,103
+
+  [Other] LNL SALB SSGA RUSSELL SMALL CAP VALUE INDEX [714]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $26,592,769
+
+    2017
+        Participants:   Average: $
+        Assets: $36,792,153
+
+  [Other] LNL SALC SSGA RUSSELL SMALL CAP GROWTH INDEX [715]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $40,626,964
+
+    2017
+        Participants:   Average: $
+        Assets: $46,718,418
+
+  [Other] LNL SA1C AMERICAN FUNDS HIGH-INCOME TRUST [716]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $5,680,654
+
+    2017
+        Participants:   Average: $
+        Assets: $7,072,171
+
+  [Other] LNL SA1E AMERICAN FUNDS BOND FUND OF AMERICA [717]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $11,676,413
+
+    2017
+        Participants:   Average: $
+        Assets: $14,732,030
+
+  [Other] LNL SA1X LVIP BARON GROWTH OPPORTUNITIES [718]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $7,416,594
+
+    2017
+        Participants:   Average: $
+        Assets: $7,905,990
+
+  [Other] LNL SALL LVIP PROTECTED PROFILE 2050 [719]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $20,858,442
+
+    2017
+        Participants:   Average: $
+        Assets: $23,100,995
+
+  [Other] LNL SALM PIMCO TOTAL RETURN [720]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $14,541,218
+
+    2017
+        Participants:   Average: $
+        Assets: $17,688,030
+
+  [Other] LNL SATB 401K TOOLBOX MANAGED BALANCED [722]
+    2022
+        Participants:   Average: $
+        Assets: $62,627,106
+
+    2021
+        Participants:   Average: $
+        Assets: $96,806,614
+
+    2020
+        Participants:   Average: $
+        Assets: $91,943,616
+
+    2019
+        Participants:   Average: $
+        Assets: $97,032,757
+
+    2018
+        Participants:   Average: $
+        Assets: $105,940,664
+
+    2017
+        Participants:   Average: $
+        Assets: $115,073,156
+
+  [Other] LNL SATP 401K TOOLBOX MANAGED CAPITAL PRESERVATION [723]
+    2022
+        Participants:   Average: $
+        Assets: $20,720,760
+
+    2021
+        Participants:   Average: $
+        Assets: $25,296,373
+
+    2020
+        Participants:   Average: $
+        Assets: $22,054,055
+
+    2019
+        Participants:   Average: $
+        Assets: $22,948,120
+
+    2018
+        Participants:   Average: $
+        Assets: $28,228,725
+
+    2017
+        Participants:   Average: $
+        Assets: $23,639,024
+
+  [Other] LNL SATT 401K TOOLBOX MANAGED TACTICAL [724]
+    2022
+        Participants:   Average: $
+        Assets: $20,040,193
+
+    2021
+        Participants:   Average: $
+        Assets: $33,465,275
+
+    2020
+        Participants:   Average: $
+        Assets: $33,574,345
+
+    2019
+        Participants:   Average: $
+        Assets: $34,604,226
+
+    2018
+        Participants:   Average: $
+        Assets: $38,312,917
+
+    2017
+        Participants:   Average: $
+        Assets: $52,328,952
+
+  [Other] LNL SAV1 VANGUARD TARGET RETIREMENT 2010 [730]
+    2018
+        Participants: 
+
+    2017
+        Participants:   Average: $
+        Assets: $1
+
+  [Other] LNL SAV2 VANGUARD TARGET RETIREMENT 2020 [731]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $151,301,889
+
+    2017
+        Participants:   Average: $
+        Assets: $185,951,645
+
+  [Other] LNL SAV3 VANGUARD TARGET RETIREMENT 2030 [732]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $205,647,277
+
+    2017
+        Participants:   Average: $
+        Assets: $238,781,597
+
+  [Other] LNL SAV4 VANGUARD TARGET RETIREMENT 2040 [733]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $115,853,154
+
+    2017
+        Participants:   Average: $
+        Assets: $129,957,178
+
+  [Other] LNL SAV5 VANGUARD TARGET RETIREMENT 2050 [734]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $54,320,831
+
+    2017
+        Participants:   Average: $
+        Assets: $58,526,759
+
+  [Other] LNL SALE BLACKROCK GLOBAL ALLOCATION [735]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $7,693,427
+
+    2017
+        Participants:   Average: $
+        Assets: $8,674,089
+
+  [Other] AMERICAN FUNDS TARGET2060 SAE9 [749]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $325,935
+
+    2017
+        Participants:   Average: $
+        Assets: $70,791
+
+  [Other] LNL SADY BAIRD AGGREGATE BOND INST [750]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $12,765,259
+
+    2017
+        Participants:   Average: $
+        Assets: $14,617,146
+
+  [Other] LNL SADZ BAIRD CORE PLUS BOND INST [751]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $5,017,641
+
+    2017
+        Participants:   Average: $
+        Assets: $5,140,875
+
+  [Other] LNL SAF9 EATON VANCE INC FUND BOS [752]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $15,202,100
+
+    2017
+        Participants:   Average: $
+        Assets: $19,153,990
+
+  [Other] LNL SAEG VG TARGET RET INC INV [753]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $52,609,746
+
+    2017
+        Participants:   Average: $
+        Assets: $68,738,575
+
+  [Other] LNL SAEF VANGUARD TARGET DATE 2060 [754]
+    2019
+        Participants: 
+
+    2018
+        Participants:   Average: $
+        Assets: $2,103,632
+
+    2017
+        Participants:   Average: $
+        Assets: $398,317
+
+  [Pension] AGENTS RETIREMENT PLAN OF THE LINCOLN NATIONAL LIFE INSURANCE COMPANY [004]
+    2022  [codes: 1A1I]
+        Participants: 1,517  Average: $50,411
+        Assets: $76,473,657
         RecordKeeper: CALLAN
         Available Investments:
            - LINCOLN NATIONAL LIFE INSURANCE CO
                  : LIN NAT CORP EMPL RETIREMENT TRUST
-    2021: AGENTS RETIREMENT PLAN OF THE LINCOLN NATIONAL LIFE INSURANCE COMPANY
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 1583
-        Assets: 104262545
-        $/Participant: 65863
+
+    2021
+        Participants: 1,583  Average: $65,863
+        Assets: $104,262,545
         RecordKeeper: STATE STREET
         Available Investments:
            - LINCOLN NATIONAL LIFE INSURANCE CO
                  : LIN NAT CORP EMPL RETIREMENT TRUST
-    2020: AGENTS RETIREMENT PLAN OF THE LINCOLN NATIONAL LIFE INSURANCE COMPANY
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 1640
-        Assets: 115694927
-        $/Participant: 70545
+
+    2020  [codes: 1A]
+        Participants: 1,640  Average: $70,545
+        Assets: $115,694,927
         RecordKeeper: STATE STREET
         Available Investments:
            - LINCOLN NATIONAL LIFE INSURANCE CO
                  : LIN NAT CORP EMPL RETIREMENT TRUST
-    2019: AGENTS RETIREMENT PLAN OF THE LINCOLN NATIONAL LIFE INSURANCE COMPANY
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 1688
-        Assets: 109236748
-        $/Participant: 64713
+
+    2019
+        Participants: 1,688  Average: $64,713
+        Assets: $109,236,748
         RecordKeeper: STATE STREET
         Available Investments:
            - LINCOLN NATIONAL LIFE INSURANCE CO
                  : LIN NAT CORP EMPL RETIREMENT TRUST
-    2018: AGENTS RETIREMENT PLAN OF THE LINCOLN NATIONAL LIFE INSURANCE COMPANY
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 1739
-        Assets: 107748959
-        $/Participant: 61960
+
+    2018
+        Participants: 1,739  Average: $61,960
+        Assets: $107,748,959
         RecordKeeper: STATE STREET
         Available Investments:
            - LINCOLN NATIONAL LIFE INSURANCE CO
                  : LIN NAT CORP EMPL RETIREMENT TRUST
-    2017: AGENTS RETIREMENT PLAN OF THE LINCOLN NATIONAL LIFE INSURANCE COMPANY
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 1795
-        Assets: 118768410
-        $/Participant: 66166
+
+    2017
+        Participants: 1,795  Average: $66,166
+        Assets: $118,768,410
         RecordKeeper: CALLAN
         Available Investments:
            - LINCOLN NATIONAL LIFE INSURANCE CO
                  : LIN NAT CORP EMPL RETIREMENT TRUST
-   [514]
-    2022: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' CRITICAL ILLNESS INSURANCE PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+  [Short-term disability] LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' CRITICAL ILLNESS INSURANCE PLAN [514]
+    2022  [codes: 4F]
         Participants: 
-    2021: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' CRITICAL ILLNESS INSURANCE PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+    2021
         Participants: 
-    2020: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' CRITICAL ILLNESS INSURANCE PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+    2020
         Participants: 
-    2019: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' CRITICAL ILLNESS INSURANCE PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+    2019
         Participants: 
-    2018: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' CRITICAL ILLNESS INSURANCE PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+    2018
         Participants: 
-    2017: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' CRITICAL ILLNESS INSURANCE PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+    2017
         Participants: 
-   [515]
-    2022: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' VOLUNTARY ACCIDENT INSURANCE
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+  [Short-term disability] LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' VOLUNTARY ACCIDENT INSURANCE [515]
+    2022
         Participants: 
-    2021: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' VOLUNTARY ACCIDENT INSURANCE
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+    2021
         Participants: 
-    2020: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' VOLUNTARY ACCIDENT INSURANCE
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+    2020
         Participants: 
-    2019: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' VOLUNTARY ACCIDENT INSURANCE
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+    2019
         Participants: 
-    2018: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' VOLUNTARY ACCIDENT INSURANCE
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+    2018
         Participants: 
-    2017: LINCOLN NATIONAL LIFE INSURANCE COMPANY AGENTS' VOLUNTARY ACCIDENT INSURANCE
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+    2017
         Participants: 
-AL : HUNTSVILLE
-   [507]
-    2020: LINCOLN NATIONAL LIFE INSURANCE COMPANY
-        Benefit Category: Vision
-        Codes:  4E
+ -- AL : HUNTSVILLE
+  [Vision] LINCOLN NATIONAL LIFE INSURANCE COMPANY [507]
+    2020  [codes: 4E]
         Participants: 115
-   [512]
-    2021: DESE RESEARCH, INC.
-        Benefit Category: Vision
-        Codes:  4E
+
+  [Vision] DESE RESEARCH, INC. [512]
+    2021
         Participants: 115

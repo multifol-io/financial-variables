@@ -1,146 +1,120 @@
-NY : PURCHASE
-  MBIA INC.  061185706
-   [002]
-    2022: MBIA INC. EMPLOYEE 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2H2E2J2K2R2T3D 
-        Participants: 355
-        Assets: 125292866
-        $/Participant: 352937
+MBIA INC.  061185706 -- NY : PURCHASE
+  [401(k)] MBIA INC. EMPLOYEE 401(K) PLAN [002]
+    2022  [codes: 2F2G2H2E2J2K2R2T3D]
+        Participants: 355  Average: $352,937
+        Assets: $125,292,866
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FID GROWTH CO POOL
                  : MIP CL 2
-    2021: MBIA INC. EMPLOYEE 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2H2J2K2R2T3D 
-        Participants: 367
-        Assets: 173905042
-        $/Participant: 473855
+
+    2021  [codes: 2E2F2G2H2J2K2R2T3D]
+        Participants: 367  Average: $473,855
+        Assets: $173,905,042
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FID GROWTH CO POOL
                  : MIP CL 2
-    2020: MBIA INC. 401(K) EMPLOYEE PLAN
-        Benefit Category: 401(k)
-        Codes: 2H2J2K2T3D2R2E2F2G 
-        Participants: 386
-        Assets: 153527978
-        $/Participant: 397740
+
+  [401(k)] MBIA INC. 401(K) EMPLOYEE PLAN
+    2020  [codes: 2H2J2K2T3D2R2E2F2G]
+        Participants: 386  Average: $397,740
+        Assets: $153,527,978
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FID GROWTH CO POOL
                  : MIP CL 2
-    2019: MBIA INC. EMPLOYEE 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2H2J2K2R2T 
-        Participants: 405
-        Assets: 128971741
-        $/Participant: 318448
+
+  [401(k)] MBIA INC. EMPLOYEE 401(K) PLAN
+    2019  [codes: 2E2F2G2H2J2K2R2T]
+        Participants: 405  Average: $318,448
+        Assets: $128,971,741
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
-    2018: MBIA INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2H2J2K2R2T 
-        Participants: 426
-        Assets: 104963130
-        $/Participant: 246392
+
+  [401(k)] MBIA INC. 401(K) PLAN
+    2018
+        Participants: 426  Average: $246,392
+        Assets: $104,963,130
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-    2017: MBIA INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2H2J2K2R2T 
-        Participants: 449
-        Assets: 115677087
-        $/Participant: 257632
+
+    2017
+        Participants: 449  Average: $257,632
+        Assets: $115,677,087
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-   [506]
-    2020: MBIA INC. EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4Q4R
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident] MBIA INC. EMPLOYEE BENEFIT PLAN [506]
+    2020  [codes: 4A4B4D4E4H4L4Q4R]
         Participants: 
-    2019: MBIA INC. EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4Q
+
+    2019  [codes: 4A4B4D4E4H4L4Q]
         Participants: 
-    2018: MBIA INC. EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability, Travel accident
-        Codes:  4A4B4D4H4L4Q
+
+    2018  [codes: 4A4B4D4H4L4Q]
         Participants: 
-    2017: MBIA INC. EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability, Travel accident
-        Codes:  4A4B4D4H4L4Q
+
+    2017
         Participants: 
-   [001]
-    2022: MBIA INC. EMPLOYEES PENSION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2R2T3D 
-        Participants: 257
-        Assets: 121391410
-        $/Participant: 472340
+
+  [Other] MBIA INC. EMPLOYEES PENSION PLAN [001]
+    2022  [codes: 2C2F2G2R2T3D]
+        Participants: 257  Average: $472,340
+        Assets: $121,391,410
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FID GROWTH CO POOL
                  : MIP CL 2
-    2021: MBIA INC. EMPLOYEES PENSION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2R2T3D 
-        Participants: 262
-        Assets: 163345362
-        $/Participant: 623455
+
+    2021
+        Participants: 262  Average: $623,455
+        Assets: $163,345,362
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FID GROWTH CO POOL
                  : MIP CL 2
-    2020: MBIA, INC. EMPLOYEES PENSION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2T3D2R 
-        Participants: 279
-        Assets: 147935651
-        $/Participant: 530235
+
+  [Other] MBIA, INC. EMPLOYEES PENSION PLAN
+    2020  [codes: 2C2F2G2T3D2R]
+        Participants: 279  Average: $530,235
+        Assets: $147,935,651
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FID GROWTH CO POOL
                  : MIP CL 2
-    2019: MBIA, INC. EMPLOYEES PENSION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2R2T 
-        Participants: 293
-        Assets: 121732917
-        $/Participant: 415470
+
+    2019  [codes: 2C2F2G2R2T]
+        Participants: 293  Average: $415,470
+        Assets: $121,732,917
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
-    2018: MBIA, INC. EMPLOYEES PENSION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2R2T 
-        Participants: 302
-        Assets: 98746203
-        $/Participant: 326974
+
+    2018
+        Participants: 302  Average: $326,974
+        Assets: $98,746,203
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-    2017: MBIA, INC. EMPLOYEES PENSION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2R2T 
-        Participants: 324
-        Assets: 108404999
-        $/Participant: 334583
+
+    2017
+        Participants: 324  Average: $334,583
+        Assets: $108,404,999
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY

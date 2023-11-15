@@ -1,101 +1,69 @@
-TN : COLUMBIA
-  TENNESSEE FARMERS MUTUAL INSURANCE COMPANY  620516475
-   [002]
-    2022: TENNESSEE FARMERS MUTUAL INSURANCE COMPANY RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2H2J2K2S2T3F 
-        Participants: 986
-        Assets: 145465654
-        $/Participant: 147531
-    2021: TENNESSEE FARMERS MUTUAL INSURANCE COMPANY RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2H2J2K2S2T3F 
-        Participants: 993
-        Assets: 171857668
-        $/Participant: 173069
-    2020: TENNESSEE FARMERS MUTUAL INSURANCE COMPANY RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2H2J2K2S2T3F 
-        Participants: 985
-        Assets: 152375681
-        $/Participant: 154696
-    2019: TENNESSEE FARMERS MUTUAL INSURANCE COMPANY RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2H2J2K2S2T3F 
-        Participants: 966
-        Assets: 135043742
-        $/Participant: 139796
-    2018: TENNESSEE FARMERS MUTUAL INSURANCE COMPANY RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2H2J2K2S2T3F 
-        Participants: 943
-        Assets: 118028910
-        $/Participant: 125163
-    2017: TENNESSEE FARMERS MUTUAL INSURANCE COMPANY RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2H2J2K2S2T3F 
-        Participants: 968
-        Assets: 123750447
-        $/Participant: 127841
-   [521]
-    2022: TENNESSEE FARMERS MUTUAL INSURANCE COMPANY MEDICAL PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
-        Participants: 1200
-    2021: TENNESSEE FARMERS MUTUAL INSURANCE COMPANY MEDICAL PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
-        Participants: 1183
-    2020: TENNESSEE FARMERS MUTUAL INSURANCE COMPANY MEDICAL PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
-        Participants: 1173
-    2019: TENNESSEE FARMERS MUTUAL INSURANCE COMPANY MEDICAL PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
-        Participants: 1163
-    2018: TENNESSEE FARMERS MUTUAL INSURANCE COMPANY MEDICAL PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
-        Participants: 1121
-    2017: TENNESSEE FARMERS MUTUAL INSURANCE COMPANY MEDICAL PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
-        Participants: 1077
-   [001]
-    2022: RETIREMENT PLAN OF TENNESSEE FARMERS MUTUAL INSURA
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 1315
-        Assets: 767318700
-        $/Participant: 583512
-    2021: RETIREMENT PLAN OF TENNESSEE FARMERS MUTUAL INSURA
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 1297
-        Assets: 900564748
-        $/Participant: 694344
-    2020: RETIREMENT PLAN OF TENNESSEE FARMERS MUTUAL INSURA
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 1273
-        Assets: 795895227
-        $/Participant: 625212
-    2019: RETIREMENT PLAN OF TENNESSEE FARMERS MUTUAL INSURA
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 1243
-        Assets: 694909696
-        $/Participant: 559058
-    2018: RETIREMENT PLAN OF TENNESSEE FARMERS MUTUAL INSURA
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 1198
-        Assets: 595478354
-        $/Participant: 497060
-    2017: RETIREMENT PLAN OF TENNESSEE FARMERS MUTUAL INSURA
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 1156
-        Assets: 555998343
-        $/Participant: 480967
+TENNESSEE FARMERS MUTUAL INSURANCE COMPANY  620516475 -- TN : COLUMBIA
+  [401(k)] TENNESSEE FARMERS MUTUAL INSURANCE COMPANY RETIREMENT SAVINGS PLAN [002]
+    2022  [codes: 2E2F2H2J2K2S2T3F]
+        Participants: 986  Average: $147,531
+        Assets: $145,465,654
+
+    2021
+        Participants: 993  Average: $173,069
+        Assets: $171,857,668
+
+    2020
+        Participants: 985  Average: $154,696
+        Assets: $152,375,681
+
+    2019
+        Participants: 966  Average: $139,796
+        Assets: $135,043,742
+
+    2018
+        Participants: 943  Average: $125,163
+        Assets: $118,028,910
+
+    2017
+        Participants: 968  Average: $127,841
+        Assets: $123,750,447
+
+  [Healthcare, Dental] TENNESSEE FARMERS MUTUAL INSURANCE COMPANY MEDICAL PLAN [521]
+    2022  [codes: 4A4D]
+        Participants: 1,200
+
+    2021
+        Participants: 1,183
+
+    2020
+        Participants: 1,173
+
+    2019
+        Participants: 1,163
+
+    2018
+        Participants: 1,121
+
+    2017
+        Participants: 1,077
+
+  [Pension] RETIREMENT PLAN OF TENNESSEE FARMERS MUTUAL INSURA [001]
+    2022  [codes: 1A3H]
+        Participants: 1,315  Average: $583,512
+        Assets: $767,318,700
+
+    2021
+        Participants: 1,297  Average: $694,344
+        Assets: $900,564,748
+
+    2020
+        Participants: 1,273  Average: $625,212
+        Assets: $795,895,227
+
+    2019
+        Participants: 1,243  Average: $559,058
+        Assets: $694,909,696
+
+    2018
+        Participants: 1,198  Average: $497,060
+        Assets: $595,478,354
+
+    2017
+        Participants: 1,156  Average: $480,967
+        Assets: $555,998,343

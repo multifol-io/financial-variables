@@ -1,9 +1,6 @@
-TX : HOUSTON
-  SPECTRA ENERGY CORP  205413139
-   [002]
-    2018: SPECTRA ENERGY RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 3H2J2K2F3I 
+SPECTRA ENERGY CORP  205413139 -- TX : HOUSTON
+  [401(k)] SPECTRA ENERGY RETIREMENT SAVINGS PLAN [002]
+    2018  [codes: 3H2J2K2F3I]
         Participants: 0
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
@@ -31,12 +28,10 @@ TX : HOUSTON
                  : US LARGE CAP VALUE EQUITY FUND
            - VOYA
                  : SMALL CAP GROWTH TRUST FUND
-    2017: SPECTRA ENERGY RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 3H2J2K2F3I2O 
-        Participants: 2679
-        Assets: 778880000
-        $/Participant: 290735
+
+    2017  [codes: 3H2J2K2F3I2O]
+        Participants: 2,679  Average: $290,735
+        Assets: $778,880,000
         RecordKeeper: BLACKROCK
         Available Investments:
            - BLACKROCK INC
@@ -65,13 +60,11 @@ TX : HOUSTON
                  : US LARGE CAP VALUE EQUITY FUND
            - VOYA
                  : SMALL CAP GROWTH TRUST FUND
-   [501]
-    2017: SPECTRA ENERGY MEDICAL PLAN
-        Benefit Category: Dental
-        Codes:  4D
-        Participants: 
-        Assets: 10037000
-        $/Participant: 
+
+  [Dental] SPECTRA ENERGY MEDICAL PLAN [501]
+    2017  [codes: 4D]
+        Participants:   Average: $
+        Assets: $10,037,000
         Service Providers:
            - BLUE CROSS BLUE SHIELD :  (Account maintenance fees)
            - AETNA :  (Account maintenance fees)
@@ -82,58 +75,49 @@ TX : HOUSTON
         Available Investments:
            - SPECTRA ENERGY CORP
                  : SEC EMPLOYEE BENEFITS TRUST
-   [502]
-    2020: SPECTRA ENERGY DENTAL PLAN
-        Benefit Category: Dental
-        Codes:  4D
+
+  [Dental] SPECTRA ENERGY DENTAL PLAN [502]
+    2020
         Participants: 
         Service Providers:
            - UMR :  (Account maintenance fees)
         Available Investments:
            - SPECTRA ENERGY CORP
                  : SEC EMPLOYEE BENEFITS TRUST
-    2019: SPECTRA ENERGY DENTAL PLAN
-        Benefit Category: Dental
-        Codes:  4D
-        Participants: 
-        Assets: 619000
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $619,000
         Service Providers:
            - UMR :  (Account maintenance fees)
         Available Investments:
            - SPECTRA ENERGY CORP
                  : SEC EMPLOYEE BENEFITS TRUST
-    2018: SPECTRA ENERGY DENTAL PLAN
-        Benefit Category: Dental
-        Codes:  4D
-        Participants: 
-        Assets: 1920000
-        $/Participant: 
+
+    2018
+        Participants:   Average: $
+        Assets: $1,920,000
         Service Providers:
            - UMR :  (Account maintenance fees)
            - BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar))
         Available Investments:
            - SPECTRA ENERGY CORP
                  : SEC EMPLOYEE BENEFITS TRUST
-    2017: SPECTRA ENERGY DENTAL PLAN
-        Benefit Category: Dental
-        Codes:  4D
-        Participants: 
-        Assets: 2188000
-        $/Participant: 
+
+    2017
+        Participants:   Average: $
+        Assets: $2,188,000
         Service Providers:
            - UMR :  (Account maintenance fees)
            - BANK OF NEW YORK MELLON :  (Trustee(bank, trust company, or similar))
         Available Investments:
            - SPECTRA ENERGY CORP
                  : SEC EMPLOYEE BENEFITS TRUST
-   [512]
-    2017: SPECTRA ENERGY RETIREE MEDICAL PLAN
-        Benefit Category: Dental
-        Codes:  4D
-        Participants: 
-        Assets: 20307000
-        $/Participant: 
+
+  [Dental] SPECTRA ENERGY RETIREE MEDICAL PLAN [512]
+    2017
+        Participants:   Average: $
+        Assets: $20,307,000
         Service Providers:
            - UMR :  (Account maintenance fees)
            - MEDCO :  (Account maintenance fees)
@@ -145,27 +129,23 @@ TX : HOUSTON
                  : CF AGG BOND INDEX FUND
                  : CF DV STOCK INDEX FUND
                  : SE4 CHARITABLE TEMP INV FD
-   [501]
-    2020: SPECTRA ENERGY MEDICAL PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] SPECTRA ENERGY MEDICAL PLAN [501]
+    2020  [codes: 4A]
         Participants: 
         Available Investments:
            - SPECTRA ENERGY CORP
                  : SEC EMPLOYEE BENEFITS TRUST
-    2019: SPECTRA ENERGY MEDICAL PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2019
         Participants: 
         Available Investments:
            - SPECTRA ENERGY CORP
                  : SEC EMPLOYEE BENEFITS TRUST
-    2018: SPECTRA ENERGY MEDICAL PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
-        Participants: 
-        Assets: 9962000
-        $/Participant: 
+
+    2018
+        Participants:   Average: $
+        Assets: $9,962,000
         Service Providers:
            - BLUE CROSS BLUE SHIELD :  (Account maintenance fees)
            - BEST DOCTORS :  (Account maintenance fees)
@@ -177,13 +157,11 @@ TX : HOUSTON
         Available Investments:
            - SPECTRA ENERGY CORP
                  : SEC EMPLOYEE BENEFITS TRUST
-   [512]
-    2022: SPECTRA ENERGY RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
-        Participants: 
-        Assets: 3091000
-        $/Participant: 
+
+  [Healthcare] SPECTRA ENERGY RETIREE MEDICAL PLAN [512]
+    2022
+        Participants:   Average: $
+        Assets: $3,091,000
         Service Providers:
            - LIFEWORK (US) LTD. :  (Account maintenance fees)
            - BLUE CROSS BLUE SHIELD OF TEXAS :  (Account maintenance fees)
@@ -192,12 +170,10 @@ TX : HOUSTON
         Available Investments:
            - ENBRIDGE EMPLOYEE SERVICES, INC.
                  : EESI WELFARE BENEFIT PLANS TRUST
-    2021: SPECTRA ENERGY RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
-        Participants: 
-        Assets: 5789000
-        $/Participant: 
+
+    2021
+        Participants:   Average: $
+        Assets: $5,789,000
         Service Providers:
            - BLUE CROSS BLUE SHIELD OF TEXAS :  (Account maintenance fees)
            - LIFEWORK (US) LTD. :  (Account maintenance fees)
@@ -206,12 +182,10 @@ TX : HOUSTON
         Available Investments:
            - ENBRIDGE EMPLOYEE SERVICES, INC.
                  : EESI WELFARE BENEFIT PLANS TRUST
-    2020: SPECTRA ENERGY RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
-        Participants: 
-        Assets: 2038000
-        $/Participant: 
+
+    2020
+        Participants:   Average: $
+        Assets: $2,038,000
         Service Providers:
            - BLUE CROSS BLUE SHIELD :  (Account maintenance fees)
            - BNYM :  (Trustee(bank, trust company, or similar) | Investment management)
@@ -220,12 +194,10 @@ TX : HOUSTON
                  : EESI WELFARE BENEFIT PLANS TRUST
            - SPECTRA ENERGY CORP
                  : SE POST RETIREMENT MASTER TRUST VEB
-    2019: SPECTRA ENERGY RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
-        Participants: 
-        Assets: 4906000
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $4,906,000
         Service Providers:
            - BLUE CROSS BLUE SHIELD :  (Account maintenance fees)
         Available Investments:
@@ -235,12 +207,10 @@ TX : HOUSTON
                  : SE4 CHARITABLE TEMP INV FD
            - SPECTRA ENERGY CORP
                  : SE POST RETIREMENT MASTER TRUST VEB
-    2018: SPECTRA ENERGY RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
-        Participants: 
-        Assets: 9726000
-        $/Participant: 
+
+    2018
+        Participants:   Average: $
+        Assets: $9,726,000
         Service Providers:
            - UMR :  (Account maintenance fees)
            - BLUE CROSS BLUE SHIELD :  (Account maintenance fees)
@@ -252,104 +222,84 @@ TX : HOUSTON
                  : CF AGG BOND INDEX FUND
                  : CF DV STOCK INDEX FUND
                  : SE4 CHARITABLE TEMP INV FD
-   [504]
-    2020: SPECTRA ENERGY BASIC LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+  [Life insurance] SPECTRA ENERGY BASIC LIFE INSURANCE PLAN [504]
+    2020  [codes: 4B]
         Participants: 
         Available Investments:
            - SPECTRA ENERGY CORP
                  : SEC EMPLOYEE BENEFITS TRUST
-    2019: SPECTRA ENERGY BASIC LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
-        Participants: 
-        Assets: 23000
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $23,000
         Available Investments:
            - SPECTRA ENERGY CORP
                  : SEC EMPLOYEE BENEFITS TRUST
-    2018: SPECTRA ENERGY BASIC LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
-        Participants: 
-        Assets: 30000
-        $/Participant: 
+
+    2018
+        Participants:   Average: $
+        Assets: $30,000
         Available Investments:
            - SPECTRA ENERGY CORP
                  : SEC EMPLOYEE BENEFITS TRUST
-    2017: SPECTRA ENERGY BASIC LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
-        Participants: 
-        Assets: 32000
-        $/Participant: 
+
+    2017
+        Participants:   Average: $
+        Assets: $32,000
         Available Investments:
            - SPECTRA ENERGY CORP
                  : SEC EMPLOYEE BENEFITS TRUST
-   [505]
-    2020: SPECTRA ENERGY SUPPLEMENTAL & DEPENDENT LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+  [Life insurance] SPECTRA ENERGY SUPPLEMENTAL & DEPENDENT LIFE INSURANCE PLAN [505]
+    2020
         Participants: 
-    2019: SPECTRA ENERGY SUPPLEMENTAL & DEPENDENT LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2019
         Participants: 
-    2018: SPECTRA ENERGY SUPPLEMENTAL & DEPENDENT LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2018
         Participants: 
-    2017: SPECTRA ENERGY SUPPLEMENTAL & DEPENDENT LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2017
         Participants: 
-   [508]
-    2018: SPECTRA ENERGY LONG-TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+  [Long-term disability] SPECTRA ENERGY LONG-TERM DISABILITY INSURANCE PLAN [508]
+    2018  [codes: 4H]
         Participants: 
         Available Investments:
            - SPECTRA ENERGY CORP
                  : SEC EMPLOYEE BENEFITS TRUST
-    2017: SPECTRA ENERGY LONG-TERM DISABILITY INSURANCE PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
-        Participants: 
-        Assets: 39000
-        $/Participant: 
+
+    2017
+        Participants:   Average: $
+        Assets: $39,000
         Available Investments:
            - SPECTRA ENERGY CORP
                  : SEC EMPLOYEE BENEFITS TRUST
-   [107]
-    2020: SPECTRA ENERGY CORP EMPLOYEE BENEFITS TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 16754000
-        $/Participant: 
+
+  [Other] SPECTRA ENERGY CORP EMPLOYEE BENEFITS TRUST [107]
+    2020  [codes: ]
+        Participants:   Average: $
+        Assets: $16,754,000
         Available Investments:
            - BANK OF NEW YORK MELLON
                  : CF AGGREGATE BOND INDEX FUND
                  : CF DV STOCK INDEX
                  : SE4 CHARITABLE TEMP INV FD
-    2019: SPECTRA ENERGY CORP EMPLOYEE BENEFITS TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 12298000
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $12,298,000
         Available Investments:
            - BANK OF NEW YORK MELLON
                  : CF AGGREGATE BOND INDEX FUND
                  : CF DV STOCK INDEX
                  : SE4 CHARITABLE TEMP INV FD
-    2018: SPECTRA ENERGY CORP EMPLOYEE BENEFITS TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 6237000
-        $/Participant: 
+
+    2018
+        Participants:   Average: $
+        Assets: $6,237,000
         Service Providers:
            - MELLON CAPITAL MANAGEMENT :  (Investment management)
         Available Investments:
@@ -357,12 +307,10 @@ TX : HOUSTON
                  : CF AGG BOND INDEX FUND
                  : CF DV STOCK INDEX
                  : SE4 CHARITABLE TEMP INV FD
-    2017: SPECTRA ENERGY CORP EMPLOYEE BENEFITS TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 11115770
-        $/Participant: 
+
+    2017
+        Participants:   Average: $
+        Assets: $11,115,770
         Service Providers:
            - MELLON CAPITAL MANAGEMENT :  (Investment management)
         Available Investments:
@@ -370,76 +318,62 @@ TX : HOUSTON
                  : CF AGG BOND INDEX FUND
                  : CF DV STOCK INDEX
                  : SE4 CHARITABLE TEMP INV FD
-   [108]
-    2020: SPECTRA POST RETIREMENT MASTER TRUST VEBA II
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 1773000
-        $/Participant: 
+
+  [Other] SPECTRA POST RETIREMENT MASTER TRUST VEBA II [108]
+    2020
+        Participants:   Average: $
+        Assets: $1,773,000
         Available Investments:
            - BANK OF NEW YORK MELLON
                  : CF AGGREGATE BOND INDEX FUND
                  : CF DV STOCK INDEX FUND
                  : SE4 CHARITABLE TEMPORARY INVESTMENT
-    2019: SPECTRA POST RETIREMENT MASTER TRUST VEBA II
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 3288000
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $3,288,000
         Available Investments:
            - BANK OF NEW YORK MELLON
                  : CF AGGREGATE BOND INDEX FUND
                  : CF DV STOCK INDEX FUND
                  : SE4 CHARITABLE TEMPORARY INVESTMENT
-   [503]
-    2019: SPECTRA ENERGY CAFETERIA PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+  [Other] SPECTRA ENERGY CAFETERIA PLAN [503]
+    2019  [codes: 4Q]
         Participants: 
-    2018: SPECTRA ENERGY CAFETERIA PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2018
         Participants: 
-    2017: SPECTRA ENERGY CAFETERIA PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2017
         Participants: 
-   [506]
-    2018: SPECTRA ENERGY BASIC SUPPLEMENTAL & DEPENDENT ACCIDENTAL DEATH & DISMEMBERMENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+  [Other] SPECTRA ENERGY BASIC SUPPLEMENTAL & DEPENDENT ACCIDENTAL DEATH & DISMEMBERMENT INSURANCE PLAN [506]
+    2018
         Participants: 
-    2017: SPECTRA ENERGY BASIC SUPPLEMENTAL & DEPENDENT ACCIDENTAL DEATH & DISMEMBERMENT INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2017
         Participants: 
-   [510]
-    2018: SPECTRA ENERGY EMPLOYEE ASSISTANCE PROGRAM
-        Benefit Category: Other
-        Codes:  4Q
+
+  [Other] SPECTRA ENERGY EMPLOYEE ASSISTANCE PROGRAM [510]
+    2018
         Participants: 
-    2017: SPECTRA ENERGY EMPLOYEE ASSISTANCE PROGRAM
-        Benefit Category: Other
-        Codes:  4Q
+
+    2017
         Participants: 
-   [001]
-    2018: SPECTRA ENERGY RETIREMENT CASH BALANCE PLAN
-        Benefit Category: Pension
-        Codes: 1C1E3F3H 
+
+  [Pension] SPECTRA ENERGY RETIREMENT CASH BALANCE PLAN [001]
+    2018  [codes: 1C1E3F3H]
         Participants: 0
         RecordKeeper: HILLSDALE INVESTMENT MANAGEMENT
         Available Investments:
            - NORTHERN TRUST
                  : SEI CORE PROPERTY COLLECTIVE INVT
                  : SEI STRUCTURED CREDIT COLLECTIVE
-    2017: SPECTRA ENERGY RETIREMENT CASH BALANCE PLAN
-        Benefit Category: Pension
-        Codes: 1C1E3F3H 
-        Participants: 6513
-        Assets: 641654000
-        $/Participant: 98518
+
+    2017
+        Participants: 6,513  Average: $98,518
+        Assets: $641,654,000
         Service Providers:
            - SEI INVESTMENT :  (Investment management fees paid directly by plan)
            - THE NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar))
@@ -447,30 +381,24 @@ TX : HOUSTON
            - NORTHERN TRUST
                  : SEI CORE PROPERTY COLLECTIVE INVT
                  : SEI STRUCTURED CREDIT COLLECTIVE
-   [568]
-    2018: SPECTRA ENERGY CORP CHANGE IN CONTROL SEVERANCE BENEFITS PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] SPECTRA ENERGY CORP CHANGE IN CONTROL SEVERANCE BENEFITS PLAN [568]
+    2018  [codes: 4I]
         Participants: 
-    2017: SPECTRA ENERGY CORP CHANGE IN CONTROL SEVERANCE BENEFITS PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2017
         Participants: 
-   [507]
-    2018: SPECTRA ENERGY BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Travel accident
-        Codes:  4L
+
+  [Travel accident] SPECTRA ENERGY BUSINESS TRAVEL ACCIDENT INSURANCE PLAN [507]
+    2018  [codes: 4L]
         Participants: 
-    2017: SPECTRA ENERGY BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Travel accident
-        Codes:  4L
+
+    2017
         Participants: 
-   [511]
-    2018: SPECTRA ENERGY VISION PLAN
-        Benefit Category: Vision
-        Codes:  4E
+
+  [Vision] SPECTRA ENERGY VISION PLAN [511]
+    2018  [codes: 4E]
         Participants: 
-    2017: SPECTRA ENERGY VISION PLAN
-        Benefit Category: Vision
-        Codes:  4E
+
+    2017
         Participants: 

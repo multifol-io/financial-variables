@@ -1,12 +1,8 @@
-OK : TULSA
-  EXPLORER PIPELINE COMPANY  730785982
-   [002]
-    2022: EXPLORER PIPELINE COMPANY 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3D3H 
-        Participants: 290
-        Assets: 70481643
-        $/Participant: 243040
+EXPLORER PIPELINE COMPANY  730785982 -- OK : TULSA
+  [401(k)] EXPLORER PIPELINE COMPANY 401(K) SAVINGS PLAN [002]
+    2022  [codes: 2A2E2F2G2J2K2S2T3D3H]
+        Participants: 290  Average: $243,040
+        Assets: $70,481,643
         RecordKeeper: BOKF, N.A.
         Available Investments:
            - WILMINGTON TRUST, N.A.
@@ -15,12 +11,10 @@ OK : TULSA
            - WILMINGTON TRUST,N.A.
                  : FLEXPATH STABLE VAL-I1
                  : LARGE CAP GROWTH CIT
-    2021: EXPLORER PIPELINE COMPANY 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3D3H 
-        Participants: 289
-        Assets: 81926027
-        $/Participant: 283481
+
+    2021
+        Participants: 289  Average: $283,481
+        Assets: $81,926,027
         RecordKeeper: BRIGHTHOUSE LIFE INSURANCE COMPANY
         Available Investments:
            - WILMINGTON TRUST, N.A.
@@ -29,12 +23,10 @@ OK : TULSA
            - WILMINGTON TRUST,N.A.
                  : FLEXPATH STABLE VAL-I1
                  : LARGE CAP GROWTH CIT
-    2020: EXPLORER PIPELINE COMPANY 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3D3H 
-        Participants: 289
-        Assets: 71196618
-        $/Participant: 246355
+
+    2020
+        Participants: 289  Average: $246,355
+        Assets: $71,196,618
         RecordKeeper: BRIGHTHOUSE LIFE INSURANCE COMPANY
         Available Investments:
            - WILMINGTON TRUST, N.A.
@@ -59,12 +51,10 @@ OK : TULSA
                  : LARGE CAP GROWTH FUND
                  : SMALL CAP GROWTH FUND
                  : SMALL CAP VALUE FUND
-    2019: EXPLORER PIPELINE COMPANY 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3D3H 
-        Participants: 284
-        Assets: 63566866
-        $/Participant: 223826
+
+    2019
+        Participants: 284  Average: $223,826
+        Assets: $63,566,866
         RecordKeeper: BOKF, N.A.
         Available Investments:
            - WILMINGTON TRUST, N.A.
@@ -86,12 +76,10 @@ OK : TULSA
                  : FLEXPATH INDEXPLUS MODERATE RETIREM
                  : INTERNATIONAL STOCK FUND
                  : LARGE CAP GROWTH CIT
-    2018: EXPLORER PIPELINE COMPANY 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3D3H 
-        Participants: 284
-        Assets: 51862122
-        $/Participant: 182613
+
+    2018
+        Participants: 284  Average: $182,613
+        Assets: $51,862,122
         RecordKeeper: BOKF, N.A.
         Available Investments:
            - WILMINGTON TRUST, N.A.
@@ -111,81 +99,62 @@ OK : TULSA
                  : FLEXPATH INDEXPLUS MODERATE RETIREM
                  : INTERNATIONAL STOCK FUND
                  : LARGE CAP GROWTH CIT
-    2017: EXPLORER PIPELINE COMPANY 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3D3H 
-        Participants: 283
-        Assets: 55826673
-        $/Participant: 197267
+
+    2017
+        Participants: 283  Average: $197,267
+        Assets: $55,826,673
         RecordKeeper: BOKF, N.A.
-   [501]
-    2022: EXPLORER PIPELINE COMPANY WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4H4F
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability] EXPLORER PIPELINE COMPANY WELFARE BENEFITS PLAN [501]
+    2022  [codes: 4A4B4D4E4H4F]
         Participants: 673
         Service Providers:
            - UMR, INC : CLAIMS PROCESSING (Claims processing)
-    2021: GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4H4F
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability] GROUP INSURANCE PLAN
+    2021
         Participants: 671
         Service Providers:
            - BRIGHTHOUSE LIFE INSURANCE COMPANY : COVERED SERVICE PROVIDER ()
-    2020: GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H
+
+    2020  [codes: 4A4B4D4E4F4H]
         Participants: 649
         Service Providers:
            - BRIGHTHOUSE LIFE INSURANCE COMPANY : COVERED SERVICE PROVIDER ()
-    2019: GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H
+
+    2019
         Participants: 628
-    2018: GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H
+
+    2018
         Participants: 613
-    2017: GROUP INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H
+
+    2017
         Participants: 617
-   [001]
-    2022: EXPLORER PIPELINE COMPANY RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 110
-        Assets: 28990139
-        $/Participant: 263546
+
+  [Pension] EXPLORER PIPELINE COMPANY RETIREMENT PLAN [001]
+    2022  [codes: 1A3H]
+        Participants: 110  Average: $263,546
+        Assets: $28,990,139
         Available Investments:
            - WILMINGTON TRUST, N.A.
                  : PUTNAME STABLE VALUE
-    2021: EXPLORER PIPELINE COMPANY RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 117
-        Assets: 36026385
-        $/Participant: 307917
-    2020: EXPLORER PIPELINE COMPANY RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 119
-        Assets: 30194386
-        $/Participant: 253734
-    2019: EXPLORER PIPELINE COMPANY RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 130
-        Assets: 33732199
-        $/Participant: 259478
-    2018: EXPLORER PIPELINE COMPANY RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 134
-        Assets: 29695360
-        $/Participant: 221607
-    2017: EXPLORER PIPELINE COMPANY RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 143
-        Assets: 35525827
-        $/Participant: 248432
+
+    2021
+        Participants: 117  Average: $307,917
+        Assets: $36,026,385
+
+    2020
+        Participants: 119  Average: $253,734
+        Assets: $30,194,386
+
+    2019
+        Participants: 130  Average: $259,478
+        Assets: $33,732,199
+
+    2018
+        Participants: 134  Average: $221,607
+        Assets: $29,695,360
+
+    2017
+        Participants: 143  Average: $248,432
+        Assets: $35,525,827

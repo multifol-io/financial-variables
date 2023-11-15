@@ -1,11 +1,8 @@
-TX : HOUSTON
-  TALEN MONTANA, LLC  541928759
-    2022: TALEN MONTANA SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3B3D 
-        Participants: 157
-        Assets: 11498411
-        $/Participant: 73238
+TALEN MONTANA, LLC  541928759 -- TX : HOUSTON
+  [401(k)] TALEN MONTANA SAVINGS PLAN
+    2022  [codes: 2A2E2F2G2J2K2S2T3B3D]
+        Participants: 157  Average: $73,238
+        Assets: $11,498,411
         RecordKeeper: MORGAN STANLEY GLOBAL BANKING
         Available Investments:
            - AMRIPRISE TRUST COMPANY
@@ -15,13 +12,10 @@ TX : HOUSTON
            - WILMINGTON TRUST
                  : CLEARBRIDGE LARGE CAP GROWTH CIF R3
                  : PIONEER BOND FUND TRUST CLASS R1
-TX : THE WOODLANDS
-    2021: TALEN MONTANA SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3B3D 
-        Participants: 142
-        Assets: 12618180
-        $/Participant: 88860
+ -- TX : THE WOODLANDS
+    2021
+        Participants: 142  Average: $88,860
+        Assets: $12,618,180
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - AMRIPRISE TRUST COMPANY
@@ -31,12 +25,10 @@ TX : THE WOODLANDS
            - WILMINGTON TRUST
                  : CLEARBRIDGE LARGE CAP GROWTH CIF R3
                  : PIONEER BOND FUND TRUST CLASS R1
-    2020: TALEN MONTANA SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3B3D 
-        Participants: 149
-        Assets: 10434220
-        $/Participant: 70028
+
+    2020
+        Participants: 149  Average: $70,028
+        Assets: $10,434,220
         RecordKeeper: MORGAN LEWIS & BOCKIUS LLP
         Available Investments:
            - AMERIPRISE TRUST COMPANY
@@ -46,12 +38,10 @@ TX : THE WOODLANDS
            - WILMINGTON TRUST
                  : CLEARBRIDGE LARGE CAP GROWTH CIF R3
                  : PIONEER BOND FUND TRUST CLASS R1
-    2019: TALEN MONTANA SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3B3D 
-        Participants: 160
-        Assets: 8134702
-        $/Participant: 50841
+
+    2019
+        Participants: 160  Average: $50,841
+        Assets: $8,134,702
         RecordKeeper: FIDELITY INVESTMENTS INSTITITIONAL
         Available Investments:
            - AMERIPRISE TRUST COMPANY
@@ -61,34 +51,27 @@ TX : THE WOODLANDS
            - WILMINGTON TRUST
                  : CLEARBRIDGE LARGE CAP GROWTH CIF R3
                  : PIONEER BOND FUND TRUST CLASS R1
-    2018: TALEN MONTANA SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3B3D 
-        Participants: 147
-        Assets: 5437000
-        $/Participant: 36986
+
+    2018
+        Participants: 147  Average: $36,986
+        Assets: $5,437,000
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-    2017: TALEN MONTANA SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3B3D 
-        Participants: 122
-        Assets: 4830395
-        $/Participant: 39593
+
+    2017
+        Participants: 122  Average: $39,593
+        Assets: $4,830,395
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-TX : HOUSTON
-   [003]
-    2022: TALEN MONTANA LEGACY SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T 
-        Participants: 169
-        Assets: 33721584
-        $/Participant: 199536
+ -- TX : HOUSTON
+  [401(k)] TALEN MONTANA LEGACY SAVINGS PLAN [003]
+    2022  [codes: 2E2F2G2J2K2R2S2T]
+        Participants: 169  Average: $199,536
+        Assets: $33,721,584
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - AMERIPRISE TRUST COMPANY
@@ -98,13 +81,10 @@ TX : HOUSTON
            - WILMINGTON TRUST
                  : CLEARBRIDGE LARGE CAP GROWTH CIF R3
                  : PIONEER BOND FUND TRUST CLASS R1
-TX : THE WOODLANDS
-    2021: TALEN MONTANA LEGACY SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T 
-        Participants: 181
-        Assets: 47148334
-        $/Participant: 260488
+ -- TX : THE WOODLANDS
+    2021
+        Participants: 181  Average: $260,488
+        Assets: $47,148,334
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - AMERIPRISE TRUST COMPANY
@@ -116,13 +96,11 @@ TX : THE WOODLANDS
            - WILMINGTON TRUST
                  : CLEARBRIDGE LARGE CAP GROWTH CIF R3
                  : PIONEER BOND FUND TRUST CLASS R1
-   [001]
-    2021: TALEN MONTANA RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C 
-        Participants: 756
-        Assets: 219817252
-        $/Participant: 290763
+
+  [Pension] TALEN MONTANA RETIREMENT PLAN [001]
+    2021  [codes: 1A1C]
+        Participants: 756  Average: $290,763
+        Assets: $219,817,252
         Service Providers:
            - AON HEWITT INVESTMENT : ACTUARY (Consulting(general) | Actuarial | Account maintenance fees)
            - PARAMETRIC PORTFOLIO ASSOCIATE :  (Investment management)
@@ -142,12 +120,10 @@ TX : THE WOODLANDS
                  : AON HEWITT GLOBAL REAL ESTATE FD
            - THE BANK OF NEW YORK MELLON
                  : EB TEMPORARY INVESTMENT
-    2020: TALEN MONTANA RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C 
-        Participants: 759
-        Assets: 237060447
-        $/Participant: 312332
+
+    2020
+        Participants: 759  Average: $312,332
+        Assets: $237,060,447
         Service Providers:
            - AON HEWITT INVESTMENT : ACTUARY (Consulting(general) | Actuarial | Account maintenance fees)
            - PARAMETRIC PORTFOLIO ASSOCIATE :  (Investment management)
@@ -176,12 +152,10 @@ TX : THE WOODLANDS
                  : AON HEWITT GLOBAL REAL ESTATE FD
            - THE BANK OF NEW YORK MELLON
                  : EB TEMPORARY INVESTMENT
-    2019: TALEN MONTANA RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C 
-        Participants: 759
-        Assets: 233313033
-        $/Participant: 307395
+
+    2019
+        Participants: 759  Average: $307,395
+        Assets: $233,313,033
         Service Providers:
            - AON HEWITT INVESTMENT : ACTUARY (Consulting(general) | Actuarial | Account maintenance fees)
            - PARAMETRIC PORTFOLIO ASSOCIATE :  (Investment management)
@@ -199,12 +173,10 @@ TX : THE WOODLANDS
                  : AHGT US LG GOV BD
                  : AON GLOBAL EQUITY
                  : EB TEMP INV FD 1.147% 12/31/2049 DD
-    2018: TALEN MONTANA RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C 
-        Participants: 762
-        Assets: 216825000
-        $/Participant: 284547
+
+    2018
+        Participants: 762  Average: $284,547
+        Assets: $216,825,000
         Service Providers:
            - AON HEWITT INVESTMENT :  (Consulting(general))
            - FIDELTY INVESTMENTS :  (Account maintenance fees)
@@ -217,12 +189,10 @@ TX : THE WOODLANDS
         Available Investments:
            - TALEN ENERGY SUPPLY LLC
                  : TALEN ENERGY RETIREMENT PLANS MT
-    2017: TALEN MONTANA RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C 
-        Participants: 767
-        Assets: 209431000
-        $/Participant: 273052
+
+    2017
+        Participants: 767  Average: $273,052
+        Assets: $209,431,000
         Service Providers:
            - AON HEWITT INVESTMENT :  (Consulting(general))
            - AON HEWITT INVESTMENT :  (Actuarial)

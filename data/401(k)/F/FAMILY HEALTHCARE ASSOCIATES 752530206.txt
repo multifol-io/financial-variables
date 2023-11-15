@@ -1,12 +1,8 @@
-TX : ARLINGTON
-  FAMILY HEALTHCARE ASSOCIATES  752530206
-   [001]
-    2022: FAMILY HEALTHCARE ASSOCIATES RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2T3B3H2S3D2R 
-        Participants: 460
-        Assets: 93005529
-        $/Participant: 202185
+FAMILY HEALTHCARE ASSOCIATES  752530206 -- TX : ARLINGTON
+  [401(k)] FAMILY HEALTHCARE ASSOCIATES RETIREMENT PLAN [001]
+    2022  [codes: 2A2E2F2G2J2K2T3B3H2S3D2R]
+        Participants: 460  Average: $202,185
+        Assets: $93,005,529
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - RELIANCE TRUST COMPANY
@@ -30,12 +26,10 @@ TX : ARLINGTON
            - WILMINGTON TRUST, N.A.
                  : AB US LG CP GR CIT W
                  : LARGE CP VALUE I1
-    2021: FAMILY HEALTHCARE ASSOCIATES RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2T3B3H2S3D2R 
-        Participants: 361
-        Assets: 122237487
-        $/Participant: 338607
+
+    2021
+        Participants: 361  Average: $338,607
+        Assets: $122,237,487
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - RELIANCE TRUST COMPANY
@@ -54,12 +48,10 @@ TX : ARLINGTON
                  : FLEXPATH+MOD RET I1
            - WILMINGTON TRUST, N.A.
                  : LARGE CP VALUE I1
-    2020: FAMILY HEALTHCARE ASSOCIATES RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2T3B3H2S3D2R 
-        Participants: 361
-        Assets: 107470227
-        $/Participant: 297701
+
+    2020
+        Participants: 361  Average: $297,701
+        Assets: $107,470,227
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - RELIANCE TRUST COMPANY
@@ -80,12 +72,10 @@ TX : ARLINGTON
                  : FLEXPATH+MOD RET I1
            - WILMINGTON TRUST, N.A.
                  : LARGE CP VALUE I1
-    2019: FAMILY HEALTHCARE ASSOCIATES RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2T3B3D3H2R2S 
-        Participants: 346
-        Assets: 100694681
-        $/Participant: 291025
+
+    2019  [codes: 2A2E2F2G2J2K2T3B3D3H2R2S]
+        Participants: 346  Average: $291,025
+        Assets: $100,694,681
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - RELIANCE TRUST COMPANY
@@ -106,12 +96,10 @@ TX : ARLINGTON
                  : FLEXPATH+MOD RET I1
            - WILMINGTON TRUST, N.A.
                  : LARGE CP VALUE I1
-    2018: FAMILY HEALTHCARE ASSOCIATES RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2R2S2T3B3D3H 
-        Participants: 352
-        Assets: 88052624
-        $/Participant: 250149
+
+    2018  [codes: 2A2E2F2G2J2K2R2S2T3B3D3H]
+        Participants: 352  Average: $250,149
+        Assets: $88,052,624
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - RELIANCE TRUST COMPANY
@@ -130,36 +118,29 @@ TX : ARLINGTON
                  : FLEXPATH+MOD 2045 I1
                  : FLEXPATH+MOD 2055 I1
                  : FLEXPATH+MOD RET I1
-    2017: FAMILY HEALTHCARE ASSOCIATES RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2R2S2T3B3D3H 
-        Participants: 322
-        Assets: 102977850
-        $/Participant: 319806
+
+    2017
+        Participants: 322  Average: $319,806
+        Assets: $102,977,850
         Available Investments:
            - RELIANCE TRUST COMPANY
                  : METLIFE GAC SERIES 25157 CLASS II
-   [502]
-    2021: FAMILY HEALTHCARE ASSOCIATES WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability] FAMILY HEALTHCARE ASSOCIATES WELFARE BENEFIT PLAN [502]
+    2021  [codes: 4A4B4D4E4F4H4Q]
         Participants: 
         Service Providers:
            - UMR INC. : CLAIMS PROCESSING (Claims processing)
            - HOLMES MURPHY & ASSOCIATES INC : BROKER (Other commissions)
-    2020: FAMILY HEALTHCARE ASSOCIATES WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2020  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
-    2019: FAMILY HEALTHCARE ASSOCIATES WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2019
         Participants: 
-    2018: FAMILY HEALTHCARE ASSOCIATES WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2018
         Participants: 
-    2017: FAMILY HEALTHCARE ASSOCIATES WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2017  [codes: 4A4B4D4E4F4H4L]
         Participants: 

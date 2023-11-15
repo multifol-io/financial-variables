@@ -1,44 +1,35 @@
-NE : OMAHA
-  FNC, INC  470832320
-    2021: FNC, INC SAVINGS AND INVESTMENT PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2H2J2K2O2Q2S2T3H 
-        Participants: 361
-        Assets: 170105510
-        $/Participant: 471206
+FNC, INC  470832320 -- NE : OMAHA
+  [401(k), Employee Stock Ownership Plan] FNC, INC SAVINGS AND INVESTMENT PLAN
+    2021  [codes: 2E2H2J2K2O2Q2S2T3H]
+        Participants: 361  Average: $471,206
+        Assets: $170,105,510
         Service Providers:
            - INTRUST BANK : TRUSTEE (Trustee(bank, trust company, or similar))
         Available Investments:
            - T. ROWE PRICE
                  : T. ROWE PRICE STABLE VALUE COMMON T
-    2020: FNC, INC SAVINGS AND INVESTMENT PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2H2J2K2O2Q2S2T3H 
-        Participants: 348
-        Assets: 146077965
-        $/Participant: 419764
+
+    2020
+        Participants: 348  Average: $419,764
+        Assets: $146,077,965
         Service Providers:
            - INTRUST BANK : TRUSTEE (Trustee(bank, trust company, or similar))
         Available Investments:
            - T. ROWE PRICE
                  : T. ROWE PRICE STABLE VALUE COMMON T
-    2019: FNC, INC SAVINGS AND INVESTMENT PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2H2J2K2O2Q2S2T3H 
-        Participants: 363
-        Assets: 124861169
-        $/Participant: 343970
+
+    2019
+        Participants: 363  Average: $343,970
+        Assets: $124,861,169
         Service Providers:
            - INTRUST BANK : TRUSTEE (Trustee(bank, trust company, or similar))
         Available Investments:
            - T. ROWE PRICE
                  : T. ROWE PRICE STABLE VALUE COMMON T
-    2018: FNC, INC SAVINGS AND INVESTMENT PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2H2J2K2O2Q2S2T3H 
-        Participants: 345
-        Assets: 148106035
-        $/Participant: 429292
+
+    2018
+        Participants: 345  Average: $429,292
+        Assets: $148,106,035
         Service Providers:
            - INTRUST BANK : ADMINISTRATOR OF THE PLA (Plan Administrator)
            - LUTZ & COMPANY PC : AUDITOR (Accounting(including auditing))
@@ -46,12 +37,10 @@ NE : OMAHA
         Available Investments:
            - T. ROWE PRICE
                  : T. ROWE PRICE STABLE VALUE COMMON T
-    2017: FNC, INC SAVINGS AND INVESTMENT PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2H2J2K2O2Q2S2T3H 
-        Participants: 330
-        Assets: 139742916
-        $/Participant: 423463
+
+    2017
+        Participants: 330  Average: $423,463
+        Assets: $139,742,916
         Service Providers:
            - INTRUST BANK : ADMINISTRATOR OF THE PLA (Plan Administrator)
            - LUTZ & COMPANY PC : AUDITOR (Accounting(including auditing))
@@ -59,33 +48,26 @@ NE : OMAHA
         Available Investments:
            - FEDERATED INVESTORS TRUST COMPANY
                  : FEDERATED CAPITAL PRESERVATION FUND
-   [501]
-    2022: FARMERS NATIONAL COMPANY INSURANCE PROGRAMS
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] FARMERS NATIONAL COMPANY INSURANCE PROGRAMS [501]
+    2022  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
-    2021: FARMERS NATIONAL COMPANY INSURANCE PROGRAMS
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2021
         Participants: 
-    2020: FARMERS NATIONAL COMPANY INSURANCE PROGRAMS
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2020
         Participants: 
-    2019: FARMERS NATIONAL COMPANY INSURANCE PROGRAMS
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2019
         Participants: 
-    2018: FARMERS NATIONAL COMPANY INSURANCE PROGRAMS
-        Benefit Category: Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4B4D4E4H4L4Q
+
+    2018  [codes: 4B4D4E4H4L4Q]
         Participants: 
-    2017: FARMERS NATIONAL COMPANY INSURANCE PROGRAMS
-        Benefit Category: Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4B4D4E4H4L4Q
+
+    2017
         Participants: 
-   [502]
-    2017: TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Travel accident
-        Codes:  4L
+
+  [Travel accident] TRAVEL ACCIDENT INSURANCE PLAN [502]
+    2017  [codes: 4L]
         Participants: 

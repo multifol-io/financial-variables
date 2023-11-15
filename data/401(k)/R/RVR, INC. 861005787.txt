@@ -1,33 +1,21 @@
-AZ : MESA
-  RVR, INC.  861005787
-   [001]
-    2021: RVR EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2I2Q 
-        Participants: 201
-        Assets: 137533419
-        $/Participant: 684245
-    2020: RVR EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2I2Q 
-        Participants: 191
-        Assets: 121831308
-        $/Participant: 637860
-    2019: RVR EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2I2Q 
-        Participants: 174
-        Assets: 89826626
-        $/Participant: 516244
-    2018: RVR EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2I2Q 
-        Participants: 173
-        Assets: 76827995
-        $/Participant: 444092
-    2017: RVR EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2I2Q 
-        Participants: 160
-        Assets: 69927418
-        $/Participant: 437046
+RVR, INC.  861005787 -- AZ : MESA
+  [Employee Stock Ownership Plan] RVR EMPLOYEE STOCK OWNERSHIP PLAN [001]
+    2021  [codes: 2P2I2Q]
+        Participants: 201  Average: $684,245
+        Assets: $137,533,419
+
+    2020
+        Participants: 191  Average: $637,860
+        Assets: $121,831,308
+
+    2019
+        Participants: 174  Average: $516,244
+        Assets: $89,826,626
+
+    2018
+        Participants: 173  Average: $444,092
+        Assets: $76,827,995
+
+    2017
+        Participants: 160  Average: $437,046
+        Assets: $69,927,418

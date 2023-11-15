@@ -1,11 +1,8 @@
-MI : LANSING
-  JACKSON NATIONAL LIFE INSURANCE COMPANY  381659835
-    2022: JACKSON NATIONAL LIFE INSURANCE COMPANY DEFINED CONTRIBUTION PLAN
-        Benefit Category: 401(k)
-        Codes: 2G2J2K2T3F3H2E 
-        Participants: 5513
-        Assets: 1149061601
-        $/Participant: 208427
+JACKSON NATIONAL LIFE INSURANCE COMPANY  381659835 -- MI : LANSING
+  [401(k)] JACKSON NATIONAL LIFE INSURANCE COMPANY DEFINED CONTRIBUTION PLAN
+    2022  [codes: 2G2J2K2T3F3H2E]
+        Participants: 5,513  Average: $208,427
+        Assets: $1,149,061,601
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - BLACKROCK INST. TRUST COMPANY, N.A.
@@ -23,12 +20,10 @@ MI : LANSING
                  : JACKSON NATIONAL LIFE VARIABLE ANN
            - NORTHERN TRUST GLOBAL INVESTMENTS
                  : DBL CORE PLUS FXINC
-    2021: JACKSON NATIONAL LIFE INSURANCE COMPANY DEFINED CONTRIBUTION PLAN
-        Benefit Category: 401(k)
-        Codes: 2G2J2K2T3F3H2E 
-        Participants: 5136
-        Assets: 1334464716
-        $/Participant: 259825
+
+    2021
+        Participants: 5,136  Average: $259,825
+        Assets: $1,334,464,716
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - BLACKROCK INST. TRUST COMPANY, N.A.
@@ -46,12 +41,10 @@ MI : LANSING
                  : JACKSON NATIONAL LIFE VARIABLE ANN
            - NORTHERN TRUST GLOBAL INVESTMENTS
                  : DBL CORE PLUS FXINC
-    2020: JACKSON NATIONAL LIFE INSURANCE COMPANY DEFINED CONTRIBUTION PLAN
-        Benefit Category: 401(k)
-        Codes: 2G2J2K2T3F3H2E 
-        Participants: 5221
-        Assets: 1212408174
-        $/Participant: 232217
+
+    2020
+        Participants: 5,221  Average: $232,217
+        Assets: $1,212,408,174
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - BLACKROCK INST. TRUST COMPANY, N.A.
@@ -68,12 +61,10 @@ MI : LANSING
                  : JACKSON NATIONAL LIFE VARIABLE ANN
            - NORTHERN TRUST GLOBAL INVESTMENTS
                  : DBL CORE PLUS FXINC
-    2019: JACKSON NATIONAL LIFE INSURANCE COMPANY DEFINED CONTRIBUTION PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2K2T3H 
-        Participants: 5876
-        Assets: 1090110381
-        $/Participant: 185519
+
+    2019  [codes: 2E2G2J2K2T3H]
+        Participants: 5,876  Average: $185,519
+        Assets: $1,090,110,381
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - BLACKROCK INST. TRUST COMPANY, N.A.
@@ -91,12 +82,10 @@ MI : LANSING
                  : JACKSON NATIONAL LIFE VARIABLE ANN
            - NORTHERN TRUST GLOBAL INVESTMENTS
                  : DBL CORE PLUS FXINC
-    2018: JACKSON NATIONAL LIFE INSURANCE COMPANY DEFINED CONTRIBUTION PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2K2T3H 
-        Participants: 5800
-        Assets: 920540929
-        $/Participant: 158713
+
+    2018
+        Participants: 5,800  Average: $158,713
+        Assets: $920,540,929
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - BLACKROCK INST. TRUST COMPANY, N.A.
@@ -114,12 +103,10 @@ MI : LANSING
                  : JACKSON NATIONAL LIFE VARIABLE ANN
            - THE NORTHERN TRUST COMPANY
                  : DBL CORE PLUS FXINC
-    2017: JACKSON NATIONAL LIFE INSURANCE COMPANY DEFINED CONTRIBUTION PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2K2T3H 
-        Participants: 5972
-        Assets: 953525720
-        $/Participant: 159666
+
+    2017
+        Participants: 5,972  Average: $159,666
+        Assets: $953,525,720
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - BLACKROCK INST. TRUST COMPANY, N.A.
@@ -137,68 +124,54 @@ MI : LANSING
                  : JACKSON NATIONAL LIFE VARIABLE ANN
            - THE NORTHERN TRUST COMPANY
                  : DBL CORE PLUS FXINC
-   [002]
-    2018: PENNCORP FINANCIAL GROUP, INC. RETIREMENT AND SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
+
+  [401(k)] PENNCORP FINANCIAL GROUP, INC. RETIREMENT AND SAVINGS PLAN [002]
+    2018  [codes: 2E2F2G2J2K2T3D]
         Participants: 0
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-    2017: PENNCORP FINANCIAL GROUP, INC. RETIREMENT AND SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
+
+    2017
         Participants: 21
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-   [501]
-    2022: WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability] WELFARE BENEFIT PLAN [501]
+    2022  [codes: 4A4B4D4E4H4Q]
         Participants: 
-    2021: WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+    2021
         Participants: 
-    2020: WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+    2020
         Participants: 
-    2019: WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+    2019
         Participants: 
-    2018: WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+    2018
         Participants: 
-    2017: WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+    2017
         Participants: 
-   [504]
-    2022: RETIREE BENEFIT PLAN OF SOUTHWESTERN FINANCIAL SERVICES CORPORATION
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B
+
+  [Healthcare, Life insurance] RETIREE BENEFIT PLAN OF SOUTHWESTERN FINANCIAL SERVICES CORPORATION [504]
+    2022  [codes: 4A4B]
         Participants: 
-    2021: RETIREE BENEFIT PLAN OF SOUTHWESTERN FINANCIAL SERVICES CORPORATION
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B
+
+    2021
         Participants: 
-    2020: RETIREE BENEFIT PLAN OF SOUTHWESTERN FINANCIAL SERVICES CORPORATION
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B
+
+    2020
         Participants: 
-    2019: RETIREE BENEFIT PLAN OF SOUTHWESTERN FINANCIAL SERVICES CORPORATION
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B
+
+    2019
         Participants: 
-    2018: RETIREE BENEFIT PLAN OF SOUTHWESTERN FINANCIAL SERVICES CORPORATION
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B
+
+    2018
         Participants: 
-    2017: RETIREE BENEFIT PLAN OF SOUTHWESTERN FINANCIAL SERVICES CORPORATION
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B
+
+    2017
         Participants: 

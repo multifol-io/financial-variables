@@ -1,11 +1,8 @@
-KS : SHAWNEE
-  PBI GORDON COMPANIES INC  852832459
-    2022: PBI-GORDON COMPANIES, INC. 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D3H 
-        Participants: 563
-        Assets: 24847434
-        $/Participant: 44133
+PBI GORDON COMPANIES INC  852832459 -- KS : SHAWNEE
+  [401(k)] PBI-GORDON COMPANIES, INC. 401(K) RETIREMENT SAVINGS PLAN
+    2022  [codes: 2E2F2G2J2K2S2T3D3H]
+        Participants: 563  Average: $44,133
+        Assets: $24,847,434
         RecordKeeper: CREATIVE PLANNING INC
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -43,39 +40,31 @@ KS : SHAWNEE
                  : PRINCIPAL U.S. PROPERTY SA-Z
            - RELIANCE TRUST COMPANY
                  : METLIFE SV FD SER 25053 CL 0
-   [002]
-    2021: PBI-GORDON COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3I 
-        Participants: 567
-        Assets: 341048542
-        $/Participant: 601496
-    2020: PBI-GORDON COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H3I 
-        Participants: 537
-        Assets: 320290487
-        $/Participant: 596444
-   [507]
-    2022: PBI-GORDON COMPANIES, INC EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+  [Employee Stock Ownership Plan] PBI-GORDON COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN [002]
+    2021  [codes: 2I2P2Q3I]
+        Participants: 567  Average: $601,496
+        Assets: $341,048,542
+
+    2020  [codes: 2I2P2Q3H3I]
+        Participants: 537  Average: $596,444
+        Assets: $320,290,487
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] PBI-GORDON COMPANIES, INC EMPLOYEE BENEFIT PLAN [507]
+    2022  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
-    2021: PBI-GORDON CORPORATION EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] PBI-GORDON CORPORATION EMPLOYEE BENEFIT PLAN
+    2021
         Participants: 
-    2020: PBI-GORDON CORPORATION EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H
+
+    2020  [codes: 4A4B4D4E4F4H]
         Participants: 
-   [001]
-    2021: PBI-GORDON COMPANIES, INC. 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: Life insurance, 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 4B
-        Participants: 540
-        Assets: 28748749
-        $/Participant: 53238
+
+  [Life insurance, 401(k)] PBI-GORDON COMPANIES, INC. 401(K) RETIREMENT SAVINGS PLAN [001]
+    2021  [codes: 2E2F2G2J2K2S2T3H4B]
+        Participants: 540  Average: $53,238
+        Assets: $28,748,749
         RecordKeeper: CREATIVE PLANNING
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -114,12 +103,10 @@ KS : SHAWNEE
                  : PRINCIPAL U.S. PROPERTY SA-Z
            - RELIANCE TRUST COMPANY
                  : METLIFE SV FD SER 25053 CL 0
-    2020: PBI-GORDON COMPANIES, INC. 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: Life insurance, 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 4B
-        Participants: 495
-        Assets: 24911166
-        $/Participant: 50325
+
+    2020
+        Participants: 495  Average: $50,325
+        Assets: $24,911,166
         RecordKeeper: CREATIVE PLANNING INC
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO

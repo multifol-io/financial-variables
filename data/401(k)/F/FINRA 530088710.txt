@@ -1,12 +1,8 @@
-DC : WASHINGTON
-  FINRA  530088710
-   [003]
-    2022: FINRA SAVINGS PLUS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T 
-        Participants: 6006
-        Assets: 1789959309
-        $/Participant: 298028
+FINRA  530088710 -- DC : WASHINGTON
+  [401(k)] FINRA SAVINGS PLUS PLAN [003]
+    2022  [codes: 2A2E2F2G2J2K2S2T]
+        Participants: 6,006  Average: $298,028
+        Assets: $1,789,959,309
         RecordKeeper: VANGUARD GROUP INC.
         Available Investments:
            - SEI TRUST COMPANY
@@ -27,12 +23,10 @@ DC : WASHINGTON
                  : VANGUARD TGT RETIREMENT 2065 TR I
                  : VANGUARD TGT RETIREMENT INCOME TR I
                  : VFTC RETIREMENT SAVINGS TRUST III
-    2021: FINRA SAVINGS PLUS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T 
-        Participants: 5641
-        Assets: 2044460173
-        $/Participant: 362428
+
+    2021
+        Participants: 5,641  Average: $362,428
+        Assets: $2,044,460,173
         RecordKeeper: THE VANGUARD GROUP, INC.
         Available Investments:
            - SEI TRUST COMPANY
@@ -51,12 +45,10 @@ DC : WASHINGTON
                  : VANGUARD TGT RETIREMENT 2065 TR I
                  : VANGUARD TGT RETIREMENT INCOME TR I
                  : VFTC RETIREMENT SAVINGS TRUST III
-    2020: FINRA SAVINGS PLUS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T 
-        Participants: 5432
-        Assets: 1730800150
-        $/Participant: 318630
+
+    2020
+        Participants: 5,432  Average: $318,630
+        Assets: $1,730,800,150
         RecordKeeper: THE VANGUARD GROUP, INC.
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
@@ -73,12 +65,10 @@ DC : WASHINGTON
                  : VANGUARD TGT RETIREMENT 2055 TR II
                  : VANGUARD TGT RETIREMENT 2060 TR II
                  : VANGUARD TGT RETIREMENT 2065 TR II
-    2019: FINRA SAVINGS PLUS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T 
-        Participants: 5188
-        Assets: 1481785461
-        $/Participant: 285617
+
+    2019
+        Participants: 5,188  Average: $285,617
+        Assets: $1,481,785,461
         RecordKeeper: THE VANGUARD GROUP, INC.
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
@@ -95,12 +85,10 @@ DC : WASHINGTON
                  : VANGUARD TGT RETIREMENT 2055 TR II
                  : VANGUARD TGT RETIREMENT 2060 TR II
                  : VANGUARD TGT RETIREMENT 2065 TR II
-    2018: FINRA SAVINGS PLUS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T 
-        Participants: 5116
-        Assets: 1176048407
-        $/Participant: 229876
+
+    2018
+        Participants: 5,116  Average: $229,876
+        Assets: $1,176,048,407
         RecordKeeper: THE VANGUARD GROUP, INC
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
@@ -117,12 +105,10 @@ DC : WASHINGTON
                  : VANGUARD TGT RETIREMENT 2055 TR II
                  : VANGUARD TGT RETIREMENT 2060 TR II
                  : VANGUARD TGT RETIREMENT 2065 TR II
-    2017: FINRA SAVINGS PLUS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T 
-        Participants: 5020
-        Assets: 1188633866
-        $/Participant: 236779
+
+    2017
+        Participants: 5,020  Average: $236,779
+        Assets: $1,188,633,866
         RecordKeeper: THE VANGUARD GROUP, INC.
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
@@ -140,63 +126,50 @@ DC : WASHINGTON
                  : VANGUARD TGT RETIREMENT 2055 TR II
                  : VANGUARD TGT RETIREMENT 2060 TR II
                  : VANGUARD TGT RETIREMENT 2065 TR II
-   [507]
-    2022: FINRA BENEFIT OPTIONS PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
-        Participants: 3979
-    2021: FINRA BENEFIT OPTIONS PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
-        Participants: 3701
-    2020: FINRA BENEFIT OPTIONS PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
-        Participants: 3608
-    2019: FINRA BENEFIT OPTIONS PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
-        Participants: 3470
-    2018: FINRA BENEFIT OPTIONS PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
-        Participants: 3464
-    2017: FINRA BENEFITS OPTIONS PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
-        Participants: 3532
-   [508]
-    2022: FINRA RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] FINRA BENEFIT OPTIONS PROGRAM [507]
+    2022  [codes: 4A4B4D4E4F4G4H4L4Q]
+        Participants: 3,979
+
+    2021
+        Participants: 3,701
+
+    2020
+        Participants: 3,608
+
+    2019
+        Participants: 3,470
+
+    2018
+        Participants: 3,464
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] FINRA BENEFITS OPTIONS PROGRAM
+    2017
+        Participants: 3,532
+
+  [Healthcare] FINRA RETIREE MEDICAL PLAN [508]
+    2022  [codes: 4A]
         Participants: 395
-    2021: FINRA RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2021
         Participants: 371
-    2020: FINRA RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2020
         Participants: 340
-    2019: FINRA RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2019
         Participants: 313
-    2018: FINRA RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2018
         Participants: 295
-    2017: FINRA RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2017
         Participants: 284
-   [001]
-    2022: FINRA EMPLOYEES RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 2351
-        Assets: 479256817
-        $/Participant: 203852
+
+  [Pension] FINRA EMPLOYEES RETIREMENT PLAN [001]
+    2022  [codes: 1A]
+        Participants: 2,351  Average: $203,852
+        Assets: $479,256,817
         Service Providers:
            - AON CONSULTING, INC. (NJ) :  (Actuarial | Direct payment from the plan)
            - PACIFIC INVESTMENT MGMT, CO. LLC :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
@@ -219,12 +192,10 @@ DC : WASHINGTON
                  : HRDNG LVNR GL EQ COL INV FUND
            - WELLINGTON TRUST COMPANY, NA
                  : CIF II US INV GRADE CORP LONG BOND
-    2021: FINRA EMPLOYEES RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 2410
-        Assets: 644746735
-        $/Participant: 267529
+
+    2021
+        Participants: 2,410  Average: $267,529
+        Assets: $644,746,735
         Service Providers:
            - AON CONSULTING, INC. (NJ) :  (Actuarial | Direct payment from the plan)
            - PACIFIC INVESTMENT MGMT, CO. LLC :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
@@ -246,12 +217,10 @@ DC : WASHINGTON
                  : HRDNG LVNR GL EQ COL INV FUND
            - WELLINGTON TRUST COMPANY, NA
                  : CIF II US INV GRADE CORP LONG BOND
-    2020: FINRA EMPLOYEES RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 2476
-        Assets: 616386603
-        $/Participant: 248944
+
+    2020
+        Participants: 2,476  Average: $248,944
+        Assets: $616,386,603
         Service Providers:
            - AON CONSULTING, INC. (NJ) :  (Actuarial | Direct payment from the plan)
            - WELLINGTON TRUST COMPANY, NA :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
@@ -273,12 +242,10 @@ DC : WASHINGTON
                  : HRDNG LVNR GL EQ COL INV FUND
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CIF II US INV GR CORP LONG BOND
-    2019: FINRA EMPLOYEES RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 2599
-        Assets: 591006165
-        $/Participant: 227397
+
+    2019
+        Participants: 2,599  Average: $227,397
+        Assets: $591,006,165
         Service Providers:
            - AON CONSULTING, INC. (NJ) :  (Actuarial | Direct payment from the plan)
            - AON INVESTMENTS USA INC. :  (Investment advisory(plan) | Direct payment from the plan)
@@ -297,12 +264,10 @@ DC : WASHINGTON
                  : U.S. STRIPS 20+ YEAR BOND INDEX RSL
            - WELLINGTON TRUST COMPANY, NA
                  : WTC-CIF II US INV GR CORP LONG BOND
-    2018: FINRA EMPLOYEES RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 2659
-        Assets: 492409301
-        $/Participant: 185185
+
+    2018
+        Participants: 2,659  Average: $185,185
+        Assets: $492,409,301
         Service Providers:
            - AON CONSULTING, INC :  (Actuarial | Direct payment from the plan)
            - AON HEWITT INVESTMENT CONSULT, INC :  (Investment advisory(plan) | Direct payment from the plan)
@@ -321,12 +286,10 @@ DC : WASHINGTON
                  : U.S. STRIPS 20+ YEAR BOND INDEX RSL
            - WELLINGTON TRUST COMPANY, NA
                  : WTC CIF II US INV GR CORP LONG BOND
-    2017: FINRA EMPLOYEES RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 2730
-        Assets: 521927463
-        $/Participant: 191182
+
+    2017
+        Participants: 2,730  Average: $191,182
+        Assets: $521,927,463
         Service Providers:
            - HEWITT ASSOCIATES LLC :  (Actuarial | Direct payment from the plan)
            - AON HEWITT INVESTMENT CONSULT, INC :  (Investment advisory(plan) | Direct payment from the plan)
@@ -345,28 +308,22 @@ DC : WASHINGTON
            - WELLINGTON TRUST COMPANY, NA
                  : WTC CIF II GAB US DOLLAR HEDGED
                  : WTC CIF II US INV GR CORP LONG BOND
-   [509]
-    2022: FINRA SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 3968
-    2021: FINRA SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 3691
-    2020: FINRA SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 3594
-    2019: FINRA SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 3469
-    2018: FINRA SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 3463
-    2017: FINRA SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 3544
+
+  [Severance] FINRA SEVERANCE PAY PLAN [509]
+    2022  [codes: 4I]
+        Participants: 3,968
+
+    2021
+        Participants: 3,691
+
+    2020
+        Participants: 3,594
+
+    2019
+        Participants: 3,469
+
+    2018
+        Participants: 3,463
+
+    2017
+        Participants: 3,544

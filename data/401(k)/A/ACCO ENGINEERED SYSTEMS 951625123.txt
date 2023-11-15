@@ -1,12 +1,8 @@
-CA : PASADENA
-  ACCO ENGINEERED SYSTEMS  951625123
-   [001]
-    2021: ACCO SAVINGS AND INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2G2J2K2S2E2T2F3H3D2R3F 
-        Participants: 1712
-        Assets: 172506493
-        $/Participant: 100763
+ACCO ENGINEERED SYSTEMS  951625123 -- CA : PASADENA
+  [401(k)] ACCO SAVINGS AND INVESTMENT PLAN [001]
+    2021  [codes: 2G2J2K2S2E2T2F3H3D2R3F]
+        Participants: 1,712  Average: $100,763
+        Assets: $172,506,493
         RecordKeeper: STRATEGIC ADVISORS, INC.
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
@@ -26,158 +22,111 @@ CA : PASADENA
                  : TRP RETIRE 2060 B
                  : TRP RETIRE 2065 B
                  : TRP STABLE VALUE Q
-    2020: ACCO SAVINGS AND INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2S2E2T3H3D2R 
-        Participants: 1564
-        Assets: 214893449
-        $/Participant: 137399
+
+    2020  [codes: 2F2G2J2K2S2E2T3H3D2R]
+        Participants: 1,564  Average: $137,399
+        Assets: $214,893,449
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
-    2019: ACCO SAVINGS AND INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2R2S2E2T3D3H 
-        Participants: 1508
-        Assets: 175372019
-        $/Participant: 116294
+
+    2019  [codes: 2F2G2J2K2R2S2E2T3D3H]
+        Participants: 1,508  Average: $116,294
+        Assets: $175,372,019
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
-CA : GLENDALE
-    2018: ACCO SAVINGS AND INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2R2S2T3D3H2E 
-        Participants: 1408
-        Assets: 158205614
-        $/Participant: 112361
+ -- CA : GLENDALE
+    2018  [codes: 2F2G2J2K2R2S2T3D3H2E]
+        Participants: 1,408  Average: $112,361
+        Assets: $158,205,614
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2
-    2017: ACCO SAVINGS AND INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T3D3H 
-        Participants: 1357
-        Assets: 149477460
-        $/Participant: 110152
+
+    2017  [codes: 2E2F2G2J2K2R2S2T3D3H]
+        Participants: 1,357  Average: $110,152
+        Assets: $149,477,460
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-CA : PASADENA
-   [505]
-    2018: ACCO ENGINEERED SYSTEMS GROUP DENTAL PLAN
-        Benefit Category: Dental
-        Codes:  4D
+ -- CA : PASADENA
+  [Dental] ACCO ENGINEERED SYSTEMS GROUP DENTAL PLAN [505]
+    2018  [codes: 4D]
         Participants: 
-CA : GLENDALE
-    2017: ACCO ENGINEERED SYSTEMS GROUP DENTAL PLAN
-        Benefit Category: Dental
-        Codes:  4D
+ -- CA : GLENDALE
+    2017
         Participants: 
-CA : PASADENA
-   [003]
-    2021: ACCO EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3I 
-        Participants: 1227
-        Assets: 1083016261
-        $/Participant: 882653
-    2020: ACCO EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3I 
-        Participants: 1230
-        Assets: 993810846
-        $/Participant: 807976
-    2019: ACCO EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3I 
-        Participants: 1238
-        Assets: 915894198
-        $/Participant: 739817
-    2018: ACCO EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3I 
-        Participants: 1051
-        Assets: 816734595
-        $/Participant: 777102
-    2017: ACCO EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P3I 
-        Participants: 934
-        Assets: 696152579
-        $/Participant: 745345
-   [501]
-    2018: ACCO ENGINEERED SYSTEMS GROUP MEDICAL PLAN FOR NON-UNION EMPLOYEES
-        Benefit Category: Healthcare
-        Codes:  4A
+ -- CA : PASADENA
+  [Employee Stock Ownership Plan] ACCO EMPLOYEE STOCK OWNERSHIP PLAN [003]
+    2021  [codes: 2I2P3I]
+        Participants: 1,227  Average: $882,653
+        Assets: $1,083,016,261
+
+    2020
+        Participants: 1,230  Average: $807,976
+        Assets: $993,810,846
+
+    2019
+        Participants: 1,238  Average: $739,817
+        Assets: $915,894,198
+
+    2018
+        Participants: 1,051  Average: $777,102
+        Assets: $816,734,595
+
+    2017
+        Participants: 934  Average: $745,345
+        Assets: $696,152,579
+
+  [Healthcare] ACCO ENGINEERED SYSTEMS GROUP MEDICAL PLAN FOR NON-UNION EMPLOYEES [501]
+    2018  [codes: 4A]
         Participants: 
-CA : GLENDALE
-    2017: ACCO ENGINEERED SYSTEMS GROUP MEDICAL PLAN FOR NON-UNION EMPLOYEES
-        Benefit Category: Healthcare
-        Codes:  4A
+ -- CA : GLENDALE
+    2017
         Participants: 
-CA : PASADENA
-   [508]
-    2018: ACCO ENGINEERED SYSTEMS FLEX BENEFITS PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+ -- CA : PASADENA
+  [Healthcare] ACCO ENGINEERED SYSTEMS FLEX BENEFITS PLAN [508]
+    2018
         Participants: 
-CA : GLENDALE
-    2017: ACCO ENGINEERED SYSTEMS FLEX BENEFITS PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+ -- CA : GLENDALE
+    2017
         Participants: 
-CA : PASADENA
-   [509]
-    2022: ACCO ENGINEERED SYSTEMS HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+ -- CA : PASADENA
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability] ACCO ENGINEERED SYSTEMS HEALTH AND WELFARE PLAN [509]
+    2022  [codes: 4A4B4D4E4F4H4Q]
         Participants: 
-    2021: ACCO ENGINEERED SYSTEMS HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2021
         Participants: 
-    2020: ACCO ENGINEERED SYSTEMS HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2020
         Participants: 
-    2019: ACCO ENGINEERED SYSTEMS HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2019
         Participants: 
-   [504]
-    2018: ACCO ENGINEERED SYSTEMS GROUP LIFE AND ACCIDENTAL DEATH AND DISMEMBERMENT
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+  [Life insurance] ACCO ENGINEERED SYSTEMS GROUP LIFE AND ACCIDENTAL DEATH AND DISMEMBERMENT [504]
+    2018  [codes: 4B4Q]
         Participants: 
-CA : GLENDALE
-    2017: ACCO ENGINEERED SYSTEMS GROUP LIFE AND ACCIDENTAL DEATH AND DISMEMBERMENT
-        Benefit Category: Life insurance, Travel accident
-        Codes:  4B4L
+ -- CA : GLENDALE
+    2017  [codes: 4B4L]
         Participants: 
-CA : PASADENA
-   [502]
-    2018: ACCO ENGINEERED SYSTEMS GROUP LONG TERM DISABILITY INSURANCE FOR NON-UNION EMPLOYEES
-        Benefit Category: Short-term disability, Long-term disability
-        Codes:  4F4H
+ -- CA : PASADENA
+  [Short-term disability, Long-term disability] ACCO ENGINEERED SYSTEMS GROUP LONG TERM DISABILITY INSURANCE FOR NON-UNION EMPLOYEES [502]
+    2018  [codes: 4F4H]
         Participants: 
-CA : GLENDALE
-    2017: ACCO ENGINEERED SYSTEMS GROUP LONG TERM DISABILITY INSURANCE FOR NON-UNION EMPLOYEES
-        Benefit Category: Short-term disability, Long-term disability
-        Codes:  4F4H
+ -- CA : GLENDALE
+    2017
         Participants: 
-CA : PASADENA
-   [506]
-    2018: ACCO ENGINEERED SYSTEMS GROUP VISION PLAN
-        Benefit Category: Vision
-        Codes:  4E
+ -- CA : PASADENA
+  [Vision] ACCO ENGINEERED SYSTEMS GROUP VISION PLAN [506]
+    2018  [codes: 4E]
         Participants: 
-CA : GLENDALE
-    2017: ACCO ENGINEERED SYSTEMS GROUP VISION PLAN
-        Benefit Category: Vision
-        Codes:  4E
+ -- CA : GLENDALE
+    2017
         Participants: 

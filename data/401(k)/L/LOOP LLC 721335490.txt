@@ -1,78 +1,56 @@
-LA : COVINGTON
-  LOOP LLC  721335490
-    2022: LOOP LLC EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T 
-        Participants: 234
-        Assets: 83109711
-        $/Participant: 355169
-    2021: LOOP LLC EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T 
-        Participants: 241
-        Assets: 100440599
-        $/Participant: 416765
-    2020: LOOP LLC EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T 
-        Participants: 246
-        Assets: 91453827
-        $/Participant: 371763
-    2019: LOOP LLC EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T 
-        Participants: 258
-        Assets: 82835315
-        $/Participant: 321067
-    2018: LOOP LLC EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T 
-        Participants: 264
-        Assets: 65405409
-        $/Participant: 247747
-    2017: LOOP LLC EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T 
-        Participants: 260
-        Assets: 67553775
-        $/Participant: 259822
-   [501]
-    2022: LOOP LLC EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+LOOP LLC  721335490 -- LA : COVINGTON
+  [401(k)] LOOP LLC EMPLOYEES' SAVINGS PLAN
+    2022  [codes: 2E2F2G2J2K2R2S2T]
+        Participants: 234  Average: $355,169
+        Assets: $83,109,711
+
+    2021
+        Participants: 241  Average: $416,765
+        Assets: $100,440,599
+
+    2020
+        Participants: 246  Average: $371,763
+        Assets: $91,453,827
+
+    2019
+        Participants: 258  Average: $321,067
+        Assets: $82,835,315
+
+    2018
+        Participants: 264  Average: $247,747
+        Assets: $65,405,409
+
+    2017
+        Participants: 260  Average: $259,822
+        Assets: $67,553,775
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability] LOOP LLC EMPLOYEE BENEFITS PLAN [501]
+    2022  [codes: 4A4B4D4E4F4H4Q]
         Participants: 
-    2021: LOOP LLC EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+    2021  [codes: 4A4B4D4E4H4Q]
         Participants: 
-    2020: LOOP LLC EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+    2020
         Participants: 
-    2019: LOOP LLC EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+    2019
         Participants: 
-    2018: LOOP LLC EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+    2018
         Participants: 
-    2017: LOOP LLC EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2017  [codes: 4A4D4E]
         Participants: 
-   [502]
-    2017: LOOP LLC EMPLOYEES' BASIC LIFE AND LTD PLAN
-        Benefit Category: Life insurance, Long-term disability
-        Codes:  4B4H4Q
+
+  [Life insurance, Long-term disability] LOOP LLC EMPLOYEES' BASIC LIFE AND LTD PLAN [502]
+    2017  [codes: 4B4H4Q]
         Participants: 
-   [001]
-    2022: LOOP LLC EMPLOYEES' RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 352
-        Assets: 99136247
-        $/Participant: 281637
+
+  [Pension] LOOP LLC EMPLOYEES' RETIREMENT PLAN [001]
+    2022  [codes: 1A]
+        Participants: 352  Average: $281,637
+        Assets: $99,136,247
         Available Investments:
            - PRINCIPAL
                  : BLACKROCK US AGG BOND
@@ -84,12 +62,10 @@ LA : COVINGTON
                  : MULTI-MANAGER SMALL CAP
                  : S&P 500 INDEX CIT F
                  : S&P MIDCAP INDEX CIT F
-    2021: LOOP LLC EMPLOYEES' RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 347
-        Assets: 131530197
-        $/Participant: 379049
+
+    2021
+        Participants: 347  Average: $379,049
+        Assets: $131,530,197
         Available Investments:
            - WELLS FARGO BANK
                  : BLACKROCK US AGG BOND
@@ -103,12 +79,10 @@ LA : COVINGTON
                  : MULTI-MANAGER SMALL CAP
                  : S&P 500 INDEX CIT F
                  : S&P MIDCAP INDEX CIT F
-    2020: LOOP LLC EMPLOYEES' RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 347
-        Assets: 120200633
-        $/Participant: 346399
+
+    2020
+        Participants: 347  Average: $346,399
+        Assets: $120,200,633
         Available Investments:
            - WELLS FARGO BANK
                  : BLACKROCK US AGG BOND
@@ -121,12 +95,10 @@ LA : COVINGTON
                  : MULTI-MANAGER SMALL CAP
                  : S&P 500 INDEX CIT F
                  : S&P MIDCAP INDEX CIT F
-    2019: LOOP LLC EMPLOYEES' RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 335
-        Assets: 102693480
-        $/Participant: 306547
+
+    2019
+        Participants: 335  Average: $306,547
+        Assets: $102,693,480
         Available Investments:
            - WELLS FARGO BANK
                  : INTERNATIONAL EQUITY INDEX CIT F
@@ -136,12 +108,10 @@ LA : COVINGTON
                  : MULTI-MANAGER SMALL CAP
                  : S&P 500 INDEX CIT F
                  : S&P MIDCAP INDEX CIT F
-    2018: LOOP LLC EMPLOYEES' RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 336
-        Assets: 85318908
-        $/Participant: 253925
+
+    2018
+        Participants: 336  Average: $253,925
+        Assets: $85,318,908
         Available Investments:
            - WELLS FARGO BANK
                  : INTERNATIONAL EQUITY INDEX CIT F
@@ -150,12 +120,10 @@ LA : COVINGTON
                  : MULTI-MANAGER SMALL CAP
                  : S&P 500 INDEX CIT F
                  : S&P MIDCAP INDEX CIT F
-    2017: LOOP LLC EMPLOYEES' RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 344
-        Assets: 90647548
-        $/Participant: 263510
+
+    2017
+        Participants: 344  Average: $263,510
+        Assets: $90,647,548
         Available Investments:
            - WELLS FARGO BANK
                  : INTERNATIONAL EQUITY INDEX CIT F
@@ -164,17 +132,13 @@ LA : COVINGTON
                  : MULTI-MANAGER SMALL CAP
                  : S&P 500 INDEX CIT F
                  : S&P MIDCAP INDEX CIT F
-LA : CONVINGTON
-   [003]
-    2020: LOOP LLC EMPLOYEE'S CASH BALANCE PLAN
-        Benefit Category: Pension
-        Codes: 1A 
+ -- LA : CONVINGTON
+  [Pension] LOOP LLC EMPLOYEE'S CASH BALANCE PLAN [003]
+    2020
         Participants: 0
-    2019: LOOP LLC EMPLOYEE'S CASH BALANCE PLAN
-        Benefit Category: Pension
-        Codes: 1A 
+
+    2019
         Participants: 16
-    2018: LOOP LLC EMPLOYEE'S CASH BALANCE PLAN
-        Benefit Category: Pension
-        Codes: 1A 
+
+    2018
         Participants: 16

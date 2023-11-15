@@ -1,11 +1,8 @@
-NY : NEW YORK
-  SELECT EQUITY GROUP, L.P.  463465710
-    2022: SELECT EQUITY GROUP, L.P. 401(K) PSP AND TRUST
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 254
-        Assets: 122131648
-        $/Participant: 480833
+SELECT EQUITY GROUP, L.P.  463465710 -- NY : NEW YORK
+  [401(k)] SELECT EQUITY GROUP, L.P. 401(K) PSP AND TRUST
+    2022  [codes: 2E2F2G2J2K]
+        Participants: 254  Average: $480,833
+        Assets: $122,131,648
         RecordKeeper: SENTINEL BENEFITS & FINANCIAL GROUP
         Available Investments:
            - WILMINGTON TRUST, N.A.
@@ -14,12 +11,10 @@ NY : NEW YORK
                  : BLACKROCK MID CAP EQUITY INDEX FUND
                  : BLACKROCK RUSSELL 2000 INDEX FUND C
                  : BLACKROCK U.S. DEBT INDEX FUND CL R
-    2021: SELECT EQUITY GROUP, L.P. 401(K) PSP AND TRUST
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 231
-        Assets: 152102846
-        $/Participant: 658453
+
+    2021
+        Participants: 231  Average: $658,453
+        Assets: $152,102,846
         RecordKeeper: SENTINEL BENEFITS & FINANCIAL GROUP
         Available Investments:
            - WILMINGTON TRUST, N.A.
@@ -28,12 +23,11 @@ NY : NEW YORK
                  : BLACKROCK MID CAP EQUITY INDEX FUND
                  : BLACKROCK RUSSELL 2000 INDEX FUND C
                  : BLACKROCK U.S. DEBT INDEX FUND CL R
-    2020: SELECT EQUITY GROUP, L.P 401(K) PROFIT SHARING PLAN & TRUST
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 201
-        Assets: 115922156
-        $/Participant: 576727
+
+  [401(k)] SELECT EQUITY GROUP, L.P 401(K) PROFIT SHARING PLAN & TRUST
+    2020
+        Participants: 201  Average: $576,727
+        Assets: $115,922,156
         RecordKeeper: SENTINEL BENEFITS & FINANCIAL GROUP
         Available Investments:
            - WILMINGTON TRUST, N.A.
@@ -42,12 +36,10 @@ NY : NEW YORK
                  : BLACKROCK MID CAP EQUITY INDEX FUND
                  : BLACKROCK RUSSELL 2000 INDEX FUND C
                  : BLACKROCK U.S. DEBT INDEX FUND CL R
-    2019: SELECT EQUITY GROUP, L.P 401(K) PROFIT SHARING PLAN & TRUST
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 179
-        Assets: 94477401
-        $/Participant: 527806
+
+    2019
+        Participants: 179  Average: $527,806
+        Assets: $94,477,401
         RecordKeeper: SENTINEL BENEFITS & FINANCIAL GROUP
         Available Investments:
            - WILMINGTON TRUST, N.A.
@@ -56,38 +48,31 @@ NY : NEW YORK
                  : BLACKROCK MID CAP EQUITY INDEX FUND
                  : BLACKROCK RUSSELL 2000 INDEX FUND C
                  : BLACKROCK U.S. DEBT INDEX FUND CL R
-    2018: SELECT EQUITY GROUP, INC. OVERTIME 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 165
-        Assets: 66868544
-        $/Participant: 405263
+
+  [401(k)] SELECT EQUITY GROUP, INC. OVERTIME 401(K) PROFIT SHARING PLAN
+    2018
+        Participants: 165  Average: $405,263
+        Assets: $66,868,544
         RecordKeeper: SENTINEL BENEFITS & FINANCIAL GROUP
-    2017: SELECT EQUITY GROUP, INC. OVERTIME 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 155
-        Assets: 64335064
-        $/Participant: 415064
+
+    2017
+        Participants: 155  Average: $415,064
+        Assets: $64,335,064
         RecordKeeper: SENTINEL BENEFITS & FINANCIAL GROUP
-   [501]
-    2021: SELECT EQUITY GROUP L.P. HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident] SELECT EQUITY GROUP L.P. HEALTH AND WELFARE BENEFIT PLAN [501]
+    2021  [codes: 4A4B4D4E4H4L]
         Participants: 
-    2020: SELECT EQUITY GROUP L.P. HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+    2020
         Participants: 
-    2019: SELECT EQUITY GROUP L.P. HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+    2019
         Participants: 
-    2018: SELECT EQUITY GROUP L.P. HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+    2018
         Participants: 
-    2017: SELECT EQUITY GROUP, L.P. HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident] SELECT EQUITY GROUP, L.P. HEALTH AND WELFARE BENEFIT PLAN
+    2017
         Participants: 

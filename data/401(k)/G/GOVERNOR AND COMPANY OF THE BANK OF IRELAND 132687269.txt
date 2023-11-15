@@ -1,8 +1,7 @@
-CT : STAMFORD
-  GOVERNOR AND COMPANY OF THE BANK OF IRELAND  132687269
+GOVERNOR AND COMPANY OF THE BANK OF IRELAND  132687269 -- CT : STAMFORD
+  [401(k)]BANK OF IRELAND GROUP U.S. 401(K) SAVINGS PLAN
    [002]
-    2022: BANK OF IRELAND GROUP U.S. 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
+    2022
         Codes: 2A2E2F2G2J2K2T3D3H 
         Participants: 106
         Assets: 26423978
@@ -77,8 +76,9 @@ CT : STAMFORD
                  : VANGUARD SMALL CAP VALUE INDEX
                  : VANGUARD TOT WLD STK INDEX ETF
                  : VANGUARD VALUE INDEX FUND
-    2021: BANK OF IRELAND GROUP U.S. 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]BANK OF IRELAND GROUP U.S. 401(K) SAVINGS PLAN
+    2021
         Codes: 2A2E2F2G2J2K2T3D3H 
         Participants: 108
         Assets: 32722254
@@ -151,8 +151,9 @@ CT : STAMFORD
                  : VANGUARD SMALL CAP VALUE INDEX
                  : VANGUARD TOT WLD STK INDEX ETF
                  : VANGUARD VALUE INDEX FUND
-    2020: BANK OF IRELAND GROUP U.S. 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]BANK OF IRELAND GROUP U.S. 401(K) SAVINGS PLAN
+    2020
         Codes: 2A2E2F2G2J2K2T3D3H 
         Participants: 113
         Assets: 30068041
@@ -224,8 +225,9 @@ CT : STAMFORD
                  : VANGUARD SMALL CAP GROW INDEX
                  : VANGUARD SMALL CAP VALUE INDEX
                  : VANGUARD VALUE INDEX FUND
-    2019: BANK OF IRELAND GROUP U.S. 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]BANK OF IRELAND GROUP U.S. 401(K) SAVINGS PLAN
+    2019
         Codes: 2A2E2F2G2J2K2T3D3H 
         Participants: 116
         Assets: 26384552
@@ -316,8 +318,9 @@ CT : STAMFORD
                  : VANGUARD TOT WLD STK INDEX ETF
                  : VANGUARD VALUE INDEX FUND
                  : WASHINGTON MUTUAL INVESTORS
-    2018: BANK OF IRELAND GROUP U.S. 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]BANK OF IRELAND GROUP U.S. 401(K) SAVINGS PLAN
+    2018
         Codes: 2A2E2F2G2J2K2T3D3H 
         Participants: 121
         Assets: 21355045
@@ -445,8 +448,9 @@ CT : STAMFORD
                  : WASHINGTON MUTUAL INVESTORS
                  : WELLS FARGO SMALL COMPANY
                  : WISDOMTREE MIDCAP DIVIDEND ETF
-    2017: BANK OF IRELAND GROUP U.S. 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]BANK OF IRELAND GROUP U.S. 401(K) SAVINGS PLAN
+    2017
         Codes: 2A2E2F2G2J2K2T3D3H 
         Participants: 127
         Assets: 23638401
@@ -578,9 +582,10 @@ CT : STAMFORD
                  : WASHINGTON MUTUAL INVESTORS
                  : WELLS FARGO SMALL COMPANY
                  : WISDOMTREE MIDCAP DIVIDEND ETF
+
+  [Pension]BANK OF IRELAND GROUP U.S. RETIREMENT PLAN
    [003]
-    2022: BANK OF IRELAND GROUP U.S. RETIREMENT PLAN
-        Benefit Category: Pension
+    2022
         Codes: 1A1I3D3H 
         Participants: 578
         Assets: 24843993
@@ -589,8 +594,9 @@ CT : STAMFORD
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN LIQUID ASSETS SEP ACCT-I2
-    2021: BANK OF IRELAND GROUP U.S. RETIREMENT PLAN
-        Benefit Category: Pension
+
+  [Pension]BANK OF IRELAND GROUP U.S. RETIREMENT PLAN
+    2021
         Codes: 1A1I3D3H 
         Participants: 604
         Assets: 31594094
@@ -599,8 +605,9 @@ CT : STAMFORD
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN LIQUID ASSETS SEP ACCT-I2
-    2020: BANK OF IRELAND GROUP U.S. RETIREMENT PLAN
-        Benefit Category: Pension
+
+  [Pension]BANK OF IRELAND GROUP U.S. RETIREMENT PLAN
+    2020
         Codes: 1A1I3D 
         Participants: 613
         Assets: 34385788
@@ -609,8 +616,9 @@ CT : STAMFORD
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN LIQUID ASSETS SEP ACCT-I2
-    2019: BANK OF IRELAND GROUP U.S. RETIREMENT PLAN
-        Benefit Category: Pension
+
+  [Pension]BANK OF IRELAND GROUP U.S. RETIREMENT PLAN
+    2019
         Codes: 1A1I3D3H 
         Participants: 632
         Assets: 32095914
@@ -620,8 +628,9 @@ CT : STAMFORD
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN LIQUID ASSETS SEP ACCT-I2
                  : PRIN MIDCAP GROWTH III SA-I2
-    2018: BANK OF IRELAND GROUP U.S. RETIREMENT PLAN
-        Benefit Category: Pension
+
+  [Pension]BANK OF IRELAND GROUP U.S. RETIREMENT PLAN
+    2018
         Codes: 1A1I3H 
         Participants: 642
         Assets: 30580412
@@ -647,8 +656,9 @@ CT : STAMFORD
                  : PRINCIPAL BOND MKT INDEX SA-I2
                  : PRINCIPAL DIV REAL ASSET SA-I3
                  : PRINCIPAL OVERSEAS SA-I2
-    2017: BANK OF IRELAND GROUP U.S. RETIREMENT PLAN
-        Benefit Category: Pension
+
+  [Pension]BANK OF IRELAND GROUP U.S. RETIREMENT PLAN
+    2017
         Codes: 1A1I3H 
         Participants: 651
         Assets: 30357675

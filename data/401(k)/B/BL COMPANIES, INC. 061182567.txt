@@ -1,11 +1,8 @@
-CT : MERIDEN
-  BL COMPANIES, INC.  061182567
-    2022: BL COMPANIES 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 502
-        Assets: 46575944
-        $/Participant: 92780
+BL COMPANIES, INC.  061182567 -- CT : MERIDEN
+  [401(k)] BL COMPANIES 401(K) PLAN
+    2022  [codes: 2E2F2G2J2K2T3D]
+        Participants: 502  Average: $92,780
+        Assets: $46,575,944
         RecordKeeper: WILSHIRE ADVISORS LLC
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -22,12 +19,10 @@ CT : MERIDEN
                  : PRIN LIFETIME HYB 2060 CIT Z30
                  : PRIN LIFETIME HYB 2065 CIT Z30
                  : PRIN LIFETIME HYB INC CIT Z30
-    2021: BL COMPANIES 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 502
-        Assets: 52270092
-        $/Participant: 104123
+
+    2021
+        Participants: 502  Average: $104,123
+        Assets: $52,270,092
         RecordKeeper: WILSHIRE ASSOCIATES INCORPORATED
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -44,12 +39,10 @@ CT : MERIDEN
                  : PRIN LIFETIME HYB 2060 CIT Z30
                  : PRIN LIFETIME HYB 2065 CIT Z30
                  : PRIN LIFETIME HYB INC CIT Z30
-    2020: BL COMPANIES 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 454
-        Assets: 40565084
-        $/Participant: 89350
+
+    2020
+        Participants: 454  Average: $89,350
+        Assets: $40,565,084
         RecordKeeper: WILSHIRE ASSOCIATES INCORPORATED
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -66,12 +59,10 @@ CT : MERIDEN
                  : PRIN LIFETIME HYB 2060 CIT Z30
                  : PRIN LIFETIME HYB 2065 CIT Z30
                  : PRIN LIFETIME HYB INC CIT Z30
-    2019: BL COMPANIES 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 393
-        Assets: 34985146
-        $/Participant: 89020
+
+    2019
+        Participants: 393  Average: $89,020
+        Assets: $34,985,146
         RecordKeeper: WILSHIRE ASSOCIATES INCORPORATED
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -87,12 +78,10 @@ CT : MERIDEN
                  : PRIN LIFETIME HYB 2060 CIT Z30
                  : PRIN LIFETIME HYB 2065 CIT Z30
                  : PRIN LIFETIME HYB INC CIT Z30
-    2018: BL COMPANIES 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 353
-        Assets: 26729268
-        $/Participant: 75720
+
+    2018
+        Participants: 353  Average: $75,720
+        Assets: $26,729,268
         RecordKeeper: WILSHIRE ASSOCIATES INCORPORATED
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -108,12 +97,10 @@ CT : MERIDEN
                  : PRIN LIFETIME HYB 2060 CIT Z30
                  : PRIN LIFETIME HYB 2065 CIT Z30
                  : PRIN LIFETIME HYB INC CIT Z30
-    2017: BL COMPANIES 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 325
-        Assets: 26901844
-        $/Participant: 82774
+
+    2017
+        Participants: 325  Average: $82,774
+        Assets: $26,901,844
         RecordKeeper: WILSHIRE ASSOCIATES INCORPORATED
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -128,91 +115,67 @@ CT : MERIDEN
                  : PRIN LIFETIME HYBR 2055 CIT R5
                  : PRIN LIFETIME HYBR 2060 CIT R5
                  : PRIN LIFETIME HYBR INC CIT R5
-   [003]
-    2022: BL COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O2Q3I 
-        Participants: 346
-        Assets: 94746005
-        $/Participant: 273832
-    2021: BL COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O2Q3I 
-        Participants: 333
-        Assets: 77045444
-        $/Participant: 231367
-    2020: BL COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O2Q3I 
-        Participants: 297
-        Assets: 53947160
-        $/Participant: 181640
-    2019: BL COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3I 
-        Participants: 271
-        Assets: 41929917
-        $/Participant: 154722
-    2018: BL COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O2Q3I 
-        Participants: 271
-        Assets: 36948604
-        $/Participant: 136341
-    2017: BL COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O2Q3I 
-        Participants: 246
-        Assets: 30152493
-        $/Participant: 122571
-   [501]
-    2022: BL COMPANIES INC. GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+  [Employee Stock Ownership Plan] BL COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN [003]
+    2022  [codes: 2I2O2Q3I]
+        Participants: 346  Average: $273,832
+        Assets: $94,746,005
+
+    2021
+        Participants: 333  Average: $231,367
+        Assets: $77,045,444
+
+    2020
+        Participants: 297  Average: $181,640
+        Assets: $53,947,160
+
+    2019  [codes: 2I2P2Q3I]
+        Participants: 271  Average: $154,722
+        Assets: $41,929,917
+
+    2018  [codes: 2I2O2Q3I]
+        Participants: 271  Average: $136,341
+        Assets: $36,948,604
+
+    2017
+        Participants: 246  Average: $122,571
+        Assets: $30,152,493
+
+  [Healthcare, Dental, Vision] BL COMPANIES INC. GROUP BENEFIT PLAN [501]
+    2022  [codes: 4A4D4E]
         Participants: 
-    2021: BL COMPANIES INC. GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2021
         Participants: 
-    2020: BL COMPANIES INC. GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2020
         Participants: 
-    2019: BL COMPANIES INC. GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2019
         Participants: 
-    2018: BL COMPANIES INC. GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2018
         Participants: 
-    2017: BL COMPANIES INC. GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2017
         Participants: 
-   [509]
-    2022: BL COMPANIES, INC. EMPLOYEE BENEFIT PLAN
-        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
-        Codes:  4B4F4H4L4Q
+
+  [Life insurance, Short-term disability, Long-term disability, Travel accident] BL COMPANIES, INC. EMPLOYEE BENEFIT PLAN [509]
+    2022  [codes: 4B4F4H4L4Q]
         Participants: 
-    2021: BL COMPANIES, INC. EMPLOYEE BENEFIT PLAN
-        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
-        Codes:  4B4F4H4L4Q
+
+    2021
         Participants: 
-    2020: BL COMPANIES, INC. EMPLOYEE BENEFIT PLAN
-        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
-        Codes:  4B4F4H4L4Q
+
+    2020
         Participants: 
-   [502]
-    2022: BL COMPANIES, INC. EMPLOYEE ASSISTANCE PROGRAM
-        Benefit Category: Other
-        Codes:  4Q
+
+  [Other] BL COMPANIES, INC. EMPLOYEE ASSISTANCE PROGRAM [502]
+    2022  [codes: 4Q]
         Participants: 
-    2021: BL COMPANIES, INC. EMPLOYEE ASSISTANCE PROGRAM
-        Benefit Category: Other
-        Codes:  4Q
+
+    2021
         Participants: 
-    2020: BL COMPANIES, INC. EMPLOYEE ASSISTANCE PROGRAM
-        Benefit Category: Other
-        Codes:  4Q
+
+    2020
         Participants: 

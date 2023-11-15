@@ -1,12 +1,8 @@
-AZ : PHOENIX
-  BLUE CROSS AND BLUE SHIELD OF ARIZONA, INC.  860004538
-   [002]
-    2022: BLUE CROSS AND BLUE SHIELD OF ARIZONA, INC. 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2T3F3H3D2E2F2G2J2K2S 
-        Participants: 3437
-        Assets: 320584488
-        $/Participant: 93274
+BLUE CROSS AND BLUE SHIELD OF ARIZONA, INC.  860004538 -- AZ : PHOENIX
+  [401(k)] BLUE CROSS AND BLUE SHIELD OF ARIZONA, INC. 401(K) SAVINGS PLAN [002]
+    2022  [codes: 2T3F3H3D2E2F2G2J2K2S]
+        Participants: 3,437  Average: $93,274
+        Assets: $320,584,488
         RecordKeeper: MERCER INC.
         Available Investments:
            - BLACKROCK INST. TRUST COMPANY, N.A.
@@ -35,12 +31,10 @@ AZ : PHOENIX
            - WELLS FARGO BANK, N.A.
                  : GALLIARD STBLE RTN E
                  : GALLIARD STBLE RTN X
-    2021: BLUE CROSS AND BLUE SHIELD OF ARIZONA, INC. 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3F3H3D 
-        Participants: 2543
-        Assets: 375693898
-        $/Participant: 147736
+
+    2021  [codes: 2E2F2G2J2K2S2T3F3H3D]
+        Participants: 2,543  Average: $147,736
+        Assets: $375,693,898
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -89,12 +83,10 @@ AZ : PHOENIX
                  : WB EMRG MKTS GR EQ 2
            - WILMINGTON TRUST, N.A.
                  : DIAMOND HILL LARGE CAP PORTFOLIO
-    2020: BLUE CROSS AND BLUE SHIELD OF ARIZONA, INC. 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3F3H 
-        Participants: 2381
-        Assets: 317162256
-        $/Participant: 133205
+
+    2020  [codes: 2E2F2G2J2K2S2T3F3H]
+        Participants: 2,381  Average: $133,205
+        Assets: $317,162,256
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -129,12 +121,10 @@ AZ : PHOENIX
                  : WF STABLE VALUE X
            - WILMINGTON TRUST, N.A.
                  : DIAMOND HILL LARGE CAP PORTFOLIO
-    2019: BLUE CROSS AND BLUE SHIELD OF ARIZONA, INC. 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3F3H 
-        Participants: 2265
-        Assets: 262487831
-        $/Participant: 115888
+
+    2019
+        Participants: 2,265  Average: $115,888
+        Assets: $262,487,831
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIAM TRUST COMPANY
@@ -165,12 +155,10 @@ AZ : PHOENIX
                  : CIF II SMALL CAP VALUE PORTFOLIO
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE X
-    2018: BLUE CROSS AND BLUE SHIELD OF ARIZONA, INC. 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S3F3H2T 
-        Participants: 1901
-        Assets: 215132756
-        $/Participant: 113168
+
+    2018  [codes: 2E2F2G2J2K2S3F3H2T]
+        Participants: 1,901  Average: $113,168
+        Assets: $215,132,756
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIAM TRUST COMPANY
@@ -203,12 +191,10 @@ AZ : PHOENIX
                  : CIF II SMALL CAP VALUE PORTFOLIO
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE FUND X
-    2017: BLUE CROSS AND BLUE SHIELD OF ARIZONA, INC. 401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2S2T3F3H2E 
-        Participants: 1765
-        Assets: 226987612
-        $/Participant: 128604
+
+    2017  [codes: 2F2G2J2K2S2T3F3H2E]
+        Participants: 1,765  Average: $128,604
+        Assets: $226,987,612
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIAM TRUST COMPANY
@@ -238,113 +224,88 @@ AZ : PHOENIX
                  : CIF II SMALL CAP VALUE PORTFOLIO
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE FUND
-   [501]
-    2022: FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
+
+  [Healthcare, Dental, Vision] FLEXIBLE BENEFIT PLAN [501]
+    2022  [codes: 4A4D4E4Q]
         Participants: 395
-    2021: FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
+
+    2021
         Participants: 355
-    2020: FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
+
+    2020
         Participants: 317
-    2019: FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
+
+    2019
         Participants: 306
-    2018: FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
+
+    2018
         Participants: 347
-    2017: FLEXIBLE BENEFIT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
+
+    2017
         Participants: 416
-   [503]
-    2022: EMPLOYEE HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E
-        Participants: 2616
-    2021: EMPLOYEE HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E
-        Participants: 2000
-    2020: EMPLOYEE HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E
-        Participants: 2019
-    2019: EMPLOYEE HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E
-        Participants: 1797
-    2018: EMPLOYEE HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E
-        Participants: 1894
-    2017: EMPLOYEE HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision
-        Codes:  4A4B4D4E
-        Participants: 1797
-   [506]
-    2022: BLUE CROSS BLUE SHIELD OF ARIZONA, INC. EMPLOYEE ASSISTANCE PROGRAM
-        Benefit Category: Other
-        Codes:  4Q
-        Participants: 2814
-    2021: BLUE CROSS BLUE SHIELD OF ARIZONA, INC. EMPLOYEE ASSISTANCE PROGRAM
-        Benefit Category: Other
-        Codes:  4Q
-        Participants: 2567
-    2020: BLUE CROSS BLUE SHIELD OF ARIZONA, INC. EMPLOYEE ASSISTANCE PROGRAM
-        Benefit Category: Other
-        Codes:  4Q
-        Participants: 1986
-    2019: BLUE CROSS BLUE SHIELD OF ARIZONA, INC. EMPLOYEE ASSISTANCE PROGRAM
-        Benefit Category: Other
-        Codes:  4Q
-        Participants: 1843
-    2018: BLUE CROSS BLUE SHIELD OF ARIZONA, INC. EMPLOYEE ASSISTANCE PROGRAM
-        Benefit Category: Other
-        Codes:  4Q
-        Participants: 1545
-    2017: BLUE CROSS BLUE SHIELD OF ARIZONA, INC. EMPLOYEE ASSISTANCE PROGRAM
-        Benefit Category: Other
-        Codes:  4Q
-        Participants: 1428
-   [507]
-    2022: BLUE CROSS BLUE SHIELD OF ARIZONA, INC VOLUNTARY LEGAL BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4G
+
+  [Healthcare, Life insurance, Dental, Vision] EMPLOYEE HEALTH PLAN [503]
+    2022  [codes: 4A4B4D4E]
+        Participants: 2,616
+
+    2021
+        Participants: 2,000
+
+    2020
+        Participants: 2,019
+
+    2019
+        Participants: 1,797
+
+    2018
+        Participants: 1,894
+
+    2017
+        Participants: 1,797
+
+  [Other] BLUE CROSS BLUE SHIELD OF ARIZONA, INC. EMPLOYEE ASSISTANCE PROGRAM [506]
+    2022  [codes: 4Q]
+        Participants: 2,814
+
+    2021
+        Participants: 2,567
+
+    2020
+        Participants: 1,986
+
+    2019
+        Participants: 1,843
+
+    2018
+        Participants: 1,545
+
+    2017
+        Participants: 1,428
+
+  [Other] BLUE CROSS BLUE SHIELD OF ARIZONA, INC VOLUNTARY LEGAL BENEFIT PLAN [507]
+    2022  [codes: 4G]
         Participants: 476
-    2021: BLUE CROSS BLUE SHIELD OF ARIZONA, INC VOLUNTARY LEGAL BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4G
+
+    2021
         Participants: 376
-    2020: BLUE CROSS BLUE SHIELD OF ARIZONA, INC VOLUNTARY LEGAL BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4G
+
+    2020
         Participants: 382
-    2019: BLUE CROSS BLUE SHIELD OF ARIZONA, INC VOLUNTARY LEGAL BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4G
+
+    2019
         Participants: 352
-    2018: BLUE CROSS BLUE SHIELD OF ARIZONA, INC VOLUNTARY LEGAL BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4G
+
+    2018
         Participants: 298
-    2017: BLUE CROSS BLUE SHIELD OF ARIZONA, INC. VOLUNTARY LEGAL BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4G
+
+  [Other] BLUE CROSS BLUE SHIELD OF ARIZONA, INC. VOLUNTARY LEGAL BENEFIT PLAN
+    2017
         Participants: 294
-   [001]
-    2022: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF BLUE CROSS AND BLUE SHIELD OF ARIZONA INC.
-        Benefit Category: Pension
-        Codes: 1A1E3F3H 
-        Participants: 1090
-        Assets: 392293784
-        $/Participant: 359902
+
+  [Pension] NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF BLUE CROSS AND BLUE SHIELD OF ARIZONA INC. [001]
+    2022  [codes: 1A1E3F3H]
+        Participants: 1,090  Average: $359,902
+        Assets: $392,293,784
         Service Providers:
            - BLUE CROSS BLUE SHIELD ASSOCIATION : PLAN ADMIN (Plan Administrator)
            - NORTHERN TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar))
@@ -364,12 +325,10 @@ AZ : PHOENIX
                  : LONG TERM GOV INDEX FD
            - NORTHERN TRUST INVESTMENTS, N.A.
                  : NTGI COLLECTIVE SHORT-TERM INV FD
-    2021: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF BLUE CROSS AND BLUE SHIELD OF ARIZONA INC.
-        Benefit Category: Pension
-        Codes: 1A1E3F3H 
-        Participants: 1198
-        Assets: 307071546
-        $/Participant: 256320
+
+    2021
+        Participants: 1,198  Average: $256,320
+        Assets: $307,071,546
         Service Providers:
            - BARLIT BECK LLP : LEGAL (Legal)
            - NOMURA CORP RESEARCH AND ASSET MGMT : INVESTMENT MGMT (Investment management)
@@ -400,12 +359,10 @@ AZ : PHOENIX
                  : NATIONAL RETIREMENT TRUST
            - NORTHERN TRUST INVESTMENTS, N.A.
                  : NTGI COLLECTIVE SHORT-TERM INV FD
-    2020: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF BLUE CROSS AND BLUE SHIELD OF ARIZONA INC.
-        Benefit Category: Pension
-        Codes: 1A1E3F3H 
-        Participants: 1295
-        Assets: 286855133
-        $/Participant: 221509
+
+    2020
+        Participants: 1,295  Average: $221,509
+        Assets: $286,855,133
         Service Providers:
            - BARTLIT BECK LLP : LEGAL (Legal)
            - NOMURA CORPORATION : INVESTMENT MGMT (Investment management)
@@ -427,12 +384,10 @@ AZ : PHOENIX
         Available Investments:
            - BLUE CROSS AND BLUE SHIELD ASSOC.
                  : NATIONAL RETIREMENT TRUST
-    2019: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF BLUE CROSS AND BLUE SHIELD OF ARIZONA INC.
-        Benefit Category: Pension
-        Codes: 1A1E3F3H 
-        Participants: 1404
-        Assets: 535276469
-        $/Participant: 381251
+
+    2019
+        Participants: 1,404  Average: $381,251
+        Assets: $535,276,469
         Service Providers:
            - NOMURA CORPORATION : INVEST MGMT (Investment management)
            - NORTHERN TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar))
@@ -446,22 +401,18 @@ AZ : PHOENIX
         Available Investments:
            - BLUE CROSS AND BLUE SHIELD ASSOC.
                  : NATIONAL RETIREMENT TRUST
-    2018: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF BLUE CROSS AND BLUE SHIELD OF ARIZONA INC.
-        Benefit Category: Pension
-        Codes: 1A1E3F3H 
-        Participants: 1473
-        Assets: 395260123
-        $/Participant: 268336
+
+    2018
+        Participants: 1,473  Average: $268,336
+        Assets: $395,260,123
         RecordKeeper: WORKIVA INC.
         Available Investments:
            - BLUE CROSS AND BLUE SHIELD ASSOC.
                  : NATIONAL RETIREMENT TRUST
-    2017: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF BLUE CROSS AND BLUE SHIELD OF ARIZONA INC.
-        Benefit Category: Pension
-        Codes: 1A1E3F3H 
-        Participants: 1571
-        Assets: 459520838
-        $/Participant: 292502
+
+    2017
+        Participants: 1,571  Average: $292,502
+        Assets: $459,520,838
         Service Providers:
            - NORTHERN TRUST COMPANY : TRUSTEE (Trustee(bank, trust company, or similar))
            - NOMURA CORPORATE RESEARCH&ASSET MGM : INVESTMENT MGMT (Investment management)
@@ -479,62 +430,48 @@ AZ : PHOENIX
         Available Investments:
            - BLUE CROSS AND BLUE SHIELD ASSOC.
                  : NATIONAL RETIREMENT TRUST
-   [505]
-    2022: BLUE CROSS BLUE SHIELD OF ARIZONA, INC. SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 2814
-    2021: BLUE CROSS BLUE SHIELD OF ARIZONA, INC. SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 2567
-    2020: BLUE CROSS BLUE SHIELD OF ARIZONA, INC. SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 1986
-    2019: BLUE CROSS BLUE SHIELD OF ARIZONA, INC. SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 1843
-    2018: BLUE CROSS BLUE SHIELD OF ARIZONA, INC. SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 1468
-    2017: BLUE CROSS BLUE SHIELD OF ARIZONA, INC. SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 1428
-   [508]
-    2022: BLUE CROSS BLUE SHIELD OF ARIZONA, INC. EXECUTIVE SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] BLUE CROSS BLUE SHIELD OF ARIZONA, INC. SEVERANCE PLAN [505]
+    2022  [codes: 4I]
+        Participants: 2,814
+
+    2021
+        Participants: 2,567
+
+    2020
+        Participants: 1,986
+
+    2019
+        Participants: 1,843
+
+    2018
+        Participants: 1,468
+
+    2017
+        Participants: 1,428
+
+  [Severance] BLUE CROSS BLUE SHIELD OF ARIZONA, INC. EXECUTIVE SEVERANCE PLAN [508]
+    2022
         Participants: 125
-    2021: BLUE CROSS BLUE SHIELD OF ARIZONA, INC. EXECUTIVE SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2021
         Participants: 109
-   [504]
-    2022: EMPLOYEE DISABILITY PLAN
-        Benefit Category: Short-term disability, Long-term disability, Travel accident
-        Codes:  4F4H4L
-        Participants: 2687
-    2021: EMPLOYEE DISABILITY PLAN
-        Benefit Category: Short-term disability, Long-term disability, Travel accident
-        Codes:  4F4H4L
-        Participants: 2109
-    2020: EMPLOYEE DISABILITY PLAN
-        Benefit Category: Short-term disability, Long-term disability, Travel accident
-        Codes:  4F4H4L
-        Participants: 1724
-    2019: EMPLOYEE DISABILITY PLAN
-        Benefit Category: Short-term disability, Long-term disability, Travel accident
-        Codes:  4F4H4L
-        Participants: 1475
-    2018: EMPLOYEE DISABILITY PLAN
-        Benefit Category: Short-term disability, Long-term disability, Travel accident
-        Codes:  4F4H4L
-        Participants: 1328
-    2017: EMPLOYEE DISABILITY PLAN
-        Benefit Category: Short-term disability, Long-term disability, Travel accident
-        Codes:  4F4H4L
-        Participants: 1332
+
+  [Short-term disability, Long-term disability, Travel accident] EMPLOYEE DISABILITY PLAN [504]
+    2022  [codes: 4F4H4L]
+        Participants: 2,687
+
+    2021
+        Participants: 2,109
+
+    2020
+        Participants: 1,724
+
+    2019
+        Participants: 1,475
+
+    2018
+        Participants: 1,328
+
+    2017
+        Participants: 1,332

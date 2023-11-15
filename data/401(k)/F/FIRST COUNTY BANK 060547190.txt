@@ -1,12 +1,8 @@
-CT : STAMFORD
-  FIRST COUNTY BANK  060547190
-   [002]
-    2022: FIRST COUNTY BANK SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 292
-        Assets: 31048171
-        $/Participant: 106329
+FIRST COUNTY BANK  060547190 -- CT : STAMFORD
+  [401(k)] FIRST COUNTY BANK SAVINGS PLAN [002]
+    2022  [codes: 2E2F2G2J2K2S2T3D]
+        Participants: 292  Average: $106,329
+        Assets: $31,048,171
         RecordKeeper: EXCEL WEALTH MANAGEMENT, LLC
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -36,12 +32,10 @@ CT : STAMFORD
                  : PRIN MIDCAP VALUE I SA-R6
                  : PRIN REAL ESTATE SECS SA-R6
                  : PRIN SMCAP S&P 600 INDEX SA-R6
-    2021: FIRST COUNTY BANK SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 297
-        Assets: 35948516
-        $/Participant: 121038
+
+    2021
+        Participants: 297  Average: $121,038
+        Assets: $35,948,516
         RecordKeeper: LPL FINANCIAL CORPORATION
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -67,66 +61,50 @@ CT : STAMFORD
                  : PRIN MIDCAP VALUE I SA-R6
                  : PRIN REAL ESTATE SECS SA-R6
                  : PRIN SMCAP S&P 600 INDEX SA-R6
-    2020: FIRST COUNTY BANK SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2F2G2K3D2S2T 
-        Participants: 286
-        Assets: 28607212
-        $/Participant: 100025
+
+    2020  [codes: 2E2J2F2G2K3D2S2T]
+        Participants: 286  Average: $100,025
+        Assets: $28,607,212
         RecordKeeper: WELLS FARGO
-    2019: FIRST COUNTY BANK SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2F2G2K3D2S2T 
-        Participants: 298
-        Assets: 24464948
-        $/Participant: 82097
+
+    2019
+        Participants: 298  Average: $82,097
+        Assets: $24,464,948
         RecordKeeper: WELLS FARGO
-    2018: FIRST COUNTY BANK SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2F2G2K3D2S2T 
-        Participants: 298
-        Assets: 19254125
-        $/Participant: 64611
+
+    2018
+        Participants: 298  Average: $64,611
+        Assets: $19,254,125
         RecordKeeper: WELLS FARGO
-    2017: FIRST COUNTY BANK SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2F2G2K3D2S2T 
-        Participants: 277
-        Assets: 19639831
-        $/Participant: 70901
+
+    2017
+        Participants: 277  Average: $70,901
+        Assets: $19,639,831
         RecordKeeper: WELLS FARGO
-   [501]
-    2022: FIRST COUNTY BANK
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability] FIRST COUNTY BANK [501]
+    2022  [codes: 4A4B4D4E4H4Q]
         Participants: 
-    2021: FIRST COUNTY BANK
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2021  [codes: 4A4B4D4E4F4H4Q]
         Participants: 
-    2018: FIRST COUNTY BANK
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability
-        Codes:  4A4B4D4E4F4Q
+
+    2018  [codes: 4A4B4D4E4F4Q]
         Participants: 
-    2017: FIRST COUNTY BANK
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+    2017  [codes: 4A4B4D4E4H4Q]
         Participants: 
-    2020: FIRST COUNTY BANK
-        Benefit Category: Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4B4H4Q4D4E4F
+
+    2020  [codes: 4B4H4Q4D4E4F]
         Participants: 
-    2019: FIRST COUNTY BANK
-        Benefit Category: Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4B4H4Q4D4E4F
+
+    2019
         Participants: 
-   [001]
-    2022: RETIREMENT PLAN OF FIRST COUNTY BANK
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 208
-        Assets: 63131161
-        $/Participant: 303515
+
+  [Pension] RETIREMENT PLAN OF FIRST COUNTY BANK [001]
+    2022  [codes: 1A]
+        Participants: 208  Average: $303,515
+        Assets: $63,131,161
         RecordKeeper: HOOKER AND HOLCOMBE INC
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -141,12 +119,10 @@ CT : STAMFORD
                  : PRIN LIQUID ASSETS SEP ACCT-Z
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
-    2021: RETIREMENT PLAN OF FIRST COUNTY BANK
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 240
-        Assets: 77534051
-        $/Participant: 323058
+
+    2021
+        Participants: 240  Average: $323,058
+        Assets: $77,534,051
         RecordKeeper: FIRST COUNTY BANK
         Available Investments:
            - MMLIC
@@ -175,12 +151,10 @@ CT : STAMFORD
                  : PRIN LGCP S&P 500 INDEX SA-Z
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
-    2020: RETIREMENT PLAN OF FIRST COUNTY BANK
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 269
-        Assets: 67866870
-        $/Participant: 252293
+
+    2020
+        Participants: 269  Average: $252,293
+        Assets: $67,866,870
         Service Providers:
            - HOOKER AND HOLCOMBE INC :  (Actuarial)
            - MASSACHUSETTS MUTUAL LIFE INSURANCE :  (Contract Administrator | Distribution(12b - 1) fees | Float revenue | Investment management fees paid indirectly by plan | 'Soft dollars' commissions | Sub - transfer agency fees | Other investment fees and expenses)
@@ -212,12 +186,10 @@ CT : STAMFORD
                  : SIA-YF PREM SHORT-DURATION BOND
                  : SIA-YH SELECT OVERSEAS
                  : SIA-YX MM S&P 500 INDEX
-    2019: RETIREMENT PLAN OF FIRST COUNTY BANK
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 297
-        Assets: 58055201
-        $/Participant: 195472
+
+    2019
+        Participants: 297  Average: $195,472
+        Assets: $58,055,201
         Service Providers:
            - KAHAN STEIGER AND CO :  (Accounting(including auditing))
            - HOOKER AND HOLCOMBE INC :  (Actuarial)
@@ -248,12 +220,10 @@ CT : STAMFORD
                  : SIA-YH SELECT OVERSEAS
                  : SIA-YI PREMIER INTERNATIONAL EQUITY
                  : SIA-YX MM S&P 500 INDEX
-    2018: RETIREMENT PLAN OF FIRST COUNTY BANK
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 347
-        Assets: 45975563
-        $/Participant: 132494
+
+    2018
+        Participants: 347  Average: $132,494
+        Assets: $45,975,563
         Service Providers:
            - HOOKER AND HOLCOMBE INC :  (Actuarial)
            - KAHAN STEIGER AND CO :  (Accounting(including auditing))
@@ -282,12 +252,10 @@ CT : STAMFORD
                  : SIA-YH SELECT OVERSEAS
                  : SIA-YI PREMIER INTERNATIONAL EQUITY
                  : SIA-YX MM S&P 500 INDEX
-    2017: RETIREMENT PLAN OF FIRST COUNTY BANK
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 334
-        Assets: 52921811
-        $/Participant: 158448
+
+    2017
+        Participants: 334  Average: $158,448
+        Assets: $52,921,811
         Service Providers:
            - KAHAN STEIGER AND CO :  (Direct payment from the plan)
            - MASSACHUSETTS MUTUAL LIFE INSURANCE :  (Contract Administrator | Distribution(12b - 1) fees | Investment management fees paid indirectly by plan | 'Soft dollars' commissions | Sub - transfer agency fees | Other investment fees and expenses)

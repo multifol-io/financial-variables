@@ -1,12 +1,8 @@
-IL : CARROLLTON
-  CARROLLTON BANK  370207180
-   [001]
-    2022: CARROLLTON BANK EMPLOYEES 401(K) AND PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2H2G2J2K2T3D 
-        Participants: 335
-        Assets: 73504657
-        $/Participant: 219416
+CARROLLTON BANK  370207180 -- IL : CARROLLTON
+  [401(k)] CARROLLTON BANK EMPLOYEES 401(K) AND PROFIT SHARING PLAN [001]
+    2022  [codes: 2A2E2H2G2J2K2T3D]
+        Participants: 335  Average: $219,416
+        Assets: $73,504,657
         RecordKeeper: CHARLES SCHWAB & CO., INC.
         Available Investments:
            - MATRIX TRUST COMPANY
@@ -17,12 +13,10 @@ IL : CARROLLTON
                  : RETIREMENT ADVOCATE MODERATE
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE VALUE FUND C
-    2021: CARROLLTON BANK EMPLOYEES 401(K) AND PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2H2G2J2K2T3D 
-        Participants: 325
-        Assets: 82749264
-        $/Participant: 254613
+
+    2021
+        Participants: 325  Average: $254,613
+        Assets: $82,749,264
         RecordKeeper: CHARLES SCHWAB & CO., INC.
         Available Investments:
            - MATRIX TRUST COMPANY
@@ -33,12 +27,10 @@ IL : CARROLLTON
                  : RETIREMENT ADVOCATE MODERATE
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE VALUE FUND C
-    2020: CARROLLTON BANK EMPLOYEES 401(K) AND PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 301
-        Assets: 66759621
-        $/Participant: 221792
+
+    2020  [codes: 2E2F2G2J2K2T3D]
+        Participants: 301  Average: $221,792
+        Assets: $66,759,621
         RecordKeeper: CHARLES SCHWAB & CO., INC.
         Available Investments:
            - MATRIX FINANCIAL SOLUTIONS, INC.
@@ -49,12 +41,10 @@ IL : CARROLLTON
                  : RETIREMENT ADVOCATE MODERATE
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE VALUE FUND C
-    2019: CARROLLTON BANK EMPLOYEES 401(K) AND PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 281
-        Assets: 52300813
-        $/Participant: 186123
+
+    2019
+        Participants: 281  Average: $186,123
+        Assets: $52,300,813
         RecordKeeper: CHARLES SCHWAB & CO., INC.
         Available Investments:
            - STATE STREET GLOBAL ADVISORS TRUST COMPANY
@@ -68,12 +58,11 @@ IL : CARROLLTON
                  : RETIREMENT ADVOCATE MODERATE
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE VALUE FUND C
-    2018: CARROLLTON BANK EMPLOYEES 401(K) AND PS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 264
-        Assets: 39948747
-        $/Participant: 151321
+
+  [401(k)] CARROLLTON BANK EMPLOYEES 401(K) AND PS PLAN
+    2018
+        Participants: 264  Average: $151,321
+        Assets: $39,948,747
         RecordKeeper: EPIC RETIREMENT PLAN SERVICES
         Available Investments:
            - STATE STREET GLOBAL ADVISORS
@@ -87,12 +76,10 @@ IL : CARROLLTON
                  : RETIREMENT ADVOCATE MODERATE
            - WELLS FARGO, N.A.
                  : WELLS FARGO STABLE VALUE FUND C
-    2017: CARROLLTON BANK EMPLOYEES 401(K) AND PS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 232
-        Assets: 40361127
-        $/Participant: 173970
+
+    2017
+        Participants: 232  Average: $173,970
+        Assets: $40,361,127
         RecordKeeper: RETIREMENT PLAN SERVICES, LLC
         Available Investments:
            - STATE STREET GLOBAL ADVISORS
@@ -106,51 +93,42 @@ IL : CARROLLTON
                  : RETIREMENT ADVOCATE MODERATE
            - WELLS FARGO, N.A.
                  : WELLS FARGO STABLE VALUE FUND C
-   [501]
-    2018: CARROLLTON BANK EMPLOYEE HEALTH CARE PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] CARROLLTON BANK EMPLOYEE HEALTH CARE PLAN [501]
+    2018  [codes: 4A]
         Participants: 
-    2017: CARROLLTON BANK EMPLOYEE HEALTH CARE PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2017
         Participants: 
-   [503]
-    2022: CARROLLTON BANK EMPLOYEE BENEFIT(S) PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability] CARROLLTON BANK EMPLOYEE BENEFIT(S) PLAN [503]
+    2022  [codes: 4A4B4D4E4H]
         Participants: 
         Service Providers:
            - MERCY ADMINISTRATORS, LLC :  (Plan Administrator | Direct payment from the plan)
            - HEALTHLINC, INC. :  (Plan Administrator | Direct payment from the plan)
-    2021: CARROLLTON BANK EMPLOYEE BENEFIT(S) PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H
+
+    2021
         Participants: 
         Service Providers:
            - MERCY ADMINISTRATORS, LLC :  (Plan Administrator | Direct payment from the plan)
            - HEALTHLINC, INC. :  (Plan Administrator | Direct payment from the plan)
-    2020: CARROLLTON BANK EMPLOYEE BENEFIT(S) PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H
+
+    2020
         Participants: 
         Service Providers:
            - MERCY ADMINISTRATORS, LLC :  (Plan Administrator | Direct payment from the plan)
            - HEALTHLINC, INC. :  (Plan Administrator | Direct payment from the plan)
-    2019: CARROLLTON BANK EMPLOYEE BENEFIT(S) PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H
+
+    2019
         Participants: 
-    2018: CARROLLTON BANK EMPLOYEE BENEFIT(S) PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H
+
+    2018
         Participants: 
-   [502]
-    2018: CARROLLTON BANK EMPLOYEE LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+  [Life insurance] CARROLLTON BANK EMPLOYEE LIFE INSURANCE PLAN [502]
+    2018  [codes: 4B]
         Participants: 
-    2017: CARROLLTON BANK EMPLOYEE LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2017
         Participants: 

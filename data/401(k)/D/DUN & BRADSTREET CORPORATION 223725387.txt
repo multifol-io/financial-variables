@@ -1,8 +1,7 @@
-FL : JACKSONVILLE
-  DUN & BRADSTREET CORPORATION  223725387
+DUN & BRADSTREET CORPORATION  223725387 -- FL : JACKSONVILLE
+  [401(k)]THE DUN & BRADSTREET CORPORATION 401(K) PLAN
    [002]
-    2022: THE DUN & BRADSTREET CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
+    2022
         Codes: 2E2F2H2J2K2S2T 
         Participants: 5217
         Assets: 1034558150
@@ -20,8 +19,9 @@ FL : JACKSONVILLE
                  : VANGUARD TARGET RETIREMENT 2055 RET
                  : VANGUARD TARGET RETIREMENT 2060 RET
                  : VANGUARD TARGET RETIREMENT INCOME R
-    2021: THE DUN & BRADSTREET CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]THE DUN & BRADSTREET CORPORATION 401(K) PLAN
+    2021
         Codes: 2E2F2H2J2K2S2T 
         Participants: 5195
         Assets: 1309824715
@@ -39,9 +39,9 @@ FL : JACKSONVILLE
                  : VANGUARD TARGET RETIREMENT 2055 RET
                  : VANGUARD TARGET RETIREMENT 2060 RET
                  : VANGUARD TARGET RETIREMENT INCOME R
-NJ : SHORT HILLS
-    2020: THE DUN & BRADSTREET CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
+ -- NJ : SHORT HILLS
+  [401(k)]THE DUN & BRADSTREET CORPORATION 401(K) PLAN
+    2020
         Codes: 2E2F2H2J2K2S2T 
         Participants: 5086
         Assets: 1205658370
@@ -59,8 +59,9 @@ NJ : SHORT HILLS
                  : VANGUARD TARGET RETIREMENT 2055 RET
                  : VANGUARD TARGET RETIREMENT 2060 RET
                  : VANGUARD TARGET RETIREMENT INCOME R
-    2019: THE DUN & BRADSTREET CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]THE DUN & BRADSTREET CORPORATION 401(K) PLAN
+    2019
         Codes: 2E2F2H2J2K2S2T 
         Participants: 5165
         Assets: 1078804579
@@ -77,8 +78,9 @@ NJ : SHORT HILLS
                  : VANGUARD TARGET RETIREMENT 2050 RET
                  : VANGUARD TARGET RETIREMENT 2055 RET
                  : VANGUARD TARGET RETIREMENT INCOME R
-    2018: THE DUN & BRADSTREET CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]THE DUN & BRADSTREET CORPORATION 401(K) PLAN
+    2018
         Codes: 2E2F2H2J2K2S2T 
         Participants: 5528
         Assets: 952660576
@@ -95,8 +97,9 @@ NJ : SHORT HILLS
                  : VANGUARD TARGET RETIREMENT 2050 RET
                  : VANGUARD TARGET RETIREMENT 2055 RET
                  : VANGUARD TARGET RETIREMENT INCOME R
-    2017: THE DUN & BRADSTREET CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]THE DUN & BRADSTREET CORPORATION 401(K) PLAN
+    2017
         Codes: 2E2F2H2J2K2S2T 
         Participants: 5613
         Assets: 1027687652
@@ -113,85 +116,93 @@ NJ : SHORT HILLS
                  : VANGUARD TARGET RETIREMENT 2050 RET
                  : VANGUARD TARGET RETIREMENT 2055 RET
                  : VANGUARD TARGET RETIREMENT INCOME R
-FL : JACKSONVILLE
+ -- FL : JACKSONVILLE
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident]THE DUN & BRADSTREET CORPORATION WELFARE BENEFIT PLAN
    [501]
-    2022: THE DUN & BRADSTREET CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
+    2022
         Codes:  4A4B4D4E4G4H4L
         Participants: 
         Service Providers:
            - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
-NJ : SHORT HILLS
-    2021: THE DUN & BRADSTREET CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
+ -- NJ : SHORT HILLS
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident]THE DUN & BRADSTREET CORPORATION WELFARE BENEFIT PLAN
+    2021
         Codes:  4A4B4D4E4G4H4L
         Participants: 
         Service Providers:
            - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
-    2020: THE DUN & BRADSTREET CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident]THE DUN & BRADSTREET CORPORATION WELFARE BENEFIT PLAN
+    2020
         Codes:  4A4B4D4E4G4H4L
         Participants: 
         Service Providers:
            - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
-    2019: THE DUN & BRADSTREET CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident]THE DUN & BRADSTREET CORPORATION WELFARE BENEFIT PLAN
+    2019
         Codes:  4A4B4D4E4G4H4L
         Participants: 
         Service Providers:
            - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
            - UNUM LIFE INSURANCE COMPANY OF AMER : SERVICE PROVIDER (Contract Administrator)
-    2018: THE DUN & BRADSTREET CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident]THE DUN & BRADSTREET CORPORATION WELFARE BENEFIT PLAN
+    2018
         Codes:  4A4B4D4E4F4G4H4I4L4Q
         Participants: 
         Service Providers:
            - METROPOLITAN LIFE INSURANCE COMPANY : N/A (Claims processing | Contract Administrator)
-    2017: THE DUN & BRADSTREET CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident]THE DUN & BRADSTREET CORPORATION WELFARE BENEFIT PLAN
+    2017
         Codes:  4A4B4D4E4F4G4H4I4L4Q
         Participants: 
         Service Providers:
            - METROPOLITAN LIFE INSURANCE COMPANY : N/A (Claims processing | Contract Administrator)
+
+  [Healthcare, Life insurance, Dental]THE DUN & BRADSTREET CORPORATION RETIREE HEALTH AND WELFARE BENEFIT PLAN
    [540]
-    2020: THE DUN & BRADSTREET CORPORATION RETIREE HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental
+    2020
         Codes:  4A4B4D
         Participants: 
         Service Providers:
            - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMIN (Contract Administrator)
-    2019: THE DUN & BRADSTREET CORPORATION RETIREE HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental
+
+  [Healthcare, Life insurance, Dental]THE DUN & BRADSTREET CORPORATION RETIREE HEALTH AND WELFARE BENEFIT PLAN
+    2019
         Codes:  4A4B4D
         Participants: 
         Service Providers:
            - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMIN (Contract Administrator)
-    2018: THE DUN & BRADSTREET CORPORATION RETIREE HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental
+
+  [Healthcare, Life insurance, Dental]THE DUN & BRADSTREET CORPORATION RETIREE HEALTH AND WELFARE BENEFIT PLAN
+    2018
         Codes:  4A4B4D
         Participants: 
         Service Providers:
            - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMIN (Contract Administrator)
-    2017: THE DUN & BRADSTREET CORPORATION RETIREE HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental
+
+  [Healthcare, Life insurance, Dental]THE DUN & BRADSTREET CORPORATION RETIREE HEALTH AND WELFARE BENEFIT PLAN
+    2017
         Codes:  4A4B4D
         Participants: 
         Service Providers:
            - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMIN (Contract Administrator)
-FL : JACKSONVILLE
-    2022: THE DUN & BRADSTREET CORPORATION RETIREE HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Life insurance
+ -- FL : JACKSONVILLE
+  [Life insurance]THE DUN & BRADSTREET CORPORATION RETIREE HEALTH AND WELFARE BENEFIT PLAN
+    2022
         Codes:  4B
         Participants: 
-NJ : SHORT HILLS
-    2021: THE DUN & BRADSTREET CORPORATION RETIREE HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Life insurance
+ -- NJ : SHORT HILLS
+  [Life insurance]THE DUN & BRADSTREET CORPORATION RETIREE HEALTH AND WELFARE BENEFIT PLAN
+    2021
         Codes:  4B
         Participants: 
-FL : JACKSONVILLE
+ -- FL : JACKSONVILLE
+  [Pension]THE DUN & BRADSTREET CORPORATION RETIREMENT ACCOUNT
    [001]
-    2022: THE DUN & BRADSTREET CORPORATION RETIREMENT ACCOUNT
-        Benefit Category: Pension
+    2022
         Codes: 1A1C1I 
         Participants: 20323
         Assets: 1035289751
@@ -222,8 +233,9 @@ FL : JACKSONVILLE
                  : AON HEWITT COLLECTIVE INV TRUST NON
                  : AON HEWITT COLLECTIVE INV TRUST US
                  : AON HEWITT COLLECTIVE INVESTMENT TR
-    2021: THE DUN & BRADSTREET CORPORATION RETIREMENT ACCOUNT
-        Benefit Category: Pension
+
+  [Pension]THE DUN & BRADSTREET CORPORATION RETIREMENT ACCOUNT
+    2021
         Codes: 1A1C1I 
         Participants: 20739
         Assets: 1309913676
@@ -252,9 +264,9 @@ FL : JACKSONVILLE
                  : AON HEWITT COLLECTIVE INV TRUST NON
                  : AON HEWITT COLLECTIVE INV TRUST US
                  : AON HEWITT COLLECTIVE INVESTMENT TR
-NJ : SHORT HILLS
-    2020: THE DUN & BRADSTREET CORPORATION RETIREMENT ACCOUNT
-        Benefit Category: Pension
+ -- NJ : SHORT HILLS
+  [Pension]THE DUN & BRADSTREET CORPORATION RETIREMENT ACCOUNT
+    2020
         Codes: 1A1C1I 
         Participants: 21086
         Assets: 1241232047
@@ -292,8 +304,9 @@ NJ : SHORT HILLS
                  : AON HEWITT COLLECTIVE INV TRUST MUL
                  : AON HEWITT COLLECTIVE INV TRUST NON
                  : AON HEWITT COLLECTIVE INV TRUST US
-    2019: THE DUN & BRADSTREET CORPORATION RETIREMENT ACCOUNT
-        Benefit Category: Pension
+
+  [Pension]THE DUN & BRADSTREET CORPORATION RETIREMENT ACCOUNT
+    2019
         Codes: 1A1C1I 
         Participants: 21518
         Assets: 1241726319
@@ -318,8 +331,9 @@ NJ : SHORT HILLS
                  : THE AON HEWITT GROUP US INTERMEDIAT
                  : THE AON HEWITT LIQUID ALTERNATIVES
                  : THE AON PRIVATE CREDIT OPPORTUNITIE
-    2018: THE DUN & BRADSTREET CORPORATION RETIREMENT ACCOUNT
-        Benefit Category: Pension
+
+  [Pension]THE DUN & BRADSTREET CORPORATION RETIREMENT ACCOUNT
+    2018
         Codes: 1A1C1I 
         Participants: 21955
         Assets: 1127748076
@@ -366,8 +380,9 @@ NJ : SHORT HILLS
                  : WA MORTGAGE BACKED SECURITIES PORT
                  : WA OPPORTUNISTIC NON-DOLLAR HEDGED
                  : WA OPPORTUNISTIC US HY SECURITIES
-    2017: THE DUN & BRADSTREET CORPORATION RETIREMENT ACCOUNT
-        Benefit Category: Pension
+
+  [Pension]THE DUN & BRADSTREET CORPORATION RETIREMENT ACCOUNT
+    2017
         Codes: 1A1C1I 
         Participants: 22395
         Assets: 1298947300

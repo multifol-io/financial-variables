@@ -1,12 +1,8 @@
-NY : PURCHASE
-  CENTRAL NATIONAL GOTTESMAN INC  130425246
-   [004]
-    2022: CENTRAL NATIONAL GOTTESMAN INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K3D2S2T 
-        Participants: 1780
-        Assets: 218207783
-        $/Participant: 122588
+CENTRAL NATIONAL GOTTESMAN INC  130425246 -- NY : PURCHASE
+  [401(k)] CENTRAL NATIONAL GOTTESMAN INC. 401(K) PLAN [004]
+    2022  [codes: 2E2F2G2J2K3D2S2T]
+        Participants: 1,780  Average: $122,588
+        Assets: $218,207,783
         RecordKeeper: THE VANGUARD GROUP
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
@@ -23,88 +19,71 @@ NY : PURCHASE
                  : VFTC TGT RETIREMENT 2065 TRUST II
                  : VFTC TGT RETIREMENT 2070 TRUST II
                  : VFTC TGT RETIREMENT INCOME TRUST II
-    2021: CENTRAL NATIONAL GOTTESMAN INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K3D2S2T 
-        Participants: 1618
-        Assets: 257461078
-        $/Participant: 159123
+
+    2021
+        Participants: 1,618  Average: $159,123
+        Assets: $257,461,078
         RecordKeeper: THE VANGUARD GROUP
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
-    2020: CENTRAL NATIONAL GOTTESMAN INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K3D2S2T 
-        Participants: 1540
-        Assets: 226835922
-        $/Participant: 147296
+
+    2020
+        Participants: 1,540  Average: $147,296
+        Assets: $226,835,922
         RecordKeeper: THE VANGUARD GROUP
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
-    2019: CENTRAL NATIONAL GOTTESMAN INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K3D2S2T 
-        Participants: 1561
-        Assets: 202093985
-        $/Participant: 129464
+
+    2019
+        Participants: 1,561  Average: $129,464
+        Assets: $202,093,985
         RecordKeeper: THE VANGUARD GROUP
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
-    2018: CENTRAL NATIONAL GOTTESMAN INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K3D2S2T 
-        Participants: 1291
-        Assets: 159791489
-        $/Participant: 123773
+
+    2018
+        Participants: 1,291  Average: $123,773
+        Assets: $159,791,489
         RecordKeeper: THE VANGUARD GROUP
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
-    2017: CENTRAL NATIONAL GOTTESMAN INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K3D 
-        Participants: 1281
-        Assets: 168985115
-        $/Participant: 131916
+
+    2017  [codes: 2E2F2G2J2K3D]
+        Participants: 1,281  Average: $131,916
+        Assets: $168,985,115
         RecordKeeper: THE VANGUARD GROUP
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
-   [501]
-    2022: CENTRAL NATIONAL GOTTESMAN GROUP WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] CENTRAL NATIONAL GOTTESMAN GROUP WELFARE PLAN [501]
+    2022  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
-    2021: CENTRAL NATIONAL GOTTESMAN GROUP WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2021
         Participants: 
-    2020: CENTRAL NATIONAL GOTTESMAN GROUP WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2020
         Participants: 
-    2019: CENTRAL NATIONAL GOTTESMAN GROUP WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2019
         Participants: 
-    2018: CENTRAL NATIONAL GOTTESMAN GROUP WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2018
         Participants: 
-    2017: CENTRAL NATIONAL - GOTTESMAN GROUP WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] CENTRAL NATIONAL - GOTTESMAN GROUP WELFARE PLAN
+    2017
         Participants: 
-   [002]
-    2022: CENTRAL NATIONAL GOTTESMAN INC PROFIT SHARING PLAN
-        Benefit Category: Other
-        Codes: 2E2K 
-        Participants: 386
-        Assets: 84938221
-        $/Participant: 220047
+
+  [Other] CENTRAL NATIONAL GOTTESMAN INC PROFIT SHARING PLAN [002]
+    2022  [codes: 2E2K]
+        Participants: 386  Average: $220,047
+        Assets: $84,938,221
         Service Providers:
            - GREENHAVEN ASSOCIATES : CTRL BY DIR & SH OF CO. (Investment management | Investment management fees paid directly by plan)
            - BRAVE WARRIOR ADVISORS, LLC :  (Investment management | Investment management fees paid directly by plan)
@@ -113,67 +92,51 @@ NY : PURCHASE
            - MOSES SINGER :  (Legal | Direct payment from the plan)
            - PORTFOLIO EVALUATIONS INC :  (Consulting(general) | Direct payment from the plan)
            - CAP TRUST :  (Consulting(general) | Direct payment from the plan)
-    2021: CENTRAL NATIONAL GOTTESMAN INC PROFIT SHARING PLAN
-        Benefit Category: Other
-        Codes: 2E2K 
-        Participants: 338
-        Assets: 97876316
-        $/Participant: 289574
+
+    2021
+        Participants: 338  Average: $289,574
+        Assets: $97,876,316
         Service Providers:
            - GREENHAVEN ASSOCIATES : CTRL BY DIR & SH OF CO. (Investment management | Investment management fees paid directly by plan)
            - BRAVE WARRIOR ADVISORS, LLC :  (Investment management | Investment management fees paid directly by plan)
            - CROWE LLP :  (Accounting(including auditing) | Direct payment from the plan)
            - JPMORGAN CHASE :  (Custodial(securities) | Direct payment from the plan)
            - PORTFOLIO EVALUATIONS INC :  (Consulting(general) | Direct payment from the plan)
-    2020: CENTRAL NATIONAL GOTTESMAN INC PROFIT SHARING PLAN
-        Benefit Category: Other
-        Codes: 2E2K 
-        Participants: 325
-        Assets: 97658860
-        $/Participant: 300488
+
+    2020
+        Participants: 325  Average: $300,488
+        Assets: $97,658,860
         RecordKeeper: MOSES & SINGER LLP
-    2019: CENTRAL NATIONAL GOTTESMAN INC PROFIT SHARING PLAN
-        Benefit Category: Other
-        Codes: 2E2K 
-        Participants: 305
-        Assets: 81128347
-        $/Participant: 265994
+
+    2019
+        Participants: 305  Average: $265,994
+        Assets: $81,128,347
         RecordKeeper: SQ ADVISORS
-    2018: CENTRAL NATIONAL GOTTESMAN INC PROFIT SHARING PLAN
-        Benefit Category: Other
-        Codes: 2E2K 
-        Participants: 309
-        Assets: 66872411
-        $/Participant: 216415
+
+    2018
+        Participants: 309  Average: $216,415
+        Assets: $66,872,411
         RecordKeeper: MOSES & SINGER LLP
-    2017: CENTRAL NATIONAL GOTTESMAN INC PROFIT SHARING PLAN
-        Benefit Category: Other
-        Codes: 2E2K 
-        Participants: 295
-        Assets: 87711884
-        $/Participant: 297328
+
+    2017
+        Participants: 295  Average: $297,328
+        Assets: $87,711,884
         RecordKeeper: MOSES & SINGER LLP
-   [001]
-    2022: CENTRAL NATIONAL GOTTESMAN PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 1103
-        Assets: 106559020
-        $/Participant: 96608
+
+  [Pension] CENTRAL NATIONAL GOTTESMAN PENSION PLAN [001]
+    2022  [codes: 1A]
+        Participants: 1,103  Average: $96,608
+        Assets: $106,559,020
         RecordKeeper: CAPTRUST
-    2021: CENTRAL NATIONAL GOTTESMAN PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 1109
-        Assets: 131271339
-        $/Participant: 118369
+
+    2021
+        Participants: 1,109  Average: $118,369
+        Assets: $131,271,339
         RecordKeeper: PORTFOLIO EVALUATION
-    2020: CENTRAL NATIONAL GOTTESMAN PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 1131
-        Assets: 120663507
-        $/Participant: 106687
+
+    2020
+        Participants: 1,131  Average: $106,687
+        Assets: $120,663,507
         Service Providers:
            - GREENHAVEN ASSOCIATES : CTRL BY DIR & SH OF CO (Investment management | Investment management fees paid directly by plan)
            - BRAVE WARRIOR ADVISORS LLC :  (Investment management | Investment management fees paid directly by plan)
@@ -182,12 +145,10 @@ NY : PURCHASE
            - JPMORGAN CHASE :  (Custodial(securities) | Direct payment from the plan)
            - MOSES & SINGER LLP :  (Legal | Consulting fees)
            - PORTFOLIO EVALUATION :  (Consulting(general) | Direct payment from the plan)
-    2019: CENTRAL NATIONAL GOTTESMAN PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 1134
-        Assets: 113911971
-        $/Participant: 100451
+
+    2019
+        Participants: 1,134  Average: $100,451
+        Assets: $113,911,971
         Service Providers:
            - GREENHAVEN ASSOCIATES : CTRL BY DIR & SH OF CO (Investment management | Investment management fees paid directly by plan)
            - BRAVE WARRIOR ADVISORS LLC :  (Investment management | Investment management fees paid directly by plan)
@@ -198,12 +159,10 @@ NY : PURCHASE
            - SQ ADVISORS :  (Investment management | Investment management fees paid directly by plan)
            - MOSES & SINGER LLP :  (Legal | Consulting fees)
            - PORTFOLIO EVALUATION :  (Consulting(general) | Direct payment from the plan)
-    2018: CENTRAL NATIONAL GOTTESMAN PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 841
-        Assets: 80177762
-        $/Participant: 95336
+
+    2018
+        Participants: 841  Average: $95,336
+        Assets: $80,177,762
         Service Providers:
            - GREENHAVEN ASSOCIATES : CTRL BY DIR & SH OF CO (Investment management | Investment management fees paid directly by plan)
            - BRAVE WARRIOR ADVISORS LLC :  (Investment management | Investment management fees paid directly by plan)
@@ -214,12 +173,10 @@ NY : PURCHASE
            - CROWE LLP :  (Accounting(including auditing) | Direct payment from the plan)
            - MOSES & SINGER LLP :  (Legal | Consulting fees)
            - PORTFOLIO EVALUATION :  (Consulting(general) | Direct payment from the plan)
-    2017: CENTRAL NATIONAL GOTTESMAN PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 847
-        Assets: 105497875
-        $/Participant: 124554
+
+    2017
+        Participants: 847  Average: $124,554
+        Assets: $105,497,875
         Service Providers:
            - GREENHAVEN ASSOCIATES : CTRL BY DIR & SH OF CO (Investment management | Investment management fees paid directly by plan)
            - SEGAL CONSULTING :  (Actuarial | Direct payment from the plan)

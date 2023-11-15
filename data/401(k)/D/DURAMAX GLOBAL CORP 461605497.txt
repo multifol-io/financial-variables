@@ -1,38 +1,25 @@
-OH : HIRAM
-  DURAMAX GLOBAL CORP  461605497
-    2022: DURAMAX GLOBAL CORP EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H 
-        Participants: 102
-        Assets: 70979000
-        $/Participant: 695872
-    2021: DURAMAX GLOBAL CORP EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H 
-        Participants: 93
-        Assets: 50485451
-        $/Participant: 542854
-    2020: DURAMAX GLOBAL CORP EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H 
-        Participants: 96
-        Assets: 36900000
-        $/Participant: 384375
-    2019: DURAMAX GLOBAL CORP EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H 
-        Participants: 106
-        Assets: 27000000
-        $/Participant: 254716
-    2018: DURAMAX GLOBAL CORP EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H 
-        Participants: 105
-        Assets: 22875000
-        $/Participant: 217857
-    2017: DURAMAX GLOBAL CORP EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H 
-        Participants: 97
-        Assets: 14250000
-        $/Participant: 146907
+DURAMAX GLOBAL CORP  461605497 -- OH : HIRAM
+  [Employee Stock Ownership Plan] DURAMAX GLOBAL CORP EMPLOYEE STOCK OWNERSHIP PLAN
+    2022  [codes: 2I2P2Q3H]
+        Participants: 102  Average: $695,872
+        Assets: $70,979,000
+
+    2021
+        Participants: 93  Average: $542,854
+        Assets: $50,485,451
+
+    2020
+        Participants: 96  Average: $384,375
+        Assets: $36,900,000
+
+    2019
+        Participants: 106  Average: $254,716
+        Assets: $27,000,000
+
+    2018
+        Participants: 105  Average: $217,857
+        Assets: $22,875,000
+
+    2017
+        Participants: 97  Average: $146,907
+        Assets: $14,250,000

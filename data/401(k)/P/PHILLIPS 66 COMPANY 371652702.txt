@@ -1,12 +1,8 @@
-TX : HOUSTON
-  PHILLIPS 66 COMPANY  371652702
-   [002]
-    2022: PHILLIPS 66 SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2F2G2I2J2K2O2S2T3F3H 
-        Participants: 15858
-        Assets: 6064382070
-        $/Participant: 382417
+PHILLIPS 66 COMPANY  371652702 -- TX : HOUSTON
+  [401(k), Employee Stock Ownership Plan] PHILLIPS 66 SAVINGS PLAN [002]
+    2022  [codes: 2E2F2G2I2J2K2O2S2T3F3H]
+        Participants: 15,858  Average: $382,417
+        Assets: $6,064,382,070
         RecordKeeper: NORTHERN TRUST COMPANY
         Available Investments:
            - GOLDMAN SACHS TRUST COMPANY
@@ -42,12 +38,10 @@ TX : HOUSTON
                  : VFTC TARGET RETIREMENT 2070 TRST PL
                  : VFTC TARGET RETIREMENT INCO TRST PL
                  : VFTC TOT INTL STOCK MRK INDEX TRUST
-    2021: PHILLIPS 66 SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2F2G2I2J2K2O2S2T3F3H 
-        Participants: 16107
-        Assets: 6366363599
-        $/Participant: 395254
+
+    2021
+        Participants: 16,107  Average: $395,254
+        Assets: $6,366,363,599
         RecordKeeper: NORTHERN TRUST COMPANY
         Available Investments:
            - GOLDMAN SACHS TRUST COMPANY
@@ -81,12 +75,10 @@ TX : HOUSTON
                  : VFTC TARGET RETIREMENT 2060 TRST PL
                  : VFTC TARGET RETIREMENT 2065 TRST PL
                  : VFTC TARGET RETIREMENT INCO TRST PL
-    2020: PHILLIPS 66 SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2F2G2I2J2K2O2S2T3F3H 
-        Participants: 16036
-        Assets: 5818780070
-        $/Participant: 362857
+
+    2020
+        Participants: 16,036  Average: $362,857
+        Assets: $5,818,780,070
         RecordKeeper: NORTHERN TRUST COMPANY
         Available Investments:
            - GOLDMAN SACHS TRUST COMPANY
@@ -120,12 +112,10 @@ TX : HOUSTON
                  : VFTC TARGET RETIREMENT 2060 TRST PL
                  : VFTC TARGET RETIREMENT 2065 TRST PL
                  : VFTC TARGET RETIREMENT INCO TRST PL
-    2019: PHILLIPS 66 SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2F2G2I2J2K2O2S2T3F3H 
-        Participants: 15988
-        Assets: 5881252719
-        $/Participant: 367854
+
+    2019
+        Participants: 15,988  Average: $367,854
+        Assets: $5,881,252,719
         RecordKeeper: STATE STREET BANK AND TRUST COMPANY
         Available Investments:
            - GOLDMAN SACHS TRUST COMPANY
@@ -161,12 +151,10 @@ TX : HOUSTON
                  : VFTC TARGET RETIREMENT 2060 TRST PL
                  : VFTC TARGET RETIREMENT 2065 TRST PL
                  : VFTC TARGET RETIREMENT INCO TRST PL
-    2018: PHILLIPS 66 SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2F2G2I2J2K2O2S2T3F3H 
-        Participants: 15541
-        Assets: 4873374362
-        $/Participant: 313581
+
+    2018
+        Participants: 15,541  Average: $313,581
+        Assets: $4,873,374,362
         RecordKeeper: STATE STREET BANK AND TRUST COMPANY
         Available Investments:
            - GOLDMAN SACHS TRUST COMPANY
@@ -216,12 +204,10 @@ TX : HOUSTON
                  : VFTC TARGET RETIREMENT 2065 TRST PL
                  : VFTC TARGET RETIREMENT INCO TRST I
                  : VFTC TARGET RETIREMENT INCO TRST PL
-    2017: PHILLIPS 66 SAVINGS PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2F2G2I2J2K2O2S2T3F3H 
-        Participants: 15410
-        Assets: 5276119216
-        $/Participant: 342382
+
+    2017
+        Participants: 15,410  Average: $342,382
+        Assets: $5,276,119,216
         RecordKeeper: STATE STREET BANK AND TRUST COMPANY
         Available Investments:
            - GOLDMAN SACHS TRUST COMPANY
@@ -256,10 +242,9 @@ TX : HOUSTON
                  : VFTC TARGET RETIREMENT 2060 TRST I
                  : VFTC TARGET RETIREMENT 2065 TRST I
                  : VFTC TARGET RETIREMENT INCO TRST I
-   [004]
-    2022: DCP SERVICES, LLC 401(K) AND RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2T 
+
+  [401(k)] DCP SERVICES, LLC 401(K) AND RETIREMENT PLAN [004]
+    2022  [codes: 2A2E2F2G2J2K2T]
         Participants: 0
         RecordKeeper: VANGUARD ADVISERS INC.
         Available Investments:
@@ -277,155 +262,129 @@ TX : HOUSTON
                  : VFTC TARGET RET 2065 TR II
                  : VFTC TARGET RET 2070 TR II
                  : VFTC TARGET RET INCOME TR II
-   [501]
-    2022: PHILLIPS 66 MEDICAL AND DENTAL ASSISTANCE PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+  [Healthcare, Dental, Vision] PHILLIPS 66 MEDICAL AND DENTAL ASSISTANCE PLAN [501]
+    2022  [codes: 4A4D4E]
         Participants: 
         Service Providers:
            - BLUE CROSS BLUE SHIELD : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - AETNA : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - CVS PHARMACY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2021: PHILLIPS 66 MEDICAL AND DENTAL ASSISTANCE PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2021
         Participants: 
         Service Providers:
            - BLUE CROSS BLUE SHIELD : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - AETNA : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - CVS PHARMACY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2020: PHILLIPS 66 MEDICAL AND DENTAL ASSISTANCE PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2020
         Participants: 
         Service Providers:
            - BLUE CROSS BLUE SHIELD : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - AETNA : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - CVS PHARMACY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2019: PHILLIPS 66 MEDICAL AND DENTAL ASSISTANCE PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2019
         Participants: 
         Service Providers:
            - BLUE CROSS BLUE SHIELD : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - AETNA : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - CVS PHARMACY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Copying and duplicating)
-    2018: PHILLIPS 66 MEDICAL AND DENTAL ASSISTANCE PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2018
         Participants: 
         Service Providers:
            - BLUE CROSS BLUE SHIELD : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - AETNA : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - CVS PHARMACY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2017: PHILLIPS 66 MEDICAL AND DENTAL ASSISTANCE PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2017
         Participants: 
         Service Providers:
            - AETNA : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - BLUE CROSS BLUE SHIELD : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - METROPOLITAN LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - CVS PHARMACY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-   [504]
-    2022: PHILLIPS 66 FLEXIBLE SPENDING PLAN
-        Benefit Category: Healthcare
-        Codes:  4A4Q
+
+  [Healthcare] PHILLIPS 66 FLEXIBLE SPENDING PLAN [504]
+    2022  [codes: 4A4Q]
         Participants: 
-    2021: PHILLIPS 66 FLEXIBLE SPENDING PLAN
-        Benefit Category: Healthcare
-        Codes:  4A4Q
+
+    2021
         Participants: 
-    2020: PHILLIPS 66 FLEXIBLE SPENDING PLAN
-        Benefit Category: Healthcare
-        Codes:  4A4Q
+
+    2020
         Participants: 
-    2019: PHILLIPS 66 FLEXIBLE SPENDING PLAN
-        Benefit Category: Healthcare
-        Codes:  4A4Q
+
+    2019
         Participants: 
-    2018: PHILLIPS 66 FLEXIBLE SPENDING PLAN
-        Benefit Category: Healthcare
-        Codes:  4A4Q
+
+    2018
         Participants: 
-    2017: PHILLIPS 66 FLEXIBLE SPENDING PLAN
-        Benefit Category: Healthcare
-        Codes:  4A4Q
+
+    2017
         Participants: 
-   [502]
-    2022: PHILLIPS 66 GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+  [Life insurance] PHILLIPS 66 GROUP LIFE INSURANCE PLAN [502]
+    2022  [codes: 4B4Q]
         Participants: 
-    2021: PHILLIPS 66 GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2021
         Participants: 
-    2020: PHILLIPS 66 GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2020
         Participants: 
-    2019: PHILLIPS 66 GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2019
         Participants: 
-    2018: PHILLIPS 66 GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2018
         Participants: 
-    2017: PHILLIPS 66 GROUP LIFE INSURANCE PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2017
         Participants: 
-   [506]
-    2022: PHILLIPS 66 EMPLOYEE ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+  [Other] PHILLIPS 66 EMPLOYEE ASSISTANCE PLAN [506]
+    2022  [codes: 4Q]
         Participants: 
         Service Providers:
            - AETNA BEHAVIORAL HEALTH, LLC : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - HEALTH AND HUMAN RESOURCE CENTER : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2021: PHILLIPS 66 EMPLOYEE ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2021
         Participants: 
         Service Providers:
            - AETNA BEHAVIORAL HEALTH, LLC : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - HEALTH AND HUMAN RESOURCE CENTER : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2020: PHILLIPS 66 EMPLOYEE ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2020
         Participants: 
         Service Providers:
            - AETNA BEHAVIORAL HEALTH, LLC : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - HEALTH AND HUMAN RESOURCE CENTER : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2019: PHILLIPS 66 EMPLOYEE ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2019
         Participants: 
         Service Providers:
            - AETNA BEHAVIORAL HEALTH, LLC : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
            - HEALTH AND HUMAN RESOURCE CENTER : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
-    2018: PHILLIPS 66 EMPLOYEE ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2018
         Participants: 
-    2017: PHILLIPS 66 EMPLOYEE ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2017
         Participants: 
-   [001]
-    2022: PHILLIPS 66 RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1D3F3H 
-        Participants: 14307
-        Assets: 2125259993
-        $/Participant: 148546
+
+  [Pension] PHILLIPS 66 RETIREMENT PLAN [001]
+    2022  [codes: 1A1C1D3F3H]
+        Participants: 14,307  Average: $148,546
+        Assets: $2,125,259,993
         Service Providers:
            - JPMORGAN CHASE BANK, NATIONAL ASSOC : INVESTMENT MANAGER (Investment management | Trustee(discretionary) | Investment advisory(plan) | Direct payment from the plan | Investment management fees paid directly by plan | 'Soft dollars' commissions)
            - BLACKROCK INSTITUTIONAL TRUST COMPA : INVESTMENT MANAGER (Trustee(bank, trust company, or similar) | Trustee(discretionary) | Investment management | Direct payment from the plan | Investment management fees paid directly by plan | Other fees)
@@ -464,12 +423,10 @@ TX : HOUSTON
            - THE GOLDMAN SACHS TRUST COMPANY, N.A.
                  : EMERGING MARKETS EQUITY
                  : INTERNATIONAL EQUITY INSIGHTS
-    2021: PHILLIPS 66 RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1D3F3H 
-        Participants: 14615
-        Assets: 2637478340
-        $/Participant: 180463
+
+    2021
+        Participants: 14,615  Average: $180,463
+        Assets: $2,637,478,340
         Service Providers:
            - JPMORGAN CHASE BANK, NATIONAL ASSOC : INVESTMENT MANAGER (Investment management | Trustee(discretionary) | Investment advisory(plan) | Direct payment from the plan | Investment management fees paid directly by plan | 'Soft dollars' commissions)
            - LAZARD ASSET MANAGEMENT LLC : INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan | 'Soft dollars' commissions | Other fees)
@@ -508,12 +465,10 @@ TX : HOUSTON
            - THE GOLDMAN SACHS TRUST COMPANY, N.A.
                  : EMERGING MARKETS EQUITY
                  : INTERNATIONAL EQUITY INSIGHTS
-    2020: PHILLIPS 66 RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1D3F3H 
-        Participants: 14760
-        Assets: 2745611132
-        $/Participant: 186017
+
+    2020
+        Participants: 14,760  Average: $186,017
+        Assets: $2,745,611,132
         Service Providers:
            - JPMORGAN CHASE BANK, NATIONAL ASSOC : INVESTMENT MANAGER (Investment management | Trustee(discretionary) | Investment advisory(plan) | Direct payment from the plan | Investment management fees paid directly by plan | 'Soft dollars' commissions)
            - GOLDMAN SACHS ASSET MANAGEMENT, LP : INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan | Non - monetary compensation | Other fees)
@@ -553,12 +508,10 @@ TX : HOUSTON
            - THE GOLDMAN SACHS TRUST COMPANY, N.A.
                  : EMERGING MARKETS EQUITY
                  : INTERNATIONAL EQUITY INSIGHTS
-    2019: PHILLIPS 66 RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1D3F3H 
-        Participants: 14316
-        Assets: 2707955979
-        $/Participant: 189155
+
+    2019
+        Participants: 14,316  Average: $189,155
+        Assets: $2,707,955,979
         Service Providers:
            - JPMORGAN CHASE BANK, NATIONAL ASSOC : INVESTMENT MANAGER (Investment management | Trustee(discretionary) | Investment advisory(plan) | Direct payment from the plan | Investment management fees paid directly by plan | 'Soft dollars' commissions)
            - LAZARD ASSET MANAGEMENT LLC : INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan | 'Soft dollars' commissions | Other fees)
@@ -601,12 +554,10 @@ TX : HOUSTON
            - THE GOLDMAN SACHS TRUST COMPANY, N.A.
                  : EMERGING MARKETS EQUITY
                  : INTERNATIONAL EQUITY INSIGHTS
-    2018: PHILLIPS 66 RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1D3F3H 
-        Participants: 14024
-        Assets: 2413017301
-        $/Participant: 172063
+
+    2018
+        Participants: 14,024  Average: $172,063
+        Assets: $2,413,017,301
         Service Providers:
            - JPMORGAN CHASE BANK, NATIONAL ASSOC : INVESTMENT MANAGER (Trustee(discretionary) | Investment advisory(plan) | Investment management)
            - PRUDENTIAL TRUST CO. : INVESTMENT MANAGER (Investment management fees paid directly by plan | Investment advisory(plan) | Investment management | Other fees)
@@ -642,12 +593,10 @@ TX : HOUSTON
                  : EMERGING MARKETS DEBT FUND
            - STATE STREET GLOBAL ADVISORS
                  : MSCI EMERGING MARKETS INDEX
-    2017: PHILLIPS 66 RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1D3F3H 
-        Participants: 13988
-        Assets: 2858970675
-        $/Participant: 204387
+
+    2017
+        Participants: 13,988  Average: $204,387
+        Assets: $2,858,970,675
         Service Providers:
            - LAZARD ASSET MANAGEMENT LLC : INVESTMENT MANAGER (Investment management fees paid directly by plan | 'Soft dollars' commissions | Investment advisory(plan) | Investment management)
            - NEWSOUTH CAPITAL MANAGEMENT, INC. : INVESTMENT MANAGER (Investment management fees paid directly by plan | 'Soft dollars' commissions | Securities brokerage commissions and fees | Investment management)
@@ -674,53 +623,41 @@ TX : HOUSTON
                  : EMERGING MARKETS DEBT FUND
            - STATE STREET GLOBAL ADVISORS
                  : MSCI EMERGING MARKETS INDEX
-   [507]
-    2022: PHILLIPS 66 SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] PHILLIPS 66 SEVERANCE PAY PLAN [507]
+    2022  [codes: 4I]
         Participants: 
-    2021: PHILLIPS 66 SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2021
         Participants: 
-    2020: PHILLIPS 66 SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2020
         Participants: 
-    2019: PHILLIPS 66 SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2019
         Participants: 
-    2018: PHILLIPS 66 SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2018
         Participants: 
-    2017: PHILLIPS 66 SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2017
         Participants: 
-   [503]
-    2022: PHILLIPS 66 DISABILITY PLAN
-        Benefit Category: Short-term disability, Long-term disability
-        Codes:  4F4H
+
+  [Short-term disability, Long-term disability] PHILLIPS 66 DISABILITY PLAN [503]
+    2022  [codes: 4F4H]
         Participants: 
-    2021: PHILLIPS 66 DISABILITY PLAN
-        Benefit Category: Short-term disability, Long-term disability
-        Codes:  4F4H
+
+    2021
         Participants: 
-    2020: PHILLIPS 66 DISABILITY PLAN
-        Benefit Category: Short-term disability, Long-term disability
-        Codes:  4F4H
+
+    2020
         Participants: 
-    2019: PHILLIPS 66 DISABILITY PLAN
-        Benefit Category: Short-term disability, Long-term disability
-        Codes:  4F4H
+
+    2019
         Participants: 
-    2018: PHILLIPS 66 DISABILITY PLAN
-        Benefit Category: Short-term disability, Long-term disability
-        Codes:  4H4F
+
+    2018  [codes: 4H4F]
         Participants: 
-    2017: PHILLIPS 66 DISABILITY PLAN
-        Benefit Category: Short-term disability, Long-term disability
-        Codes:  4H4F
+
+    2017
         Participants: 

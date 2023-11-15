@@ -1,11 +1,8 @@
-UT : CEDAR CITY
-  AMERICAN PACIFIC CORPORATION  596490478
-    2021: AMERICAN PACIFIC CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 175
-        Assets: 22084003
-        $/Participant: 126194
+AMERICAN PACIFIC CORPORATION  596490478 -- UT : CEDAR CITY
+  [401(k)] AMERICAN PACIFIC CORPORATION 401(K) PLAN
+    2021  [codes: 2E2F2G2J2K2S2T3D]
+        Participants: 175  Average: $126,194
+        Assets: $22,084,003
         RecordKeeper: ADP BROKER-DEALER
         Available Investments:
            - ALTA TRUST COMPANY
@@ -21,12 +18,10 @@ UT : CEDAR CITY
                  : SIA TD 2060 1
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE 25
-    2020: AMERICAN PACIFIC CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 183
-        Assets: 26072505
-        $/Participant: 142472
+
+    2020  [codes: 2E2F2G2J2K2T3D]
+        Participants: 183  Average: $142,472
+        Assets: $26,072,505
         RecordKeeper: ADP BROKER-DEALER
         Available Investments:
            - ALTA TRUST COMPANY
@@ -42,12 +37,10 @@ UT : CEDAR CITY
                  : SIA TD 2060 1
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE 25
-    2019: AMERICAN PACIFIC CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 179
-        Assets: 21342024
-        $/Participant: 119229
+
+    2019
+        Participants: 179  Average: $119,229
+        Assets: $21,342,024
         RecordKeeper: ADP BROKER-DEALER
         Available Investments:
            - ALTA TRUST COMPANY
@@ -63,36 +56,30 @@ UT : CEDAR CITY
                  : SIA TD 2060 1
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE 25
-    2018: AMERICAN PACIFIC CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 175
-        Assets: 19381492
-        $/Participant: 110751
+
+    2018
+        Participants: 175  Average: $110,751
+        Assets: $19,381,492
         RecordKeeper: ADP BROKER-DEALER
         Available Investments:
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE 25
-    2017: AMERICAN PACIFIC CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 181
-        Assets: 19275136
-        $/Participant: 106492
+
+    2017
+        Participants: 181  Average: $106,492
+        Assets: $19,275,136
         RecordKeeper: ADP BROKER-DEALER
         Available Investments:
            - PUTNAM FIDUCIARY TRUST COMPANY
                  : PUTNAM STABLE VALUE 25
-   [501]
-    2021: AMERICAN PACIFIC CORPORATION EMPLOYEE HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability] AMERICAN PACIFIC CORPORATION EMPLOYEE HEALTH PLAN [501]
+    2021  [codes: 4A4B4D4E4F4H4Q]
         Participants: 127
         Service Providers:
            - UMR, INC : CLAIMS PROCESSING (Claims processing)
-    2020: AMERICAN PACIFIC CORPORATION EMPLOYEE HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2020
         Participants: 126
         Service Providers:
            - EMPLOYEE BENEFIT MGMT SERVICES LLC : TPA (Contract Administrator)
@@ -100,9 +87,8 @@ UT : CEDAR CITY
            - LOCKTON COMPANIES LLC : BROKER (Insurance agents and brokers)
            - AETNA SIGNATURE ADMINISTRATORS : PPO (Other services)
            - EMPLOYEE BENEFIT MGMT SERVICES LLC : POST-SVC NEGOTIATION (Other fees)
-    2019: AMERICAN PACIFIC CORPORATION EMPLOYEE HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2019
         Participants: 131
         Service Providers:
            - LP INSURANCE SERVICES LLC : BROKER (Insurance agents and brokers)
@@ -111,59 +97,47 @@ UT : CEDAR CITY
            - LOCKTON COMPANIES LLC : BROKER (Insurance agents and brokers)
            - AETNA SIGNATURE ADMINISTRATORS : PPO (Other services)
            - EMPLOYEE BENEFIT MGMT SERVICES LLC : POST-SVC NEGOTIATION (Other fees)
-    2018: AMERICAN PACIFIC CORPORATION EMPLOYEE HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2018
         Participants: 128
         Service Providers:
            - EMPLOYEE BENEFIT MGMT SERVICES LLC : TPA (Contract Administrator)
            - NAVITUS HEALTH SOLUTIONS : RX ADMIN (Claims processing)
            - LP INSURANCE SERVICES LLC : BROKER (Insurance agents and brokers)
            - AETNA SIGNATURE ADMINISTRATORS : PPO (Other services)
-    2017: AMERICAN PACIFIC CORPORATION EMPLOYEE HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2017
         Participants: 128
         Service Providers:
            - NAVITUS HEALTH SOLUTIONS : RX ADMIN (Claims processing)
            - L/P INSURANCE SERVICES, INC. : BROKER (Insurance agents and brokers)
            - BARRETT INSURANCE SERVICES : BROKER (Insurance agents and brokers)
            - EMPLOYEE BENEFIT MGMT SERVICES LLC : ADMIN FEES (Contract Administrator)
-   [002]
-    2021: AMERICAN PACIFIC CORPORATION DEFINED BENEFIT PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 299
-        Assets: 68055765
-        $/Participant: 227611
+
+  [Pension] AMERICAN PACIFIC CORPORATION DEFINED BENEFIT PENSION PLAN [002]
+    2021  [codes: 1A3H]
+        Participants: 299  Average: $227,611
+        Assets: $68,055,765
         RecordKeeper: PRICEWATERHOUSECOOPERS, LLP
-    2020: AMERICAN PACIFIC CORPORATION DEFINED BENEFIT PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 300
-        Assets: 85968130
-        $/Participant: 286560
+
+    2020
+        Participants: 300  Average: $286,560
+        Assets: $85,968,130
         RecordKeeper: PRICEWATERHOUSECOOPERS, LLP
-    2019: AMERICAN PACIFIC CORPORATION DEFINED BENEFIT PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 302
-        Assets: 70703371
-        $/Participant: 234117
+
+    2019
+        Participants: 302  Average: $234,117
+        Assets: $70,703,371
         RecordKeeper: BDO USA, LLP
-    2018: AMERICAN PACIFIC CORPORATION DEFINED BENEFIT PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 308
-        Assets: 67292630
-        $/Participant: 218482
+
+    2018  [codes: 1A]
+        Participants: 308  Average: $218,482
+        Assets: $67,292,630
         RecordKeeper: BDO USA, LLP
-    2017: AMERICAN PACIFIC CORPORATION DEFINED BENEFIT PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 309
-        Assets: 66248637
-        $/Participant: 214396
+
+    2017
+        Participants: 309  Average: $214,396
+        Assets: $66,248,637
         Service Providers:
            - WELLS FARGO ADVISORS LLC : ASSET  CUSTODIAN (Consulting(pension) | Custodial(securities) | Investment advisory(plan) | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Securities brokerage commissions and fees)
            - BUCK : ACTUARY (Actuarial | Consulting(pension) | Direct payment from the plan)

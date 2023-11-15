@@ -1,111 +1,92 @@
-WI : GERMANTOWN
-  WAGO CORPORATION  391329208
-    2022: WAGO CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3D 
-        Participants: 253
-        Assets: 50236056
-        $/Participant: 198561
+WAGO CORPORATION  391329208 -- WI : GERMANTOWN
+  [401(k)] WAGO CORPORATION 401(K) PLAN
+    2022  [codes: 2A2E2F2G2J2K2S2T3D]
+        Participants: 253  Average: $198,561
+        Assets: $50,236,056
         RecordKeeper: MATRIX TRUST COMPANY
         Available Investments:
            - BMO HARRIS BANK, NA
                  : ONEAMERICA VALUE FUND CLASS Z
-    2021: WAGO CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3D 
-        Participants: 245
-        Assets: 61877795
-        $/Participant: 252562
+
+    2021
+        Participants: 245  Average: $252,562
+        Assets: $61,877,795
         RecordKeeper: MATRIX TRUST COMPANY
         Available Investments:
            - BMO HARRIS BANK, NA
                  : ONEAMERICA VALUE FUND CLASS Z
-    2020: WAGO CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3D 
-        Participants: 247
-        Assets: 53229157
-        $/Participant: 215502
+
+    2020
+        Participants: 247  Average: $215,502
+        Assets: $53,229,157
         RecordKeeper: BMO HARRIS BANK, NA
         Available Investments:
            - BMO HARRIS BANK, NA
                  : BMO STABLE VALUE FUND CLASS Z
-    2019: WAGO CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3D 
-        Participants: 247
-        Assets: 47219055
-        $/Participant: 191170
+
+    2019
+        Participants: 247  Average: $191,170
+        Assets: $47,219,055
         RecordKeeper: BMO HARRIS BANK, NA
         Available Investments:
            - BMO HARRIS BANK, NA
                  : BMO STABLE VALUE FUND CLASS Z
-    2018: WAGO CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3D 
-        Participants: 248
-        Assets: 38166426
-        $/Participant: 153896
+
+    2018
+        Participants: 248  Average: $153,896
+        Assets: $38,166,426
         RecordKeeper: BMO HARRIS BANK, NA
         Available Investments:
            - BMO HARRIS BANK, NA
                  : BMO STABLE VALUE FUND CLASS Z
-    2017: WAGO CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3D 
-        Participants: 221
-        Assets: 38367593
-        $/Participant: 173609
+
+    2017
+        Participants: 221  Average: $173,609
+        Assets: $38,367,593
         RecordKeeper: BMO HARRIS BANK, NA
         Available Investments:
            - BMO HARRIS BANK, NA
                  : BMO STABLE VALUE FUND CLASS I
-   [506]
-    2022: WAGO CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
-        Codes:  4A4B4D4F4H4Q
+
+  [Healthcare, Life insurance, Dental, Short-term disability, Long-term disability] WAGO CORPORATION HEALTH AND WELFARE BENEFIT PLAN [506]
+    2022  [codes: 4A4B4D4F4H4Q]
         Participants: 
         Service Providers:
            - OPTUM RX : PHARMACY BENEFIT MGMT (Claims processing | Direct payment from the plan | Float revenue | Other fees)
            - UMR INC : CLAIMS PROCESSING (Claims processing)
            - DELTA DENTAL OF WISCONSIN : TPA-DENTAL (Contract Administrator)
-    2021: WAGO CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
-        Codes:  4A4B4D4F4H4Q
+
+    2021
         Participants: 
         Service Providers:
            - OPTUM RX : PHARMACY BENEFIT MGMT (Claims processing | Direct payment from the plan | Float revenue | Other fees)
            - UMR INC : CLAIMS PROCESSING (Claims processing)
            - DELTA DENTAL OF WISCONSIN : TPA-DENTAL (Contract Administrator)
-    2020: WAGO CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
-        Codes:  4A4B4D4F4H4Q
+
+    2020
         Participants: 
         Service Providers:
            - OPTUM RX : PHARMACY BENEFIT MGMT (Claims processing | Direct payment from the plan | Float revenue | Other fees)
            - UMR INC : CLAIMS PROCESSING (Claims processing)
            - DELTA DENTAL OF WISCONSIN : TPA-DENTAL (Contract Administrator)
-    2019: WAGO CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
-        Codes:  4A4B4D4F4H4Q
-        Participants: 
-        Service Providers:
-           - OPTUM RX : PHARMACY BENEFIT MGMT (Claims processing | Direct payment from the plan | Float revenue | Other fees)
-           - UMR INC : CLAIMS PROCESSING (Claims processing)
-           - DELTA DENTAL OF WISCONSIN : TPA-DENTAL (Contract Administrator)
-           - TASC : ADMINSTRATOR (Claims processing)
-    2018: WAGO CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
-        Codes:  4A4B4D4F4H4Q
+
+    2019
         Participants: 
         Service Providers:
            - OPTUM RX : PHARMACY BENEFIT MGMT (Claims processing | Direct payment from the plan | Float revenue | Other fees)
            - UMR INC : CLAIMS PROCESSING (Claims processing)
            - DELTA DENTAL OF WISCONSIN : TPA-DENTAL (Contract Administrator)
            - TASC : ADMINSTRATOR (Claims processing)
-    2017: WAGO CORPORATION HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
-        Codes:  4A4B4D4F4H4Q
+
+    2018
+        Participants: 
+        Service Providers:
+           - OPTUM RX : PHARMACY BENEFIT MGMT (Claims processing | Direct payment from the plan | Float revenue | Other fees)
+           - UMR INC : CLAIMS PROCESSING (Claims processing)
+           - DELTA DENTAL OF WISCONSIN : TPA-DENTAL (Contract Administrator)
+           - TASC : ADMINSTRATOR (Claims processing)
+
+    2017
         Participants: 
         Service Providers:
            - OPTUM RX : PHARMACY BENEFIT MGMT (Claims processing | Direct payment from the plan | Float revenue | Other fees)

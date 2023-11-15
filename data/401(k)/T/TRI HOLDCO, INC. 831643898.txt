@@ -1,21 +1,16 @@
-CA : FOLSOM
-  TRI HOLDCO, INC.  831643898
-    2022: TRI HOLDCO., INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2T3D 
-        Participants: 382
-        Assets: 20153445
-        $/Participant: 52757
+TRI HOLDCO, INC.  831643898 -- CA : FOLSOM
+  [401(k)] TRI HOLDCO., INC. 401(K) PLAN
+    2022  [codes: 2A2E2F2G2J2K2T3D]
+        Participants: 382  Average: $52,757
+        Assets: $20,153,445
         RecordKeeper: JOHN HANCOCK USA
         Available Investments:
            - NEW YORK LIFE INSURANCE COMPANY
                  : NEW YORK LIFE SV ANCHOR ACCT
-    2021: TRI HOLDCO., INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2T3D 
-        Participants: 346
-        Assets: 23084834
-        $/Participant: 66719
+
+    2021
+        Participants: 346  Average: $66,719
+        Assets: $23,084,834
         RecordKeeper: JOHN HANCOCK USA
         Available Investments:
            - JOHN HANCOCK LIFE INS. CO. USA
@@ -79,12 +74,11 @@ CA : FOLSOM
                  : VANGUARD SMALL CAP VALUE INDEX
                  : VANGUARD VALUE INDEX FUND
                  : WASHINGTON MUTUAL INVESTORS
-    2020: TAXRESOURCES, INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2T3D 
-        Participants: 313
-        Assets: 19080860
-        $/Participant: 60961
+
+  [401(k)] TAXRESOURCES, INC. 401(K) PLAN
+    2020
+        Participants: 313  Average: $60,961
+        Assets: $19,080,860
         RecordKeeper: JOHN HANCOCK USA
         Available Investments:
            - JOHN HANCOCK LIFE INS. CO. USA
@@ -148,12 +142,10 @@ CA : FOLSOM
                  : VANGUARD SMALL CAP VALUE INDEX
                  : VANGUARD VALUE INDEX FUND
                  : WASHINGTON MUTUAL INVESTORS
-    2019: TAXRESOURCES, INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2T3D 
-        Participants: 251
-        Assets: 8335150
-        $/Participant: 33207
+
+    2019
+        Participants: 251  Average: $33,207
+        Assets: $8,335,150
         RecordKeeper: JOHN HANCOCK USA
         Available Investments:
            - JOHN HANCOCK LIFE INS. CO. USA
@@ -218,12 +210,10 @@ CA : FOLSOM
                  : VANGUARD SMALL CAP VALUE INDEX
                  : VANGUARD VALUE INDEX FUND
                  : WASHINGTON MUTUAL INVESTORS
-    2018: TAXRESOURCES, INC. 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2T3D 
-        Participants: 251
-        Assets: 5742465
-        $/Participant: 22878
+
+    2018
+        Participants: 251  Average: $22,878
+        Assets: $5,742,465
         RecordKeeper: JOHN HANCOCK USA
         Available Investments:
            - JOHN HANCOCK LIFE INS. CO. USA
@@ -294,87 +284,69 @@ CA : FOLSOM
                  : VANGUARD SMALL CAP VALUE INDEX
                  : VANGUARD VALUE INDEX FUND
                  : WASHINGTON MUTUAL INVESTORS
-   [509]
-    2018: TRI HOLDCO, INC. DENTAL
-        Benefit Category: Dental
-        Codes:  4D
+
+  [Dental] TRI HOLDCO, INC. DENTAL [509]
+    2018  [codes: 4D]
         Participants: 
-    2017: TRI HOLDCO, INC. DENTAL
-        Benefit Category: Dental
-        Codes:  4D
+
+    2017
         Participants: 
-   [002]
-    2022: TRI HOLDCO, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3H3I 
-        Participants: 327
-        Assets: 92677660
-        $/Participant: 283417
+
+  [Employee Stock Ownership Plan] TRI HOLDCO, INC. EMPLOYEE STOCK OWNERSHIP PLAN [002]
+    2022  [codes: 2I2P2Q3H3I]
+        Participants: 327  Average: $283,417
+        Assets: $92,677,660
         Service Providers:
            - JP MORGAN SECURITIES : INVESTMENT MANAGEMENT (Investment management | Securities brokerage commissions and fees)
-   [501]
-    2018: TAXRESOURCES, INC. TERM LIFE, ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Benefit Category: Healthcare, Life insurance, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4F4H4L
+
+  [Healthcare, Life insurance, Short-term disability, Long-term disability, Travel accident] TAXRESOURCES, INC. TERM LIFE, ACCIDENTAL DEATH & DISMEMBERMENT PLAN [501]
+    2018  [codes: 4A4B4F4H4L]
         Participants: 
-   [504]
-    2017: TAXRESOURCES, INC. CANCER INSURANCE PLAN
-        Benefit Category: Healthcare, Short-term disability
-        Codes:  4A4F4R
+
+  [Healthcare, Short-term disability] TAXRESOURCES, INC. CANCER INSURANCE PLAN [504]
+    2017  [codes: 4A4F4R]
         Participants: 
-   [508]
-    2018: TRI HOLDCO, INC. MEDICAL
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] TRI HOLDCO, INC. MEDICAL [508]
+    2018  [codes: 4A]
         Participants: 
-    2017: TRI HOLDCO, INC. MEDICAL
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2017
         Participants: 
-   [510]
-    2021: TRI HOLDCO, INC.
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] TRI HOLDCO, INC. [510]
+    2021  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
-    2020: TRI HOLDCO, INC.
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2020  [codes: 4A4B4D4E4F4H4L]
         Participants: 
-    2019: TRI HOLDCO, INC.
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2019
         Participants: 
-   [501]
-    2017: TAXRESOURCES, INC. TERM LIFE, ACCIDENTAL DEATH & DISMEMBERMENT PLAN
-        Benefit Category: Life insurance, Short-term disability, Travel accident
-        Codes:  4B4L4F
+
+  [Life insurance, Short-term disability, Travel accident] TAXRESOURCES, INC. TERM LIFE, ACCIDENTAL DEATH & DISMEMBERMENT PLAN [501]
+    2017  [codes: 4B4L4F]
         Participants: 
-   [502]
-    2017: TAXRESOURCES, INC. LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H4R
+
+  [Long-term disability] TAXRESOURCES, INC. LONG TERM DISABILITY PLAN [502]
+    2017  [codes: 4H4R]
         Participants: 
-   [505]
-    2017: TAXRESOURCES, INC. ACCIDENT INSURANCE PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F4R
+
+  [Short-term disability] TAXRESOURCES, INC. ACCIDENT INSURANCE PLAN [505]
+    2017  [codes: 4F4R]
         Participants: 
-   [506]
-    2017: TAXRESOURCES, INC. CRITICAL ILLNESS INSURANCE PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F4Q4R
+
+  [Short-term disability] TAXRESOURCES, INC. CRITICAL ILLNESS INSURANCE PLAN [506]
+    2017  [codes: 4F4Q4R]
         Participants: 
-   [507]
-    2017: TAXRESOURCES, INC. SHORT THERM DISABILITY INSURANCE PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F4R
+
+  [Short-term disability] TAXRESOURCES, INC. SHORT THERM DISABILITY INSURANCE PLAN [507]
+    2017  [codes: 4F4R]
         Participants: 
-   [503]
-    2018: TAXRESOURCES, INC. VISION PLAN
-        Benefit Category: Vision
-        Codes:  4E
+
+  [Vision] TAXRESOURCES, INC. VISION PLAN [503]
+    2018  [codes: 4E]
         Participants: 
-    2017: TAXRESOURCES, INC. VISION PLAN
-        Benefit Category: Vision
-        Codes:  4E
+
+    2017
         Participants: 

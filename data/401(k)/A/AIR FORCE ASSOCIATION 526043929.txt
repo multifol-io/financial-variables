@@ -1,16 +1,12 @@
-VA : ARLINGTON
-  AIR FORCE ASSOCIATION  526043929
-    2021: AIR FORCE ASSOCIATION 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
+AIR FORCE ASSOCIATION  526043929 -- VA : ARLINGTON
+  [401(k)] AIR FORCE ASSOCIATION 401(K) PLAN
+    2021  [codes: 2E2F2G2J2K2S2T3D]
         Participants: 109
-   [001]
-    2022: AIR FORCE ASSOCIATION RETIREMENT INCOME PLAN
-        Benefit Category: Pension
-        Codes: 1A1I3D 
-        Participants: 136
-        Assets: 21346627
-        $/Participant: 156960
+
+  [Pension] AIR FORCE ASSOCIATION RETIREMENT INCOME PLAN [001]
+    2022  [codes: 1A1I3D]
+        Participants: 136  Average: $156,960
+        Assets: $21,346,627
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -21,12 +17,10 @@ VA : ARLINGTON
                  : PRIN REAL ESTATE SECS SA-R6
                  : PRIN SMALLCAP GROWTH I SA-R6
                  : PRIN SMALLCAP VALUE II SA-R6
-    2019: AIR FORCE ASSOCIATION RETIREMENT INCOME PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 78
-        Assets: 25366954
-        $/Participant: 325217
+
+    2019  [codes: 1A1I]
+        Participants: 78  Average: $325,217
+        Assets: $25,366,954
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -37,12 +31,10 @@ VA : ARLINGTON
                  : PRIN REAL ESTATE SECS SA-R6
                  : PRIN SMALLCAP GROWTH I SA-R6
                  : PRIN SMALLCAP VALUE II SA-R6
-    2018: AIR FORCE ASSOCIATION RETIREMENT INCOME PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 100
-        Assets: 24730033
-        $/Participant: 247300
+
+    2018
+        Participants: 100  Average: $247,300
+        Assets: $24,730,033
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -53,12 +45,10 @@ VA : ARLINGTON
                  : PRIN REAL ESTATE SECS SA-R6
                  : PRIN SMALLCAP GROWTH I SA-R6
                  : PRIN SMALLCAP VALUE II SA-R6
-    2017: AIR FORCE ASSOCIATION RETIREMENT INCOME PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 174
-        Assets: 25232211
-        $/Participant: 145012
+
+    2017
+        Participants: 174  Average: $145,012
+        Assets: $25,232,211
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY

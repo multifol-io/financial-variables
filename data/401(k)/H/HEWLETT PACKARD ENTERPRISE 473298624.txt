@@ -1,11 +1,8 @@
-TX : SPRING
-  HEWLETT PACKARD ENTERPRISE  473298624
-    2022: HEWLETT PACKARD ENTERPRISE 401(K)PLAN
-        Benefit Category: 401(k)
-        Codes: 3H2F2G2I2J2K2R2S2T 
-        Participants: 30974
-        Assets: 7432589617
-        $/Participant: 239962
+HEWLETT PACKARD ENTERPRISE  473298624 -- TX : SPRING
+  [401(k)] HEWLETT PACKARD ENTERPRISE 401(K)PLAN
+    2022  [codes: 3H2F2G2I2J2K2R2S2T]
+        Participants: 30,974  Average: $239,962
+        Assets: $7,432,589,617
         RecordKeeper: HEWLETT PACKARD ENTERPRISE
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY N.A
@@ -39,12 +36,10 @@ TX : SPRING
                  : NON-US EQUITY FUND
                  : US ALL CAP EQUITY FUND
                  : US CORE PLUS FIXED INCOME FUND
-    2021: HEWLETT PACKARD ENTERPRISE 401(K)PLAN
-        Benefit Category: 401(k)
-        Codes: 3H2F2G2I2J2K2R2S2T 
-        Participants: 31912
-        Assets: 9201380013
-        $/Participant: 288336
+
+    2021
+        Participants: 31,912  Average: $288,336
+        Assets: $9,201,380,013
         RecordKeeper: HEWLETT PACKARD ENTERPRISE
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY N.A
@@ -78,13 +73,10 @@ TX : SPRING
                  : NON-US EQUITY FUND
                  : US ALL CAP EQUITY FUND
                  : US CORE PLUS FIXED INCOME FUND
-TX : HOUSTON
-    2020: HEWLETT PACKARD ENTERPRISE 401(K)PLAN
-        Benefit Category: 401(k)
-        Codes: 3H2F2G2I2J2K2R2S2T 
-        Participants: 32880
-        Assets: 8601764837
-        $/Participant: 261610
+ -- TX : HOUSTON
+    2020
+        Participants: 32,880  Average: $261,610
+        Assets: $8,601,764,837
         RecordKeeper: HEWLETT PACKARD ENTERPRISE
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY N.A
@@ -110,13 +102,10 @@ TX : HOUSTON
                  : NON-US EQUITY FUND
                  : US ALL CAP EQUITY FUND
                  : US CORE PLUS FIXED INCOME FUND
-CA : SAN JOSE
-    2019: HEWLETT PACKARD ENTERPRISE 401(K)PLAN
-        Benefit Category: 401(k)
-        Codes: 3H2F2G2I2J2K2R2S2T 
-        Participants: 35207
-        Assets: 8467311048
-        $/Participant: 240500
+ -- CA : SAN JOSE
+    2019
+        Participants: 35,207  Average: $240,500
+        Assets: $8,467,311,048
         RecordKeeper: ERNST & YOUNG
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY N.A
@@ -140,12 +129,10 @@ CA : SAN JOSE
                  : NON-US EQUITY FUND
                  : US ALL CAP EQUITY FUND
                  : US CORE PLUS FIXED INCOME FUND
-    2018: HEWLETT PACKARD ENTERPRISE 401(K)PLAN
-        Benefit Category: 401(k)
-        Codes: 3H2F2G2I2J2K2R2S2T 
-        Participants: 37419
-        Assets: 7515948935
-        $/Participant: 200859
+
+    2018
+        Participants: 37,419  Average: $200,859
+        Assets: $7,515,948,935
         RecordKeeper: ERNST & YOUNG
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -194,13 +181,10 @@ CA : SAN JOSE
                  : SHORT TERM BOND FUND
                  : US LARGE CAP EQUITY FUND
                  : US SMALL-MID CAP EQUITY FUND
-CA : PALO ALTO
-    2017: HEWLETT PACKARD ENTERPRISE 401(K)PLAN
-        Benefit Category: 401(k)
-        Codes: 3H2F2G2I2J2K2R 
-        Participants: 41791
-        Assets: 8929496798
-        $/Participant: 213670
+ -- CA : PALO ALTO
+    2017  [codes: 3H2F2G2I2J2K2R]
+        Participants: 41,791  Average: $213,670
+        Assets: $8,929,496,798
         RecordKeeper: FIDELITY MANAGEMENT TRUST CO
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -233,219 +217,147 @@ CA : PALO ALTO
                  : SHORT TERM BOND FUND
                  : US LARGE CAP EQUITY FUND
                  : US SMALL-MID CAP EQUITY FUND
-TX : SPRING
-   [501]
-    2022: HEWLETT PACKARD ENTERPRISE CAFETERIA PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+ -- TX : SPRING
+  [Healthcare, Dental, Vision] HEWLETT PACKARD ENTERPRISE CAFETERIA PLAN [501]
+    2022  [codes: 4A4D4E]
         Participants: 
-    2021: HEWLETT PACKARD ENTERPRISE CAFETERIA PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2021
         Participants: 
-TX : HOUSTON
-    2020: HEWLETT PACKARD ENTERPRISE CAFETERIA PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+ -- TX : HOUSTON
+    2020
         Participants: 
-CA : SAN JOSE
-    2019: HEWLETT PACKARD ENTERPRISE CAFETERIA PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+ -- CA : SAN JOSE
+    2019
         Participants: 
-    2018: HEWLETT PACKARD ENTERPRISE CAFETERIA PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2018
         Participants: 
-CA : PALO ALTO
-    2017: HEWLETT PACKARD ENTERPRISE CAFETERIA PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+ -- CA : PALO ALTO
+    2017
         Participants: 
-TX : SPRING
-   [502]
-    2022: HEWLETT PACKARD ENTERPRISE COMPREHENSIVE WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4G4H4Q
+ -- TX : SPRING
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability] HEWLETT PACKARD ENTERPRISE COMPREHENSIVE WELFARE BENEFITS PLAN [502]
+    2022  [codes: 4A4B4D4E4G4H4Q]
         Participants: 
-    2021: HEWLETT PACKARD ENTERPRISE COMPREHENSIVE WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4G4H4Q
+
+    2021
         Participants: 
-TX : HOUSTON
-    2020: HEWLETT PACKARD ENTERPRISE COMPREHENSIVE WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4G4H4Q
+ -- TX : HOUSTON
+    2020
         Participants: 
-CA : SAN JOSE
-    2019: HEWLETT PACKARD ENTERPRISE COMPREHENSIVE WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4G4H4Q
+ -- CA : SAN JOSE
+    2019
         Participants: 
-    2018: HEWLETT PACKARD ENTERPRISE COMPREHENSIVE WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4G4H4Q
+
+    2018
         Participants: 
-CA : PALO ALTO
-    2017: HEWLETT PACKARD ENTERPRISE COMPREHENSIVE WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4G4H4Q
+ -- CA : PALO ALTO
+    2017
         Participants: 
-TX : SPRING
-   [503]
-    2022: HEWLETT PACKARD ENTERPRISE INTERNATIONAL HEALTH PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D4Q
+ -- TX : SPRING
+  [Healthcare, Dental] HEWLETT PACKARD ENTERPRISE INTERNATIONAL HEALTH PLAN [503]
+    2022  [codes: 4A4D4Q]
         Participants: 
-    2021: HEWLETT PACKARD ENTERPRISE INTERNATIONAL HEALTH PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D4Q
+
+    2021
         Participants: 
-TX : HOUSTON
-    2020: HEWLETT PACKARD ENTERPRISE INTERNATIONAL HEALTH PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D4Q
+ -- TX : HOUSTON
+    2020
         Participants: 
-CA : SAN JOSE
-    2019: HEWLETT PACKARD ENTERPRISE INTERNATIONAL HEALTH PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D4Q
+ -- CA : SAN JOSE
+    2019
         Participants: 
-    2018: HEWLETT PACKARD ENTERPRISE INTERNATIONAL HEALTH PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D4Q4R
+
+    2018  [codes: 4A4D4Q4R]
         Participants: 
-CA : PALO ALTO
-    2017: HEWLETT PACKARD ENTERPRISE INTERNATIONAL HEALTH PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D4Q
+ -- CA : PALO ALTO
+    2017  [codes: 4A4D4Q]
         Participants: 
-TX : SPRING
-   [505]
-    2022: HEWLETT PACKARD ENTERPRISE RETIREE WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare
-        Codes:  4A4G
+ -- TX : SPRING
+  [Healthcare] HEWLETT PACKARD ENTERPRISE RETIREE WELFARE BENEFITS PLAN [505]
+    2022  [codes: 4A4G]
         Participants: 
-    2021: HEWLETT PACKARD ENTERPRISE RETIREE WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4G
+
+    2021  [codes: 4A4D4E4G]
         Participants: 
-TX : HOUSTON
-    2020: HEWLETT PACKARD ENTERPRISE RETIREE WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4G
+ -- TX : HOUSTON
+    2020
         Participants: 
-CA : SAN JOSE
-    2019: HEWLETT PACKARD ENTERPRISE RETIREE WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4G
+ -- CA : SAN JOSE
+    2019
         Participants: 
-    2018: HEWLETT PACKARD ENTERPRISE RETIREE WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4G
+
+    2018
         Participants: 
-CA : PALO ALTO
-    2017: HEWLETT PACKARD ENTERPRISE RETIREE WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4G
+ -- CA : PALO ALTO
+    2017
         Participants: 
-TX : SPRING
-   [506]
-    2021: HEWLETT PACKARD ENTERPRISE RETIREMENT MEDICAL SAVINGS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
-        Participants: 
-        Assets: 60288280
-        $/Participant: 
-    2020: HEWLETT PACKARD ENTERPRISE RETIREMENT MEDICAL SAVINGS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
-        Participants: 
-        Assets: 59774430
-        $/Participant: 
+ -- TX : SPRING
+  [Healthcare, Dental, Vision] HEWLETT PACKARD ENTERPRISE RETIREMENT MEDICAL SAVINGS PLAN [506]
+    2021  [codes: 4A4D4E4Q]
+        Participants:   Average: $
+        Assets: $60,288,280
+
+    2020
+        Participants:   Average: $
+        Assets: $59,774,430
         Service Providers:
            - BANK OF NEW YORK MELLON : CUSTODIAN (Custodial(other than securities))
-CA : HOUSTON
-    2019: HEWLETT PACKARD ENTERPRISE RETIREMENT MEDICAL SAVINGS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
-        Participants: 
-        Assets: 57697737
-        $/Participant: 
+ -- CA : HOUSTON
+    2019
+        Participants:   Average: $
+        Assets: $57,697,737
         Service Providers:
            - BANK OF NEW YORK MELLON : CUSTODIAN (Custodial(other than securities))
-CA : SAN JOSE
-    2018: HEWLETT PACKARD ENTERPRISE RETIREMENT MEDICAL SAVINGS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
-        Participants: 
-        Assets: 54585599
-        $/Participant: 
+ -- CA : SAN JOSE
+    2018
+        Participants:   Average: $
+        Assets: $54,585,599
         Service Providers:
            - BANK OF NEW YORK MELLON : CUSTODIAN (Custodial(other than securities))
-    2017: HEWLETT PACKARD ENTERPRISE RETIREMENT MEDICAL SAVINGS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
-        Participants: 
-        Assets: 52542610
-        $/Participant: 
+
+    2017
+        Participants:   Average: $
+        Assets: $52,542,610
         Service Providers:
            - BANK OF NEW YORK MELLON : CUSTODIAN (Custodial(other than securities))
-TX : SPRING
-   [507]
-    2021: HEWLETT PACKARD ENTERPRISE TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B4Q
+ -- TX : SPRING
+  [Healthcare, Life insurance] HEWLETT PACKARD ENTERPRISE TRAVEL ACCIDENT INSURANCE PLAN [507]
+    2021  [codes: 4A4B4Q]
         Participants: 
-    2020: HEWLETT PACKARD ENTERPRISE TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B4Q
+
+    2020
         Participants: 
-CA : SAN JOSE
-    2019: HEWLETT PACKARD ENTERPRISE TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B4Q
+ -- CA : SAN JOSE
+    2019
         Participants: 
-    2018: HEWLETT PACKARD ENTERPRISE TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B4Q
+
+    2018
         Participants: 
-    2017: HEWLETT PACKARD ENTERPRISE TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B4Q
+
+    2017
         Participants: 
-TX : SPRING
-   [508]
-    2022: HEWLETT PACKARD ENTERPRISE WORKFORCE REDUCTION PLAN
-        Benefit Category: Severance
-        Codes:  4I
+ -- TX : SPRING
+  [Severance] HEWLETT PACKARD ENTERPRISE WORKFORCE REDUCTION PLAN [508]
+    2022  [codes: 4I]
         Participants: 
-    2021: HEWLETT PACKARD ENTERPRISE WORKFORCE REDUCTION PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2021
         Participants: 
-TX : HOUSTON
-    2020: HEWLETT PACKARD ENTERPRISE WORKFORCE REDUCTION PLAN
-        Benefit Category: Severance
-        Codes:  4I
+ -- TX : HOUSTON
+    2020
         Participants: 
-CA : SAN JOSE
-    2019: HEWLETT PACKARD ENTERPRISE WORKFORCE REDUCTION PLAN
-        Benefit Category: Severance
-        Codes:  4I
+ -- CA : SAN JOSE
+    2019
         Participants: 
-    2018: HEWLETT PACKARD ENTERPRISE WORKFORCE REDUCTION PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2018
         Participants: 
-CA : PALO ALTO
-    2017: HEWLETT PACKARD ENTERPRISE WORKFORCE REDUCTION PLAN
-        Benefit Category: Severance
-        Codes:  4I
+ -- CA : PALO ALTO
+    2017
         Participants: 
-TX : HOUSTON
-   [509]
-    2020: HEWLETT PACKARD ENTERPRISE U.S.VOLUNTARY CAREER TRANSITION PROGRAM
-        Benefit Category: Severance
-        Codes:  4I
+ -- TX : HOUSTON
+  [Severance] HEWLETT PACKARD ENTERPRISE U.S.VOLUNTARY CAREER TRANSITION PROGRAM [509]
+    2020
         Participants: 

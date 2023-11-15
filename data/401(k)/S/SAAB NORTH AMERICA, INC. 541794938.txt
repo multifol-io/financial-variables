@@ -1,11 +1,8 @@
-VA : ASHBURN
-  SAAB NORTH AMERICA, INC.  541794938
-    2017: SAAB U.S. 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2G2J2K3H 
-        Participants: 144
-        Assets: 18257166
-        $/Participant: 126785
+SAAB NORTH AMERICA, INC.  541794938 -- VA : ASHBURN
+  [401(k)] SAAB U.S. 401(K) RETIREMENT SAVINGS PLAN
+    2017  [codes: 2G2J2K3H]
+        Participants: 144  Average: $126,785
+        Assets: $18,257,166
         Available Investments:
            - PRUDENTIAL RETIREMENT INS & ANNUITY
                  : DRYDEN S&P 500 INDEX FUND
@@ -23,13 +20,11 @@ VA : ASHBURN
                  : SA OFII GLOBAL STRATEGY
                  : SMALL CAP GROWTH/TIMESSQUARE FUND
                  : SMALL CAP VALUE/SILVERCREST
-   [002]
-    2021: SAAB U.S. DEFINED BENEFIT PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 97
-        Assets: 26197401
-        $/Participant: 270076
+
+  [Pension] SAAB U.S. DEFINED BENEFIT PENSION PLAN [002]
+    2021  [codes: 1A3H]
+        Participants: 97  Average: $270,076
+        Assets: $26,197,401
         Service Providers:
            - WELLS FARGO BANK, N.A. :  (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan | Investment management fees paid indirectly by plan)
            - BOLTON PARTNERS, INC. :  (Actuarial | Consulting(pension) | Direct payment from the plan | Consulting fees)
@@ -46,12 +41,10 @@ VA : ASHBURN
                  : WELLS FARGO/VOYA LARGE CAP GROWTH
                  : WF/BLACKROCK S&P 500 INDEX FUND
                  : WF/BLACKROCK S&P MIDCAP INDEX FUND
-    2020: SAAB U.S. DEFINED BENEFIT PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 137
-        Assets: 32932885
-        $/Participant: 240386
+
+    2020
+        Participants: 137  Average: $240,386
+        Assets: $32,932,885
         Service Providers:
            - WELLS FARGO BANK, N.A. :  (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan | Investment management fees paid indirectly by plan | Account maintenance fees)
            - BOLTON PARTNERS, INC. :  (Actuarial | Consulting(pension) | Direct payment from the plan | Consulting fees)
@@ -71,12 +64,10 @@ VA : ASHBURN
                  : WELLS FARGO/VOYA LARGE CAP GROWTH
                  : WF/BLACKROCK S&P 500 INDEX FUND
                  : WF/BLACKROCK S&P MIDCAP INDEX FUND
-    2019: SAAB U.S. DEFINED BENEFIT PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 146
-        Assets: 34514419
-        $/Participant: 236400
+
+    2019
+        Participants: 146  Average: $236,400
+        Assets: $34,514,419
         Service Providers:
            - WELLS FARGO BANK, N.A. :  (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan | Investment management fees paid indirectly by plan)
            - BOLTON PARTNERS, INC. :  (Actuarial | Direct payment from the plan)
@@ -96,12 +87,10 @@ VA : ASHBURN
                  : WELLS FARGO/VOYA LARGE CAP GROWTH
                  : WF/BLACKROCK S&P 500 INDEX FUND
                  : WF/BLACKROCK S&P MIDCAP INDEX FUND
-    2018: SAAB U.S. DEFINED BENEFIT PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 156
-        Assets: 33339822
-        $/Participant: 213716
+
+    2018
+        Participants: 156  Average: $213,716
+        Assets: $33,339,822
         Service Providers:
            - WELLS FARGO BANK, N.A. :  (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan | Investment management fees paid indirectly by plan)
            - BOLTON PARTNERS, INC. :  (Actuarial | Direct payment from the plan)
@@ -122,9 +111,8 @@ VA : ASHBURN
                  : WELLS FARGO/VOYA LARGE CAP GROWTH
                  : WF/BLACKROCK S&P 500 INDEX FUND
                  : WF/BLACKROCK S&P MIDCAP INDEX FUND
-    2017: SAAB U.S. DEFINED BENEFIT PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A3H 
+
+    2017
         Participants: 0
         Service Providers:
            - WELLS FARGO BANK, N.A. :  (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan | Investment management fees paid indirectly by plan)

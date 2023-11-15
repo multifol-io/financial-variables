@@ -1,12 +1,8 @@
-NC : MORRISVILLE
-  LENOVO (UNITED STATES) INC.  522449153
-   [002]
-    2022: LENOVO SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2S2T3H 
-        Participants: 9868
-        Assets: 2025855385
-        $/Participant: 205295
+LENOVO (UNITED STATES) INC.  522449153 -- NC : MORRISVILLE
+  [401(k)] LENOVO SAVINGS PLAN [002]
+    2022  [codes: 2F2G2J2K2S2T3H]
+        Participants: 9,868  Average: $205,295
+        Assets: $2,025,855,385
         RecordKeeper: EDELMAN FINANCIAL ENGINES
         Available Investments:
            - BLACKROCK
@@ -32,12 +28,10 @@ NC : MORRISVILLE
                  : TARGET RETIREMENT 2060 NL SF
                  : TARGET RETIREMENT 2065 NL SF
                  : TARGET RETIREMENT INCOME NL SF
-    2021: LENOVO SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2S2T3H 
-        Participants: 9378
-        Assets: 2426822962
-        $/Participant: 258778
+
+    2021
+        Participants: 9,378  Average: $258,778
+        Assets: $2,426,822,962
         RecordKeeper: FIDELITY INVESTMENTS
         Available Investments:
            - BLACKROCK
@@ -63,12 +57,10 @@ NC : MORRISVILLE
                  : TARGET RETIREMENT 2060 NL SF
                  : TARGET RETIREMENT 2065 NL SF
                  : TARGET RETIREMENT INCOME NL SF
-    2020: LENOVO SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2S2T3H 
-        Participants: 9167
-        Assets: 2189019881
-        $/Participant: 238793
+
+    2020
+        Participants: 9,167  Average: $238,793
+        Assets: $2,189,019,881
         RecordKeeper: FINANCIAL ENGINES
         Available Investments:
            - BLACKROCK
@@ -95,12 +87,10 @@ NC : MORRISVILLE
                  : TARGET RETIREMENT 2060 NL SF
                  : TARGET RETIREMENT 2065 NL SF
                  : TARGET RETIREMENT INCOME NL SF
-    2019: LENOVO SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2S2T3H 
-        Participants: 9479
-        Assets: 1945360189
-        $/Participant: 205228
+
+    2019
+        Participants: 9,479  Average: $205,228
+        Assets: $1,945,360,189
         RecordKeeper: FIDELITY INVESTMENTS
         Available Investments:
            - BLACKROCK
@@ -126,12 +116,10 @@ NC : MORRISVILLE
                  : TARGET RETIREMENT 2055 NL SF
                  : TARGET RETIREMENT 2060 NL SF
                  : TARGET RETIREMENT INCOME NL SF
-    2018: LENOVO SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2S2T3H 
-        Participants: 9294
-        Assets: 1620131597
-        $/Participant: 174320
+
+    2018
+        Participants: 9,294  Average: $174,320
+        Assets: $1,620,131,597
         RecordKeeper: FIDELITY INVESTMENTS
         Available Investments:
            - BLACKROCK
@@ -174,12 +162,10 @@ NC : MORRISVILLE
                  : TARGET RETIREMENT 2060 TRUST PLUS
                  : TARGET RETIREMENT 2065 TRUST PLUS
                  : TARGET RETIREMENT INCOME TRUST PLUS
-    2017: LENOVO SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2S2T3H 
-        Participants: 9458
-        Assets: 1776092637
-        $/Participant: 187787
+
+    2017
+        Participants: 9,458  Average: $187,787
+        Assets: $1,776,092,637
         RecordKeeper: FINANCIAL ENGINES
         Available Investments:
            - BLACKROCK
@@ -204,123 +190,89 @@ NC : MORRISVILLE
                  : TARGET RETIREMENT 2060 TRUST PLUS
                  : TARGET RETIREMENT 2065 TRUST PLUS
                  : TARGET RETIREMENT INCOME TRUST PLUS
-   [501]
-    2022: LENOVO BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
-        Participants: 5337
-    2021: LENOVO BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
-        Participants: 4663
-    2020: LENOVO BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
-        Participants: 4624
-    2019: LENOVO BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
-        Participants: 4860
-    2018: LENOVO BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
-        Participants: 4382
-    2017: LENOVO BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
-        Participants: 4636
-   [504]
-    2022: LENOVO FUTURE HEALTH ACCOUNT PLAN
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] LENOVO BENEFIT PLAN [501]
+    2022  [codes: 4A4B4D4E4F4G4H4L4Q]
+        Participants: 5,337
+
+    2021
+        Participants: 4,663
+
+    2020
+        Participants: 4,624
+
+    2019
+        Participants: 4,860
+
+    2018
+        Participants: 4,382
+
+    2017
+        Participants: 4,636
+
+  [Healthcare, Life insurance] LENOVO FUTURE HEALTH ACCOUNT PLAN [504]
+    2022  [codes: 4A4B]
         Participants: 970
-    2021: LENOVO FUTURE HEALTH ACCOUNT PLAN
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B
+
+    2021
         Participants: 988
-    2020: LENOVO FUTURE HEALTH ACCOUNT PLAN
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B
-        Participants: 1013
-        Assets: 1613
-        $/Participant: 1
-    2019: LENOVO FUTURE HEALTH ACCOUNT PLAN
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B
-        Participants: 1052
-        Assets: 738711
-        $/Participant: 702
-    2018: LENOVO FUTURE HEALTH ACCOUNT PLAN
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B
-        Participants: 1093
-        Assets: 1687177
-        $/Participant: 1543
-    2017: LENOVO FUTURE HEALTH ACCOUNT PLAN
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B
-        Participants: 1133
-        Assets: 2655844
-        $/Participant: 2344
-   [001]
-    2022: LENOVO PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 411
-        Assets: 56736154
-        $/Participant: 138044
-    2021: LENOVO PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 414
-        Assets: 64675196
-        $/Participant: 156220
-    2020: LENOVO PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 423
-        Assets: 72797502
-        $/Participant: 172098
-    2019: LENOVO PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 428
-        Assets: 67908137
-        $/Participant: 158663
-    2018: LENOVO PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 432
-        Assets: 60442892
-        $/Participant: 139914
-    2017: LENOVO PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 436
-        Assets: 65852325
-        $/Participant: 151037
-   [505]
-    2022: LENOVO SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 5271
-    2021: LENOVO SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 4711
-    2020: LENOVO SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 4725
-    2019: LENOVO SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 4773
-    2018: LENOVO SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 3719
-    2017: LENOVO SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 3687
+
+    2020
+        Participants: 1,013  Average: $1
+        Assets: $1,613
+
+    2019
+        Participants: 1,052  Average: $702
+        Assets: $738,711
+
+    2018
+        Participants: 1,093  Average: $1,543
+        Assets: $1,687,177
+
+    2017
+        Participants: 1,133  Average: $2,344
+        Assets: $2,655,844
+
+  [Pension] LENOVO PENSION PLAN [001]
+    2022  [codes: 1A1I]
+        Participants: 411  Average: $138,044
+        Assets: $56,736,154
+
+    2021
+        Participants: 414  Average: $156,220
+        Assets: $64,675,196
+
+    2020
+        Participants: 423  Average: $172,098
+        Assets: $72,797,502
+
+    2019
+        Participants: 428  Average: $158,663
+        Assets: $67,908,137
+
+    2018
+        Participants: 432  Average: $139,914
+        Assets: $60,442,892
+
+    2017
+        Participants: 436  Average: $151,037
+        Assets: $65,852,325
+
+  [Severance] LENOVO SEVERANCE PLAN [505]
+    2022  [codes: 4I]
+        Participants: 5,271
+
+    2021
+        Participants: 4,711
+
+    2020
+        Participants: 4,725
+
+    2019
+        Participants: 4,773
+
+    2018
+        Participants: 3,719
+
+    2017
+        Participants: 3,687

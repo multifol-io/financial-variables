@@ -1,11 +1,8 @@
-NY : NEW YORK
-  CLS BANK INTERNATIONAL  134140131
-    2022: CLS BANK INTERNATIONAL 401(K) AND PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D3F3H 
-        Participants: 343
-        Assets: 75734571
-        $/Participant: 220800
+CLS BANK INTERNATIONAL  134140131 -- NY : NEW YORK
+  [401(k)] CLS BANK INTERNATIONAL 401(K) AND PROFIT SHARING PLAN
+    2022  [codes: 2E2F2G2J2K2S2T3D3F3H]
+        Participants: 343  Average: $220,800
+        Assets: $75,734,571
         RecordKeeper: STRATEGIC ADVISORS, INC.
         Available Investments:
            - BOSTON PARTNERS TRUST COMPANY
@@ -16,68 +13,52 @@ NY : NEW YORK
                  : TRP BLUE CHIP GR T5
            - WILMINGTON TRUST, N.A.
                  : AB US SMMDCP VAL P-1
-    2021: CLS BANK INTERNATIONAL 401(K) AND PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D3H 
-        Participants: 327
-        Assets: 86816753
-        $/Participant: 265494
+
+    2021  [codes: 2E2F2G2J2K2S2T3D3H]
+        Participants: 327  Average: $265,494
+        Assets: $86,816,753
         RecordKeeper: STRATEGIC ADVISORS, INC.
         Available Investments:
            - BOSTON PARTNERS TRUST COMPANY
                  : BP LG CAP VAL EQ CIT
            - WILMINGTON TRUST, N.A.
                  : AB US SMMDCP VAL P-1
-    2020: CLS BANK INTERNATIONAL 401(K) AND PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 313
-        Assets: 69186089
-        $/Participant: 221041
+
+    2020  [codes: 2E2F2G2J2K2S2T3D]
+        Participants: 313  Average: $221,041
+        Assets: $69,186,089
         RecordKeeper: STRATEGIC ADVISORS, INC.
-    2019: CLS BANK INTERNATIONAL 401(K) AND PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 266
-        Assets: 53977180
-        $/Participant: 202921
+
+    2019
+        Participants: 266  Average: $202,921
+        Assets: $53,977,180
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2018: CLS BANK INTERNATIONAL 401(K) AND PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 255
-        Assets: 40169748
-        $/Participant: 157528
+
+    2018
+        Participants: 255  Average: $157,528
+        Assets: $40,169,748
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2017: CLS BANK INTERNATIONAL 401(K) AND PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D3H 
-        Participants: 231
-        Assets: 37237723
-        $/Participant: 161202
+
+    2017  [codes: 2E2F2G2J2K2T3D3H]
+        Participants: 231  Average: $161,202
+        Assets: $37,237,723
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-   [501]
-    2022: CLS BANK INTERNATIONAL WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] CLS BANK INTERNATIONAL WELFARE BENEFIT PLAN [501]
+    2022  [codes: 4A4B4D4E4F4H4L]
         Participants: 
-    2021: CLS BANK INTERNATIONAL WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2021
         Participants: 
-    2020: CLS BANK INTERNATIONAL WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2020
         Participants: 
-    2019: CLS BANK INTERNATIONAL WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2019
         Participants: 
-    2018: CLS BANK INTERNATIONAL WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2018
         Participants: 
-    2017: CLS BANK INTERNATIONAL WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2017
         Participants: 

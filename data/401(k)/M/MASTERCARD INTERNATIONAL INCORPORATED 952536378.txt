@@ -1,12 +1,8 @@
-NY : PURCHASE
-  MASTERCARD INTERNATIONAL INCORPORATED  952536378
-   [002]
-    2022: MASTERCARD SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S3H 
-        Participants: 13149
-        Assets: 2560487271
-        $/Participant: 194728
+MASTERCARD INTERNATIONAL INCORPORATED  952536378 -- NY : PURCHASE
+  [401(k)] MASTERCARD SAVINGS PLAN [002]
+    2022  [codes: 2E2F2G2J2K2R2S3H]
+        Participants: 13,149  Average: $194,728
+        Assets: $2,560,487,271
         RecordKeeper: VOYA INSTITUTIONAL PLAN SERVICES
         Available Investments:
            - ARISTOTLE CAPITAL MANAGEMENT
@@ -40,12 +36,10 @@ NY : PURCHASE
                  : LARGE CAP GROWTH TRUST
            - WILLIAM BLAIR
                  : EMERGING MARKETS LEADERS FUND
-    2021: MASTERCARD SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S3H 
-        Participants: 10988
-        Assets: 2968321187
-        $/Participant: 270142
+
+    2021
+        Participants: 10,988  Average: $270,142
+        Assets: $2,968,321,187
         RecordKeeper: VOYA INSTITUTIONAL PLAN SERVICES
         Available Investments:
            - ARISTOTLE CAPITAL MANAGEMENT
@@ -81,12 +75,10 @@ NY : PURCHASE
                  : LARGE CAP GROWTH TRUST
            - WILLIAM BLAIR
                  : EMERGING MARKETS LEADERS FUND
-    2020: MASTERCARD SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S3H 
-        Participants: 9962
-        Assets: 2539899410
-        $/Participant: 254958
+
+    2020
+        Participants: 9,962  Average: $254,958
+        Assets: $2,539,899,410
         RecordKeeper: VOYA INSTITUTIONAL PLAN SERVICES
         Available Investments:
            - ARTISAN MULTIPLE INVESTMENT TRUST
@@ -118,12 +110,10 @@ NY : PURCHASE
                  : U.S. INFLATION PROTECTED BOND INDEX
            - TRANSAMERICA FINANCIAL LIFE INSURANCE COMPANY
                  : INVESCO STABLE VALUE TRUST CLASS B1
-    2019: MASTERCARD SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S3H 
-        Participants: 9030
-        Assets: 2034223115
-        $/Participant: 225273
+
+    2019
+        Participants: 9,030  Average: $225,273
+        Assets: $2,034,223,115
         RecordKeeper: VOYA INSTITUTIONAL PLAN SERVICES
         Available Investments:
            - ARTISAN MULTIPLE INVESTMENT TRUST
@@ -150,12 +140,10 @@ NY : PURCHASE
                  : TARGET RETIREMENT 2060 NON-LENDING
                  : TARGET RETIREMENT INCOME NON-LENDIN
                  : U.S. INFLATION PROTECTED BOND INDEX
-    2018: MASTERCARD SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S3H 
-        Participants: 7961
-        Assets: 1573754394
-        $/Participant: 197683
+
+    2018
+        Participants: 7,961  Average: $197,683
+        Assets: $1,573,754,394
         Service Providers:
            - VOYA RETIREMENT ADVISORS, LLC :  (Investment advisory(participants))
            - VOYA INSTITUTIONAL PLAN SERVICES :  (Account maintenance fees | Securities brokerage commissions and fees | Other fees)
@@ -185,12 +173,10 @@ NY : PURCHASE
                  : TARGET RETIREMENT 2060 NON-LENDING
                  : TARGET RETIREMENT INCOME NON-LENDIN
                  : U.S. INFLATION PROTECTED BOND INDEX
-    2017: MASTERCARD SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S3H 
-        Participants: 7217
-        Assets: 1624050438
-        $/Participant: 225031
+
+    2017
+        Participants: 7,217  Average: $225,031
+        Assets: $1,624,050,438
         RecordKeeper: VOYA INSTITUTIONAL PLAN SERVICES
         Available Investments:
            - ARTISAN MULTIPLE INVESTMENT TRUST
@@ -224,53 +210,41 @@ NY : PURCHASE
                  : TARGET RETIREMENT 2060 NON-LENDING
                  : TARGET RETIREMENT INCOME NON-LENDIN
                  : U.S. INFLATION PROTECTED BOND INDEX
-   [502]
-    2022: MASTERCARD INTERNATIONAL INCORPORATED HEALTH CARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4G4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] MASTERCARD INTERNATIONAL INCORPORATED HEALTH CARE PLAN [502]
+    2022  [codes: 4A4B4D4E4F4G4H4L4Q]
         Participants: 
-    2021: MASTERCARD INTERNATIONAL INCORPORATED HEALTH CARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2021  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
-    2020: MASTERCARD INTERNATIONAL INCORPORATED HEALTH CARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2020
         Participants: 
-    2019: MASTERCARD INTERNATIONAL INCORPORATED HEALTH CARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2019
         Participants: 
-    2018: MASTERCARD INTERNATIONAL INCORPORATED HEALTH CARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2018
         Participants: 
-    2017: MASTERCARD INTERNATIONAL INCORPORATED HEALTH CARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2017
         Participants: 
-   [511]
-    2022: MASTERCARD INTERNATIONAL INCORPORATED SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] MASTERCARD INTERNATIONAL INCORPORATED SEVERANCE PLAN [511]
+    2022  [codes: 4I]
         Participants: 
-    2021: MASTERCARD INTERNATIONAL INCORPORATED SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2021
         Participants: 
-    2020: MASTERCARD INTERNATIONAL INCORPORATED SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2020
         Participants: 
-    2019: MASTERCARD INTERNATIONAL INCORPORATED SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2019
         Participants: 
-    2018: MASTERCARD INTERNATIONAL INCORPORATED SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2018
         Participants: 
-    2017: MASTERCARD INTERNATIONAL INCORPORATED SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2017
         Participants: 

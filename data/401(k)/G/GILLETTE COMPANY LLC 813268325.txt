@@ -1,8 +1,7 @@
-MA : BOSTON
-  GILLETTE COMPANY LLC  813268325
+GILLETTE COMPANY LLC  813268325 -- MA : BOSTON
+  [Employee Stock Ownership Plan]THE GILLETTE COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
    [007]
-    2022: THE GILLETTE COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
+    2022
         Codes: 2F2O3H3J 
         Participants: 1291
         Assets: 380839397
@@ -11,8 +10,9 @@ MA : BOSTON
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE SHORT TERM INV FUND
-    2021: THE GILLETTE COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
+
+  [Employee Stock Ownership Plan]THE GILLETTE COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
+    2021
         Codes: 2F2O3H3J 
         Participants: 1354
         Assets: 435531488
@@ -21,9 +21,10 @@ MA : BOSTON
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, INC.
                  : NT COLLECTIVE SHORT TERM INV FUND
+
+  [Healthcare, Dental]GILLETTE RETIREE MEDICAL PLAN
    [504]
-    2021: GILLETTE RETIREE MEDICAL PLAN
-        Benefit Category: Healthcare, Dental
+    2021
         Codes:  4A4D
         Participants: 
         Assets: 107839037
@@ -38,14 +39,16 @@ MA : BOSTON
         Available Investments:
            - THE GILLETTE COMPANY, LLC
                  : GILLETTE EMPLOYEE BENEFIT TRUST
+
+  [Life insurance, Long-term disability]GILLETTE LONG-TERM DISABILITY AND LIFE INSURANCE PLAN
    [506]
-    2021: GILLETTE LONG-TERM DISABILITY AND LIFE INSURANCE PLAN
-        Benefit Category: Life insurance, Long-term disability
+    2021
         Codes:  4B4H
         Participants: 
+
+  [Other]THE GILLETTE COMPANY EMPLOYEE BENEFIT TRUST
    [599]
-    2021: THE GILLETTE COMPANY EMPLOYEE BENEFIT TRUST
-        Benefit Category: Other
+    2021
         Codes:  
         Participants: 
         Assets: 108826479
@@ -54,9 +57,10 @@ MA : BOSTON
            - STATE STREET GLOBAL ADVISORS TRUST COMPANY
                  : US AGGREGATE BOND INDEX NL CTF
                  : US ST GOV'T CREDIT BOND INDEX NL
+
+  [Pension]THE GILLETTE CO. RET. PLAN FOR COLLECTIVELY-BARGAINED EMPLOYEES
    [008]
-    2021: THE GILLETTE CO. RET. PLAN FOR COLLECTIVELY-BARGAINED EMPLOYEES
-        Benefit Category: Pension
+    2021
         Codes: 1B1I3H 
         Participants: 841
         Assets: 46346499

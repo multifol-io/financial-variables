@@ -1,103 +1,73 @@
-CT : FARMINGTON
-  MOTT CORPORATION  060741455
-   [001]
-    2022: MOTT CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 307
-        Assets: 25248764
-        $/Participant: 82243
+MOTT CORPORATION  060741455 -- CT : FARMINGTON
+  [401(k)] MOTT CORPORATION 401(K) PLAN [001]
+    2022  [codes: 2E2F2G2J2K2S2T3D]
+        Participants: 307  Average: $82,243
+        Assets: $25,248,764
         RecordKeeper: MORNINGSTAR INVESTMENT MANAGEMENT L
-    2021: MOTT CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 258
-        Assets: 30712882
-        $/Participant: 119042
+
+    2021
+        Participants: 258  Average: $119,042
+        Assets: $30,712,882
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
-    2020: MOTT CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 227
-        Assets: 26164810
-        $/Participant: 115263
+
+    2020
+        Participants: 227  Average: $115,263
+        Assets: $26,164,810
         RecordKeeper: UBS FINANCIAL SERVICES INC
-    2019: MOTT CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 238
-        Assets: 23547319
-        $/Participant: 98938
+
+    2019
+        Participants: 238  Average: $98,938
+        Assets: $23,547,319
         RecordKeeper: UBS FINANCIAL SERVICES INC
-    2018: MOTT CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 231
-        Assets: 19029605
-        $/Participant: 82379
+
+    2018
+        Participants: 231  Average: $82,379
+        Assets: $19,029,605
         RecordKeeper: UBS FINANCIAL SERVICES INC
-    2017: MOTT CORPORATION 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 213
-        Assets: 21228785
-        $/Participant: 99665
+
+    2017
+        Participants: 213  Average: $99,665
+        Assets: $21,228,785
         RecordKeeper: UBS FINANCIAL SERVICES INC
-   [002]
-    2022: MOTT CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3F3I 
-        Participants: 372
-        Assets: 367564048
-        $/Participant: 988075
-    2021: MOTT CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3F3I 
-        Participants: 296
-        Assets: 261470634
-        $/Participant: 883346
-    2020: MOTT CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3F3I 
-        Participants: 286
-        Assets: 145477490
-        $/Participant: 508662
-    2019: MOTT CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3I 
-        Participants: 293
-        Assets: 125733705
-        $/Participant: 429125
-    2018: MOTT CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3I 
-        Participants: 267
-        Assets: 135028675
-        $/Participant: 505725
-    2017: MOTT CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3I 
-        Participants: 251
-        Assets: 103978830
-        $/Participant: 414258
-   [501]
-    2021: MOTT CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+  [Employee Stock Ownership Plan] MOTT CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN [002]
+    2022  [codes: 2I2P2Q3F3I]
+        Participants: 372  Average: $988,075
+        Assets: $367,564,048
+
+    2021
+        Participants: 296  Average: $883,346
+        Assets: $261,470,634
+
+    2020
+        Participants: 286  Average: $508,662
+        Assets: $145,477,490
+
+    2019  [codes: 2I2P2Q3I]
+        Participants: 293  Average: $429,125
+        Assets: $125,733,705
+
+    2018
+        Participants: 267  Average: $505,725
+        Assets: $135,028,675
+
+    2017
+        Participants: 251  Average: $414,258
+        Assets: $103,978,830
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] MOTT CORPORATION WELFARE BENEFIT PLAN [501]
+    2021  [codes: 4A4B4D4E4F4H4L]
         Participants: 
-    2020: MOTT CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2020
         Participants: 
-    2019: MOTT CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2019
         Participants: 
-    2018: MOTT CORPORATION EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] MOTT CORPORATION EMPLOYEE BENEFIT PLAN
+    2018
         Participants: 
-    2017: MOTT CORPORATION EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2017
         Participants: 

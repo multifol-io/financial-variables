@@ -1,79 +1,58 @@
-NY : ALBANY
-  ROSE & KEIRNAN INC  141559111
-   [003]
-    2022: ROSE & KIERNAN EMP STOCK OWNERSHIP PL & TR
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2P 
+ROSE & KEIRNAN INC  141559111 -- NY : ALBANY
+  [Employee Stock Ownership Plan] ROSE & KIERNAN EMP STOCK OWNERSHIP PL & TR [003]
+    2022  [codes: 2E2P]
         Participants: 0
-    2021: ROSE & KIERNAN EMP STOCK OWNERSHIP PL & TR
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2P 
-        Participants: 230
-        Assets: 8777519
-        $/Participant: 38163
-NY : EAST GREENBUSH
-    2020: ROSE & KIERNAN EMP STOCK OWNERSHIP PL & TR
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2P 
-        Participants: 249
-        Assets: 26731384
-        $/Participant: 107354
-    2019: ROSE & KIERNAN EMP STOCK OWNERSHIP PL & TR
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2P 
-        Participants: 249
-        Assets: 106593600
-        $/Participant: 428086
-    2018: ROSE & KIERNAN, INC. EMP STOCK OWNERSHIP PL & TR
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2P 
-        Participants: 239
-        Assets: 81002543
-        $/Participant: 338922
-    2017: ROSE & KIERNAN, INC. EMP STOCK OWNERSHIP PL & TR
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2P 
-        Participants: 240
-        Assets: 76491992
-        $/Participant: 318716
-   [504]
-    2020: GROUP HEALTH INSURANCE PLAN OF ROSE & KIERNAN INC
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2021
+        Participants: 230  Average: $38,163
+        Assets: $8,777,519
+ -- NY : EAST GREENBUSH
+    2020
+        Participants: 249  Average: $107,354
+        Assets: $26,731,384
+
+    2019
+        Participants: 249  Average: $428,086
+        Assets: $106,593,600
+
+  [Employee Stock Ownership Plan] ROSE & KIERNAN, INC. EMP STOCK OWNERSHIP PL & TR
+    2018
+        Participants: 239  Average: $338,922
+        Assets: $81,002,543
+
+    2017
+        Participants: 240  Average: $318,716
+        Assets: $76,491,992
+
+  [Healthcare] GROUP HEALTH INSURANCE PLAN OF ROSE & KIERNAN INC [504]
+    2020  [codes: 4A]
         Participants: 0
-    2019: GROUP HEALTH INSURANCE PLAN OF ROSE & KIERNAN INC
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2019
         Participants: 182
-    2018: GROUP HEALTH INSURANCE PLAN OF ROSE & KIERNAN, INC.
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] GROUP HEALTH INSURANCE PLAN OF ROSE & KIERNAN, INC.
+    2018
         Participants: 201
-    2017: GROUP HEALTH INSURANCE PLAN OF ROSE & KIERNAN, INC.
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2017
         Participants: 168
-   [505]
-    2020: GROUP LONG TERM DISABILITY INSURANCE PLAN OF ROSE & KIERNAN, INC.
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+  [Long-term disability] GROUP LONG TERM DISABILITY INSURANCE PLAN OF ROSE & KIERNAN, INC. [505]
+    2020  [codes: 4H]
         Participants: 0
-    2019: GROUP LONG TERM DISABILITY INSURANCE PLAN OF ROSE & KIERNAN, INC.
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2019
         Participants: 190
-    2018: GROUP LONG TERM DISABILITY INSURANCE PLAN OF ROSE & KIERNAN, INC.
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2018
         Participants: 194
-    2017: GROUP LONG TERM DISABILITY INSURANCE PLAN OF ROSE & KIERNAN, INC.
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2017
         Participants: 200
-   [001]
-    2021: ROSE & KIERNAN, INC. RETIREMENT INCOME PLAN
-        Benefit Category: Pension
-        Codes: 1A1I3D 
+
+  [Pension] ROSE & KIERNAN, INC. RETIREMENT INCOME PLAN [001]
+    2021  [codes: 1A1I3D]
         Participants: 0
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
@@ -82,12 +61,10 @@ NY : EAST GREENBUSH
                  : PRIN LDI INTRM DUR SEP ACCT-Z
                  : PRIN LDI LONG DURATION SA-Z
                  : PRIN LIQUID ASSETS SEP ACCT-Z
-    2020: ROSE & KIERNAN, INC. RETIREMENT INCOME PLAN
-        Benefit Category: Pension
-        Codes: 1A1I3D 
-        Participants: 361
-        Assets: 48175442
-        $/Participant: 133449
+
+    2020
+        Participants: 361  Average: $133,449
+        Assets: $48,175,442
         RecordKeeper: PRINCIPAL FINANCIAL ADVISORS, INC.
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -95,12 +72,10 @@ NY : EAST GREENBUSH
                  : PRIN LDI INTRM DUR SEP ACCT-Z
                  : PRIN LDI LONG DURATION SA-Z
                  : PRIN LIQUID ASSETS SEP ACCT-Z
-    2019: ROSE & KIERNAN, INC. RETIREMENT INCOME PLAN
-        Benefit Category: Pension
-        Codes: 1A1I3D 
-        Participants: 345
-        Assets: 51325015
-        $/Participant: 148768
+
+    2019
+        Participants: 345  Average: $148,768
+        Assets: $51,325,015
         RecordKeeper: PRINCIPAL FINANCIAL ADVISORS, INC
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -125,12 +100,10 @@ NY : EAST GREENBUSH
                  : PRINCIPAL DIV REAL ASSET SA-Z
                  : PRINCIPAL OVERSEAS SEP ACCT-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
-    2018: ROSE & KIERNAN, INC. RETIREMENT INCOME PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 328
-        Assets: 45574319
-        $/Participant: 138946
+
+    2018  [codes: 1A]
+        Participants: 328  Average: $138,946
+        Assets: $45,574,319
         RecordKeeper: PRINCIPAL FINANCIAL ADVISORS, INC
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -150,12 +123,10 @@ NY : EAST GREENBUSH
                  : PRINCIPAL DIV REAL ASSET SA-Z
                  : PRINCIPAL OVERSEAS SEP ACCT-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
-    2017: ROSE & KIERNAN, INC. RETIREMENT INCOME PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 332
-        Assets: 42156985
-        $/Participant: 126978
+
+    2017
+        Participants: 332  Average: $126,978
+        Assets: $42,156,985
         RecordKeeper: PRINCIPAL FINANCIAL ADVISORS, INC
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
@@ -175,20 +146,17 @@ NY : EAST GREENBUSH
                  : PRINCIPAL DIV REAL ASSET SA-Z
                  : PRINCIPAL OVERSEAS SEP ACCT-Z
                  : PRINCIPAL U.S. PROPERTY SA-Z
-   [506]
-    2020: ACCIDENTIAL DEATH AND DISMEMBERMENT INSURANCE PLAN OF ROSE & KIERNAN, INC
-        Benefit Category: Travel accident
-        Codes:  4L
+
+  [Travel accident] ACCIDENTIAL DEATH AND DISMEMBERMENT INSURANCE PLAN OF ROSE & KIERNAN, INC [506]
+    2020  [codes: 4L]
         Participants: 0
-    2019: ACCIDENTIAL DEATH AND DISMEMBERMENT INSURANCE PLAN OF ROSE & KIERNAN, INC
-        Benefit Category: Travel accident
-        Codes:  4L
+
+    2019
         Participants: 194
-    2018: ACCIDENTAL DEATH AND DISMEMBERMENT INSURANCE PLAN OF ROSE & KIERNAN, INC.
-        Benefit Category: Travel accident
-        Codes:  4L
+
+  [Travel accident] ACCIDENTAL DEATH AND DISMEMBERMENT INSURANCE PLAN OF ROSE & KIERNAN, INC.
+    2018
         Participants: 195
-    2017: ACCIDENTAL DEATH AND DISMEMBERMENT INSURANCE PLAN OF ROSE & KIERNAN, INC.
-        Benefit Category: Travel accident
-        Codes:  4L
+
+    2017
         Participants: 204

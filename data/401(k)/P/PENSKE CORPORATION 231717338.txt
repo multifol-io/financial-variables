@@ -1,12 +1,8 @@
-MI : BLOOMFIELD HILLS
-  PENSKE CORPORATION  231717338
-   [001]
-    2020: DEFERRED SAVINGS PLAN OF THE PENSKE CORPORATION
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3H 
-        Participants: 130
-        Assets: 66795955
-        $/Participant: 513815
+PENSKE CORPORATION  231717338 -- MI : BLOOMFIELD HILLS
+  [401(k)] DEFERRED SAVINGS PLAN OF THE PENSKE CORPORATION [001]
+    2020  [codes: 2E2F2G2J2K2T3H]
+        Participants: 130  Average: $513,815
+        Assets: $66,795,955
         RecordKeeper: WELLS FARGO BANK, N.A.
         Available Investments:
            - NORTHERN TRUST
@@ -31,13 +27,11 @@ MI : BLOOMFIELD HILLS
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO ENH STK MKT N CIT
                  : WELLS FARGO STABLE RETURN I FD
-   [333]
-    2022: DEFERRED SAVINGS PLAN OF THE PENSKE CORPORATION
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3H 
-        Participants: 130
-        Assets: 66577507
-        $/Participant: 512134
+
+ [333]
+    2022
+        Participants: 130  Average: $512,134
+        Assets: $66,577,507
         RecordKeeper: FINDLEY USI
         Available Investments:
            - NORTHERN TRUST
@@ -61,12 +55,10 @@ MI : BLOOMFIELD HILLS
                  : SSGA US BOND IDX CLASS C FUND
            - STATE STREET GLOBAL ADVISORS
                  : SSGA TARGET RET 2065 NL K FUND
-    2021: DEFERRED SAVINGS PLAN OF THE PENSKE CORPORATION
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3H 
-        Participants: 128
-        Assets: 80007632
-        $/Participant: 625059
+
+    2021
+        Participants: 128  Average: $625,059
+        Assets: $80,007,632
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - NORTHERN TRUST
@@ -90,12 +82,10 @@ MI : BLOOMFIELD HILLS
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO ENH STK MKT N CIT
                  : WELLS FARGO STABLE RETURN I FD
-    2020: DEFERRED SAVINGS PLAN OF THE PENSKE CORPORATION
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3H 
-        Participants: 130
-        Assets: 66795955
-        $/Participant: 513815
+
+    2020
+        Participants: 130  Average: $513,815
+        Assets: $66,795,955
         RecordKeeper: WELLS FARGO BANK, N.A.
         Available Investments:
            - NORTHERN TRUST
@@ -120,12 +110,10 @@ MI : BLOOMFIELD HILLS
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO ENH STK MKT N CIT
                  : WELLS FARGO STABLE RETURN I FD
-    2019: DEFERRED SAVINGS PLAN OF THE PENSKE CORPORATION
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3H 
-        Participants: 147
-        Assets: 58808197
-        $/Participant: 400055
+
+    2019
+        Participants: 147  Average: $400,055
+        Assets: $58,808,197
         RecordKeeper: WILLIS TOWERS WATSON
         Available Investments:
            - NORTHERN TRUST GLOBAL INVESTMENTS
@@ -148,12 +136,10 @@ MI : BLOOMFIELD HILLS
            - WELLS FARGO BANK, N.A.
                  : ENHANCED STOCK MARKET FUND N
                  : STABLE RETURN FUND I
-    2018: DEFERRED SAVINGS PLAN OF THE PENSKE CORPORATION
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3H 
-        Participants: 144
-        Assets: 48768816
-        $/Participant: 338672
+
+    2018
+        Participants: 144  Average: $338,672
+        Assets: $48,768,816
         RecordKeeper: MERRILL LYNCH
         Available Investments:
            - NORTHERN TRUST GLOBAL INVESTMENTS
@@ -187,12 +173,10 @@ MI : BLOOMFIELD HILLS
                  : ENHANCED STOCK MARKET FUND N
                  : STABLE RETURN FUND I
                  : STABLE RETURN FUND N
-    2017: DEFERRED SAVINGS PLAN OF THE PENSKE CORPORATION
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3H 
-        Participants: 280
-        Assets: 50069451
-        $/Participant: 178819
+
+    2017
+        Participants: 280  Average: $178,819
+        Assets: $50,069,451
         RecordKeeper: MERRILL LYNCH
         Available Investments:
            - NORTHERN TRUST GLOBAL INVESTMENTS
@@ -214,28 +198,23 @@ MI : BLOOMFIELD HILLS
            - WELLS FARGO BANK, N.A.
                  : ENHANCED STOCK MARKET FUND N
                  : STABLE RETURN FUND N
-   [501]
-    2022: PENSKE CORPORATION EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident] PENSKE CORPORATION EMPLOYEE BENEFITS PLAN [501]
+    2022  [codes: 4A4B4D4E4H4L4Q]
         Participants: 
-    2021: PENSKE CORPORATION EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4Q
+
+    2021
         Participants: 
-    2020: PENSKE CORP. HEALTH INSURANCE PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident] PENSKE CORP. HEALTH INSURANCE PROGRAM
+    2020
         Participants: 
-    2019: PENSKE CORP. HEALTH INSURANCE PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4Q
+
+    2019
         Participants: 
-    2018: PENSKE CORP. HEALTH INSURANCE PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4Q
+
+    2018
         Participants: 
-    2017: PENSKE CORP. HEALTH INSURANCE PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4Q
+
+    2017
         Participants: 

@@ -1,12 +1,8 @@
-IL : CHICAGO
-  ISMIE MUTUAL INSURANCE COMPANY  362883612
-   [001]
-    2022: ISMIE MUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2R2T 
-        Participants: 283
-        Assets: 100201614
-        $/Participant: 354069
+ISMIE MUTUAL INSURANCE COMPANY  362883612 -- IL : CHICAGO
+  [401(k)] ISMIE MUTUAL INSURANCE COMPANY 401(K) PLAN [001]
+    2022  [codes: 2E2F2G2J2R2T]
+        Participants: 283  Average: $354,069
+        Assets: $100,201,614
         RecordKeeper: PRUDENTIAL RETIREMENT INSURANCE
         Available Investments:
            - PRUDENTIAL RETIREMENT INSURANCE
@@ -18,12 +14,10 @@ IL : CHICAGO
                  : SA JANUS BALANCED STRATEGY-SA55DZ
            - WILMINGTON TRUST
                  : BLACKROCK RUSSELL 2000 GROWTH INDEX
-    2021: ISMIE MUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2R2T 
-        Participants: 281
-        Assets: 121140065
-        $/Participant: 431103
+
+    2021
+        Participants: 281  Average: $431,103
+        Assets: $121,140,065
         RecordKeeper: PRUDENTIAL RETIREMENT INSURANCE
         Available Investments:
            - PRUDENTIAL RETIREMENT INSURANCE
@@ -35,12 +29,10 @@ IL : CHICAGO
                  : SA JANUS BALANCED STRATEGY-SA55DZ
            - WILMINGTON TRUST
                  : BLACKROCK RUSSELL 2000 GROWTH INDEX
-    2020: ISMIE MUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2R2T3H 
-        Participants: 280
-        Assets: 111705794
-        $/Participant: 398949
+
+    2020  [codes: 2E2F2G2J2R2T3H]
+        Participants: 280  Average: $398,949
+        Assets: $111,705,794
         RecordKeeper: PRUDENTIAL RETIREMENT INSURANCE
         Available Investments:
            - PRUDENTIAL RETIREMENT INSURANCE
@@ -53,12 +45,10 @@ IL : CHICAGO
                  : SA JANUS BALANCED STRATEGY-SA55DZ
            - WILMINGTON TRUST
                  : BLACKROCK RUSSELL 2000 GROWTH INDEX
-    2019: ISMIE MUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2R2T3H 
-        Participants: 277
-        Assets: 100685337
-        $/Participant: 363484
+
+    2019
+        Participants: 277  Average: $363,484
+        Assets: $100,685,337
         RecordKeeper: PRUDENTIAL INVESTMENT MANAGEMENT
         Available Investments:
            - PRUDENTIAL RETIREMENT INSURANCE
@@ -71,12 +61,10 @@ IL : CHICAGO
                  : SA JANUS BALANCED STRATEGY-SA55DZ
            - WILMINGTON TRUST
                  : BLACKROCK RUSSELL 2000 GROWTH INDEX
-    2018: ISMIE MUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2R2T3H 
-        Participants: 350
-        Assets: 87555508
-        $/Participant: 250158
+
+    2018
+        Participants: 350  Average: $250,158
+        Assets: $87,555,508
         RecordKeeper: PRUDENTIAL RETIREMENT INSURANCE
         Available Investments:
            - PRUDENTIAL RETIREMENT INSURANCE
@@ -89,12 +77,10 @@ IL : CHICAGO
                  : SA JANUS BALANCED STRATEGY-SA55DZ
            - WILMINGTON TRUST
                  : BLACKROCK RUSSELL 2000 GROWTH INDEX
-    2017: ISMIE MUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2R2T3H 
-        Participants: 272
-        Assets: 89074990
-        $/Participant: 327481
+
+    2017
+        Participants: 272  Average: $327,481
+        Assets: $89,074,990
         RecordKeeper: PRUDENTIAL RETIREMENT INSURANCE
         Available Investments:
            - PRUDENTIAL RETIREMENT INSURANCE
@@ -107,28 +93,22 @@ IL : CHICAGO
                  : SA JANUS BALANCED STRATEGY-SA55DZ
            - WILMINGTON TRUST
                  : BLACKROCK RUSSELL 2000 GROWTH INDEX
-   [501]
-    2022: ISMIE MUTUAL INSURANCE COMPANY WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] ISMIE MUTUAL INSURANCE COMPANY WELFARE BENEFIT PLAN [501]
+    2022  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
-    2021: ISMIE MUTUAL INSURANCE COMPANY WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2021
         Participants: 
-    2020: ISMIE MUTUAL INSURANCE COMPANY WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2020
         Participants: 
-    2019: ISMIE MUTUAL INSURANCE COMPANY WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2019
         Participants: 
-    2018: ISMIE MUTUAL INSURANCE COMPANY WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2018
         Participants: 
-    2017: ISMIE MUTUAL INSURANCE COMPANY WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2017
         Participants: 

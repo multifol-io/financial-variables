@@ -1,102 +1,75 @@
-TX : HOUSTON
-  HESS CORPORATION  134921002
-   [001]
-    2022: HESS CORPORATION EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2G2J2K2F 
-        Participants: 3058
-        Assets: 903646847
-        $/Participant: 295502
+HESS CORPORATION  134921002 -- TX : HOUSTON
+  [401(k)] HESS CORPORATION EMPLOYEES' SAVINGS PLAN [001]
+    2022  [codes: 2G2J2K2F]
+        Participants: 3,058  Average: $295,502
+        Assets: $903,646,847
         RecordKeeper: GROOM LAW GROUP, CHARTERED
-    2021: HESS CORPORATION EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2G2J2K2F 
-        Participants: 3071
-        Assets: 960331606
-        $/Participant: 312709
+
+    2021
+        Participants: 3,071  Average: $312,709
+        Assets: $960,331,606
         RecordKeeper: GROOM LAW GROUP, CHARTERED
-    2020: HESS CORPORATION EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2G2J2K2F 
-        Participants: 3260
-        Assets: 842345465
-        $/Participant: 258388
+
+    2020
+        Participants: 3,260  Average: $258,388
+        Assets: $842,345,465
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2019: HESS CORPORATION EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2G2J2K2F 
-        Participants: 3462
-        Assets: 800042617
-        $/Participant: 231092
+
+    2019
+        Participants: 3,462  Average: $231,092
+        Assets: $800,042,617
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2018: HESS CORPORATION EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K 
-        Participants: 3662
-        Assets: 648435928
-        $/Participant: 177071
+
+    2018  [codes: 2F2G2J2K]
+        Participants: 3,662  Average: $177,071
+        Assets: $648,435,928
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-    2017: HESS CORPORATION EMPLOYEES' SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K 
-        Participants: 3992
-        Assets: 738443300
-        $/Participant: 184980
+
+    2017
+        Participants: 3,992  Average: $184,980
+        Assets: $738,443,300
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
-   [501]
-    2022: HESS CORPORATION EMPLOYEES' HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4Q4L4F
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] HESS CORPORATION EMPLOYEES' HEALTH & WELFARE PLAN [501]
+    2022  [codes: 4A4B4D4E4H4Q4L4F]
         Participants: 
-    2021: HESS CORPORATION EMPLOYEES' HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4Q4L4F
+
+    2021
         Participants: 
-    2020: HESS CORPORATION EMPLOYEES' HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4Q4L4F
+
+    2020
         Participants: 
-    2019: HESS CORPORATION EMPLOYEES' HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4Q4L4F
+
+    2019
         Participants: 
-    2018: HESS CORPORATION EMPLOYEES' HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+
+    2018  [codes: 4A4B4D4E4H4Q]
         Participants: 
-    2017: HESS CORPORATION EMPLOYEES' HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
-        Participants: 1656
-   [503]
-    2022: HESS CORPORATION RETIREES' MEDICAL PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2017
+        Participants: 1,656
+
+  [Healthcare] HESS CORPORATION RETIREES' MEDICAL PLAN [503]
+    2022  [codes: 4A]
         Participants: 
-    2021: HESS CORPORATION RETIREES' MEDICAL PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2021
         Participants: 
-    2020: HESS CORPORATION RETIREES' MEDICAL PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2020
         Participants: 
-    2019: HESS CORPORATION RETIREES' MEDICAL PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2019
         Participants: 
-    2018: HESS CORPORATION RETIREES' MEDICAL PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2018
         Participants: 
-    2017: HESS CORPORATION RETIREES' MEDICAL PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2017  [codes: 4A4D4E]
         Participants: 560
-   [002]
-    2022: HOVENSA LEGACY EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I1H 
+
+  [Pension] HOVENSA LEGACY EMPLOYEES' PENSION PLAN [002]
+    2022  [codes: 1A1I1H]
         Participants: 0
         Service Providers:
            - BLACKROCK FINANCIAL :  (Investment management | Direct payment from the plan)
@@ -111,12 +84,10 @@ TX : HOUSTON
                  : LONG TERM GOV/CREDIT BOND INDEX FUN
            - NORTHERN TRUST INVESTMENTS, N.A.
                  : NTGI COLLECTIVE GOVERNMENT STIF
-    2021: HOVENSA LEGACY EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 920
-        Assets: 139497491
-        $/Participant: 151627
+
+    2021  [codes: 1A1I]
+        Participants: 920  Average: $151,627
+        Assets: $139,497,491
         Service Providers:
            - GROOM LAW GROUP :  (Legal | Direct payment from the plan)
            - WILLIS TOWERS WATSON :  (Consulting(pension) | Direct payment from the plan | Investment management fees paid directly by plan)
@@ -130,12 +101,10 @@ TX : HOUSTON
                  : LONG TERM GOV/CREDIT BOND INDEX FUN
            - NORTHERN TRUST INVESTMENTS, N.A.
                  : NTGI COLLECTIVE GOVERNMENT STIF
-    2020: HOVENSA LEGACY EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 935
-        Assets: 150246210
-        $/Participant: 160691
+
+    2020
+        Participants: 935  Average: $160,691
+        Assets: $150,246,210
         Service Providers:
            - MERCER :  (Actuarial | Consulting(pension) | Direct payment from the plan | Consulting fees)
            - BLACKROCK FINANCIAL :  (Investment management | Direct payment from the plan)
@@ -147,12 +116,10 @@ TX : HOUSTON
                  : LONG TERM GOV/CREDIT BOND INDEX FUN
            - NORTHERN TRUST INVESTMENTS, N.A.
                  : NTGI COLLECTIVE GOVERNMENT STIF
-    2019: HOVENSA LEGACY EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 947
-        Assets: 144841221
-        $/Participant: 152947
+
+    2019
+        Participants: 947  Average: $152,947
+        Assets: $144,841,221
         Service Providers:
            - MERCER :  (Actuarial | Consulting(pension) | Direct payment from the plan | Consulting fees)
            - BLACKROCK FINANCIAL :  (Investment management | Direct payment from the plan)
@@ -162,12 +129,10 @@ TX : HOUSTON
                  : LONG TERM GOV/CREDIT BOND INDEX FUN
            - NORTHERN TRUST INVESTMENTS, N.A.
                  : NTGI COLLECTIVE GOVERNMENT STIF
-    2018: HOVENSA LEGACY EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 945
-        Assets: 116577440
-        $/Participant: 123362
+
+    2018  [codes: 1A]
+        Participants: 945  Average: $123,362
+        Assets: $116,577,440
         Service Providers:
            - MERCER :  (Actuarial | Consulting(pension) | Direct payment from the plan | Consulting fees)
            - THE NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue)
@@ -177,25 +142,21 @@ TX : HOUSTON
                  : LONG TERM GOV/CREDIT BOND INDEX FUN
            - NORTHERN TRUST INVESTMENTS, N.A.
                  : NTGI COLLECTIVE GOVERNMENT STIF
-    2017: HOVENSA LEGACY EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 956
-        Assets: 121793966
-        $/Participant: 127399
+
+    2017
+        Participants: 956  Average: $127,399
+        Assets: $121,793,966
         Service Providers:
            - MERCER :  (Actuarial | Consulting(pension) | Direct payment from the plan | Consulting fees)
            - THE NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Float revenue)
         Available Investments:
            - NORTHERN TRUST INVESTMENTS, N.A.
                  : NTGI COLLECTIVE GOVERNMENT STIF
-   [333]
-    2022: HESS CORPORATION EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1C 
-        Participants: 8242
-        Assets: 1955153770
-        $/Participant: 237218
+
+  [Pension] HESS CORPORATION EMPLOYEES' PENSION PLAN [333]
+    2022  [codes: 1A1C]
+        Participants: 8,242  Average: $237,218
+        Assets: $1,955,153,770
         Service Providers:
            - LAZARD ASSET MANAGEMENT :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - WINSLOW CAPITAL MANAGEMENT, LLC :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
@@ -234,12 +195,10 @@ TX : HOUSTON
                  : WESTERN ASSET FRN HIGH INCOME FUND
                  : WESTERN ASSET MBS PORT
                  : WESTERN ASSET OP US HIGH INCOME
-    2021: HESS CORPORATION EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1C 
-        Participants: 9415
-        Assets: 2543091782
-        $/Participant: 270110
+
+    2021
+        Participants: 9,415  Average: $270,110
+        Assets: $2,543,091,782
         Service Providers:
            - WINSLOW CAPITAL MANAGEMENT, LLC. :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - LAZARD ASSET MANAGEMENT, LLC :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
@@ -280,12 +239,10 @@ TX : HOUSTON
                  : WESTERN ASSET FRN HIGH INCOME FUND
                  : WESTERN ASSET MBS PORT
                  : WESTERN ASSET OP US HIGH INCOME
-    2020: HESS CORPORATION EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1C 
-        Participants: 9341
-        Assets: 2214086023
-        $/Participant: 237028
+
+    2020
+        Participants: 9,341  Average: $237,028
+        Assets: $2,214,086,023
         Service Providers:
            - WINSLOW CAPITAL MANAGEMENT, INC. :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - WCM INVESTMENT MANAGEMENT :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
@@ -327,12 +284,10 @@ TX : HOUSTON
                  : WESTERN ASSET MBS PORT
                  : WESTERN ASSET OP US HIGH INCOME
                  : WESTERN ASSET OPP INT INV GRADE POR
-    2019: HESS CORPORATION EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1C 
-        Participants: 9357
-        Assets: 1984087527
-        $/Participant: 212043
+
+    2019
+        Participants: 9,357  Average: $212,043
+        Assets: $1,984,087,527
         Service Providers:
            - WINSLOW CAPITAL MANAGEMENT, INC. :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - LAZARD ASSET MANAGEMENT :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
@@ -370,12 +325,10 @@ TX : HOUSTON
                  : WESTERN ASSET MBS PORT
                  : WESTERN ASSET OP US HIGH INCOME
                  : WESTERN ASSET OPP INT INV GRADE POR
-    2018: HESS CORPORATION EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 13774
-        Assets: 1907532797
-        $/Participant: 138487
+
+    2018  [codes: 1A]
+        Participants: 13,774  Average: $138,487
+        Assets: $1,907,532,797
         Service Providers:
            - WINSLOW CAPITAL MANAGEMENT, INC. :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - WESTWOOD MANAGEMENT CORP :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
@@ -413,12 +366,10 @@ TX : HOUSTON
                  : WESTERN ASSET MBS PORT
                  : WESTERN ASSET OP US HIGH INCOME
                  : WESTERN ASSET OPP INT INV GRADE POR
-    2017: HESS CORPORATION EMPLOYEES' PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 13771
-        Assets: 2070034064
-        $/Participant: 150318
+
+    2017
+        Participants: 13,771  Average: $150,318
+        Assets: $2,070,034,064
         Service Providers:
            - WINSLOW CAPITAL MANAGEMENT, INC. :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - WESTWOOD MANAGEMENT CORP :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
@@ -453,8 +404,7 @@ TX : HOUSTON
                  : WESTERN ASSET MBS PORT
                  : WESTERN ASSET OP US HIGH INCOME
                  : WESTERN ASSET OPP INT INV GRADE POR
-   [504]
-    2017: HESS CORPORATION SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] HESS CORPORATION SEVERANCE PAY PLAN [504]
+    2017  [codes: 4I]
         Participants: 0

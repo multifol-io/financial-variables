@@ -1,151 +1,113 @@
-CO : AURORA
-  BSI HOLDINGS INC.  352523825
-   [502]
-    2022: BSI HOLDINGS, INC. DENTAL PLAN
-        Benefit Category: Dental
-        Codes:  4D
+BSI HOLDINGS INC.  352523825 -- CO : AURORA
+  [Dental] BSI HOLDINGS, INC. DENTAL PLAN [502]
+    2022  [codes: 4D]
         Participants: 239
-    2021: BSI HOLDINGS, INC. DENTAL PLAN
-        Benefit Category: Dental
-        Codes:  4D
+
+    2021
         Participants: 224
-    2020: BSI HOLDINGS, INC. DENTAL PLAN
-        Benefit Category: Dental
-        Codes:  4D
+
+    2020
         Participants: 219
-    2019: BSI HOLDINGS, INC. DENTAL PLAN
-        Benefit Category: Dental
-        Codes:  4D
+
+    2019
         Participants: 200
-    2018: BSI HOLDINGS, INC. DENTAL PLAN
-        Benefit Category: Dental
-        Codes:  4D
+
+    2018
         Participants: 167
-    2017: BSI HOLDINGS, INC. DENTAL PLAN
-        Benefit Category: Dental
-        Codes:  4D
+
+    2017
         Participants: 163
-   [045]
-    2022: BROWN STRAUSS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O2Q3H3I 
-        Participants: 231
-        Assets: 232984751
-        $/Participant: 1008591
-    2021: BROWN STRAUSS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O2Q3H3I 
-        Participants: 231
-        Assets: 283161234
-        $/Participant: 1225806
-    2020: BROWN STRAUSS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O2Q3H3I 
-        Participants: 235
-        Assets: 266976445
-        $/Participant: 1136069
-    2019: BROWN STRAUSS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O2Q3H3I 
-        Participants: 222
-        Assets: 263425579
-        $/Participant: 1186601
-    2018: BROWN STRAUSS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O2Q3H3I 
-        Participants: 223
-        Assets: 227108683
-        $/Participant: 1018424
-    2017: BROWN STRAUSS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O2Q3H3I 
-        Participants: 220
-        Assets: 173675064
-        $/Participant: 789432
-   [501]
-    2022: BSI HOLDINGS, INC. HEALTH PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Employee Stock Ownership Plan] BROWN STRAUSS, INC. EMPLOYEE STOCK OWNERSHIP PLAN [045]
+    2022  [codes: 2I2O2Q3H3I]
+        Participants: 231  Average: $1,008,591
+        Assets: $232,984,751
+
+    2021
+        Participants: 231  Average: $1,225,806
+        Assets: $283,161,234
+
+    2020
+        Participants: 235  Average: $1,136,069
+        Assets: $266,976,445
+
+    2019
+        Participants: 222  Average: $1,186,601
+        Assets: $263,425,579
+
+    2018
+        Participants: 223  Average: $1,018,424
+        Assets: $227,108,683
+
+    2017
+        Participants: 220  Average: $789,432
+        Assets: $173,675,064
+
+  [Healthcare] BSI HOLDINGS, INC. HEALTH PLAN [501]
+    2022  [codes: 4A]
         Participants: 527
         Service Providers:
            - CIGNA HEALTH AND LIFE INSURANCE CO : CLAIM ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2021: BSI HOLDINGS, INC. HEALTH PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2021
         Participants: 505
         Service Providers:
            - CIGNA HEALTH AND LIFE INSURANCE CO : CLAIM ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2020: BSI HOLDINGS, INC. HEALTH PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2020
         Participants: 512
         Service Providers:
            - CIGNA HEALTH AND LIFE INSURANCE CO : CLAIM ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2019: BSI HOLDINGS, INC. HEALTH PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2019
         Participants: 507
         Service Providers:
            - CIGNA HEALTH AND LIFE INSURANCE CO : CLAIM ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2018: BSI HOLDINGS, INC. HEALTH PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2018
         Participants: 500
         Service Providers:
            - CIGNA HEALTH AND LIFE INSURANCE CO : CLAIM ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2017: BSI HOLDINGS, INC. HEALTH PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2017
         Participants: 512
         Service Providers:
            - CIGNA HEALTH AND LIFE INSURANCE CO : CLAIM ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-   [504]
-    2022: BSI HOLDINGS, INC. LIFE AND AD&D PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+  [Life insurance] BSI HOLDINGS, INC. LIFE AND AD&D PLAN [504]
+    2022  [codes: 4B]
         Participants: 262
-    2021: BSI HOLDINGS, INC. LIFE AND AD&D PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2021
         Participants: 242
-    2020: BSI HOLDINGS, INC. LIFE AND AD&D PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2020
         Participants: 257
-    2019: BSI HOLDINGS, INC. LIFE AND AD&D PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2019
         Participants: 240
-    2018: BSI HOLDINGS, INC. LIFE AND AD&D PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2018
         Participants: 237
-    2017: BSI HOLDINGS, INC. LIFE AND AD&D PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2017
         Participants: 233
-   [503]
-    2022: BSI HOLDINGS, INC. VISION PLAN
-        Benefit Category: Vision
-        Codes:  4E
+
+  [Vision] BSI HOLDINGS, INC. VISION PLAN [503]
+    2022  [codes: 4E]
         Participants: 423
-    2021: BSI HOLDINGS, INC. VISION PLAN
-        Benefit Category: Vision
-        Codes:  4E
+
+    2021
         Participants: 410
-    2020: BSI HOLDINGS, INC. VISION PLAN
-        Benefit Category: Vision
-        Codes:  4E
+
+    2020
         Participants: 410
-    2019: BSI HOLDINGS, INC. VISION PLAN
-        Benefit Category: Vision
-        Codes:  4E
+
+    2019
         Participants: 364
-    2018: BSI HOLDINGS, INC. VISION PLAN
-        Benefit Category: Vision
-        Codes:  4E
+
+    2018
         Participants: 328
-    2017: BSI HOLDINGS, INC. VISION PLAN
-        Benefit Category: Vision
-        Codes:  4E
+
+    2017
         Participants: 311

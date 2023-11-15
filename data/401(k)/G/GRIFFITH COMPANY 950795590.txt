@@ -1,36 +1,28 @@
-CA : BREA
-  GRIFFITH COMPANY  950795590
-   [005]
-    2022: GRIFFITH COMPANY SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 230
-        Assets: 10506860
-        $/Participant: 45682
+GRIFFITH COMPANY  950795590 -- CA : BREA
+  [401(k)] GRIFFITH COMPANY SAVINGS PLAN [005]
+    2022  [codes: 2E2F2G2J2K2S2T3D]
+        Participants: 230  Average: $45,682
+        Assets: $10,506,860
         RecordKeeper: RBC CAPITAL MARKETS LLC
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN LGCP S&P 500 INDEX SA-Z
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
-    2021: GRIFFITH COMPANY SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 213
-        Assets: 11502407
-        $/Participant: 54001
+
+    2021
+        Participants: 213  Average: $54,001
+        Assets: $11,502,407
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN LGCP S&P 500 INDEX SA-Z
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
-    2020: GRIFFITH COMPANY SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 209
-        Assets: 9642079
-        $/Participant: 46134
+
+    2020
+        Participants: 209  Average: $46,134
+        Assets: $9,642,079
         RecordKeeper: RBC CAPITAL MARKETS LLC
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -50,12 +42,10 @@ CA : BREA
                  : PRIN LGCP S&P 500 INDEX SA-Z
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
-    2019: GRIFFITH COMPANY SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 201
-        Assets: 7939197
-        $/Participant: 39498
+
+    2019
+        Participants: 201  Average: $39,498
+        Assets: $7,939,197
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -76,12 +66,10 @@ CA : BREA
                  : PRIN LGCP S&P 500 INDEX SA-Z
                  : PRIN MIDCAP S&P 400 IDX SA-Z
                  : PRIN SMCAP S&P 600 INDEX SA-Z
-    2018: GRIFFITH COMPANY SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2S2T3D 
-        Participants: 187
-        Assets: 6524888
-        $/Participant: 34892
+
+    2018  [codes: 2E2F2G2J2S2T3D]
+        Participants: 187  Average: $34,892
+        Assets: $6,524,888
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -102,12 +90,10 @@ CA : BREA
                  : PRIN LGCAP S&P 500 INDEX SA-R5
                  : PRIN MIDCAP S&P 400 IDX SA-R5
                  : PRIN SMCAP S&P 600 INDEX SA-R5
-    2017: GRIFFITH COMPANY SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2T3D 
-        Participants: 166
-        Assets: 6973892
-        $/Participant: 42011
+
+    2017  [codes: 2E2F2G2J2T3D]
+        Participants: 166  Average: $42,011
+        Assets: $6,973,892
         RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -128,69 +114,51 @@ CA : BREA
                  : PRIN LGCAP S&P 500 INDEX SA-R5
                  : PRIN MIDCAP S&P 400 IDX SA-R5
                  : PRIN SMCAP S&P 600 INDEX SA-R5
-   [004]
-    2022: GRIFFITH COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O2Q3I 
-        Participants: 291
-        Assets: 118602024
-        $/Participant: 407567
-    2021: GRIFFITH COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O2Q3I 
-        Participants: 268
-        Assets: 99406802
-        $/Participant: 370920
+
+  [Employee Stock Ownership Plan] GRIFFITH COMPANY EMPLOYEE STOCK OWNERSHIP PLAN [004]
+    2022  [codes: 2I2O2Q3I]
+        Participants: 291  Average: $407,567
+        Assets: $118,602,024
+
+    2021
+        Participants: 268  Average: $370,920
+        Assets: $99,406,802
         Service Providers:
            - CITY NATIONAL BANK : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-    2020: GRIFFITH COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O2Q3I 
-        Participants: 272
-        Assets: 70704106
-        $/Participant: 259941
+
+    2020
+        Participants: 272  Average: $259,941
+        Assets: $70,704,106
         Service Providers:
            - CITY NATIONAL BANK : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-    2019: GRIFFITH COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O2Q3I 
-        Participants: 266
-        Assets: 54543490
-        $/Participant: 205050
-    2018: GRIFFITH COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O2Q3I 
-        Participants: 254
-        Assets: 36918083
-        $/Participant: 145346
-    2017: GRIFFITH COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O2Q3I 
-        Participants: 231
-        Assets: 32807360
-        $/Participant: 142023
-   [501]
-    2022: GRIFFITH COMPANY WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2019
+        Participants: 266  Average: $205,050
+        Assets: $54,543,490
+
+    2018
+        Participants: 254  Average: $145,346
+        Assets: $36,918,083
+
+    2017
+        Participants: 231  Average: $142,023
+        Assets: $32,807,360
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability] GRIFFITH COMPANY WELFARE BENEFITS PLAN [501]
+    2022  [codes: 4A4B4D4E4F4H4Q]
         Participants: 
-    2021: GRIFFITH COMPANY WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2021
         Participants: 
-    2020: GRIFFITH COMPANY WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2020
         Participants: 
-    2019: GRIFFITH COMPANY WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H
+
+    2019  [codes: 4A4B4D4E4F4H]
         Participants: 
-    2018: GRIFFITH COMPANY WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H
+
+    2018
         Participants: 
-    2017: GRIFFITH COMPANY WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H
+
+    2017
         Participants: 

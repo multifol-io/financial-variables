@@ -1,12 +1,8 @@
-OH : AKRON
-  ENERGY HARBOR CORP  843992199
-   [001]
-    2022: ENERGY HARBOR 401(K) & RETIREMENT CONTRIBUTION PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2R2S3D3H2A2E 
-        Participants: 2646
-        Assets: 630156312
-        $/Participant: 238154
+ENERGY HARBOR CORP  843992199 -- OH : AKRON
+  [401(k)] ENERGY HARBOR 401(K) & RETIREMENT CONTRIBUTION PLAN
+    2022  [codes: 2F2G2J2K2R2S3D3H2A2E]
+        Participants: 2,646  Average: $238,154
+        Assets: $630,156,312
         RecordKeeper: CAPFINANCIAL PARTNERS, LLC
         Available Investments:
            - BLACKROCK INST. TRUST COMPANY, N.A.
@@ -27,12 +23,10 @@ OH : AKRON
                  : EXTENDED EQUITY MARKET FUND F
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE B
-    2021: ENERGY HARBOR 401(K) & RETIREMENT CONTRIBUTION PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2R2S3D3H 
-        Participants: 2599
-        Assets: 748220211
-        $/Participant: 287887
+
+    2021  [codes: 2A2E2F2G2J2K2R2S3D3H]
+        Participants: 2,599  Average: $287,887
+        Assets: $748,220,211
         RecordKeeper: CAPFINANCIAL PARTNERS, LLC
         Available Investments:
            - BLACKROCK INST. TRUST COMPANY, N.A.
@@ -56,12 +50,11 @@ OH : AKRON
                  : US DEBT INDEX FUND M
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE B
-    2020: ENERGY HARBOR 401(K) & RETIREMENT CONTRIBUTION
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2R2S3D 
-        Participants: 2592
-        Assets: 669188274
-        $/Participant: 258174
+
+  [401(k)] ENERGY HARBOR 401(K) & RETIREMENT CONTRIBUTION
+    2020  [codes: 2A2E2F2G2J2K2R2S3D]
+        Participants: 2,592  Average: $258,174
+        Assets: $669,188,274
         RecordKeeper: CAPFINANCIAL PARTNERS, LLC
         Available Investments:
            - BLACKROCK INST. TRUST COMPANY, N.A.
@@ -69,35 +62,26 @@ OH : AKRON
                  : BLACKROCK MSCI ACWI EX-US IMI INDEX
                  : EQUITY INDEX FUND J
                  : US DEBT INDEX FUND M
-   [002]
-    2022: ENERGY HARBOR PENSION PLAN FOR COLLECTIVELY BARGAINED EMPLOYEES
-        Benefit Category: Pension
-        Codes: 1A1B1C 
-        Participants: 900
-        Assets: 17727842
-        $/Participant: 19697
-    2021: ENERGY HARBOR PENSION PLAN FOR COLLECTIVELY BARGAINED EMPLOYEES
-        Benefit Category: Pension
-        Codes: 1A1B1C 
-        Participants: 908
-        Assets: 19097120
-        $/Participant: 21032
-    2020: ENERGY HARBOR PENSION PLAN FOR COLLECTIVELY BARGAINED EMPLOYEES
-        Benefit Category: Pension
-        Codes: 1A1B1C 
-        Participants: 922
-        Assets: 19758986
-        $/Participant: 21430
-   [505]
-    2022: ENERGY HARBOR SEVERANCE BENEFITS PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 1450
-    2021: ENERGY HARBOR SEVERANCE BENEFITS PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 1478
-    2020: ENERGY HARBOR SEVERANCE BENEFITS PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 1550
+
+  [Pension] ENERGY HARBOR PENSION PLAN FOR COLLECTIVELY BARGAINED EMPLOYEES [002]
+    2022  [codes: 1A1B1C]
+        Participants: 900  Average: $19,697
+        Assets: $17,727,842
+
+    2021
+        Participants: 908  Average: $21,032
+        Assets: $19,097,120
+
+    2020
+        Participants: 922  Average: $21,430
+        Assets: $19,758,986
+
+  [Severance] ENERGY HARBOR SEVERANCE BENEFITS PLAN [505]
+    2022  [codes: 4I]
+        Participants: 1,450
+
+    2021
+        Participants: 1,478
+
+    2020
+        Participants: 1,550

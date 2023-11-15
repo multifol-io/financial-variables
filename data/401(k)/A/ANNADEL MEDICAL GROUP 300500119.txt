@@ -1,96 +1,74 @@
-CA : ANAHEIM
-  ANNADEL MEDICAL GROUP  300500119
-    2022: ANNADEL MEDICAL GROUP 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J 
-        Participants: 232
-        Assets: 53368249
-        $/Participant: 230035
+ANNADEL MEDICAL GROUP  300500119 -- CA : ANAHEIM
+  [401(k)] ANNADEL MEDICAL GROUP 401(K) PLAN
+    2022  [codes: 2A2E2F2G2J]
+        Participants: 232  Average: $230,035
+        Assets: $53,368,249
         RecordKeeper: CHARLES SCHWAB & CO., INC.
         Available Investments:
            - AST WILMINGTON TRUST
                  : WILMINGTON TRUST FRANKLIN GROWTH CI
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND
-    2021: ANNADEL MEDICAL GROUP 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J 
-        Participants: 250
-        Assets: 66634884
-        $/Participant: 266539
+
+    2021
+        Participants: 250  Average: $266,539
+        Assets: $66,634,884
         RecordKeeper: CHARLES SCHWAB & CO., INC.
         Available Investments:
            - AST WILMINGTON TRUST
                  : WILMINGTON TRUST FRANKLIN GROWTH CI
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND
-CA : SANTA ROSA
-    2020: ANNADEL MEDICAL GROUP 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J 
-        Participants: 238
-        Assets: 54458544
-        $/Participant: 228817
+ -- CA : SANTA ROSA
+    2020
+        Participants: 238  Average: $228,817
+        Assets: $54,458,544
         RecordKeeper: CHARLES SCHWAB & CO., INC.
         Available Investments:
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND
-    2019: ANNADEL MEDICAL GROUP 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J 
-        Participants: 207
-        Assets: 41707903
-        $/Participant: 201487
+
+    2019
+        Participants: 207  Average: $201,487
+        Assets: $41,707,903
         RecordKeeper: CHARLES SCHWAB & CO., INC.
         Available Investments:
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND
-    2018: ANNADEL MEDICAL GROUP 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J 
-        Participants: 204
-        Assets: 26946611
-        $/Participant: 132091
+
+    2018
+        Participants: 204  Average: $132,091
+        Assets: $26,946,611
         RecordKeeper: EMPOWER RETIREMENT ADVISORY SERVICE
         Available Investments:
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND
-    2017: ANNADEL MEDICAL GROUP 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J 
-        Participants: 181
-        Assets: 23531220
-        $/Participant: 130006
+
+    2017
+        Participants: 181  Average: $130,006
+        Assets: $23,531,220
         RecordKeeper: EMPOWER RETIREMENT ADVISORY SERVICE
         Available Investments:
            - AMERICAN UNITED LIFE INSURANCE CO
                  : SEPARATE ACCOUNT II
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND
-CA : ANAHEIM
-   [501]
-    2022: ANNADEL MEDICAL GROUP WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+ -- CA : ANAHEIM
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability] ANNADEL MEDICAL GROUP WELFARE BENEFITS PLAN [501]
+    2022  [codes: 4A4B4D4E4H4Q]
         Participants: 
-CA : SANTA ROSA
-    2021: ANNADEL MEDICAL GROUP WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H4Q
+ -- CA : SANTA ROSA
+    2021
         Participants: 
-    2020: ANNADEL MEDICAL GROUP WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+    2020  [codes: 4A4B4D4E4H4L]
         Participants: 
-    2019: ANNADEL MEDICAL GROUP WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+    2019
         Participants: 
-    2018: ANNADEL MEDICAL GROUP WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+    2018
         Participants: 
-    2017: ANNADEL MEDICAL GROUP WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+    2017
         Participants: 

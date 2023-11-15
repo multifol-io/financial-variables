@@ -1,151 +1,115 @@
-IN : CARMEL
-  MISO  431827033
-   [001]
-    2022: MISO EMPLOYEES' RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2S2T2K3D2R 
-        Participants: 1341
-        Assets: 303440699
-        $/Participant: 226279
+MISO  431827033 -- IN : CARMEL
+  [401(k)] MISO EMPLOYEES' RETIREMENT SAVINGS PLAN [001]
+    2022  [codes: 2E2F2G2J2S2T2K3D2R]
+        Participants: 1,341  Average: $226,279
+        Assets: $303,440,699
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-    2021: MISO EMPLOYEES' RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2S2T2K3D2R 
-        Participants: 1290
-        Assets: 371473539
-        $/Participant: 287963
+
+    2021
+        Participants: 1,290  Average: $287,963
+        Assets: $371,473,539
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-    2020: MISO EMPLOYEES' RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2S2T2K3D2R 
-        Participants: 1254
-        Assets: 318138298
-        $/Participant: 253698
+
+    2020
+        Participants: 1,254  Average: $253,698
+        Assets: $318,138,298
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-    2019: MISO EMPLOYEES' RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2R2S2T3D2K 
-        Participants: 1326
-        Assets: 268944040
-        $/Participant: 202823
+
+    2019  [codes: 2E2F2G2J2R2S2T3D2K]
+        Participants: 1,326  Average: $202,823
+        Assets: $268,944,040
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-    2018: MISO EMPLOYEES' RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 1288
-        Assets: 215086552
-        $/Participant: 166992
+
+    2018  [codes: 2E2F2G2J2K2S2T3D]
+        Participants: 1,288  Average: $166,992
+        Assets: $215,086,552
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-    2017: MISO EMPLOYEES' RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2S2T3D2E 
-        Participants: 1214
-        Assets: 224375388
-        $/Participant: 184823
+
+    2017  [codes: 2F2G2J2K2S2T3D2E]
+        Participants: 1,214  Average: $184,823
+        Assets: $224,375,388
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1
-   [501]
-    2022: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. FLEXIBLE BENEFITS PLAN [501]
+    2022  [codes: 4A]
         Participants: 
-    2021: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2021
         Participants: 
-    2020: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2020
         Participants: 
-    2019: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2019
         Participants: 
-    2018: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2018
         Participants: 
-    2017: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. FLEXIBLE BENEFITS PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2017
         Participants: 
-   [502]
-    2022: MISO VOLUNTARY EMPLOYEE BENEFICIARY ASSOCIATION PLAN AND TRUST
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] MISO VOLUNTARY EMPLOYEE BENEFICIARY ASSOCIATION PLAN AND TRUST [502]
+    2022
         Participants: 
-    2021: MISO VOLUNTARY EMPLOYEE BENEFICIARY ASSOCIATION PLAN AND TRUST
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2021
         Participants: 924
         RecordKeeper: ANTHEM INSURANCE COMPANIES INC
-    2020: MISO VOLUNTARY EMPLOYEE BENEFICIARY ASSOCIATION PLAN AND TRUST
-        Benefit Category: Healthcare
-        Codes:  4A
-        Participants: 922
-        Assets: 314250
-        $/Participant: 340
+
+    2020
+        Participants: 922  Average: $340
+        Assets: $314,250
         RecordKeeper: OUR HEALTH, LLC
-    2019: MISO VOLUNTARY EMPLOYEE BENEFICIARY ASSOCIATION PLAN AND TRUST
-        Benefit Category: Healthcare
-        Codes:  4A
-        Participants: 926
-        Assets: 924121
-        $/Participant: 997
+
+    2019
+        Participants: 926  Average: $997
+        Assets: $924,121
         RecordKeeper: OUR HEALTH, LLC
-    2018: MISO VOLUNTARY EMPLOYEE BENEFICIARY ASSOCIATION PLAN AND TRUST
-        Benefit Category: Healthcare
-        Codes:  4A
-        Participants: 911
-        Assets: 1434543
-        $/Participant: 1574
+
+    2018
+        Participants: 911  Average: $1,574
+        Assets: $1,434,543
         RecordKeeper: GIBSON INSURANCE AGENCY INC.
-    2017: MISO VOLUNTARY EMPLOYEE BENEFICIARY ASSOCIATION PLAN AND TRUST
-        Benefit Category: Healthcare
-        Codes:  4A
-        Participants: 900
-        Assets: 1046455
-        $/Participant: 1162
+
+    2017
+        Participants: 900  Average: $1,162
+        Assets: $1,046,455
         RecordKeeper: GIBSON INSURANCE AGENCY INC.
-   [503]
-    2022: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident] MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. EMPLOYEE BENEFIT PLAN [503]
+    2022  [codes: 4A4B4D4E4H4L]
         Participants: 
-    2021: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+    2021
         Participants: 
-    2020: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. EMPLOYEE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+    2020
         Participants: 
-    2019: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. EMPLOYEE BENEFIT PLAN
-        Benefit Category: Life insurance, Dental, Vision, Long-term disability
-        Codes:  4B4D4E4H4Q
+
+    2019  [codes: 4B4D4E4H4Q]
         Participants: 
-    2018: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. EMPLOYEE BENEFIT PLAN
-        Benefit Category: Life insurance, Dental, Vision, Long-term disability
-        Codes:  4B4D4E4H4Q
+
+    2018
         Participants: 
-    2017: MIDCONTINENT INDEPENDENT SYSTEM OPERATOR, INC. EMPLOYEE BENEFIT PLAN
-        Benefit Category: Life insurance, Dental, Vision, Long-term disability
-        Codes:  4B4D4E4H4Q
+
+    2017
         Participants: 

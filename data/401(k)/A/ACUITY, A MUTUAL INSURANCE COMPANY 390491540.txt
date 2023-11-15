@@ -1,12 +1,8 @@
-WI : SHEBOYGAN
-  ACUITY, A MUTUAL INSURANCE COMPANY  390491540
-   [002]
-    2022: ACUITY, A MUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2S2T3D 
-        Participants: 1811
-        Assets: 446792468
-        $/Participant: 246710
+ACUITY, A MUTUAL INSURANCE COMPANY  390491540 -- WI : SHEBOYGAN
+  [401(k)] ACUITY, A MUTUAL INSURANCE COMPANY 401(K) PLAN [002]
+    2022  [codes: 2E2F2G2J2S2T3D]
+        Participants: 1,811  Average: $246,710
+        Assets: $446,792,468
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -25,12 +21,10 @@ WI : SHEBOYGAN
                  : VANGUARD TARGET 2060
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INC
-    2021: ACUITY, A MUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2S2T3D 
-        Participants: 1727
-        Assets: 512388517
-        $/Participant: 296692
+
+    2021
+        Participants: 1,727  Average: $296,692
+        Assets: $512,388,517
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -48,12 +42,10 @@ WI : SHEBOYGAN
                  : VANGUARD TARGET 2060
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INC
-    2020: ACUITY, A MUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2S2T3D 
-        Participants: 1655
-        Assets: 442317337
-        $/Participant: 267261
+
+    2020
+        Participants: 1,655  Average: $267,261
+        Assets: $442,317,337
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST CO
@@ -71,12 +63,10 @@ WI : SHEBOYGAN
                  : VANGUARD TARGET 2060
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INC
-    2019: ACUITY, A MUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2S2T3D 
-        Participants: 1595
-        Assets: 365629695
-        $/Participant: 229234
+
+    2019
+        Participants: 1,595  Average: $229,234
+        Assets: $365,629,695
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - UNION BOND & TRUST COMPANY
@@ -94,12 +84,10 @@ WI : SHEBOYGAN
                  : VANGUARD TARGET 2060
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INC
-    2018: ACUITY, A MUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2S2T3D 
-        Participants: 1512
-        Assets: 285408758
-        $/Participant: 188762
+
+    2018
+        Participants: 1,512  Average: $188,762
+        Assets: $285,408,758
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - UNION BOND & TRUST COMPANY
@@ -117,12 +105,10 @@ WI : SHEBOYGAN
                  : VANGUARD TARGET 2060
                  : VANGUARD TARGET 2065
                  : VANGUARD TARGET INC
-    2017: ACUITY, A MUTUAL INSURANCE COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3H2R 
-        Participants: 1421
-        Assets: 292046372
-        $/Participant: 205521
+
+    2017  [codes: 2E2F2G2J2K2T3H2R]
+        Participants: 1,421  Average: $205,521
+        Assets: $292,046,372
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - UNION BOND & TRUST COMPANY
@@ -140,98 +126,83 @@ WI : SHEBOYGAN
                  : VANGUARD TARGET 2055
                  : VANGUARD TARGET 2060
                  : VANGUARD TARGET INC
-   [502]
-    2022: ACUITY GROUP HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H
-        Participants: 1554
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability] ACUITY GROUP HEALTH AND WELFARE PLAN [502]
+    2022  [codes: 4A4B4D4E4H]
+        Participants: 1,554
         Service Providers:
            - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATOR (Contract Administrator | Insurance agents and brokers)
            - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATOR (Contract Administrator | Insurance agents and brokers)
            - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
-    2021: ACUTIY GROUP HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability
-        Codes:  4A4B4D4E4H
-        Participants: 1497
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability] ACUTIY GROUP HEALTH AND WELFARE PLAN
+    2021
+        Participants: 1,497
         Service Providers:
            - LINCOLN NATIONAL LIFE INSURANCE CO : INSURANCE AGENT OR BROKER (Insurance agents and brokers)
            - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINSTRATOR (Contract Administrator | Insurance agents and brokers)
            - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATOR (Contract Administrator | Insurance agents and brokers)
            - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
-    2020: ACUITY LIFE HEALTH DENTAL PLAN
-        Benefit Category: Healthcare, Life insurance, Dental
-        Codes:  4A4B4D
-        Participants: 1347
+
+  [Healthcare, Life insurance, Dental] ACUITY LIFE HEALTH DENTAL PLAN
+    2020  [codes: 4A4B4D]
+        Participants: 1,347
         Service Providers:
            - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATOR (Insurance agents and brokers | Contract Administrator)
            - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATOR (Insurance agents and brokers | Contract Administrator)
            - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
-    2019: ACUITY LIFE HEALTH DENTAL PLAN
-        Benefit Category: Healthcare, Dental, Long-term disability
-        Codes:  4A4D4H
-        Participants: 1300
+
+    2019  [codes: 4A4D4H]
+        Participants: 1,300
         Service Providers:
            - UNITED HEALTHCARE SERVICES, INC. : CLAIMS PROCESSOR (Claims processing | Other services)
-    2018: ACUITY LIFE HEALTH DENTAL PLAN
-        Benefit Category: Healthcare, Dental, Long-term disability
-        Codes:  4A4D4H
-        Participants: 3260
+
+    2018
+        Participants: 3,260
         Service Providers:
            - UNITED HEALTHCARE SERVICES, INC : CLAIMS PROCESSOR (Claims processing | Other services)
-    2017: ACUITY LIFE AND ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
-        Participants: 1238
-   [504]
-    2020: ACUITY LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H4R
-        Participants: 1448
-    2019: ACUITY LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
-        Participants: 1357
-    2018: ACUITY LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
-        Participants: 1249
-    2017: ACUITY LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
-        Participants: 1236
-   [505]
-    2020: SECTION 125 CUSTOM BENEFIT
-        Benefit Category: Other
-        Codes:  4Q4R
+
+  [Life insurance] ACUITY LIFE AND ACCIDENTAL DEATH AND DISMEMBERMENT PLAN
+    2017  [codes: 4B]
+        Participants: 1,238
+
+  [Long-term disability] ACUITY LONG TERM DISABILITY PLAN [504]
+    2020  [codes: 4H4R]
+        Participants: 1,448
+
+    2019  [codes: 4H]
+        Participants: 1,357
+
+    2018
+        Participants: 1,249
+
+    2017
+        Participants: 1,236
+
+  [Other] SECTION 125 CUSTOM BENEFIT [505]
+    2020  [codes: 4Q4R]
         Participants: 122
-    2019: SECTION 125 CUSTOM BENEFIT
-        Benefit Category: Other
-        Codes:  4Q
+
+    2019  [codes: 4Q]
         Participants: 109
-    2018: SECTION 125 CUSTOM BENEFIT
-        Benefit Category: Other
-        Codes:  4Q
+
+    2018
         Participants: 89
-    2017: SECTION 125 CUSTOM BENEFIT
-        Benefit Category: Other
-        Codes:  4Q
+
+    2017
         Participants: 90
         Service Providers:
            - UMR : CLAIMS PROCESSING (Claims processing)
-   [506]
-    2020: ACUITY VOLUNTARY VISION PLAN
-        Benefit Category: Vision
-        Codes:  4E4R
-        Participants: 1085
-    2019: ACUITY VOLUNTARY VISION PLAN
-        Benefit Category: Vision
-        Codes:  4E
-        Participants: 1007
-    2018: ACUITY VOLUNTARY VISION PLAN
-        Benefit Category: Vision
-        Codes:  4E
+
+  [Vision] ACUITY VOLUNTARY VISION PLAN [506]
+    2020  [codes: 4E4R]
+        Participants: 1,085
+
+    2019  [codes: 4E]
+        Participants: 1,007
+
+    2018
         Participants: 951
-    2017: ACUITY VOLUNTARY VISION PLAN
-        Benefit Category: Vision
-        Codes:  4E
-        Participants: 2173
+
+    2017
+        Participants: 2,173

@@ -1,12 +1,8 @@
-SC : FORT MILL
-  WIKOFF COLOR CORPORATION  560633683
-   [001]
-    2021: WIKOFF COLOR CORPORATION PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2T3D 
-        Participants: 554
-        Assets: 30963467
-        $/Participant: 55890
+WIKOFF COLOR CORPORATION  560633683 -- SC : FORT MILL
+  [401(k)] WIKOFF COLOR CORPORATION PROFIT SHARING PLAN [001]
+    2021  [codes: 2E2F2G2J2T3D]
+        Participants: 554  Average: $55,890
+        Assets: $30,963,467
         RecordKeeper: WILSHIRE ASSOCIATES INCORPORATED
         Available Investments:
            - WELLS FARGO BANK, N.A.
@@ -16,13 +12,11 @@ SC : FORT MILL
                  : PRIN/BR S&P 500 INDEX CIT N
                  : PRIN/BR S&P MID INDEX CIT N
                  : PRIN/MFS VALUE CIT N
-   [002]
-    2021: WIKOFF COLOR CORPORATION 401(K) RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2S2T3D 
-        Participants: 36
-        Assets: 19222801
-        $/Participant: 533966
+
+  [401(k)] WIKOFF COLOR CORPORATION 401(K) RETIREMENT PLAN [002]
+    2021  [codes: 2E2F2G2J2S2T3D]
+        Participants: 36  Average: $533,966
+        Assets: $19,222,801
         RecordKeeper: WILSHIRE ADVISORS LLC
         Available Investments:
            - WELLS FARGO BANK, N.A.
@@ -33,12 +27,10 @@ SC : FORT MILL
                  : PRIN/MFS VALUE CIT N
            - WELLS FARGO
                  : GALLIARD STABLE RETURN PN
-    2020: WIKOFF COLOR CORPORATION 401(K) RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2S2T3D 
-        Participants: 501
-        Assets: 21201789
-        $/Participant: 42318
+
+    2020
+        Participants: 501  Average: $42,318
+        Assets: $21,201,789
         RecordKeeper: WILSHIRE ASSOCIATES INCORPORATED
         Available Investments:
            - WELLS FARGO BANK, N.A.
@@ -50,12 +42,11 @@ SC : FORT MILL
                  : WF/BLKRK RSLL 2000 IDX N CIT
            - WELLS FARGO
                  : WELLS FARGO STABLE RETRN N FD
-    2019: WIKOFF COLOR CORPORATION 401K RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J3D3H 
-        Participants: 519
-        Assets: 16797101
-        $/Participant: 32364
+
+  [401(k)] WIKOFF COLOR CORPORATION 401K RETIREMENT PLAN
+    2019  [codes: 2E2F2G2J3D3H]
+        Participants: 519  Average: $32,364
+        Assets: $16,797,101
         RecordKeeper: WELLS FARGO BANK, N.A.
         Available Investments:
            - WELLS FARGO BANK, N.A.
@@ -66,12 +57,10 @@ SC : FORT MILL
                  : WELLS FARGO/MFS VALUE CIT F
            - WELLS FARGO BANK, N.A
                  : STABLE RETURN FUND F
-    2018: WIKOFF COLOR CORPORATION 401K RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J3D3H 
-        Participants: 449
-        Assets: 15675666
-        $/Participant: 34912
+
+    2018
+        Participants: 449  Average: $34,912
+        Assets: $15,675,666
         RecordKeeper: WELLS FARGO BANK, N.A.
         Available Investments:
            - WELLS FARGO BANK, N.A.
@@ -82,12 +71,10 @@ SC : FORT MILL
                  : WELLS FARGO/MFS VALUE CIT AT
            - WELLS FARGO BANK, N.A
                  : STABLE RETURN FUND F
-    2017: WIKOFF COLOR CORPORATION 401K RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J3D3H 
-        Participants: 468
-        Assets: 12817362
-        $/Participant: 27387
+
+    2017
+        Participants: 468  Average: $27,387
+        Assets: $12,817,362
         RecordKeeper: WELLS FARGO BANK, N.A.
         Available Investments:
            - AMERIPRISE TRUST COMPANY
@@ -108,44 +95,37 @@ SC : FORT MILL
                  : WELLS FARGO/MFS VALUE CIT AT
                  : WELLS FARGO/MULTI-MANAGER SMALL CAP
                  : WELLS FARGO/TROWE PR LCG MGD CIT AT
-   [502]
-    2021: WIKOFF COLOR CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability] WIKOFF COLOR CORPORATION WELFARE BENEFIT PLAN [502]
+    2021  [codes: 4A4B4D4E4F4H]
         Participants: 426
-    2020: WIKOFF COLOR CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H
+
+    2020
         Participants: 427
-    2019: WIKOFF COLOR CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H
+
+    2019
         Participants: 423
         Service Providers:
            - TELADOC, INC. :  (Insurance services)
            - CIGNA :  (Insurance services)
            - INTEGRA EMPLOYER HEALTH, LLC :  (Contract Administrator)
-    2018: WIKOFF COLOR CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H
+
+    2018
         Participants: 453
         Service Providers:
            - CIGNA :  (Other services)
            - INTEGRA EMPLOYER HEALTH :  (Contract Administrator)
-    2017: WIKOFF COLOR CORPORATION WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H
+
+    2017
         Participants: 379
         Service Providers:
            - CIGNA : PPO NETWORK (Other services)
            - INTEGRA EMPLOYER HEALTH, LLC : CONTRACT ADMINISTRATOR (Contract Administrator)
-   [001]
-    2018: WIKOFF COLOR CORPORATION PROFIT SHARING PLAN
-        Benefit Category: Life insurance
-        Codes: 2E2F2G3D3H 4B
-        Participants: 518
-        Assets: 31635092
-        $/Participant: 61071
+
+  [Life insurance] WIKOFF COLOR CORPORATION PROFIT SHARING PLAN [001]
+    2018  [codes: 2E2F2G3D3H4B]
+        Participants: 518  Average: $61,071
+        Assets: $31,635,092
         RecordKeeper: ENTERPRISE VALUE CONSULTING, LLC
         Available Investments:
            - WELLS FARGO BANK, N.A.
@@ -155,12 +135,10 @@ SC : FORT MILL
                  : WF/BLACKROCK S&P 500 INDEX
                  : WF/BLACKROCK S&P MIDCAP INDEX CIT N
                  : WF/BLACKROCK US AGGREGATE BOND INDX
-    2017: WIKOFF COLOR CORPORATION PROFIT SHARING PLAN
-        Benefit Category: Life insurance
-        Codes: 2E2F2G3D3H 4B
-        Participants: 555
-        Assets: 33502063
-        $/Participant: 60364
+
+    2017
+        Participants: 555  Average: $60,364
+        Assets: $33,502,063
         RecordKeeper: ENTERPRISE VALUE CONSULTING, LLC
         Available Investments:
            - AMERIPRISE TRUST COMPANY
@@ -180,12 +158,10 @@ SC : FORT MILL
                  : WF/BLACKROCK S&P MIDCAP INDEX CIT N
                  : WF/BLACKROCK US AGGREGATE BOND INDX
                  : WF/DODGE&COX INTERMED BOND CIT AT
-    2020: WIKOFF COLOR CORPORATION PROFIT SHARING PLAN
-        Benefit Category: Other
-        Codes: 2E2F2G3D3H 
-        Participants: 507
-        Assets: 35843433
-        $/Participant: 70697
+
+    2020  [codes: 2E2F2G3D3H]
+        Participants: 507  Average: $70,697
+        Assets: $35,843,433
         RecordKeeper: WILSHIRE ASSOCIATES INCORPORATED
         Available Investments:
            - WELLS FARGO BANK, N.A.
@@ -197,12 +173,10 @@ SC : FORT MILL
                  : WF/BLKRK RSLL 2000 IDX N CIT
            - WELLS FARGO
                  : WELLS FARGO STABLE RETRN N FD
-    2019: WIKOFF COLOR CORPORATION PROFIT SHARING PLAN
-        Benefit Category: Other
-        Codes: 2E2F2G3D3H 
-        Participants: 600
-        Assets: 28919923
-        $/Participant: 48199
+
+    2019
+        Participants: 600  Average: $48,199
+        Assets: $28,919,923
         RecordKeeper: SOUTH PARK ADVISORS, LLC
         Available Investments:
            - WELLS FARGO BANK, N.A.

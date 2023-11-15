@@ -1,12 +1,8 @@
-NM : FARMINGTON
-  CITIZENS BANK  850021005
-   [003]
-    2022: CITIZENS BANK 401K RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 153
-        Assets: 12617415
-        $/Participant: 82466
+CITIZENS BANK  850021005 -- NM : FARMINGTON
+  [401(k)] CITIZENS BANK 401K RETIREMENT PLAN [003]
+    2022  [codes: 2E2F2G2J2K2T3D]
+        Participants: 153  Average: $82,466
+        Assets: $12,617,415
         RecordKeeper: BENEFIT PLANS ADMINISTRATORS
         Available Investments:
            - GOLDMAN SACHS MANAGEMENT
@@ -19,12 +15,10 @@ NM : FARMINGTON
                  : BLACKROCK SMALL CAP EQUITY INDEX FU
                  : CLEARBRIDGE LARGE CAP GROWTH FUND
                  : WESTERN ASSET CORE PLUS BOND FUND
-    2021: CITIZENS BANK 401K RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 159
-        Assets: 15468766
-        $/Participant: 97287
+
+    2021
+        Participants: 159  Average: $97,287
+        Assets: $15,468,766
         RecordKeeper: BENEFIT PLANS ADMINISTRATORS
         Available Investments:
            - HAND BENEFITS & TRUST COMPANY
@@ -35,12 +29,10 @@ NM : FARMINGTON
                  : BLACKROCK SMALL CAP EQUITY INDEX FU
                  : CLEARBRIDGE LARGE CAP GROWTH FUND
                  : WESTERN ASSET CORE PLUS BOND FUND
-    2020: CITIZENS BANK 401K RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 167
-        Assets: 14056752
-        $/Participant: 84172
+
+    2020
+        Participants: 167  Average: $84,172
+        Assets: $14,056,752
         RecordKeeper: BENEFIT PLANS ADMINISTRATORS
         Available Investments:
            - HAND BENEFITS & TRUST COMPANY
@@ -51,119 +43,93 @@ NM : FARMINGTON
                  : BLACKROCK SMALL CAP EQUITY INDEX FU
                  : CLEARBRIDGE LARGE CAP GROWTH FUND
                  : WESTERN ASSET CORE PLUS BOND FUND
-    2019: CITIZENS BANK 401K RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 157
-        Assets: 11908666
-        $/Participant: 75851
+
+    2019
+        Participants: 157  Average: $75,851
+        Assets: $11,908,666
         RecordKeeper: MAINSTREET ADVISORS-CHICAGO
-    2018: CITIZENS BANK 401K RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 151
-        Assets: 9979161
-        $/Participant: 66087
+
+    2018
+        Participants: 151  Average: $66,087
+        Assets: $9,979,161
         RecordKeeper: MAINSTREET ADVISORS-CHICAGO
-    2017: CITIZENS BANK 401K RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 146
-        Assets: 11053873
-        $/Participant: 75711
+
+    2017
+        Participants: 146  Average: $75,711
+        Assets: $11,053,873
         RecordKeeper: BENEFIT PLANS ADMINISTRATORS
-   [002]
-    2022: CITIZENS BANK EMPLOYEE STOCK OWNERSHIP AND RETIREMENT SAVINGS PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2I2P2Q3H3I 
-        Participants: 130
-        Assets: 22609578
-        $/Participant: 173919
+
+  [Employee Stock Ownership Plan] CITIZENS BANK EMPLOYEE STOCK OWNERSHIP AND RETIREMENT SAVINGS PLAN [002]
+    2022  [codes: 2E2I2P2Q3H3I]
+        Participants: 130  Average: $173,919
+        Assets: $22,609,578
         Service Providers:
            - GREATBANC TRUST COMPANY : N/A (Investment advisory(plan))
            - TRANSITION FINANCE STRATEGIES : N/A (Contract Administrator)
-    2021: CITIZENS BANK EMPLOYEE STOCK OWNERSHIP AND RETIREMENT SAVINGS PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2I2O2Q3H3I 
-        Participants: 135
-        Assets: 27266756
-        $/Participant: 201975
+
+    2021  [codes: 2E2I2O2Q3H3I]
+        Participants: 135  Average: $201,975
+        Assets: $27,266,756
         Service Providers:
            - GREATBANC TRUST COMPANY : N/A (Investment advisory(plan))
            - TRANSITION FINANCE STRATEGIES : N/A (Contract Administrator)
-    2020: CITIZENS BANK EMPLOYEE STOCK OWNERSHIP AND RETIREMENT SAVINGS PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2I2O2Q3H3I 
-        Participants: 131
-        Assets: 29672840
-        $/Participant: 226510
+
+    2020
+        Participants: 131  Average: $226,510
+        Assets: $29,672,840
         Service Providers:
            - GREATBANC TRUST COMPANY : N/A (Investment advisory(plan))
            - TRANSITION FINANCE STRATEGIES : N/A (Contract Administrator)
            - VINING SPARKS IBG, L.P. : N/A (Valuation(appraisals, etc.))
-    2019: CITIZENS BANK EMPLOYEE STOCK OWNERSHIP AND RETIREMENT SAVINGS PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2I2O2Q3H3I 
-        Participants: 123
-        Assets: 31642390
-        $/Participant: 257255
+
+    2019
+        Participants: 123  Average: $257,255
+        Assets: $31,642,390
         Service Providers:
            - GREATBANC TRUST COMPANY : N/A (Investment advisory(plan))
            - TRANSITION FINANCE STRATEGIES : N/A (Contract Administrator)
            - VINING SPARKS IBG, L.P. : N/A (Valuation(appraisals, etc.))
-    2018: CITIZENS BANK EMPLOYEE STOCK OWNERSHIP AND RETIREMENT SAVINGS PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2I2O2Q3H3I 
-        Participants: 122
-        Assets: 33433469
-        $/Participant: 274044
+
+    2018
+        Participants: 122  Average: $274,044
+        Assets: $33,433,469
         Service Providers:
            - GREATBANC TRUST COMPANY : N/A (Investment advisory(plan))
            - LEWIS ROCA ROTHGERBER CHRISTIE : N/A (Legal)
            - TRANSITION FINANCE STRATEGIES : N/A (Contract Administrator)
            - VINING SPARKS : N/A (Valuation(appraisals, etc.))
-    2017: CITIZENS BANK EMPLOYEE STOCK OWNERSHIP AND RETIREMENT SAVINGS PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2I2O2Q3H3I 
-        Participants: 123
-        Assets: 36316107
-        $/Participant: 295252
+
+    2017
+        Participants: 123  Average: $295,252
+        Assets: $36,316,107
         Service Providers:
            - GREATBANC TRUST COMPANY : N/A (Investment advisory(plan))
            - LEWIS ROCA ROTHGERBER CHRISTIE : N/A (Legal)
            - TRANSITION FINANCE STRATEGIES : N/A (Contract Administrator)
            - VINING SPARKS : N/A (Valuation(appraisals, etc.))
-   [503]
-    2022: THE CITIZENS BANK CAFETERIA PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+  [Life insurance] THE CITIZENS BANK CAFETERIA PLAN [503]
+    2022  [codes: 4B]
         Participants: 
-    2021: THE CITIZENS BANK CAFETERIA PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2021
         Participants: 
-    2020: THE CITIZENS BANK CAFETERIA PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2020
         Participants: 
-    2019: THE CITIZENS BANK CAFETERIA PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2019
         Participants: 
-    2018: THE CITIZENS BANK CAFETERIA PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2018
         Participants: 
-    2017: THE CITIZENS BANK CAFETERIA PLAN
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2017
         Participants: 
-   [502]
-    2018: THE CITIZENS BANK LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+  [Long-term disability] THE CITIZENS BANK LONG TERM DISABILITY PLAN [502]
+    2018  [codes: 4H]
         Participants: 
-    2017: THE CITIZENS BANK LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2017
         Participants: 

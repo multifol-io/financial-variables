@@ -1,11 +1,8 @@
-NC : CHARLOTTE
-  ORTHOCAROLINA P.A.  561093722
-    2022: ORTHOCAROLINA 401(K)AND PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 2609
-        Assets: 281375973
-        $/Participant: 107848
+ORTHOCAROLINA P.A.  561093722 -- NC : CHARLOTTE
+  [401(k)] ORTHOCAROLINA 401(K)AND PROFIT SHARING PLAN
+    2022  [codes: 2E2F2G2J2K]
+        Participants: 2,609  Average: $107,848
+        Assets: $281,375,973
         RecordKeeper: VANGUARD GROUP INC
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
@@ -22,61 +19,48 @@ NC : CHARLOTTE
                  : VANGUARD TRGT RETRMT 2055 TRUST II
                  : VANGUARD TRGT RETRMT 2060 TRUST II
                  : VANGUARD TRGT RETRMT 2065 TRUST II
-    2021: ORTHOCAROLINA 401(K)AND PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 2504
-        Assets: 343099830
-        $/Participant: 137020
+
+    2021
+        Participants: 2,504  Average: $137,020
+        Assets: $343,099,830
         RecordKeeper: VANGUARD GROUP INC
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
-    2020: ORTHOCAROLINA 401(K)AND PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 2722
-        Assets: 311277832
-        $/Participant: 114356
+
+    2020
+        Participants: 2,722  Average: $114,356
+        Assets: $311,277,832
         RecordKeeper: VANGUARD GROUP INC
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST
-   [503]
-    2022: ORTHOCAROLINA P.A. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] ORTHOCAROLINA P.A. HEALTH AND WELFARE PLAN [503]
+    2022  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
-    2021: ORTHOCAROLINA P.A. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2021
         Participants: 
-    2020: ORTHOCAROLINA P.A. HEALTH AND WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2020
         Participants: 
-   [003]
-    2022: ORTHOCAROLINA CASH BALANCE PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1C 
-        Participants: 128
-        Assets: 27676697
-        $/Participant: 216224
+
+  [Pension] ORTHOCAROLINA CASH BALANCE PENSION PLAN [003]
+    2022  [codes: 1C]
+        Participants: 128  Average: $216,224
+        Assets: $27,676,697
         RecordKeeper: BRANCH BANKING & TRUST COMPANY
         Available Investments:
            - HAND BENEFITS & TRUST COMPANY
                  : STERLING CAPITAL CORE FIXED INCOME
-    2021: ORTHOCAROLINA CASH BALANCE PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1C 
-        Participants: 131
-        Assets: 31110527
-        $/Participant: 237484
+
+    2021
+        Participants: 131  Average: $237,484
+        Assets: $31,110,527
         RecordKeeper: BRANCH BANKING & TRUST COMPANY
-    2020: ORTHOCAROLINA CASH BALANCE PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1C 
-        Participants: 128
-        Assets: 34542571
-        $/Participant: 269863
+
+    2020
+        Participants: 128  Average: $269,863
+        Assets: $34,542,571
         RecordKeeper: BRANCH BANKING & TRUST COMPANY

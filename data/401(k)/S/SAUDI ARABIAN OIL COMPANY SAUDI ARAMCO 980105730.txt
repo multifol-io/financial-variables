@@ -1,12 +1,8 @@
-TX : HOUSTON
-  SAUDI ARABIAN OIL COMPANY SAUDI ARAMCO  980105730
-   [002]
-    2018: THE SAVINGS PLAN OF THE SAUDI ARABIAN OIL COMPANY
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 4138
-        Assets: 2278682844
-        $/Participant: 550672
+SAUDI ARABIAN OIL COMPANY SAUDI ARAMCO  980105730 -- TX : HOUSTON
+  [401(k)] THE SAVINGS PLAN OF THE SAUDI ARABIAN OIL COMPANY [002]
+    2018  [codes: 2E2F2G2J2K2S2T3H]
+        Participants: 4,138  Average: $550,672
+        Assets: $2,278,682,844
         RecordKeeper: VANGUARD GROUP INC.
         Available Investments:
            - METLIFE
@@ -24,12 +20,10 @@ TX : HOUSTON
                  : VFTC TARGET RET 2060 TRUST II
                  : VFTC TARGET RET 2065 TRUST II
                  : VFTC TARGET RET INCOME TRUST II
-    2017: THE SAVINGS PLAN OF THE SAUDI ARABIAN OIL COMPANY
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 4243
-        Assets: 2367340623
-        $/Participant: 557940
+
+    2017
+        Participants: 4,243  Average: $557,940
+        Assets: $2,367,340,623
         RecordKeeper: VANGUARD GROUP INC.
         Available Investments:
            - METLIFE
@@ -47,38 +41,30 @@ TX : HOUSTON
                  : VFTC TARGET RET 2060 TRUST II
                  : VFTC TARGET RET 2065 TRUST II
                  : VFTC TARGET RET INCOME TRUST II
-   [501]
-    2018: U. S. DOLLAR WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
-        Codes:  4A4B4D4F4H
-        Participants: 
-        Assets: 5808893
-        $/Participant: 
+
+  [Healthcare, Life insurance, Dental, Short-term disability, Long-term disability] U. S. DOLLAR WELFARE PLAN [501]
+    2018  [codes: 4A4B4D4F4H]
+        Participants:   Average: $
+        Assets: $5,808,893
         RecordKeeper: JP MORGAN CHASE BANK N.A.
-    2017: U. S. DOLLAR WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
-        Codes:  4A4B4D4F4H
-        Participants: 
-        Assets: 8311335
-        $/Participant: 
+
+    2017
+        Participants:   Average: $
+        Assets: $8,311,335
         RecordKeeper: CONEXIS
-   [001]
-    2018: RETIREMENT INCOME PLAN OF SAUDI ARABIAN OIL COMPANY
-        Benefit Category: Pension
-        Codes: 1A1E3H 
-        Participants: 2957
-        Assets: 2079546077
-        $/Participant: 703262
+
+  [Pension] RETIREMENT INCOME PLAN OF SAUDI ARABIAN OIL COMPANY [001]
+    2018  [codes: 1A1E3H]
+        Participants: 2,957  Average: $703,262
+        Assets: $2,079,546,077
         RecordKeeper: SUSTAINALYTICS
         Available Investments:
            - BRIDGEWATER PUREALPHA MAJOR MARKETS
                  : BRIDGEWATER PUREALPHA MAJOR MARKETS
-    2017: RETIREMENT INCOME PLAN OF SAUDI ARABIAN OIL COMPANY
-        Benefit Category: Pension
-        Codes: 1A1E3H 
-        Participants: 3120
-        Assets: 2193029734
-        $/Participant: 702894
+
+    2017
+        Participants: 3,120  Average: $702,894
+        Assets: $2,193,029,734
         RecordKeeper: ECI THREE REIT INC
         Available Investments:
            - BRIDGEWATER PUREALPHA MAJOR MARKETS

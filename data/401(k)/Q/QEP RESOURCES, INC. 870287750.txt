@@ -1,69 +1,53 @@
-CO : DENVER
-  QEP RESOURCES, INC.  870287750
-   [002]
-    2020: QEP RESOURCES, INC. EMPLOYEE INVESTMENT PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2F2G2J2K2O2S2T 
+QEP RESOURCES, INC.  870287750 -- CO : DENVER
+  [401(k), Employee Stock Ownership Plan] QEP RESOURCES, INC. EMPLOYEE INVESTMENT PLAN [002]
+    2020  [codes: 2E2F2G2J2K2O2S2T]
         Participants: 0
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
-    2019: QEP RESOURCES, INC. EMPLOYEE INVESTMENT PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2F2G2J2K2O2S2T 
-        Participants: 591
-        Assets: 91002450
-        $/Participant: 153980
+
+    2019
+        Participants: 591  Average: $153,980
+        Assets: $91,002,450
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
-    2018: QEP RESOURCES, INC. EMPLOYEE INVESTMENT PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2F2G2J2K2O2S2T2E 
-        Participants: 799
-        Assets: 104080542
-        $/Participant: 130263
+
+    2018  [codes: 2F2G2J2K2O2S2T2E]
+        Participants: 799  Average: $130,263
+        Assets: $104,080,542
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
-    2017: QEP RESOURCES, INC. EMPLOYEE INVESTMENT PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2E2F2G2J2K2O2S2T 
-        Participants: 916
-        Assets: 121607705
-        $/Participant: 132759
+
+    2017  [codes: 2E2F2G2J2K2O2S2T]
+        Participants: 916  Average: $132,759
+        Assets: $121,607,705
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
-   [501]
-    2020: QEP RESOURCES, INC. UMBRELLA BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4G4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident] QEP RESOURCES, INC. UMBRELLA BENEFITS PLAN [501]
+    2020  [codes: 4A4B4D4E4G4H4L4Q]
         Participants: 
-    2019: QEP RESOURCES, INC. UMBRELLA BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4G4H4L4Q
+
+    2019
         Participants: 
-    2018: QEP RESOURCES, INC. UMBRELLA BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4G4H4L4Q
+
+    2018
         Participants: 
-    2017: QEP RESOURCES, INC. UMBRELLA BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4G4H4L4Q
+
+    2017
         Participants: 
-TX : MIDLAND
-   [001]
-    2022: QEP RESOURCES, INC. RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 212
-        Assets: 90978963
-        $/Participant: 429146
+ -- TX : MIDLAND
+  [Pension] QEP RESOURCES, INC. RETIREMENT PLAN [001]
+    2022  [codes: 1A1I]
+        Participants: 212  Average: $429,146
+        Assets: $90,978,963
         Service Providers:
            - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar) | Float revenue | Securities brokerage | Direct payment from the plan)
            - WILLIS TOWERS WATSON US LLC :  (Actuarial | Consulting(pension) | Direct payment from the plan)
@@ -82,12 +66,10 @@ TX : MIDLAND
                  : US SMALL CAP OPPORTUNISTIC VALUE EQ
            - WELLINGTON TRUST COMPANY NA
                  : WELLINGTON TRUST CORP LONG BOND
-    2021: QEP RESOURCES, INC. RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 214
-        Assets: 125425435
-        $/Participant: 586100
+
+    2021
+        Participants: 214  Average: $586,100
+        Assets: $125,425,435
         Service Providers:
            - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar) | Float revenue | Securities brokerage | Direct payment from the plan)
            - WILLIS TOWERS WATSON US LLC :  (Actuarial | Consulting(pension) | Direct payment from the plan)
@@ -105,13 +87,10 @@ TX : MIDLAND
                  : US SMALL CAP OPPORTUNISTIC VALUE EQ
            - WELLINGTON TRUST COMPANY NA
                  : WELLINGTON TRUST CORP LONG BOND
-CO : DENVER
-    2020: QEP RESOURCES, INC. RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 214
-        Assets: 128061348
-        $/Participant: 598417
+ -- CO : DENVER
+    2020
+        Participants: 214  Average: $598,417
+        Assets: $128,061,348
         Service Providers:
            - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar) | Float revenue | Securities brokerage | Direct payment from the plan)
            - WILLIS TOWERS WATSON US LLC :  (Actuarial | Consulting(pension) | Direct payment from the plan)
@@ -129,12 +108,10 @@ CO : DENVER
                  : US SMALL CAP OPPORTUNISTIC VALUE EQ
            - WELLINGTON TRUST COMPANY NA
                  : WELLINGTON TRUST CORP LONG BOND
-    2019: QEP RESOURCES, INC. RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 214
-        Assets: 117939766
-        $/Participant: 551120
+
+    2019
+        Participants: 214  Average: $551,120
+        Assets: $117,939,766
         Service Providers:
            - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar) | Float revenue | Securities brokerage | Direct payment from the plan)
            - WILLIS TOWERS WATSON US LLC :  (Actuarial | Consulting(pension) | Direct payment from the plan)
@@ -155,12 +132,10 @@ CO : DENVER
                  : US SMALL CAP OPPORTUNISTIC VALUE EQ
            - WELLINGTON TRUST COMPANY, NA
                  : WELLINGTON TRUST CORP LONG BOND
-    2018: QEP RESOURCES, INC. RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 214
-        Assets: 98285458
-        $/Participant: 459277
+
+    2018
+        Participants: 214  Average: $459,277
+        Assets: $98,285,458
         Service Providers:
            - THE BANK OF NEW YORK MELLON : TRUSTEE (Trustee(bank, trust company, or similar) | Float revenue | Securities brokerage | Direct payment from the plan)
            - TOWERS WATSON DELAWARE, INC. :  (Actuarial | Direct payment from the plan)
@@ -181,12 +156,10 @@ CO : DENVER
                  : US SMALL CAP OPPORTUNISTIC VALUE EQ
            - WELLINGTON TRUST COMPANY, NA
                  : WELLINGTON TRUST CORP LONG BOND
-    2017: QEP RESOURCES, INC. RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 214
-        Assets: 104898167
-        $/Participant: 490178
+
+    2017
+        Participants: 214  Average: $490,178
+        Assets: $104,898,167
         Service Providers:
            - MELLON GSS COMPENSATION : TRUSTEE (Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - TOWERS WATSON DELAWARE, INC. :  (Actuarial | Direct payment from the plan)

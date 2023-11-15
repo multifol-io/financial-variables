@@ -1,12 +1,8 @@
-NM : ALBUQUERQUE
-  PNM RESOURCES, INC.  850468296
-   [005]
-    2022: PNM RESOURCES, INC. RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 2704
-        Assets: 707275306
-        $/Participant: 261566
+PNM RESOURCES, INC.  850468296 -- NM : ALBUQUERQUE
+  [401(k)] PNM RESOURCES, INC. RETIREMENT SAVINGS PLAN [005]
+    2022  [codes: 2E2F2G2J2K]
+        Participants: 2,704  Average: $261,566
+        Assets: $707,275,306
         RecordKeeper: RVK
         Available Investments:
            - ACADIAN ASSET MANAGEMENT LLC
@@ -30,12 +26,10 @@ NM : ALBUQUERQUE
                  : VFTC RETIREMENT SAVINGS TRUST III
            - WELLS FARGO
                  : WELLS FARGO DISCOVERY E1
-    2021: PNM RESOURCES, INC. RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 2694
-        Assets: 883981316
-        $/Participant: 328129
+
+    2021
+        Participants: 2,694  Average: $328,129
+        Assets: $883,981,316
         Service Providers:
            - VANGUARD GROUP INC : N/A (Participant loan processing | Investment advisory(participants) | Direct payment from the plan)
         Available Investments:
@@ -45,12 +39,10 @@ NM : ALBUQUERQUE
                  : VFTC RETIREMENT SAVINGS TRUST III
            - WELLS FARGO
                  : WELLS FARGO DISCOVERY E1
-    2020: PNM RESOURCES, INC. RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 2692
-        Assets: 817074463
-        $/Participant: 303519
+
+    2020
+        Participants: 2,692  Average: $303,519
+        Assets: $817,074,463
         Service Providers:
            - VANGUARD GROUP INC : N/A (Participant loan processing | Investment advisory(participants) | Direct payment from the plan)
         Available Investments:
@@ -60,12 +52,10 @@ NM : ALBUQUERQUE
                  : VFTC RETIREMENT SAVINGS TRUST III
            - WELLS FARGO
                  : WELLS FARGO DISCOVERY E1
-    2019: PNM RESOURCES, INC. RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 2677
-        Assets: 745997011
-        $/Participant: 278669
+
+    2019
+        Participants: 2,677  Average: $278,669
+        Assets: $745,997,011
         Service Providers:
            - VANGUARD GROUP INC : N/A (Participant loan processing | Investment advisory(participants) | Direct payment from the plan)
         Available Investments:
@@ -75,12 +65,10 @@ NM : ALBUQUERQUE
                  : VFTC RETIREMENT SAVINGS TRUST III
            - WELLS FARGO
                  : WELLS FARGO DISCOVERY E1
-    2018: PNM RESOURCES, INC. RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 2675
-        Assets: 636333068
-        $/Participant: 237881
+
+    2018
+        Participants: 2,675  Average: $237,881
+        Assets: $636,333,068
         Service Providers:
            - VANGUARD GROUP INC : N/A (Participant loan processing | Investment advisory(participants) | Direct payment from the plan)
         Available Investments:
@@ -88,12 +76,10 @@ NM : ALBUQUERQUE
                  : PZENA INTRNLEXP VACWII1
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
-    2017: PNM RESOURCES, INC. RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K 
-        Participants: 2534
-        Assets: 679257365
-        $/Participant: 268057
+
+    2017
+        Participants: 2,534  Average: $268,057
+        Assets: $679,257,365
         Service Providers:
            - VANGUARD GROUP INC : N/A (Participant loan processing | Investment advisory(participants) | Direct payment from the plan)
         Available Investments:
@@ -102,10 +88,9 @@ NM : ALBUQUERQUE
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVING TRUST IV
                  : VFTC RETIREMENT SAVINGS TRUST III
-   [603]
-    2022: PNM RESOURCES, INC. COMPREHENSIVE HEALTH PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
+
+  [Healthcare, Dental, Vision] PNM RESOURCES, INC. COMPREHENSIVE HEALTH PLAN [603]
+    2022  [codes: 4A4D4E4Q]
         Participants: 
         Service Providers:
            - BCBS : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
@@ -113,9 +98,8 @@ NM : ALBUQUERQUE
            - EXPRESS SCRIPTS : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
            - DELTA DENTAL PLAN OF NM : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
            - WAGEWORKS : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
-    2021: PNM RESOURCES, INC. COMPREHENSIVE HEALTH PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
+
+    2021
         Participants: 
         Service Providers:
            - BCBS : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
@@ -123,12 +107,10 @@ NM : ALBUQUERQUE
            - EXPRESS SCRIPTS : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
            - DELTA DENTAL PLAN OF NM : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
            - WAGEWORKS : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
-    2020: PNM RESOURCES, INC. COMPREHENSIVE HEALTH PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
-        Participants: 
-        Assets: 206
-        $/Participant: 
+
+    2020
+        Participants:   Average: $
+        Assets: $206
         Service Providers:
            - BCBS : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
            - PRESBYTERIAN : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
@@ -136,65 +118,53 @@ NM : ALBUQUERQUE
            - DELTA DENTAL PLAN OF NM : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
            - WELLS FARGO : N/A (Trustee(bank, trust company, or similar) | Direct payment from the plan)
            - WAGEWORKS : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
-    2019: PNM RESOURCES, INC. COMPREHENSIVE HEALTH PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
-        Participants: 
-        Assets: 206
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $206
         Service Providers:
            - BCBS : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
            - PRESBYTERIAN : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
            - DELTA DENTAL PLAN OF NM : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
            - EXPRESS SCRIPTS : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
            - WAGEWORKS : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
-    2018: PNM RESOURCES, INC. COMPREHENSIVE HEALTH PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
-        Participants: 
-        Assets: 1211
-        $/Participant: 
+
+    2018
+        Participants:   Average: $
+        Assets: $1,211
         Service Providers:
            - BCBS : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
            - PRESBYTERIAN : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
            - HEALTH SCOPE BENEFITS : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
            - DELTA DENTAL PLAN OF NM : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
-    2017: PNM RESOURCES, INC. COMPREHENSIVE HEALTH PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
-        Participants: 
-        Assets: 13574
-        $/Participant: 
+
+    2017
+        Participants:   Average: $
+        Assets: $13,574
         Service Providers:
            - HEALTH SCOPE BENEFITS : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
            - DELTA DENTAL PLAN OF NM : N/A (Claims processing | Contract Administrator | Direct payment from the plan)
-   [604]
-    2022: PNM RESOURCES, INC. COMPREHENSIVE RETIREE HEALTH PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
-        Participants: 
-        Assets: 79218983
-        $/Participant: 
+
+  [Healthcare, Dental, Vision] PNM RESOURCES, INC. COMPREHENSIVE RETIREE HEALTH PLAN [604]
+    2022
+        Participants:   Average: $
+        Assets: $79,218,983
         Service Providers:
            - BANK OF NEW YORK MELLON : N/A (Trustee(bank, trust company, or similar) | Custodial(securities) | Direct payment from the plan | Custodial(other than securities))
            - SNELL & WILMER : N/A (Direct payment from the plan | Legal)
            - TOWERS WATSON : N/A (Actuarial | Account maintenance fees | Direct payment from the plan)
-    2021: PNM RESOURCES, INC. COMPREHENSIVE RETIREE HEALTH PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
-        Participants: 
-        Assets: 108525984
-        $/Participant: 
+
+    2021
+        Participants:   Average: $
+        Assets: $108,525,984
         Service Providers:
            - BANK OF NEW YORK MELLON : N/A (Trustee(bank, trust company, or similar) | Custodial(securities) | Direct payment from the plan | Custodial(other than securities))
            - SNELL & WILMER : N/A (Direct payment from the plan | Legal)
            - TOWERS WATSON : N/A (Actuarial | Account maintenance fees | Direct payment from the plan)
-    2020: PNM RESOURCES, INC. COMPREHENSIVE RETIREE HEALTH PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
-        Participants: 
-        Assets: 106330169
-        $/Participant: 
+
+    2020
+        Participants:   Average: $
+        Assets: $106,330,169
         Service Providers:
            - BANK OF NEW YORK MELLON : N/A (Trustee(bank, trust company, or similar) | Custodial(securities) | Direct payment from the plan | Custodial(other than securities))
            - MILLIMAN : N/A (Account maintenance fees | Direct payment from the plan)
@@ -202,12 +172,10 @@ NM : ALBUQUERQUE
         Available Investments:
            - JANUS CAPITAL MANAGEMENT
                  : INTECH ENHANCED PLUS FUND LLC
-    2019: PNM RESOURCES, INC. COMPREHENSIVE RETIREE HEALTH PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
-        Participants: 
-        Assets: 97434020
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $97,434,020
         Service Providers:
            - BANK OF NEW YORK MELLON : N/A (Trustee(bank, trust company, or similar) | Custodial(securities) | Direct payment from the plan | Custodial(other than securities))
            - TOWERS WATSON : N/A (Actuarial | Account maintenance fees | Direct payment from the plan)
@@ -215,87 +183,69 @@ NM : ALBUQUERQUE
         Available Investments:
            - JANUS CAPITAL MANAGEMENT
                  : INTECH ENHANCED PLUS FUND LLC
-    2018: PNM RESOURCES, INC. COMPREHENSIVE RETIREE HEALTH PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
-        Participants: 
-        Assets: 78273537
-        $/Participant: 
+
+    2018
+        Participants:   Average: $
+        Assets: $78,273,537
         Service Providers:
            - BANK OF NEW YORK MELLON : N/A (Trustee(bank, trust company, or similar) | Custodial(securities) | Direct payment from the plan | Custodial(other than securities))
            - TOWERS WATSON : N/A (Actuarial | Account maintenance fees | Direct payment from the plan)
         Available Investments:
            - JANUS CAPITAL MANAGEMENT
                  : INTECH ENHANCED PLUS FUND LLC
-    2017: PNM RESOURCES, INC. COMPREHENSIVE RETIREE HEALTH PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
-        Participants: 
-        Assets: 89724172
-        $/Participant: 
+
+    2017
+        Participants:   Average: $
+        Assets: $89,724,172
         Service Providers:
            - BANK OF NEW YORK MELLON : N/A (Trustee(bank, trust company, or similar) | Custodial(securities) | Direct payment from the plan | Custodial(other than securities))
            - TOWERS WATSON : N/A (Actuarial | Account maintenance fees | Direct payment from the plan)
         Available Investments:
            - JANUS CAPITAL MANAGEMENT
                  : INTECH ENHANCED PLUS FUND LLC
-   [602]
-    2022: PNM RESOURCES, INC. BENEFITS MY WAY PLAN
-        Benefit Category: Life insurance, Travel accident
-        Codes:  4B4L4Q
+
+  [Life insurance, Travel accident] PNM RESOURCES, INC. BENEFITS MY WAY PLAN [602]
+    2022  [codes: 4B4L4Q]
         Participants: 
-    2021: PNM RESOURCES, INC. BENEFITS MY WAY PLAN
-        Benefit Category: Life insurance, Travel accident
-        Codes:  4B4L4Q
+
+    2021
         Participants: 
-    2020: PNM RESOURCES, INC. BENEFITS MY WAY PLAN
-        Benefit Category: Life insurance, Travel accident
-        Codes:  4B4L4Q
+
+    2020
         Participants: 
-    2019: PNM RESOURCES, INC. BENEFITS MY WAY PLAN
-        Benefit Category: Life insurance, Travel accident
-        Codes:  4B4L4Q
+
+    2019
         Participants: 
-    2018: PNM RESOURCES, INC. BENEFITS MY WAY PLAN
-        Benefit Category: Life insurance, Travel accident
-        Codes:  4B4L4Q
+
+    2018
         Participants: 
-    2017: PNM RESOURCES, INC. BENEFITS MY WAY PLAN
-        Benefit Category: Life insurance, Travel accident
-        Codes:  4B4L4Q
+
+    2017
         Participants: 
-   [605]
-    2022: PNM RESOURCES, INC. SUPPLEMENTAL BENEFITS PLAN
-        Benefit Category: Long-term disability, Travel accident
-        Codes:  4H4L
+
+  [Long-term disability, Travel accident] PNM RESOURCES, INC. SUPPLEMENTAL BENEFITS PLAN [605]
+    2022  [codes: 4H4L]
         Participants: 
-    2021: PNM RESOURCES, INC. SUPPLEMENTAL BENEFITS PLAN
-        Benefit Category: Long-term disability, Travel accident
-        Codes:  4H4L
+
+    2021
         Participants: 
-    2020: PNM RESOURCES, INC. SUPPLEMENTAL BENEFITS PLAN
-        Benefit Category: Long-term disability, Travel accident
-        Codes:  4H4L
+
+    2020
         Participants: 
-    2019: PNM RESOURCES, INC. SUPPLEMENTAL BENEFITS PLAN
-        Benefit Category: Long-term disability, Travel accident
-        Codes:  4H4L
+
+    2019
         Participants: 
-    2018: PNM RESOURCES, INC. SUPPLEMENTAL BENEFITS PLAN
-        Benefit Category: Long-term disability, Travel accident
-        Codes:  4H4L
+
+    2018
         Participants: 
-    2017: PNM RESOURCES, INC. SUPPLEMENTAL BENEFITS PLAN
-        Benefit Category: Long-term disability, Travel accident
-        Codes:  4H4L
+
+    2017
         Participants: 
-   [001]
-    2022: PNM RESOURCES, INC. EMPLOYEES' RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1E1I3H 
-        Participants: 2994
-        Assets: 410671966
-        $/Participant: 137164
+
+  [Pension] PNM RESOURCES, INC. EMPLOYEES' RETIREMENT PLAN [001]
+    2022  [codes: 1A1E1I3H]
+        Participants: 2,994  Average: $137,164
+        Assets: $410,671,966
         Service Providers:
            - RV KUHNS & ASSOCIATES : N/A (Account maintenance fees | Direct payment from the plan | Contract Administrator)
            - MILLIMAN : N/A (Account maintenance fees | Direct payment from the plan | Contract Administrator)
@@ -312,12 +262,10 @@ NM : ALBUQUERQUE
                  : EB TEMPORARY INVESTMENT FUND II
            - PNM RESOURCES, INC.
                  : PNM RESOURCES, INC. MASTER TRUST
-    2021: PNM RESOURCES, INC. EMPLOYEES' RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1E1I3H 
-        Participants: 3082
-        Assets: 576937978
-        $/Participant: 187195
+
+    2021
+        Participants: 3,082  Average: $187,195
+        Assets: $576,937,978
         Service Providers:
            - BANK OF NEW YORK MELLON : N/A (Direct payment from the plan | Trustee(bank, trust company, or similar) | Investment management | Investment management fees paid directly by plan)
            - MILLIMAN : N/A (Account maintenance fees | Direct payment from the plan | Contract Administrator)
@@ -331,12 +279,10 @@ NM : ALBUQUERQUE
                  : EB TEMPORARY INVESTMENT FUND II
            - PNM RESOURCES, INC.
                  : PNM RESOURCES, INC. MASTER TRUST
-    2020: PNM RESOURCES, INC. EMPLOYEES' RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1E1I3H 
-        Participants: 3165
-        Assets: 587770486
-        $/Participant: 185709
+
+    2020
+        Participants: 3,165  Average: $185,709
+        Assets: $587,770,486
         Service Providers:
            - BANK OF NEW YORK MELLON : N/A (Direct payment from the plan | Trustee(bank, trust company, or similar) | Custodial(securities) | Investment management)
            - MILLIMAN : N/A (Account maintenance fees | Direct payment from the plan)
@@ -349,12 +295,10 @@ NM : ALBUQUERQUE
                  : EB TEMPORARY INVESTMENT FUND II
            - PNM RESOURCES, INC.
                  : PNM RESOURCES, INC. MASTER TRUST
-    2019: PNM RESOURCES, INC. EMPLOYEES' RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1E1I3H 
-        Participants: 3226
-        Assets: 531691734
-        $/Participant: 164814
+
+    2019
+        Participants: 3,226  Average: $164,814
+        Assets: $531,691,734
         Service Providers:
            - TOWERS WATSON : N/A (Account maintenance fees | Direct payment from the plan | Actuarial)
            - BANK OF NEW YORK MELLON : N/A (Direct payment from the plan | Trustee(bank, trust company, or similar) | Custodial(securities))
@@ -368,12 +312,11 @@ NM : ALBUQUERQUE
                  : EB TEMPORARY INVESTMENT FUND II
            - PNM RESOURCES, INC.
                  : PNM RESOURCES, INC. MASTER TRUST
-    2018: PNM RESOURCES, INC. EMPLOYEE'S RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1E1I3H 
-        Participants: 3269
-        Assets: 490199514
-        $/Participant: 149953
+
+  [Pension] PNM RESOURCES, INC. EMPLOYEE'S RETIREMENT PLAN
+    2018
+        Participants: 3,269  Average: $149,953
+        Assets: $490,199,514
         Service Providers:
            - BANK OF NEW YORK MELLON : N/A (Direct payment from the plan | Trustee(bank, trust company, or similar) | Custodial(securities))
            - TOWERS WATSON : N/A (Account maintenance fees | Direct payment from the plan)
@@ -386,12 +329,10 @@ NM : ALBUQUERQUE
                  : EB TEMPORARY INVESTMENT FUND II
            - PNM RESOURCES, INC.
                  : PNM RESOURCES, INC. MASTER TRUST
-    2017: PNM RESOURCES, INC. EMPLOYEE'S RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1E1I3H 
-        Participants: 3317
-        Assets: 563613285
-        $/Participant: 169916
+
+    2017
+        Participants: 3,317  Average: $169,916
+        Assets: $563,613,285
         Service Providers:
            - TOWERS WATSON : N/A (Account maintenance fees | Direct payment from the plan)
            - BANK OF NEW YORK MELLON : N/A (Direct payment from the plan | Trustee(bank, trust company, or similar) | Custodial(securities))
@@ -403,103 +344,79 @@ NM : ALBUQUERQUE
                  : EB TEMPORARY INVESTMENT FUND II
            - PNM RESOURCES, INC.
                  : PNM RESOURCES, INC. MASTER TRUST
-   [607]
-    2022: PNM RESOURCES, INC. NON-UNION SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] PNM RESOURCES, INC. NON-UNION SEVERANCE PAY PLAN [607]
+    2022  [codes: 4I]
         Participants: 
-    2021: PNM RESOURCES, INC. NON-UNION SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2021
         Participants: 
-    2020: PNM RESOURCES, INC. NON-UNION SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2020
         Participants: 
-    2019: PNM RESOURCES, INC. NON-UNION SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2019
         Participants: 
-    2018: PNM RESOURCES, INC. NON-UNION SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2018
         Participants: 
-    2017: PNM RESOURCES, INC. NON-UNION SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2017
         Participants: 
-   [608]
-    2022: PNM RESOURCES, INC. EMPLOYEE RETENTION PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] PNM RESOURCES, INC. EMPLOYEE RETENTION PLAN [608]
+    2022
         Participants: 
-    2021: PNM RESOURCES, INC. EMPLOYEE RETENTION PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2021
         Participants: 
-    2020: PNM RESOURCES, INC. EMPLOYEE RETENTION PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2020
         Participants: 
-    2019: PNM RESOURCES, INC. EMPLOYEE RETENTION PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2019
         Participants: 
-    2018: PNM RESOURCES, INC. EMPLOYEE RETENTION PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2018
         Participants: 
-    2017: PNM RESOURCES, INC. EMPLOYEE RETENTION PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2017
         Participants: 
-   [609]
-    2022: PNM RESOURCES INC. UNION SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] PNM RESOURCES INC. UNION SEVERANCE PAY PLAN [609]
+    2022
         Participants: 
-    2021: PNM RESOURCES INC. UNION SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2021
         Participants: 
-    2020: PNM RESOURCES INC. UNION SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2020
         Participants: 
-    2019: PNM RESOURCES INC. UNION SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2019
         Participants: 
-    2018: PNM RESOURCES INC. UNION SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2018
         Participants: 
-    2017: PNM RESOURCES INC. UNION SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2017
         Participants: 
-   [610]
-    2022: PNM RESOURCES, INC. SHORT-TERM ILLNESS/INJURY PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+  [Short-term disability] PNM RESOURCES, INC. SHORT-TERM ILLNESS/INJURY PLAN [610]
+    2022  [codes: 4F]
         Participants: 
-    2021: PNM RESOURCES, INC. SHORT-TERM ILLNESS/INJURY PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+    2021
         Participants: 
-    2020: PNM RESOURCES, INC. SHORT-TERM ILLNESS/INJURY PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+    2020
         Participants: 
-    2019: PNM RESOURCES, INC. SHORT-TERM ILLNESS/INJURY PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+    2019
         Participants: 
-    2018: PNM RESOURCES, INC. SHORT-TERM ILLNESS/INJURY PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+    2018
         Participants: 
-    2017: PNM RESOURCES, INC. SHORT-TERM ILLNESS/INJURY PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+    2017
         Participants: 

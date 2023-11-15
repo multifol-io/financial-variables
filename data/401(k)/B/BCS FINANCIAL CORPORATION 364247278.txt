@@ -1,12 +1,8 @@
-IL : OAKBOOK TERRACE
-  BCS FINANCIAL CORPORATION  364247278
-   [002]
-    2022: BCS FINANCIAL CORPORATION TAX-FAVORED SAVINGS PROGRAM
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2S2T3H2R 
-        Participants: 177
-        Assets: 38698999
-        $/Participant: 218638
+BCS FINANCIAL CORPORATION  364247278 -- IL : OAKBOOK TERRACE
+  [401(k)] BCS FINANCIAL CORPORATION TAX-FAVORED SAVINGS PROGRAM [002]
+    2022  [codes: 2F2G2J2K2S2T3H2R]
+        Participants: 177  Average: $218,638
+        Assets: $38,698,999
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -37,12 +33,10 @@ IL : OAKBOOK TERRACE
                  : WT SMID CAP RES EQ 4
            - WILMINGTON TRUST, N.A.
                  : DH LARGE CAP FEE L
-    2021: BCS FINANCIAL CORPORATION TAX-FAVORED SAVINGS PROGRAM
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2S2T3H2R 
-        Participants: 173
-        Assets: 46067829
-        $/Participant: 266288
+
+    2021
+        Participants: 173  Average: $266,288
+        Assets: $46,067,829
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -76,12 +70,10 @@ IL : OAKBOOK TERRACE
                  : WF STABLE VALUE X
            - WILMINGTON TRUST, N.A.
                  : DIAMOND HILL LARGE CAP PORTFOLIO
-    2020: BCS FINANCIAL CORPORATION TAX-FAVORED SAVINGS PROGRAM
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2S2T2R3H 
-        Participants: 176
-        Assets: 38884292
-        $/Participant: 220933
+
+    2020  [codes: 2F2G2J2K2S2T2R3H]
+        Participants: 176  Average: $220,933
+        Assets: $38,884,292
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
@@ -108,12 +100,10 @@ IL : OAKBOOK TERRACE
                  : WF STABLE VALUE X
            - WILMINGTON TRUST, N.A.
                  : DIAMOND HILL LARGE CAP PORTFOLIO
-    2019: BCS FINANCIAL CORPORATION TAX-FAVORED SAVINGS PROGRAM
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2R2S2T 
-        Participants: 170
-        Assets: 30523607
-        $/Participant: 179550
+
+    2019  [codes: 2F2G2J2K2R2S2T]
+        Participants: 170  Average: $179,550
+        Assets: $30,523,607
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIAM TRUST COMPANY
@@ -136,12 +126,10 @@ IL : OAKBOOK TERRACE
                  : CIF II SMALL CAP VALUE PORTFOLIO
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE X
-    2018: BCS FINANCIAL CORPORATION TAX-FAVORED SAVINGS PROGRAM
-        Benefit Category: 401(k)
-        Codes: 2G2F2J2K2R2S2T 
-        Participants: 176
-        Assets: 25577982
-        $/Participant: 145329
+
+    2018  [codes: 2G2F2J2K2R2S2T]
+        Participants: 176  Average: $145,329
+        Assets: $25,577,982
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIAM TRUST COMPANY
@@ -167,12 +155,10 @@ IL : OAKBOOK TERRACE
                  : CIF II SMALL CAP VALUE PORTFOLIO
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE FUND X
-    2017: BCS FINANCIAL CORPORATION TAX-FAVORED SAVINGS PROGRAM
-        Benefit Category: 401(k)
-        Codes: 2F2G2J2K2R2S2T2E 
-        Participants: 160
-        Assets: 26470584
-        $/Participant: 165441
+
+    2017  [codes: 2F2G2J2K2R2S2T2E]
+        Participants: 160  Average: $165,441
+        Assets: $26,470,584
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIAM TRUST COMPANY
@@ -193,64 +179,49 @@ IL : OAKBOOK TERRACE
                  : CIF II SMALL CAP VALUE PORTFOLIO
            - WELLS FARGO BANK, N.A.
                  : WF STABLE VALUE FUND
-IL : OAKBROOK TERRACE
-   [503]
-    2022: BCS FINANCIAL CORPORATION HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+ -- IL : OAKBROOK TERRACE
+  [Healthcare, Dental, Vision] BCS FINANCIAL CORPORATION HEALTH INSURANCE PLAN [503]
+    2022  [codes: 4A4D4E]
         Participants: 
-    2021: BCS FINANCIAL CORPORATION HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2021
         Participants: 
-    2020: BCS FINANCIAL CORPORATION HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2020
         Participants: 
-    2019: BCS FINANCIAL CORPORATION HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2019
         Participants: 
-    2018: BCS FINANCIAL CORPORATION HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2018
         Participants: 
-    2017: BCS FINANCIAL CORPORATION HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2017
         Participants: 
-   [508]
-    2022: BCS FINANCIAL CORPORATION GROUP LIFE INSURANCE
-        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
-        Codes:  4B4F4H4L
+
+  [Life insurance, Short-term disability, Long-term disability, Travel accident] BCS FINANCIAL CORPORATION GROUP LIFE INSURANCE [508]
+    2022  [codes: 4B4F4H4L]
         Participants: 
-    2021: BCS FINANCIAL CORPORATION GROUP LIFE INSURANCE
-        Benefit Category: Life insurance, Travel accident
-        Codes:  4B4L
+
+    2021  [codes: 4B4L]
         Participants: 
-    2020: BCS FINANCIAL CORPORATION GROUP LIFE INSURANCE
-        Benefit Category: Life insurance, Travel accident
-        Codes:  4B4L
+
+    2020
         Participants: 
-    2019: BCS FINANCIAL CORPORATION GROUP LIFE INSURANCE
-        Benefit Category: Life insurance, Travel accident
-        Codes:  4B4L
+
+    2019
         Participants: 
-    2018: BCS FINANCIAL CORPORATION GROUP LIFE INSURANCE
-        Benefit Category: Life insurance, Travel accident
-        Codes:  4B4L
+
+    2018
         Participants: 
-    2017: BCS FINANCIAL CORPORATION GROUP LIFE INSURANCE
-        Benefit Category: Life insurance, Travel accident
-        Codes:  4B4L
+
+    2017
         Participants: 
-   [001]
-    2022: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF BCS FINANCIAL CORPORATION
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 227
-        Assets: 44089462
-        $/Participant: 194226
+
+  [Pension] NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF BCS FINANCIAL CORPORATION [001]
+    2022  [codes: 1A1I3H]
+        Participants: 227  Average: $194,226
+        Assets: $44,089,462
         Service Providers:
            - AON CONSULTING, INC. : ACTUARIAL (Actuarial)
            - BLUE CROSS BLUE SHIELD ASSOCIATION : PLAN ADMIN (Plan Administrator)
@@ -268,12 +239,10 @@ IL : OAKBROOK TERRACE
         Available Investments:
            - BLUE CROSS AND BLUE SHIELD ASSOC.
                  : NATIONAL RETIREMENT TRUST
-    2021: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF BCS FINANCIAL CORPORATION
-        Benefit Category: Pension
-        Codes: 1A1I3H 
-        Participants: 240
-        Assets: 38480815
-        $/Participant: 160336
+
+    2021
+        Participants: 240  Average: $160,336
+        Assets: $38,480,815
         Service Providers:
            - BARTLIT BECK LLP : LEGAL (Legal)
            - AON CONSULTING, INC. : ACTUARIAL (Actuarial)
@@ -289,12 +258,10 @@ IL : OAKBROOK TERRACE
         Available Investments:
            - BLUE CROSS AND BLUE SHIELD ASSOC.
                  : NATIONAL RETIREMENT TRUST
-    2020: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF BCS FINANCIAL CORPORATION
-        Benefit Category: Pension
-        Codes: 1A3H 
-        Participants: 242
-        Assets: 35258813
-        $/Participant: 145697
+
+    2020  [codes: 1A3H]
+        Participants: 242  Average: $145,697
+        Assets: $35,258,813
         Service Providers:
            - BLUE CROSS BLUE SHIELD ASSOCIATION : PLAN ADMIN (Plan Administrator)
            - AON CONSULTING, INC. : ACTUARIAL (Actuarial)
@@ -307,12 +274,10 @@ IL : OAKBROOK TERRACE
         Available Investments:
            - BLUE CROSS AND BLUE SHIELD ASSOC.
                  : NATIONAL RETIREMENT TRUST
-    2019: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF BCS FINANCIAL CORPORATION
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 241
-        Assets: 62574506
-        $/Participant: 259645
+
+    2019  [codes: 1A]
+        Participants: 241  Average: $259,645
+        Assets: $62,574,506
         Service Providers:
            - AON CONSULTING, INC. : ACTUARIAL (Actuarial)
            - BLUE CROSS BLUE SHIELD ASSOCIATION : PLAN ADMIN (Plan Administrator)
@@ -321,12 +286,10 @@ IL : OAKBROOK TERRACE
         Available Investments:
            - BLUE CROSS AND BLUE SHIELD ASSOC.
                  : NATIONAL RETIREMENT TRUST
-    2018: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF BCS FINANCIAL CORPORATION
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 223
-        Assets: 38718331
-        $/Participant: 173624
+
+    2018
+        Participants: 223  Average: $173,624
+        Assets: $38,718,331
         Service Providers:
            - AON CONSULTING, INC. : ACTUARIAL (Actuarial)
            - BLUE CROSS BLUE SHIELD ASSOCIATION : PLAN ADMIN (Plan Administrator)
@@ -336,12 +299,10 @@ IL : OAKBROOK TERRACE
         Available Investments:
            - BLUE CROSS AND BLUE SHIELD ASSOC.
                  : NATIONAL RETIREMENT TRUST
-    2017: NON-CONTRIBUTORY RETIREMENT PROGRAM FOR CERTAIN EMPLOYEES OF BCS FINANCIAL CORPORATION
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 222
-        Assets: 44401551
-        $/Participant: 200006
+
+    2017
+        Participants: 222  Average: $200,006
+        Assets: $44,401,551
         Service Providers:
            - AON CONSULTING, INC. : ACTUARIAL (Actuarial)
            - BLUE CROSS BLUE SHIELD ASSOCIATION : PLAN ADMIN (Plan Administrator)
@@ -350,28 +311,22 @@ IL : OAKBROOK TERRACE
         Available Investments:
            - BLUE CROSS AND BLUE SHIELD ASSOC.
                  : NATIONAL RETIREMENT TRUST
-   [505]
-    2022: BCS FINANCIAL CORPORATION GROUP TRAVEL
-        Benefit Category: Travel accident
-        Codes:  4L
+
+  [Travel accident] BCS FINANCIAL CORPORATION GROUP TRAVEL [505]
+    2022  [codes: 4L]
         Participants: 
-    2021: BCS FINANCIAL CORPORATION GROUP TRAVEL
-        Benefit Category: Travel accident
-        Codes:  4L
+
+    2021
         Participants: 
-    2020: BCS FINANCIAL CORPORATION GROUP TRAVEL
-        Benefit Category: Travel accident
-        Codes:  4L
+
+    2020
         Participants: 
-    2019: BCS FINANCIAL CORPORATION GROUP TRAVEL
-        Benefit Category: Travel accident
-        Codes:  4L
+
+    2019
         Participants: 
-    2018: BCS FINANCIAL CORPORATION GROUP TRAVEL
-        Benefit Category: Travel accident
-        Codes:  4L
+
+    2018
         Participants: 
-    2017: BCS FINANCIAL CORPORATION GROUP TRAVEL
-        Benefit Category: Travel accident
-        Codes:  4L
+
+    2017
         Participants: 

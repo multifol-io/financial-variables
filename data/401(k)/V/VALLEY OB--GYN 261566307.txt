@@ -1,25 +1,17 @@
-UT : PROVO
-  VALLEY OB/GYN  261566307
-   [001]
-    2020: VALLEY OB/GYN 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2J2G2K2E2F3D2T 
-        Participants: 4
-        Assets: 2012893
-        $/Participant: 503223
-    2019: VALLEY OB/GYN 401(K) PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2J2G2K2E2R2F3D2A2T 
-        Participants: 313
-        Assets: 14332877
-        $/Participant: 45791
+VALLEY OB/GYN  261566307 -- UT : PROVO
+  [401(k)] VALLEY OB/GYN 401(K) PROFIT SHARING PLAN [001]
+    2020  [codes: 2A2J2G2K2E2F3D2T]
+        Participants: 4  Average: $503,223
+        Assets: $2,012,893
+
+    2019  [codes: 2J2G2K2E2R2F3D2A2T]
+        Participants: 313  Average: $45,791
+        Assets: $14,332,877
         RecordKeeper: ASCENSUS, LLC
-   [501]
-    2022: VALLEY OB/GYN WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] VALLEY OB/GYN WELFARE BENEFIT PLAN [501]
+    2022  [codes: 4A]
         Participants: 
-    2021: VALLEY OB/GYN WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2021
         Participants: 

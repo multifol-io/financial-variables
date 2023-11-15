@@ -1,32 +1,24 @@
-PA : WEST GROVE
-  DANSKO HOLDINGS, INC.  232623428
-   [001]
-    2022: DANSKO HOLDINGS, INC. RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 169
-        Assets: 37936495
-        $/Participant: 224476
+DANSKO HOLDINGS, INC.  232623428 -- PA : WEST GROVE
+  [401(k)] DANSKO HOLDINGS, INC. RETIREMENT PLAN [001]
+    2022  [codes: 2E2F2G2J2K2T3D]
+        Participants: 169  Average: $224,476
+        Assets: $37,936,495
         RecordKeeper: CAP FINANCIAL PARTNERS LLC
         Available Investments:
            - PUTNAM FIDUCIARY TRUST COMPANY, LLC
                  : PUTNAM STABLE VALUE FUND; CLASS 15
-    2021: DANSKO HOLDINGS, INC. RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 167
-        Assets: 46400047
-        $/Participant: 277844
+
+    2021
+        Participants: 167  Average: $277,844
+        Assets: $46,400,047
         RecordKeeper: THE VANGUARD GROUP, INC.
         Available Investments:
            - PUTNAM FIDUCIARY TRUST COMPANY, LLC
                  : PUTNAM STABLE VALUE FUND; CLASS 15
-    2020: DANSKO HOLDINGS, INC. RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K3D2T 
-        Participants: 172
-        Assets: 40888555
-        $/Participant: 237724
+
+    2020  [codes: 2E2F2G2J2K3D2T]
+        Participants: 172  Average: $237,724
+        Assets: $40,888,555
         RecordKeeper: THE VANGUARD GROUP, INC.
         Available Investments:
            - PUTNAM FIDUCIARY TRUST COMPANY, LLC
@@ -57,12 +49,11 @@ PA : WEST GROVE
                  : THORNBURG INTERNATIONAL VALUE RET
                  : TRANSAMERICA MID CAP VALUE OPP
                  : TRANSAMERICA PARTNERS STOCK INDEX
-    2019: DANSKO HOLDINGS INC RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K3D2T 
-        Participants: 198
-        Assets: 40639962
-        $/Participant: 205252
+
+  [401(k)] DANSKO HOLDINGS INC RETIREMENT PLAN
+    2019
+        Participants: 198  Average: $205,252
+        Assets: $40,639,962
         RecordKeeper: SMITH ELLIOTT KEARNS & COMPANY LLC
         Available Investments:
            - TRANSAMERICA LIFE INSURANCE COMPANY
@@ -91,12 +82,10 @@ PA : WEST GROVE
                  : THORNBURG INTERNATIONAL VALUE RET
                  : TRANSAMERICA MID CAP VALUE OPP
                  : TRANSAMERICA PARTNERS STOCK INDEX
-    2018: DANSKO HOLDINGS INC RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K3D2T 
-        Participants: 188
-        Assets: 33474690
-        $/Participant: 178056
+
+    2018
+        Participants: 188  Average: $178,056
+        Assets: $33,474,690
         RecordKeeper: SMITH ELLIOTT KEARNS & COMPANY LLC
         Available Investments:
            - TRANSAMERICA LIFE INSURANCE COMPANY
@@ -125,12 +114,10 @@ PA : WEST GROVE
                  : TRANSAMERICA MID CAP VALUE OPP
                  : TRANSAMERICA PARTNERS STOCK INDEX
                  : VANGUARD SMALL-CAP INDEX RET OPT
-    2017: DANSKO HOLDINGS INC RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K3D2T 
-        Participants: 181
-        Assets: 34669901
-        $/Participant: 191546
+
+    2017
+        Participants: 181  Average: $191,546
+        Assets: $34,669,901
         RecordKeeper: SMITH ELLIOTT KEARNS & COMPANY LLC
         Available Investments:
            - TRANSAMERICA LIFE INSURANCE COMPANY
@@ -161,65 +148,47 @@ PA : WEST GROVE
                  : TRANSAMERICA PARTNERS STOCK INDEX
                  : VANGUARD TARGET RETIREMENT 2010 RET
                  : VANGUARD TARGET RETIREMENT 2015 RET
-   [003]
-    2022: DANSKO HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2Q3H3I 
-        Participants: 172
-        Assets: 66706947
-        $/Participant: 387831
-    2021: DANSKO HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2Q3H3I 
-        Participants: 178
-        Assets: 66425012
-        $/Participant: 373174
-    2020: DANSKO HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2Q3H3I 
-        Participants: 183
-        Assets: 48704581
-        $/Participant: 266145
-    2019: DANSKO HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2Q 
-        Participants: 190
-        Assets: 49063854
-        $/Participant: 258230
-    2018: DANSKO HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2Q3I 
-        Participants: 193
-        Assets: 48162568
-        $/Participant: 249546
-    2017: DANSKO HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3I 
-        Participants: 201
-        Assets: 36524495
-        $/Participant: 181713
-   [502]
-    2022: DANSKO HOLDINGS, INC. WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+  [Employee Stock Ownership Plan] DANSKO HOLDINGS, INC. EMPLOYEE STOCK OWNERSHIP PLAN [003]
+    2022  [codes: 2P2Q3H3I]
+        Participants: 172  Average: $387,831
+        Assets: $66,706,947
+
+    2021
+        Participants: 178  Average: $373,174
+        Assets: $66,425,012
+
+    2020
+        Participants: 183  Average: $266,145
+        Assets: $48,704,581
+
+    2019  [codes: 2P2Q]
+        Participants: 190  Average: $258,230
+        Assets: $49,063,854
+
+    2018  [codes: 2P2Q3I]
+        Participants: 193  Average: $249,546
+        Assets: $48,162,568
+
+    2017  [codes: 2I2P2Q3I]
+        Participants: 201  Average: $181,713
+        Assets: $36,524,495
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] DANSKO HOLDINGS, INC. WELFARE PLAN [502]
+    2022  [codes: 4A4B4D4E4F4H4L]
         Participants: 
-    2021: DANSKO HOLDINGS, INC. WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2021
         Participants: 
-    2020: DANSKO HOLDINGS, INC. WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2020
         Participants: 
-    2019: DANSKO HOLDINGS, INC. WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2019
         Participants: 
-    2018: DANSKO HOLDINGS, INC. WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2018
         Participants: 
-    2017: DANSKO HOLDINGS, INC. WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2017
         Participants: 

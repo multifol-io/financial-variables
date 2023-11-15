@@ -1,11 +1,8 @@
-PA : PITTSBURGH
-  FEDERAL HOME LOAN BANK OF PITTSBURGH  256001324
-    2022: FEDERAL HOME LOAN BANK OF PITTSBURGH DEFINED CONTRIBUTION PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 
-        Participants: 266
-        Assets: 56395281
-        $/Participant: 212012
+FEDERAL HOME LOAN BANK OF PITTSBURGH  256001324 -- PA : PITTSBURGH
+  [401(k)] FEDERAL HOME LOAN BANK OF PITTSBURGH DEFINED CONTRIBUTION PLAN
+    2022  [codes: 2E2F2G2J2K2S2T]
+        Participants: 266  Average: $212,012
+        Assets: $56,395,281
         RecordKeeper: VANGUARD ADVISERS INC.
         Available Investments:
            - INVESCO
@@ -30,12 +27,10 @@ PA : PITTSBURGH
                  : SS TARGET RETIRE INCOME FUND CL VI
                  : SS US BOND INDEX SEC LEND CLASS XIV
                  : SS US IP BOND INDEX SEC LEND SERIES
-    2021: FEDERAL HOME LOAN BANK OF PITTSBURGH DEFINED CONTRIBUTION PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 
-        Participants: 244
-        Assets: 67261210
-        $/Participant: 275660
+
+    2021
+        Participants: 244  Average: $275,660
+        Assets: $67,261,210
         RecordKeeper: VANGUARD ADVISERS INC.
         Available Investments:
            - INVESCO
@@ -60,12 +55,10 @@ PA : PITTSBURGH
                  : SS TARGET RETIRE INCOME FUND CL VI
                  : SS US BOND INDEX SEC LEND CLASS XIV
                  : SS US IP BOND INDEX SEC LEND SERIES
-    2020: FEDERAL HOME LOAN BANK OF PITTSBURGH DEFINED CONTRIBUTION PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 
-        Participants: 238
-        Assets: 63273463
-        $/Participant: 265854
+
+    2020
+        Participants: 238  Average: $265,854
+        Assets: $63,273,463
         RecordKeeper: THE VANGUARD GROUP, INC.
         Available Investments:
            - INVESCO

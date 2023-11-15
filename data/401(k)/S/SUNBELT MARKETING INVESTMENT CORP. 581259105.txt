@@ -1,70 +1,50 @@
-GA : AUSTELL
-  SUNBELT MARKETING INVESTMENT CORP.  581259105
-   [001]
-    2022: SUNBELT MARKETING INVESTMENT CORP. EMPLOYEE STOCK OWNERSHIP AND SALARY DEFERRAL PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2P2I2J 
-        Participants: 261
-        Assets: 116865234
-        $/Participant: 447759
-    2021: SUNBELT MARKETING INVESTMENT CORP. EMPLOYEE STOCK OWNERSHIP AND SALARY DEFERRAL PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2P2I2J 
-        Participants: 234
-        Assets: 100633085
-        $/Participant: 430055
-    2020: SUNBELT MARKETING INVESTMENT CORP. EMPLOYEE STOCK OWNERSHIP AND SALARY DEFERRAL PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2P2I2J 
-        Participants: 194
-        Assets: 62284405
-        $/Participant: 321053
-    2019: SUNBELT MARKETING INVESTMENT CORP. EMPLOYEE STOCK OWNERSHIP AND SALARY DEFERRAL PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2P2I2J 
-        Participants: 168
-        Assets: 53891497
-        $/Participant: 320782
-    2018: SUNBELT MARKETING INVESTMENT CORP. EMPLOYEE STOCK OWNERSHIP AND SALARY DEFERRAL PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2P2I2J 
-        Participants: 152
-        Assets: 47714838
-        $/Participant: 313913
-    2017: SUNBELT MARKETING INVESTMENT CORP. EMPLOYEE STOCK OWNERSHIP AND SALARY DEFERRAL PLAN
-        Benefit Category: 401(k), Employee Stock Ownership Plan
-        Codes: 2P2I2J 
-        Participants: 149
-        Assets: 42174379
-        $/Participant: 283049
-   [501]
-    2022: SUNBELT MARKETING WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+SUNBELT MARKETING INVESTMENT CORP.  581259105 -- GA : AUSTELL
+  [401(k), Employee Stock Ownership Plan] SUNBELT MARKETING INVESTMENT CORP. EMPLOYEE STOCK OWNERSHIP AND SALARY DEFERRAL PLAN [001]
+    2022  [codes: 2P2I2J]
+        Participants: 261  Average: $447,759
+        Assets: $116,865,234
+
+    2021
+        Participants: 234  Average: $430,055
+        Assets: $100,633,085
+
+    2020
+        Participants: 194  Average: $321,053
+        Assets: $62,284,405
+
+    2019
+        Participants: 168  Average: $320,782
+        Assets: $53,891,497
+
+    2018
+        Participants: 152  Average: $313,913
+        Assets: $47,714,838
+
+    2017
+        Participants: 149  Average: $283,049
+        Assets: $42,174,379
+
+  [Healthcare] SUNBELT MARKETING WELFARE BENEFIT PLAN [501]
+    2022  [codes: 4A]
         Participants: 
         Service Providers:
            - THE BENEFIT COMPANY : BROKER (Insurance agents and brokers)
            - THE BENECON GROUP, LLC : BROKER (Insurance agents and brokers)
            - MERITAIN HEALTH : ADMIN (Claims processing)
            - CONNECTCARE3, LLC : PATIENT ADVOCATE (Other services)
-    2021: SUNBELT MARKETING WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2021  [codes: 4A4B4D4E4F4H4Q]
         Participants: 
-    2020: SUNBELT MARKETING WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2020
         Participants: 
         Service Providers:
            - CIGNA HEALTH AND LIFE INSURANCE COM : CONTRACT ADMINISTRATOR (Contract Administrator)
-GA : LITHIA SPRINGS
-    2019: SUNBELT MARKETING WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
-        Codes:  4B4F4H4Q4D4A
+ -- GA : LITHIA SPRINGS
+    2019  [codes: 4B4F4H4Q4D4A]
         Participants: 
         Service Providers:
            - CIGNA HEALTH AND LIFE INSURANCE COM : CONTRACT ADMINISTRATOR (Contract Administrator)
-    2018: SUNBELT MARKETING WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2018  [codes: 4A4B4D4E4F4H4Q]
         Participants: 

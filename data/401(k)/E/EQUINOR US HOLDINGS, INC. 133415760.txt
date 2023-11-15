@@ -1,11 +1,8 @@
-CT : STAMFORD
-  EQUINOR US HOLDINGS, INC.  133415760
-    2022: EQUINOR US HOLDINGS INC. 401(K) RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T3H 
-        Participants: 1001
-        Assets: 215476734
-        $/Participant: 215261
+EQUINOR US HOLDINGS, INC.  133415760 -- CT : STAMFORD
+  [401(k)] EQUINOR US HOLDINGS INC. 401(K) RETIREMENT PLAN
+    2022  [codes: 2E2F2G2J2K2R2S2T3H]
+        Participants: 1,001  Average: $215,261
+        Assets: $215,476,734
         RecordKeeper: CHARLES SCHWAB & CO. INC.
         Available Investments:
            - T. ROWE PRICE TRUST COMPANY
@@ -24,12 +21,10 @@ CT : STAMFORD
                  : T. ROWE PRICE RETIREMENT 2065 TRUST
                  : TRP RETIREMENT BALANCED TRUST
                  : TRP STABLE VALUE COMMON TRUST FUND
-    2021: EQUINOR US HOLDINGS INC. 401(K) RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T3H 
-        Participants: 1015
-        Assets: 262577962
-        $/Participant: 258697
+
+    2021
+        Participants: 1,015  Average: $258,697
+        Assets: $262,577,962
         RecordKeeper: CHARLES SCHWAB & CO. INC.
         Available Investments:
            - T. ROWE PRICE TRUST COMPANY
@@ -48,12 +43,10 @@ CT : STAMFORD
                  : T. ROWE PRICE RETIREMENT 2065 TRUST
                  : TRP RETIREMENT BALANCED TRUST
                  : TRP STABLE VALUE COMMON TRUST FUND
-    2020: EQUINOR US HOLDINGS INC. 401(K) RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T3H 
-        Participants: 1172
-        Assets: 251800490
-        $/Participant: 214846
+
+    2020
+        Participants: 1,172  Average: $214,846
+        Assets: $251,800,490
         RecordKeeper: CHARLES SCHWAB & CO. INC.
         Available Investments:
            - T. ROWE PRICE TRUST COMPANY
@@ -71,12 +64,10 @@ CT : STAMFORD
                  : T. ROWE PRICE RETIREMENT 2060 TRUST
                  : TRP RETIREMENT BALANCED TRUST
                  : TRP STABLE VALUE COMMON TRUST FUND
-    2019: EQUINOR US HOLDINGS INC. 401(K) RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T3H 
-        Participants: 1310
-        Assets: 227084316
-        $/Participant: 173346
+
+    2019
+        Participants: 1,310  Average: $173,346
+        Assets: $227,084,316
         RecordKeeper: CHARLES SCHWAB & CO., INC.
         Available Investments:
            - T. ROWE PRICE TRUST COMPANY
@@ -94,12 +85,10 @@ CT : STAMFORD
                  : T. ROWE PRICE RETIREMENT 2060 TRUST
                  : TRP RETIREMENT BALANCED TRUST
                  : TRP STABLE VALUE COMMON TRUST FUND
-    2018: EQUINOR US HOLDINGS INC. 401(K) RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T3H 
-        Participants: 1298
-        Assets: 175824928
-        $/Participant: 135458
+
+    2018
+        Participants: 1,298  Average: $135,458
+        Assets: $175,824,928
         RecordKeeper: CHARLES SCHWAB & CO., INC.
         Available Investments:
            - T. ROWE PRICE STRATEGIC COMMON TRUST FUND
@@ -118,12 +107,11 @@ CT : STAMFORD
                  : TRP RETIREMENT BALANCED TRUST
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
-    2017: STATOIL US HOLDINGS INC. 401(K) RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2R2S2T3H 
-        Participants: 1229
-        Assets: 175580426
-        $/Participant: 142864
+
+  [401(k)] STATOIL US HOLDINGS INC. 401(K) RETIREMENT PLAN
+    2017
+        Participants: 1,229  Average: $142,864
+        Assets: $175,580,426
         RecordKeeper: CHARLES SCHWAB AND CO INC
         Available Investments:
            - T. ROWE PRICE STRATEGIC COMMON TRUST FUND
@@ -142,38 +130,31 @@ CT : STAMFORD
                  : TRP RETIREMENT BALANCED TRUST
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
-   [501]
-    2022: EQUINOR WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] EQUINOR WELFARE BENEFIT PLAN [501]
+    2022  [codes: 4A4B4D4E4F4H4L]
         Participants: 
-    2021: EQUINOR WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2021
         Participants: 
-    2020: EQUINOR WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2020
         Participants: 
-    2019: EQUINOR WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2019
         Participants: 
-    2018: EQUINOR WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2018
         Participants: 
-    2017: STATOIL WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] STATOIL WELFARE BENEFIT PLAN
+    2017
         Participants: 
-   [002]
-    2022: EQUINOR US HOLDINGS INC. MONEY PURCHASE PENSION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2T3D3H 
-        Participants: 1091
-        Assets: 142016376
-        $/Participant: 130170
+
+  [Other] EQUINOR US HOLDINGS INC. MONEY PURCHASE PENSION PLAN [002]
+    2022  [codes: 2C2F2G2T3D3H]
+        Participants: 1,091  Average: $130,170
+        Assets: $142,016,376
         RecordKeeper: T ROWE PRICE RPS INC
         Available Investments:
            - T. ROWE PRICE TRUST COMPANY
@@ -191,12 +172,10 @@ CT : STAMFORD
                  : T. ROWE PRICE RETIREMENT 2065 TRUST
                  : T. ROWE PRICE RETIREMENT BALANCED T
                  : TRP STABLE VALUE COMMON TRUST FUND
-    2021: EQUINOR US HOLDINGS INC. MONEY PURCHASE PENSION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2T3D3H 
-        Participants: 1107
-        Assets: 170493390
-        $/Participant: 154013
+
+    2021
+        Participants: 1,107  Average: $154,013
+        Assets: $170,493,390
         RecordKeeper: T ROWE PRICE RPS INC
         Available Investments:
            - T. ROWE PRICE TRUST COMPANY
@@ -214,12 +193,10 @@ CT : STAMFORD
                  : T. ROWE PRICE RETIREMENT 2065 TRUST
                  : T. ROWE PRICE RETIREMENT BALANCED T
                  : TRP STABLE VALUE COMMON TRUST FUND
-    2020: EQUINOR US HOLDINGS INC. MONEY PURCHASE PENSION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2T3D3H 
-        Participants: 1251
-        Assets: 162210568
-        $/Participant: 129664
+
+    2020
+        Participants: 1,251  Average: $129,664
+        Assets: $162,210,568
         RecordKeeper: T ROWE PRICE RPS INC
         Available Investments:
            - T. ROWE PRICE TRUST COMPANY
@@ -237,12 +214,10 @@ CT : STAMFORD
                  : T. ROWE PRICE RETIREMENT 2060 TRUST
                  : T. ROWE PRICE RETIREMENT BALANCED T
                  : TRP STABLE VALUE COMMON TRUST FUND
-    2019: EQUINOR US HOLDINGS INC. MONEY PURCHASE PENSION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2T3D3H 
-        Participants: 1342
-        Assets: 140933506
-        $/Participant: 105017
+
+    2019
+        Participants: 1,342  Average: $105,017
+        Assets: $140,933,506
         RecordKeeper: T ROWE PRICE RPS INC
         Available Investments:
            - T. ROWE PRICE STRATEGIC COMMON TRUST FUND
@@ -261,12 +236,10 @@ CT : STAMFORD
                  : TRP RETIREMENT BALANCED TRUST
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
-    2018: EQUINOR US HOLDINGS INC. MONEY PURCHASE PENSION PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2T3D3H 
-        Participants: 1298
-        Assets: 107444311
-        $/Participant: 82776
+
+    2018
+        Participants: 1,298  Average: $82,776
+        Assets: $107,444,311
         RecordKeeper: T ROWE PRICE RPS INC
         Available Investments:
            - T. ROWE PRICE STRATEGIC COMMON TRUST FUND
@@ -285,12 +258,11 @@ CT : STAMFORD
                  : TRP RETIREMENT BALANCED TRUST
            - T. ROWE PRICE TRUST COMPANY
                  : TRP STABLE VALUE COMMON TRUST FUND
-    2017: STATOIL US HOLDINGS INC. MONEY PURCHASE PLAN
-        Benefit Category: Other
-        Codes: 2C2F2G2T3D3H 
-        Participants: 1244
-        Assets: 105917613
-        $/Participant: 85142
+
+  [Other] STATOIL US HOLDINGS INC. MONEY PURCHASE PLAN
+    2017
+        Participants: 1,244  Average: $85,142
+        Assets: $105,917,613
         RecordKeeper: T ROWE PRICE RPS INC
         Available Investments:
            - T. ROWE PRICE STRATEGIC COMMON TRUST FUND

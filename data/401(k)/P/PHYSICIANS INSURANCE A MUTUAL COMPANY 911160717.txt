@@ -1,38 +1,29 @@
-WA : SEATTLE
-  PHYSICIANS INSURANCE A MUTUAL COMPANY  911160717
-   [002]
-    2022: PHYSICIANS INSURANCE 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 123
-        Assets: 27000395
-        $/Participant: 219515
+PHYSICIANS INSURANCE A MUTUAL COMPANY  911160717 -- WA : SEATTLE
+  [401(k)] PHYSICIANS INSURANCE 401(K) PLAN [002]
+    2022  [codes: 2E2F2G2J2K2T3D]
+        Participants: 123  Average: $219,515
+        Assets: $27,000,395
         RecordKeeper: CHARLES SCHWAB & CO., INC.
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
-    2021: PHYSICIANS INSURANCE 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 121
-        Assets: 36860869
-        $/Participant: 304635
+
+    2021
+        Participants: 121  Average: $304,635
+        Assets: $36,860,869
         RecordKeeper: CHARLES SCHWAB & CO., INC.
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
-    2020: PHYSICIANS INSURANCE 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 123
-        Assets: 32526056
-        $/Participant: 264439
+
+    2020
+        Participants: 123  Average: $264,439
+        Assets: $32,526,056
         RecordKeeper: CHARLES SCHWAB & CO., INC.
         Available Investments:
            - PRINCIPAL GLOBAL INVESTORS TRUST COMPANY
                  : MORLEY STABLE VALUE FUND
-   [501]
-    2021: PHYSICIANS INSURANCE HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4R4S
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident] PHYSICIANS INSURANCE HEALTH & WELFARE PLAN [501]
+    2021  [codes: 4A4B4D4E4H4L4R4S]
         Participants: 

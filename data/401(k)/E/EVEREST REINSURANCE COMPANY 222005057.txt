@@ -1,42 +1,32 @@
-NJ : WARREN
-  EVEREST REINSURANCE COMPANY  222005057
-    2022: EVEREST REINSURANCE EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S 
-        Participants: 2265
-        Assets: 313527004
-        $/Participant: 138422
+EVEREST REINSURANCE COMPANY  222005057 -- NJ : WARREN
+  [401(k)] EVEREST REINSURANCE EMPLOYEE SAVINGS PLAN
+    2022  [codes: 2E2F2G2J2K2S]
+        Participants: 2,265  Average: $138,422
+        Assets: $313,527,004
         RecordKeeper: QDRO CONSULTANTS COMPANY, LLC
         Available Investments:
            - RELIANCE TRUST COMPANY
                  : RELIANCE METLIFE SERIES 25053 CL 0
-    2021: EVEREST REINSURANCE EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2G2J2E2K2S2F 
-        Participants: 1976
-        Assets: 361777661
-        $/Participant: 183085
+
+    2021  [codes: 2G2J2E2K2S2F]
+        Participants: 1,976  Average: $183,085
+        Assets: $361,777,661
         RecordKeeper: MORGAN STANLEY
         Available Investments:
            - RELIANCE TRUST COMPANY
                  : RELIANCE METLIFE SERIES 25053 CL 0
-    2020: EVEREST REINSURANCE EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2G2J2E2K2S2F 
-        Participants: 1780
-        Assets: 304472936
-        $/Participant: 171052
+
+    2020
+        Participants: 1,780  Average: $171,052
+        Assets: $304,472,936
         RecordKeeper: ADVISED ASSETS GROUP, LLC
         Available Investments:
            - RELIANCE TRUST COMPANY
                  : RELIANCE METLIFE SERIES 25053 CL 0
-NJ : LIBERTY CORNER
-    2019: EVEREST REINSURANCE EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2G2J2E2K2S 
-        Participants: 1661
-        Assets: 246797948
-        $/Participant: 148583
+ -- NJ : LIBERTY CORNER
+    2019  [codes: 2G2J2E2K2S]
+        Participants: 1,661  Average: $148,583
+        Assets: $246,797,948
         RecordKeeper: ADVISED ASSETS GROUP
         Available Investments:
            - PRUDENTIAL RETIREMENT INS.
@@ -45,79 +35,64 @@ NJ : LIBERTY CORNER
                  : DRYDEN S&P 500 INDEX FUND
            - RELIANCE TRUST COMPANY
                  : RELIANCE METLIFE SERIES 25053 CL 0
-    2018: EVEREST REINSURANCE EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2G2J2E2K2S 
-        Participants: 1532
-        Assets: 208615343
-        $/Participant: 136171
+
+    2018
+        Participants: 1,532  Average: $136,171
+        Assets: $208,615,343
         RecordKeeper: MORGAN STANLEY GLOBAL BANKING OPERA
         Available Investments:
            - PRUDENTIAL RETIREMENT INS.
                  : DRYDEN S&P 500 INDEX FUND
                  : SCV/KENNEDY CAPITAL
-    2017: EVEREST REINSURANCE EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2G2J2E2K2S 
-        Participants: 1446
-        Assets: 208343887
-        $/Participant: 144082
+
+    2017
+        Participants: 1,446  Average: $144,082
+        Assets: $208,343,887
         RecordKeeper: THE PRUDENTIAL INSURANCE COMPANY OF
         Available Investments:
            - PRUDENTIAL RETIREMENT INS.
                  : DRYDEN S&P 500 INDEX FUND
                  : SCV/KENNEDY CAPITAL
-NJ : WARREN
-   [501]
-    2022: EVEREST REINSURANCE GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+ -- NJ : WARREN
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] EVEREST REINSURANCE GROUP BENEFIT PLAN [501]
+    2022  [codes: 4A4B4D4E4F4H4L]
         Participants: 
-    2021: EVEREST REINSURANCE GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4G4H
-        Participants: 1295
+
+    2021  [codes: 4A4B4D4E4F4G4H]
+        Participants: 1,295
         Service Providers:
            - EVERNORTH BEHAVIORAL HEALTH INC : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Participant communication | Direct payment from the plan)
            - CIGNA HEALTH & LIFE INS CO (CIGNA) : ADMINISTRATIVE SERVICES (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2020: EVEREST REINSURANCE GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4G4H
-        Participants: 1166
+
+    2020
+        Participants: 1,166
         Service Providers:
            - MORGAN STANLEY SMITH BARNEY LLC : INVESTMENT ADVISORY PLAN (Investment advisory(plan) | Other investment fees and expenses | Direct payment from the plan)
            - CIGNA HEALTH AND LIFE INSURANCE CO : CONTRACT ADMINISTRATOR (Direct payment from the plan | Non - monetary compensation | Float revenue | Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services)
            - CIGNA BEHAVIORAL HEALTH INC : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Participant communication | Direct payment from the plan)
-NJ : LIBERTY CORNER
-    2019: EVEREST REINSURANCE GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4G4H
-        Participants: 1091
+ -- NJ : LIBERTY CORNER
+    2019
+        Participants: 1,091
         Service Providers:
            - CIGNA HEALTH AND LIFE INSURANCE CO : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
            - CIGNA BEHAVIORAL HEALTH INC : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Participant communication | Direct payment from the plan)
-    2018: EVEREST REINSURANCE GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4G4H
+
+    2018
         Participants: 977
         Service Providers:
            - CIGNA BEHAVIORAL HEALTH INC : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Participant communication | Direct payment from the plan)
            - CIGNA HEALTH AND LIFE INSURANCE CO : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-    2017: EVEREST REINSURANCE GROUP BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4G4H
+
+    2017
         Participants: 926
         Service Providers:
            - CIGNA BEHAVIORAL HEALTH INC : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Participant communication | Direct payment from the plan)
            - CIGNA HEALTH AND LIFE INSURANCE CO : ADMINISTRATIVE SERVICES (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
-NJ : WARREN
-   [002]
-    2022: EVEREST REINSURANCE RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 760
-        Assets: 284684309
-        $/Participant: 374584
+ -- NJ : WARREN
+  [Pension] EVEREST REINSURANCE RETIREMENT PLAN [002]
+    2022  [codes: 1A]
+        Participants: 760  Average: $374,584
+        Assets: $284,684,309
         Service Providers:
            - PRUDENTIAL RETIREMENT INS & ANNUITY :  (Contract Administrator)
         Available Investments:
@@ -128,12 +103,10 @@ NJ : WARREN
                  : SMALL CAP VALUE / KENNEDY CAPITAL
            - PRUDENTIAL TRUST COMPANY
                  : MID CAP VALUE / ROBECO FUND
-    2021: EVEREST REINSURANCE RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 764
-        Assets: 376250669
-        $/Participant: 492474
+
+    2021
+        Participants: 764  Average: $492,474
+        Assets: $376,250,669
         Service Providers:
            - PRUDENTIAL RETIREMENT INS & ANNUITY :  (Contract Administrator)
         Available Investments:
@@ -146,13 +119,10 @@ NJ : WARREN
                  : JENNISON GLOBAL OPPORTUNITY FD
            - WELLINGTON TRUST COMPANY, NA
                  : WELLINGTON TR CO CIF OPP EQUIT
-NJ : LIBERTY CORNER
-    2020: EVEREST REINSURANCE RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 767
-        Assets: 354906490
-        $/Participant: 462720
+ -- NJ : LIBERTY CORNER
+    2020
+        Participants: 767  Average: $462,720
+        Assets: $354,906,490
         Service Providers:
            - WELLINGTON TRUST COMPANY, NA :  (Trustee(bank, trust company, or similar) | Investment advisory(participants))
            - PRUDENTIAL RETIREMENT INS & ANNUITY :  (Contract Administrator)
@@ -166,12 +136,10 @@ NJ : LIBERTY CORNER
                  : JENNISON GLOBAL OPPORTUNITY FD
            - WELLINGTON TRUST COMPANY, NA
                  : WELLINGTON TR CO CIF OPP EQUIT
-    2019: EVEREST REINSURANCE RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 768
-        Assets: 301371640
-        $/Participant: 392410
+
+    2019
+        Participants: 768  Average: $392,410
+        Assets: $301,371,640
         Service Providers:
            - PRUDENTIAL TRUST COMPANY :  (Trustee(bank, trust company, or similar))
            - WELLINGTON TRUST COMPANY, NA :  (Trustee(bank, trust company, or similar) | Investment advisory(participants))
@@ -186,12 +154,10 @@ NJ : LIBERTY CORNER
                  : JENNISON GLOBAL OPPORTUNITY FD
            - WELLINGTON TRUST COMPANY, NA
                  : WELLINGTON TR CO CIF OPP EQUIT
-    2018: EVEREST REINSURANCE RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 768
-        Assets: 259880023
-        $/Participant: 338385
+
+    2018  [codes: 1A1I]
+        Participants: 768  Average: $338,385
+        Assets: $259,880,023
         Service Providers:
            - PRUDENTIAL TRUST COMPANY :  (Trustee(bank, trust company, or similar))
            - WELLINGTON TRUST COMPANY, NA :  (Trustee(bank, trust company, or similar) | Investment advisory(participants))
@@ -206,12 +172,10 @@ NJ : LIBERTY CORNER
                  : JENNISON GLOBAL OPPORTUNITY FD
            - WELLINGTON TRUST COMPANY, NA
                  : WELLINGTON TR CO CIF OPP EQUIT
-    2017: EVEREST REINSURANCE RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 769
-        Assets: 288287821
-        $/Participant: 374886
+
+    2017
+        Participants: 769  Average: $374,886
+        Assets: $288,287,821
         Service Providers:
            - PRUDENTIAL TRUST COMPANY :  (Trustee(bank, trust company, or similar))
            - WELLINGTON TRUST COMPANY, NA :  (Trustee(bank, trust company, or similar) | Investment advisory(participants))

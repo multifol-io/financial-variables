@@ -1,56 +1,44 @@
-NC : RALEIGH
-  FMI CORPORATION  561223249
-   [001]
-    2022: FMI CORPORATION RETIREMENT SAVINGS 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2R3D2T 
-        Participants: 245
-        Assets: 50307977
-        $/Participant: 205338
+FMI CORPORATION  561223249 -- NC : RALEIGH
+  [401(k)] FMI CORPORATION RETIREMENT SAVINGS 401(K) PLAN [001]
+    2022  [codes: 2E2F2G2J2R3D2T]
+        Participants: 245  Average: $205,338
+        Assets: $50,307,977
         RecordKeeper: THE VANGUARD GROUP, INC.
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST IV
-    2021: FMI CORPORATION RETIREMENT SAVINGS 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2R3D2T 
-        Participants: 219
-        Assets: 62167704
-        $/Participant: 283870
+
+    2021
+        Participants: 219  Average: $283,870
+        Assets: $62,167,704
         RecordKeeper: THE VANGUARD GROUP, INC.
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST IV
-    2020: FMI CORPORATION RETIREMENT SAVINGS 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2R3D2T 
-        Participants: 214
-        Assets: 57895409
-        $/Participant: 270539
+
+    2020
+        Participants: 214  Average: $270,539
+        Assets: $57,895,409
         RecordKeeper: CAPFINANCIAL PARTNER, LLC
         Available Investments:
            - GALLIARD CAPITAL MANAGEMENT
                  : WELLS FARGO STABLE VALUE FUND
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST IV
-    2019: FMI CORPORATION RETIREMENT SAVINGS 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2R3D2T 
-        Participants: 225
-        Assets: 50056968
-        $/Participant: 222475
+
+    2019
+        Participants: 225  Average: $222,475
+        Assets: $50,056,968
         RecordKeeper: THE VANGUARD GROUP, INC.
         Available Investments:
            - GALLIARD CAPITAL MANAGEMENT
                  : WELLS FARGO STABLE VALUE FUND
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST IV
-    2018: FMI CORPORATION RETIREMENT SAVINGS 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2R3D2T 
-        Participants: 268
-        Assets: 40439421
-        $/Participant: 150893
+
+    2018
+        Participants: 268  Average: $150,893
+        Assets: $40,439,421
         RecordKeeper: CAPTRUST FINANCIAL PARTNERS, LLC
         Available Investments:
            - WELLS FARGO BANK, N.A.
@@ -62,12 +50,10 @@ NC : RALEIGH
                  : WILMINGTON TR R/GR MANAGED ACCOUNT
                  : WILMINGTON TR R/IN MANAGED ACCOUNT
                  : WILMINGTON TR R/MODERATE MANAGED AC
-    2017: FMI CORPORATION RETIREMENT SAVINGS 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2R3D2T 
-        Participants: 235
-        Assets: 44167862
-        $/Participant: 187948
+
+    2017
+        Participants: 235  Average: $187,948
+        Assets: $44,167,862
         RecordKeeper: WELLS FARGO BANK, N.A.
         Available Investments:
            - WELLS FARGO BANK, N.A.
@@ -79,38 +65,33 @@ NC : RALEIGH
                  : WILMINGTON TR R/GR MANAGED ACCOUNT
                  : WILMINGTON TR R/IN MANAGED ACCOUNT
                  : WILMINGTON TR R/MODERATE MANAGED AC
-   [501]
-    2021: FMI CORPORATION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] FMI CORPORATION WELFARE BENEFITS PLAN [501]
+    2021  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
         Service Providers:
            - CIGNA HEALTH & LIFE INS CO : HLTH CARRIER PROVIDER (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
            - DIGITAL INSURANCE : INSURANCE BROKER (Insurance agents and brokers | Insurance services)
-    2020: FMI CORPORATION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2020
         Participants: 
         Service Providers:
            - CIGNA HEALTH & LIFE INS CO : HLTH CARRIER PROVIDER (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
            - DIGITAL INSURANCE : INSURANCE BROKER (Insurance agents and brokers | Insurance services)
-    2019: FMI CORPORATION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2019
         Participants: 
         Service Providers:
            - CIGNA HEALTH & LIFE INS CO : HLTH CARRIER PROVIDER (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
            - DIGITAL INSURANCE : INSURANCE BROKER (Insurance agents and brokers | Insurance services)
-    2018: FMI CORPORATION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2018
         Participants: 
         Service Providers:
            - CIGNA HEALTH & LIFE INS CO : HLTH CARRIER PROVIDER (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
            - DIGITAL INSURANCE : INSURANCE BROKER (Insurance agents and brokers | Insurance services)
-    2017: FMI CORPORATION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+    2017
         Participants: 
         Service Providers:
            - CIGNA HEALTH & LIFE INS CO : HLTH CARRIER PROVIDER (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)

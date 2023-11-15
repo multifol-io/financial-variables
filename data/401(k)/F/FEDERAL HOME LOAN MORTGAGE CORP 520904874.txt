@@ -1,12 +1,8 @@
-VA : MCLEAN
-  FEDERAL HOME LOAN MORTGAGE CORP  520904874
-   [002]
-    2022: FEDERAL HOME LOAN MORTGAGE CORP THRIFT/401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2K2F 
-        Participants: 11348
-        Assets: 2633666559
-        $/Participant: 232082
+FEDERAL HOME LOAN MORTGAGE CORP  520904874 -- VA : MCLEAN
+  [401(k)] FEDERAL HOME LOAN MORTGAGE CORP THRIFT/401(K) SAVINGS PLAN [002]
+    2022  [codes: 2E2G2J2K2F]
+        Participants: 11,348  Average: $232,082
+        Assets: $2,633,666,559
         RecordKeeper: BLACKROCK
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY
@@ -29,12 +25,10 @@ VA : MCLEAN
                  : VANGUARD TARGET RET 2065 TRUST PLUS
                  : VANGUARD TARGET RET 2070 PLUS
                  : VANGUARD TARGET RET INCOME TRUST PL
-    2021: FEDERAL HOME LOAN MORTGAGE CORP THRIFT/401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2K2F 
-        Participants: 10687
-        Assets: 3139997448
-        $/Participant: 293814
+
+    2021
+        Participants: 10,687  Average: $293,814
+        Assets: $3,139,997,448
         RecordKeeper: BLACKROCK
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY
@@ -54,12 +48,10 @@ VA : MCLEAN
                  : VANGUARD TARGET RET 2060 TRUST I
                  : VANGUARD TARGET RET 2065 TRUST I
                  : VANGUARD TARGET RET INCOME TRUST I
-    2020: FEDERAL HOME LOAN MORTGAGE CORP THRIFT/401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2K2F 
-        Participants: 10203
-        Assets: 2818996457
-        $/Participant: 276290
+
+    2020
+        Participants: 10,203  Average: $276,290
+        Assets: $2,818,996,457
         RecordKeeper: BLACKROCK
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY
@@ -79,12 +71,10 @@ VA : MCLEAN
                  : VANGUARD TARGET RET 2060 TRUST I
                  : VANGUARD TARGET RET 2065 TRUST I
                  : VANGUARD TARGET RET INCOME TRUST I
-    2019: FEDERAL HOME LOAN MORTGAGE CORP THRIFT/401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2K2F 
-        Participants: 9915
-        Assets: 2501834114
-        $/Participant: 252328
+
+    2019
+        Participants: 9,915  Average: $252,328
+        Assets: $2,501,834,114
         RecordKeeper: BLACKROCK
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY
@@ -104,12 +94,10 @@ VA : MCLEAN
                  : VANGUARD TARGET RET 2060 TRUST I
                  : VANGUARD TARGET RET 2065 TRUST I
                  : VANGUARD TARGET RET INCOME TRUST I
-    2018: FEDERAL HOME LOAN MORTGAGE CORP THRIFT/401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2K2F 
-        Participants: 9558
-        Assets: 2027342417
-        $/Participant: 212109
+
+    2018
+        Participants: 9,558  Average: $212,109
+        Assets: $2,027,342,417
         RecordKeeper: BLACKROCK
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY
@@ -129,12 +117,10 @@ VA : MCLEAN
                  : VANGUARD TARGET RET 2060 TRUST I
                  : VANGUARD TARGET RET 2065 TRUST I
                  : VANGUARD TARGET RET INCOME TRUST I
-    2017: FEDERAL HOME LOAN MORTGAGE CORP THRIFT/401(K) SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2K2F 
-        Participants: 8936
-        Assets: 1942464719
-        $/Participant: 217375
+
+    2017
+        Participants: 8,936  Average: $217,375
+        Assets: $1,942,464,719
         RecordKeeper: BLACKROCK
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY
@@ -154,201 +140,155 @@ VA : MCLEAN
                  : VANGUARD TARGET RET 2060 TRUST I
                  : VANGUARD TARGET RET 2065 TRUST I
                  : VANGUARD TARGET RET INCOME TRUST I
-   [501]
-    2022: FEDERAL HOME LOAN MORTGAGE CORP HEALTH CARE PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+  [Healthcare, Dental, Vision] FEDERAL HOME LOAN MORTGAGE CORP HEALTH CARE PLAN [501]
+    2022  [codes: 4A4D4E]
         Participants: 
-    2021: FEDERAL HOME LOAN MORTGAGE CORP HEALTH CARE PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2021
         Participants: 
-    2020: FEDERAL HOME LOAN MORTGAGE CORP HEALTH CARE PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2020
         Participants: 
-    2019: FEDERAL HOME LOAN MORTGAGE CORP HEALTH CARE PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2019
         Participants: 
-    2018: FEDERAL HOME LOAN MORTGAGE CORP HEALTH CARE PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2018
         Participants: 
-    2017: FEDERAL HOME LOAN MORTGAGE CORP HEALTH CARE PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2017
         Participants: 
-   [503]
-    2022: FHLMC HEALTH CARE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+  [Healthcare, Dental, Vision] FHLMC HEALTH CARE SPENDING ACCOUNT PLAN [503]
+    2022
         Participants: 
-    2021: FHLMC HEALTH CARE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2021
         Participants: 
-    2020: FHLMC HEALTH CARE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2020
         Participants: 
-    2019: FHLMC HEALTH CARE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2019
         Participants: 
-    2018: FHLMC HEALTH CARE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2018
         Participants: 
-    2017: FHLMC HEALTH CARE SPENDING ACCOUNT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2017
         Participants: 
-   [507]
-    2022: FHLMC EMPLOYEE ASSISTANCE PROGRAM PLAN
-        Benefit Category: Healthcare
-        Codes:  4A4Q
+
+  [Healthcare] FHLMC EMPLOYEE ASSISTANCE PROGRAM PLAN [507]
+    2022  [codes: 4A4Q]
         Participants: 
-    2021: FHLMC EMPLOYEE ASSISTANCE PROGRAM PLAN
-        Benefit Category: Healthcare
-        Codes:  4A4Q
+
+    2021
         Participants: 
-    2020: FHLMC EMPLOYEE ASSISTANCE PROGRAM PLAN
-        Benefit Category: Healthcare
-        Codes:  4A4Q
+
+    2020
         Participants: 
-    2019: FHLMC EMPLOYEE ASSISTANCE PROGRAM PLAN
-        Benefit Category: Healthcare
-        Codes:  4A4Q
+
+    2019
         Participants: 
-    2018: FHLMC EMPLOYEE ASSISTANCE PROGRAM PLAN
-        Benefit Category: Healthcare
-        Codes:  4A4Q
+
+    2018
         Participants: 
-    2017: FHLMC EMPLOYEE ASSISTANCE PROGRAM PLAN
-        Benefit Category: Healthcare
-        Codes:  4A4Q
+
+    2017
         Participants: 
-   [513]
-    2022: FHLMC ON-SITE MEDICAL CLINIC PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] FHLMC ON-SITE MEDICAL CLINIC PLAN [513]
+    2022  [codes: 4A]
         Participants: 
-    2021: FHLMC ON-SITE MEDICAL CLINIC PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2021
         Participants: 
-    2020: FHLMC ON-SITE MEDICAL CLINIC PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2020
         Participants: 
-    2019: FHLMC ON-SITE MEDICAL CLINIC PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2019
         Participants: 
-    2018: FHLMC ON-SITE MEDICAL CLINIC PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2018
         Participants: 
-    2017: FHLMC ON-SITE MEDICAL CLINIC PLAN
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2017
         Participants: 
-   [514]
-    2022: FHLMC HEALTH REIMBURSEMENT ARRANGEMENT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+  [Healthcare, Dental, Vision] FHLMC HEALTH REIMBURSEMENT ARRANGEMENT PLAN [514]
+    2022  [codes: 4A4D4E]
         Participants: 
-    2021: FHLMC HEALTH REIMBURSEMENT ARRANGEMENT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2021
         Participants: 
-    2020: FHLMC HEALTH REIMBURSEMENT ARRANGEMENT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2020
         Participants: 
-    2019: FHLMC HEALTH REIMBURSEMENT ARRANGEMENT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2019
         Participants: 
-    2018: FHLMC HEALTH REIMBURSEMENT ARRANGEMENT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2018
         Participants: 
-   [516]
-    2022: FLHMC 2020 VERP HEALTH REIMBURSEMENT ARRANGEMENT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+  [Healthcare, Dental, Vision] FLHMC 2020 VERP HEALTH REIMBURSEMENT ARRANGEMENT PLAN [516]
+    2022
         Participants: 
-    2021: FLHMC 2020 VERP HEALTH REIMBURSEMENT ARRANGEMENT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2021
         Participants: 
-    2020: FLHMC 2020 VERP HEALTH REIMBURSEMENT ARRANGEMENT PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2020
         Participants: 
-   [502]
-    2022: FHLMC GROUP TERM LIFE INSURANCE & ACCIDENTAL DEATH & PERSONAL LOSS INSURANCE PLAN
-        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
-        Codes:  4B4F4H4L
+
+  [Life insurance, Short-term disability, Long-term disability, Travel accident] FHLMC GROUP TERM LIFE INSURANCE & ACCIDENTAL DEATH & PERSONAL LOSS INSURANCE PLAN [502]
+    2022  [codes: 4B4F4H4L]
         Participants: 
-    2021: FHLMC GROUP TERM LIFE INSURANCE & ACCIDENTAL DEATH & PERSONAL LOSS INSURANCE PLAN
-        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
-        Codes:  4B4F4H4L
+
+    2021
         Participants: 
-    2020: FHLMC GROUP TERM LIFE INSURANCE & ACCIDENTAL DEATH & PERSONAL LOSS INSURANCE PLAN
-        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
-        Codes:  4B4F4H4L
+
+    2020
         Participants: 
-    2019: FHLMC GROUP TERM LIFE INSURANCE & ACCIDENTAL DEATH & PERSONAL LOSS INSURANCE PLAN
-        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
-        Codes:  4B4F4H4L
+
+    2019
         Participants: 
-    2018: FHLMC GROUP TERM LIFE INSURANCE & ACCIDENTAL DEATH & PERSONAL LOSS INSURANCE PLAN
-        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
-        Codes:  4B4F4H4L
+
+    2018
         Participants: 
-    2017: FHLMC GROUP TERM LIFE INSURANCE & ACCIDENTAL DEATH & PERSONAL LOSS INSURANCE PLAN
-        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
-        Codes:  4B4F4H4L
+
+    2017
         Participants: 
-   [506]
-    2022: FHLMC LONG-TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+  [Long-term disability] FHLMC LONG-TERM DISABILITY PLAN [506]
+    2022  [codes: 4H]
         Participants: 
-    2021: FHLMC LONG-TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2021
         Participants: 
-    2020: FHLMC LONG-TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2020
         Participants: 
-    2019: FHLMC LONG-TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2019
         Participants: 
-    2018: FHLMC LONG-TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2018
         Participants: 
-    2017: FHLMC LONG-TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2017
         Participants: 
-   [001]
-    2017: FEDERAL HOME LOAN MORTGAGE CORP EMPLOYEES' PENSION PLAN
-        Benefit Category: Other
-        Codes: 1H 
+
+  [Other] FEDERAL HOME LOAN MORTGAGE CORP EMPLOYEES' PENSION PLAN [001]
+    2017  [codes: 1H]
         Participants: 0
         Service Providers:
            - STATE STREET BANK & TRUST COMPANY : DIRECTED TRUSTEE (Trustee(directed) | Investment management | Other fees | Float revenue)
-   [006]
-    2020: FEDERAL HOME LOAN MORTGAGE CORP TRANSITIONAL
-        Benefit Category: Other
-        Codes: 2A2F2G2T 
+
+  [Other] FEDERAL HOME LOAN MORTGAGE CORP TRANSITIONAL [006]
+    2020  [codes: 2A2F2G2T]
         Participants: 0
         RecordKeeper: FIDELITY INVESTMENTS INST OPNS CO
         Available Investments:
@@ -370,12 +310,11 @@ VA : MCLEAN
                  : VANGUARD TARGET RET 2060 TRUST I
                  : VANGUARD TARGET RET 2065 TRUST I
                  : VANGUARD TARGET RET INCOME TRUST I
-    2017: FEDERAL HOME LOAN MORTGAGE CORP TRANSITIONAL RETIREMENT SAVINGS PLAN
-        Benefit Category: Other
-        Codes: 2A2F2G2T 
-        Participants: 3350
-        Assets: 150131095
-        $/Participant: 44815
+
+  [Other] FEDERAL HOME LOAN MORTGAGE CORP TRANSITIONAL RETIREMENT SAVINGS PLAN
+    2017
+        Participants: 3,350  Average: $44,815
+        Assets: $150,131,095
         RecordKeeper: FIDELITY INVESTMENTS INST OPNS CO
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY
@@ -396,78 +335,60 @@ VA : MCLEAN
                  : VANGUARD TARGET RET 2060 TRUST I
                  : VANGUARD TARGET RET 2065 TRUST I
                  : VANGUARD TARGET RET INCOME TRUST I
-   [512]
-    2022: FHLMC LONG TERM CARE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+  [Other] FHLMC LONG TERM CARE INSURANCE PLAN [512]
+    2022  [codes: 4Q]
         Participants: 
-    2021: FHLMC LONG TERM CARE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2021
         Participants: 
-    2020: FHLMC LONG TERM CARE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2020
         Participants: 
-    2019: FHLMC LONG TERM CARE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2019
         Participants: 
-    2018: FHLMC LONG TERM CARE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2018
         Participants: 
-    2017: FHLMC LONG TERM CARE INSURANCE PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2017
         Participants: 
-   [508]
-    2022: FHLMC SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] FHLMC SEVERANCE PLAN [508]
+    2022  [codes: 4I]
         Participants: 
-    2021: FHLMC SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2021
         Participants: 
-    2020: FHLMC SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2020
         Participants: 
-    2019: FHLMC SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2019
         Participants: 
-    2018: FHLMC SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2018
         Participants: 
-    2017: FHLMC SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2017
         Participants: 
-   [505]
-    2022: FHLMC BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Short-term disability, Travel accident
-        Codes:  4L4F
+
+  [Short-term disability, Travel accident] FHLMC BUSINESS TRAVEL ACCIDENT INSURANCE PLAN [505]
+    2022  [codes: 4L4F]
         Participants: 
-    2021: FHLMC BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Short-term disability, Travel accident
-        Codes:  4L4F
+
+    2021
         Participants: 
-    2020: FHLMC BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Short-term disability, Travel accident
-        Codes:  4L4F
+
+    2020
         Participants: 
-    2019: FHLMC BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Short-term disability, Travel accident
-        Codes:  4L4F
+
+    2019
         Participants: 
-    2018: FHLMC BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Short-term disability, Travel accident
-        Codes:  4L4F
+
+    2018
         Participants: 
-    2017: FHLMC BUSINESS TRAVEL ACCIDENT INSURANCE PLAN
-        Benefit Category: Short-term disability, Travel accident
-        Codes:  4L4F
+
+    2017
         Participants: 

@@ -1,99 +1,73 @@
-NJ : WOODBRIDGE
-  BESSEMER TRUST COMPANY  220770670
-   [002]
-    2022: BESSEMER TRUST COMPANY 401K AND PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 
-        Participants: 1473
-        Assets: 525315313
-        $/Participant: 356629
-    2021: BESSEMER TRUST COMPANY 401K AND PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 
-        Participants: 1373
-        Assets: 610137092
-        $/Participant: 444382
-    2020: BESSEMER TRUST COMPANY 401K AND PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 
-        Participants: 1283
-        Assets: 520756347
-        $/Participant: 405889
-    2019: BESSEMER TRUST COMPANY 401K AND PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 
-        Participants: 1299
-        Assets: 429191700
-        $/Participant: 330401
-    2018: BESSEMER TRUST COMPANY 401K AND PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T 
-        Participants: 1200
-        Assets: 336582768
-        $/Participant: 280485
-    2017: BESSEMER TRUST COMPANY 401K AND PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S 
-        Participants: 1161
-        Assets: 334022401
-        $/Participant: 287702
-   [001]
-    2022: RETIREMENT PLAN FOR THE EMPLOYEES OF BESSEMER TRUST COMPANY
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 760
-        Assets: 109621201
-        $/Participant: 144238
+BESSEMER TRUST COMPANY  220770670 -- NJ : WOODBRIDGE
+  [401(k)] BESSEMER TRUST COMPANY 401K AND PROFIT SHARING PLAN [002]
+    2022  [codes: 2E2F2G2J2K2S2T]
+        Participants: 1,473  Average: $356,629
+        Assets: $525,315,313
+
+    2021
+        Participants: 1,373  Average: $444,382
+        Assets: $610,137,092
+
+    2020
+        Participants: 1,283  Average: $405,889
+        Assets: $520,756,347
+
+    2019
+        Participants: 1,299  Average: $330,401
+        Assets: $429,191,700
+
+    2018
+        Participants: 1,200  Average: $280,485
+        Assets: $336,582,768
+
+    2017  [codes: 2E2F2G2J2K2S]
+        Participants: 1,161  Average: $287,702
+        Assets: $334,022,401
+
+  [Pension] RETIREMENT PLAN FOR THE EMPLOYEES OF BESSEMER TRUST COMPANY [001]
+    2022  [codes: 1A1I]
+        Participants: 760  Average: $144,238
+        Assets: $109,621,201
         Available Investments:
            - BESSEMER TRUST COMPANY
                  : BTC COLL EMP BEN F/I FUND NO 4
                  : BTC EMP BEN ALL CAP CORE FD NO 3
-    2021: RETIREMENT PLAN FOR THE EMPLOYEES OF BESSEMER TRUST COMPANY
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 765
-        Assets: 139745005
-        $/Participant: 182673
+
+    2021
+        Participants: 765  Average: $182,673
+        Assets: $139,745,005
         Available Investments:
            - BESSEMER TRUST COMPANY
                  : BTC COLL EMP BEN F/I FUND NO 4
                  : BTC EMP BEN ALL CAP CORE FD NO 3
-    2020: RETIREMENT PLAN FOR THE EMPLOYEES OF BESSEMER TRUST COMPANY
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 769
-        Assets: 131168173
-        $/Participant: 170569
+
+    2020
+        Participants: 769  Average: $170,569
+        Assets: $131,168,173
         Available Investments:
            - BESSEMER TRUST COMPANY
                  : BTC COLL EMP BEN F/I FUND NO 4
                  : BTC EMP BEN ALL CAP CORE FD NO 3
-    2019: RETIREMENT PLAN FOR THE EMPLOYEES OF BESSEMER TRUST COMPANY
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 775
-        Assets: 120635607
-        $/Participant: 155658
+
+    2019
+        Participants: 775  Average: $155,658
+        Assets: $120,635,607
         Available Investments:
            - BESSEMER TRUST COMPANY
                  : BTC COLL EMP BEN F/I FUND NO 4
                  : BTC EMP BEN ALL CAP CORE FD NO 3
-    2018: RETIREMENT PLAN FOR THE EMPLOYEES OF BESSEMER TRUST COMPANY
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 782
-        Assets: 96945790
-        $/Participant: 123971
+
+    2018
+        Participants: 782  Average: $123,971
+        Assets: $96,945,790
         Available Investments:
            - BESSEMER TRUST COMPANY
                  : BTC COLL EMP BEN F/I FUND NO 4
                  : BTC EMP BEN ALL CAP CORE FD NO 3
-    2017: RETIREMENT PLAN FOR THE EMPLOYEES OF BESSEMER TRUST COMPANY
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 792
-        Assets: 104529905
-        $/Participant: 131982
+
+    2017
+        Participants: 792  Average: $131,982
+        Assets: $104,529,905
         Available Investments:
            - BESSEMER TRUST COMPANY
                  : BTC COLL EMP BEN F/I FUND NO 4

@@ -1,11 +1,8 @@
-GA : ATLANTA
-  TROUTMAN PEPPER HAMILTON SANDERS LLP  580946915
-    2022: TROUTMAN PEPPER DEFINED CONTRIBUTION PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2R2T3H 
-        Participants: 3647
-        Assets: 978343945
-        $/Participant: 268259
+TROUTMAN PEPPER HAMILTON SANDERS LLP  580946915 -- GA : ATLANTA
+  [401(k)] TROUTMAN PEPPER DEFINED CONTRIBUTION PLAN
+    2022  [codes: 2E2G2J2R2T3H]
+        Participants: 3,647  Average: $268,259
+        Assets: $978,343,945
         RecordKeeper: FIDUCIENT ADVISORS LLC
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
@@ -24,12 +21,10 @@ GA : ATLANTA
                  : VFTC TARGET RET 2060 TR II
                  : VFTC TARGET RET 2065 TR II
                  : VFTC TARGET RET INCOME TR II
-    2021: TROUTMAN PEPPER DEFINED CONTRIBUTION PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2R2T3H 
-        Participants: 3505
-        Assets: 1246743428
-        $/Participant: 355704
+
+    2021
+        Participants: 3,505  Average: $355,704
+        Assets: $1,246,743,428
         RecordKeeper: FIDUCIENT ADVISORS LLC
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
@@ -46,12 +41,11 @@ GA : ATLANTA
                  : VFTC TARGET RET 2060 TR II
                  : VFTC TARGET RET 2065 TR II
                  : VFTC TARGET RET INCOME TR II
-    2020: TROUTMAN SANDERS LLP CASH OR DEFERRED PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2R2T3H 
-        Participants: 3404
-        Assets: 1145485365
-        $/Participant: 336511
+
+  [401(k)] TROUTMAN SANDERS LLP CASH OR DEFERRED PROFIT SHARING PLAN
+    2020
+        Participants: 3,404  Average: $336,511
+        Assets: $1,145,485,365
         RecordKeeper: DIMEO SCHNEIDER & ASSOCIATES LLC
         Available Investments:
            - CHARLES SCHWAB BANK
@@ -70,12 +64,10 @@ GA : ATLANTA
            - WELLS FARGO BANK
                  : S&P INDEX FUND N
                  : STABLE RETURN FUND N
-    2019: TROUTMAN SANDERS LLP CASH OR DEFERRED PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2R2T3H 
-        Participants: 1979
-        Assets: 489322569
-        $/Participant: 247257
+
+    2019
+        Participants: 1,979  Average: $247,257
+        Assets: $489,322,569
         RecordKeeper: DIMEO SCHNEIDER & ASSOCIATES LLC
         Available Investments:
            - CHARLES SCHWAB BANK
@@ -94,12 +86,10 @@ GA : ATLANTA
            - WELLS FARGO BANK
                  : S&P INDEX FUND N
                  : STABLE RETURN FUND N
-    2018: TROUTMAN SANDERS LLP CASH OR DEFERRED PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2R2T3H 
-        Participants: 1900
-        Assets: 426027979
-        $/Participant: 224225
+
+    2018
+        Participants: 1,900  Average: $224,225
+        Assets: $426,027,979
         RecordKeeper: DIMEO SCHNEIDER & ASSOCIATES LLC
         Available Investments:
            - CHARLES SCHWAB BANK
@@ -117,12 +107,10 @@ GA : ATLANTA
            - WELLS FARGO BANK
                  : S&P INDEX FUND N
                  : STABLE RETURN FUND N
-    2017: TROUTMAN SANDERS LLP CASH OR DEFERRED PROFIT SHARING PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2R2T3H 
-        Participants: 1848
-        Assets: 448697036
-        $/Participant: 242801
+
+    2017
+        Participants: 1,848  Average: $242,801
+        Assets: $448,697,036
         RecordKeeper: DI MEO SCHNEIDER & ASSOCIATES LLC
         Available Investments:
            - CHARLES SCHWAB BANK
@@ -140,213 +128,171 @@ GA : ATLANTA
            - WELLS FARGO BANK
                  : S&P INDEX FUND N
                  : STABLE RETURN FUND N
-   [008]
-    2020: PEPPER HAMILTON LLP EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3F 
+
+  [401(k)] PEPPER HAMILTON LLP EMPLOYEE SAVINGS PLAN [008]
+    2020  [codes: 2E2F2G2J2K2T3F]
         Participants: 0
         RecordKeeper: THE VANGUARD GROUP, INC.
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RET SAVINGS TRUST III
-   [503]
-    2022: TROUTMAN PEPPER HAMILTON SANDERS LLP EMPLOYEE HEALTH CARE PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D4Q
+
+  [Healthcare, Dental] TROUTMAN PEPPER HAMILTON SANDERS LLP EMPLOYEE HEALTH CARE PLAN [503]
+    2022  [codes: 4A4D4Q]
         Participants: 
         Service Providers:
            - CIGNA HEALTH AND LIFE INS CO. : MEDICAL FEES (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
            - ALLIANT INSUANCE SERVICES INC (GA) : CLAIM PROCESSING (Claims processing)
-    2021: TROUTMAN PEPPER HAMILTON SANDERS LLP EMPLOYEE HEALTH CARE PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D4Q
+
+    2021
         Participants: 
         Service Providers:
            - CIGNA HEALTH AND LIFE INS CO. : MEDICAL FEES (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
            - ALLIANT INSUANCE SERVICES INC (GA) : CLAIM PROCESSING (Claims processing)
-    2020: TROUTMAN SANDERS LLP EMPLOYEE HEALTH CARE PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D4Q
+
+  [Healthcare, Dental] TROUTMAN SANDERS LLP EMPLOYEE HEALTH CARE PLAN
+    2020
         Participants: 
         Service Providers:
            - CIGNA HEALTH AND LIFE INS CO. : MEDICAL FEES (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
            - ALLIANT INSURANCE SERVICES INC :  (Insurance agents and brokers)
-    2019: TROUTMAN SANDERS LLP EMPLOYEE HEALTH CARE PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D4Q
+
+    2019
         Participants: 
         Service Providers:
            - CIGNA HEALTH AND LIFE INS CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
            - CVS PHARMACY, INC : CLAIMS PROCESSING (Claims processing)
            - ALLIANT INSURANCE SERVICES INC :  (Insurance agents and brokers)
-    2018: TROUTMAN SANDERS LLP EMPLOYEE HEALTH CARE PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D4Q
+
+    2018
         Participants: 
         Service Providers:
            - CIGNA HEALTH AND LIFE INS CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
            - ALLIANT INSURANCE SERVICES INC :  (Insurance agents and brokers)
            - CVS PHARMACY, INC : CLAIMS PROCESSING (Claims processing)
-    2017: TROUTMAN SANDERS LLP EMPLOYEE HEALTH CARE PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D4Q
+
+    2017
         Participants: 
         Service Providers:
            - CIGNA HEALTH AND LIFE INS CO. :  (Claims processing | Contract Administrator | Named fiduciary | Participant communication | Other services | Direct payment from the plan | Non - monetary compensation | Float revenue)
            - ALLIANT INSURANCE SERVICES INC :  (Insurance agents and brokers)
-   [504]
-    2022: TROUTMAN PEPPER HAMILTON SANDERS LLP FLEXIBLE BENEFITS PLAN HEALTH FSA COMPONENT
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] TROUTMAN PEPPER HAMILTON SANDERS LLP FLEXIBLE BENEFITS PLAN HEALTH FSA COMPONENT [504]
+    2022  [codes: 4A]
         Participants: 
-    2021: TROUTMAN PEPPER HAMILTON SANDERS LLP FLEXIBLE BENEFITS PLAN HEALTH FSA COMPONENT
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2021
         Participants: 
-    2020: TROUTMAN SANDERS LLP FLEXIBLE BENEFITS PLAN HEALTH FSA COMPONENT
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] TROUTMAN SANDERS LLP FLEXIBLE BENEFITS PLAN HEALTH FSA COMPONENT
+    2020
         Participants: 
-    2019: TROUTMAN SANDERS LLP FLEXIBLE BENEFITS PLAN HEALTH FSA COMPONENT
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2019
         Participants: 
-    2018: TROUTMAN SANDERS LLP FLEXIBLE BENEFITS PLAN HEALTH FSA COMPONENT
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2018
         Participants: 
-    2017: TROUTMAN SANDERS LLP FLEXIBLE BENEFITS PLAN HEALTH FSA COMPONENT
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2017
         Participants: 
-   [507]
-    2022: TROUTMAN PEPPER HAMILTON SANDERS LLP WELLNESS PROGRAM
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] TROUTMAN PEPPER HAMILTON SANDERS LLP WELLNESS PROGRAM [507]
+    2022
         Participants: 
-    2021: TROUTMAN PEPPER HAMILTON SANDERS LLP WELLNESS PROGRAM
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2021
         Participants: 
-    2020: TROUTMAN SANDERS LLP WELLNESS PROGRAM
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] TROUTMAN SANDERS LLP WELLNESS PROGRAM
+    2020
         Participants: 
-    2019: TROUTMAN SANDERS LLP WELLNESS PROGRAM
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2019
         Participants: 
-    2018: TROUTMAN SANDERS LLP WELLNESS PROGRAM
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2018
         Participants: 
-    2017: TROUTMAN SANDERS LLP WELLNESS PROGRAM
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2017
         Participants: 
-   [530]
-    2020: PEPPER HAMILTON LLP WELFARE BENEFIT PLANS FOR PARTNERS AND EMPLOYEES
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Severance, Travel accident
-        Codes:  4A4B4D4F4I4L4Q
+
+  [Healthcare, Life insurance, Dental, Short-term disability, Severance, Travel accident] PEPPER HAMILTON LLP WELFARE BENEFIT PLANS FOR PARTNERS AND EMPLOYEES [530]
+    2020  [codes: 4A4B4D4F4I4L4Q]
         Participants: 
         Service Providers:
            - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator)
-   [502]
-    2022: GROUP BENEFITS PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+  [Life insurance] GROUP BENEFITS PLAN [502]
+    2022  [codes: 4B4Q]
         Participants: 
-    2021: GROUP BENEFITS PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2021
         Participants: 
-    2020: GROUP BENEFITS PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2020
         Participants: 
-    2019: GROUP BENEFITS PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2019
         Participants: 
-    2018: GROUP BENEFITS PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2018
         Participants: 
-    2017: GROUP BENEFITS PLAN
-        Benefit Category: Life insurance
-        Codes:  4B4Q
+
+    2017
         Participants: 
-   [007]
-    2022: TROUTMAN PEPPER CASH BALANCE PLAN
-        Benefit Category: Pension
-        Codes: 1C3B 
-        Participants: 484
-        Assets: 124438916
-        $/Participant: 257105
+
+  [Pension] TROUTMAN PEPPER CASH BALANCE PLAN [007]
+    2022  [codes: 1C3B]
+        Participants: 484  Average: $257,105
+        Assets: $124,438,916
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD TARGET RET INC TRUST II
-    2021: TROUTMAN PEPPER CASH BALANCE PLAN
-        Benefit Category: Pension
-        Codes: 1C3B 
-        Participants: 471
-        Assets: 112703318
-        $/Participant: 239285
-    2020: TROUTMAN PEPPER CASH BALANCE PLAN
-        Benefit Category: Pension
-        Codes: 1C3B 
-        Participants: 290
-        Assets: 79645110
-        $/Participant: 274638
-    2019: TROUTMAN SANDERS LLP CASH BALANCE PLAN
-        Benefit Category: Pension
-        Codes: 1C3B 
-        Participants: 286
-        Assets: 70331433
-        $/Participant: 245914
-    2018: TROUTMAN SANDERS LLP CASH BALANCE PLAN
-        Benefit Category: Pension
-        Codes: 1C3B 
-        Participants: 281
-        Assets: 47123166
-        $/Participant: 167698
-    2017: TROUTMAN SANDERS LLP CASH BALANCE PLAN
-        Benefit Category: Pension
-        Codes: 1C3B 
-        Participants: 280
-        Assets: 36297445
-        $/Participant: 129633
+
+    2021
+        Participants: 471  Average: $239,285
+        Assets: $112,703,318
+
+    2020
+        Participants: 290  Average: $274,638
+        Assets: $79,645,110
+
+  [Pension] TROUTMAN SANDERS LLP CASH BALANCE PLAN
+    2019
+        Participants: 286  Average: $245,914
+        Assets: $70,331,433
+
+    2018
+        Participants: 281  Average: $167,698
+        Assets: $47,123,166
+
+    2017
+        Participants: 280  Average: $129,633
+        Assets: $36,297,445
         RecordKeeper: WELLS FARGO BANK, N.A.
-PA : PHILADELPHIA
-   [012]
-    2020: PEPPER HAMILTON LLP PARTNER PARITY PLAN
-        Benefit Category: Pension
-        Codes: 1C3B 
+ -- PA : PHILADELPHIA
+  [Pension] PEPPER HAMILTON LLP PARTNER PARITY PLAN [012]
+    2020
         Participants: 0
         RecordKeeper: WELLS FARGO BANK, N.A.
-GA : ATLANTA
-   [501]
-    2022: TROUTMAN PEPPER HAMILTON SANDERS LLP LONG TERM DISABILITY INCOME PLAN
-        Benefit Category: Short-term disability, Long-term disability
-        Codes:  4F4H4Q
+ -- GA : ATLANTA
+  [Short-term disability, Long-term disability] TROUTMAN PEPPER HAMILTON SANDERS LLP LONG TERM DISABILITY INCOME PLAN [501]
+    2022  [codes: 4F4H4Q]
         Participants: 
-    2021: TROUTMAN PEPPER HAMILTON SANDERS LLP LONG TERM DISABILITY INCOME PLAN
-        Benefit Category: Short-term disability, Long-term disability
-        Codes:  4F4H4Q
+
+    2021
         Participants: 
-    2020: TROUTMAN SANDERS LLP LONG TERM DISABILITY INCOME PLAN
-        Benefit Category: Short-term disability, Long-term disability
-        Codes:  4F4H4Q
+
+  [Short-term disability, Long-term disability] TROUTMAN SANDERS LLP LONG TERM DISABILITY INCOME PLAN
+    2020
         Participants: 
-    2019: TROUTMAN SANDERS LLP LONG TERM DISABILITY INCOME PLAN
-        Benefit Category: Short-term disability, Long-term disability
-        Codes:  4F4H4Q
+
+    2019
         Participants: 
-    2018: TROUTMAN SANDERS LLP LONG TERM DISABILITY INCOME PLAN
-        Benefit Category: Short-term disability, Long-term disability
-        Codes:  4F4H
+
+    2018  [codes: 4F4H]
         Participants: 
-    2017: TROUTMAN SANDERS LLP LONG TERM DISABILITY INCOME PLAN
-        Benefit Category: Short-term disability, Long-term disability
-        Codes:  4F4H
+
+    2017
         Participants: 

@@ -1,110 +1,85 @@
-MA : BOSTON
-  EATON VANCE MANAGEMENT  043101341
-    2020: EATON VANCE PROFIT SHARING AND SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D3H 
-        Participants: 2490
-        Assets: 776823895
-        $/Participant: 311977
+EATON VANCE MANAGEMENT  043101341 -- MA : BOSTON
+  [401(k)] EATON VANCE PROFIT SHARING AND SAVINGS PLAN
+    2020  [codes: 2E2F2G2J2K2S2T3D3H]
+        Participants: 2,490  Average: $311,977
+        Assets: $776,823,895
         RecordKeeper: CHARLES SCHWAB & CO.,INC
         Available Investments:
            - EATON VANCE TRUST COMPANY
                  : EV EMPLOYEE BENEFIT PSSP FUND
-    2019: EATON VANCE PROFIT SHARING AND SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D3H 
-        Participants: 2365
-        Assets: 660316129
-        $/Participant: 279203
+
+    2019
+        Participants: 2,365  Average: $279,203
+        Assets: $660,316,129
         RecordKeeper: CHARLES SCHWAB & CO.,INC
         Available Investments:
            - EATON VANCE TRUST COMPANY
                  : EV EMPLOYEE BENEFIT PSSP FUND
-    2018: EATON VANCE PROFIT SHARING AND SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D3H2S 
-        Participants: 2192
-        Assets: 517671902
-        $/Participant: 236164
+
+    2018  [codes: 2E2F2G2J2K2T3D3H2S]
+        Participants: 2,192  Average: $236,164
+        Assets: $517,671,902
         RecordKeeper: CHARLES SCHWAB & CO.,INC
         Available Investments:
            - EATON VANCE TRUST COMPANY
                  : EV EMPLOYEE BENEFIT PSSP FUND
-    2017: EATON VANCE PROFIT SHARING AND SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D3H2S 
-        Participants: 2030
-        Assets: 522670257
-        $/Participant: 257473
+
+    2017
+        Participants: 2,030  Average: $257,473
+        Assets: $522,670,257
         RecordKeeper: CHARLES SCHWAB & CO.,INC
         Available Investments:
            - EATON VANCE TRUST COMPANY
                  : EV EMPLOYEE BENEFIT PSSP FUND
-   [501]
-    2021: EATON VANCE CONSOLIDATED HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4H4L4Q4E4G
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident] EATON VANCE CONSOLIDATED HEALTH AND WELFARE BENEFIT PLAN [501]
+    2021  [codes: 4A4B4D4H4L4Q4E4G]
         Participants: 0
-    2020: EATON VANCE CONSOLIDATED HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4H4L4Q4E4G
-        Participants: 1924
-    2019: EATON VANCE CONSOLIDATED HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4H4L4Q4E4G
-        Participants: 1810
-    2018: EATON VANCE CONSOLIDATED HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4H4L4Q4E4G
-        Participants: 1707
-    2017: EATON VANCE CONSOLIDATED HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4H4L4Q4E
-        Participants: 1609
-   [504]
-    2021: EATON VANCE MANAGEMENT FLEXIBLE SPENDING PLAN
-        Benefit Category: Healthcare
-        Codes:  4A4Q
+
+    2020
+        Participants: 1,924
+
+    2019
+        Participants: 1,810
+
+    2018
+        Participants: 1,707
+
+    2017  [codes: 4A4B4D4H4L4Q4E]
+        Participants: 1,609
+
+  [Healthcare] EATON VANCE MANAGEMENT FLEXIBLE SPENDING PLAN [504]
+    2021  [codes: 4A4Q]
         Participants: 0
-    2020: EATON VANCE MANAGEMENT FLEXIBLE SPENDING PLAN
-        Benefit Category: Healthcare
-        Codes:  4A4Q
+
+    2020
         Participants: 448
-    2019: EATON VANCE MANAGEMENT FLEXIBLE SPENDING PLAN
-        Benefit Category: Healthcare
-        Codes:  4A4Q
+
+    2019
         Participants: 463
-    2018: EATON VANCE MANAGEMENT FLEXIBLE SPENDING PLAN
-        Benefit Category: Healthcare
-        Codes:  4A4Q
+
+    2018
         Participants: 473
-    2017: EATON VANCE MANAGEMENT FLEXIBLE SPENDING PLAN
-        Benefit Category: Healthcare
-        Codes:  4A4Q
+
+    2017
         Participants: 451
-   [003]
-    2017: EATON VANCE CORP. DEFERRED COMPENSATION PLAN
-        Benefit Category: Other
-        Codes: 3C3H 
+
+  [Other] EATON VANCE CORP. DEFERRED COMPENSATION PLAN [003]
+    2017  [codes: 3C3H]
         Participants: 0
-   [508]
-    2021: EATON VANCE MANAGEMENT EDUCATIONAL ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4J4Q
+
+  [Other] EATON VANCE MANAGEMENT EDUCATIONAL ASSISTANCE PLAN [508]
+    2021  [codes: 4J4Q]
         Participants: 0
-    2020: EATON VANCE MANAGEMENT EDUCATIONAL ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4J4Q
+
+    2020
         Participants: 380
-    2019: EATON VANCE MANAGEMENT EDUCATIONAL ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4J4Q
+
+    2019
         Participants: 411
-    2018: EATON VANCE MANAGEMENT EDUCATIONAL ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4J4Q
+
+    2018
         Participants: 383
-    2017: EATON VANCE MANAGEMENT EDUCATIONAL ASSISTANCE PLAN
-        Benefit Category: Other
-        Codes:  4J4Q
+
+    2017
         Participants: 321

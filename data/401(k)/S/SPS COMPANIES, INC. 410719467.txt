@@ -1,12 +1,8 @@
-MN : ST. LOUIS PARK
-  SPS COMPANIES, INC.  410719467
-   [004]
-    2021: SPS COMPANIES, INC. SALARY SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 188
-        Assets: 12751122
-        $/Participant: 67825
+SPS COMPANIES, INC.  410719467 -- MN : ST. LOUIS PARK
+  [401(k)] SPS COMPANIES, INC. SALARY SAVINGS PLAN [004]
+    2021  [codes: 2E2F2G2J2K2S2T3D]
+        Participants: 188  Average: $67,825
+        Assets: $12,751,122
         RecordKeeper: MINNESOTA LIFE INSURANCE COMPANY
         Available Investments:
            - MINNESOTA LIFE INSURANCE COMPANY
@@ -31,12 +27,10 @@ MN : ST. LOUIS PARK
                  : VANGUARD TOT BOND MKT IDX ADM
                  : VGD EXTENDED MKT IDX ADM
                  : VGD TTL INTL BD IDX ADMIRAL
-    2020: SPS COMPANIES, INC. SALARY SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 206
-        Assets: 14276902
-        $/Participant: 69305
+
+    2020
+        Participants: 206  Average: $69,305
+        Assets: $14,276,902
         RecordKeeper: MINNESOTA LIFE INSURANCE COMPANY
         Available Investments:
            - MINNESOTA LIFE INSURANCE COMPANY
@@ -68,12 +62,10 @@ MN : ST. LOUIS PARK
                  : VANGUARD TOT BOND MKT IDX ADM
                  : VGD EXTENDED MKT IDX ADM
                  : VGD TTL INTL BD IDX ADMIRAL
-    2019: SPS COMPANIES, INC. SALARY SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 211
-        Assets: 10292240
-        $/Participant: 48778
+
+    2019
+        Participants: 211  Average: $48,778
+        Assets: $10,292,240
         RecordKeeper: MINNESOTA LIFE INSURANCE COMPANY
         Available Investments:
            - MINNESOTA LIFE INSURANCE COMPANY
@@ -103,12 +95,10 @@ MN : ST. LOUIS PARK
                  : VANGUARD TOT INTL STK IDX ADM
                  : VGD EXTENDED MKT IDX ADM
                  : VGD TTL INTL BD IDX ADMIRAL
-    2018: SPS COMPANIES, INC. SALARY SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 213
-        Assets: 11479498
-        $/Participant: 53894
+
+    2018
+        Participants: 213  Average: $53,894
+        Assets: $11,479,498
         RecordKeeper: MINNESOTA LIFE INSURANCE COMPANY
         Available Investments:
            - MINNESOTA LIFE INSURANCE COMPANY
@@ -139,12 +129,10 @@ MN : ST. LOUIS PARK
                  : VANGUARD TOT INTL STK IDX ADM
                  : VGD EXTENDED MKT IDX ADM
                  : VGD TTL INTL BD IDX ADMIRAL
-    2017: SPS COMPANIES, INC. SALARY SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 198
-        Assets: 11744485
-        $/Participant: 59315
+
+    2017
+        Participants: 198  Average: $59,315
+        Assets: $11,744,485
         RecordKeeper: MINNESOTA LIFE INSURANCE COMPANY
         Available Investments:
            - MINNESOTA LIFE INSURANCE COMPANY
@@ -175,63 +163,43 @@ MN : ST. LOUIS PARK
                  : VANGUARD TOT INTL STK IDX ADM
                  : VGD EXTENDED MKT IDX ADM
                  : VGD TTL INTL BD IDX ADMIRAL
-MN : ST LOUIS PARK
-   [002]
-    2021: SPS COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3I 
-        Participants: 113
-        Assets: 50219186
-        $/Participant: 444417
-    2020: SPS COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3I 
-        Participants: 123
-        Assets: 37959799
-        $/Participant: 308616
-MN : ST. LOUIS PARK
-    2019: SPS COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O 
-        Participants: 118
-        Assets: 33096739
-        $/Participant: 280480
-    2018: SPS COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O 
-        Participants: 120
-        Assets: 30443289
-        $/Participant: 253694
-    2017: SPS COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2O 
-        Participants: 134
-        Assets: 26314922
-        $/Participant: 196380
-MN : ST LOUIS PARK
-   [502]
-    2022: SPS COMPANIES, INC. FLEX PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4F4H4L
+ -- MN : ST LOUIS PARK
+  [Employee Stock Ownership Plan] SPS COMPANIES, INC. EMPLOYEE STOCK OWNERSHIP PLAN [002]
+    2021  [codes: 2I2P2Q3I]
+        Participants: 113  Average: $444,417
+        Assets: $50,219,186
+
+    2020
+        Participants: 123  Average: $308,616
+        Assets: $37,959,799
+ -- MN : ST. LOUIS PARK
+    2019  [codes: 2I2O]
+        Participants: 118  Average: $280,480
+        Assets: $33,096,739
+
+    2018
+        Participants: 120  Average: $253,694
+        Assets: $30,443,289
+
+    2017
+        Participants: 134  Average: $196,380
+        Assets: $26,314,922
+ -- MN : ST LOUIS PARK
+  [Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident] SPS COMPANIES, INC. FLEX PLAN [502]
+    2022  [codes: 4A4B4D4F4H4L]
         Participants: 
-    2021: SPS COMPANIES, INC. FLEX PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4F4H4L
+
+    2021
         Participants: 
-    2020: SPS COMPANIES, INC. FLEX PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4F4H4L
+
+    2020
         Participants: 
-    2019: SPS COMPANIES, INC. FLEX PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4F4H4L
+
+    2019
         Participants: 
-MN : MINNEAPOLIS
-    2018: SPS COMPANIES, INC. FLEX PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4F4H4L
+ -- MN : MINNEAPOLIS
+    2018
         Participants: 
-    2017: SPS COMPANIES, INC. FLEX PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4F4H4L
+
+    2017
         Participants: 

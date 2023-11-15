@@ -1,12 +1,8 @@
-OH : COLUMBUS
-  STAR LEASING  310854574
-   [002]
-    2022: STAR LEASING COMPANY, LLC 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K3D 
-        Participants: 464
-        Assets: 24698854
-        $/Participant: 53230
+STAR LEASING  310854574 -- OH : COLUMBUS
+  [401(k)] STAR LEASING COMPANY, LLC 401(K) PLAN [002]
+    2022  [codes: 2E2F2G2J2K3D]
+        Participants: 464  Average: $53,230
+        Assets: $24,698,854
         RecordKeeper: JOHN HANCOCK LIFE INSURANCE COMPANY
         Available Investments:
            - JOHN HANCOCK USA
@@ -64,12 +60,11 @@ OH : COLUMBUS
                  : VANGUARD STRATEGIC EQUITY FUND
            - JOHN HANOCK USA
                  : SMALL CAP INDEX FUND
-    2021: STAR LEASING COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2K2G3D2F 
-        Participants: 411
-        Assets: 32779971
-        $/Participant: 79756
+
+  [401(k)] STAR LEASING COMPANY 401(K) PLAN
+    2021  [codes: 2E2J2K2G3D2F]
+        Participants: 411  Average: $79,756
+        Assets: $32,779,971
         RecordKeeper: JOHN HANCOCK USA
         Available Investments:
            - JOHN HANCOCK USA
@@ -135,12 +130,10 @@ OH : COLUMBUS
                  : LIFESTYLE BALANCED
            - JOHN HANCOCK
                  : FINANCIAL INDUSTRIES FUND
-    2020: STAR LEASING COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2K2G3D2F 
-        Participants: 386
-        Assets: 18649126
-        $/Participant: 48313
+
+    2020
+        Participants: 386  Average: $48,313
+        Assets: $18,649,126
         RecordKeeper: JOHN HANCOCK USA
         Available Investments:
            - JOHN HANCOCK USA
@@ -204,12 +197,10 @@ OH : COLUMBUS
                  : LIFESTYLE BALANCED
            - JOHN HANCOCK
                  : JP MORGAN US EQUITY FUND
-    2019: STAR LEASING COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2K2G3D2F 
-        Participants: 348
-        Assets: 15847899
-        $/Participant: 45539
+
+    2019
+        Participants: 348  Average: $45,539
+        Assets: $15,847,899
         RecordKeeper: JOHN HANCOCK USA
         Available Investments:
            - JOHN HANCOCK USA
@@ -271,12 +262,10 @@ OH : COLUMBUS
                  : LIFESTYLE BALANCED
            - JOHN HANCOCK
                  : JP MORGAN US EQUITY FUND
-    2018: STAR LEASING COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2K2G3D2F 
-        Participants: 307
-        Assets: 12433768
-        $/Participant: 40500
+
+    2018
+        Participants: 307  Average: $40,500
+        Assets: $12,433,768
         RecordKeeper: JOHN HANCOCK USA
         Available Investments:
            - JOHN HANCOCK USA
@@ -339,12 +328,10 @@ OH : COLUMBUS
                  : INTERNATIONAL VALUE FUND
                  : JP MORGAN US EQUITY FUND
                  : MONEY MARKET FUND
-    2017: STAR LEASING COMPANY 401(K) PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2J2K2G3D2F 
-        Participants: 254
-        Assets: 13230827
-        $/Participant: 52089
+
+    2017
+        Participants: 254  Average: $52,089
+        Assets: $13,230,827
         RecordKeeper: JOHN HANCOCK USA
         Available Investments:
            - JOHN HANCOCK USA
@@ -406,59 +393,43 @@ OH : COLUMBUS
                  : FRANKLIN SMALL MID-GROWTH
                  : INTERNATIONAL VALUE FUND
                  : JP MORGAN US EQUITY FUND
-   [001]
-    2021: STAR LEASING COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2I2Q 
-        Participants: 351
-        Assets: 22905105
-        $/Participant: 65256
-    2020: STAR LEASING COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2I2Q 
-        Participants: 355
-        Assets: 104458674
-        $/Participant: 294249
-    2019: STAR LEASING COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2I2Q 
-        Participants: 247
-        Assets: 55765956
-        $/Participant: 225773
-    2018: STAR LEASING COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2I2Q 
-        Participants: 225
-        Assets: 56049293
-        $/Participant: 249107
-    2017: STAR LEASING COMPANY EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P2I2Q 
-        Participants: 232
-        Assets: 50293319
-        $/Participant: 216781
-   [501]
-    2022: STAR LEASING EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+  [Employee Stock Ownership Plan] STAR LEASING COMPANY EMPLOYEE STOCK OWNERSHIP PLAN [001]
+    2021  [codes: 2P2I2Q]
+        Participants: 351  Average: $65,256
+        Assets: $22,905,105
+
+    2020
+        Participants: 355  Average: $294,249
+        Assets: $104,458,674
+
+    2019
+        Participants: 247  Average: $225,773
+        Assets: $55,765,956
+
+    2018
+        Participants: 225  Average: $249,107
+        Assets: $56,049,293
+
+    2017
+        Participants: 232  Average: $216,781
+        Assets: $50,293,319
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability] STAR LEASING EMPLOYEE BENEFITS PLAN [501]
+    2022  [codes: 4A4B4D4E4F4H4Q]
         Participants: 
-    2021: STAR LEASING EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2021
         Participants: 
-    2020: STAR LEASING EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2020
         Participants: 
-    2019: STAR LEASING EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2019
         Participants: 
-    2018: STAR LEASING EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2018
         Participants: 
-    2017: STAR LEASING EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2017
         Participants: 

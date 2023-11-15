@@ -1,44 +1,48 @@
-CT : WESTBROOK
-  LEE COMPANY  060639381
+LEE COMPANY  060639381 -- CT : WESTBROOK
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability]THE LEE COMPANY GROUP LIFE, DISABILITY, MEDICAL AND DENTAL PLAN
    [504]
-    2021: THE LEE COMPANY GROUP LIFE, DISABILITY, MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
+    2021
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
         Assets: 1539842
         $/Participant: 
         RecordKeeper: GOWRIE GROUP INC.
-    2020: THE LEE COMPANY GROUP LIFE, DISABILITY, MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability]THE LEE COMPANY GROUP LIFE, DISABILITY, MEDICAL AND DENTAL PLAN
+    2020
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
         Assets: 1433316
         $/Participant: 
         RecordKeeper: GOWRIE GROUP INC.
-    2019: THE LEE COMPANY GROUP LIFE, DISABILITY, MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability]THE LEE COMPANY GROUP LIFE, DISABILITY, MEDICAL AND DENTAL PLAN
+    2019
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
         Assets: 1544404
         $/Participant: 
         RecordKeeper: GOWRIE GROUP INC.
-    2018: THE LEE COMPANY GROUP LIFE, DISABILITY, MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability]THE LEE COMPANY GROUP LIFE, DISABILITY, MEDICAL AND DENTAL PLAN
+    2018
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
         Assets: 1843923
         $/Participant: 
         RecordKeeper: GOWRIE GROUP INC.
-    2017: THE LEE COMPANY GROUP LIFE, DISABILITY, MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability]THE LEE COMPANY GROUP LIFE, DISABILITY, MEDICAL AND DENTAL PLAN
+    2017
         Codes:  4A4B4D4E4F4H4Q
         Participants: 
         Assets: 1876502
         $/Participant: 
         RecordKeeper: GOWRIE GROUP INC.
+
+  [Other]THE LEE COMPANY PROFIT SHARING PLAN
    [002]
-    2021: THE LEE COMPANY PROFIT SHARING PLAN
-        Benefit Category: Other
+    2021
         Codes: 2E2F2G 
         Participants: 1276
         Assets: 389288041
@@ -50,8 +54,9 @@ CT : WESTBROOK
                  : PRINCIPAL/BLACKROCK BOND INDEX FD
                  : PRINCIPAL/BLACKROCK S&P 500 INDEX
                  : PRINCIPAL/BLACKROCK S&P MIDCAP
-    2020: THE LEE COMPANY PROFIT SHARING PLAN
-        Benefit Category: Other
+
+  [Other]THE LEE COMPANY PROFIT SHARING PLAN
+    2020
         Codes: 2E2F2G 
         Participants: 1230
         Assets: 433687288
@@ -63,8 +68,9 @@ CT : WESTBROOK
                  : WELLS FARGO/BLACKROCK BOND INDEX FD
                  : WELLS FARGO/BLACKROCK S&P 500 INDEX
                  : WELLS FARGO/BLACKROCK S&P MIDCAP
-    2019: THE LEE COMPANY PROFIT SHARING PLAN
-        Benefit Category: Other
+
+  [Other]THE LEE COMPANY PROFIT SHARING PLAN
+    2019
         Codes: 2E2F2G 
         Participants: 1218
         Assets: 374276857
@@ -76,8 +82,9 @@ CT : WESTBROOK
                  : WELLS FARGO/BLACKROCK BOND INDEX FD
                  : WELLS FARGO/BLACKROCK S&P 500 INDEX
                  : WELLS FARGO/BLACKROCK S&P MIDCAP
-    2017: THE LEE COMPANY PROFIT SHARING PLAN
-        Benefit Category: Other
+
+  [Other]THE LEE COMPANY PROFIT SHARING PLAN
+    2017
         Codes: 2E2F2G 
         Participants: 1170
         Assets: 312103435
@@ -89,9 +96,10 @@ CT : WESTBROOK
                  : WELLS FARGO/BLACKROCK BOND INDEX FD
                  : WELLS FARGO/BLACKROCK S&P 500 INDEX
                  : WELLS FARGO/BLACKROCK S&P MIDCAP
+
+  [Pension]THE LEE COMPANY PENSION PLAN
    [001]
-    2020: THE LEE COMPANY PENSION PLAN
-        Benefit Category: Pension
+    2020
         Codes: 1A3H1I 
         Participants: 0
         Service Providers:
@@ -102,8 +110,9 @@ CT : WESTBROOK
         Available Investments:
            - AETNA LIFE INSURANCE COMPANY
                  : SEPARATE ACCOUNT
-    2019: THE LEE COMPANY PENSION PLAN
-        Benefit Category: Pension
+
+  [Pension]THE LEE COMPANY PENSION PLAN
+    2019
         Codes: 1A3H1I 
         Participants: 1015
         Assets: 49268268
@@ -117,8 +126,9 @@ CT : WESTBROOK
         Available Investments:
            - AETNA LIFE INSURANCE COMPANY
                  : SEPARATE ACCOUNT
-    2018: THE LEE COMPANY PENSION PLAN
-        Benefit Category: Pension
+
+  [Pension]THE LEE COMPANY PENSION PLAN
+    2018
         Codes: 1A3H1I 
         Participants: 1043
         Assets: 48345728
@@ -131,8 +141,9 @@ CT : WESTBROOK
         Available Investments:
            - AETNA LIFE INSURANCE COMPANY
                  : SEPARATE ACCOUNT
-    2017: THE LEE COMPANY PENSION PLAN
-        Benefit Category: Pension
+
+  [Pension]THE LEE COMPANY PENSION PLAN
+    2017
         Codes: 1A3H1I 
         Participants: 1069
         Assets: 49047451

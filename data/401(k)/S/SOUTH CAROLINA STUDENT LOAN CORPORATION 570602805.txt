@@ -1,113 +1,85 @@
-SC : COLUMBIA
-  SOUTH CAROLINA STUDENT LOAN CORPORATION  570602805
-   [003]
-    2021: SC STUDENT LOAN CORPORATION 403(B) DEFINED CONTRIBUTION PLAN
-        Benefit Category: 403(b)
-        Codes: 2F2G2L 
-        Participants: 99
-        Assets: 5051914
-        $/Participant: 51029
+SOUTH CAROLINA STUDENT LOAN CORPORATION  570602805 -- SC : COLUMBIA
+  [403(b)] SC STUDENT LOAN CORPORATION 403(B) DEFINED CONTRIBUTION PLAN [003]
+    2021  [codes: 2F2G2L]
+        Participants: 99  Average: $51,029
+        Assets: $5,051,914
         RecordKeeper: CHARLES SCHWAB & CO., INC.
         Available Investments:
            - TIAA-CREF
                  : TIAA REAL ESTATE
-    2020: SC STUDENT LOAN CORPORATION 403(B) DEFINED CONTRIBUTION PLAN
-        Benefit Category: 403(b)
-        Codes: 2F2G2L 
-        Participants: 107
-        Assets: 6686150
-        $/Participant: 62487
+
+    2020
+        Participants: 107  Average: $62,487
+        Assets: $6,686,150
         RecordKeeper: CHARLES SCHWAB & CO., INC.
         Available Investments:
            - TIAA-CREF
                  : TIAA REAL ESTATE
-    2019: SC STUDENT LOAN CORPORATION 403(B) DEFINED CONTRIBUTION PLAN
-        Benefit Category: 403(b)
-        Codes: 2F2G2L 
-        Participants: 109
-        Assets: 5453619
-        $/Participant: 50033
+
+    2019
+        Participants: 109  Average: $50,033
+        Assets: $5,453,619
         RecordKeeper: USI CONSULTING GROUP
         Available Investments:
            - TIAA-CREF
                  : TIAA REAL ESTATE
-    2018: SC STUDENT LOAN CORPORATION 403(B) DEFINED CONTRIBUTION PLAN
-        Benefit Category: 403(b)
-        Codes: 2F2G2L 
-        Participants: 120
-        Assets: 5293671
-        $/Participant: 44113
+
+    2018
+        Participants: 120  Average: $44,113
+        Assets: $5,293,671
         RecordKeeper: USI CONSULTING GROUP
         Available Investments:
            - TIAA-CREF
                  : TIAA REAL ESTATE
-    2017: SC STUDENT LOAN CORPORATION 403(B) DEFINED CONTRIBUTION PLAN
-        Benefit Category: 403(b)
-        Codes: 2F2G2L 
-        Participants: 135
-        Assets: 6464734
-        $/Participant: 47886
+
+    2017
+        Participants: 135  Average: $47,886
+        Assets: $6,464,734
         RecordKeeper: USI CONSULTING GROUP
         Available Investments:
            - TIAA-CREF
                  : TIAA REAL ESTATE
-   [004]
-    2017: SOUTH CAROLINA STUDENT LOAN CORP. TDA
-        Benefit Category: 403(b)
-        Codes: 2G2L2M 
+
+  [403(b)] SOUTH CAROLINA STUDENT LOAN CORP. TDA [004]
+    2017  [codes: 2G2L2M]
         Participants: 0
         Available Investments:
            - TIAA-CREF
                  : TIAA REAL ESTATE
-   [001]
-    2021: SC STUDENT LOAN CORPORATION 401(A) MONEY PURCHASE PENSION PLAN
-        Benefit Category: Other
-        Codes: 2C2F3D 
+
+  [Other] SC STUDENT LOAN CORPORATION 401(A) MONEY PURCHASE PENSION PLAN [001]
+    2021  [codes: 2C2F3D]
         Participants: 54
-    2020: SC STUDENT LOAN CORPORATION 401(A) MONEY PURCHASE PENSION PLAN
-        Benefit Category: Other
-        Codes: 2C2F3D 
+
+    2020
         Participants: 53
-    2019: SC STUDENT LOAN CORPORATION 401(A) MONEY PURCHASE PENSION PLAN
-        Benefit Category: Other
-        Codes: 2C2F3D 
+
+    2019
         Participants: 52
-    2018: SC STUDENT LOAN CORPORATION 401(A) MONEY PURCHASE PENSION PLAN
-        Benefit Category: Other
-        Codes: 2C2F3D 
+
+    2018
         Participants: 54
-    2017: SC STUDENT LOAN CORPORATION 401(A) MONEY PURCHASE PENSION PLAN
-        Benefit Category: Other
-        Codes: 2C2F3D 
+
+    2017
         Participants: 63
-   [002]
-    2021: SOUTH CAROLINA STUDENT LOAN CORPORATION DEFINED BENEFIT PLAN
-        Benefit Category: Pension
-        Codes: 1A3D 
-        Participants: 25
-        Assets: 7237264
-        $/Participant: 289490
-    2020: SOUTH CAROLINA STUDENT LOAN CORPORATION DEFINED BENEFIT PLAN
-        Benefit Category: Pension
-        Codes: 1A3D 
-        Participants: 26
-        Assets: 8025731
-        $/Participant: 308681
-    2019: SOUTH CAROLINA STUDENT LOAN CORPORATION DEFINED BENEFIT PLAN
-        Benefit Category: Pension
-        Codes: 1A3D 
-        Participants: 27
-        Assets: 6715070
-        $/Participant: 248706
-    2018: SOUTH CAROLINA STUDENT LOAN CORPORATION DEFINED BENEFIT PLAN
-        Benefit Category: Pension
-        Codes: 1A3D 
-        Participants: 27
-        Assets: 6588731
-        $/Participant: 244027
-    2017: SOUTH CAROLINA STUDENT LOAN CORPORATION DEFINED BENEFIT PLAN
-        Benefit Category: Pension
-        Codes: 1A3D 
-        Participants: 240
-        Assets: 19476862
-        $/Participant: 81153
+
+  [Pension] SOUTH CAROLINA STUDENT LOAN CORPORATION DEFINED BENEFIT PLAN [002]
+    2021  [codes: 1A3D]
+        Participants: 25  Average: $289,490
+        Assets: $7,237,264
+
+    2020
+        Participants: 26  Average: $308,681
+        Assets: $8,025,731
+
+    2019
+        Participants: 27  Average: $248,706
+        Assets: $6,715,070
+
+    2018
+        Participants: 27  Average: $244,027
+        Assets: $6,588,731
+
+    2017
+        Participants: 240  Average: $81,153
+        Assets: $19,476,862

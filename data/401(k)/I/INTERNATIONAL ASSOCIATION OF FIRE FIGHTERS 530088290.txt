@@ -1,8 +1,7 @@
-DC : WASHINGTON
-  INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS  530088290
+INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS  530088290 -- DC : WASHINGTON
+  [401(k)]INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS EMPLOYEE 401(K) P
    [004]
-    2022: INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS EMPLOYEE 401(K) P
-        Benefit Category: 401(k)
+    2022
         Codes: 2E2F2G2J2K2T3D 
         Participants: 211
         Assets: 21495352
@@ -10,8 +9,9 @@ DC : WASHINGTON
         Service Providers:
            - NATIONWIDE : CUSTODIAN (Custodial(securities))
            - RBC CAPITAL MARKETS CORP LLC : INVESTMENT ADVISOR (Investment advisory(participants) | Investment advisory(plan) | Investment management)
-    2021: IAFF INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS EMPLOYEE 401(K) P
-        Benefit Category: 401(k)
+
+  [401(k)]IAFF INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS EMPLOYEE 401(K) P
+    2021
         Codes: 2E2F2G2J2K2T3D 
         Participants: 194
         Assets: 25761489
@@ -19,8 +19,9 @@ DC : WASHINGTON
         Service Providers:
            - NATIONWIDE : CUSTODIAN (Custodial(securities))
            - RBC CAPITAL MARKETS CORP LLC : INVESTMENT ADVISOR (Investment advisory(participants) | Investment advisory(plan) | Investment management)
-    2020: IAFF INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS EMPLOYEE 401(K) P
-        Benefit Category: 401(k)
+
+  [401(k)]IAFF INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS EMPLOYEE 401(K) P
+    2020
         Codes: 2E2F2G2J2K2T3D 
         Participants: 190
         Assets: 22722592
@@ -28,8 +29,9 @@ DC : WASHINGTON
         Service Providers:
            - NATIONWIDE : CUSTODIAN (Custodial(securities))
            - RBC CAPITAL MARKETS CORP LLC : INVESTMENT ADVISOR (Investment advisory(participants) | Investment advisory(plan) | Investment management)
-    2019: IAFF INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS EMPLOYEE 401(K) P
-        Benefit Category: 401(k)
+
+  [401(k)]IAFF INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS EMPLOYEE 401(K) P
+    2019
         Codes: 2E2F2G2J2K2T3D 
         Participants: 196
         Assets: 19635859
@@ -37,8 +39,9 @@ DC : WASHINGTON
         Service Providers:
            - NATIONWIDE : CUSTODIAN (Custodial(securities))
            - RBC CAPITAL MARKETS CORP LLC : INVESTMENT ADVISOR (Investment advisory(participants) | Investment advisory(plan) | Investment management)
-    2018: INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS EMPLOYEE 401(K) PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS EMPLOYEE 401(K) PLAN
+    2018
         Codes: 2E2F2G2J2K2T3D 
         Participants: 186
         Assets: 15210260
@@ -46,8 +49,9 @@ DC : WASHINGTON
         Service Providers:
            - NATIONWIDE : CUSTODIAN (Custodial(securities))
            - RBC CAPITAL MARKETS CORP LLC : INVESTMENT ADVISOR (Investment advisory(participants) | Investment advisory(plan) | Investment management)
-    2017: INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS EMPLOYEE 401(K) PLAN
-        Benefit Category: 401(k)
+
+  [401(k)]INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS EMPLOYEE 401(K) PLAN
+    2017
         Codes: 2E2F2G2J2K2T3D 
         Participants: 176
         Assets: 15006396
@@ -57,34 +61,41 @@ DC : WASHINGTON
            - RBC CAPITAL MARKETS CORP LLC : INVESTMENT ADVISOR (Investment advisory(participants) | Investment advisory(plan) | Investment management)
            - MORGAN STANLEY : INVESTMENT ADVISOR (Investment advisory(participants) | Investment advisory(plan) | Investment management)
            - RBC WEALTH MANAGEMENT : INVESTMENT ADVISOR (Investment advisory(participants) | Investment advisory(plan) | Investment management)
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident]INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS HEALTH & WELFARE PLAN
    [501]
-    2022: INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident
+    2022
         Codes:  4A4B4D4E4F4L4Q
         Participants: 
-    2021: INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident]INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS HEALTH & WELFARE PLAN
+    2021
         Codes:  4A4B4D4E4F4L4Q
         Participants: 
-    2020: INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident]INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS HEALTH & WELFARE PLAN
+    2020
         Codes:  4A4B4D4E4F4L4Q
         Participants: 
-    2019: INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Travel accident]INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS HEALTH & WELFARE PLAN
+    2019
         Codes:  4A4B4D4E4F4L4Q
         Participants: 
-    2018: INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
+
+  [Healthcare, Life insurance, Dental, Vision, Travel accident]INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS HEALTH & WELFARE PLAN
+    2018
         Codes:  4A4B4D4E4L4Q
         Participants: 
-    2017: INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
+
+  [Healthcare, Life insurance, Dental, Vision, Travel accident]INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS HEALTH & WELFARE PLAN
+    2017
         Codes:  4A4B4D4E4L4Q
         Participants: 
+
+  [Pension]INTERNATIONAL ASSOCIATION OF FIREFIGHTERS EMPLOYEES PENSION PLAN
    [001]
-    2021: INTERNATIONAL ASSOCIATION OF FIREFIGHTERS EMPLOYEES PENSION PLAN
-        Benefit Category: Pension
+    2021
         Codes: 1A3H 
         Participants: 141
         Assets: 40909586
@@ -100,8 +111,9 @@ DC : WASHINGTON
                  : COMMINGLED PENSION TRUST FUND
            - WILMINGTON TRUST, NATIONAL ASSOCIATION
                  : LAZARD/WILMINGTON INTERNATIONAL EQU
-    2020: INTERNATIONAL ASSOCIATION OF FIREFIGHTERS EMPLOYEES PENSION PLAN
-        Benefit Category: Pension
+
+  [Pension]INTERNATIONAL ASSOCIATION OF FIREFIGHTERS EMPLOYEES PENSION PLAN
+    2020
         Codes: 1A3H 
         Participants: 145
         Assets: 41365523
@@ -118,8 +130,9 @@ DC : WASHINGTON
                  : EATON VANCE TRUST CO CIT HIGH YIELD
            - WILMINGTON TRUST, NATIONAL ASSOCIATION
                  : LAZARD/WILMINGTON INTERNATIONAL EQU
-    2019: INTERNATIONAL ASSOCIATION OF FIREFIGHTERS EMPLOYEES PENSION PLAN
-        Benefit Category: Pension
+
+  [Pension]INTERNATIONAL ASSOCIATION OF FIREFIGHTERS EMPLOYEES PENSION PLAN
+    2019
         Codes: 1A3H 
         Participants: 143
         Assets: 32115537
@@ -135,8 +148,9 @@ DC : WASHINGTON
                  : EATON VANCE TRUST CO CIT HIGH YIELD
            - WILMINGTON TRUST, NATIONAL ASSOCIATION
                  : LAZARD/WILMINGTON INTERNATIONAL EQU
-    2018: INTERNATIONAL ASSOCIATION OF FIREFIGHTERS EMPLOYEES PENSION PLAN
-        Benefit Category: Pension
+
+  [Pension]INTERNATIONAL ASSOCIATION OF FIREFIGHTERS EMPLOYEES PENSION PLAN
+    2018
         Codes: 1A3H 
         Participants: 138
         Assets: 30861199
@@ -152,8 +166,9 @@ DC : WASHINGTON
                  : EATON VANCE TRUST CO CIT HIGH YIELD
            - WILMINGTON TRUST, NATIONAL ASSOCIATION
                  : LAZARD/WILMINGTON INTERNATIONAL EQU
-    2017: INTERNATIONAL ASSOCIATION OF FIREFIGHTERS EMPLOYEES PENSION PLAN
-        Benefit Category: Pension
+
+  [Pension]INTERNATIONAL ASSOCIATION OF FIREFIGHTERS EMPLOYEES PENSION PLAN
+    2017
         Codes: 1A3H 
         Participants: 142
         Assets: 28689909
@@ -171,9 +186,10 @@ DC : WASHINGTON
                  : EATON VANCE TRUST CO CIT HIGH YIELD
            - WILMINGTON TRUST, NATIONAL ASSOCIATION
                  : LAZARD/WILMINGTON INTERNATIONAL EQU
+
+  [Pension]INTERNATIONAL ASSOCIATION OF FIREFIGHTERS STAFF REPRESENTATIVES PENSION PLAN
    [002]
-    2021: INTERNATIONAL ASSOCIATION OF FIREFIGHTERS STAFF REPRESENTATIVES PENSION PLAN
-        Benefit Category: Pension
+    2021
         Codes: 1A3H 
         Participants: 160
         Assets: 91017177
@@ -195,8 +211,9 @@ DC : WASHINGTON
                  : COMMINGLED PENSION TRUST FUND
            - WILMINGTON TRUST, NATIONAL ASSOCIATION
                  : LAZARD/WILMINGTON INTERNATIONAL EQU
-    2020: INTERNATIONAL ASSOCIATION OF FIREFIGHTERS STAFF REPRESENTATIVES PENSION PLAN
-        Benefit Category: Pension
+
+  [Pension]INTERNATIONAL ASSOCIATION OF FIREFIGHTERS STAFF REPRESENTATIVES PENSION PLAN
+    2020
         Codes: 1A3H 
         Participants: 151
         Assets: 94831934
@@ -218,8 +235,9 @@ DC : WASHINGTON
                  : GOLDENTREE MULTI-SECTOR FUND OFFSHO
            - WILMINGTON TRUST, NATIONAL ASSOCIATION
                  : LAZARD/WILMINGTON INTERNATIONAL EQU
-    2019: INTERNATIONAL ASSOCIATION OF FIREFIGHTERS STAFF REPRESENTATIVES PENSION PLAN
-        Benefit Category: Pension
+
+  [Pension]INTERNATIONAL ASSOCIATION OF FIREFIGHTERS STAFF REPRESENTATIVES PENSION PLAN
+    2019
         Codes: 1A3H 
         Participants: 147
         Assets: 74267396
@@ -241,8 +259,9 @@ DC : WASHINGTON
                  : GOLDENTREE MULTI-SECTOR FUND OFFSHO
            - WILMINGTON TRUST, NATIONAL ASSOCIATION
                  : LAZARD/WILMINGTON INTERNATIONAL EQU
-    2018: INTERNATIONAL ASSOCIATION OF FIREFIGHTERS STAFF REPRESENTATIVES PENSION PLAN
-        Benefit Category: Pension
+
+  [Pension]INTERNATIONAL ASSOCIATION OF FIREFIGHTERS STAFF REPRESENTATIVES PENSION PLAN
+    2018
         Codes: 1A3H 
         Participants: 144
         Assets: 72619606
@@ -263,8 +282,9 @@ DC : WASHINGTON
                  : GOLDENTREE MULTI-SECTOR FUND OFFSHO
            - WILMINGTON TRUST, NATIONAL ASSOCIATION
                  : LAZARD/WILMINGTON INTERNATIONAL EQU
-    2017: INTERNATIONAL ASSOCIATION OF FIREFIGHTERS STAFF REPRESENTATIVES PENSION PLAN
-        Benefit Category: Pension
+
+  [Pension]INTERNATIONAL ASSOCIATION OF FIREFIGHTERS STAFF REPRESENTATIVES PENSION PLAN
+    2017
         Codes: 1A3H 
         Participants: 141
         Assets: 65934972

@@ -1,9 +1,6 @@
-CT : ORANGE
-  CONNECTICUT NATURAL GAS CORPORATION  060383860
-   [006]
-    2021: CONNECTICUT NATURAL GAS CORPORATION 401(K) UNION PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3F3H 
+CONNECTICUT NATURAL GAS CORPORATION  060383860 -- CT : ORANGE
+  [401(k)] CONNECTICUT NATURAL GAS CORPORATION 401(K) UNION PLAN [006]
+    2021  [codes: 2A2E2F2G2J2K2S2T3F3H]
         Participants: 0
         RecordKeeper: T ROWE PRICE RPS INC
         Available Investments:
@@ -32,12 +29,10 @@ CT : ORANGE
                  : TRP RETIREMENT HYBRID 2060 TRUST
            - UIL HOLDINGS CORPORATION
                  : UIL HOLDINGS CORP. MASTER TRUST
-    2020: CONNECTICUT NATURAL GAS CORPORATION 401(K) UNION PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3F3H 
-        Participants: 286
-        Assets: 56465540
-        $/Participant: 197431
+
+    2020
+        Participants: 286  Average: $197,431
+        Assets: $56,465,540
         RecordKeeper: T ROWE PRICE RPS INC
         Available Investments:
            - FIDELITY INSTITUTIONAL ASSET MANAGEMENT TRUST COMPANY
@@ -65,12 +60,11 @@ CT : ORANGE
                  : TRP RETIREMENT HYBRID 2060 TRUST
            - UIL HOLDINGS CORPORATION
                  : UIL HOLDINGS CORP. MASTER TRUST
-    2019: CONNECTICUT NATURAL GAS CORPORATION UNION EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3F3H 
-        Participants: 280
-        Assets: 51338224
-        $/Participant: 183350
+
+  [401(k)] CONNECTICUT NATURAL GAS CORPORATION UNION EMPLOYEE SAVINGS PLAN
+    2019
+        Participants: 280  Average: $183,350
+        Assets: $51,338,224
         RecordKeeper: T ROWE PRICE RPS INC
         Available Investments:
            - FIDELITY INSTITUTIONAL ASSET MANAGEMENT TRUST COMPANY
@@ -98,12 +92,10 @@ CT : ORANGE
                  : TRP RETIREMENT HYBRID 2060 TRUST
            - UIL HOLDINGS CORPORATION
                  : UIL HOLDINGS CORP. MASTER TRUST
-    2018: CONNECTICUT NATURAL GAS CORPORATION UNION EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3F3H 
-        Participants: 274
-        Assets: 41712271
-        $/Participant: 152234
+
+    2018
+        Participants: 274  Average: $152,234
+        Assets: $41,712,271
         RecordKeeper: BAKER NEWMAN NOYES
         Available Investments:
            - FIDELITY INSTITUTIONAL ASSET MANAGEMENT TRUST COMPANY
@@ -132,22 +124,19 @@ CT : ORANGE
                  : UIL HOLDINGS CORP. MASTER TRUST
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
-    2017: CONNECTICUT NATURAL GAS CORPORATION UNION EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3F3H 
-        Participants: 265
-        Assets: 45871735
-        $/Participant: 173100
+
+    2017
+        Participants: 265  Average: $173,100
+        Assets: $45,871,735
         RecordKeeper: THE VANGUARD GROUP, INC.
         Available Investments:
            - UIL HOLDINGS CORPORATION
                  : UIL HOLDINGS MASTER TRUST
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
-   [001]
-    2022: CONNECTICUT NATURAL GAS CORPORATION PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1E3H 
+
+  [Pension] CONNECTICUT NATURAL GAS CORPORATION PENSION PLAN [001]
+    2022  [codes: 1A1C1E3H]
         Participants: 0
         Service Providers:
            - PRICEWATERHOUSECOOPERS LLP :  (Actuarial)
@@ -162,12 +151,10 @@ CT : ORANGE
         Available Investments:
            - AVANGRID MANAGEMENT COMPANY LLC
                  : AVANGRID INC. DB MASTER TRUST
-    2021: CONNECTICUT NATURAL GAS CORPORATION PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1E3H 
-        Participants: 377
-        Assets: 98414112
-        $/Participant: 261045
+
+    2021
+        Participants: 377  Average: $261,045
+        Assets: $98,414,112
         Service Providers:
            - PRICEWATERHOUSECOOPERS LLP :  (Actuarial)
            - PACIFIC INVESTMENT MANAGEMENT CO. :  (Investment management)
@@ -182,12 +169,10 @@ CT : ORANGE
         Available Investments:
            - AVANGRID MANAGEMENT COMPANY LLC
                  : AVANGRID, INC. DB MASTER TRUST
-    2020: CONNECTICUT NATURAL GAS CORPORATION PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1E3H 
-        Participants: 389
-        Assets: 98226244
-        $/Participant: 252509
+
+    2020
+        Participants: 389  Average: $252,509
+        Assets: $98,226,244
         Service Providers:
            - PRICEWATERHOUSECOOPERS LLP :  (Actuarial)
            - BONADIO & CO., LLP :  (Accounting(including auditing))
@@ -196,12 +181,10 @@ CT : ORANGE
         Available Investments:
            - AVANGRID MANAGEMENT COMPANY LLC
                  : AVANGRID, INC. DB MASTER TRUST
-    2019: CONNECTICUT NATURAL GAS CORPORATION PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1E3H 
-        Participants: 404
-        Assets: 88656357
-        $/Participant: 219446
+
+    2019
+        Participants: 404  Average: $219,446
+        Assets: $88,656,357
         Service Providers:
            - STATE STREET GLOBAL ADVISORS :  (Custodial(securities) | Investment management fees paid directly by plan | Custodial(other than securities))
            - AON HEWITT ASSOCIATE LLC :  (Actuarial)
@@ -212,12 +195,10 @@ CT : ORANGE
                  : AVANGRID, INC. DB MASTER TRUST
            - THE UNITED ILLUMINATING COMPANY
                  : THE UIL DB MASTER TRUST
-    2018: CONNECTICUT NATURAL GAS CORPORATION PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1E3H 
-        Participants: 411
-        Assets: 75320781
-        $/Participant: 183262
+
+    2018
+        Participants: 411  Average: $183,262
+        Assets: $75,320,781
         Service Providers:
            - AON HEWITT INV CONSULTANT, INC. :  (Consulting(pension) | Direct payment from the plan | Actuarial)
            - STATE STREET GLOBAL ADVISORS : INVESTMENT MANAGEMENT (Investment management fees paid directly by plan | Custodial(securities) | Custodial(other than securities))
@@ -226,12 +207,10 @@ CT : ORANGE
         Available Investments:
            - THE UNITED ILLUMINATING COMPANY
                  : THE UIL DB MASTER TRUST
-    2017: CONNECTICUT NATURAL GAS CORPORATION PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1E3H 
-        Participants: 423
-        Assets: 86036448
-        $/Participant: 203395
+
+    2017
+        Participants: 423  Average: $203,395
+        Assets: $86,036,448
         Service Providers:
            - NEPC, LLC :  (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
            - AON HEWITT INV CONSULTANT, INC. :  (Actuarial | Consulting(pension) | Direct payment from the plan)
@@ -240,13 +219,11 @@ CT : ORANGE
         Available Investments:
            - THE UNITED ILLUMINATING COMPANY
                  : THE UIL DB MASTER TRUST
-   [002]
-    2022: CONNECTICUT NATURAL GAS CORPORATION RETIREMENT PLA
-        Benefit Category: Pension
-        Codes: 1A1C1E3H 
-        Participants: 751
-        Assets: 157502411
-        $/Participant: 209723
+
+  [Pension] CONNECTICUT NATURAL GAS CORPORATION RETIREMENT PLA [002]
+    2022
+        Participants: 751  Average: $209,723
+        Assets: $157,502,411
         Service Providers:
            - PRICEWATERHOUSECOOPERS LLP :  (Actuarial)
            - PACIFIC INVESTMENT MANAGEMENT CO. :  (Investment management)
@@ -260,12 +237,10 @@ CT : ORANGE
         Available Investments:
            - AVANGRID MANAGEMENT COMPANY LLC
                  : AVANGRID, INC. DB MASTER TRUST
-    2021: CONNECTICUT NATURAL GAS CORPORATION RETIREMENT PLA
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 365
-        Assets: 120410507
-        $/Participant: 329891
+
+    2021  [codes: 1A1C3H]
+        Participants: 365  Average: $329,891
+        Assets: $120,410,507
         Service Providers:
            - PRICEWATERHOUSECOOPERS LLP :  (Actuarial)
            - PACIFIC INVESTMENT MANAGEMENT CO. :  (Investment management)
@@ -280,12 +255,10 @@ CT : ORANGE
         Available Investments:
            - AVANGRID MANAGEMENT COMPANY LLC
                  : AVANGRID, INC. DB MASTER TRUST
-    2020: CONNECTICUT NATURAL GAS CORPORATION RETIREMENT PLA
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 385
-        Assets: 120204854
-        $/Participant: 312220
+
+    2020
+        Participants: 385  Average: $312,220
+        Assets: $120,204,854
         Service Providers:
            - BONADIO & CO., LLP :  (Accounting(including auditing))
            - NORTHERN TRUST COMPANY :  (Trustee(directed))
@@ -294,12 +267,10 @@ CT : ORANGE
         Available Investments:
            - AVANGRID MANAGEMENT COMPANY LLC
                  : AVANGRID, INC. DB MASTER TRUST
-    2019: CONNECTICUT NATURAL GAS CORPORATION RETIREMENT PLA
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 399
-        Assets: 107102443
-        $/Participant: 268427
+
+    2019
+        Participants: 399  Average: $268,427
+        Assets: $107,102,443
         Service Providers:
            - STATE STREET GLOBAL ADVISORS :  (Custodial(securities) | Investment management fees paid directly by plan | Custodial(other than securities))
            - AON HEWITT INV CONSULTANT, INC :  (Actuarial)
@@ -310,12 +281,10 @@ CT : ORANGE
                  : AVANGRID, INC. DB MASTER TRUST
            - THE UNITED ILLUMINATING COMPANY
                  : THE UIL DB MASTER TRUST
-    2018: CONNECTICUT NATURAL GAS CORPORATION RETIREMENT PLA
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 419
-        Assets: 92427608
-        $/Participant: 220590
+
+    2018
+        Participants: 419  Average: $220,590
+        Assets: $92,427,608
         Service Providers:
            - STATE STREET GLOBAL ADVISORS : INVESTMENT MANAGER (Investment management fees paid directly by plan | Custodial(other than securities) | Custodial(securities))
            - AON HEWITT INV CONSULTANT, INC :  (Actuarial | Consulting(pension) | Direct payment from the plan)
@@ -324,12 +293,11 @@ CT : ORANGE
         Available Investments:
            - THE UNITED ILLUMINATING COMPANY
                  : THE UIL DB MASTER TRUST
-    2017: CONNECTICUT NATURAL GAS CORPORATION RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 426
-        Assets: 106252660
-        $/Participant: 249419
+
+  [Pension] CONNECTICUT NATURAL GAS CORPORATION RETIREMENT PLAN
+    2017
+        Participants: 426  Average: $249,419
+        Assets: $106,252,660
         Service Providers:
            - NEPC, LLC :  (Investment management | Direct payment from the plan | Investment management fees paid indirectly by plan)
            - AON HEWITT INV CONSULTANT, INC. :  (Actuarial | Consulting(pension) | Direct payment from the plan)
@@ -338,33 +306,29 @@ CT : ORANGE
         Available Investments:
            - THE UNITED ILLUMINATING COMPANY
                  : THE UIL DB MASTER TRUST
-   [003]
-    2022: CONNECTICUT NATURAL GAS CORPORATION PENSION PLAN B
-        Benefit Category: Pension
-        Codes: 1A1C1I3H 
+
+  [Pension] CONNECTICUT NATURAL GAS CORPORATION PENSION PLAN B [003]
+    2022  [codes: 1A1C1I3H]
         Participants: 0
         Available Investments:
            - AVANGRID MANAGEMENT COMPANY LLC
                  : AVANGRID INC. DB MASTER TRUST
-    2021: CONNECTICUT NATURAL GAS CORPORATION PENSION PLAN B
-        Benefit Category: Pension
-        Codes: 1A1C3H 
+
+    2021  [codes: 1A1C3H]
         Participants: 51
         Service Providers:
            - PRICEWATERHOUSECOOPERS LLP :  (Actuarial)
         Available Investments:
            - AVANGRID MANAGEMENT COMPANY LLC
                  : AVANGRID INC. DB MASTER TRUST
-    2020: CONNECTICUT NATURAL GAS CORPORATION PENSION PLAN B
-        Benefit Category: Pension
-        Codes: 1A1C3H 
+
+    2020
         Participants: 54
         Available Investments:
            - AVANGRID MANAGEMENT COMPANY LLC
                  : AVANGRID INC. DB MASTER TRUST
-    2019: CONNECTICUT NATURAL GAS CORPORATION PENSION PLAN B
-        Benefit Category: Pension
-        Codes: 1A1C3H 
+
+    2019
         Participants: 53
         Service Providers:
            - AON HEWITT INV CONSULTANT, INC :  (Actuarial)
@@ -374,9 +338,8 @@ CT : ORANGE
                  : AVANGRID INC. DB MASTER TRUST
            - THE UNITED ILLUMINATING COMPANY
                  : THE UIL DB MASTER TRUST
-    2018: CONNECTICUT NATURAL GAS CORPORATION PENSION PLAN B
-        Benefit Category: Pension
-        Codes: 1A1C3H 
+
+    2018
         Participants: 55
         Service Providers:
            - AON HEWITT INVESTMENT CONSULTING :  (Actuarial | Direct payment from the plan)
@@ -384,9 +347,8 @@ CT : ORANGE
         Available Investments:
            - THE UNITED ILLUMINATING COMPANY
                  : THE UIL DB MASTER TRUST
-    2017: CONNECTICUT NATURAL GAS CORPORATION PENSION PLAN B
-        Benefit Category: Pension
-        Codes: 1A1C3H 
+
+    2017
         Participants: 61
         Available Investments:
            - THE UNITED ILLUMINATING COMPANY

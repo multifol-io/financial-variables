@@ -1,11 +1,8 @@
-NY : NEW YORK
-  DZ BANK AG, NEW YORK BRANCH  132847358
-    2022: DZ BANK AG, NEW YORK BRANCH 401K SAVINGS AND INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D3H 
-        Participants: 140
-        Assets: 62349111
-        $/Participant: 445350
+DZ BANK AG, NEW YORK BRANCH  132847358 -- NY : NEW YORK
+  [401(k)] DZ BANK AG, NEW YORK BRANCH 401K SAVINGS AND INVESTMENT PLAN
+    2022  [codes: 2E2F2G2J2K2T3D3H]
+        Participants: 140  Average: $445,350
+        Assets: $62,349,111
         RecordKeeper: SENTINEL BENEFITS GROUP LLC
         Available Investments:
            - PRINCIPAL GLOBAL INVESTMENT TRUST
@@ -16,12 +13,10 @@ NY : NEW YORK
                  : BLACKROCK MID CAP EQUITY INDEX FUND
                  : BLACKROCK RUSSELL 2000 INDEX FUND
                  : BLACKROCK U.S. DEBT INDEX FUND
-    2021: DZ BANK AG, NEW YORK BRANCH 401K SAVINGS AND INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D3H 
-        Participants: 140
-        Assets: 76945802
-        $/Participant: 549612
+
+    2021
+        Participants: 140  Average: $549,612
+        Assets: $76,945,802
         RecordKeeper: SENTINEL BENEFITS GROUP LLC
         Available Investments:
            - PRINCIPAL GLOBAL INVESTMENT TRUST
@@ -32,12 +27,10 @@ NY : NEW YORK
                  : BLACKROCK MID CAP EQUITY INDEX FUND
                  : BLACKROCK RUSSELL 2000 INDEX FUND
                  : BLACKROCK U.S. DEBT INDEX FUND
-    2020: DZ BANK AG, NEW YORK BRANCH 401K SAVINGS AND INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D3H 
-        Participants: 143
-        Assets: 67625848
-        $/Participant: 472908
+
+    2020
+        Participants: 143  Average: $472,908
+        Assets: $67,625,848
         RecordKeeper: SENTINEL BENEFITS GROUP LLC
         Available Investments:
            - UNION BOND & TRUST COMPANY
@@ -48,12 +41,10 @@ NY : NEW YORK
                  : BLACKROCK MID CAP EQUITY INDEX FUND
                  : BLACKROCK RUSSELL 2000 INDEX FUND
                  : BLACKROCK U.S. DEBT INDEX FUND
-    2019: DZ BANK AG, NEW YORK BRANCH 401K SAVINGS AND INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D3H 
-        Participants: 150
-        Assets: 61184109
-        $/Participant: 407894
+
+    2019
+        Participants: 150  Average: $407,894
+        Assets: $61,184,109
         RecordKeeper: SENTINEL BENEFITS GROUP LLC
         Available Investments:
            - UNION BOND & TRUST COMPANY
@@ -64,12 +55,10 @@ NY : NEW YORK
                  : BLACKROCK MID CAP EQUITY INDEX FUND
                  : BLACKROCK RUSSELL 2000 INDEX FUND
                  : BLACKROCK U.S. DEBT INDEX FUND
-    2018: DZ BANK AG, NEW YORK BRANCH 401K SAVINGS AND INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D3H 
-        Participants: 166
-        Assets: 52676263
-        $/Participant: 317326
+
+    2018
+        Participants: 166  Average: $317,326
+        Assets: $52,676,263
         Service Providers:
            - SENTINEL PENSION ADVISORS : INVESTMENT ADVISORY (Investment advisory(participants) | Investment advisory(plan))
         Available Investments:
@@ -81,12 +70,10 @@ NY : NEW YORK
                  : BLACKROCK MID CAP EQUITY INDEX FUND
                  : BLACKROCK RUSSELL 2000 INDEX FUND
                  : BLACKROCK U.S. DEBT INDEX FUND
-    2017: DZ BANK AG, NEW YORK BRANCH 401K SAVINGS AND INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K3D3H 
-        Participants: 179
-        Assets: 54463527
-        $/Participant: 304265
+
+    2017  [codes: 2E2F2G2J2K3D3H]
+        Participants: 179  Average: $304,265
+        Assets: $54,463,527
         RecordKeeper: SENTINEL BENEFITS GROUP, LLC
         Available Investments:
            - UNION BOND & TRUST COMPANY
@@ -97,65 +84,50 @@ NY : NEW YORK
                  : BLACKROCK MID CAP EQUITY INDEX FUND
                  : BLACKROCK RUSSELL 2000 INDEX FUND
                  : BLACKROCK U.S. DEBT INDEX FUND
-   [501]
-    2019: DZ BANK HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4R
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] DZ BANK HEALTH INSURANCE PLAN [501]
+    2019  [codes: 4A4B4D4E4F4H4L4R]
         Participants: 
-    2018: DZ BANK HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2018  [codes: 4A4B4D4E4F4H4L]
         Participants: 
-    2017: DZ BANK HEALTH INSURANCE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2017
         Participants: 
-   [001]
-    2022: PENSION PLAN FOR EMPLOYEES OF DZ BANK AG, NEW YORK BRANCH
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 207
-        Assets: 44446316
-        $/Participant: 214716
+
+  [Pension] PENSION PLAN FOR EMPLOYEES OF DZ BANK AG, NEW YORK BRANCH [001]
+    2022  [codes: 1A1C3H]
+        Participants: 207  Average: $214,716
+        Assets: $44,446,316
         Service Providers:
            - NEW YORK LIFE INSURANCE COMPANY :  (Contract Administrator | Direct payment from the plan)
-    2021: PENSION PLAN FOR EMPLOYEES OF DZ BANK AG, NEW YORK BRANCH
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 209
-        Assets: 48012967
-        $/Participant: 229727
+
+    2021
+        Participants: 209  Average: $229,727
+        Assets: $48,012,967
         Service Providers:
            - NEW YORK LIFE INSURANCE COMPANY :  (Contract Administrator | Direct payment from the plan)
-    2020: PENSION PLAN FOR EMPLOYEES OF DZ BANK AG, NEW YORK BRANCH
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 213
-        Assets: 43887139
-        $/Participant: 206042
+
+    2020
+        Participants: 213  Average: $206,042
+        Assets: $43,887,139
         Service Providers:
            - NEW YORK LIFE INSURANCE COMPANY :  (Contract Administrator | Direct payment from the plan)
-    2019: PENSION PLAN FOR EMPLOYEES OF DZ BANK AG, NEW YORK BRANCH
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 218
-        Assets: 42890371
-        $/Participant: 196744
+
+    2019
+        Participants: 218  Average: $196,744
+        Assets: $42,890,371
         Service Providers:
            - NEW YORK LIFE INSURANCE COMPANY :  (Contract Administrator | Direct payment from the plan)
-    2018: PENSION PLAN FOR EMPLOYEES OF DZ BANK AG, NEW YORK BRANCH
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 224
-        Assets: 38594614
-        $/Participant: 172297
+
+    2018
+        Participants: 224  Average: $172,297
+        Assets: $38,594,614
         Service Providers:
            - NEW YORK LIFE INSURANCE COMPANY :  (Contract Administrator | Direct payment from the plan)
-    2017: PENSION PLAN FOR EMPLOYEES OF DZ BANK AG, NEW YORK BRANCH
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 229
-        Assets: 38890841
-        $/Participant: 169829
+
+    2017
+        Participants: 229  Average: $169,829
+        Assets: $38,890,841
         Service Providers:
            - NEW YORK LIFE INSURANCE COMPANY :  (Contract Administrator)

@@ -1,45 +1,32 @@
-PA : PITTSBURGH
-  NATIONAL PEO  135581829
-   [503]
-    2019: DENTAL
-        Benefit Category: Dental
-        Codes:  4D
+NATIONAL PEO  135581829 -- PA : PITTSBURGH
+  [Dental] DENTAL [503]
+    2019  [codes: 4D]
         Participants: 911
-AZ : SCOTTSDALE
-   [501]
-    2022: NATIONAL PEO WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4C4H
+ -- AZ : SCOTTSDALE
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability] NATIONAL PEO WELFARE PLAN [501]
+    2022  [codes: 4A4B4D4E4F4C4H]
         Participants: 
-NJ : PRINCETON
-    2021: MIAMI INTERNATIONAL HOLDINGS, INC HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4E4F4H
+ -- NJ : PRINCETON
+  [Healthcare, Life insurance, Vision, Short-term disability, Long-term disability] MIAMI INTERNATIONAL HOLDINGS, INC HEALTH AND WELFARE BENEFIT PLAN
+    2021  [codes: 4A4B4E4F4H]
         Participants: 
-    2020: MIAMI INTERNATIONAL HOLDINGS, INC HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4E4F4H
+
+    2020
         Participants: 
-    2019: MIAMI INTERNATIONAL HOLDINGS, INC HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4E4F4H
+
+    2019
         Participants: 
-    2018: MIAMI INTERNATIONAL HOLDINGS, INC HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4E4F4H
+
+    2018
         Participants: 
-    2017: MIAMI INTERNATIONAL HOLDINGS, INC HEALTH AND WELFARE BENEFIT PLAN
-        Benefit Category: Healthcare, Life insurance, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4E4F4H
+
+    2017
         Participants: 
-NJ : BRIDGEWATER
-   [512]
-    2017: METLIFE OPTIONS & CHOICES PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
-        Participants: 
-        Assets: 1459032015
-        $/Participant: 
+ -- NJ : BRIDGEWATER
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability] METLIFE OPTIONS & CHOICES PLAN [512]
+    2017  [codes: 4A4B4D4E4F4H4Q]
+        Participants:   Average: $
+        Assets: $1,459,032,015
         Service Providers:
            - UNITED HEALTH CARE :  (Contract Administrator | Direct payment from the plan)
            - AETNA :  (Contract Administrator | Direct payment from the plan)
@@ -58,78 +45,59 @@ NJ : BRIDGEWATER
                  : S&P BARRA VALUE INDEX 089
                  : SMALL CAPITAL INDEX 243
                  : WAMCO LONG DURATION 504
-FL : TAMPA
-   [501]
-    2021: SPECIAL APPLICATIONS GROUP LLC
-        Benefit Category: Life insurance, Short-term disability, Long-term disability
-        Codes:  4B4F4H4Q
+ -- FL : TAMPA
+  [Life insurance, Short-term disability, Long-term disability] SPECIAL APPLICATIONS GROUP LLC [501]
+    2021  [codes: 4B4F4H4Q]
         Participants: 106
-AZ : SCOTTSDALE
-    2020: NATIONAL PEO
-        Benefit Category: Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4D4E4B4F4H4Q
+ -- AZ : SCOTTSDALE
+  [Life insurance, Dental, Vision, Short-term disability, Long-term disability] NATIONAL PEO
+    2020  [codes: 4D4E4B4F4H4Q]
         Participants: 
-    2019: NATIONAL PEO
-        Benefit Category: Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4D4E4B4F4H4Q
+
+    2019
         Participants: 
-    2018: NATIONAL PEO
-        Benefit Category: Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4D4E4B4F4H4Q
+
+    2018
         Participants: 
-MD : JESSUP
-    2017: SAYLITE, LLC DBA MOBERN LIGHTING COMPANY LIFE & DISABILITY PLAN
-        Benefit Category: Life insurance, Long-term disability
-        Codes:  4B4H
+ -- MD : JESSUP
+  [Life insurance, Long-term disability] SAYLITE, LLC DBA MOBERN LIGHTING COMPANY LIFE & DISABILITY PLAN
+    2017  [codes: 4B4H]
         Participants: 
-MN : NORTHFIELD
-   [502]
-    2021: LIFE INSURANCE
-        Benefit Category: Life insurance
-        Codes:  4B
+ -- MN : NORTHFIELD
+  [Life insurance] LIFE INSURANCE [502]
+    2021  [codes: 4B]
         Participants: 145
-NJ : BRIDGEWATER
-   [511]
-    2017: WELFARE BENEFIT PLAN FOR EES. OF METROPOLITAN LIFE
-        Benefit Category: Life insurance, Severance, Travel accident
-        Codes:  4B4G4I4L4Q
+ -- NJ : BRIDGEWATER
+  [Life insurance, Severance, Travel accident] WELFARE BENEFIT PLAN FOR EES. OF METROPOLITAN LIFE [511]
+    2017  [codes: 4B4G4I4L4Q]
         Participants: 
-CO : GREENWOOD VILLAGE
-   [003]
-    2018: THE TNE SERIES (K) ACCOUNT OF METROPOLITAN LIFE INSURANCE COMPANY
-        Benefit Category: Other
-        Codes:  
+ -- CO : GREENWOOD VILLAGE
+  [Other] THE TNE SERIES (K) ACCOUNT OF METROPOLITAN LIFE INSURANCE COMPANY [003]
+    2018  [codes: ]
         Participants: 
         Available Investments:
            - METROPOLITAN LIFE INSURANCE COMPANY
                  : THE TNE SERIES K ACCOUNT OF METRO
-    2017: THE TNE SERIES (K) ACCOUNT OF METROPOLITAN LIFE INSURANCE COMPANY
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 644744
-        $/Participant: 
+
+    2017
+        Participants:   Average: $
+        Assets: $644,744
         Available Investments:
            - METROPOLITAN LIFE INSURANCE COMPANY
                  : THE TNE SERIES K ACCOUNT OF METRO
-   [401]
-    2017: METMA SEPARATE ACCOUNT
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 1184696
-        $/Participant: 
+
+  [Other] METMA SEPARATE ACCOUNT [401]
+    2017
+        Participants:   Average: $
+        Assets: $1,184,696
         Available Investments:
            - METROPOLITAN LIFE INSURANCE COMPANY
                  : METMA SEPARATE ACCOUNT
-NJ : BRIDGEWATER
-   [001]
-    2017: METLIFE RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1E3F3H 
-        Participants: 16497
-        Assets: 9751641593
-        $/Participant: 591116
+ -- NJ : BRIDGEWATER
+  [Pension] METLIFE RETIREMENT PLAN [001]
+    2017  [codes: 1A1C1E3F3H]
+        Participants: 16,497  Average: $591,116
+        Assets: $9,751,641,593
         RecordKeeper: MILLIMAN
         Available Investments:
            - METROPOLITAN LIFE INSURANCE COMPANY

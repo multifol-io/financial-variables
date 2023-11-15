@@ -1,81 +1,61 @@
-WI : MILWAUKEE
-  PAPER MACHINERY CORPORATION  390839714
-   [002]
-    2022: PAPER MACHINERY HOLDING CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3F3I 
-        Participants: 242
-        Assets: 62900958
-        $/Participant: 259921
-    2021: PAPER MACHINERY HOLDING CORPORATION EMPLOYEES STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3F 
-        Participants: 241
-        Assets: 61720083
-        $/Participant: 256099
-    2020: PAPER MACHINERY HOLDING CORPORATION EMPLOYEES STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3F 
-        Participants: 239
-        Assets: 58926051
-        $/Participant: 246552
-    2019: PAPER MACHINERY HOLDING CORPORATION EMPLOYEES STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3F 
-        Participants: 230
-        Assets: 60410000
-        $/Participant: 262652
-    2018: PAPER MACHINERY HOLDING CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3F 
-        Participants: 236
-        Assets: 34985000
-        $/Participant: 148241
-    2017: PAPER MACHINERY HOLDING CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q3F 
-        Participants: 240
-        Assets: 25565000
-        $/Participant: 106520
-   [501]
-    2021: PAPER MACHINERY CORPORATION GROUP MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+PAPER MACHINERY CORPORATION  390839714 -- WI : MILWAUKEE
+  [Employee Stock Ownership Plan] PAPER MACHINERY HOLDING CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN [002]
+    2022  [codes: 2I2P2Q3F3I]
+        Participants: 242  Average: $259,921
+        Assets: $62,900,958
+
+  [Employee Stock Ownership Plan] PAPER MACHINERY HOLDING CORPORATION EMPLOYEES STOCK OWNERSHIP PLAN
+    2021  [codes: 2I2P2Q3F]
+        Participants: 241  Average: $256,099
+        Assets: $61,720,083
+
+    2020
+        Participants: 239  Average: $246,552
+        Assets: $58,926,051
+
+    2019
+        Participants: 230  Average: $262,652
+        Assets: $60,410,000
+
+  [Employee Stock Ownership Plan] PAPER MACHINERY HOLDING CORPORATION EMPLOYEE STOCK OWNERSHIP PLAN
+    2018
+        Participants: 236  Average: $148,241
+        Assets: $34,985,000
+
+    2017
+        Participants: 240  Average: $106,520
+        Assets: $25,565,000
+
+  [Healthcare, Dental] PAPER MACHINERY CORPORATION GROUP MEDICAL AND DENTAL PLAN [501]
+    2021  [codes: 4A4D]
         Participants: 
-    2020: PAPER MACHINERY CORPORATION GROUP MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+
+    2020
         Participants: 210
-    2019: PAPER MACHINERY CORPORATION GROUP MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+
+    2019
         Participants: 192
-    2018: PAPER MACHINERY CORPORATION GROUP MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+
+    2018
         Participants: 
         Service Providers:
            - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATO (Contract Administrator)
            - M3 INSURNCE SOLUTIONS, INC. : INSURANCE AGENT (Insurance agents and brokers)
-    2017: PAPER MACHINERY CORPORATION GROUP MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+
+    2017
         Participants: 
         Service Providers:
            - DELTA DENTAL OF WISCONSIN : THIRD PARTY ADMINISTRATO (Contract Administrator)
            - M3 INSURNCE SOLUTIONS, INC. : INSURANCE AGENT (Insurance agents and brokers)
-   [503]
-    2022: PAPER MACHINERY CORPORATION WELFARE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] PAPER MACHINERY CORPORATION WELFARE BENEFITS PLAN [503]
+    2022  [codes: 4A4B4D4E4F4H4L4Q]
         Participants: 
-   [001]
-    2022: PAPER MACHINERY CORPORATION 401(K) PLAN
-        Benefit Category: Life insurance, 401(k)
-        Codes: 2E2F2G2J2K2S2T3D3F 4B
-        Participants: 227
-        Assets: 61636070
-        $/Participant: 271524
+
+  [Life insurance, 401(k)] PAPER MACHINERY CORPORATION 401(K) PLAN [001]
+    2022  [codes: 2E2F2G2J2K2S2T3D3F4B]
+        Participants: 227  Average: $271,524
+        Assets: $61,636,070
         Available Investments:
            - ALTA TRUST
                  : STABLE VALUE FIXED INCOME CIT
@@ -94,81 +74,66 @@ WI : MILWAUKEE
                  : STATE STREET EM IDX SL II FD
            - WILMINGTON TRUST, N.A.
                  : AB US LG CP GTH CIT W SRS CL L
-    2021: PAPER MACHINERY CORPORATION PROFIT SHARING & SAVINGS PLAN AND TRUST
-        Benefit Category: Life insurance, 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 4B
-        Participants: 249
-        Assets: 73102934
-        $/Participant: 293586
+
+  [Life insurance, 401(k)] PAPER MACHINERY CORPORATION PROFIT SHARING & SAVINGS PLAN AND TRUST
+    2021  [codes: 2E2F2G2J2K2S2T3D4B]
+        Participants: 249  Average: $293,586
+        Assets: $73,102,934
         RecordKeeper: MATRIX TRUST COMPANY
         Available Investments:
            - BMO HARRIS BANK, NA
                  : ONEAMERICA STABLE VALUE FUND CL Z
-    2020: PAPER MACHINERY CORPORATION PROFIT SHARING & SAVINGS PLAN AND TRUST
-        Benefit Category: Life insurance, 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 4B
-        Participants: 277
-        Assets: 67556268
-        $/Participant: 243885
+
+    2020
+        Participants: 277  Average: $243,885
+        Assets: $67,556,268
         RecordKeeper: BMO HARRIS BANK, NA
         Available Investments:
            - BMO HARRIS BANK, NA
                  : BMO STABLE VALUE FUND CLASS Z
-    2019: PAPER MACHINERY CORPORATION PROFIT SHARING & SAVINGS PLAN AND TRUST
-        Benefit Category: Life insurance, 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 4B
-        Participants: 272
-        Assets: 65818385
-        $/Participant: 241979
+
+    2019
+        Participants: 272  Average: $241,979
+        Assets: $65,818,385
         RecordKeeper: BMO HARRIS BANK, NA
         Available Investments:
            - BMO HARRIS BANK, NA
                  : BMO STABLE VALUE FUND CLASS Z
-    2018: PAPER MACHINERY CORPORATION PROFIT SHARING & SAVINGS PLAN AND TRUST
-        Benefit Category: Life insurance, 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 4B
-        Participants: 276
-        Assets: 57901293
-        $/Participant: 209787
+
+    2018
+        Participants: 276  Average: $209,787
+        Assets: $57,901,293
         RecordKeeper: BMO HARRIS BANK, NA
         Available Investments:
            - BMO HARRIS BANK, NA
                  : BMO STABLE VALUE FUND CLASS I
-    2017: PAPER MACHINERY CORPORATION PROFIT SHARING & SAVINGS PLAN AND TRUST
-        Benefit Category: Life insurance, 401(k)
-        Codes: 2E2F2G2J2K2T3D 4B
-        Participants: 272
-        Assets: 62941286
-        $/Participant: 231401
+
+    2017  [codes: 2E2F2G2J2K2T3D4B]
+        Participants: 272  Average: $231,401
+        Assets: $62,941,286
         RecordKeeper: BMO HARRIS BANK, NA
         Available Investments:
            - BMO HARRIS BANK, NA
                  : BMO STABLE VALUE FUND CLASS I
-   [502]
-    2021: PAPER MACHINERY CORP GROUP LIFE AND DISABILITY PLAN
-        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
-        Codes:  4B4F4H4L
+
+  [Life insurance, Short-term disability, Long-term disability, Travel accident] PAPER MACHINERY CORP GROUP LIFE AND DISABILITY PLAN [502]
+    2021  [codes: 4B4F4H4L]
         Participants: 
-    2020: PAPER MACHINERY CORP GROUP LIFE AND DISABILITY PLAN
-        Benefit Category: Life insurance, Short-term disability, Long-term disability
-        Codes:  4B4F4H
+
+    2020  [codes: 4B4F4H]
         Participants: 230
-    2019: PAPER MACHINERY CORP GROUP LIFE AND DISABILITY PLAN
-        Benefit Category: Life insurance, Short-term disability, Long-term disability
-        Codes:  4B4F4H
+
+    2019
         Participants: 229
-    2018: PAPER MACHINERY CORP GROUP LIFE AND DISABILITY PLAN
-        Benefit Category: Life insurance, Short-term disability, Long-term disability
-        Codes:  4B4F4H
+
+    2018
         Participants: 
-    2017: PAPER MACHINERY CORP GROUP LIFE AND DISABILITY PLAN
-        Benefit Category: Life insurance, Short-term disability, Long-term disability
-        Codes:  4B4F4H
+
+    2017
         Participants: 
-   [503]
-    2018: PAPER MACHINERY CORPORATION FLEXIBLE BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+  [Other] PAPER MACHINERY CORPORATION FLEXIBLE BENEFIT PLAN [503]
+    2018  [codes: 4Q]
         Participants: 
         Service Providers:
            - DIVERSIFIED BENEFIT SERVICES :  (Other fees)

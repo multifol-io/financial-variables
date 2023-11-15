@@ -1,11 +1,8 @@
-FL : ESTERO
-  WESTERN GLOBAL AIRLINES INC.  300769265
-    2021: WESTERN GLOBAL AIRLINES 401(K) PROFIT SHARING
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2T3B3D3H 
-        Participants: 417
-        Assets: 7909569
-        $/Participant: 18967
+WESTERN GLOBAL AIRLINES INC.  300769265 -- FL : ESTERO
+  [401(k)] WESTERN GLOBAL AIRLINES 401(K) PROFIT SHARING
+    2021  [codes: 2A2E2F2G2J2K2T3B3D3H]
+        Participants: 417  Average: $18,967
+        Assets: $7,909,569
         RecordKeeper: STRATEGIC ADVISORS, INC.
         Available Investments:
            - TRANSAMERICA FINANCIAL LIFE INSURANCE COMPANY
@@ -38,12 +35,10 @@ FL : ESTERO
                  : TRANSAMERICA INTERNATIONAL EQUITY R
                  : TRANSAMERICA PARTNERS STOCK INDEX R
                  : VANGUARD TOTAL STOCK MARKET INDEX R
-    2020: WESTERN GLOBAL AIRLINES 401(K) PROFIT SHARING
-        Benefit Category: 401(k)
-        Codes: 2A2E2J2F2G3D3H2T 
-        Participants: 434
-        Assets: 5483855
-        $/Participant: 12635
+
+    2020  [codes: 2A2E2J2F2G3D3H2T]
+        Participants: 434  Average: $12,635
+        Assets: $5,483,855
         RecordKeeper: TAG RESOURCES, LLC
         Available Investments:
            - TRANSAMERICA FINANCIAL LIFE INSURANCE COMPANY
@@ -76,12 +71,10 @@ FL : ESTERO
                  : TRANSAMERICA INTERNATIONAL EQUITY R
                  : TRANSAMERICA PARTNERS STOCK INDEX R
                  : VANGUARD TOTAL STOCK MARKET INDEX R
-    2019: WESTERN GLOBAL AIRLINES 401(K) PROFIT SHARING
-        Benefit Category: 401(k)
-        Codes: 2A2E2J2F2G3D3H2T 
-        Participants: 424
-        Assets: 2986239
-        $/Participant: 7043
+
+    2019
+        Participants: 424  Average: $7,043
+        Assets: $2,986,239
         RecordKeeper: TAG RESOURCES, LLC
         Available Investments:
            - TRANSAMERICA FINANCIAL LIFE INSURANCE COMPANY
@@ -104,12 +97,10 @@ FL : ESTERO
                  : TRANSAMERICA INTERNATIONAL EQUITY R
                  : TRANSAMERICA PARTNERS STOCK INDEX R
                  : VOYA SMALL COMPANY RET ACCT
-    2018: WESTERN GLOBAL AIRLINES 401(K) PROFIT SHARING
-        Benefit Category: 401(k)
-        Codes: 2A2E2J2F2G3D3H2T 
-        Participants: 383
-        Assets: 1250491
-        $/Participant: 3264
+
+    2018
+        Participants: 383  Average: $3,264
+        Assets: $1,250,491
         RecordKeeper: TAG RESOURCES, LLC
         Available Investments:
            - TRANSAMERICA FINANCIAL LIFE INSURANCE COMPANY
@@ -131,12 +122,10 @@ FL : ESTERO
                  : TRANSAMERICA INTERNATIONAL EQUITY R
                  : TRANSAMERICA PARTNERS STOCK INDEX R
                  : VOYA SMALL COMPANY RET ACCT
-    2017: WESTERN GLOBAL AIRLINES 401(K) PROFIT SHARING
-        Benefit Category: 401(k)
-        Codes: 2A2E2J2F2G3D3H2T 
-        Participants: 267
-        Assets: 499219
-        $/Participant: 1869
+
+    2017
+        Participants: 267  Average: $1,869
+        Assets: $499,219
         RecordKeeper: TAG RESOURCES, LLC
         Available Investments:
            - TRANSAMERICA FINANCIAL LIFE INSURANCE COMPANY
@@ -153,43 +142,34 @@ FL : ESTERO
                  : TRANSAMERICA INTERNATIONAL EQUITY R
                  : TRANSAMERICA PARTNERS STOCK INDEX R
                  : VOYA SMALL COMPANY RET ACCT
-   [002]
-    2021: WESTERN GLOBAL AIRLINES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P 
-        Participants: 326
-        Assets: 441212218
-        $/Participant: 1353411
-    2020: WESTERN GLOBAL AIRLINES, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P 
-        Participants: 353
-        Assets: 328188750
-        $/Participant: 929713
-   [501]
-    2022: WESTERN GLOBAL AIRLINES INC. EMPLOYEE BENEFIT WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+  [Employee Stock Ownership Plan] WESTERN GLOBAL AIRLINES, INC. EMPLOYEE STOCK OWNERSHIP PLAN [002]
+    2021  [codes: 2I2P]
+        Participants: 326  Average: $1,353,411
+        Assets: $441,212,218
+
+    2020
+        Participants: 353  Average: $929,713
+        Assets: $328,188,750
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] WESTERN GLOBAL AIRLINES INC. EMPLOYEE BENEFIT WELFARE PLAN [501]
+    2022  [codes: 4A4B4D4E4F4H4L]
         Participants: 
-    2021: WESTERN GLOBAL AIRLINES INC. EMPLOYEE BENEFIT WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+    2021
         Participants: 
-    2020: WESTERN GLOBAL AIRLINES EMPLOYEE BENEFIT WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4F4H4L
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] WESTERN GLOBAL AIRLINES EMPLOYEE BENEFIT WELFARE PLAN
+    2020
         Participants: 
-    2019: WESTERN GLOBAL AIRLINES EMPLOYEE BENEFIT WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
-        Codes:  4A4B4D4E4L
+
+    2019  [codes: 4A4B4D4E4L]
         Participants: 
-    2018: WESTERN GLOBAL AIRLINES EMPLOYEE BENEFIT WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2018  [codes: 4A4B4D4E4F4H4Q]
         Participants: 
-    2017: WESTERN GLOBAL AIRLINES EMPLOYEE BENEFIT WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Travel accident
-        Codes:  4A4B4D4E4L
+
+    2017  [codes: 4A4B4D4E4L]
         Participants: 
         Service Providers:
            - BALDWIN KRYSTYN SHERMAN PARTNERS : BROKER (Insurance agents and brokers)

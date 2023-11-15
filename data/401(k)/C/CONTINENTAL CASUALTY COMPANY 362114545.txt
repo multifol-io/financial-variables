@@ -1,12 +1,8 @@
-IL : CHICAGO
-  CONTINENTAL CASUALTY COMPANY  362114545
-   [005]
-    2022: CNA 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 8936
-        Assets: 2032228000
-        $/Participant: 227420
+CONTINENTAL CASUALTY COMPANY  362114545 -- IL : CHICAGO
+  [401(k)] CNA 401K PLAN [005]
+    2022  [codes: 2E2F2G2J2K2S2T3H]
+        Participants: 8,936  Average: $227,420
+        Assets: $2,032,228,000
         RecordKeeper: INVESCO
         Available Investments:
            - BLACKROCK INC
@@ -42,12 +38,10 @@ IL : CHICAGO
                  : PRUDENTIAL CORE PLUS BOND FUND
            - SEI TRUST COMPANY
                  : WINSLOW LARGE CAP GROWTH FUND
-    2021: CNA 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 8580
-        Assets: 2486147000
-        $/Participant: 289760
+
+    2021
+        Participants: 8,580  Average: $289,760
+        Assets: $2,486,147,000
         RecordKeeper: INVESCO
         Available Investments:
            - BLACKROCK INC
@@ -83,12 +77,10 @@ IL : CHICAGO
                  : PRUDENTIAL CORE PLUS BOND FUND
            - SEI TRUST COMPANY
                  : WINSLOW LARGE CAP GROWTH FUND
-    2020: CNA 401K PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 8327
-        Assets: 2309904000
-        $/Participant: 277399
+
+    2020
+        Participants: 8,327  Average: $277,399
+        Assets: $2,309,904,000
         RecordKeeper: INVESCO
         Available Investments:
            - BLACKROCK INC
@@ -124,12 +116,11 @@ IL : CHICAGO
                  : PRUDENTIAL CORE PLUS BOND FUND
            - SEI TRUST COMPANY
                  : WINSLOW LARGE CAP GROWTH FUND
-    2019: CNA 401(K) PLUS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 8963
-        Assets: 2065390000
-        $/Participant: 230435
+
+  [401(k)] CNA 401(K) PLUS PLAN
+    2019
+        Participants: 8,963  Average: $230,435
+        Assets: $2,065,390,000
         RecordKeeper: INVESCO
         Available Investments:
            - BLACKROCK INC
@@ -169,12 +160,10 @@ IL : CHICAGO
                  : PRUDENTIAL CORE PLUS BOND FUND
            - SEI TRUST COMPANY
                  : WINSLOW LARGE CAP GROWTH FUND
-    2018: CNA 401(K) PLUS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 9879
-        Assets: 1809624000
-        $/Participant: 183178
+
+    2018
+        Participants: 9,879  Average: $183,178
+        Assets: $1,809,624,000
         RecordKeeper: INVESCO
         Available Investments:
            - BLACKROCK INC
@@ -224,12 +213,10 @@ IL : CHICAGO
                  : PRUDENTIAL CORE PLUS BOND FUND
            - SEI TRUST COMPANY
                  : WINSLOW LARGE CAP GROWTH FUND
-    2017: CNA 401(K) PLUS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 8967
-        Assets: 1996539000
-        $/Participant: 222654
+
+    2017
+        Participants: 8,967  Average: $222,654
+        Assets: $1,996,539,000
         RecordKeeper: EATON VANCE
         Available Investments:
            - BLACKROCK INC
@@ -269,284 +256,220 @@ IL : CHICAGO
                  : PRUDENTIAL CORE PLUS BOND FUND
            - SEI TRUST COMPANY
                  : WINSLOW LARGE CAP GROWTH FUND
-   [503]
-    2022: CNA HEALTH AND GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare, Dental, Short-term disability
-        Codes:  4A4D4F4Q
-        Participants: 
-        Assets: 12417000
-        $/Participant: 
+
+  [Healthcare, Dental, Short-term disability] CNA HEALTH AND GROUP BENEFITS PROGRAM [503]
+    2022  [codes: 4A4D4F4Q]
+        Participants:   Average: $
+        Assets: $12,417,000
         RecordKeeper: BLUECROSS BLUESHIELD OF ILLINOIS
         Available Investments:
            - CONTINENTAL CASUALTY COMPANY
                  : CNA EMPLOYEES' HEALTH PLAN TRUST
-    2021: CNA HEALTH AND GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare, Dental, Short-term disability
-        Codes:  4A4D4F4Q
-        Participants: 
-        Assets: 11486000
-        $/Participant: 
+
+    2021
+        Participants:   Average: $
+        Assets: $11,486,000
         RecordKeeper: JP MORGAN CHASE BANK, NA
         Available Investments:
            - CONTINENTAL CASUALTY COMPANY
                  : CNA EMPLOYEES' HEALTH PLAN TRUST
-    2020: CNA HEALTH AND GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare, Dental, Short-term disability
-        Codes:  4A4D4F4Q
-        Participants: 
-        Assets: 10070000
-        $/Participant: 
+
+    2020
+        Participants:   Average: $
+        Assets: $10,070,000
         RecordKeeper: JP MORGAN CHASE BANK, NA
         Available Investments:
            - CONTINENTAL CASUALTY COMPANY
                  : CNA EMPLOYEES' HEALTH PLAN TRUST
-    2019: CNA HEALTH AND GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare, Dental, Short-term disability
-        Codes:  4A4D4F4Q
-        Participants: 
-        Assets: 9996000
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $9,996,000
         RecordKeeper: AON CONSULTING
         Available Investments:
            - CONTINENTAL CASUALTY COMPANY
                  : CNA EMPLOYEES' HEALTH PLAN TRUST
-    2018: CNA HEALTH AND GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare, Dental, Short-term disability
-        Codes:  4A4D4F4Q
-        Participants: 
-        Assets: 9970000
-        $/Participant: 
+
+    2018
+        Participants:   Average: $
+        Assets: $9,970,000
         RecordKeeper: OGLETREE
         Available Investments:
            - CONTINENTAL CASUALTY COMPANY
                  : CNA EMPLOYEES' HEALTH PLAN TRUST
-    2017: CNA HEALTH AND GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare, Dental, Short-term disability
-        Codes:  4A4D4F4Q
-        Participants: 
-        Assets: 9558000
-        $/Participant: 
+
+    2017
+        Participants:   Average: $
+        Assets: $9,558,000
         RecordKeeper: OGLETREE
         Available Investments:
            - CONTINENTAL CASUALTY COMPANY
                  : CNA EMPLOYEES' HEALTH PLAN TRUST
-   [506]
-    2022: CNA INSURED GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident] CNA INSURED GROUP BENEFITS PROGRAM [506]
+    2022  [codes: 4A4B4D4E4H4L4Q]
         Participants: 
-    2021: CNA INSURED GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4Q
+
+    2021
         Participants: 
-    2020: CNA INSURED GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4Q
+
+    2020
         Participants: 
-    2019: CNA INSURED GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+    2019  [codes: 4A4B4D4E4H4L]
         Participants: 
-    2018: CNA INSURED GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+    2018
         Participants: 
-    2017: CNA INSURED GROUP BENEFITS PROGRAM
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L
+
+    2017
         Participants: 
-   [514]
-    2018: GROUP ACCIDENT AND HEALTH INSURANCE PLAN FOR GENERAL FINANCE CORPORATION RETIREES
-        Benefit Category: Healthcare
-        Codes:  4A4R
+
+  [Healthcare] GROUP ACCIDENT AND HEALTH INSURANCE PLAN FOR GENERAL FINANCE CORPORATION RETIREES [514]
+    2018  [codes: 4A4R]
         Participants: 10
-    2017: GROUP ACCIDENT AND HEALTH INSURANCE PLAN FOR GENERAL FINANCE CORPORATION RETIREES
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2017  [codes: 4A]
         Participants: 10
-   [516]
-    2017: CONTINENTAL INSURANCE COMPANY LONG TERM DISABILITY PLAN
-        Benefit Category: Long-term disability
-        Codes:  4H4R
+
+  [Long-term disability] CONTINENTAL INSURANCE COMPANY LONG TERM DISABILITY PLAN [516]
+    2017  [codes: 4H4R]
         Participants: 17
-   [513]
-    2022: CONTINENTAL CASUALTY COMPANY RETIREE HEALTH CARE ACCOUNT
-        Benefit Category: Other
-        Codes:  4Q
+
+  [Other] CONTINENTAL CASUALTY COMPANY RETIREE HEALTH CARE ACCOUNT [513]
+    2022  [codes: 4Q]
         Participants: 32
-    2021: CONTINENTAL CASUALTY COMPANY RETIREE HEALTH CARE ACCOUNT
-        Benefit Category: Other
-        Codes:  4Q
+
+    2021
         Participants: 40
-    2020: CONTINENTAL CASUALTY COMPANY RETIREE HEALTH CARE ACCOUNT
-        Benefit Category: Other
-        Codes:  4Q
+
+    2020
         Participants: 47
-    2019: CONTINENTAL CASUALTY COMPANY RETIREE HEALTH CARE ACCOUNT
-        Benefit Category: Other
-        Codes:  4Q
+
+    2019
         Participants: 47
-    2018: CONTINENTAL CASUALTY COMPANY RETIREE HEALTH CARE ACCOUNT
-        Benefit Category: Other
-        Codes:  4Q
+
+    2018
         Participants: 51
-    2017: CONTINENTAL CASUALTY COMPANY RETIREE HEALTH CARE ACCOUNT
-        Benefit Category: Other
-        Codes:  4Q
+
+    2017
         Participants: 54
-   [520]
-    2022: CNA SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4C
-        Participants: 
-        Assets: 11000
-        $/Participant: 
+
+  [Other] CNA SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN [520]
+    2022  [codes: 4C]
+        Participants:   Average: $
+        Assets: $11,000
         Service Providers:
            - TOTAL MANAGEMENT SYSTEMS INC :  (Claims processing | Direct payment from the plan)
            - AUTOMATIC DATA PROCESSING INC. :  (Claims processing | Direct payment from the plan)
         Available Investments:
            - CONTINENTAL CASUALTY COMPANY
                  : CNA EMPLOYEES' HEALTH PLAN TRUST
-    2021: CNA SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4C
-        Participants: 
-        Assets: 7000
-        $/Participant: 
+
+    2021
+        Participants:   Average: $
+        Assets: $7,000
         Service Providers:
            - TOTAL MANAGEMENT SYSTEMS INC :  (Claims processing | Direct payment from the plan)
            - AUTOMATIC DATA PROCESSING INC. :  (Claims processing | Direct payment from the plan)
         Available Investments:
            - CONTINENTAL CASUALTY COMPANY
                  : CNA EMPLOYEES' HEALTH PLAN TRUST
-    2020: CNA SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4C
-        Participants: 
-        Assets: 109000
-        $/Participant: 
+
+    2020
+        Participants:   Average: $
+        Assets: $109,000
         Service Providers:
            - TOTAL MANAGEMENT SYSTEMS INC :  (Claims processing | Direct payment from the plan)
            - AUTOMATIC DATA PROCESSING INC. :  (Claims processing | Direct payment from the plan)
         Available Investments:
            - CONTINENTAL CASUALTY COMPANY
                  : CNA EMPLOYEES' HEALTH PLAN TRUST
-    2019: CNA SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4C
-        Participants: 
-        Assets: 113000
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $113,000
         Service Providers:
            - TOTAL MANAGEMENT SYSTEMS INC :  (Claims processing | Direct payment from the plan)
            - AUTOMATIC DATA PROCESSING INC. :  (Claims processing | Direct payment from the plan)
         Available Investments:
            - CONTINENTAL CASUALTY COMPANY
                  : CNA EMPLOYEES' HEALTH PLAN TRUST
-    2018: CNA SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4C
-        Participants: 
-        Assets: 52000
-        $/Participant: 
+
+    2018
+        Participants:   Average: $
+        Assets: $52,000
         Service Providers:
            - TOTAL MANAGEMENT SYSTEMS INC :  (Claims processing | Direct payment from the plan)
         Available Investments:
            - CONTINENTAL CASUALTY COMPANY
                  : CNA EMPLOYEES' HEALTH PLAN TRUST
-    2017: CNA SUPPLEMENTAL UNEMPLOYMENT BENEFIT PLAN
-        Benefit Category: Other
-        Codes:  4C
-        Participants: 
-        Assets: 89000
-        $/Participant: 
+
+    2017
+        Participants:   Average: $
+        Assets: $89,000
         Service Providers:
            - TOTAL MANAGEMENT SYSTEMS INC :  (Claims processing | Direct payment from the plan)
         Available Investments:
            - CONTINENTAL CASUALTY COMPANY
                  : CNA EMPLOYEES' HEALTH PLAN TRUST
-   [521]
-    2022: CNA EMPLOYEES' HEALTH PLAN TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 10157000
-        $/Participant: 
-    2021: CNA EMPLOYEES' HEALTH PLAN TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 9242000
-        $/Participant: 
-    2020: CNA EMPLOYEES' HEALTH PLAN TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 7749000
-        $/Participant: 
-    2019: CNA EMPLOYEES' HEALTH PLAN TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 7482000
-        $/Participant: 
-    2018: CNA EMPLOYEES' HEALTH PLAN TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 7468000
-        $/Participant: 
-    2017: CNA EMPLOYEES' HEALTH PLAN TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 6929000
-        $/Participant: 
-   [001]
-    2022: CNA RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1I3F3H 
-        Participants: 16777
-        Assets: 1938920000
-        $/Participant: 115570
+
+  [Other] CNA EMPLOYEES' HEALTH PLAN TRUST [521]
+    2022  [codes: ]
+        Participants:   Average: $
+        Assets: $10,157,000
+
+    2021
+        Participants:   Average: $
+        Assets: $9,242,000
+
+    2020
+        Participants:   Average: $
+        Assets: $7,749,000
+
+    2019
+        Participants:   Average: $
+        Assets: $7,482,000
+
+    2018
+        Participants:   Average: $
+        Assets: $7,468,000
+
+    2017
+        Participants:   Average: $
+        Assets: $6,929,000
+
+  [Pension] CNA RETIREMENT PLAN [001]
+    2022  [codes: 1A1C1I3F3H]
+        Participants: 16,777  Average: $115,570
+        Assets: $1,938,920,000
         RecordKeeper: SEYFARTH SHAW
-    2021: CNA RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1I3F3H 
-        Participants: 17247
-        Assets: 2453060000
-        $/Participant: 142231
+
+    2021
+        Participants: 17,247  Average: $142,231
+        Assets: $2,453,060,000
         RecordKeeper: JP MORGAN CHASE BANK, NA
-    2020: CNA RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1I3F3H 
-        Participants: 17754
-        Assets: 2302047000
-        $/Participant: 129663
+
+    2020
+        Participants: 17,754  Average: $129,663
+        Assets: $2,302,047,000
         RecordKeeper: WELLS FARGO
-    2019: CNA RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1I3F3H 
-        Participants: 18227
-        Assets: 2172562000
-        $/Participant: 119194
+
+    2019
+        Participants: 18,227  Average: $119,194
+        Assets: $2,172,562,000
         RecordKeeper: SEYFARTH SHAW
-    2018: CNA RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1I3F3H 
-        Participants: 18560
-        Assets: 1915493000
-        $/Participant: 103205
+
+    2018
+        Participants: 18,560  Average: $103,205
+        Assets: $1,915,493,000
         RecordKeeper: CURCIO WEBB
-    2017: CNA RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C1I3F3H 
-        Participants: 18965
-        Assets: 2159229000
-        $/Participant: 113853
+
+    2017
+        Participants: 18,965  Average: $113,853
+        Assets: $2,159,229,000
         RecordKeeper: SEYFARTH SHAW
-   [512]
-    2017: WESTERN SURETY SICK LEAVE PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F4R
+
+  [Short-term disability] WESTERN SURETY SICK LEAVE PLAN [512]
+    2017  [codes: 4F4R]
         Participants: 37

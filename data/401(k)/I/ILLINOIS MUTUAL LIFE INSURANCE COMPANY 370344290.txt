@@ -1,244 +1,194 @@
-IL : PEORIA
-  ILLINOIS MUTUAL LIFE INSURANCE COMPANY  370344290
-   [003]
-    2022: ILLINOIS MUTUAL 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 252
-        Assets: 23691546
-        $/Participant: 94014
+ILLINOIS MUTUAL LIFE INSURANCE COMPANY  370344290 -- IL : PEORIA
+  [401(k)] ILLINOIS MUTUAL 401(K) RETIREMENT SAVINGS PLAN [003]
+    2022  [codes: 2E2F2G2J2K2T3D]
+        Participants: 252  Average: $94,014
+        Assets: $23,691,546
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : GALLIARD STBLE RTN C
-    2021: ILLINOIS MUTUAL 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 255
-        Assets: 28035623
-        $/Participant: 109943
+
+    2021
+        Participants: 255  Average: $109,943
+        Assets: $28,035,623
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
-    2020: ILLINOIS MUTUAL 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 236
-        Assets: 24741451
-        $/Participant: 104836
+
+    2020
+        Participants: 236  Average: $104,836
+        Assets: $24,741,451
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
-    2019: ILLINOIS MUTUAL 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 235
-        Assets: 21199917
-        $/Participant: 90212
+
+    2019
+        Participants: 235  Average: $90,212
+        Assets: $21,199,917
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
-    2018: ILLINOIS MUTUAL 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 228
-        Assets: 17738677
-        $/Participant: 77801
+
+    2018
+        Participants: 228  Average: $77,801
+        Assets: $17,738,677
         Service Providers:
            - RSM US WEALTH MANAGEMENT : CONSULTANT (Consulting(general))
            - RSM US WEALTH MANAGEMENT : CONSULTANT (Consulting(general))
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
-    2017: ILLINOIS MUTUAL 401(K) RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T3D 
-        Participants: 215
-        Assets: 18223121
-        $/Participant: 84758
+
+    2017
+        Participants: 215  Average: $84,758
+        Assets: $18,223,121
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WF STABLE FUND C
-   [503]
-    2022: ILLINOIS MUTUAL GROUP MEDICAL
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] ILLINOIS MUTUAL GROUP MEDICAL [503]
+    2022  [codes: 4A]
         Participants: 196
         Service Providers:
            - RW TROXELL & COMPANY : BROKER (Other commissions)
            - UMR INC : CLAIMS PROCESSING (Claims processing)
            - OPTUMRX INC : PHARM BENEFIT MANAGEMENT (Claims processing | Direct payment from the plan | Float revenue | Other fees)
-    2021: ILLINOIS MUTUAL GROUP MEDICAL
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2021
         Participants: 189
         Service Providers:
            - OPTUMRX INC : PHARM BENEFIT MANAGEMENT (Claims processing | Direct payment from the plan | Float revenue | Other fees)
            - UMR, INC. : CLAIMS PROCESSING (Claims processing)
            - R W TROXELL & COMPANY : BROKER (Other commissions)
-    2020: ILLINOIS MUTUAL GROUP MEDICAL
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2020
         Participants: 185
         Service Providers:
            - R W TROXELL & COMPANY : BROKER (Other commissions)
            - UMR, INC. : CLAIMS PROCESSING (Claims processing)
            - OPTUMRX, INC. : PHARMACY BENEFIT MGMT (Claims processing | Direct payment from the plan | Float revenue | Other fees)
-    2019: ILLINOIS MUTUAL GROUP MEDICAL
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2019
         Participants: 193
         Service Providers:
            - OPTUMRX, INC. : PHARM BENEFIT MANAGEMENT (Claims processing | Direct payment from the plan | Float revenue | Other fees)
            - R W TROXELL & COMPANY : BROKER (Other commissions)
            - UMR, INC. : CLAIMS PROCESSING (Claims processing)
-    2018: ILLINOIS MUTUAL GROUP MEDICAL
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2018
         Participants: 185
         Service Providers:
            - OPTUMRX, INC. : PHARMACY BENEFIT MANAGEME (Claims processing | Direct payment from the plan | Float revenue | Other fees)
            - R W TROXELL & COMPANY : BROKER (Other commissions)
            - UMR, INC. : CLAIMS PROCESSING (Claims processing)
-    2017: ILLINOIS MUTUAL GROUP MEDICAL
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+
+    2017  [codes: 4A4D]
         Participants: 193
         Service Providers:
            - OPTUMRX, INC. : PHARMACY BENEFIT MANAGEME (Claims processing | Direct payment from the plan | Float revenue | Other fees)
            - R W TROXELL & COMPANY : BROKER (Other commissions)
            - UMR, INC. : CLAIMS PROCESSING (Claims processing)
-   [502]
-    2022: ILLINOIS MUTUAL GROUP INSURANCE TRUST - LIFE
-        Benefit Category: Life insurance
-        Codes:  4B
+
+  [Life insurance] ILLINOIS MUTUAL GROUP INSURANCE TRUST - LIFE [502]
+    2022  [codes: 4B]
         Participants: 198
-    2021: ILLINOIS MUTUAL GROUP INSURANCE TRUST - LIFE
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2021
         Participants: 186
-    2020: ILLINOIS MUTUAL GROUP INSURANCE TRUST - LIFE
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2020
         Participants: 181
-    2019: ILLINOIS MUTUAL GROUP INSURANCE TRUST - LIFE
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2019
         Participants: 188
-    2018: ILLINOIS MUTUAL GROUP INSURANCE TRUST - LIFE
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2018
         Participants: 179
-    2017: ILLINOIS MUTUAL GROUP INSURANCE TRUST - LIFE
-        Benefit Category: Life insurance
-        Codes:  4B
+
+    2017
         Participants: 181
-   [505]
-    2022: ILLINOIS MUTUAL GROUP INSURANCE TRUST - DISABILITY
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+  [Long-term disability] ILLINOIS MUTUAL GROUP INSURANCE TRUST - DISABILITY [505]
+    2022  [codes: 4H]
         Participants: 162
-    2021: ILLINOIS MUTUAL GROUP INSURANCE TRUST - DISABILITY
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2021
         Participants: 159
-    2020: ILLINOIS MUTUAL GROUP INSURANCE TRUST - DISABILITY
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2020
         Participants: 161
-    2019: ILLINOIS MUTUAL GROUP INSURANCE TRUST - DISABILITY
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2019
         Participants: 159
-    2018: ILLINOIS MUTUAL GROUP INSURANCE TRUST - DISABILITY
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2018
         Participants: 154
-    2017: ILLINOIS MUTUAL GROUP INSURANCE TRUST - DISABILITY
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+    2017
         Participants: 165
-   [002]
-    2022: RETIREMENT PLAN FOR EMPLOYEES OF ILLINOIS MUTUAL LIFE INSURANCE COMPANY
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 229
-        Assets: 47154740
-        $/Participant: 205915
+
+  [Pension] RETIREMENT PLAN FOR EMPLOYEES OF ILLINOIS MUTUAL LIFE INSURANCE COMPANY [002]
+    2022  [codes: 1A1I]
+        Participants: 229  Average: $205,915
+        Assets: $47,154,740
         Available Investments:
            - ILLINOIS MUTUAL LIFE INSURANCE CO
                  : ILLINOIS MUTUAL SEPARATE ACCOUNT A
-    2021: RETIREMENT PLAN FOR EMPLOYEES OF ILLINOIS MUTUAL LIFE INSURANCE COMPANY
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 237
-        Assets: 65972646
-        $/Participant: 278365
+
+    2021
+        Participants: 237  Average: $278,365
+        Assets: $65,972,646
         Available Investments:
            - ILLINOIS MUTUAL LIFE INSURANCE CO
                  : ILLINOIS MUTUAL SEPARATE ACCOUNT A
-    2020: RETIREMENT PLAN FOR EMPLOYEES OF ILLINOIS MUTUAL LIFE INSURANCE COMPANY
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 241
-        Assets: 67068464
-        $/Participant: 278292
+
+    2020
+        Participants: 241  Average: $278,292
+        Assets: $67,068,464
         Available Investments:
            - ILLINOIS MUTUAL LIFE INSURANCE CO
                  : ILLINOIS MUTUAL SEPARATE ACCOUNT A
-    2019: RETIREMENT PLAN FOR EMPLOYEES OF ILLINOIS MUTUAL LIFE INSURANCE COMPANY
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 246
-        Assets: 61169639
-        $/Participant: 248657
+
+    2019
+        Participants: 246  Average: $248,657
+        Assets: $61,169,639
         Available Investments:
            - ILLINOIS MUTUAL LIFE INSURANCE CO
                  : ILLINOIS MUTUAL SEPARATE ACCOUNT A
-    2018: RETIREMENT PLAN FOR EMPLOYEES OF ILLINOIS MUTUAL LIFE INSURANCE COMPANY
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 250
-        Assets: 51820744
-        $/Participant: 207282
+
+    2018
+        Participants: 250  Average: $207,282
+        Assets: $51,820,744
         Available Investments:
            - ILLINOIS MUTUAL LIFE INSURANCE CO
                  : ILLINOIS MUTUAL SEPARATE ACCOUNT A
-    2017: RETIREMENT PLAN FOR EMPLOYEES OF ILLINOIS MUTUAL LIFE INSURANCE COMPANY
-        Benefit Category: Pension
-        Codes: 1A1I 
-        Participants: 252
-        Assets: 58620869
-        $/Participant: 232622
+
+    2017
+        Participants: 252  Average: $232,622
+        Assets: $58,620,869
         Available Investments:
            - ILLINOIS MUTUAL LIFE INSURANCE CO
                  : ILLINOIS MUTUAL SEPARATE ACCOUNT A
-   [504]
-    2022: ILLINOIS MUTUAL ABSENCE AND ATTENDANCE PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+  [Short-term disability] ILLINOIS MUTUAL ABSENCE AND ATTENDANCE PLAN [504]
+    2022  [codes: 4F]
         Participants: 186
-    2021: ILLINOIS MUTUAL ABSENCE AND ATTENDANCE PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+    2021
         Participants: 183
-    2020: ILLINOIS MUTUAL ABSENCE AND ATTENDANCE PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+    2020
         Participants: 175
-    2019: ILLINOIS MUTUAL ABSENCE AND ATTENDANCE PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+    2019
         Participants: 179
-    2018: ILLINOIS MUTUAL ABSENCE AND ATTENDANCE PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+    2018
         Participants: 170
-    2017: ILLINOIS MUTUAL ABSENCE AND ATTENDANCE PLAN
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+    2017
         Participants: 179

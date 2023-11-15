@@ -1,21 +1,13 @@
-IL : CHICAGO
-  PT FINANCIAL HOLDINGS, INC.  853472855
-   [003]
-    2022: MISSION DRIVEN EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q 
-        Participants: 332
-        Assets: 97965000
-        $/Participant: 295075
-    2021: MISSION DRIVEN EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q 
-        Participants: 292
-        Assets: 85059000
-        $/Participant: 291297
-    2020: MISSION DRIVEN EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P 
-        Participants: 265
-        Assets: 15999000
-        $/Participant: 60373
+PT FINANCIAL HOLDINGS, INC.  853472855 -- IL : CHICAGO
+  [Employee Stock Ownership Plan] MISSION DRIVEN EMPLOYEE STOCK OWNERSHIP PLAN [003]
+    2022  [codes: 2I2P2Q]
+        Participants: 332  Average: $295,075
+        Assets: $97,965,000
+
+    2021
+        Participants: 292  Average: $291,297
+        Assets: $85,059,000
+
+    2020  [codes: 2I2P]
+        Participants: 265  Average: $60,373
+        Assets: $15,999,000

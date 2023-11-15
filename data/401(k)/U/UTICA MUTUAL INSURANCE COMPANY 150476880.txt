@@ -1,11 +1,8 @@
-NY : NEW HARTFORD
-  UTICA MUTUAL INSURANCE COMPANY  150476880
-    2022: UTICA MUTUAL INSURANCE COMPANY EMPLOYEE PROFIT SHARING AND INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 1914
-        Assets: 277509910
-        $/Participant: 144989
+UTICA MUTUAL INSURANCE COMPANY  150476880 -- NY : NEW HARTFORD
+  [401(k)] UTICA MUTUAL INSURANCE COMPANY EMPLOYEE PROFIT SHARING AND INVESTMENT PLAN
+    2022  [codes: 2E2F2G2J2K2S2T3H]
+        Participants: 1,914  Average: $144,989
+        Assets: $277,509,910
         RecordKeeper: FITZGERALD DEPIETRO & WOJNAS
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
@@ -23,12 +20,10 @@ NY : NEW HARTFORD
                  : VFTC TARGET RET 2065 TR II
                  : VFTC TARGET RET 2070 TR II
                  : VFTC TARGET RET INCOME TR II
-    2021: UTICA MUTUAL INSURANCE COMPANY EMPLOYEE PROFIT SHARING AND INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 1854
-        Assets: 322572804
-        $/Participant: 173987
+
+    2021
+        Participants: 1,854  Average: $173,987
+        Assets: $322,572,804
         RecordKeeper: HUNTON ANDREWS KURTH LLP
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
@@ -45,258 +40,199 @@ NY : NEW HARTFORD
                  : VFTC TARGET RET 2060 TR II
                  : VFTC TARGET RET 2065 TR II
                  : VFTC TARGET RET INCOME TR II
-    2020: UTICA MUTUAL INSURANCE COMPANY EMPLOYEE PROFIT SHARING AND INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 1790
-        Assets: 287592624
-        $/Participant: 160666
+
+    2020
+        Participants: 1,790  Average: $160,666
+        Assets: $287,592,624
         RecordKeeper: VANGUARD IAM OPERATING ACCOUNT
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
-    2019: UTICA MUTUAL INSURANCE COMPANY EMPLOYEE PROFIT SHARING AND INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 1776
-        Assets: 253671558
-        $/Participant: 142833
+
+    2019
+        Participants: 1,776  Average: $142,833
+        Assets: $253,671,558
         RecordKeeper: THE VANGUARD GROUP, INC.
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
-    2018: UTICA MUTUAL INSURANCE COMPANY EMPLOYEE PROFIT SHARING AND INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 1775
-        Assets: 211813267
-        $/Participant: 119331
+
+    2018
+        Participants: 1,775  Average: $119,331
+        Assets: $211,813,267
         RecordKeeper: THE VANGUARD GROUP, INC.
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
-    2017: UTICA MUTUAL INSURANCE COMPANY EMPLOYEE PROFIT SHARING AND INVESTMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3H 
-        Participants: 1662
-        Assets: 224265946
-        $/Participant: 134937
+
+    2017
+        Participants: 1,662  Average: $134,937
+        Assets: $224,265,946
         RecordKeeper: TOWERS WATSON DE INC
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III
-   [503]
-    2022: UTICA MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident
-        Codes:  4A4B4D4E4F4G4H4I4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Severance, Travel accident] UTICA MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN [503]
+    2022  [codes: 4A4B4D4E4F4G4H4I4L4Q]
         Participants: 
-    2021: UTICA MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4G4H4Q
+
+    2021  [codes: 4A4B4D4E4F4G4H4Q]
         Participants: 
-    2020: UTICA MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4G4H4Q
+
+    2020
         Participants: 
-    2019: UTICA MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4G4H4Q
+
+    2019
         Participants: 
-    2018: UTICA MUTUAL INSURANCE COMPANY EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Vision, Long-term disability
-        Codes:  4A4E4Q4H4G4B
+
+    2018  [codes: 4A4E4Q4H4G4B]
         Participants: 
-    2017: UTICA MUTUAL INSURANCE COMPANY EMPLOYEE AND DEPENDENT MEDICAL AND DENTAL PLAN
-        Benefit Category: Healthcare, Vision
-        Codes:  4A4E4Q
+
+  [Healthcare, Vision] UTICA MUTUAL INSURANCE COMPANY EMPLOYEE AND DEPENDENT MEDICAL AND DENTAL PLAN
+    2017  [codes: 4A4E4Q]
         Participants: 
-   [510]
-    2021: UTICA MUTUAL INSURANCE COMPANY FLEXIBLE SPENDING ACCOUNT
-        Benefit Category: Healthcare
-        Codes:  4A
+
+  [Healthcare] UTICA MUTUAL INSURANCE COMPANY FLEXIBLE SPENDING ACCOUNT [510]
+    2021  [codes: 4A]
         Participants: 0
-    2020: UTICA MUTUAL INSURANCE COMPANY FLEXIBLE SPENDING ACCOUNT
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2020
         Participants: 186
-    2019: UTICA MUTUAL INSURANCE COMPANY FLEXIBLE SPENDING ACCOUNT
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2019
         Participants: 160
-    2018: UTICA MUTUAL INSURANCE COMPANY FLEXIBLE SPENDING ACCOUNT
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2018
         Participants: 448
-    2017: UTICA MUTUAL INSURANCE COMPANY FLEXIBLE SPENDING ACCOUNT
-        Benefit Category: Healthcare
-        Codes:  4A
+
+    2017
         Participants: 409
-   [525]
-    2022: UTICA MUTUAL INSURANCE COMPANY RETIREE HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B4Q
+
+  [Healthcare, Life insurance] UTICA MUTUAL INSURANCE COMPANY RETIREE HEALTH PLAN [525]
+    2022  [codes: 4A4B4Q]
         Participants: 
-    2021: UTICA MUTUAL INSURANCE COMPANY RETIREE HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B4Q
+
+    2021
         Participants: 
-    2020: UTICA MUTUAL INSURANCE COMPANY RETIREE HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B4Q
+
+    2020
         Participants: 
-    2019: UTICA MUTUAL INSURANCE COMPANY RETIREE HEALTH PLAN
-        Benefit Category: Healthcare, Life insurance
-        Codes:  4A4B4Q
+
+    2019
         Participants: 
-    2018: UTICA MUTUAL INSURANCE COMPANY RETIREE HEALTH PLAN
-        Benefit Category: Healthcare, Vision
-        Codes:  4A4E4Q
+
+    2018  [codes: 4A4E4Q]
         Participants: 
-    2017: UTICA MUTUAL INSURANCE COMPANY RETIREE HEALTH PLAN
-        Benefit Category: Healthcare, Vision
-        Codes:  4A4E4Q
+
+    2017
         Participants: 
-   [501]
-    2017: GROUP INSURANCE PLAN OF UTICA MUTUAL INSURANCE EMPLOYEES
-        Benefit Category: Life insurance
-        Codes:  4B
+
+  [Life insurance] GROUP INSURANCE PLAN OF UTICA MUTUAL INSURANCE EMPLOYEES [501]
+    2017  [codes: 4B]
         Participants: 0
-   [502]
-    2017: LONG TERM DISABILITY PLAN OF UTICA MUTUAL INSURANCE COMPANY
-        Benefit Category: Long-term disability
-        Codes:  4H
+
+  [Long-term disability] LONG TERM DISABILITY PLAN OF UTICA MUTUAL INSURANCE COMPANY [502]
+    2017  [codes: 4H]
         Participants: 0
-   [511]
-    2021: UTICA MUTUAL INSURANCE COMPANY RETIREE COST OF LIVING SUPPLEMENT
-        Benefit Category: Other
-        Codes:  4R
+
+  [Other] UTICA MUTUAL INSURANCE COMPANY RETIREE COST OF LIVING SUPPLEMENT [511]
+    2021  [codes: 4R]
         Participants: 83
-    2020: UTICA MUTUAL INSURANCE COMPANY RETIREE COST OF LIVING SUPPLEMENT
-        Benefit Category: Other
-        Codes:  4Q
+
+    2020  [codes: 4Q]
         Participants: 100
-    2019: UTICA MUTUAL INSURANCE COMPANY RETIREE COST OF LIVING SUPPLEMENT
-        Benefit Category: Other
-        Codes:  4Q
+
+    2019
         Participants: 118
-    2018: UTICA MUTUAL INSURANCE COMPANY RETIREE COST OF LIVING SUPPLEMENT
-        Benefit Category: Other
-        Codes:  4Q
+
+    2018
         Participants: 131
-    2017: UTICA MUTUAL INSURANCE COMPANY RETIREE COST OF LIVING SUPPLEMENT
-        Benefit Category: Other
-        Codes:  4Q
+
+    2017
         Participants: 150
-   [002]
-    2022: RETIREMENT INCOME PLAN OF UTICA MUTUAL INSURANCE COMPANY
-        Benefit Category: Pension
-        Codes: 1A3H3D 
-        Participants: 1326
-        Assets: 330914020
-        $/Participant: 249558
+
+  [Pension] RETIREMENT INCOME PLAN OF UTICA MUTUAL INSURANCE COMPANY [002]
+    2022  [codes: 1A3H3D]
+        Participants: 1,326  Average: $249,558
+        Assets: $330,914,020
         RecordKeeper: AGILIS PARTNERS LLC
-    2021: RETIREMENT INCOME PLAN OF UTICA MUTUAL INSURANCE COMPANY
-        Benefit Category: Pension
-        Codes: 1A3H3D 
-        Participants: 1480
-        Assets: 459589575
-        $/Participant: 310533
+
+    2021
+        Participants: 1,480  Average: $310,533
+        Assets: $459,589,575
         RecordKeeper: VANGUARD FIDUCIARY TRUST COMPANY
-    2020: RETIREMENT INCOME PLAN OF UTICA MUTUAL INSURANCE COMPANY
-        Benefit Category: Pension
-        Codes: 1A3H3D 
-        Participants: 1856
-        Assets: 442593186
-        $/Participant: 238466
+
+    2020
+        Participants: 1,856  Average: $238,466
+        Assets: $442,593,186
         RecordKeeper: VANGUARD FIDUCIARY TRUST COMPANY
-    2019: RETIREMENT INCOME PLAN OF UTICA MUTUAL INSURANCE COMPANY
-        Benefit Category: Pension
-        Codes: 1A3H3D 
-        Participants: 1899
-        Assets: 375553331
-        $/Participant: 197763
+
+    2019
+        Participants: 1,899  Average: $197,763
+        Assets: $375,553,331
         RecordKeeper: VANGUARD FIDUCIARY TRUST COMPANY
-    2018: RETIREMENT INCOME PLAN OF UTICA MUTUAL INSURANCE COMPANY
-        Benefit Category: Pension
-        Codes: 1A3H3D 
-        Participants: 2018
-        Assets: 324228973
-        $/Participant: 160668
+
+    2018
+        Participants: 2,018  Average: $160,668
+        Assets: $324,228,973
         RecordKeeper: VANGUARD FIDUCIARY TRUST COMPANY
-    2017: RETIREMENT INCOME PLAN OF UTICA MUTUAL INSURANCE COMPANY
-        Benefit Category: Pension
-        Codes: 1A3H3D 
-        Participants: 2049
-        Assets: 348594771
-        $/Participant: 170129
+
+    2017
+        Participants: 2,049  Average: $170,129
+        Assets: $348,594,771
         RecordKeeper: MARKLEY ACTUARIAL SERVICES, INC.
-   [512]
-    2021: UTICA MUTUAL INSURANCE COMPANY SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] UTICA MUTUAL INSURANCE COMPANY SEVERANCE PAY PLAN [512]
+    2021  [codes: 4I]
         Participants: 0
-    2020: UTICA MUTUAL INSURANCE COMPANY SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 1309
-    2019: UTICA MUTUAL INSURANCE COMPANY SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 1142
-    2018: UTICA MUTUAL INSURANCE COMPANY SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 1133
-    2017: UTICA MUTUAL INSURANCE COMPANY SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
-        Participants: 1082
-   [515]
-    2017: GROUP SHORT TERM DISABILITY PLAN OF UTICA MUTUAL INSURANCE COMPANY
-        Benefit Category: Short-term disability
-        Codes:  4F
+
+    2020
+        Participants: 1,309
+
+    2019
+        Participants: 1,142
+
+    2018
+        Participants: 1,133
+
+    2017
+        Participants: 1,082
+
+  [Short-term disability] GROUP SHORT TERM DISABILITY PLAN OF UTICA MUTUAL INSURANCE COMPANY [515]
+    2017  [codes: 4F]
         Participants: 0
         Service Providers:
            - LIBERTY LIFE ASSURANCE COMPANY :  ()
-   [508]
-    2021: GROUP TRAVEL ACCIDENT
-        Benefit Category: Travel accident
-        Codes:  4L
+
+  [Travel accident] GROUP TRAVEL ACCIDENT [508]
+    2021  [codes: 4L]
         Participants: 0
-    2020: GROUP TRAVEL ACCIDENT
-        Benefit Category: Travel accident
-        Codes:  4L
-        Participants: 1301
-    2019: GROUP TRAVEL ACCIDENT
-        Benefit Category: Travel accident
-        Codes:  4L
-        Participants: 1136
-    2018: GROUP TRAVEL ACCIDENT
-        Benefit Category: Travel accident
-        Codes:  4L
-        Participants: 1111
-    2017: GROUP TRAVEL ACCIDENT
-        Benefit Category: Travel accident
-        Codes:  4L
-        Participants: 1071
-   [513]
-    2021: UTICA MUTUAL INSURANCE COMPANY SALARY DEATH BENEFIT PROGRAM
-        Benefit Category: Travel accident
-        Codes:  4L
+
+    2020
+        Participants: 1,301
+
+    2019
+        Participants: 1,136
+
+    2018
+        Participants: 1,111
+
+    2017
+        Participants: 1,071
+
+  [Travel accident] UTICA MUTUAL INSURANCE COMPANY SALARY DEATH BENEFIT PROGRAM [513]
+    2021
         Participants: 0
-    2020: UTICA MUTUAL INSURANCE COMPANY SALARY DEATH BENEFIT PROGRAM
-        Benefit Category: Travel accident
-        Codes:  4L
-        Participants: 1291
-    2019: UTICA MUTUAL INSURANCE COMPANY SALARY DEATH BENEFIT PROGRAM
-        Benefit Category: Travel accident
-        Codes:  4L
-        Participants: 1280
-    2018: UTICA MUTUAL INSURANCE COMPANY SALARY DEATH BENEFIT PROGRAM
-        Benefit Category: Travel accident
-        Codes:  4L
-        Participants: 1100
-    2017: UTICA MUTUAL INSURANCE COMPANY SALARY DEATH BENEFIT PROGRAM
-        Benefit Category: Travel accident
-        Codes:  4L
-        Participants: 1058
+
+    2020
+        Participants: 1,291
+
+    2019
+        Participants: 1,280
+
+    2018
+        Participants: 1,100
+
+    2017
+        Participants: 1,058

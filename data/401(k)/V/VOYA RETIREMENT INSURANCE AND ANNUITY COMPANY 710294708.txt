@@ -1,56 +1,44 @@
-CT : WINDSOR
-  VOYA RETIREMENT INSURANCE AND ANNUITY COMPANY  710294708
-   [005]
-    2022: VOYA 401(K) PLAN FOR VRIAC AGENTS
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K3H 
-        Participants: 524
-        Assets: 138160753
-        $/Participant: 263665
+VOYA RETIREMENT INSURANCE AND ANNUITY COMPANY  710294708 -- CT : WINDSOR
+  [401(k)] VOYA 401(K) PLAN FOR VRIAC AGENTS [005]
+    2022  [codes: 2E2F2G2J2K3H]
+        Participants: 524  Average: $263,665
+        Assets: $138,160,753
         Service Providers:
            - BENEFIT TRUST COMPANY : SERVICE PROVIDER (Trustee(bank, trust company, or similar))
         Available Investments:
            - VOYA SERVICES COMPANY & VOYA RETIREMENT INSURANCE & ANNUITY CO.
                  : MASTER TRUST FOR VOYA 401(K) PLANS
-    2021: VOYA 401(K) PLAN FOR VRIAC AGENTS
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K3H 
-        Participants: 525
-        Assets: 167634047
-        $/Participant: 319302
+
+    2021
+        Participants: 525  Average: $319,302
+        Assets: $167,634,047
         Service Providers:
            - BENEFIT TRUST COMPANY : SERVICE PROVIDER (Trustee(bank, trust company, or similar))
         Available Investments:
            - VOYA SERVICES COMPANY & VOYA RETIREMENT INSURANCE & ANNUITY CO.
                  : MASTER TRUST FOR VOYA 401(K) PLANS
-    2020: VOYA 401(K) PLAN FOR VRIAC AGENTS
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K3H 
-        Participants: 555
-        Assets: 157068245
-        $/Participant: 283005
+
+    2020
+        Participants: 555  Average: $283,005
+        Assets: $157,068,245
         Service Providers:
            - BENEFIT TRUST COMPANY : SERVICE PROVIDER (Trustee(bank, trust company, or similar))
         Available Investments:
            - VOYA SERVICES COMPANY & VOYA RETIREMENT INSURANCE & ANNUITY CO.
                  : MASTER TRUST FOR VOYA 401(K) PLANS
-    2019: VOYA 401(K) PLAN FOR VRIAC AGENTS
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K3H 
-        Participants: 568
-        Assets: 137803789
-        $/Participant: 242612
+
+    2019
+        Participants: 568  Average: $242,612
+        Assets: $137,803,789
         Service Providers:
            - BENEFIT TRUST COMPANY : SERVICE PROVIDER (Trustee(bank, trust company, or similar))
         Available Investments:
            - VOYA SERVICES COMPANY & VOYA RETIREMENT INSURANCE & ANNUITY CO.
                  : MASTER TRUST FOR VOYA 401(K) PLANS
-    2018: VOYA 401(K) PLAN FOR VRIAC AGENTS
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K3H 
-        Participants: 582
-        Assets: 114806729
-        $/Participant: 197262
+
+    2018
+        Participants: 582  Average: $197,262
+        Assets: $114,806,729
         Service Providers:
            - BENEFIT TRUST COMPANY : SERVICE PROVIDER (Trustee(bank, trust company, or similar))
         Available Investments:
@@ -80,12 +68,10 @@ CT : WINDSOR
                  : VOYA TARGET INDEX SOLUTION INCOME
            - VOYA SERVICES COMPANY & VOYA RETIREMENT INSURANCE & ANNUITY CO.
                  : MASTER TRUST FOR VOYA 401(K) PLANS
-    2017: VOYA 401(K) PLAN FOR VRIAC AGENTS
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K3H 
-        Participants: 592
-        Assets: 120992032
-        $/Participant: 204378
+
+    2017
+        Participants: 592  Average: $204,378
+        Assets: $120,992,032
         Service Providers:
            - STEPTOE & JOHNSON : SERVICE PROVIDER (Other fees)
            - BENEFIT TRUST COMPANY : SERVICE PROVIDER (Trustee(bank, trust company, or similar))
@@ -119,259 +105,177 @@ CT : WINDSOR
                  : VOYA TARGET INDEX SOLUTION 2055
                  : VOYA TARGET INDEX SOLUTION 2060
                  : VOYA TARGET INDEX SOLUTION INCOME
-   [001]
-    2022: GOVERNMENT SECURITIES FUND SEPARATE ACCOUNT NO. 390
-        Benefit Category: Other
-        Codes:  
+
+  [Other] GOVERNMENT SECURITIES FUND SEPARATE ACCOUNT NO. 390 [001]
+    2022  [codes: ]
+        Participants:   Average: $
+        Assets: $194,642,817
+
+    2021
+        Participants:   Average: $
+        Assets: $280,063,795
+
+    2020
+        Participants:   Average: $
+        Assets: $269,744,797
+
+    2019
+        Participants:   Average: $
+        Assets: $263,777,066
+
+    2018
+        Participants:   Average: $
+        Assets: $448,866,896
+
+    2017
+        Participants:   Average: $
+        Assets: $296,851,686
+
+  [Other] QUALITY FUND I SEPARATE ACCOUNT NO. 391 [002]
+    2022
+        Participants:   Average: $
+        Assets: $194,601,025
+
+    2021
+        Participants:   Average: $
+        Assets: $193,237,666
+
+    2020
+        Participants:   Average: $
+        Assets: $222,584,101
+
+    2019
+        Participants:   Average: $
+        Assets: $157,288,031
+
+    2018
+        Participants:   Average: $
+        Assets: $145,888,910
+
+    2017
+        Participants:   Average: $
+        Assets: $149,460,150
+
+  [Other] QUALITY FUND II SEPARATE ACCOUNT NO. 392 [003]
+    2022
+        Participants:   Average: $
+        Assets: $126,756,473
+
+    2021
+        Participants:   Average: $
+        Assets: $154,037,943
+
+    2020
+        Participants:   Average: $
+        Assets: $176,679,396
+
+    2019
+        Participants:   Average: $
+        Assets: $121,743,006
+
+    2018
+        Participants:   Average: $
+        Assets: $116,601,924
+
+    2017
+        Participants:   Average: $
+        Assets: $103,758,160
+
+  [Other] QUALITY FUND III SEPARATE ACCOUNT NO. 748 [006]
+    2022
+        Participants:   Average: $
+        Assets: $46,851,906
+
+    2021
+        Participants:   Average: $
+        Assets: $64,918,480
+
+    2020
+        Participants:   Average: $
+        Assets: $60,375,150
+
+    2019
+        Participants:   Average: $
+        Assets: $52,029,195
+
+    2018
+        Participants:   Average: $
+        Assets: $56,280,685
+
+    2017
+        Participants:   Average: $
+        Assets: $68,066,974
+
+  [Other] INTERMEDIATE STABLE VALUE FUND SEPARATE ACCOUNT NO.734 [007]
+    2022
+        Participants:   Average: $
+        Assets: $896,413,026
+
+    2021
+        Participants:   Average: $
+        Assets: $1,054,512,504
+
+    2020
+        Participants:   Average: $
+        Assets: $1,098,544,609
+
+    2019
+        Participants:   Average: $
+        Assets: $862,478,528
+
+    2018
+        Participants:   Average: $
+        Assets: $1,094,511,837
+
+    2017
+        Participants:   Average: $
+        Assets: $953,642,712
+
+  [Other] QUALITY FUND IV SEPARATE ACCOUNT NO. 393 [008]
+    2021
         Participants: 
-        Assets: 194642817
-        $/Participant: 
-    2021: GOVERNMENT SECURITIES FUND SEPARATE ACCOUNT NO. 390
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 280063795
-        $/Participant: 
-    2020: GOVERNMENT SECURITIES FUND SEPARATE ACCOUNT NO. 390
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 269744797
-        $/Participant: 
-    2019: GOVERNMENT SECURITIES FUND SEPARATE ACCOUNT NO. 390
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 263777066
-        $/Participant: 
-    2018: GOVERNMENT SECURITIES FUND SEPARATE ACCOUNT NO. 390
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 448866896
-        $/Participant: 
-    2017: GOVERNMENT SECURITIES FUND SEPARATE ACCOUNT NO. 390
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 296851686
-        $/Participant: 
-   [002]
-    2022: QUALITY FUND I SEPARATE ACCOUNT NO. 391
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 194601025
-        $/Participant: 
-    2021: QUALITY FUND I SEPARATE ACCOUNT NO. 391
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 193237666
-        $/Participant: 
-    2020: QUALITY FUND I SEPARATE ACCOUNT NO. 391
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 222584101
-        $/Participant: 
-    2019: QUALITY FUND I SEPARATE ACCOUNT NO. 391
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 157288031
-        $/Participant: 
-    2018: QUALITY FUND I SEPARATE ACCOUNT NO. 391
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 145888910
-        $/Participant: 
-    2017: QUALITY FUND I SEPARATE ACCOUNT NO. 391
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 149460150
-        $/Participant: 
-   [003]
-    2022: QUALITY FUND II SEPARATE ACCOUNT NO. 392
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 126756473
-        $/Participant: 
-    2021: QUALITY FUND II SEPARATE ACCOUNT NO. 392
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 154037943
-        $/Participant: 
-    2020: QUALITY FUND II SEPARATE ACCOUNT NO. 392
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 176679396
-        $/Participant: 
-    2019: QUALITY FUND II SEPARATE ACCOUNT NO. 392
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 121743006
-        $/Participant: 
-    2018: QUALITY FUND II SEPARATE ACCOUNT NO. 392
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 116601924
-        $/Participant: 
-    2017: QUALITY FUND II SEPARATE ACCOUNT NO. 392
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 103758160
-        $/Participant: 
-   [006]
-    2022: QUALITY FUND III SEPARATE ACCOUNT NO. 748
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 46851906
-        $/Participant: 
-    2021: QUALITY FUND III SEPARATE ACCOUNT NO. 748
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 64918480
-        $/Participant: 
-    2020: QUALITY FUND III SEPARATE ACCOUNT NO. 748
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 60375150
-        $/Participant: 
-    2019: QUALITY FUND III SEPARATE ACCOUNT NO. 748
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 52029195
-        $/Participant: 
-    2018: QUALITY FUND III SEPARATE ACCOUNT NO. 748
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 56280685
-        $/Participant: 
-    2017: QUALITY FUND III SEPARATE ACCOUNT NO. 748
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 68066974
-        $/Participant: 
-   [007]
-    2022: INTERMEDIATE STABLE VALUE FUND SEPARATE ACCOUNT NO.734
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 896413026
-        $/Participant: 
-    2021: INTERMEDIATE STABLE VALUE FUND SEPARATE ACCOUNT NO.734
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 1054512504
-        $/Participant: 
-    2020: INTERMEDIATE STABLE VALUE FUND SEPARATE ACCOUNT NO.734
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 1098544609
-        $/Participant: 
-    2019: INTERMEDIATE STABLE VALUE FUND SEPARATE ACCOUNT NO.734
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 862478528
-        $/Participant: 
-    2018: INTERMEDIATE STABLE VALUE FUND SEPARATE ACCOUNT NO.734
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 1094511837
-        $/Participant: 
-    2017: INTERMEDIATE STABLE VALUE FUND SEPARATE ACCOUNT NO.734
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 953642712
-        $/Participant: 
-   [008]
-    2021: QUALITY FUND IV SEPARATE ACCOUNT NO. 393
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-    2020: QUALITY FUND IV SEPARATE ACCOUNT NO. 393
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 45609432
-        $/Participant: 
-    2019: QUALITY FUND IV SEPARATE ACCOUNT NO. 393
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 37009908
-        $/Participant: 
-    2018: QUALITY FUND IV SEPARATE ACCOUNT NO. 393
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 43356783
-        $/Participant: 
-    2017: QUALITY FUND IV SEPARATE ACCOUNT NO. 393
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 71233559
-        $/Participant: 
-   [011]
-    2022: QUALITY FUND VI SEPARATE ACCOUNT NO. 892
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 304961586
-        $/Participant: 
-    2021: QUALITY FUND VI SEPARATE ACCOUNT NO. 892
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 336790539
-        $/Participant: 
-    2020: QUALITY FUND VI SEPARATE ACCOUNT NO. 892
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 406201719
-        $/Participant: 
-    2019: QUALITY FUND VI SEPARATE ACCOUNT NO. 892
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 536147925
-        $/Participant: 
-    2018: QUALITY FUND VI SEPARATE ACCOUNT NO. 892
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 553261154
-        $/Participant: 
-    2017: QUALITY FUND VI SEPARATE ACCOUNT NO. 892
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 531565468
-        $/Participant: 
-   [012]
-    2017: VOYA BNY MELLON SV FUND SEPARATE ACCOUNT NO. 908
-        Benefit Category: Other
-        Codes:  
+
+    2020
+        Participants:   Average: $
+        Assets: $45,609,432
+
+    2019
+        Participants:   Average: $
+        Assets: $37,009,908
+
+    2018
+        Participants:   Average: $
+        Assets: $43,356,783
+
+    2017
+        Participants:   Average: $
+        Assets: $71,233,559
+
+  [Other] QUALITY FUND VI SEPARATE ACCOUNT NO. 892 [011]
+    2022
+        Participants:   Average: $
+        Assets: $304,961,586
+
+    2021
+        Participants:   Average: $
+        Assets: $336,790,539
+
+    2020
+        Participants:   Average: $
+        Assets: $406,201,719
+
+    2019
+        Participants:   Average: $
+        Assets: $536,147,925
+
+    2018
+        Participants:   Average: $
+        Assets: $553,261,154
+
+    2017
+        Participants:   Average: $
+        Assets: $531,565,468
+
+  [Other] VOYA BNY MELLON SV FUND SEPARATE ACCOUNT NO. 908 [012]
+    2017
         Participants: 

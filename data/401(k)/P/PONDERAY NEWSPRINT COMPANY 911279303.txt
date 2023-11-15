@@ -1,11 +1,8 @@
-WA : USK
-  PONDERAY NEWSPRINT COMPANY  911279303
-    2019: PONDERAY NEWSPRINT COMPANY EMPLOYEE RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T 
-        Participants: 183
-        Assets: 50726254
-        $/Participant: 277192
+PONDERAY NEWSPRINT COMPANY  911279303 -- WA : USK
+  [401(k)] PONDERAY NEWSPRINT COMPANY EMPLOYEE RETIREMENT SAVINGS PLAN
+    2019  [codes: 2E2F2G2J2K2T]
+        Participants: 183  Average: $277,192
+        Assets: $50,726,254
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - BLACKROCK INST. TRUST COMPANY, N.A.
@@ -24,44 +21,36 @@ WA : USK
                  : JPMCB SR DRE 2040 CF
                  : JPMCB SR DRE 2045 CF
                  : JPMCB SR DRE INC CF
-    2018: PONDERAY NEWSPRINT COMPANY EMPLOYEE RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T 
-        Participants: 192
-        Assets: 41998866
-        $/Participant: 218744
+
+    2018
+        Participants: 192  Average: $218,744
+        Assets: $41,998,866
         Service Providers:
            - SEYFARTH SHAW LLP : ACCOUNTANT/AUDITOR (Legal)
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MANAGED INCOME PORTFOLIO
-    2017: PONDERAY NEWSPRINT COMPANY EMPLOYEE RETIREMENT SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2T 
-        Participants: 183
-        Assets: 43572355
-        $/Participant: 238100
+
+    2017
+        Participants: 183  Average: $238,100
+        Assets: $43,572,355
         Service Providers:
            - SEYFARTH SHAW LLP : ATTORNEY/LEGAL (Legal)
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MANAGED INCOME PORTFOLIO
-   [505]
-    2018: PONDERAY NEWSPRINT HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident
-        Codes:  4A4B4D4E4H4L4Q
+
+  [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident] PONDERAY NEWSPRINT HEALTH & WELFARE PLAN [505]
+    2018  [codes: 4A4B4D4E4H4L4Q]
         Participants: 
-    2017: PONDERAY NEWSPRINT HEALTH & WELFARE PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Long-term disability, Travel accident
-        Codes:  4A4B4D4H4L4Q
+
+    2017  [codes: 4A4B4D4H4L4Q]
         Participants: 
-   [002]
-    2018: PONDERAY EMPLOYEE PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 251
-        Assets: 24557602
-        $/Participant: 97839
+
+  [Pension] PONDERAY EMPLOYEE PENSION PLAN [002]
+    2018  [codes: 1A]
+        Participants: 251  Average: $97,839
+        Assets: $24,557,602
         Service Providers:
            - SPRUCEGROVE :  (Investment management)
            - THE BANK OF NEW YORK MELLOON :  (Trustee(bank, trust company, or similar))
@@ -72,12 +61,10 @@ WA : USK
         Available Investments:
            - RESOLUTE FP US INC.
                  : RESOLUTE FP US MASTER TRUST
-    2017: PONDERAY EMPLOYEE PENSION PLAN
-        Benefit Category: Pension
-        Codes: 1A 
-        Participants: 252
-        Assets: 26654271
-        $/Participant: 105770
+
+    2017
+        Participants: 252  Average: $105,770
+        Assets: $26,654,271
         Service Providers:
            - DALTON INVESTMENTS LLC :  (Investment management)
            - SEYFARTH SHAW, LLP :  (Legal)

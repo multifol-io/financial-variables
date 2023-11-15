@@ -1,28 +1,17 @@
-OH : MINSTER
-  COTTERMAN HOLDINGS, INC.  844090301
-   [001]
-    2022: COTTERMAN COMPANIES EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q 
-        Participants: 106
-        Assets: 29500000
-        $/Participant: 278301
-    2021: COTTERMAN COMPANIES EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q 
-        Participants: 96
-        Assets: 17600000
-        $/Participant: 183333
-    2020: COTTERMAN COMPANIES EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P2Q 
-        Participants: 88
-        Assets: 15800000
-        $/Participant: 179545
-OH : COLUMBUS
-    2019: COTTERMAN COMPANIES EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2I2P 
-        Participants: 100
-        Assets: 1350693
-        $/Participant: 13506
+COTTERMAN HOLDINGS, INC.  844090301 -- OH : MINSTER
+  [Employee Stock Ownership Plan] COTTERMAN COMPANIES EMPLOYEE STOCK OWNERSHIP PLAN [001]
+    2022  [codes: 2I2P2Q]
+        Participants: 106  Average: $278,301
+        Assets: $29,500,000
+
+    2021
+        Participants: 96  Average: $183,333
+        Assets: $17,600,000
+
+    2020
+        Participants: 88  Average: $179,545
+        Assets: $15,800,000
+ -- OH : COLUMBUS
+    2019  [codes: 2I2P]
+        Participants: 100  Average: $13,506
+        Assets: $1,350,693

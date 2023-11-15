@@ -1,115 +1,83 @@
-MN : STEWART
-  FORM-A-FEED, INC.  410993293
-    2022: FORM-A-FEED, INC. EMPLOYEE'S RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2A2E2F2G2J2K2S2T3D 
-        Participants: 317
-        Assets: 8848089
-        $/Participant: 27911
+FORM-A-FEED, INC.  410993293 -- MN : STEWART
+  [401(k)] FORM-A-FEED, INC. EMPLOYEE'S RETIREMENT PLAN
+    2022  [codes: 2A2E2F2G2J2K2S2T3D]
+        Participants: 317  Average: $27,911
+        Assets: $8,848,089
         RecordKeeper: KESTRA ADVISORY SERVICES, LLC
         Available Investments:
            - WILMINGTON TR
                  : METLIFE GAC 25554-FEE CLASS J
-    2021: FORM-A-FEED, INC. EMPLOYEE'S RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 302
-        Assets: 12203557
-        $/Participant: 40409
+
+    2021  [codes: 2E2F2G2J2K2S2T3D]
+        Participants: 302  Average: $40,409
+        Assets: $12,203,557
         RecordKeeper: NEWPORT GROUP INC.
-    2020: FORM-A-FEED, INC. EMPLOYEE'S RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 301
-        Assets: 10502136
-        $/Participant: 34890
+
+    2020
+        Participants: 301  Average: $34,890
+        Assets: $10,502,136
         RecordKeeper: CAMBRIDGE INVESTMENT RESEARCH, INC
-    2019: FORM-A-FEED, INC. EMPLOYEE'S RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 296
-        Assets: 9177840
-        $/Participant: 31006
+
+    2019
+        Participants: 296  Average: $31,006
+        Assets: $9,177,840
         RecordKeeper: TD AMERITRADE TRUST COMPANY
-    2018: FORM-A-FEED, INC. EMPLOYEE'S RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 284
-        Assets: 8766386
-        $/Participant: 30867
+
+    2018
+        Participants: 284  Average: $30,867
+        Assets: $8,766,386
         RecordKeeper: TD AMERITRADE TRUST COMPANY
-    2017: FORM-A-FEED, INC. EMPLOYEE'S RETIREMENT PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2F2G2J2K2S2T3D 
-        Participants: 284
-        Assets: 10508380
-        $/Participant: 37001
+
+    2017
+        Participants: 284  Average: $37,001
+        Assets: $10,508,380
         RecordKeeper: TD AMERITRADE TRUST COMPANY
-   [501]
-    2017: FORM-A-FEED, INC. DENTAL PLAN
-        Benefit Category: Dental
-        Codes:  4D
+
+  [Dental] FORM-A-FEED, INC. DENTAL PLAN [501]
+    2017  [codes: 4D]
         Participants: 
-   [502]
-    2018: FORM-A-FEED, INC. DENTAL PLAN
-        Benefit Category: Dental
-        Codes:  4D
+
+ [502]
+    2018
         Participants: 
-   [002]
-    2022: FORM-A-FEED, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2I2P2Q3I3H 
-        Participants: 211
-        Assets: 110352552
-        $/Participant: 522997
-    2021: FORM-A-FEED, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2I2P2Q3I3H 
-        Participants: 232
-        Assets: 99771344
-        $/Participant: 430048
-    2020: FORM-A-FEED, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2I2P2Q3I3H 
-        Participants: 268
-        Assets: 103574548
-        $/Participant: 386472
-    2019: FORM-A-FEED, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2E2I2P2Q3I3H 
-        Participants: 268
-        Assets: 86603792
-        $/Participant: 323148
-    2018: FORM-A-FEED, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P3H3I2Q 
-        Participants: 273
-        Assets: 93863119
-        $/Participant: 343820
-    2017: FORM-A-FEED, INC. EMPLOYEE STOCK OWNERSHIP PLAN
-        Benefit Category: Employee Stock Ownership Plan
-        Codes: 2P3H3I2Q 
-        Participants: 263
-        Assets: 87587319
-        $/Participant: 333031
-   [502]
-    2022: FORM-A-FEED, INC. EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+  [Employee Stock Ownership Plan] FORM-A-FEED, INC. EMPLOYEE STOCK OWNERSHIP PLAN [002]
+    2022  [codes: 2E2I2P2Q3I3H]
+        Participants: 211  Average: $522,997
+        Assets: $110,352,552
+
+    2021
+        Participants: 232  Average: $430,048
+        Assets: $99,771,344
+
+    2020
+        Participants: 268  Average: $386,472
+        Assets: $103,574,548
+
+    2019
+        Participants: 268  Average: $323,148
+        Assets: $86,603,792
+
+    2018  [codes: 2P3H3I2Q]
+        Participants: 273  Average: $343,820
+        Assets: $93,863,119
+
+    2017
+        Participants: 263  Average: $333,031
+        Assets: $87,587,319
+
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability] FORM-A-FEED, INC. EMPLOYEE BENEFITS PLAN [502]
+    2022  [codes: 4A4B4D4E4F4H4Q]
         Participants: 
-    2021: FORM-A-FEED, INC. EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability
-        Codes:  4A4B4D4E4F4H4Q
+
+    2021
         Participants: 
-    2020: FORM-A-FEED, INC. EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
-        Codes:  4A4B4D4F4H4Q
+
+    2020  [codes: 4A4B4D4F4H4Q]
         Participants: 
-    2019: FORM-A-FEED, INC. EMPLOYEE BENEFITS PLAN
-        Benefit Category: Healthcare, Life insurance, Dental, Short-term disability, Long-term disability
-        Codes:  4A4B4D4F4H4Q
+
+    2019
         Participants: 
-    2017: FORM-A-FEED, INC. EMPLOYEE BENEFITS PLAN
-        Benefit Category: Life insurance, Dental, Short-term disability, Travel accident
-        Codes:  4B4D4F4L
+
+    2017  [codes: 4B4D4F4L]
         Participants: 

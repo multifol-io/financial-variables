@@ -1,9 +1,6 @@
-TX : HOUSTON
-  ANADARKO PETROLEUM CORPORATION C/O OCCIDENTAL PETROLEUM CORPORATIO  760146568
-   [002]
-    2020: ANADARKO EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2K2S2T2F 
+ANADARKO PETROLEUM CORPORATION C/O OCCIDENTAL PETROLEUM CORPORATIO  760146568 -- TX : HOUSTON
+  [401(k)] ANADARKO EMPLOYEE SAVINGS PLAN [002]
+    2020  [codes: 2E2G2J2K2S2T2F]
         Participants: 0
         RecordKeeper: BAKER BOTTS LLP
         Available Investments:
@@ -26,12 +23,10 @@ TX : HOUSTON
                  : VANGUARD TARGET RETIREMENT 2060
                  : VANGUARD TARGET RETIREMENT 2065
                  : VANGUARD TARGET RETIREMENT INCOME
-    2019: ANADARKO EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2K2S2T2F 
-        Participants: 5422
-        Assets: 1444772455
-        $/Participant: 266464
+
+    2019
+        Participants: 5,422  Average: $266,464
+        Assets: $1,444,772,455
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
@@ -53,13 +48,10 @@ TX : HOUSTON
                  : VANGUARD TARGET RETIREMENT 2060
                  : VANGUARD TARGET RETIREMENT 2065
                  : VANGUARD TARGET RETIREMENT INCOME
-TX : THE WOODLANDS
-    2018: ANADARKO EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2K2S2T 
-        Participants: 6215
-        Assets: 1447862565
-        $/Participant: 232962
+ -- TX : THE WOODLANDS
+    2018  [codes: 2E2G2J2K2S2T]
+        Participants: 6,215  Average: $232,962
+        Assets: $1,447,862,565
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
@@ -80,12 +72,10 @@ TX : THE WOODLANDS
                  : VANGUARD TARGET RETIREMENT 2060
                  : VANGUARD TARGET RETIREMENT 2065
                  : VANGUARD TARGET RETIREMENT INCOME
-    2017: ANADARKO EMPLOYEE SAVINGS PLAN
-        Benefit Category: 401(k)
-        Codes: 2E2G2J2K2S2T 
-        Participants: 6082
-        Assets: 1593617744
-        $/Participant: 262021
+
+    2017
+        Participants: 6,082  Average: $262,021
+        Assets: $1,593,617,744
         RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
@@ -107,88 +97,63 @@ TX : THE WOODLANDS
                  : VANGUARD TARGET RETIREMENT 2060
                  : VANGUARD TARGET RETIREMENT 2065
                  : VANGUARD TARGET RETIREMENT INCOME
-TX : HOUSTON
-   [501]
-    2022: ANADARKO PETROLEUM CORP HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4R
+ -- TX : HOUSTON
+  [Healthcare, Dental, Vision] ANADARKO PETROLEUM CORP HEALTH BENEFITS PLAN [501]
+    2022  [codes: 4A4D4E4R]
         Participants: 
-    2021: ANADARKO PETROLEUM CORP HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E
+
+    2021  [codes: 4A4D4E]
         Participants: 
-    2020: ANADARKO PETROLEUM CORP HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
+
+    2020  [codes: 4A4D4E4Q]
         Participants: 
-    2019: ANADARKO PETROLEUM CORP HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
+
+    2019
         Participants: 
-TX : THE WOODLANDS
-    2018: ANADARKO PETROLEUM CORP HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
+ -- TX : THE WOODLANDS
+    2018
         Participants: 
-    2017: ANADARKO PETROLEUM CORP HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Dental, Vision
-        Codes:  4A4D4E4Q
+
+    2017
         Participants: 
-TX : HOUSTON
-   [504]
-    2022: ANADARKO PETROLEUM RETIREE HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+ -- TX : HOUSTON
+  [Healthcare, Dental] ANADARKO PETROLEUM RETIREE HEALTH BENEFITS PLAN [504]
+    2022  [codes: 4A4D]
         Participants: 
-    2021: ANADARKO PETROLEUM RETIREE HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+
+    2021
         Participants: 
-    2020: ANADARKO PETROLEUM RETIREE HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+
+    2020
         Participants: 
-    2019: ANADARKO PETROLEUM RETIREE HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+
+    2019
         Participants: 
-TX : THE WOODLANDS
-    2018: ANADARKO PETROLEUM RETIREE HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+ -- TX : THE WOODLANDS
+    2018
         Participants: 
-    2017: ANADARKO PETROLEUM RETIREE HEALTH BENEFITS PLAN
-        Benefit Category: Healthcare, Dental
-        Codes:  4A4D
+
+    2017
         Participants: 
-TX : HOUSTON
-   [502]
-    2021: ANADARKO PETROLEUM CORP ANCILLARY BENEFITS PLAN
-        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
-        Codes:  4B4F4H4L4Q
+ -- TX : HOUSTON
+  [Life insurance, Short-term disability, Long-term disability, Travel accident] ANADARKO PETROLEUM CORP ANCILLARY BENEFITS PLAN [502]
+    2021  [codes: 4B4F4H4L4Q]
         Participants: 
-    2020: ANADARKO PETROLEUM CORP ANCILLARY BENEFITS PLAN
-        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
-        Codes:  4B4F4H4L4Q
+
+    2020
         Participants: 
-    2019: ANADARKO PETROLEUM CORP ANCILLARY BENEFITS PLAN
-        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
-        Codes:  4B4F4H4L4Q
+
+    2019
         Participants: 
-TX : THE WOODLANDS
-    2018: ANADARKO PETROLEUM CORP ANCILLARY BENEFITS PLAN
-        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
-        Codes:  4B4F4H4L4Q
+ -- TX : THE WOODLANDS
+    2018
         Participants: 
-    2017: ANADARKO PETROLEUM CORP ANCILLARY BENEFITS PLAN
-        Benefit Category: Life insurance, Short-term disability, Long-term disability, Travel accident
-        Codes:  4B4F4H4L4Q
+
+    2017
         Participants: 
-TX : HOUSTON
-   [003]
-    2022: ANADARKO PETROLEUM CORPORATION MASTER TRUST
-        Benefit Category: Other
-        Codes:  
+ -- TX : HOUSTON
+  [Other] ANADARKO PETROLEUM CORPORATION MASTER TRUST [003]
+    2022  [codes: ]
         Participants: 
         Available Investments:
            - BAILLIE GIFFORD OVERSEAS LTD
@@ -201,12 +166,10 @@ TX : HOUSTON
                  : ACADIAN COLLECTIVE INVESTMENT TRUST
            - THE BANK OF NEW YROK
                  : EB TEMPORARY INVESTMENTS
-    2021: ANADARKO PETROLEUM CORPORATION MASTER TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 492546052
-        $/Participant: 
+
+    2021
+        Participants:   Average: $
+        Assets: $492,546,052
         Available Investments:
            - BAILLIE GIFFORD OVERSEAS LTD
                  : INTL LGE CAP GROWTH
@@ -220,12 +183,10 @@ TX : HOUSTON
                  : EB TEMPORARY INVESTMENTS
            - WELLINGTON TRUST COMPANY N.A.
                  : WTC-CIF SMALL CAP 2000 PORTFOLIO
-    2020: ANADARKO PETROLEUM CORPORATION MASTER TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 575370163
-        $/Participant: 
+
+    2020
+        Participants:   Average: $
+        Assets: $575,370,163
         Service Providers:
            - WESTERN ASSET MGMT CO :  (Investment management | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | 'Soft dollars' commissions)
            - WELLINGTON MGMT CO :  (Investment management | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | 'Soft dollars' commissions)
@@ -243,12 +204,10 @@ TX : HOUSTON
                  : EB TEMPORARY INVESTMENTS
            - WELLINGTON TRUST COMPANY N.A.
                  : WTC-CIF SMALL CAP 2000 PORTFOLIO
-    2019: ANADARKO PETROLEUM CORPORATION MASTER TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 1242685873
-        $/Participant: 
+
+    2019
+        Participants:   Average: $
+        Assets: $1,242,685,873
         Service Providers:
            - SILCHESTER INTERNATIONAL INVESTORS :  (Investment management | Float revenue | Investment management fees paid directly by plan | Other fees | Investment management fees paid indirectly by plan | Other commissions | Finders' fees/placement fees)
            - MERCER (US) INC. :  (Consulting(general) | Investment advisory(plan) | Direct payment from the plan | Consulting fees)
@@ -278,13 +237,10 @@ TX : HOUSTON
                  : WTC-CIF SMALL CAP 2000 PORTFOLIO
            - WESTERN ASSET MANAGEMENT COMPANY
                  : WESTERN ASSET US CORE PLUS LLC
-TX : THE WOODLANDS
-    2018: ANADARKO PETROLEUM CORPORATION MASTER TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 1133038016
-        $/Participant: 
+ -- TX : THE WOODLANDS
+    2018
+        Participants:   Average: $
+        Assets: $1,133,038,016
         Service Providers:
            - SILCHESTER INTERNATIONAL INVESTORS :  (Investment management | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | Other commissions | Finders' fees/placement fees | Float revenue | Other fees)
            - SUMMIT STRATEGIES :  (Consulting(general) | Investment advisory(plan) | Direct payment from the plan | Consulting fees)
@@ -319,12 +275,10 @@ TX : THE WOODLANDS
                  : WTC-CIF SMALL CAP 2000 PORTFOLIO
            - WESTERN ASSET MANAGEMENT COMPANY
                  : WESTERN ASSET US CORE PLUS LLC
-    2017: ANADARKO PETROLEUM CORPORATION MASTER TRUST
-        Benefit Category: Other
-        Codes:  
-        Participants: 
-        Assets: 1235068849
-        $/Participant: 
+
+    2017
+        Participants:   Average: $
+        Assets: $1,235,068,849
         Service Providers:
            - SILCHESTER INTERNATIONAL INVESTORS :  (Investment management | Other commissions | 'Soft dollars' commissions | Finders' fees/placement fees | Other fees)
            - SBH :  (Investment management | Investment management fees paid directly by plan)
@@ -363,164 +317,125 @@ TX : THE WOODLANDS
                  : WTC-CIF SMALL CAP 2000 PORTFOLIO
            - WESTERN ASSET MANAGEMENT COMPANY
                  : WESTEN ASSET US CORE PLUS LLC
-TX : HOUSTON
-   [503]
-    2021: ANADARKO PETROLEUM CORP PRE-TAX PREMIUM AND BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4Q
+ -- TX : HOUSTON
+  [Other] ANADARKO PETROLEUM CORP PRE-TAX PREMIUM AND BENEFITS PLAN [503]
+    2021  [codes: 4Q]
         Participants: 
-    2020: ANADARKO PETROLEUM CORP PRE-TAX PREMIUM AND BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2020
         Participants: 
-    2019: ANADARKO PETROLEUM CORP PRE-TAX PREMIUM AND BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2019
         Participants: 
-TX : THE WOODLANDS
-    2018: ANADARKO PETROLEUM CORP PRE-TAX PREMIUM AND BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4Q
+ -- TX : THE WOODLANDS
+    2018
         Participants: 
-    2017: ANADARKO PETROLEUM CORP PRE-TAX PREMIUM AND BENEFITS PLAN
-        Benefit Category: Other
-        Codes:  4Q
+
+    2017
         Participants: 
-TX : HOUSTON
-   [001]
-    2021: ANADARKO RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C3H 
+ -- TX : HOUSTON
+  [Pension] ANADARKO RETIREMENT PLAN [001]
+    2021  [codes: 1A1C3H]
         Participants: 0
         RecordKeeper: WILLIS TOWERS WATSON
         Available Investments:
            - ANADARKO PETROLEUM CORPORATION
                  : ANADARKO PETROLEUM CORP MASTER TRST
-    2020: ANADARKO RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 4962
-        Assets: 450064572
-        $/Participant: 90702
+
+    2020
+        Participants: 4,962  Average: $90,702
+        Assets: $450,064,572
         RecordKeeper: BANK OF NEW YORK MELLON
         Available Investments:
            - ANADARKO PETROLEUM CORPORATION
                  : ANADARKO PETROLEUM CORP MASTER TRST
-    2019: ANADARKO RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 6327
-        Assets: 894647151
-        $/Participant: 141401
+
+    2019
+        Participants: 6,327  Average: $141,401
+        Assets: $894,647,151
         RecordKeeper: BANK OF NEW YORK MELLON
         Available Investments:
            - ANADARKO PETROLEUM CORPORATION
                  : ANADARKO PETROLEUM CORP MASTER TRST
-TX : THE WOODLANDS
-    2018: ANADARKO RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 8264
-        Assets: 805703529
-        $/Participant: 97495
+ -- TX : THE WOODLANDS
+    2018
+        Participants: 8,264  Average: $97,495
+        Assets: $805,703,529
         RecordKeeper: BANK OF NEW YORK MELLON
         Available Investments:
            - ANADARKO PETROLEUM CORPORATION
                  : ANADARKO PETROLEUM CORP MASTERTRUST
-    2017: ANADARKO RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 8082
-        Assets: 904640945
-        $/Participant: 111932
+
+    2017
+        Participants: 8,082  Average: $111,932
+        Assets: $904,640,945
         RecordKeeper: BANK OF NEW YORK MELLON
         Available Investments:
            - ANADARKO PETROLEUM CORPORATION
                  : ANADARKO PETROLEUM CORP MASTERTRUST
-TX : HOUSTON
-   [004]
-    2021: KERR-MCGEE CORPORATION RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C3H 
+ -- TX : HOUSTON
+  [Pension] KERR-MCGEE CORPORATION RETIREMENT PLAN [004]
+    2021
         Participants: 0
         RecordKeeper: METROPOLITAN LIFE INSURANCE
         Available Investments:
            - ANADARKO PETROLEUM CORPORATION
                  : ANADARKO PETROLEUM CORP MASTER TRST
-    2020: KERR-MCGEE CORPORATION RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 3524
-        Assets: 252635247
-        $/Participant: 71689
+
+    2020
+        Participants: 3,524  Average: $71,689
+        Assets: $252,635,247
         RecordKeeper: METROPOLITAN LIFE INSURANCE
         Available Investments:
            - ANADARKO PETROLEUM CORPORATION
                  : ANADARKO PETROLEUM CORP MASTER TRST
-    2019: KERR-MCGEE CORPORATION RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 3917
-        Assets: 437325214
-        $/Participant: 111647
+
+    2019
+        Participants: 3,917  Average: $111,647
+        Assets: $437,325,214
         RecordKeeper: METROPOLITAN LIFE INSURANCE
         Available Investments:
            - ANADARKO PETROLEUM CORPORATION
                  : ANADARKO PETROLEUM CORP MASTER TRST
-TX : THE WOODLANDS
-    2018: KERR-MCGEE CORPORATION RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 4124
-        Assets: 417203201
-        $/Participant: 101164
+ -- TX : THE WOODLANDS
+    2018
+        Participants: 4,124  Average: $101,164
+        Assets: $417,203,201
         RecordKeeper: BRIGHTHOUSE LIFE INSURANCE
         Available Investments:
            - ANADARKO PETROLEUM CORPORATION
                  : ANADARKO PETROLEUM CORP MASTERTRUST
-    2017: KERR-MCGEE CORPORATION RETIREMENT PLAN
-        Benefit Category: Pension
-        Codes: 1A1C3H 
-        Participants: 4299
-        Assets: 488897965
-        $/Participant: 113723
+
+    2017
+        Participants: 4,299  Average: $113,723
+        Assets: $488,897,965
         RecordKeeper: BRIGHTHOUSE LIFE INSURANCE
         Available Investments:
            - ANADARKO PETROLEUM CORPORATION
                  : ANADARKO PETROLEUM CORP MASTERTRUST
-TX : HOUSTON
-   [506]
-    2022: ANADARKO PETROLEUM CORP CHANGE OF CONTROL SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I4R
+ -- TX : HOUSTON
+  [Severance] ANADARKO PETROLEUM CORP CHANGE OF CONTROL SEVERANCE PAY PLAN [506]
+    2022  [codes: 4I4R]
         Participants: 
-    2021: ANADARKO PETROLEUM CORP CHANGE OF CONTROL SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2021  [codes: 4I]
         Participants: 
-    2020: ANADARKO PETROLEUM CORP CHANGE OF CONTROL SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2020
         Participants: 
-    2019: ANADARKO PETROLEUM CORP CHANGE OF CONTROL SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2019
         Participants: 
-TX : THE WOODLANDS
-    2018: ANADARKO PETROLEUM CORP CHANGE OF CONTROL SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+ -- TX : THE WOODLANDS
+    2018
         Participants: 
-    2017: ANADARKO PETROLEUM CORP CHANGE OF CONTROL SEVERANCE PAY PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2017
         Participants: 
-   [521]
-    2018: ANADARKO PETROLEUM CORPORATION SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+  [Severance] ANADARKO PETROLEUM CORPORATION SEVERANCE PLAN [521]
+    2018
         Participants: 
-    2017: ANADARKO PETROLEUM CORPORATION SEVERANCE PLAN
-        Benefit Category: Severance
-        Codes:  4I
+
+    2017
         Participants: 
