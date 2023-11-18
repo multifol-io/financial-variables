@@ -153,13 +153,19 @@ BAKER BOTTS L.L.P  741195457 -- TX : HOUSTON
            - MORGAN STANLEY SMITH BARNEY :  (Investment advisory(plan) | Other investment fees and expenses | Direct payment from the plan)
     2019
         Assets: $525,726,818
-        RecordKeeper: TD AMERITRADE
+        Service Providers:
+           - MORGAN STANLEY SMITH BARNEY :  (Investment advisory(plan) | Other investment fees and expenses | Direct payment from the plan)
+           - TD AMERITRADE :  (Other services | Other commissions | Sub - transfer agency fees | Recordkeeping fees | Shareholder servicing fees)
     2018
         Assets: $446,399,757
-        RecordKeeper: TD AMERITRADE
+        Service Providers:
+           - MORGAN STANLEY SMITH BARNEY :  (Investment advisory(plan) | Other investment fees and expenses | Direct payment from the plan)
+           - TD AMERITRADE :  (Other services | Other commissions | Sub - transfer agency fees | Recordkeeping fees | Shareholder servicing fees)
     2017
         Assets: $480,785,526
-        RecordKeeper: TD AMERITRADE
+        Service Providers:
+           - MORGAN STANLEY SMITH BARNEY :  (Investment advisory(plan) | Other investment fees and expenses | Direct payment from the plan)
+           - TD AMERITRADE :  (Other services | Other commissions | Sub - transfer agency fees | Recordkeeping fees | Shareholder servicing fees)
   [Other] BAKER BOTTS L.L.P. GROUP ACCIDENT INSURANCE PLAN [741195457-502]
     2020  [codes: 4Q]
     2019
@@ -169,33 +175,48 @@ BAKER BOTTS L.L.P  741195457 -- TX : HOUSTON
     2022  [codes: 1A1I]
         Participants: 284  Average: $34,747
         Assets: $9,868,273
-        RecordKeeper: WEAVER AND TIDWELL, LLP
+        Service Providers:
+           - ERNST & YOUNG : ACTUARY (Actuarial)
+           - PRINCIPAL TRUST COMPANY : RECORD KEEPER (Recordkeeper)
+           - WEAVER AND TIDWELL, LLP : AUDIT/ACCOUNTING (Accounting(including auditing))
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WELL FARGO ST INVESTMENT FUND G  [416292499-000] C  $210,951
     2021
         Participants: 305  Average: $44,834
         Assets: $13,674,488
-        RecordKeeper: WEAVER AND TIDWELL, LLP
+        Service Providers:
+           - ERNST & YOUNG : ACTUARY (Actuarial)
+           - WELLS FARGO :  (Recordkeeper)
+           - WEAVER AND TIDWELL, LLP : AUDIT/ACCOUNTING (Accounting(including auditing))
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO ST INVESTMENT FUND G  [416292499-000] C  $231,599
     2020
         Participants: 322  Average: $41,247
         Assets: $13,281,630
-        RecordKeeper: WEAVER AND TIDWELL, LLP
+        Service Providers:
+           - ERNST & YOUNG : ACTUARY (Actuarial)
+           - WELLS FARGO :  (Recordkeeper)
+           - WEAVER AND TIDWELL, LLP : AUDIT/ACCOUNTING (Accounting(including auditing))
     2019
         Participants: 341  Average: $37,209
         Assets: $12,688,298
-        RecordKeeper: WELLS FARGO
+        Service Providers:
+           - ERNST & YOUNG : ACTUARY (Actuarial)
+           - WELLS FARGO :  (Recordkeeper)
     2018
         Participants: 370  Average: $32,276
         Assets: $11,942,444
-        RecordKeeper: WELLS FARGO
+        Service Providers:
+           - ERNST & YOUNG : ACTUARY (Actuarial)
+           - WELLS FARGO :  (Recordkeeper)
     2017
         Participants: 381  Average: $36,644
         Assets: $13,961,554
-        RecordKeeper: WELLS FARGO
+        Service Providers:
+           - MERCER :  (Actuarial)
+           - WELLS FARGO :  (Recordkeeper)
   [Pension] BAKER BOTTS L.L.P. PARTNER RETIREMENT PLAN - PLAN A [741195457-078]
     2022  [codes: 1C1H1I]
         Participants: 0

@@ -1,9 +1,11 @@
 CLS BANK INTERNATIONAL  134140131 -- NY : NEW YORK
-  [401(k)] CLS BANK INTERNATIONAL 401(K) AND PROFIT SHARING PLAN
+  [401(k)] CLS BANK INTERNATIONAL 401(K) AND PROFIT SHARING PLAN [134140131-001]
     2022  [codes: 2E2F2G2J2K2S2T3D3F3H]
         Participants: 343  Average: $220,800
         Assets: $75,734,571
-        RecordKeeper: STRATEGIC ADVISORS, INC.
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Participant loan processing | Sub - transfer agency fees | Recordkeeping fees | Account maintenance fees)
+           - STRATEGIC ADVISORS, INC. : ADVISOR (Investment advisory(plan))
         Available Investments:
            - BOSTON PARTNERS TRUST COMPANY
                  : BP LG CAP VAL EQ CIT  [611603964-001] C  $2,658,438
@@ -16,7 +18,9 @@ CLS BANK INTERNATIONAL  134140131 -- NY : NEW YORK
     2021  [codes: 2E2F2G2J2K2S2T3D3H]
         Participants: 327  Average: $265,494
         Assets: $86,816,753
-        RecordKeeper: STRATEGIC ADVISORS, INC.
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Participant loan processing | Sub - transfer agency fees | Recordkeeping fees | Account maintenance fees)
+           - STRATEGIC ADVISORS, INC. : ADVISOR (Investment advisory(plan))
         Available Investments:
            - BOSTON PARTNERS TRUST COMPANY
                  : BP LG CAP VAL EQ CIT  [611603964-001] C  $1,585,239
@@ -25,19 +29,24 @@ CLS BANK INTERNATIONAL  134140131 -- NY : NEW YORK
     2020  [codes: 2E2F2G2J2K2S2T3D]
         Participants: 313  Average: $221,041
         Assets: $69,186,089
-        RecordKeeper: STRATEGIC ADVISORS, INC.
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Participant loan processing | Sub - transfer agency fees | Recordkeeping fees | Account maintenance fees)
+           - STRATEGIC ADVISORS, INC. : ADVISOR (Investment advisory(plan))
     2019
         Participants: 266  Average: $202,921
         Assets: $53,977,180
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Participant loan processing | Sub - transfer agency fees | Recordkeeping fees | Account maintenance fees)
     2018
         Participants: 255  Average: $157,528
         Assets: $40,169,748
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Participant loan processing | Sub - transfer agency fees | Recordkeeping fees | Account maintenance fees)
     2017  [codes: 2E2F2G2J2K2T3D3H]
         Participants: 231  Average: $161,202
         Assets: $37,237,723
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Participant loan processing | Sub - transfer agency fees | Recordkeeping fees | Account maintenance fees)
   [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] CLS BANK INTERNATIONAL WELFARE BENEFIT PLAN [134140131-501]
     2022  [codes: 4A4B4D4E4F4H4L]
     2021

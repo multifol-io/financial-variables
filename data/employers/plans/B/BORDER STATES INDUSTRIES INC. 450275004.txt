@@ -3,7 +3,10 @@ BORDER STATES INDUSTRIES INC.  450275004 -- ND : FARGO
     2021  [codes: 2E2F2G2J2K2S2T3D]
         Participants: 3,099  Average: $55,092
         Assets: $170,731,328
-        RecordKeeper: WILSHIRE ADVISORS LLC
+        Service Providers:
+           - PRINCIPAL LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator | Participant loan processing | Direct payment from the plan | Recordkeeping fees)
+           - WELLS FARGO BANK, N.A. : RECORDKEEPER/BOOKKEEPER (Recordkeeper | Participant loan processing | Direct payment from the plan | Float revenue | Account maintenance fees)
+           - WILSHIRE ADVISORS LLC : INVESTMENT ADVISORY (Investment advisory(plan) | Other investment fees and expenses)
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO BLACKROCK SP 500 N  [943224211-001] C  $15,413,466
@@ -18,7 +21,9 @@ BORDER STATES INDUSTRIES INC.  450275004 -- ND : FARGO
     2020
         Participants: 3,024  Average: $56,629
         Assets: $171,248,021
-        RecordKeeper: PRUDENTIAL RET INSURANCE & ANNUITY
+        Service Providers:
+           - WELLS FARGO BANK, N.A. : RECORDKEEPER/BOOKKEEPER (Recordkeeper | Participant loan processing | Direct payment from the plan | Float revenue | Recordkeeping fees)
+           - PRUDENTIAL RET INSURANCE & ANNUITY : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid indirectly by plan)
         Available Investments:
            - PRUDENTIAL RETIREMENT INSURANCE & ANNUITY COMPANY
                  : PRUDENTIAL INCOMEFLEX  [061050034-808] P  $0
@@ -32,7 +37,8 @@ BORDER STATES INDUSTRIES INC.  450275004 -- ND : FARGO
     2019
         Participants: 3,201  Average: $39,844
         Assets: $127,541,762
-        RecordKeeper: WELLS FARGO BANK, N.A.
+        Service Providers:
+           - WELLS FARGO BANK, N.A. : SERVICE PROVIDER (Recordkeeper | Participant loan processing | Direct payment from the plan | Float revenue | Recordkeeping fees)
         Available Investments:
            - PRUDENTIAL RETIREMENT INSURANCE & ANNUITY COMPANY
                  : PRUDENTIAL INCOMEFLEX  [061050034-808] P  $136,442
@@ -46,7 +52,8 @@ BORDER STATES INDUSTRIES INC.  450275004 -- ND : FARGO
     2018
         Participants: 3,302  Average: $42,040
         Assets: $138,818,437
-        RecordKeeper: WELLS FARGO BANK, N.A.
+        Service Providers:
+           - WELLS FARGO BANK, N.A. : SERVICE PROVIDER (Recordkeeper | Participant loan processing | Direct payment from the plan | Float revenue | Recordkeeping fees)
         Available Investments:
            - PRUDENTIAL RETIREMENT INSURANCE & ANNUITY COMPANY
                  : PRUDENTIAL INCOMEFLEX  [061050034-808] P  $122,464
@@ -60,7 +67,9 @@ BORDER STATES INDUSTRIES INC.  450275004 -- ND : FARGO
     2017
         Participants: 3,073  Average: $43,610
         Assets: $134,014,678
-        RecordKeeper: GRANT THORNTON LLP
+        Service Providers:
+           - WELLS FARGO BANK, N.A. : SERVICE PROVIDER (Recordkeeper | Participant loan processing | Other services | Direct payment from the plan | Sub - transfer agency fees | Float revenue | Distribution(12b - 1) fees | Recordkeeping fees)
+           - GRANT THORNTON LLP : SERVICE PROVIDER (Accounting(including auditing) | Direct payment from the plan)
         Available Investments:
            - PRUDENTIAL RETIREMENT INSURANCE & ANNUITY COMPANY
                  : PRUDENTIAL INCOMEFLEX  [061050034-808] P  $115,749
@@ -90,23 +99,38 @@ BORDER STATES INDUSTRIES INC.  450275004 -- ND : FARGO
     2021  [codes: 2I2P2Q3H3I]
         Participants: 2,609  Average: $321,047
         Assets: $837,614,104
-        RecordKeeper: ALERUS FINANCIAL
+        Service Providers:
+           - PRINCIPAL FINANCIAL GROUP : RECORDKEEPER/BOOKKEEPER (Recordkeeper | Direct payment from the plan)
+           - GRANT THORNTON OOP : ACCOUNTANT (Accounting(including auditing) | Direct payment from the plan)
+           - ALERUS FINANCIAL : TRUSTEE (Trustee(directed) | Direct payment from the plan)
     2020
         Participants: 2,589  Average: $247,672
         Assets: $641,224,215
-        RecordKeeper: GRANT THORNTON
+        Service Providers:
+           - PRINCIPAL : RECORDKEEPER/BOOKKEEPER (Recordkeeper | Direct payment from the plan)
+           - ALERUS FINANCIAL : TRUSTEE (Trustee(directed) | Direct payment from the plan)
+           - GRANT THORNTON : ACCOUNTANT (Accounting(including auditing) | Direct payment from the plan)
     2019
         Participants: 2,873  Average: $186,399
         Assets: $535,525,992
-        RecordKeeper: GRANT THORNTON
+        Service Providers:
+           - PRINCIPAL FINANCIAL GROUP : RECORDKEEPER/BOOKKEEPER (Recordkeeper | Direct payment from the plan)
+           - ALERUS : TRUSTEE (Trustee(directed) | Direct payment from the plan)
+           - GRANT THORNTON : ACCOUNTANT (Accounting(including auditing) | Direct payment from the plan)
     2018
         Participants: 2,743  Average: $259,954
         Assets: $713,053,979
-        RecordKeeper: ALERUS
+        Service Providers:
+           - GRANT THORNTON : ACCOUNTANT (Accounting(including auditing) | Direct payment from the plan)
+           - PRINCIPAL : RECORDKEEPER/BOOKKEEPER (Recordkeeper | Direct payment from the plan)
+           - ALERUS : TRUSTEE (Trustee(directed) | Direct payment from the plan)
     2017
         Participants: 2,566  Average: $246,607
         Assets: $632,794,116
-        RecordKeeper: ALERUS
+        Service Providers:
+           - GRANT THORNTON : ACCOUNTANT (Accounting(including auditing) | Direct payment from the plan)
+           - PRINCIPAL : RECORDKEEPER/BOOKKEEPER (Recordkeeper | Direct payment from the plan)
+           - ALERUS : TRUSTEE (Trustee(directed) | Direct payment from the plan)
   [Healthcare, Dental, Vision] BORDER STATES INDUSTRIES INC. GROUP HEALTH INSURANCE PLAN [450275004-501]
     2022  [codes: 4A4D4E]
     2021

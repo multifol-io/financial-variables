@@ -3,7 +3,8 @@ POTLATCH NO. 1 FINANCIAL CREDIT UNION  820201645 -- ID : LEWISTON
     2022  [codes: 2E2F2G2J2K2S2T3D]
         Participants: 455  Average: $39,857
         Assets: $18,135,098
-        RecordKeeper: MINNESOTA LIFE INSURANCE COMPANY
+        Service Providers:
+           - MINNESOTA LIFE INSURANCE COMPANY :  (Contract Administrator | Recordkeeper | Investment management | Valuation(appraisals, etc.) | Participant loan processing | Participant communication | Direct payment from the plan | Investment management fees paid indirectly by plan | Recordkeeping fees | Account maintenance fees)
         Available Investments:
            - MINNESOTA LIFE INSURANCE COMPANY
                  : DFA INFL-PROTECTED SEC PORT, I  [410417830-221] P  $0
@@ -19,7 +20,9 @@ POTLATCH NO. 1 FINANCIAL CREDIT UNION  820201645 -- ID : LEWISTON
     2021
         Participants: 454  Average: $47,258
         Assets: $21,455,418
-        RecordKeeper: MINNESOTA LIFE INSURANCE COMPANY
+        Service Providers:
+           - CMFG LIFE INSURANCE COMPANY :  (Recordkeeper | Consulting(pension) | Investment management | Participant loan processing | Participant communication | Direct payment from the plan | Investment management fees paid indirectly by plan | Recordkeeping fees)
+           - MINNESOTA LIFE INSURANCE COMPANY :  (Contract Administrator | Recordkeeper | Investment management | Valuation(appraisals, etc.) | Participant communication | Recordkeeping fees | Account maintenance fees | Direct payment from the plan | Investment management fees paid indirectly by plan | Participant loan processing)
         Available Investments:
            - MINNESOTA LIFE INSURANCE COMPANY
                  : DFA INFL-PROTECTED SEC PORT, I  [410417830-221] P  $62
@@ -36,20 +39,26 @@ POTLATCH NO. 1 FINANCIAL CREDIT UNION  820201645 -- ID : LEWISTON
     2020
         Participants: 455  Average: $35,250
         Assets: $16,038,866
-        RecordKeeper: MEMBERS CAPITAL ADVISORS, INC. D/B/
+        Service Providers:
+           - CMFG LIFE INSURANCE COMPANY :  (Recordkeeper | Consulting(pension) | Investment management | Participant loan processing | Participant communication | Direct payment from the plan | Investment management fees paid indirectly by plan | Recordkeeping fees)
+           - MEMBERS CAPITAL ADVISORS, INC. D/B/ :  (Investment advisory(plan) | Investment management fees paid directly by plan)
     2019
         Participants: 343  Average: $38,583
         Assets: $13,234,037
-        RecordKeeper: MEMBERS CAPITAL ADVISORS, INC. D/B/
+        Service Providers:
+           - CMFG LIFE INSURANCE COMPANY :  (Recordkeeper | Consulting(pension) | Investment management | Participant loan processing | Participant communication | Direct payment from the plan | Investment management fees paid indirectly by plan | Recordkeeping fees)
+           - MEMBERS CAPITAL ADVISORS, INC. D/B/ :  (Investment advisory(plan) | Investment management fees paid directly by plan)
   [401(k)] POTLATCH NO 1 FEDERAL CREDIT UNION 401(K) PLAN AND TRUST
     2018  [codes: 2E2F2G2J2K2S3D]
         Participants: 289  Average: $33,976
         Assets: $9,819,148
-        RecordKeeper: CMFG LIFE INSURANCE COMPANY
+        Service Providers:
+           - CMFG LIFE INSURANCE COMPANY :  (Recordkeeper | Consulting(pension) | Participant loan processing | Participant communication)
     2017  [codes: 2E2F2G2J2K2S2T3D]
         Participants: 262  Average: $36,319
         Assets: $9,515,836
-        RecordKeeper: CMFG LIFE INSURANCE COMPANY
+        Service Providers:
+           - CMFG LIFE INSURANCE COMPANY :  (Recordkeeper | Consulting(pension) | Participant loan processing | Participant communication)
   [Healthcare, Short-term disability, Long-term disability] GROUP LONG TERM DISABILITY PLAN [820201645-501]
     2022  [codes: 4A4F4H]
     2021
@@ -77,7 +86,8 @@ POTLATCH NO. 1 FINANCIAL CREDIT UNION  820201645 -- ID : LEWISTON
     2021  [codes: 1A1C]
         Participants: 343  Average: $158,792
         Assets: $54,465,962
-        RecordKeeper: MINNESOTA LIFE INSURANCE COMPANY
+        Service Providers:
+           - MINNESOTA LIFE INSURANCE COMPANY :  (Actuarial | Contract Administrator | Recordkeeper | Investment management | Participant communication)
         Available Investments:
            - MINNESOTA LIFE INSURANCE COMPANY
                  : FIDELITY EMERGING MARKETS IDX  [410417830-900] P  $2,462,885
@@ -94,7 +104,8 @@ POTLATCH NO. 1 FINANCIAL CREDIT UNION  820201645 -- ID : LEWISTON
     2020
         Participants: 289  Average: $253,271
         Assets: $73,195,339
-        RecordKeeper: MINNESOTA LIFE INSURANCE COMPANY
+        Service Providers:
+           - MINNESOTA LIFE INSURANCE COMPANY :  (Actuarial | Contract Administrator | Recordkeeper | Investment management | Participant communication)
         Available Investments:
            - MINNESOTA LIFE INSURANCE COMPANY
                  : FIDELITY EMERGING MARKETS IDX  [410417830-900] P  $3,770,022
@@ -111,16 +122,20 @@ POTLATCH NO. 1 FINANCIAL CREDIT UNION  820201645 -- ID : LEWISTON
     2019
         Participants: 249  Average: $122,863
         Assets: $30,593,033
-        RecordKeeper: MEMBERS CAPITAL ADVISORS, INC.
+        Service Providers:
+           - CMFG LIFE INSURANCE COMPANY :  (Actuarial | Recordkeeper | Consulting(pension) | Participant communication)
+           - MEMBERS CAPITAL ADVISORS, INC. :  (Investment advisory(plan) | Investment management fees paid directly by plan)
     2018
         Participants: 212  Average: $112,354
         Assets: $23,819,130
-        RecordKeeper: CMFG LIFE INSURANCE COMPANY
+        Service Providers:
+           - CMFG LIFE INSURANCE COMPANY :  (Actuarial | Recordkeeper | Consulting(pension) | Investment advisory(plan) | Participant communication)
   [Pension] POTLATCH NO 1 FEDERAL CREDIT UNION CASH BALANCE DEFINED BENEFIT PLAN AND TRUST
     2017
         Participants: 213  Average: $86,000
         Assets: $18,318,032
-        RecordKeeper: CMFG LIFE INSURANCE COMPANY
+        Service Providers:
+           - CMFG LIFE INSURANCE COMPANY :  (Actuarial | Recordkeeper | Consulting(pension) | Investment advisory(plan) | Participant communication)
   [Travel accident] AD&D PLAN FOR EMPLOYEES OF POTLATCH NO 1 FEDERAL CREDIT UNION [820201645-530]
     2018  [codes: 4L]
     2017

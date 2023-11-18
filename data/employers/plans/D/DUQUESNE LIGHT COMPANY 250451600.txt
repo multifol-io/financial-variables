@@ -3,7 +3,9 @@ DUQUESNE LIGHT COMPANY  250451600 -- PA : PITTSBURGH
     2022  [codes: 2E2F2G2J2K2S3F3H]
         Participants: 1,015  Average: $140,981
         Assets: $143,096,079
-        RecordKeeper: VANGUARD ADVISERS INC.
+        Service Providers:
+           - THE VANGUARD GROUP, INC. :  (Recordkeeper | Consulting(general) | Trustee(directed) | Participant loan processing | Participant communication | Investment management fees paid indirectly by plan)
+           - VANGUARD ADVISERS INC. :  (Investment advisory(participants))
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III  [387041744-024] C  $4,202,802
@@ -22,28 +24,33 @@ DUQUESNE LIGHT COMPANY  250451600 -- PA : PITTSBURGH
     2021
         Participants: 976  Average: $168,198
         Assets: $164,161,706
-        RecordKeeper: VANGUARD ADVISERS INC.
+        Service Providers:
+           - THE VANGUARD GROUP, INC. :  (Recordkeeper | Consulting(general) | Trustee(directed) | Participant loan processing | Participant communication | Investment management fees paid indirectly by plan | Other fees)
+           - VANGUARD ADVISERS INC. :  (Investment advisory(participants))
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III  [387041744-024] C  $3,404,384
     2020
         Participants: 953  Average: $148,259
         Assets: $141,291,498
-        RecordKeeper: THE VANGUARD GROUP, INC.
+        Service Providers:
+           - THE VANGUARD GROUP, INC. :  (Recordkeeper | Consulting(general) | Trustee(directed) | Investment advisory(participants) | Participant loan processing | Participant communication | Investment management fees paid indirectly by plan)
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III  [387041744-024] C  $3,432,692
     2019
         Participants: 940  Average: $129,596
         Assets: $121,820,747
-        RecordKeeper: THE VANGUARD GROUP, INC.
+        Service Providers:
+           - THE VANGUARD GROUP, INC. :  (Recordkeeper | Consulting(general) | Trustee(directed) | Investment advisory(participants) | Participant loan processing | Investment management fees paid indirectly by plan)
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST III  [387041744-024] C  $3,004,025
     2018
         Participants: 989  Average: $100,323
         Assets: $99,219,708
-        RecordKeeper: THE VANGUARD GROUP, INC.
+        Service Providers:
+           - THE VANGUARD GROUP, INC. :  (Recordkeeper | Consulting(general) | Trustee(directed) | Investment advisory(participants) | Participant loan processing | Participant communication | Investment management fees paid indirectly by plan)
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VFTC RETIREMENT SAVINGS TRUST  [455436422-022] C  $0
@@ -51,7 +58,8 @@ DUQUESNE LIGHT COMPANY  250451600 -- PA : PITTSBURGH
     2017
         Participants: 965  Average: $107,688
         Assets: $103,919,476
-        RecordKeeper: THE VANGUARD GROUP, INC.
+        Service Providers:
+           - THE VANGUARD GROUP, INC. :  (Recordkeeper | Consulting(general) | Trustee(directed) | Investment advisory(participants) | Participant loan processing | Participant communication | Investment management fees paid indirectly by plan)
         Available Investments:
            - VANGUARD FIDUCIARY TRUST COMPANY
                  : VANGUARD RETIREMENT SAVINGS TRUST  [232186884-022] C  $3,118,532
@@ -64,19 +72,39 @@ DUQUESNE LIGHT COMPANY  250451600 -- PA : PITTSBURGH
   [Healthcare, Vision] DUQUESNE LIGHT COMPANY MEDICAL BENEFITS PLAN FOR IBEW-REPRESENTED EMPLOYEES [250451600-502]
     2021  [codes: 4A4E]
         Assets: $1,091,905
-        RecordKeeper: TOWERS WATSON
+        Service Providers:
+           - HIGHMARK, INC. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Recordkeeper | Insurance services)
+           - EXPRESS SCRIPTS, INC. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
+           - DAVIS VISION, INC. : CONTRACT ADMINISTRATION (Claims processing | Contract Administrator)
+           - TOWERS WATSON : ACTUARY (Actuarial)
     2020
         Assets: $467,625
-        RecordKeeper: TOWERS WATSON
+        Service Providers:
+           - HIGHMARK, INC. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Recordkeeper | Insurance services)
+           - EXPRESS SCRIPTS, INC. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator)
+           - DAVIS VISION, INC. : CONTRACT ADMINISTRATION (Claims processing | Contract Administrator)
+           - TOWERS WATSON : ACTUARY (Actuarial)
     2019
         Assets: $324,522
-        RecordKeeper: HIGHMARK, INC.
+        Service Providers:
+           - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Recordkeeper | Insurance services)
+           - TOWERS WATSON : ACTUARY (Actuarial)
+           - DAVIS VISION, INC. : CONTRACT ADMINISTRATION (Claims processing | Contract Administrator)
+           - HIGHMARK, INC. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Recordkeeper | Insurance services)
     2018
         Assets: $606,640
-        RecordKeeper: DAVIS VISION, INC.
+        Service Providers:
+           - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Recordkeeper | Insurance services)
+           - HIGHMARK,INC. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Recordkeeper | Insurance services)
+           - TOWERS WATSON : ACTUARY (Actuarial)
+           - DAVIS VISION, INC. : CONTRACT ADMINISTRATION (Claims processing | Contract Administrator)
     2017
         Assets: $614,301
-        RecordKeeper: DAVIS VISION, INC.
+        Service Providers:
+           - HIGHMARK,INC. : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Recordkeeper | Insurance services)
+           - AETNA LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Claims processing | Contract Administrator | Recordkeeper | Insurance services)
+           - TOWERS WATSON : ACTUARY (Actuarial)
+           - DAVIS VISION, INC. : CONTRACT ADMINISTRATION (Claims processing | Contract Administrator)
   [Healthcare] DUQUESNE LIGHT COMPANY MEDICAL PLAN FOR CERTAIN UMWA RETIREES [250451600-525]
     2021  [codes: 4A]
     2020

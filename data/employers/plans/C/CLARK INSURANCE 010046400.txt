@@ -2,7 +2,9 @@ CLARK INSURANCE  010046400 -- ME : PORTLAND
   [401(k)] CLARK INSURANCE 401(K) PLAN [010046400-004]
     2019  [codes: 2E2F2G2J2K2T3D]
         Participants: 0
-        RecordKeeper: VALMARK ADVISERS INC.
+        Service Providers:
+           - GREAT-WEST LIFE & ANNUITY INSURANCE : RECORDKEEPER (Recordkeeping fees)
+           - VALMARK ADVISERS INC. : INVESTMENT ADVISOR (Investment advisory(plan))
         Available Investments:
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND  [043159710-202] C  $0
@@ -10,7 +12,8 @@ CLARK INSURANCE  010046400 -- ME : PORTLAND
     2021  [codes: 2P2J2K2H2Q2T2E2F2G3D]
         Participants: 177  Average: $294,261
         Assets: $52,084,268
-        RecordKeeper: GREAT-WEST LIFE & ANNUITY INSURACE
+        Service Providers:
+           - GREAT-WEST LIFE & ANNUITY INSURACE : RECORDKEEPER (Recordkeeping fees)
         Available Investments:
            - AST WILMINGTON TRUST
                  : STABLE VALUE FUND FEE CLASS R1  [854031707-000] C  $100,516
@@ -19,7 +22,8 @@ CLARK INSURANCE  010046400 -- ME : PORTLAND
     2020
         Participants: 151  Average: $300,198
         Assets: $45,330,008
-        RecordKeeper: GREAT-WEST LIFE & ANNUITY INSURACE
+        Service Providers:
+           - GREAT-WEST LIFE & ANNUITY INSURACE : RECORDKEEPER (Recordkeeping fees)
         Available Investments:
            - PUTNAM INVESTMENTS
                  : PUTNAM STABLE VALUE FUND  [043159710-202] C  $597,696
@@ -50,7 +54,9 @@ CLARK INSURANCE  010046400 -- ME : PORTLAND
     2022  [codes: 2E]
         Participants: 155  Average: $145,750
         Assets: $22,591,312
-        RecordKeeper: SPINNAKER TRUST
+        Service Providers:
+           - GREAT-WEST LIFE & ANNUITY INSURACE : RECORDKEEPER (Recordkeeping fees)
+           - SPINNAKER TRUST : TRUSTEE (Trustee(bank, trust company, or similar))
         Available Investments:
            - AST WILMINGTON TRUST
                  : CORE PLUS BOND FUND II FEE CLASS R1  [387271377-758] C  $0

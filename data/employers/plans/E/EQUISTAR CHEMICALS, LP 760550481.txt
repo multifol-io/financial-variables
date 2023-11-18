@@ -34,49 +34,57 @@ EQUISTAR CHEMICALS, LP  760550481 -- TX : HOUSTON
     2022  [codes: 2E2F2G2J2K3H2R2T]
         Participants: 112  Average: $185,075
         Assets: $20,728,410
-        RecordKeeper: FID INV INTL OPS CO
+        Service Providers:
+           - FID INV INTL OPS CO : RECORDKEEPER (Participant loan processing | Recordkeeping fees | Account maintenance fees | Securities brokerage commissions and fees)
         Available Investments:
            - LYONDELLCH EQUISTARCH HOUSTONREFIN
                  : LYONDELL,EQUISTAR,HOUSTON REFIN MT  [043452906-001] M  $20,357,598
     2021
         Participants: 123  Average: $209,634
         Assets: $25,785,026
-        RecordKeeper: FID INV INTL OPS CO
+        Service Providers:
+           - FID INV INTL OPS CO : RECORDKEEPER (Participant loan processing | Recordkeeping fees | Account maintenance fees | Securities brokerage commissions and fees)
         Available Investments:
            - LYONDELLCH EQUISTARCH HOUSTONREFIN
                  : LYONDELL,EQUISTAR,HOUSTON REFIN MT  [043452906-001] M  $25,436,468
     2020
         Participants: 133  Average: $175,795
         Assets: $23,380,844
-        RecordKeeper: FID INV INTL OPS CO
+        Service Providers:
+           - FID INV INTL OPS CO : RECORDKEEPER (Participant loan processing | Recordkeeping fees | Account maintenance fees | Securities brokerage commissions and fees)
         Available Investments:
            - LYONDELLCH EQUISTARCH HOUSTONREFIN
                  : LYONDELL,EQUISTAR,HOUSTON REFIN MT  [043452906-001] M  $22,968,347
     2019
         Participants: 131  Average: $159,463
         Assets: $20,889,726
-        RecordKeeper: FID INV INTL OPS CO
+        Service Providers:
+           - FID INV INTL OPS CO : RECORDKEEPER (Participant loan processing | Recordkeeping fees | Account maintenance fees | Securities brokerage commissions and fees)
         Available Investments:
            - LYONDELLCH EQUISTARCH HOUSTONREFIN
                  : LYONDELL,EQUISTAR,HOUSTON REFIN MT  [043452906-001] M  $20,436,304
     2018
         Participants: 127  Average: $131,934
         Assets: $16,755,718
-        RecordKeeper: FID INV INTL OPS CO
+        Service Providers:
+           - FID INV INTL OPS CO : RECORDKEEPER (Participant loan processing | Recordkeeping fees | Account maintenance fees | Securities brokerage commissions and fees)
         Available Investments:
            - LYONDELLCH EQUISTARCH HOUSTONREFIN
                  : LYONDELL,EQUISTAR,HOUSTON REFIN MT  [043452906-001] M  $16,285,149
     2017
         Participants: 131  Average: $143,128
         Assets: $18,749,842
-        RecordKeeper: FID INV INTL OPS CO
+        Service Providers:
+           - FID INV INTL OPS CO : RECORDKEEPER (Participant loan processing | Recordkeeping fees | Account maintenance fees | Securities brokerage commissions and fees)
         Available Investments:
            - LYONDELLCH EQUISTARCH HOUSTONREFIN
                  : LYONDELL,EQUISTAR,HOUSTON REFIN MT  [043452906-001] M  $18,334,190
   [401(k)] BASELL RETIREMENT SAVINGS PLAN [760550481-014]
     2022  [codes: 2E2F2G2J2K3H2R2T2S]
         Participants: 103
-        RecordKeeper: FID INV INST OPS CO
+        Service Providers:
+           - STRATEGIC ADVISORS, INC. : ADVISOR (Investment advisory(plan))
+           - FID INV INST OPS CO : RECORDKEEPER (Participant loan processing | Recordkeeping fees | Account maintenance fees | Securities brokerage commissions and fees)
         Available Investments:
            - LYONDELLCH,EQUISTARCH,HOUSTON REFIN
                  : LYONDELL,EQUISTAR,HOUSTON REFIN MT  [043452906-001] M  $18,378,840
@@ -142,7 +150,10 @@ EQUISTAR CHEMICALS, LP  760550481 -- TX : HOUSTON
   [Pension] CAIN CHEMICAL, INC. PENSION PLAN [760550481-003]
     2020  [codes: 1A3H1I]
         Participants: 0
-        RecordKeeper: LIFEWORKS (US) LTD.
+        Service Providers:
+           - MERCER :  (Actuarial | Direct payment from the plan)
+           - WILLIS TOWERS WATSON US LLC :  (Actuarial | Direct payment from the plan)
+           - LIFEWORKS (US) LTD. :  (Recordkeeper | Direct payment from the plan)
         Available Investments:
            - LYONDELL CHEMICAL COMPANY
                  : LYONDELLBASELL MASTER TRUST  [954160558-009] M  $0

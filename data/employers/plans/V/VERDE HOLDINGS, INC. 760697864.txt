@@ -3,21 +3,25 @@ VERDE HOLDINGS, INC.  760697864 -- TX : STAFFORD
     2021  [codes: 2E2F2H2J2K2T3D]
         Participants: 611  Average: $62,017
         Assets: $37,892,875
-        RecordKeeper: PRINCIPAL LIFE INSURANCE COMPANY
+        Service Providers:
+           - PRINCIPAL LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator | Participant loan processing | Direct payment from the plan | Recordkeeping fees)
         Available Investments:
            - SEI TRUST COMPANY
                  : GALLIARD STABLE RETURN PN  [416202499-001] C  $4,257,873
     2020  [codes: 2E2F2G2J2K2T3D]
         Participants: 583  Average: $72,021
         Assets: $41,988,352
-        RecordKeeper: WELLS FARGO BANK, N.A.
+        Service Providers:
+           - PRINCIPAL LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator | Participant loan processing | Direct payment from the plan | Recordkeeping fees)
+           - WELLS FARGO BANK, N.A. : RECORDKEEPER/BOOKKEEPER (Recordkeeper | Trustee(directed) | Participant loan processing | Direct payment from the plan)
         Available Investments:
            - WELLS FARGO
                  : WELLS FARGO STABLE RETRN N FD  [416202499-001] C  $2,009,567
     2019  [codes: 2E2J2K2T3D3H2G2F]
         Participants: 665  Average: $53,064
         Assets: $35,287,780
-        RecordKeeper: WELLS FARGO BANK, N.A.
+        Service Providers:
+           - WELLS FARGO BANK, N.A. : SERVICE PROVIDER (Recordkeeper | Participant loan processing | Direct payment from the plan | Float revenue | Recordkeeping fees)
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : STABLE RETURN FUND N  [416202499-001] C  $1,947,999
@@ -25,7 +29,9 @@ VERDE HOLDINGS, INC.  760697864 -- TX : STAFFORD
     2018
         Participants: 696  Average: $47,555
         Assets: $33,098,293
-        RecordKeeper: WELLS FARGO ADVISORS, PCG
+        Service Providers:
+           - WELLS FARGO BANK, N.A. : SERVICE PROVIDER (Recordkeeper | Trustee(bank, trust company, or similar) | Participant loan processing | Direct payment from the plan | Float revenue | Recordkeeping fees)
+           - WELLS FARGO ADVISORS, PCG : SERVICE PROVIDER (Investment advisory(plan) | Investment management fees paid indirectly by plan)
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : STABLE RETURN FUND N  [416202499-001] C  $1,463,412
@@ -33,7 +39,9 @@ VERDE HOLDINGS, INC.  760697864 -- TX : STAFFORD
     2017  [codes: 2E2J2K2T3D3H2G]
         Participants: 660  Average: $42,916
         Assets: $28,324,952
-        RecordKeeper: WELLS FARGO ADVISORS, PCG
+        Service Providers:
+           - WELLS FARGO BANK, N.A. : SERVICE PROVIDER (Recordkeeper | Trustee(bank, trust company, or similar) | Participant loan processing | Direct payment from the plan | Float revenue | Recordkeeping fees)
+           - WELLS FARGO ADVISORS, PCG : SERVICE PROVIDER (Investment advisory(plan) | Investment management fees paid indirectly by plan)
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : STABLE RETURN FUND N60  [522251407-001] C  $1,588,205

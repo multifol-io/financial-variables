@@ -228,37 +228,43 @@ NORTHWEST PERMANENTE, P.C.  930698548 -- OR : PORTLAND
   [Other] NORTHWEST PERMANENTE, P.C. MASTER TRUST [930698548-007]
     2022  [codes: ]
         Assets: $1,357,620,474
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Sub - transfer agency fees)
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2  [043022712-024] C  $12,769,699
     2021
         Assets: $1,688,306,574
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Sub - transfer agency fees)
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2  [043022712-024] C  $16,007,487
     2020
         Assets: $1,449,294,348
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Sub - transfer agency fees)
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2  [043022712-024] C  $22,607,355
     2019
         Assets: $1,212,088,537
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Sub - transfer agency fees)
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2  [043022712-024] C  $13,521,306
     2018
         Assets: $967,430,698
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Sub - transfer agency fees)
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 2  [043022712-024] C  $9,586,345
     2017
         Assets: $1,011,103,299
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Sub - transfer agency fees)
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP CL 1  [043022712-024] C  $6,799,082
@@ -303,19 +309,28 @@ NORTHWEST PERMANENTE, P.C.  930698548 -- OR : PORTLAND
     2022  [codes: 1A1C]
         Participants: 1,275  Average: $90,090
         Assets: $114,865,581
-        RecordKeeper: STATE STREET CORPORATION
+        Service Providers:
+           - MILLIMAN, INC. :  (Actuarial | Recordkeeper | Consulting(pension) | Direct payment from the plan)
+           - THE VANGUARD GROUP, INC. :  (Investment advisory(plan) | Direct payment from the plan)
+           - STATE STREET CORPORATION :  (Custodial(other than securities) | Direct payment from the plan)
     2021
         Participants: 1,132  Average: $83,546
         Assets: $94,575,075
-        RecordKeeper: STATE STREET CORPORATION
+        Service Providers:
+           - MILLIMAN, INC. :  (Actuarial | Recordkeeper | Consulting(pension) | Direct payment from the plan)
+           - STATE STREET CORPORATION :  (Custodial(other than securities) | Direct payment from the plan)
     2020
         Participants: 1,008  Average: $67,700
         Assets: $68,242,533
-        RecordKeeper: STATE STREET CORPORATION
+        Service Providers:
+           - MILLIMAN, INC. :  (Actuarial | Recordkeeper | Consulting(pension) | Direct payment from the plan)
+           - STATE STREET CORPORATION :  (Custodial(other than securities) | Direct payment from the plan)
     2019
         Participants: 912  Average: $47,600
         Assets: $43,411,710
-        RecordKeeper: STATE STREET CORPORATION
+        Service Providers:
+           - MILLIMAN, INC. :  (Actuarial | Recordkeeper | Consulting(pension) | Direct payment from the plan)
+           - STATE STREET CORPORATION :  (Custodial(other than securities) | Direct payment from the plan)
     2018
         Participants: 779  Average: $31,503
         Assets: $24,540,962

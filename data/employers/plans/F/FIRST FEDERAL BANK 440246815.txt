@@ -3,25 +3,36 @@ FIRST FEDERAL BANK  440246815 -- KS : LEAWOOD
     2022  [codes: 2E2G2J2K2T3D2F]
         Participants: 250  Average: $33,335
         Assets: $8,333,796
-        RecordKeeper: COMMERCE TRUST COMPANY
+        Service Providers:
+           - NATIONWIDE LIFE INSURANCE COMPANY : RECORDKEEPER (Recordkeeper)
+           - COMMERCE TRUST COMPANY : INVESTMENT ADVISORY (Investment advisory(plan))
  -- MO : KANSAS CITY
   [401(k)] FIRST FEDERAL BANK OF KANSAS CITY FIRST FEDERAL BANK OF KANSAS CITY 401(K) SAVIN
     2021
         Participants: 254  Average: $40,376
         Assets: $10,255,726
-        RecordKeeper: COMMERCE TRUST COMPANY
+        Service Providers:
+           - NATIONWIDE LIFE INSURANCE COMPANY : RECORDKEEPER (Recordkeeper)
+           - COMMERCE TRUST COMPANY : INVESTMENT ADVISORY (Investment advisory(plan))
     2020
         Participants: 264  Average: $35,868
         Assets: $9,469,240
-        RecordKeeper: BKD LLP
+        Service Providers:
+           - NATIONWIDE LIFE INSURANCE COMPANY : RECORDKEEPER (Recordkeeper)
+           - COMMERCE TRUST COMPANY : INVESTMENT ADVISORY (Investment advisory(plan))
+           - BKD LLP : INVESTMENT ADVISOR (Investment advisory(plan))
     2019
         Participants: 256  Average: $31,748
         Assets: $8,127,534
-        RecordKeeper: COMMERCE TRUST COMPANY
+        Service Providers:
+           - NATIONWIDE LIFE INSURANCE COMPANY : RECORDKEEPER (Recordkeeper)
+           - COMMERCE TRUST COMPANY : INVESTMENT ADVISORY (Investment advisory(plan))
     2018  [codes: 2E2G2J2K2T3D]
         Participants: 273  Average: $26,793
         Assets: $7,314,513
-        RecordKeeper: NATIONWIDE LIFE INSURANCE COMPANY
+        Service Providers:
+           - COMMERCE TRUST COMPANY : INVESTMENT ADVISORY (Investment advisory(plan))
+           - NATIONWIDE LIFE INSURANCE COMPANY : RECORDKEEPER (Recordkeeper)
         Available Investments:
            - TRANSAMERICA LIFE INSURANCE CO.
                  : AMER CENT INFLATION-ADJ BOND RET OP  [390989781-266] P  $0
@@ -47,7 +58,9 @@ FIRST FEDERAL BANK  440246815 -- KS : LEAWOOD
     2017
         Participants: 260  Average: $29,145
         Assets: $7,577,878
-        RecordKeeper: TRANSAMERICA LIFE INSURANCE COMPANY
+        Service Providers:
+           - COMMERCE TRUST COMPANY : INVESTMENT ADVISORY (Investment advisory(plan))
+           - TRANSAMERICA LIFE INSURANCE COMPANY : RECORDKEEPER (Recordkeeper | Participant loan processing | Investment management fees paid indirectly by plan | Float revenue | Recordkeeping fees | Other insurance wrap fees)
         Available Investments:
            - TRANSAMERICA LIFE INSURANCE CO.
                  : AMER CENT INFLATION-ADJ BOND RET OP  [390989781-266] P  $11,983

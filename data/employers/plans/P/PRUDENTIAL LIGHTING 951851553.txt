@@ -3,7 +3,9 @@ PRUDENTIAL LIGHTING  951851553 -- CA : LOS ANGELES
     2022  [codes: 2E2F2G2J2S2T3D]
         Participants: 132  Average: $12,044
         Assets: $1,589,836
-        RecordKeeper: ADP BROKER-DEALER
+        Service Providers:
+           - ADP, INC. : RECORD KEEPER (Participant loan processing | Direct payment from the plan | Recordkeeper | Recordkeeping fees)
+           - ADP BROKER-DEALER : RECORD KEEPER (Other services | Other fees | Distribution(12b - 1) fees | Sub - transfer agency fees | Shareholder servicing fees)
         Available Investments:
            - INVESCO TRUST COMPANY
                  : INVESCO STABLE ASSET - ADP59  [273884161-001] C  $249,743
@@ -17,7 +19,10 @@ PRUDENTIAL LIGHTING  951851553 -- CA : LOS ANGELES
     2021  [codes: 2E2F2G2J2T3D]
         Participants: 121  Average: $15,098
         Assets: $1,826,966
-        RecordKeeper: CETERA ADVISOR NETWORKS LLC
+        Service Providers:
+           - ADP, INC. : RECORD KEEPER (Participant loan processing | Direct payment from the plan | Recordkeeper | Recordkeeping fees)
+           - ADP BROKER-DEALER : RECORD KEEPER (Other services | Other fees | Distribution(12b - 1) fees | Sub - transfer agency fees | Shareholder servicing fees)
+           - CETERA ADVISOR NETWORKS LLC : ADVISOR (Other services | Other fees)
         Available Investments:
            - STATE STREET BANK & TRUST CO
                  : STATE ST CASH SERIES US GOVT L  [900337987-000] C  $245,411
@@ -29,7 +34,11 @@ PRUDENTIAL LIGHTING  951851553 -- CA : LOS ANGELES
     2020
         Participants: 123  Average: $13,934
         Assets: $1,713,992
-        RecordKeeper: CETERA ADVISOR NETWORKS
+        Service Providers:
+           - SAGEVIEW ADVISORY GROUP LLC : ADVISOR (Investment advisory(participants) | Investment advisory(plan))
+           - ADP, INC. : RECORD KEEPER (Participant loan processing | Direct payment from the plan | Recordkeeper | Recordkeeping fees)
+           - ADP BROKER-DEALER : RECORD KEEPER (Other services | Other fees | Distribution(12b - 1) fees | Sub - transfer agency fees | Shareholder servicing fees)
+           - CETERA ADVISOR NETWORKS : ADVISOR (Other services | Other fees)
         Available Investments:
            - STATE STREET BANK & TRUST CO
                  : STATE ST CASH SERIES US GOVT L  [900337987-000] C  $261,663
@@ -49,25 +58,42 @@ PRUDENTIAL LIGHTING  951851553 -- CA : LOS ANGELES
     2022  [codes: 2E2F2G3D2T]
         Participants: 152  Average: $322,201
         Assets: $48,974,590
-        RecordKeeper: THE PRUDENTIAL INSURANCE COMPANY OF
+        Service Providers:
+           - SAGEVIEW ADVISORY GROUP, LLC :  (Consulting(general) | Investment advisory(plan) | Consulting(pension))
+           - PRUDENTIAL RETIREMENT INSURANCE AND :  (Contract Administrator | Recordkeeper | Participant communication | Other services | Direct payment from the plan | Recordkeeping fees | Account maintenance fees)
+           - THE PRUDENTIAL INSURANCE COMPANY OF :  (Contract Administrator | Recordkeeper | Participant communication | Other services | Direct payment from the plan | Recordkeeping fees | Account maintenance fees)
     2021
         Participants: 153  Average: $358,711
         Assets: $54,882,789
-        RecordKeeper: THE PRUDENTIAL INSURANCE COMPANY OF
+        Service Providers:
+           - SAGEVIEW ADVISORY GROUP, LLC :  (Consulting(general) | Consulting(pension) | Investment advisory(plan))
+           - THE PRUDENTIAL INSURANCE COMPANY OF :  (Contract Administrator | Recordkeeper | Participant communication | Other services | Direct payment from the plan | Recordkeeping fees | Account maintenance fees)
     2020
         Participants: 159  Average: $321,952
         Assets: $51,190,470
-        RecordKeeper: CLIFTON LARSON ALLEN LLP
+        Service Providers:
+           - SAGEVIEW ADVISORY GROUP, LLC :  (Investment advisory(plan))
+           - PRUDENTIAL INSURANCE COMPANY OF AME :  (Contract Administrator | Recordkeeper | Other services | Direct payment from the plan | Recordkeeping fees | Account maintenance fees)
+           - CLIFTON LARSON ALLEN LLP :  (Accounting(including auditing) | Other services)
     2019
         Participants: 156  Average: $293,376
         Assets: $45,766,702
-        RecordKeeper: CLIFTONLARSONALLEN LLP
+        Service Providers:
+           - SAGEVIEW ADVISORY GROUP LLC :  (Investment advisory(plan))
+           - THE PRUDENTIAL INSURANCE COMPANY OF :  (Contract Administrator | Recordkeeper | Other services | Direct payment from the plan | Recordkeeping fees | Account maintenance fees)
+           - CLIFTONLARSONALLEN LLP :  (Accounting(including auditing) | Other services)
   [Other] PRUDENTIAL LIGHTING PROFIT SHARING PLAN
     2018
         Participants: 154  Average: $249,542
         Assets: $38,429,600
-        RecordKeeper: BAY MUTUAL FINANCIAL
+        Service Providers:
+           - CLIFTONLARSONALLEN, LLP :  (Accounting(including auditing))
+           - THE PRUDENTIAL INSURANCE COMPANY OF :  (Contract Administrator | Recordkeeper | Other services | Direct payment from the plan | Recordkeeping fees)
+           - BAY MUTUAL FINANCIAL :  (Securities brokerage | Securities brokerage commissions and fees)
     2017
         Participants: 148  Average: $259,253
         Assets: $38,369,553
-        RecordKeeper: BAY MUTUAL FINANCIAL
+        Service Providers:
+           - NSBN LLP CPA'S & ADVISORS :  (Accounting(including auditing))
+           - THE PRUDENTIAL INSURANCE COMPANY OF :  (Recordkeeper | Other services)
+           - BAY MUTUAL FINANCIAL :  (Securities brokerage | Securities brokerage commissions and fees)

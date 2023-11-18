@@ -1,5 +1,5 @@
 LEGAL AID SOCIETY OF SUFFOLK C  111844160 -- NY : CENTRAL ISLIP
-  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability] LEGAL AID SOCIETY OF SUFFOLK COUNTY, INC. WELFARE BENEFIT PLAN
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability] LEGAL AID SOCIETY OF SUFFOLK COUNTY, INC. WELFARE BENEFIT PLAN [111844160-501]
     2021  [codes: 4A4B4D4E4F4H]
         Participants: 191
     2020
@@ -14,7 +14,8 @@ LEGAL AID SOCIETY OF SUFFOLK C  111844160 -- NY : CENTRAL ISLIP
     2022  [codes: 2G2F2T]
         Participants: 308  Average: $148,801
         Assets: $45,830,919
-        RecordKeeper: MUTUAL OF AMERICA INVESTMENT CORP
+        Service Providers:
+           - MUTUAL OF AMERICA INVESTMENT CORP : INSURANCE CARRIER (Claims processing | Recordkeeper | Participant loan processing | Account maintenance fees)
         Available Investments:
            - MUTUAL OF AMERICA
                  : SEPARATE ACCOUNT NUMBER SA2  [131614399-002] P  $27,638,164
@@ -22,28 +23,32 @@ LEGAL AID SOCIETY OF SUFFOLK C  111844160 -- NY : CENTRAL ISLIP
     2021  [codes: 2F2G2T]
         Participants: 324  Average: $164,367
         Assets: $53,255,045
-        RecordKeeper: MUTUAL OF AMERICA INVESTMENT CORP
+        Service Providers:
+           - MUTUAL OF AMERICA INVESTMENT CORP : INSURANCE CARRIER (Claims processing | Recordkeeper | Account maintenance fees)
         Available Investments:
            - MUTUAL OF AMERICA
                  : SEPARATE ACCOUNT NUMBER HS2  [131614399-000] P  $36,507,632
     2020
         Participants: 299  Average: $135,374
         Assets: $40,477,000
-        RecordKeeper: MUTUAL OF AMERICA INVESTMENT CORP
+        Service Providers:
+           - MUTUAL OF AMERICA INVESTMENT CORP : INSURANCE CARRIER (Claims processing | Recordkeeper | Account maintenance fees)
         Available Investments:
            - MUTUAL OF AMERICA
                  : SEPARATE ACCOUNT NUMBER HS2  [131614399-000] P  $24,451,027
     2019
         Participants: 274  Average: $90,760
         Assets: $24,868,466
-        RecordKeeper: MUTUAL OF AMERICA INVESTMENT CORP
+        Service Providers:
+           - MUTUAL OF AMERICA INVESTMENT CORP : INSURANCE CARRIER (Claims processing | Recordkeeper | Participant loan processing | Account maintenance fees)
         Available Investments:
            - MUTUAL OF AMERICA
                  : SEPARATE ACCOUNT NUMBER GS2  [131614399-000] P  $13,357,332
     2018  [codes: 2F2T]
         Participants: 258  Average: $83,255
         Assets: $21,479,815
-        RecordKeeper: MUTUAL OF AMERICA LIFE INSURANCE CO
+        Service Providers:
+           - MUTUAL OF AMERICA LIFE INSURANCE CO : INSURANCE CARRIER (Claims processing | Recordkeeper | Account maintenance fees)
         Available Investments:
            - MUTUAL OF AMERICA
                  : SEPARATE ACCOUNT NUMBER GS2  [131614399-000] P  $10,575,436
@@ -51,14 +56,20 @@ LEGAL AID SOCIETY OF SUFFOLK C  111844160 -- NY : CENTRAL ISLIP
     2017
         Participants: 239  Average: $88,649
         Assets: $21,187,343
-        RecordKeeper: MUTUAL OF AMERICA LIFE INSURANCE CO
+        Service Providers:
+           - MUTUAL OF AMERICA LIFE INSURANCE CO : INSURANCE CARRIER (Claims processing | Recordkeeper | Account maintenance fees)
         Available Investments:
            - MUTUAL OF AMERICA
                  : SEPARATE ACCOUNT NUMBER GS2  [131614399-000] P  $10,426,798
   [Pension] RETIREMENT PLAN FOR EMPLOYEES OF LEGAL AID SOCIETY OF SUFFOLK COUNTY, INC. [111844160-001]
     2020  [codes: 1A1I]
         Participants: 0
-        RecordKeeper: GRASSI AND CO
+        Service Providers:
+           - PRUDENTIAL RETIREMENT INSURANCE AND :  (Contract Administrator | Recordkeeper | Participant loan processing | Direct payment from the plan)
+           - BCG PENSION RISK CONSULTANTS INC :  ()
+           - COCHRANE INSURANCE AGENCY :  ()
+           - GLOBAL PORTFOLIO STRATEGIES, INC. :  (Actuarial)
+           - GRASSI AND CO :  (Accounting(including auditing))
         Available Investments:
            - PRUDENTIAL RETIREMENT INS.
                  : CORE BOND ENHANCED INDEX/PGIM  [061050034-036] P  $0
@@ -70,7 +81,10 @@ LEGAL AID SOCIETY OF SUFFOLK C  111844160 -- NY : CENTRAL ISLIP
     2019
         Participants: 153  Average: $308,163
         Assets: $47,149,028
-        RecordKeeper: GRASSI AND CO
+        Service Providers:
+           - PRUDENTIAL RETIREMENT INSURANCE AND :  (Contract Administrator | Recordkeeper | Participant loan processing | Direct payment from the plan)
+           - GLOBAL PORTFOLIO STRATEGIES, INC. :  (Actuarial)
+           - GRASSI AND CO :  ()
         Available Investments:
            - PRUDENTIAL RETIREMENT INS.
                  : CORE BOND ENHANCED INDEX/PGIM  [061050034-036] P  $6,476,258
@@ -82,7 +96,12 @@ LEGAL AID SOCIETY OF SUFFOLK C  111844160 -- NY : CENTRAL ISLIP
     2018
         Participants: 157  Average: $267,058
         Assets: $41,928,253
-        RecordKeeper: GLOBAL PORTFOLIO STRATEGIES, INC.
+        Service Providers:
+           - PRUDENTIAL RETIREMENT INSURANCE AND :  (Contract Administrator | Recordkeeper | Participant loan processing | Direct payment from the plan)
+           - BUCK GLOBAL LLC :  (Actuarial)
+           - COCHRANE INSURANCE AGENCY :  (Insurance agents and brokers | Direct payment from the plan)
+           - BOGARDT AND COMPANY LLP :  (Actuarial)
+           - GLOBAL PORTFOLIO STRATEGIES, INC. :  (Actuarial)
         Available Investments:
            - PRUDENTIAL RETIREMENT INS.
                  : CORE BOND ENHANCED INDEX/PGIM  [061050034-036] P  $8,517,791

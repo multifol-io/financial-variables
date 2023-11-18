@@ -3,7 +3,8 @@ MASSACHUSETTS INSTITUTE OF TECHNOLOGY  042103594 -- MA : CAMBRIDGE
     2022  [codes: 2E2F2G2J2K2R2T3H]
         Participants: 25,951  Average: $223,906
         Assets: $5,810,585,521
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Investment advisory(participants) | Sub - transfer agency fees | Account maintenance fees | Securities brokerage commissions and fees)
         Available Investments:
            - BLACKROCK INST. TRUST COMPANY, N. A
                  : EMERGING MKTS INDEX  [272777161-001] C  $72,156,085
@@ -42,7 +43,8 @@ MASSACHUSETTS INSTITUTE OF TECHNOLOGY  042103594 -- MA : CAMBRIDGE
     2021
         Participants: 24,972  Average: $282,852
         Assets: $7,063,390,822
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Investment advisory(participants) | Sub - transfer agency fees | Account maintenance fees | Securities brokerage commissions and fees)
         Available Investments:
            - BLACKROCK INST. TRUST COMPANY, N. A
                  : EMERGING MKTS INDEX  [272777161-001] C  $83,550,329
@@ -85,7 +87,8 @@ MASSACHUSETTS INSTITUTE OF TECHNOLOGY  042103594 -- MA : CAMBRIDGE
     2020  [codes: 2F2G2J2K2T3H2R2E]
         Participants: 24,537  Average: $256,720
         Assets: $6,299,152,486
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Sub - transfer agency fees | Account maintenance fees | Securities brokerage commissions and fees | Other fees)
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FID GROWTH CO POOL  [043022712-135] C  $181,801,051
@@ -116,7 +119,8 @@ MASSACHUSETTS INSTITUTE OF TECHNOLOGY  042103594 -- MA : CAMBRIDGE
     2019  [codes: 2E2F2G2J2K2R2T3H]
         Participants: 24,088  Average: $226,395
         Assets: $5,453,417,934
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Sub - transfer agency fees | Recordkeeping fees | Account maintenance fees | Securities brokerage commissions and fees | Other fees)
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FID GROWTH CO POOL  [043022712-135] C  $92,962,561
@@ -147,7 +151,9 @@ MASSACHUSETTS INSTITUTE OF TECHNOLOGY  042103594 -- MA : CAMBRIDGE
     2018
         Participants: 23,288  Average: $193,071
         Assets: $4,496,259,893
-        RecordKeeper: PRICEWATERHOUSECOOPERS LLP
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Sub - transfer agency fees | Recordkeeping fees | Account maintenance fees | Securities brokerage commissions and fees | Other fees)
+           - PRICEWATERHOUSECOOPERS LLP : AUDITOR (Accounting(including auditing) | Other fees)
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FID GROWTH CO POOL  [043022712-135] C  $69,447,266
@@ -178,7 +184,8 @@ MASSACHUSETTS INSTITUTE OF TECHNOLOGY  042103594 -- MA : CAMBRIDGE
     2017
         Participants: 22,472  Average: $212,336
         Assets: $4,771,626,590
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Sub - transfer agency fees | Recordkeeping fees | Account maintenance fees | Securities brokerage commissions and fees | Other fees)
         Available Investments:
            - GLOBAL TRUST COMPANY HARDING LOEVN
                  : AEW GLB PROP TR  [454659990-055] C  $999,553
@@ -241,15 +248,42 @@ MASSACHUSETTS INSTITUTE OF TECHNOLOGY  042103594 -- MA : CAMBRIDGE
     2021  [codes: 4A4B4H]
         Participants: 7,155  Average: $133,767
         Assets: $957,103,517
-        RecordKeeper: BLUE CROSS BLUE SHIELD OF MA
+        Service Providers:
+           - STATE STREET BANK : CUSTODIAN (Custodial(securities))
+           - WELLINGTON GROUP HOLDINGS LLP : INVESTMENT MANAGER (Investment management)
+           - PRICEWATERHOUSECOOPERS : AUDITOR AND TAX PREPARER (Accounting(including auditing))
+           - EXPRESS SCRIPTS, INC : CLAIMS PROCESSING RX CLMS (Claims processing)
+           - ERNST & YOUNG : TAX PREPARER (Accounting(including auditing))
+           - NORTHEAST RETIREMENT SERVICES : INVESTMENT ACCOUNTING (Recordkeeper)
+           - HEDGESERV CAYMAN LTD : OTHER SERVICES (Other services)
+           - CHARISMA CONSULTING CC : LEGAL EXPENSE (Legal)
+           - KPMG : TAX PREPARER (Accounting(including auditing))
+           - BSR AND CO. LLP : TAX PREPARER (Accounting(including auditing))
+           - BLUE CROSS BLUE SHIELD OF MA : MEDICAL CLAIMS PROCESSING (Claims processing)
     2020
         Participants: 7,082  Average: $157,096
         Assets: $1,112,555,208
-        RecordKeeper: HEDGESERV CAYMAN LTD
+        Service Providers:
+           - FIDELITY INVESTMENT INSTITUTIONAL : OTHER INVEST FEE & EXP (Other investment fees and expenses)
+           - KPMG : TAX PREPARER (Accounting(including auditing))
+           - BLUE CROSS BLUE SHIELD OF MA : MEDICAL CLAIMS PROCESSING (Claims processing)
+           - STATE STREET BANK : CUSTODIAN (Custodial(securities))
+           - PRICEWATERHOUSECOOPERS : AUDITOR AND TAX PREPARER (Accounting(including auditing))
+           - EXPRESS SCRIPTS, INC : CLAIMS PROCESSING RX CLMS (Claims processing)
+           - NORTHEAST RETIREMENT SERVICES : INVESTMENT ACCOUNTING (Recordkeeper)
+           - HEDGESERV CAYMAN LTD : OTHER SERVICES (Other services)
     2019
         Participants: 7,026  Average: $108,541
         Assets: $762,611,083
-        RecordKeeper: BLUE CROSS BLUE SHIELD OF MA
+        Service Providers:
+           - HEDGESERV CAYMAN LTD : OTHER SERVICES (Other services)
+           - KPMG : TAX PREPARER (Accounting(including auditing))
+           - NORTHEAST RETIREMENT SERVICES : INVESTMENT ACCOUNTING (Recordkeeper)
+           - EXPRESS SCRIPTS, INC : CLAIMS PROCESSING RX CLMS (Claims processing)
+           - PRICEWATERHOUSECOPPERS : AUDITOR AND TAX PREPARER (Accounting(including auditing))
+           - ERNST & YOUNG : TAX PREPARER (Accounting(including auditing))
+           - STATE STREET BANK : CUSTODIAN (Custodial(securities))
+           - BLUE CROSS BLUE SHIELD OF MA : MEDICAL CLAIMS PROCESSING (Claims processing)
   [Life insurance] MIT GROUP LIFE INSURANCE PLAN [042103594-501]
     2019  [codes: 4B]
         Participants: 18,254
@@ -295,28 +329,87 @@ MASSACHUSETTS INSTITUTE OF TECHNOLOGY  042103594 -- MA : CAMBRIDGE
     2022  [codes: 1A1C3H]
         Participants: 28,573  Average: $184,830
         Assets: $5,281,152,611
-        RecordKeeper: HEDGESERV CAYMAN LTD
+        Service Providers:
+           - THE BANK OF NEW YORK MELLON : CUSTODIAN (Custodial(securities))
+           - KPMG LLP : TAX PREPARER (Accounting(including auditing))
+           - K1X, INC : FINANCIAL SERVICES (Recordkeeper)
+           - CROWE LLP : FINANCIAL SERVICES (Recordkeeper)
+           - ERNST & YOUNG : TAX PREPARER (Accounting(including auditing))
+           - PRICEWATERHOUSECOOPERS : AUDITOR (Accounting(including auditing))
+           - WILLIS TOWERS WATSON : ACTUARY AND PENSION ADMIN (Actuarial | Other services)
+           - STATE STREET BANK : CUSTODIAN (Custodial(securities))
+           - WELLINGTON GROUP HOLDINGS LLP : INVESTMENT MANAGER (Investment management)
+           - CLS INVESTMENT LLC : INVESTMENT MANAGER (Investment management)
+           - NORTHEAST RETIREMENT SERVICES : INVESTMENT ACCOUNTING (Recordkeeper)
+           - GROOM LAW : ATTORNEY (Legal)
+           - CHARISMA CONSULTING CC : LEGAL EXPENSE (Legal)
+           - BSR AND CO. LLP : TAX PREPARER (Accounting(including auditing))
+           - HEDGESERV CAYMAN LTD : OTHER SERVICES (Other services)
     2021
         Participants: 28,125  Average: $230,496
         Assets: $6,482,701,379
-        RecordKeeper: CROWE LLP
+        Service Providers:
+           - ERNST & YOUNG : TAX PREPARER (Accounting(including auditing))
+           - PRICEWATERHOUSECOOPERS : AUDITOR (Accounting(including auditing))
+           - WILLIS TOWERS WATSON : ACTUARY AND PENSION ADMIN (Actuarial | Other services)
+           - STATE STREET BANK : CUSTODIAN (Custodial(securities))
+           - CLS INVESTMENT LLC : INVESTMENT MANAGER (Investment management)
+           - NORTHEAST RETIREMENT SERVICES : INVESTMENT ACCOUNTING (Recordkeeper)
+           - KPMG LLP : TAX PREPARER (Accounting(including auditing))
+           - GROOM LAW : ATTORNEY (Legal)
+           - BSR AND CO. LLP : TAX PREPARER (Accounting(including auditing))
+           - HEDGESERV CAYMAN LTD : OTHER SERVICES (Other services)
+           - CROWE LLP : FINANCIAL SERVICES (Recordkeeper)
   [Pension] MIT BASIC RETIREMENT PLAN
     2020
         Participants: 28,135  Average: $202,493
         Assets: $5,697,140,595
-        RecordKeeper: KPMG LLP
+        Service Providers:
+           - GROOM LAW : ATTORNEY (Legal)
+           - CROWE LLP : FINANCIAL SERVICES (Recordkeeper)
+           - ERNST & YOUNG : TAX PREPARER (Accounting(including auditing))
+           - WILLIS TOWERS WATSON : ACTUARY AND PENSION ADMIN (Actuarial | Other services)
+           - STATE STREET BANK : CUSTODIAN (Custodial(securities))
+           - CLS INVESTMENTS LLC : INVESTMENT MANAGER (Investment management)
+           - PRICEWATERHOUSECOOPERS : AUDITOR (Accounting(including auditing))
+           - NORTHEAST RETIREMENT SERVICES : INVESTMENT ACCOUNTING (Recordkeeper)
+           - KPMG LLP : TAX PREPARER (Accounting(including auditing))
     2019
         Participants: 27,664  Average: $153,009
         Assets: $4,232,855,913
-        RecordKeeper: KPMG LLP
+        Service Providers:
+           - PRICEWATERHOUSECOOPERS : AUDITOR (Accounting(including auditing))
+           - GROOM LAW : ATTORNEY (Legal)
+           - ERNST & YOUNG : TAX PREPARER (Accounting(including auditing))
+           - WILLIS TOWERS WATSON : ACTUARY AND PENSION ADMIN (Actuarial | Other services)
+           - STATE STREET BANK : CUSTODIAN (Custodial(securities))
+           - CLS INVESTMENTS LLC : INVESTMENT MANAGER (Investment management)
+           - NORTHEAST RETIREMENT SERVICES : INVESTMENT ACCOUNTING (Recordkeeper)
+           - KPMG LLP : TAX PREPARER (Accounting(including auditing))
     2018
         Participants: 26,899  Average: $141,361
         Assets: $3,802,477,761
-        RecordKeeper: PRICEWATERHOUSECOPPERS
+        Service Providers:
+           - KPMG : TAX PREPARER (Accounting(including auditing))
+           - ERNST & YOUNG : TAX PREPARER (Accounting(including auditing))
+           - NORTHEAST RETIREMENT SERVICES : INVESTMENT ACCOUNTING (Recordkeeper)
+           - WELLINGTON TRUST COMPANY : INVESTMENT MANAGER (Investment management)
+           - STATE STREET BANK : CUSTODIAN (Custodial(securities))
+           - KRYSTAL LENDON : QDRO CONSULTANT (Consulting(pension))
+           - WILLIS TOWERS WATSON : ACTUARY AND PENSION ADMIN (Actuarial | Other services)
+           - PRICEWATERHOUSECOPPERS : AUDITOR AND TAX PREPARER (Accounting(including auditing))
     2017
         Participants: 26,459  Average: $150,071
         Assets: $3,970,739,695
-        RecordKeeper: PRICEWATERHOUSE COOPERS
+        Service Providers:
+           - MORGAN STANLEY : PRIME BROKER (Securities brokerage)
+           - JACKSON WALKER LLP : LEGAL SERVICES (Legal)
+           - NORTHEAST RETIREMENT SERVICES : INVESTMENT ACCOUNTING (Recordkeeper)
+           - WELLINGTON TRUST COMPANY : INVESTMENT MANAGER (Investment management)
+           - STATE STREET BANK : CUSTODIAN (Custodial(securities))
+           - WILLIS TOWERS WATSON : ACTUARY AND PENSION ADMIN (Actuarial | Other services)
+           - GROOM LAW : ATTORNEY (Legal)
+           - PRICEWATERHOUSE COOPERS : ACCOUNTANT (Accounting(including auditing))
   [Short-term disability] EXTENDED ILLNESS PLAN FOR SERVICE STAFF OF MIT [042103594-508]
     2017  [codes: 4F]
         Participants: 1,167

@@ -3,7 +3,8 @@ RBC USA HOLDCO CORPORATION  200563684 -- MN : MINNEAPOLIS
     2022  [codes: 2E2F2G2J2K2O2R2S2T3H]
         Participants: 13,795  Average: $229,619
         Assets: $3,167,603,942
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Participant loan processing | Recordkeeping fees | Account maintenance fees | Securities brokerage commissions and fees)
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 3  [043022712-025] C  $273,389,476
@@ -25,7 +26,8 @@ RBC USA HOLDCO CORPORATION  200563684 -- MN : MINNEAPOLIS
     2021  [codes: 2E2F2G2J2K2O2S2T3H2R]
         Participants: 13,541  Average: $283,927
         Assets: $3,844,660,852
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Sub - transfer agency fees | Recordkeeping fees | Account maintenance fees | Securities brokerage commissions and fees | Participant loan processing)
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 3  [043022712-025] C  $272,003,371
@@ -46,7 +48,8 @@ RBC USA HOLDCO CORPORATION  200563684 -- MN : MINNEAPOLIS
     2020
         Participants: 13,337  Average: $250,805
         Assets: $3,344,989,108
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Participant loan processing | Sub - transfer agency fees | Recordkeeping fees | Account maintenance fees | Securities brokerage commissions and fees)
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 3  [043022712-025] C  $274,558,430
@@ -67,7 +70,8 @@ RBC USA HOLDCO CORPORATION  200563684 -- MN : MINNEAPOLIS
     2019  [codes: 2E2F2G2J2K2O2R2S2T3H]
         Participants: 13,260  Average: $218,853
         Assets: $2,901,999,327
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Participant loan processing | Sub - transfer agency fees | Recordkeeping fees | Account maintenance fees | Securities brokerage commissions and fees)
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 3  [043022712-025] C  $235,145,542
@@ -88,7 +92,8 @@ RBC USA HOLDCO CORPORATION  200563684 -- MN : MINNEAPOLIS
     2018  [codes: 2E2F2G2J2S2K2O2R2T3H]
         Participants: 13,128  Average: $180,224
         Assets: $2,365,985,714
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Participant loan processing | Sub - transfer agency fees | Recordkeeping fees | Account maintenance fees | Securities brokerage commissions and fees)
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 3  [043022712-025] C  $200,060,734
@@ -109,7 +114,8 @@ RBC USA HOLDCO CORPORATION  200563684 -- MN : MINNEAPOLIS
     2017  [codes: 2F2G2J2K2O2R2S2E2T3H]
         Participants: 12,856  Average: $196,558
         Assets: $2,526,951,606
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Participant loan processing | Sub - transfer agency fees | Recordkeeping fees | Account maintenance fees | Securities brokerage commissions and fees)
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : MIP II CL 3  [043022712-025] C  $203,588,773
@@ -129,23 +135,79 @@ RBC USA HOLDCO CORPORATION  200563684 -- MN : MINNEAPOLIS
   [Healthcare, Dental] RBC USA HEALTH AND WELFARE BENEFIT PLAN [200563684-504]
     2022  [codes: 4A4D]
         Assets: $10,408,832
-        RecordKeeper: COMERICA
+        Service Providers:
+           - BLUE CROSS BLUE SHEILD OF MINNESOTA : BUSINESS RELATIONSHIP (Claims processing | Contract Administrator | Recordkeeper)
+           - EXPRESS SCRIPTS : BUSINESS RELATIONSHIP (Claims processing | Contract Administrator)
+           - LIMEADE : BUSINESS RELATIONSHIP (Other services)
+           - DELTA DENTAL : BUSINESS RELATIONSHIP (Claims processing | Contract Administrator | Recordkeeper)
+           - ADVANCE MEDICAL : BUSINESS RELATIONSHIP (Other services)
+           - TIVITY HEALTH : BUSINESS RELATIONSHIP (Other services)
+           - TANGO CARD, INC : BUSINESS RELATIONSHIP (Other services)
+           - WIN FERTILITY : BUSINESS RELATIONSHIP (Other services)
+           - JELLYVISION LAB, INC : BUSINESS RELATIONSHIP (Other services)
+           - OVULINE, INC. DBA OVIA HEALTH : BUSINESS RELATIONSHIP (Other services)
+           - CLIFTONLARSONALLEN LLP : BUSINESS RELATIONSHIP (Accounting(including auditing))
+           - COMERICA : TRUSTEE & PARTY-IN-INTERE (Trustee(bank, trust company, or similar))
   [Healthcare, Dental] RBC USA HEALTH AND WELFARE BENEFIT PROGRAM
     2021
         Assets: $11,254,839
-        RecordKeeper: COMERICA
+        Service Providers:
+           - BLUE CROSS BLUE SHEILD OF MINNESOTA : BUSINESS RELATIONSHIP (Claims processing | Contract Administrator | Recordkeeper)
+           - LIMEADE : BUSINESS RELATIONSHIP (Other services)
+           - EXPRESS SCRIPTS : BUSINESS RELATIONSHIP (Claims processing | Contract Administrator)
+           - DELTA DENTAL : BUSINESS RELATIONSHIP (Claims processing | Contract Administrator | Recordkeeper)
+           - TIVITY HEALTH : BUSINESS RELATIONSHIP (Other services)
+           - ADVANCE MEDICAL : BUSINESS RELATIONSHIP (Other services)
+           - WIN FERTILITY : BUSINESS RELATIONSHIP (Other services)
+           - JELLYVISION LAB, INC : BUSINESS RELATIONSHIP (Other services)
+           - OVULINE, INC. DBA OVIA HEALTH : BUSINESS RELATIONSHIP (Other services)
+           - CLIFTONLARSONALLEN LLP : BUSINESS RELATIONSHIP (Accounting(including auditing))
+           - COMERICA : TRUSTEE & PARTY-IN-INTERE (Trustee(bank, trust company, or similar))
     2020
         Assets: $14,581,925
-        RecordKeeper: COMERICA
+        Service Providers:
+           - BLUE CROSS BLUE SHEILD OF MINNESOTA : BUSINESS RELATIONSHIP (Claims processing | Contract Administrator | Recordkeeper)
+           - LIMEADE : BUSINESS RELATIONSHIP (Other services)
+           - EXPRESS SCRIPTS : BUSINESS RELATIONSHIP (Claims processing | Contract Administrator)
+           - DELTA DENTAL : BUSINESS RELATIONSHIP (Claims processing | Contract Administrator | Recordkeeper)
+           - ADVANCE MEDICAL : BUSINESS RELATIONSHIP (Other services)
+           - TIVITY HEALTH : BUSINESS RELATIONSHIP (Other services)
+           - CLIFTONLARSONALLEN LLP : BUSINESS RELATIONSHIP (Accounting(including auditing))
+           - COMERICA : TRUSTEE & PARTY-IN-INTERE (Trustee(bank, trust company, or similar))
     2019
         Assets: $12,255,932
-        RecordKeeper: YMCA
+        Service Providers:
+           - BLUE CROSS BLUE SHEILD OF MINNESOTA : BUSINESS RELATIONSHIP (Claims processing | Contract Administrator | Recordkeeper)
+           - LIMEADE : BUSINESS RELATIONSHIP (Other services)
+           - EXPRESS SCRIPTS : BUSINESS RELATIONSHIP (Claims processing | Contract Administrator)
+           - DELTA DENTAL : BUSINESS RELATIONSHIP (Claims processing | Contract Administrator | Recordkeeper)
+           - ADVANCE MEDICAL : BUSINESS RELATIONSHIP (Other services)
+           - PRICEWATERHOUSECOPPERS LLC : BUSINESS RELATIONSHIP (Accounting(including auditing))
+           - COMERICA : TRUSTEE & PARTY-IN-INTERE (Trustee(bank, trust company, or similar))
+           - YMCA : BUSINESS RELATIONSHIP (Other services)
     2018
         Assets: $11,022,143
-        RecordKeeper: COMERICA
+        Service Providers:
+           - BLUE CROSS BLUE SHEILD OF MINNESOTA : BUSINESS RELATIONSHIP (Claims processing | Contract Administrator | Recordkeeper)
+           - LIMEADE : BUSINESS RELATIONSHIP (Other services)
+           - EXPRESS SCRIPTS : BUSINESS RELATIONSHIP (Claims processing | Contract Administrator)
+           - DELTA DENTAL : BUSINESS RELATIONSHIP (Claims processing | Contract Administrator | Recordkeeper)
+           - TIVITY HEALTH, INC : BUSINESS RELATIONSHIP (Other services)
+           - ADVANCE MEDICAL : BUSINESS RELATIONSHIP (Other services)
+           - PRICEWATERHOUSECOPPERS LLC : BUSINESS RELATIONSHIP (Accounting(including auditing))
+           - COMERICA : TRUSTEE & PARTY-IN-INTERE (Trustee(bank, trust company, or similar))
     2017
         Assets: $11,930,289
-        RecordKeeper: COMERICA
+        Service Providers:
+           - BLUE CROSS BLUE SHEILD OF MINNESOTA : BUSINESS RELATIONSHIP (Claims processing | Contract Administrator | Recordkeeper)
+           - LIMEADE : BUSINESS RELATIONSHIP (Other services)
+           - EXPRESS SCRIPTS : BUSINESS RELATIONSHIP (Claims processing | Contract Administrator)
+           - DELTA DENTAL : BUSINESS RELATIONSHIP (Claims processing | Contract Administrator | Recordkeeper)
+           - ADVANCE MEDICAL : BUSINESS RELATIONSHIP (Other services)
+           - TIVITY HEALTH, INC : BUSINESS RELATIONSHIP (Other services)
+           - HEALTHWAYS : BUSINESS RELATIONSHIP (Other services)
+           - PRICEWATERHOUSECOPPERS LLC : BUSINESS RELATIONSHIP (Accounting(including auditing))
+           - COMERICA : TRUSTEE & PARTY-IN-INTERE (Trustee(bank, trust company, or similar))
   [Healthcare, Dental] RBC-USA RETIREE MEDICAL AND DENTAL PLAN [200563684-510]
     2022
         Service Providers:

@@ -1,9 +1,13 @@
 NOTT COMPANY  410452050 -- MN : ARDEN HILLS
-  [401(k)] NOTT COMPANY RETIREMENT SAVINGS PLAN AND TRUST
+  [401(k)] NOTT COMPANY RETIREMENT SAVINGS PLAN AND TRUST [410452050-001]
     2021  [codes: 2E2F2G2J2K3D]
         Participants: 200  Average: $45,003
         Assets: $9,000,631
-        RecordKeeper: MORNINGSTAR INVESTMENT MGMT LLC
+        Service Providers:
+           - PRINCIPAL LIFE INSURANCE COMPANY : CONTRACT ADMINISTRATOR (Contract Administrator | Direct payment from the plan | Recordkeeping fees)
+           - RESOURCES INVESTMENT ADVISORS LLC : INVESTMENT MANAGEMENT (Investment management | Direct payment from the plan | Other fees)
+           - SAGEVIEW ADVISORY GROUP, LLC : INVESTMENT MANAGEMENT (Investment management | Direct payment from the plan | Other fees)
+           - MORNINGSTAR INVESTMENT MGMT LLC : INV ADV PARTICIPANTS (Investment advisory(participants) | Consulting fees)
         Available Investments:
            - RELIANCE TRUST COMPANY
                  : METLIFE SV FD SER 25053 CI 0  [466625485-001] C  $1,426,162
@@ -23,7 +27,9 @@ NOTT COMPANY  410452050 -- MN : ARDEN HILLS
     2020
         Participants: 188  Average: $59,562
         Assets: $11,197,731
-        RecordKeeper: RESOURCES INVESTMENT ADVISORS LLC
+        Service Providers:
+           - WELLS FARGO BANK, N.A. : RECORDKEEPER/BOOKKEEPER (Recordkeeper | Trustee(bank, trust company, or similar) | Direct payment from the plan)
+           - RESOURCES INVESTMENT ADVISORS LLC : INVESTMENT MANAGEMENT (Investment management | Direct payment from the plan | Other fees)
         Available Investments:
            - RELIANCE TRUST COMPANY
                  : METLIFE SV FD SER 25053 CL 0  [466625485-001] C  $1,257,427
@@ -35,7 +41,8 @@ NOTT COMPANY  410452050 -- MN : ARDEN HILLS
     2019
         Participants: 188  Average: $44,092
         Assets: $8,289,358
-        RecordKeeper: WELLS FARGO BANK, N.A.
+        Service Providers:
+           - WELLS FARGO BANK, N.A. :  (Recordkeeper | Sub - transfer agency fees | Trustee(discretionary) | Other services | Custodial(other than securities) | Trustee(directed) | Direct payment from the plan | Trustee(bank, trust company, or similar))
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE RETURN FUND N  [522251296-001] C  $1,413,775
@@ -43,7 +50,8 @@ NOTT COMPANY  410452050 -- MN : ARDEN HILLS
     2018
         Participants: 174  Average: $55,153
         Assets: $9,596,687
-        RecordKeeper: WELLS FARGO BANK, N.A.
+        Service Providers:
+           - WELLS FARGO BANK, N.A. :  (Recordkeeper | Sub - transfer agency fees | Trustee(discretionary) | Other services | Custodial(other than securities) | Trustee(directed) | Direct payment from the plan | Trustee(bank, trust company, or similar))
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE RETURN FUND N  [522251296-001] C  $1,732,474
@@ -51,7 +59,8 @@ NOTT COMPANY  410452050 -- MN : ARDEN HILLS
     2017
         Participants: 171  Average: $53,948
         Assets: $9,225,237
-        RecordKeeper: WELLS FARGO BANK, N.A.
+        Service Providers:
+           - WELLS FARGO BANK, N.A. :  (Recordkeeper | Sub - transfer agency fees | Recordkeeping fees | Other services | Float revenue | Direct payment from the plan | Distribution(12b - 1) fees)
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO STABLE RETURN FUND N  [522251296-001] C  $1,682,963
@@ -63,21 +72,29 @@ NOTT COMPANY  410452050 -- MN : ARDEN HILLS
     2021  [codes: 2I2P2Q3I]
         Participants: 242  Average: $373,796
         Assets: $90,458,657
-        RecordKeeper: WELLS FARGO BANK, NA
+        Service Providers:
+           - NEWPORT GROUP :  (Recordkeeper)
+           - WELLS FARGO BANK, NA :  (Trustee(bank, trust company, or similar))
         Available Investments:
            - WELLS FARGO BANK NA
                  : WELLS FARGO STABLE RETURN FUND  [416202499-001] C  $0
     2020
         Participants: 213  Average: $384,993
         Assets: $82,003,570
-        RecordKeeper: WELLS FARGO BANK, NA
+        Service Providers:
+           - NEWPORT GROUP :  (Recordkeeper)
+           - SCHLENNER WENNER & CO :  (Accounting(including auditing))
+           - WELLS FARGO BANK, NA :  (Trustee(bank, trust company, or similar))
         Available Investments:
            - WELLS FARGO BANK NA
                  : WELLS FARGO STABLE RETURN FUND  [416202499-001] C  $70
     2019
         Participants: 212  Average: $368,474
         Assets: $78,116,587
-        RecordKeeper: WELLS FARGO BANK, NA
+        Service Providers:
+           - NEWPORT GROUP :  (Recordkeeper)
+           - SCHLENNER WENNER & CO :  (Accounting(including auditing))
+           - WELLS FARGO BANK, NA :  (Trustee(bank, trust company, or similar))
         Available Investments:
            - WELLS FARGO BANK NA
                  : WELLS FARGO STABLE RETURN FUND  [416202499-001] C  $1
@@ -93,7 +110,10 @@ NOTT COMPANY  410452050 -- MN : ARDEN HILLS
     2017
         Participants: 183  Average: $419,503
         Assets: $76,769,097
-        RecordKeeper: SCHLENNER WENNER & CO
+        Service Providers:
+           - NEWPORT GROUP :  (Recordkeeper)
+           - WELLS FARGO BANK, NA :  (Trustee(bank, trust company, or similar))
+           - SCHLENNER WENNER & CO :  (Accounting(including auditing))
         Available Investments:
            - WELLS FARGO BANK NA
                  : WELLS FARGO STABLE RETURN FUND  [416202499-001] C  $4,936

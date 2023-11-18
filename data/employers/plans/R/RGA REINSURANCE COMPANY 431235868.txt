@@ -3,7 +3,9 @@ RGA REINSURANCE COMPANY  431235868 -- MO : CHESTERFIELD
     2022  [codes: 2E2F2G2J2K2S2T3H3D]
         Participants: 2,258  Average: $207,087
         Assets: $467,603,785
-        RecordKeeper: CAPITAL STRATEGIES INVESTMENT GROUP
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Participant loan processing | Sub - transfer agency fees | Recordkeeping fees | Account maintenance fees)
+           - CAPITAL STRATEGIES INVESTMENT GROUP : CONSULTANT (Consulting(general))
         Available Investments:
            - NEW YORK LIFE INSURANCE COMPANY
                  : NEW YORK LIFE ANCHOR ACCOUNT  [135582869-125] P  $35,238,203
@@ -22,7 +24,10 @@ RGA REINSURANCE COMPANY  431235868 -- MO : CHESTERFIELD
     2021  [codes: 2E2F2G2J2K2S2T3D3H]
         Participants: 2,117  Average: $257,896
         Assets: $545,966,555
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - JOHN HANCOCK RETIREMENT PLAN SRVCS : RETAINED BY CLIENT (Recordkeeper | Participant loan processing | Float revenue | Recordkeeping fees)
+           - CAPITAL STRATEGIES INVESTMENT GROU : CONSULTANT (Consulting(general))
+           - FIDELITY INVESTMENTS INSTITUTIONAL : RECORDKEEPER (Participant loan processing | Sub - transfer agency fees | Recordkeeping fees | Account maintenance fees)
         Available Investments:
            - JP MORGAN CHASE BANK, N.A.
                  : JPMCB SMARTRETIREMENT 2020 FUND  [474595377-001] C  $0
@@ -40,7 +45,9 @@ RGA REINSURANCE COMPANY  431235868 -- MO : CHESTERFIELD
     2020  [codes: 2E2F2G2J2K2T2S3H]
         Participants: 1,958  Average: $237,046
         Assets: $464,136,850
-        RecordKeeper: CAPITAL STRATEGIES INVESTMENT GROUP
+        Service Providers:
+           - JOHN HANCOCK RETIREMENT PLAN SRVCS : RETAINED BY CLIENT (Recordkeeper | Participant loan processing | Float revenue | Recordkeeping fees)
+           - CAPITAL STRATEGIES INVESTMENT GROUP : RETAINED BY CLIENT (Investment advisory(plan))
         Available Investments:
            - JP MORGAN CHASE BANK, N.A.
                  : JPMCB SMARTRETIREMENT 2020 FUND  [474595377-001] C  $11,244,632
@@ -58,7 +65,9 @@ RGA REINSURANCE COMPANY  431235868 -- MO : CHESTERFIELD
     2019  [codes: 2E2F2G2J2K2T2S]
         Participants: 1,802  Average: $202,201
         Assets: $364,366,730
-        RecordKeeper: CAPITAL STRATEGIES INVESTMENT GROUP
+        Service Providers:
+           - JOHN HANCOCK RETIREMENT PLAN SRVCS : RETAINED BY CLIENT (Recordkeeper | Participant loan processing | Float revenue | Recordkeeping fees)
+           - CAPITAL STRATEGIES INVESTMENT GROUP : RETAINED BY CLIENT (Investment advisory(plan))
         Available Investments:
            - INVESCO TRUST CO.
                  : INVESCO INTERNATIONAL GROWTH TRUST  [202583973-114] C  $0
@@ -78,7 +87,9 @@ RGA REINSURANCE COMPANY  431235868 -- MO : CHESTERFIELD
     2018
         Participants: 1,628  Average: $171,244
         Assets: $278,786,218
-        RecordKeeper: CAPITAL STRATEGIES INVESTMENT GROUP
+        Service Providers:
+           - JOHN HANCOCK RETIREMENT PLAN SRVCS : RETAINED BY CLIENT (Recordkeeper | Participant loan processing | Float revenue | Recordkeeping fees)
+           - CAPITAL STRATEGIES INVESTMENT GROUP : RETAINED BY CLIENT (Investment advisory(plan))
         Available Investments:
            - INVESCO TRUST CO.
                  : INVESCO INTERNATIONAL GROWTH TRUST  [202583973-114] C  $8,410,353
@@ -98,7 +109,9 @@ RGA REINSURANCE COMPANY  431235868 -- MO : CHESTERFIELD
     2017
         Participants: 1,489  Average: $189,198
         Assets: $281,716,075
-        RecordKeeper: CAPITAL STRATEGIES INVESTMENT GROUP
+        Service Providers:
+           - JOHN HANCOCK RETIREMENT PLAN SRVCS : RETAINED BY CLIENT (Recordkeeper | Participant loan processing | Float revenue | Recordkeeping fees)
+           - CAPITAL STRATEGIES INVESTMENT GROUP : RETAINED BY CLIENT (Investment advisory(plan))
         Available Investments:
            - INVESCO TRUST CO.
                  : INVESCO INTERNATIONAL GROWTH TRUST  [202583973-114] C  $10,868,393
@@ -135,24 +148,33 @@ RGA REINSURANCE COMPANY  431235868 -- MO : CHESTERFIELD
     2022  [codes: 1C1A3H]
         Participants: 1,749  Average: $97,852
         Assets: $171,143,455
-        RecordKeeper: CAPITAL STRATEGIES INVESTMENT GROUP
+        Service Providers:
+           - JOHN HANCOCK : RETAINED BY EMPLOYER (Recordkeeper | Float revenue | Recordkeeping fees | Actuarial)
+           - FIDELITY MANAGEMENT TRUST : RETAINED BY EMPLOYER (Recordkeeper | Float revenue | Recordkeeping fees | Actuarial)
+           - CAPITAL STRATEGIES INVESTMENT GROUP : RETAINED BY EMPLOYER (Investment advisory(plan))
     2021
         Participants: 1,799  Average: $103,352
         Assets: $185,930,285
-        RecordKeeper: CAPITAL STRATEGIES INVESTMENT GROUP
+        Service Providers:
+           - JOHN HANCOCK : RETAINED BY EMPLOYER (Recordkeeper | Float revenue | Recordkeeping fees | Actuarial)
+           - CAPITAL STRATEGIES INVESTMENT GROUP : RETAINED BY EMPLOYER (Investment advisory(plan))
     2020
         Participants: 1,777  Average: $96,688
         Assets: $171,816,120
-        RecordKeeper: JOHN HANCOCK
+        Service Providers:
+           - JOHN HANCOCK : RETAINED BY EMPLOYER (Recordkeeper | Float revenue | Recordkeeping fees | Actuarial)
     2019  [codes: 1C1A]
         Participants: 1,673  Average: $87,792
         Assets: $146,876,879
-        RecordKeeper: JOHN HANCOCK
+        Service Providers:
+           - JOHN HANCOCK : RETAINED BY EMPLOYER (Recordkeeper | Float revenue | Recordkeeping fees | Actuarial)
     2018
         Participants: 1,505  Average: $76,452
         Assets: $115,060,291
-        RecordKeeper: JOHN HANCOCK RETIREMENT PLAN SRVCS
+        Service Providers:
+           - JOHN HANCOCK RETIREMENT PLAN SRVCS : RETAINED BY EMPLOYER (Recordkeeper | Float revenue | Recordkeeping fees | Actuarial)
     2017
         Participants: 1,379  Average: $82,114
         Assets: $113,235,389
-        RecordKeeper: JOHN HANCOCK RETIREMENT PLAN SRVCS
+        Service Providers:
+           - JOHN HANCOCK RETIREMENT PLAN SRVCS : RETAINED BY EMPLOYER (Recordkeeper | Float revenue | Recordkeeping fees | Actuarial)

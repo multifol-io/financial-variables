@@ -3,21 +3,29 @@ PROTECTIVE INSURANCE CORPORATION  350160330 -- IN : CARMEL
     2022  [codes: 2E2F2G2J2R3D]
         Participants: 215  Average: $305,095
         Assets: $65,595,439
-        RecordKeeper: FIDELITY INVESTMENTS
+        Service Providers:
+           - FORVIS, LLP : INDEPENDENT AUDITOR ()
+           - FIDELITY INVESTMENTS : RECORDKEEPER (Participant loan processing | Recordkeeping fees | Account maintenance fees | Securities brokerage commissions and fees)
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGEMENT TRUST COMPANY  [042647786-060] C  $0
     2021
         Participants: 206  Average: $410,793
         Assets: $84,623,455
-        RecordKeeper: GRAYSTONE CONSULTING
+        Service Providers:
+           - FORVIS, LLP : INDEPENDENT AUDITOR ()
+           - FIDELITY INVESTMENTS : RECORDKEEPER (Participant loan processing | Recordkeeping fees | Account maintenance fees | Securities brokerage commissions and fees)
+           - GRAYSTONE CONSULTING : FIDUCIARY ()
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGEMENT TRUST COMPANY  [042647786-060] C  $0
     2020
         Participants: 661  Average: $115,496
         Assets: $76,343,511
-        RecordKeeper: BKD, LLP
+        Service Providers:
+           - GRAYSTONE CONSULTING : FIDUCIARY ()
+           - FIDELITY INVESTMENTS : RECORDKEEPER (Participant loan processing | Recordkeeping fees | Account maintenance fees)
+           - BKD, LLP : INDEPENDENT AUDITOR ()
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGEMENT TRUST COMPANY  [042647786-060] C  $0
@@ -25,14 +33,19 @@ PROTECTIVE INSURANCE CORPORATION  350160330 -- IN : CARMEL
     2019
         Participants: 655  Average: $99,767
         Assets: $65,347,751
-        RecordKeeper: GRAYSTONE CONSULTING
+        Service Providers:
+           - FIDELITY INVESTMENTS : RECORDKEEPER (Participant loan processing | Recordkeeping fees | Account maintenance fees | Securities brokerage commissions and fees)
+           - BKD, LLP : INDEPENDENT AUDITOR ()
+           - GRAYSTONE CONSULTING : FIDUCIARY ()
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGEMENT TRUST COMPANY  [042647786-060] C  $0
     2018
         Participants: 652  Average: $83,787
         Assets: $54,629,452
-        RecordKeeper: BKD, LLP
+        Service Providers:
+           - FIDELITY INVESTMENTS : RECORDKEEPER (Participant loan processing | Recordkeeping fees | Account maintenance fees | Securities brokerage commissions and fees)
+           - BKD, LLP : INDEPENDENT AUDITOR ()
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGEMENT TRUST COMPANY  [042647786-060] C  $0
@@ -40,7 +53,9 @@ PROTECTIVE INSURANCE CORPORATION  350160330 -- IN : CARMEL
     2017
         Participants: 603  Average: $93,295
         Assets: $56,256,975
-        RecordKeeper: FIDELITLY INVESTMENTS
+        Service Providers:
+           - BKD, LLP : INDEPENDENT AUDITOR ()
+           - FIDELITLY INVESTMENTS : RECORD KEEPER (Participant loan processing | Recordkeeping fees | Account maintenance fees | Securities brokerage commissions and fees)
         Available Investments:
            - FIDELITY MANAGEMENT TRUST COMPANY
                  : FIDELITY MANAGEMENT TRUST COMPANY  [042647786-060] C  $0
@@ -52,8 +67,16 @@ PROTECTIVE INSURANCE CORPORATION  350160330 -- IN : CARMEL
     2019  [codes: 4A4B4D4E4H4Q]
     2018  [codes: 4A4B4D4E4H]
         Participants: 531
-        RecordKeeper: ANTHEM INSURANCE COMPANIES, INC.
+        Service Providers:
+           - ANTHEM INSURANCE COMPANIIES, INC : INSURANCE PROVIDER (Claims processing | Contract Administrator | Recordkeeper | Other services | Float revenue)
+           - EXPRESS SCRIPTS : PHARMACY (Claims processing | Contract Administrator | Recordkeeper | Float revenue)
+           - SHEPHERD INSURANCE LLC : BROKER (Insurance agents and brokers | Insurance brokerage commissions and fees | Other commissions)
+           - ANTHEM INSURANCE COMPANIES, INC. : NETWORK PHARMACY MARGIN (Other fees)
   [Healthcare, Life insurance, Dental, Vision, Long-term disability] BALDWIN & LYONS, INC. EMPLOYEE BENEFIT TRUST
     2017
         Participants: 470
-        RecordKeeper: ANTHEM INSURANCE COMPANIES, INC.
+        Service Providers:
+           - ANTHEM INSURANCE COMPANIES, INC : INSURANCE PROVIDER (Claims processing | Contract Administrator | Recordkeeper | Other services | Float revenue)
+           - EXPRESS SCRIPTS, INC. : PHARMACY (Claims processing | Contract Administrator | Recordkeeper | Float revenue)
+           - SHEPHERD INSURANCE, LLC : BROKER (Insurance agents and brokers | Insurance brokerage commissions and fees | Other commissions)
+           - ANTHEM INSURANCE COMPANIES, INC. : NETWORK PHARMACY MARGIN (Other fees)
