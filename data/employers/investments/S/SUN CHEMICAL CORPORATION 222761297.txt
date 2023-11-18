@@ -112,7 +112,9 @@ SUN CHEMICAL CORPORATION  222761297 -- NJ : PARSIPPANY
   [Other] SUN CHEMICAL CORPORATION MASTER RETIREMENT SAVINGS TRUST [222761297-008]
     2022
         Assets: $359,284,529
-        RecordKeeper: NORTHERN TRUST COMPANY
+        Service Providers:
+           - ALIGHT SOLUTIONS LLC : $198,034   (Recordkeeper | Direct payment from the plan | Investment management fees paid directly by plan | Sub - transfer agency fees | Distribution(12b - 1) fees)
+           - NORTHERN TRUST COMPANY : $119,544   (Trustee(bank, trust company, or similar) | Direct payment from the plan)
         Available Investments:
            - STATE STREET GLOBAL ADVISORS
                  : REAL ASSET NON LD CLASS C  [900337987-280] C  $6,329,135
@@ -127,7 +129,9 @@ SUN CHEMICAL CORPORATION  222761297 -- NJ : PARSIPPANY
                  : TIPS INDEX FUND NON LENDING  [456138589-091] C  $4,420,093
     2021
         Assets: $448,326,298
-        RecordKeeper: NORTHERN TRUST COMPANY
+        Service Providers:
+           - ALIGHT SOLUTIONS LLC : $273,377   (Recordkeeper | Direct payment from the plan | Investment management fees paid directly by plan | Sub - transfer agency fees | Distribution(12b - 1) fees)
+           - NORTHERN TRUST COMPANY : $88,619   (Trustee(bank, trust company, or similar) | Direct payment from the plan)
         Available Investments:
            - STATE STREET GLOBAL ADVISORS
                  : REAL ASSET NON LD CLASS C  [900337987-280] C  $1,610,162
@@ -142,7 +146,9 @@ SUN CHEMICAL CORPORATION  222761297 -- NJ : PARSIPPANY
                  : TIPS INDEX FUND NON LENDING  [456138589-091] C  $5,991,839
     2020
         Assets: $411,074,835
-        RecordKeeper: NORTHERN TRUST COMPANY
+        Service Providers:
+           - ALIGHT SOLUTIONS LLC : $262,760   (Recordkeeper | Direct payment from the plan | Investment management fees paid directly by plan | Sub - transfer agency fees | Distribution(12b - 1) fees)
+           - NORTHERN TRUST COMPANY : $147,895   (Trustee(bank, trust company, or similar) | Direct payment from the plan)
         Available Investments:
            - STATE STREET GLOBAL ADVISORS
                  : REAL ASSET NON LD CLASS C  [900337987-280] C  $632,812
@@ -157,7 +163,9 @@ SUN CHEMICAL CORPORATION  222761297 -- NJ : PARSIPPANY
                  : TIPS INDEX FUND NON LENDING  [456138589-091] C  $5,442,889
     2019
         Assets: $369,448,117
-        RecordKeeper: NORTHERN TRUST COMPANY
+        Service Providers:
+           - ALIGHT SOLUTIONS LLC : $343,898   (Recordkeeper | Direct payment from the plan | Investment management fees paid directly by plan | Sub - transfer agency fees | Distribution(12b - 1) fees)
+           - NORTHERN TRUST COMPANY : $31,302   (Trustee(bank, trust company, or similar) | Direct payment from the plan)
         Available Investments:
            - STATE STREET GLOBAL ADVISORS
                  : REAL ASSET NON LD CLASS C  [900337987-280] C  $698,811
@@ -172,7 +180,10 @@ SUN CHEMICAL CORPORATION  222761297 -- NJ : PARSIPPANY
                  : TIPS INDEX FUND NON LENDING  [456138589-091] C  $1,322,052
     2018
         Assets: $314,805,936
-        RecordKeeper: GOLDMAN SACHS ASSET MANAGEMENT
+        Service Providers:
+           - ALIGHT SOLUTIONS LLC : $322,532   (Recordkeeper | Direct payment from the plan | Investment management fees paid directly by plan | Sub - transfer agency fees | Distribution(12b - 1) fees)
+           - NORTHERN TRUST COMPANY : $126,995   (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+           - GOLDMAN SACHS ASSET MANAGEMENT : $51,133   (Investment management | Direct payment from the plan)
         Available Investments:
            - STATE STREET GLOBAL ADVISORS
                  : REAL ASSET NON LD CLASS C  [900337987-280] C  $648,165
@@ -187,7 +198,10 @@ SUN CHEMICAL CORPORATION  222761297 -- NJ : PARSIPPANY
                  : TIPS INDEX FUND NON LENDING  [456138589-091] C  $2,140,356
     2017
         Assets: $334,174,446
-        RecordKeeper: GOLDMAN SACHS ASSET MANAGEMENT
+        Service Providers:
+           - AON HEWITT : $305,606   (Recordkeeper | Direct payment from the plan | Investment management fees paid directly by plan | Sub - transfer agency fees | Distribution(12b - 1) fees)
+           - NORTHERN TRUST COMPANY : $112,526   (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+           - GOLDMAN SACHS ASSET MANAGEMENT : $98,365   (Investment management | Direct payment from the plan)
         Available Investments:
            - STATE STREET GLOBAL ADVISORS
                  : REAL ASSET NON LD CLASS C  [900337987-280] C  $635,788
@@ -254,28 +268,40 @@ SUN CHEMICAL CORPORATION  222761297 -- NJ : PARSIPPANY
     2022  [codes: 1B]
         Participants: 1,254  Average: $30,769
         Assets: $38,585,135
-        RecordKeeper: AON
+        Service Providers:
+           - JP MORGAN : $387,890  TRUSTEE/INVESTMENT MGMNT (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan)
+           - ALIGHT : $31,000  RECORDKEEPING (Direct payment from the plan | Recordkeeping fees)
+           - AON : $46,818  ACTUARIAL (Actuarial | Direct payment from the plan)
         Available Investments:
            - SUN CHEMICAL CORPORATION
                  : SUN CHEMICAL MASTER TRUST  [222761297-005] M  $38,585,135
     2021
         Participants: 1,219  Average: $42,954
         Assets: $52,362,096
-        RecordKeeper: AON
+        Service Providers:
+           - JP MORGAN : $77,527  TRUSTEE/INVESTMENT MGMNT (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan)
+           - ALIGHT : $49,138  RECORDKEEPING (Direct payment from the plan | Recordkeeping fees)
+           - AON : $40,239  ACTUARIAL (Actuarial | Direct payment from the plan)
         Available Investments:
            - SUN CHEMICAL CORPORATION
                  : SUN CHEMICAL MASTER TRUST  [222761267-005] M  $52,362,096
     2020
         Participants: 1,208  Average: $42,650
         Assets: $51,522,344
-        RecordKeeper: AON HEWITT
+        Service Providers:
+           - JP MORGAN : $245,506  TRUSTEE/INVESTMENT MGMNT (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan)
+           - ALIGHT : $35,044  RECORDKEEPING (Direct payment from the plan | Recordkeeping fees)
+           - AON HEWITT : $23,185  ACTUARIAL (Actuarial | Direct payment from the plan)
         Available Investments:
            - SUN CHEMICAL CORPORATION
                  : SUN CHEMICAL MASTER TRUST  [222761267-005] M  $51,522,344
     2019
         Participants: 1,218  Average: $37,583
         Assets: $45,776,944
-        RecordKeeper: AON HEWITT
+        Service Providers:
+           - JP MORGAN : $145,419  TRUSTEE/INVESTMENT MGMNT (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan)
+           - ALIGHT : $47,358  RECORDKEEPING (Direct payment from the plan | Recordkeeping fees)
+           - AON HEWITT : $32,667  ACTUARIAL (Actuarial | Direct payment from the plan)
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN BOND EMPH BAL SEP ACCT-R6  [420127290-006] P  $0
@@ -296,7 +322,10 @@ SUN CHEMICAL CORPORATION  222761297 -- NJ : PARSIPPANY
     2018
         Participants: 1,289  Average: $30,576
         Assets: $39,413,091
-        RecordKeeper: AON HEWITT
+        Service Providers:
+           - JP MORGAN : $152,776  TRUSTEE/INVESTMENT MGMNT (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan)
+           - ALIGHT : $44,449  RECORDKEEPING (Direct payment from the plan | Recordkeeping fees)
+           - AON HEWITT : $27,385  ACTUARIAL (Actuarial | Direct payment from the plan)
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN FIN GRP, INC. STOCK SA-R6  [420127290-086] P  $0
@@ -307,7 +336,9 @@ SUN CHEMICAL CORPORATION  222761297 -- NJ : PARSIPPANY
     2017
         Participants: 1,275  Average: $33,874
         Assets: $43,189,460
-        RecordKeeper: JP MORGAN
+        Service Providers:
+           - AON HEWITT : $97,031  ACTUARIAL (Actuarial | Direct payment from the plan | Recordkeeping fees)
+           - JP MORGAN : $151,494  TRUSTEE/INVESTMENT MGMNT (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan)
         Available Investments:
            - PRINCIPAL LIFE INSURANCE COMPANY
                  : PRIN FIN GRP, INC. STOCK SA-R6  [420127290-086] P  $0
@@ -319,7 +350,12 @@ SUN CHEMICAL CORPORATION  222761297 -- NJ : PARSIPPANY
     2022  [codes: 1A]
         Participants: 4,828  Average: $66,600
         Assets: $321,546,786
-        RecordKeeper: UNITED FORM FINISHING
+        Service Providers:
+           - JP MORGAN : $3,462,141  TRUSTEE/INVESTMENT MGMNT (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan)
+           - ALIGHT : $177,249  RECORDKEEPING (Direct payment from the plan | Recordkeeping fees)
+           - AON : $193,255  ACTUARIAL (Actuarial | Direct payment from the plan)
+           - BELLWETHER : $23,118  INVESTMENT ADVISORY (Investment advisory(plan) | Direct payment from the plan)
+           - UNITED FORM FINISHING : $11,567  ADMINISTRATION (Copying and duplicating | Other services)
         Available Investments:
            - SUN CHEMICAL CORPORATION
                  : SUN CHEMICAL MASTER TRUST  [222761297-005] M  $321,546,786
@@ -327,35 +363,56 @@ SUN CHEMICAL CORPORATION  222761297 -- NJ : PARSIPPANY
     2021
         Participants: 4,930  Average: $89,025
         Assets: $438,893,276
-        RecordKeeper: BELLWETHER
+        Service Providers:
+           - JP MORGAN : $690,983  TRUSTEE/INVESTMENT MGMNT (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan)
+           - ALIGHT : $444,041  RECORDKEEPING (Direct payment from the plan | Recordkeeping fees)
+           - AON : $89,382  ACTUARIAL (Actuarial | Direct payment from the plan)
+           - BELLWETHER : $28,644  INVESTMENT ADVISORY (Investment advisory(plan) | Direct payment from the plan)
         Available Investments:
            - SUN CHEMICAL CORPORATION
                  : SUN CHEMICAL MASTER TRUST  [222761297-005] M  $438,893,276
     2020
         Participants: 5,066  Average: $85,770
         Assets: $434,511,928
-        RecordKeeper: BELLWETHER
+        Service Providers:
+           - JP MORGAN : $2,195,335  TRUSTEE/INVESTMENT MGMNT (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan)
+           - ALIGHT : $315,393  RECORDKEEPING (Direct payment from the plan | Recordkeeping fees)
+           - AON HEWTITT : $53,673  ACTUARIAL (Actuarial | Direct payment from the plan)
+           - BELLWETHER : $29,280  INVESTMENT ADVISORY (Investment advisory(plan) | Direct payment from the plan)
         Available Investments:
            - SUN CHEMICAL CORPORATION
                  : SUN CHEMICAL MASTER TRUST  [222761297-005] M  $434,511,928
     2019
         Participants: 5,101  Average: $76,115
         Assets: $388,266,976
-        RecordKeeper: BELLWETHER
+        Service Providers:
+           - JP MORGAN : $1,300,350  TRUSTEE/INVESTMENT MGMNT (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan)
+           - ALIGHT : $429,818  RECORDKEEPING (Direct payment from the plan | Recordkeeping fees)
+           - AON HEWITT : $68,458  ACTUARIAL (Actuarial | Direct payment from the plan)
+           - BELLWETHER : $28,805  INVESTMENT ADVISORY (Investment advisory(plan) | Direct payment from the plan)
         Available Investments:
            - SUN CHEMICAL CORPORATION
                  : SUN CHEMICAL MASTER TRUST  [222761297-005] M  $377,266,976
     2018
         Participants: 5,137  Average: $65,969
         Assets: $338,886,728
-        RecordKeeper: BELLWETHER
+        Service Providers:
+           - JP MORGAN : $1,368,366  TRUSTEE/INVESTMENT MGMNT (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan)
+           - ALIGHT : $400,788  RECORDKEEPING (Direct payment from the plan | Recordkeeping fees)
+           - AON HEWITT : $55,698  ACTUARIAL (Actuarial | Direct payment from the plan)
+           - BELLWETHER : $29,336  INVESTMENT ADVISORY (Investment advisory(plan) | Direct payment from the plan)
         Available Investments:
            - SUN CHEMICAL CORPORATION
                  : SUN CHEMICAL MASTER TRUST  [222761297-005] M  $330,886,728
     2017
         Participants: 5,184  Average: $73,101
         Assets: $378,958,004
-        RecordKeeper: JP MORGAN
+        Service Providers:
+           - UNITED FORMS FINISHING : $8,751  COPYING (Copying and duplicating | Direct payment from the plan)
+           - BELLWETHER : $38,594  INVESTMENT ADVISORY (Investment advisory(plan) | Direct payment from the plan)
+           - ALIGHT : $39,998  RECORDKEEPING (Direct payment from the plan | Recordkeeping fees)
+           - AON HEWITT : $791,076  ACTUARIAL (Actuarial | Direct payment from the plan | Recordkeeping fees)
+           - JP MORGAN : $1,353,013  TRUSTEE/INVESTMENT MGMNT (Trustee(bank, trust company, or similar) | Investment management | Direct payment from the plan)
         Available Investments:
            - SUN CHEMICAL CORPORATION
                  : SUN CHEMICAL MASTER TRUST  [222761297-005] M  $369,958,004

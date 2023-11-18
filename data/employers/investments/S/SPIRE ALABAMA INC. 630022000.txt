@@ -2,7 +2,13 @@ SPIRE ALABAMA INC.  630022000 -- AL : BIRMINGHAM
   [401(k), Employee Stock Ownership Plan] THE ALAGASCO EMPLOYEE SAVINGS PLAN [630022000-004]
     2017  [codes: 2E2F2H2J2K2O3H]
         Participants: 0
-        RecordKeeper: FID INV INST OPS CO
+        Service Providers:
+           - FID INV INST OPS CO : $45,418   (Participant loan processing | Recordkeeping fees | Account maintenance fees | Securities brokerage commissions and fees)
+        Service Fees:
+           - FID INV INST OPS CO : AF EUROPAC GROWTH R5-AMER FUND SER   $0 | 0.05%)
+           - FID INV INST OPS CO : DLWR SM CAP VAL INST-DLWR INV FD   $0 | 0.25%)
+           - FID INV INST OPS CO : JPM SM CAP GRTH A-BOS FIN DAT SER   $0 | 0.50%)
+           - FID INV INST OPS CO : TRP BLUE CHIP GRTH-T ROWE PR SER   $0 | 0.15%)
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
                  : BLACKROCK ACWI EX-US FUND  [463820806-001] C  $0
@@ -57,7 +63,10 @@ SPIRE ALABAMA INC.  630022000 -- AL : BIRMINGHAM
   [Other] THE SPIRE ALABAMA RETIREMENT INCOME TRUST [630022000-100]
     2022  [codes: ]
         Assets: $94,042,041
-        RecordKeeper: US BANK INC.
+        Service Providers:
+           - WILLIS TOWER WATSON : $207,462   (Consulting(pension) | Direct payment from the plan)
+           - FID INV INST OPS CO : $127,813   (Recordkeeper | Consulting(pension) | Direct payment from the plan)
+           - US BANK INC. : $25,973   (Trustee(bank, trust company, or similar) | Recordkeeper | Direct payment from the plan)
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY
                  : BLACK ROCK TURF 05-YR TREASURY FUND  [474104495-001] C  $849,173
@@ -71,7 +80,10 @@ SPIRE ALABAMA INC.  630022000 -- AL : BIRMINGHAM
                  : WILLIS TOWERS WATSON GT DIV REAL AS  [826695738-005] C  $13,707,342
     2021
         Assets: $135,419,191
-        RecordKeeper: US BANK INC.
+        Service Providers:
+           - WILLIS TOWER WATSON : $225,019   (Consulting(pension) | Direct payment from the plan)
+           - FID INV INST OPS CO : $119,574   (Recordkeeper | Consulting(pension) | Direct payment from the plan)
+           - US BANK INC. : $36,172   (Trustee(bank, trust company, or similar) | Recordkeeper | Direct payment from the plan)
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY
                  : BLACK ROCK TURF 10-YEAR TREASURY FU  [474226866-001] C  $4,064,423
@@ -82,7 +94,11 @@ SPIRE ALABAMA INC.  630022000 -- AL : BIRMINGHAM
                  : WILLIS TOWERS WATSON GROUP TRUST DI  [826695738-002] C  $55,471,811
     2020
         Assets: $143,895,802
-        RecordKeeper: STATE STREET GLOBAL ADVISORS
+        Service Providers:
+           - WILLIS TOWER WATSON : $204,171   (Consulting(pension) | Direct payment from the plan)
+           - FID INV INST OPS CO : $96,568   (Recordkeeper | Consulting(pension) | Direct payment from the plan)
+           - US BANK INC. : $27,952   (Trustee(bank, trust company, or similar) | Recordkeeper | Direct payment from the plan)
+           - STATE STREET GLOBAL ADVISORS : $9,011   (Investment advisory(plan) | Direct payment from the plan)
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY
                  : BLACK ROCK TURF 15-YR TREASURY FD  [453856099-001] C  $2,484,238
@@ -103,7 +119,11 @@ SPIRE ALABAMA INC.  630022000 -- AL : BIRMINGHAM
                  : WILLIS TOWERS WATSON GT DIV EQTY FD  [826695738-002] C  $61,632,046
     2019
         Assets: $149,275,883
-        RecordKeeper: US BANK INC.
+        Service Providers:
+           - WILLIS TOWER WATSON : $191,232   (Consulting(pension) | Direct payment from the plan)
+           - FID INV INST OPS CO : $93,392   (Recordkeeper | Consulting(pension) | Direct payment from the plan)
+           - PRIME BUCHHOLZ & ASSOCIATES : $52,546   (Investment advisory(plan) | Direct payment from the plan)
+           - US BANK INC. : $30,752   (Trustee(bank, trust company, or similar) | Recordkeeper | Direct payment from the plan)
         Available Investments:
            - COLCHESTER GLOBAL INVESTORS LIMITED
                  : THE COLCHESTER GLOBAL BOND FUND  [377324183-000] C  $7,631,400
@@ -116,7 +136,14 @@ SPIRE ALABAMA INC.  630022000 -- AL : BIRMINGHAM
                  : SSGA U.S. TIP INDEND NON-LENDING FD  [900337987-152] C  $2,706,440
     2018
         Assets: $135,267,633
-        RecordKeeper: US BANK INC.
+        Service Providers:
+           - FID INV INST OPS CO : $135,928   (Recordkeeper | Consulting(pension) | Direct payment from the plan)
+           - WILLIS TOWER WATSON : $115,750   (Consulting(pension) | Direct payment from the plan)
+           - PRIME BUCHHOLZ & ASSOCIATES : $77,655   (Investment advisory(plan) | Direct payment from the plan)
+           - SANDERSON ASSET MANAGEMENT LLP : $71,535   (Investment advisory(plan) | Investment management | Direct payment from the plan)
+           - STATE STREE GLOBAL ADVISORS : $47,735   (Investment advisory(plan) | Direct payment from the plan)
+           - COLCHESTER GLOBAL INVESTORS LIMITED : $42,916   (Investment advisory(plan) | Investment management | Direct payment from the plan)
+           - US BANK INC. : $33,167   (Trustee(bank, trust company, or similar) | Recordkeeper | Direct payment from the plan)
         Available Investments:
            - COLCHESTER GLOBAL INVESTORS LIMITED
                  : THE COLCHESTER GLOBAL BOND FUND  [377324183-000] C  $7,107,577
@@ -130,7 +157,15 @@ SPIRE ALABAMA INC.  630022000 -- AL : BIRMINGHAM
   [Other] THE ALABAMA GAS CORPORATION RETIREMENT INCOME TRUST
     2017
         Assets: $146,773,001
-        RecordKeeper: PRUDENTIAL INS. CO OF AMERICA
+        Service Providers:
+           - WILLIS TOWER WATSON : $134,846   (Consulting(pension) | Direct payment from the plan)
+           - FID INV INST OPS CO : $120,961   (Recordkeeper | Consulting(pension) | Direct payment from the plan)
+           - PRIME BUCHHOLZ & ASSOCIATES : $61,342   (Investment advisory(plan) | Direct payment from the plan)
+           - STATE STREE GLOBAL ADVISORS : $43,380   (Investment advisory(plan) | Direct payment from the plan)
+           - CONNING & COMPANY : $40,564   (Investment advisory(plan) | Investment management | Direct payment from the plan)
+           - SANDERSON ASSET MANAGEMENT LLP : $36,106   (Investment advisory(plan) | Investment management | Direct payment from the plan)
+           - US BANK INC. : $29,660   (Trustee(bank, trust company, or similar) | Recordkeeper | Direct payment from the plan)
+           - PRUDENTIAL INS. CO OF AMERICA : $4,875   (Other services | Direct payment from the plan)
         Available Investments:
            - COLCHESTER GLOBAL INVESTORS LIMITED
                  : THE COLCHESTER GLOBAL BOND FUND  [377324183-000] C  $7,184,407

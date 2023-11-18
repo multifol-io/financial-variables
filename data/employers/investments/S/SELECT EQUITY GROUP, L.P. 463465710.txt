@@ -1,9 +1,10 @@
 SELECT EQUITY GROUP, L.P.  463465710 -- NY : NEW YORK
-  [401(k)] SELECT EQUITY GROUP, L.P. 401(K) PSP AND TRUST
+  [401(k)] SELECT EQUITY GROUP, L.P. 401(K) PSP AND TRUST [463465710-001]
     2022  [codes: 2E2F2G2J2K]
         Participants: 254  Average: $480,833
         Assets: $122,131,648
-        RecordKeeper: SENTINEL BENEFITS & FINANCIAL GROUP
+        Service Providers:
+           - SENTINEL BENEFITS & FINANCIAL GROUP : $19,472   (Recordkeeper | Sub - transfer agency fees | Finders' fees/placement fees | Distribution(12b - 1) fees | Recordkeeping fees)
         Available Investments:
            - WILMINGTON TRUST, N.A.
                  : BLACKROCK EAFE EQUITY INDEX FUND CL  [203802495-007] C  $2,589,204
@@ -14,7 +15,8 @@ SELECT EQUITY GROUP, L.P.  463465710 -- NY : NEW YORK
     2021
         Participants: 231  Average: $658,453
         Assets: $152,102,846
-        RecordKeeper: SENTINEL BENEFITS & FINANCIAL GROUP
+        Service Providers:
+           - SENTINEL BENEFITS & FINANCIAL GROUP : $10,679   (Recordkeeper | Sub - transfer agency fees | Finders' fees/placement fees | Distribution(12b - 1) fees | Recordkeeping fees)
         Available Investments:
            - WILMINGTON TRUST, N.A.
                  : BLACKROCK EAFE EQUITY INDEX FUND CL  [203802495-007] C  $2,715,824
@@ -26,7 +28,8 @@ SELECT EQUITY GROUP, L.P.  463465710 -- NY : NEW YORK
     2020
         Participants: 201  Average: $576,727
         Assets: $115,922,156
-        RecordKeeper: SENTINEL BENEFITS & FINANCIAL GROUP
+        Service Providers:
+           - SENTINEL BENEFITS & FINANCIAL GROUP : $78,861   (Recordkeeper | Sub - transfer agency fees | Finders' fees/placement fees | Distribution(12b - 1) fees | Recordkeeping fees)
         Available Investments:
            - WILMINGTON TRUST, N.A.
                  : BLACKROCK EAFE EQUITY INDEX FUND CL  [203802495-007] C  $2,281,238
@@ -37,7 +40,8 @@ SELECT EQUITY GROUP, L.P.  463465710 -- NY : NEW YORK
     2019
         Participants: 179  Average: $527,806
         Assets: $94,477,401
-        RecordKeeper: SENTINEL BENEFITS & FINANCIAL GROUP
+        Service Providers:
+           - SENTINEL BENEFITS & FINANCIAL GROUP : $25,463   (Recordkeeper | Sub - transfer agency fees | Finders' fees/placement fees | Distribution(12b - 1) fees | Recordkeeping fees)
         Available Investments:
            - WILMINGTON TRUST, N.A.
                  : BLACKROCK EAFE EQUITY INDEX FUND CL  [203802495-007] C  $1,806,086
@@ -49,11 +53,13 @@ SELECT EQUITY GROUP, L.P.  463465710 -- NY : NEW YORK
     2018
         Participants: 165  Average: $405,263
         Assets: $66,868,544
-        RecordKeeper: SENTINEL BENEFITS & FINANCIAL GROUP
+        Service Providers:
+           - SENTINEL BENEFITS & FINANCIAL GROUP : $49,923   (Recordkeeper | Sub - transfer agency fees | Finders' fees/placement fees | Distribution(12b - 1) fees | Recordkeeping fees)
     2017
         Participants: 155  Average: $415,064
         Assets: $64,335,064
-        RecordKeeper: SENTINEL BENEFITS & FINANCIAL GROUP
+        Service Providers:
+           - SENTINEL BENEFITS & FINANCIAL GROUP : $55,519   (Recordkeeper | Sub - transfer agency fees | Finders' fees/placement fees | Distribution(12b - 1) fees | Recordkeeping fees)
   [Healthcare, Life insurance, Dental, Vision, Long-term disability, Travel accident] SELECT EQUITY GROUP L.P. HEALTH AND WELFARE BENEFIT PLAN [463465710-501]
     2021  [codes: 4A4B4D4E4H4L]
     2020

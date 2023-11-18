@@ -1,9 +1,10 @@
 JACKSON NATIONAL LIFE INSURANCE COMPANY  381659835 -- MI : LANSING
-  [401(k)] JACKSON NATIONAL LIFE INSURANCE COMPANY DEFINED CONTRIBUTION PLAN
+  [401(k)] JACKSON NATIONAL LIFE INSURANCE COMPANY DEFINED CONTRIBUTION PLAN [381659835-001]
     2022  [codes: 2G2J2K2T3F3H2E]
         Participants: 5,513  Average: $208,427
         Assets: $1,149,061,601
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : $39,919  RECORDKEEPER (Participant loan processing | Recordkeeping fees | Account maintenance fees)
         Available Investments:
            - BLACKROCK INST. TRUST COMPANY, N.A.
                  : BTC LIFEPATH 2025 G  [452829112-001] C  $13,210,097
@@ -23,7 +24,8 @@ JACKSON NATIONAL LIFE INSURANCE COMPANY  381659835 -- MI : LANSING
     2021
         Participants: 5,136  Average: $259,825
         Assets: $1,334,464,716
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : $39,452  RECORDKEEPER (Participant loan processing | Recordkeeping fees | Account maintenance fees)
         Available Investments:
            - BLACKROCK INST. TRUST COMPANY, N.A.
                  : BTC LIFEPATH 2025 G  [452829112-001] C  $15,124,807
@@ -43,7 +45,8 @@ JACKSON NATIONAL LIFE INSURANCE COMPANY  381659835 -- MI : LANSING
     2020
         Participants: 5,221  Average: $232,217
         Assets: $1,212,408,174
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : $26,337  RECORDKEEPER (Participant loan processing | Recordkeeping fees | Account maintenance fees)
         Available Investments:
            - BLACKROCK INST. TRUST COMPANY, N.A.
                  : BTC LIFEPATH 2025 G  [452829112-001] C  $11,195,876
@@ -62,7 +65,8 @@ JACKSON NATIONAL LIFE INSURANCE COMPANY  381659835 -- MI : LANSING
     2019  [codes: 2E2G2J2K2T3H]
         Participants: 5,876  Average: $185,519
         Assets: $1,090,110,381
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : $30,983  RECORDKEEPER (Participant loan processing | Recordkeeping fees | Account maintenance fees)
         Available Investments:
            - BLACKROCK INST. TRUST COMPANY, N.A.
                  : BTC LIFEPATH 2020 G  [452829040-001] C  $0
@@ -82,7 +86,10 @@ JACKSON NATIONAL LIFE INSURANCE COMPANY  381659835 -- MI : LANSING
     2018
         Participants: 5,800  Average: $158,713
         Assets: $920,540,929
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : $36,106  RECORDKEEPER (Participant loan processing | Sub - transfer agency fees | Recordkeeping fees | Account maintenance fees)
+        Service Fees:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : WF DSCPLD SM CP INST - DST ASSET M   $0 | 0.15%)
         Available Investments:
            - BLACKROCK INST. TRUST COMPANY, N.A.
                  : BTC LIFEPATH 2020 G  [452829040-001] C  $4,410,844
@@ -102,7 +109,11 @@ JACKSON NATIONAL LIFE INSURANCE COMPANY  381659835 -- MI : LANSING
     2017
         Participants: 5,972  Average: $159,666
         Assets: $953,525,720
-        RecordKeeper: FIDELITY INVESTMENTS INSTITUTIONAL
+        Service Providers:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : $37,447  RECORDKEEPER (Participant loan processing | Sub - transfer agency fees | Recordkeeping fees | Account maintenance fees)
+        Service Fees:
+           - FIDELITY INVESTMENTS INSTITUTIONAL : ABF SM CAP VAL INST - BOSTON FINAN   $0 | 0.04%)
+           - FIDELITY INVESTMENTS INSTITUTIONAL : WF SM CAP OPP INST - BOSTON FINANC   $0 | 0.15%)
         Available Investments:
            - BLACKROCK INST. TRUST COMPANY, N.A.
                  : BTC LIFEPATH 2020 G  [452829040-001] C  $4,784,469

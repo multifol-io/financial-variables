@@ -17,12 +17,14 @@ NATIONAL PEO  135581829 -- PA : PITTSBURGH
     2017  [codes: 4A4B4D4E4F4H4Q]
         Assets: $1,459,032,015
         Service Providers:
-           - UNITED HEALTH CARE :  (Contract Administrator | Direct payment from the plan)
-           - AETNA :  (Contract Administrator | Direct payment from the plan)
-           - EXPRESS SCRIPTS :  (Contract Administrator | Direct payment from the plan)
-           - METROPOLITAN LIFE INSURANCE COMPANY : PLAN SPONSOR (Contract Administrator | Investment management fees paid indirectly by plan)
-           - ADP :  (Contract Administrator | Direct payment from the plan)
-           - WAGEWORKS :  (Contract Administrator | Direct payment from the plan)
+           - UNITED HEALTH CARE : $8,628,438   (Contract Administrator | Direct payment from the plan)
+           - AETNA : $3,591,967   (Contract Administrator | Direct payment from the plan)
+           - EXPRESS SCRIPTS : $3,180,298   (Contract Administrator | Direct payment from the plan)
+           - METROPOLITAN LIFE INSURANCE COMPANY : $3,018,313  PLAN SPONSOR (Contract Administrator | Investment management fees paid indirectly by plan)
+           - ADP : $2,574,392   (Contract Administrator | Direct payment from the plan)
+           - WAGEWORKS : $301,241   (Contract Administrator | Direct payment from the plan)
+        Service Fees:
+           - METROPOLITAN LIFE INSURANCE COMPANY : METROPOLITAN LIFE INSURANCE COMPANY   $1382486 | INVESTMENT MANAGEMENT FEES)
         Available Investments:
            - METROPOLITAN LIFE INSURANCE COMPANY
                  : EQUITY INDEX 088  [135581829-000] P  $1,630,323
@@ -75,7 +77,11 @@ NATIONAL PEO  135581829 -- PA : PITTSBURGH
     2017  [codes: 1A1C1E3F3H]
         Participants: 16,497  Average: $591,116
         Assets: $9,751,641,593
-        RecordKeeper: MILLIMAN
+        Service Providers:
+           - METROPOLITAN LIFE INSURANCE COMPANY : $29,227,000  PLAN SPONSOR (Contract Administrator | Custodial(other than securities) | Investment management | Investment management fees paid directly by plan)
+           - AUTOMATIC DATA PROCESSING : $1,694,916   (Contract Administrator | Direct payment from the plan)
+           - HEWITT LLC : $1,284,000  RECORDKEEPER (Recordkeeper | Recordkeeping fees)
+           - MILLIMAN : $212,225   (Actuarial | Direct payment from the plan)
         Available Investments:
            - METROPOLITAN LIFE INSURANCE COMPANY
                  : BAILLIE GIFFORD OVERSEAS LIMITED739  [135881829-000] P  $135,917,830

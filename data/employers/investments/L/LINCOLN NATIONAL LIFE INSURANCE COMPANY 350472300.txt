@@ -45,7 +45,7 @@ LINCOLN NATIONAL LIFE INSURANCE COMPANY  350472300 -- PA : RADNOR
         Participants: 1,165  Average: $265,995
         Assets: $309,884,210
         Service Providers:
-           - CALLAN ASSOCIATES : CONSULTANT (Investment management)
+           - CALLAN ASSOCIATES : $6,169  CONSULTANT (Investment management)
         Available Investments:
            - ACADIAN ASSET MANAGEMENT
                  : ALL COUNTRY WORLD/EX U.S. EQUITY  [832066878-004] C  $0
@@ -79,7 +79,7 @@ LINCOLN NATIONAL LIFE INSURANCE COMPANY  350472300 -- PA : RADNOR
         Participants: 1,014  Average: $284,538
         Assets: $288,521,847
         Service Providers:
-           - CALLAN ASSOCIATES : CONSULTANT (Investment management)
+           - CALLAN ASSOCIATES : $4,361  CONSULTANT (Investment management)
         Available Investments:
            - ACADIAN ASSET MANAGEMENT
                  : ALL COUNTRY WORLD/EX U.S. EQUITY  [832066878-004] C  $12,301,948
@@ -112,7 +112,7 @@ LINCOLN NATIONAL LIFE INSURANCE COMPANY  350472300 -- PA : RADNOR
         Participants: 1,076  Average: $241,658
         Assets: $260,024,415
         Service Providers:
-           - MITCHELL & TITUS : AUDITOR (Accounting(including auditing))
+           - MITCHELL & TITUS : $9,000  AUDITOR (Accounting(including auditing))
         Available Investments:
            - MACQUARIE INVESTMENT MANAGEMENT
                  : DELAWARE DIVERSIFIED INCOME TRUST  [451285708-000] C  $8,382,181
@@ -145,8 +145,8 @@ LINCOLN NATIONAL LIFE INSURANCE COMPANY  350472300 -- PA : RADNOR
         Participants: 1,126  Average: $205,606
         Assets: $231,512,430
         Service Providers:
-           - MITCHELL & TITUS : AUDITOR (Accounting(including auditing))
-           - CALLAN ASSOCIATES : ADVISOR (Investment management)
+           - MITCHELL & TITUS : $9,200  AUDITOR (Accounting(including auditing))
+           - CALLAN ASSOCIATES : $5,988  ADVISOR (Investment management)
         Available Investments:
            - MACQUARIE INVESTMENT MANAGEMENT
                  : DELAWARE DIVERSIFIED INCOME TRUST  [451285708-000] C  $7,641,827
@@ -176,7 +176,7 @@ LINCOLN NATIONAL LIFE INSURANCE COMPANY  350472300 -- PA : RADNOR
         Participants: 1,186  Average: $219,482
         Assets: $260,305,727
         Service Providers:
-           - CALLAN ASSOCIATES : ADVISOR (Investment management)
+           - CALLAN ASSOCIATES : $6,899  ADVISOR (Investment management)
         Available Investments:
            - BOSTON CO. ASSET MANAGEMENT, LLC
                  : EB US SMALL-MID CAPITALIZATION VALU  [256078093-266] C  $0
@@ -420,25 +420,55 @@ LINCOLN NATIONAL LIFE INSURANCE COMPANY  350472300 -- PA : RADNOR
   [Healthcare, Life insurance, Dental, Vision] LINCOLN NATIONAL LIFE INSURANCE CO AGENTS LIFE, HEALTH & ACCIDENT PLAN [350472300-502]
     2022  [codes: 4A4B4D4E]
         Assets: $490,298
-        RecordKeeper: IBM
+        Service Providers:
+           - HEALTH AND HUMAN RESOURCE CENTER IN : $4,190   (Plan Administrator)
+           - CVS CAREMARK : $2,482   (Plan Administrator)
+           - ALIGHT : $45,471   (Recordkeeper)
+           - MITCHELL & TITUS : $23,750   (Accounting(including auditing))
+           - LINCOLN NATIONAL LIFE INSURANCE CO : $14,199  SUBSIDIARY (Plan Administrator)
+           - IBM : $8,930   (Recordkeeper)
     2021
         Assets: $1,168,404
         Service Providers:
-           - CVS CAREMARK :  (Plan Administrator)
-           - MITCHELL & TITUS :  (Accounting(including auditing))
-           - LINCOLN NATIONAL LIFE INSURANCE CO : SUBSIDIARY (Plan Administrator)
+           - CVS CAREMARK : $27,110   (Plan Administrator)
+           - MITCHELL & TITUS : $23,750   (Accounting(including auditing))
+           - LINCOLN NATIONAL LIFE INSURANCE CO : $16,465  SUBSIDIARY (Plan Administrator)
     2020
         Assets: $1,069,363
-        RecordKeeper: HEALTH EQUITY
+        Service Providers:
+           - INDEPENDENCE BLUE CROSS : $171,273   (Plan Administrator)
+           - MITCHELL & TITUS : $23,750   (Accounting(including auditing))
+           - LINCOLN NATIONAL LIFE INSURANCE CO : $18,914  SUBSIDIARY (Plan Administrator)
+           - CVS CAREMARK : $16,889   (Plan Administrator)
+           - IBM WATSON : $5,860   (Recordkeeper)
+           - HEALTH EQUITY : $5,274   (Plan Administrator)
     2019
         Assets: $3,688,594
-        RecordKeeper: IBM WATSON
+        Service Providers:
+           - INDEPENDENCE BLUE CROSS : $184,595   (Plan Administrator)
+           - CVS CAREMARK : $38,353   (Plan Administrator)
+           - MITCHELL & TITUS : $21,375   (Accounting(including auditing))
+           - LINCOLN NATIONAL LIFE INSURANCE CO : $20,555  SUBSIDIARY (Plan Administrator)
+           - HEALTH EQUITY : $6,095   (Plan Administrator)
+           - IBM WATSON : $6,021   (Recordkeeper)
     2018
         Assets: $6,237,317
-        RecordKeeper: HEALTH EQUITY
+        Service Providers:
+           - INDEPENDENCE BLUE CROSS : $206,211   (Plan Administrator)
+           - CVS CAREMARK : $46,308   (Contract Administrator)
+           - MITCHELL & TITUS : $38,000   (Accounting(including auditing))
+           - LINCOLN NATIONAL LIFE INSURANCE CO : $22,203  SUBSIDIARY (Plan Administrator)
+           - IBM WATSON : $7,400   (Recordkeeper)
+           - HEALTH EQUITY : $6,761   (Plan Administrator)
     2017
         Assets: $8,692,307
-        RecordKeeper: HEALTH EQUITY
+        Service Providers:
+           - INDEPENDENCE BLUE CROSS : $214,507   (Plan Administrator)
+           - ERNST & YOUNG LLP : $37,431   (Accounting(including auditing))
+           - LINCOLN NATIONAL LIFE INSURANCE CO : $24,362  SUBSIDIARY (Plan Administrator)
+           - EXPRESS SCRIPTS : $11,094   (Contract Administrator)
+           - TOWERS WATSON DELAWARE INC/TRUVEN : $8,471   (Recordkeeper)
+           - HEALTH EQUITY : $6,555   (Plan Administrator)
   [Healthcare] AGENTS HEALTH CARE EXPENSE ACCOUNT [350472300-509]
     2022  [codes: 4A]
     2021
@@ -449,40 +479,52 @@ LINCOLN NATIONAL LIFE INSURANCE COMPANY  350472300 -- PA : RADNOR
   [Healthcare, Life insurance, Dental] LINCOLN NATIONAL LIFE INSURANCE CO LIFE & HEALTH PLAN FOR RETIRED AGENTS [350472300-511]
     2022  [codes: 4A4B4D]
         Assets: $1,722,683
-        RecordKeeper: LINCOLN NATIONAL LIFE INSURANCE CO
+        Service Providers:
+           - CVS CAREMARK : $31,505   (Contract Administrator)
+           - MEDICAL CARD SYSTEMS : $18,830   (Plan Administrator)
+           - MITCHELL & TITUS : $18,750   (Accounting(including auditing))
+           - ALIGHT : $17,658   (Recordkeeper)
+           - IBM WATSON : $7,738   (Recordkeeper)
+           - LINCOLN NATIONAL LIFE INSURANCE CO : $4,903  SUBSIDIARY (Plan Administrator)
     2021
         Assets: $1,694,026
         Service Providers:
-           - CVS CAREMARK :  (Contract Administrator)
-           - MITCHELL & TITUS :  (Accounting(including auditing))
-           - MEDICAL CARD SYSTEMS :  (Plan Administrator)
-           - LINCOLN NATIONAL LIFE INSURANCE CO : SUBSIDIARY (Plan Administrator)
+           - CVS CAREMARK : $37,236   (Contract Administrator)
+           - MITCHELL & TITUS : $18,750   (Accounting(including auditing))
+           - MEDICAL CARD SYSTEMS : $7,500   (Plan Administrator)
+           - LINCOLN NATIONAL LIFE INSURANCE CO : $6,036  SUBSIDIARY (Plan Administrator)
     2020
         Assets: $1,934,412
         Service Providers:
-           - INDEPENDENCE BLUE CROSS :  (Plan Administrator)
-           - CVS CAREMARK :  (Contract Administrator)
-           - MITCHELL & TITUS :  (Accounting(including auditing))
-           - LINCOLN NATIONAL LIFE INSURANCE CO : SUBSIDIARY (Plan Administrator)
-           - MEDICAL CARD SYSTEMS :  (Plan Administrator)
+           - INDEPENDENCE BLUE CROSS : $82,622   (Plan Administrator)
+           - CVS CAREMARK : $34,638   (Contract Administrator)
+           - MITCHELL & TITUS : $18,750   (Accounting(including auditing))
+           - LINCOLN NATIONAL LIFE INSURANCE CO : $7,109  SUBSIDIARY (Plan Administrator)
+           - MEDICAL CARD SYSTEMS : $6,337   (Plan Administrator)
     2019
         Assets: $975,601
         Service Providers:
-           - INDEPENDENCE BLUE CROSS :  (Plan Administrator)
-           - CVS CAREMARK :  (Contract Administrator)
-           - MITCHELL & TITUS :  (Accounting(including auditing))
-           - LINCOLN NATIONAL LIFE INSURANCE CO : SUBSIDIARY (Plan Administrator)
-           - MEDICAL CARD SYSTEMS :  (Plan Administrator)
+           - INDEPENDENCE BLUE CROSS : $91,182   (Plan Administrator)
+           - CVS CAREMARK : $27,739   (Contract Administrator)
+           - MITCHELL & TITUS : $21,125   (Accounting(including auditing))
+           - LINCOLN NATIONAL LIFE INSURANCE CO : $7,515  SUBSIDIARY (Plan Administrator)
+           - MEDICAL CARD SYSTEMS : $6,450   (Plan Administrator)
     2018
         Assets: $941,728
         Service Providers:
-           - INDEPENDENCE BLUE CROSS :  (Plan Administrator)
-           - CVS CAREMARK :  (Contract Administrator)
-           - MITCHELL & TITUS :  (Accounting(including auditing))
-           - MEDICAL CARD SYSTEMS :  (Plan Administrator)
+           - INDEPENDENCE BLUE CROSS : $99,518   (Plan Administrator)
+           - CVS CAREMARK : $32,803   (Contract Administrator)
+           - MITCHELL & TITUS : $27,000   (Accounting(including auditing))
+           - MEDICAL CARD SYSTEMS : $6,450   (Plan Administrator)
     2017
         Assets: $1,141,317
-        RecordKeeper: TOWERS WATSON DELAWARE INC/TRUVEN
+        Service Providers:
+           - INDEPENDENCE BLUE CROSS : $108,839   (Plan Administrator)
+           - EXPRESS SCRIPTS : $36,491   (Contract Administrator)
+           - ERNST & YOUNG LLP : $27,106   (Accounting(including auditing))
+           - LINCOLN NATIONAL LIFE INSURANCE CO : $8,954  SUBSIDIARY (Plan Administrator)
+           - MEDICAL CARD SYSTEMS : $6,450   (Plan Administrator)
+           - TOWERS WATSON DELAWARE INC/TRUVEN : $5,372   (Recordkeeper)
  -- IA : GUTTENBERG
   [Life insurance] GUTTENBERG MUNICIPAL HOSPITAL [350472300-501]
     2020  [codes: 4B]
@@ -1251,42 +1293,84 @@ LINCOLN NATIONAL LIFE INSURANCE COMPANY  350472300 -- PA : RADNOR
     2022  [codes: 1A1I]
         Participants: 1,517  Average: $50,411
         Assets: $76,473,657
-        RecordKeeper: CALLAN
+        Service Providers:
+           - STATE STREET : $9,570   (Investment management fees paid directly by plan)
+           - DELAWARE MANAGEMENT COMPANY : $118,823   (Investment management fees paid directly by plan)
+           - LIFEWORKS : $85,723   (Recordkeeper)
+           - BUCK CONSULTANTS : $66,257   (Actuarial)
+           - NORTHERN TRUST COMPANY : $47,638   (Investment management fees paid directly by plan | Trustee(bank, trust company, or similar))
+           - MITCHELL & TITUS : $34,750   (Investment management)
+           - CALLAN : $14,323   (Investment management)
         Available Investments:
            - LINCOLN NATIONAL LIFE INSURANCE CO
                  : LIN NAT CORP EMPL RETIREMENT TRUST  [351140070-000] M  $76,473,657
     2021
         Participants: 1,583  Average: $65,863
         Assets: $104,262,545
-        RecordKeeper: STATE STREET
+        Service Providers:
+           - DELAWARE MANAGEMENT COMPANY : $160,380   (Investment management fees paid directly by plan)
+           - LIFEWORKS : $90,874   (Recordkeeper)
+           - NORTHERN TRUST COMPANY : $59,046   (Investment management fees paid directly by plan | Trustee(bank, trust company, or similar))
+           - BUCK CONSULTANTS : $57,315   (Actuarial)
+           - MITCHELL & TITUS : $34,750   (Investment management)
+           - CALLAN : $14,810   (Investment management)
+           - STATE STREET : $9,164   (Investment management fees paid directly by plan)
         Available Investments:
            - LINCOLN NATIONAL LIFE INSURANCE CO
                  : LIN NAT CORP EMPL RETIREMENT TRUST  [351140070-000] M  $104,262,545
     2020  [codes: 1A]
         Participants: 1,640  Average: $70,545
         Assets: $115,694,927
-        RecordKeeper: STATE STREET
+        Service Providers:
+           - DELAWARE MANAGEMENT COMPANY : $186,666   (Investment management fees paid directly by plan)
+           - MORNEAU SHEPELL : $93,569   (Recordkeeper)
+           - BUCK CONSULTANTS : $63,071   (Actuarial)
+           - NORTHERN TRUST COMPANY : $53,876   (Investment management fees paid directly by plan | Trustee(bank, trust company, or similar))
+           - MITCHELL & TITUS : $34,750   (Investment management)
+           - CALLAN : $15,795   (Investment management)
+           - STATE STREET : $5,618   (Investment management fees paid directly by plan)
         Available Investments:
            - LINCOLN NATIONAL LIFE INSURANCE CO
                  : LIN NAT CORP EMPL RETIREMENT TRUST  [351140070-000] M  $115,694,927
     2019
         Participants: 1,688  Average: $64,713
         Assets: $109,236,748
-        RecordKeeper: STATE STREET
+        Service Providers:
+           - DELAWARE MANAGEMENT COMPANY : $194,873   (Investment management fees paid directly by plan)
+           - MERCER : $66,530   (Recordkeeper)
+           - NORTHERN TRUST COMPANY : $50,818   (Investment management fees paid directly by plan | Trustee(bank, trust company, or similar))
+           - BUCK CONSULTANTS : $34,750   (Actuarial)
+           - MITCHELL & TITUS : $34,750   (Investment management)
+           - MORNEAU SHEPELL : $27,097   (Recordkeeper)
+           - CALLAN : $15,779   (Investment management)
+           - STATE STREET : $3,837   (Investment management fees paid directly by plan)
         Available Investments:
            - LINCOLN NATIONAL LIFE INSURANCE CO
                  : LIN NAT CORP EMPL RETIREMENT TRUST  [351140070-000] M  $109,236,748
     2018
         Participants: 1,739  Average: $61,960
         Assets: $107,748,959
-        RecordKeeper: STATE STREET
+        Service Providers:
+           - DELAWARE MANAGEMENT COMPANY : $209,960   (Investment management fees paid directly by plan)
+           - MERCER : $112,185   (Recordkeeper)
+           - NORTHERN TRUST COMPANY : $53,099   (Investment management fees paid directly by plan | Trustee(bank, trust company, or similar))
+           - BUCK CONSULTANTS : $48,210   (Actuarial)
+           - MITCHELL & TITUS : $26,460   (Investment management)
+           - CALLAN : $15,549   (Investment management)
+           - STATE STREET : $1,295   (Investment management fees paid directly by plan)
         Available Investments:
            - LINCOLN NATIONAL LIFE INSURANCE CO
                  : LIN NAT CORP EMPL RETIREMENT TRUST  [351140070-000] M  $107,748,959
     2017
         Participants: 1,795  Average: $66,166
         Assets: $118,768,410
-        RecordKeeper: CALLAN
+        Service Providers:
+           - DELAWARE MANAGEMENT COMPANY : $245,378   (Investment management fees paid directly by plan)
+           - MERCER : $101,964   (Recordkeeper)
+           - NORTHERN TRUST COMPANY : $50,637   (Investment management fees paid directly by plan | Trustee(bank, trust company, or similar))
+           - BUCK CONSULTANTS : $49,228   (Actuarial)
+           - ERNST & YOUNG : $24,622   (Accounting(including auditing))
+           - CALLAN : $15,547   (Investment management)
         Available Investments:
            - LINCOLN NATIONAL LIFE INSURANCE CO
                  : LIN NAT CORP EMPL RETIREMENT TRUST  [351140070-000] M  $111,268,410

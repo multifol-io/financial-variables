@@ -2,27 +2,43 @@ LICT CORPORATION  611598150 -- NY : RYE
   [Other] LICT CORPORATION CONTROLLED GROUP DEFINED CONTRIBUTION MASTER TRUST [611598150-001]
     2022
         Assets: $2,299
-        RecordKeeper: AMERITAS
+        Service Providers:
+           - MORNINGSTAR : $20,784  INVESTMENT ADVISOR (Investment advisory(participants) | Direct payment from the plan)
+           - AMERITAS : $7,967   (Contract Administrator | Recordkeeper | Participant loan processing | Participant communication | Direct payment from the plan)
     2021
         Assets: $62,484,921
-        RecordKeeper: BLUESTAR RETIREMENT PLAN SERVICES
+        Service Providers:
+           - MORNINGSTAR : $22,789  INVESTMENT ADVISOR (Investment advisory(participants) | Direct payment from the plan)
+           - BLUESTAR RETIREMENT PLAN SERVICES : $7,620   (Contract Administrator | Recordkeeper | Participant loan processing | Participant communication | Direct payment from the plan)
     2020
         Assets: $54,339,382
-        RecordKeeper: CHARLES SCHWAB TRUST BANK
+        Service Providers:
+           - MORNINGSTAR : $18,446  INVESTMENT ADVISOR (Investment advisory(participants) | Direct payment from the plan)
+           - BLUESTAR RETIREMENT PLAN SERVICES : $7,261   (Contract Administrator | Recordkeeper | Participant loan processing | Participant communication | Direct payment from the plan)
+           - CHARLES SCHWAB TRUST BANK : $0  CUSTODIAN (Custodial(securities) | Direct payment from the plan | Participant loan processing | Float revenue)
+        Service Fees:
+           - CHARLES SCHWAB TRUST BANK : BROWN ADVISORY FUNDS   $0 | RANGE OF 0.00 - 0.02% OF AVERAGE DAILY BALANCE OF ASSETS)
+           - CHARLES SCHWAB TRUST BANK : GABELLI   $0 | RANGE OF 0.00 - 0.02% OF AVERAGE DAILY BALANCE OF ASSETS)
+           - CHARLES SCHWAB TRUST BANK : GLENMEDE   $0 | RANGE OF 0.00 - 0.02% OF AVERAGE DAILY BALANCE OF ASSETS)
+           - CHARLES SCHWAB TRUST BANK : PUTNAM   $0 | RANGE OF 0.00 - 0.02% OF AVERAGE DAILY BALANCE OF ASSETS)
+           - CHARLES SCHWAB TRUST BANK : VICTORY CAPITAL   $0 | RANGE OF 0.00 - 0.02% OF AVERAGE DAILY BALANCE OF ASSETS)
+           - CHARLES SCHWAB TRUST BANK : VIRTUS   $0 | RANGE OF 0.00 - 0.02% OF AVERAGE DAILY BALANCE OF ASSETS)
     2019
         Assets: $48,277,002
-        RecordKeeper: BLUESTAR RETIREMENT PLAN SERVICES
+        Service Providers:
+           - MORNINGSTAR : $16,280  INVESTMENT ADVISOR (Investment advisory(participants) | Direct payment from the plan)
+           - BLUESTAR RETIREMENT PLAN SERVICES : $7,115   (Contract Administrator | Recordkeeper | Participant loan processing | Participant communication | Direct payment from the plan)
     2018
         Assets: $40,157,454
         Service Providers:
-           - MORNINGSTAR : INVESTMENT ADVISOR (Investment advisory(participants) | Direct payment from the plan)
+           - MORNINGSTAR : $19,368  INVESTMENT ADVISOR (Investment advisory(participants) | Direct payment from the plan)
         Available Investments:
            - STANDARD INSURANCE COMPANY
                  : STANDARD STABLE ASSET FUND CL 2  [930242990-001] C  $8,494,093
     2017
         Assets: $41,454,009
         Service Providers:
-           - MORNINGSTAR : INVESTMENT ADVISOR (Investment advisory(participants) | Direct payment from the plan)
+           - MORNINGSTAR : $8,165  INVESTMENT ADVISOR (Investment advisory(participants) | Direct payment from the plan)
         Available Investments:
            - STANDARD INSURANCE COMPANY
                  : STANDARD STABLE ASSET FUND CL 2  [930242990-001] C  $6,528,017

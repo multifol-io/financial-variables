@@ -2,7 +2,14 @@ TE CONNECTIVITY CORPORATION  262342851 -- PA : BERWYN
   [Other] TYCO ELECTRONICS DEFINED BENEFIT PLANS MASTER TRUST [262342851-001]
     2021
         Assets: $612,319,610
-        RecordKeeper: TRANSAMERICA RETIREMENT SOLUTIONS
+        Service Providers:
+           - WELLINGTON TRUST COMPANY, NA : $0   (Investment management | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
+           - BLACKROCK INSTITUTIONAL TRUST COMPA : $92,919   (Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan)
+           - NORTHERN TRUST COMPANY : $20,861   (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+           - STATE STREET GLOBAL ADVISORS TRUST : $10,202   (Custodial(other than securities) | Custodial(securities) | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
+           - TRANSAMERICA RETIREMENT SOLUTIONS : $5,131   (Recordkeeper | Participant communication | Direct payment from the plan | Recordkeeping fees | Account maintenance fees)
+        Service Fees:
+           - WELLINGTON TRUST COMPANY, NA : WTC-CIF II MID CAP OPPORTUNITIES   $453476 | INVESTMENT MANAGEMENT FEES)
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A
                  : TSY U.S 10 YR KEY RATE DUR NL FD A  [474226866-001] C  $21,619,247
@@ -22,11 +29,11 @@ TE CONNECTIVITY CORPORATION  262342851 -- PA : BERWYN
     2020
         Assets: $820,556,640
         Service Providers:
-           - WELLINGTON TRUST COMPANY, NA :  (Trustee(bank, trust company, or similar) | Direct payment from the plan | Investment management fees paid indirectly by plan)
-           - LEGAL & GENERAL INVESTMENT MANAGEME :  (Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
-           - BLACKROCK INSTITUTIONAL TRUST COMPA :  (Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan)
-           - STATE STREET GLOBAL ADVISORS TRUST :  (Custodial(other than securities) | Custodial(securities) | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
-           - NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+           - WELLINGTON TRUST COMPANY, NA : $0   (Trustee(bank, trust company, or similar) | Direct payment from the plan | Investment management fees paid indirectly by plan)
+           - LEGAL & GENERAL INVESTMENT MANAGEME : $191,566   (Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
+           - BLACKROCK INSTITUTIONAL TRUST COMPA : $81,543   (Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan)
+           - STATE STREET GLOBAL ADVISORS TRUST : $19,508   (Custodial(other than securities) | Custodial(securities) | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
+           - NORTHERN TRUST COMPANY : $3,809   (Trustee(bank, trust company, or similar) | Direct payment from the plan)
         Available Investments:
            - BENEFIT TRUST COMPANY
                  : HEITMAN GLOBAL PRIME CIT  [816903542-067] C  $0
@@ -51,12 +58,12 @@ TE CONNECTIVITY CORPORATION  262342851 -- PA : BERWYN
     2019
         Assets: $959,649,042
         Service Providers:
-           - LEGAL & GENERAL INVESTMENT MANAGEME :  (Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
-           - BLACKROCK INSTITUTIONAL TRUST COMPA :  (Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan)
-           - MORGAN LEWIS & BOCKIUS LLP :  (Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
-           - NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-           - STATE STREET GLOBAL ADVISORS TRUST :  (Custodial(other than securities) | Custodial(securities) | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
-           - TOWERS WATSON INVESTMENT SVC :  (Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan)
+           - LEGAL & GENERAL INVESTMENT MANAGEME : $114,776   (Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
+           - BLACKROCK INSTITUTIONAL TRUST COMPA : $112,194   (Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan)
+           - MORGAN LEWIS & BOCKIUS LLP : $100,539   (Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
+           - NORTHERN TRUST COMPANY : $21,010   (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+           - STATE STREET GLOBAL ADVISORS TRUST : $20,781   (Custodial(other than securities) | Custodial(securities) | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
+           - TOWERS WATSON INVESTMENT SVC : $20,694   (Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan)
         Available Investments:
            - BENEFIT TRUST COMPANY
                  : HEITMAN GLOBAL PRIME CIT  [816903542-067] C  $56,174,612
@@ -79,10 +86,10 @@ TE CONNECTIVITY CORPORATION  262342851 -- PA : BERWYN
     2018
         Assets: $933,252,576
         Service Providers:
-           - TOWERS WATSON INVESTMENT SVC :  (Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan)
-           - LEGAL AND GENERAL :  (Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
-           - NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
-           - BLACKROCK CORP :  (Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
+           - TOWERS WATSON INVESTMENT SVC : $183,034   (Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan)
+           - LEGAL AND GENERAL : $131,782   (Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
+           - NORTHERN TRUST COMPANY : $56,446   (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+           - BLACKROCK CORP : $30,109   (Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
         Available Investments:
            - BENEFIT TRUST COMPANY
                  : HEITMAN GLOBAL PRIME CIT  [816903542-067] C  $55,721,867
@@ -105,7 +112,7 @@ TE CONNECTIVITY CORPORATION  262342851 -- PA : BERWYN
     2017
         Assets: $924,546,065
         Service Providers:
-           - NORTHERN TRUST COMPANY :  (Trustee(bank, trust company, or similar) | Direct payment from the plan)
+           - NORTHERN TRUST COMPANY : $155,997   (Trustee(bank, trust company, or similar) | Direct payment from the plan)
         Available Investments:
            - STATE STREET GLOBAL ADVISORS TRUST COMPANY
                  : SS 20 YEAR US TREASURY NL FUND  [900337987-169] C  $86,822,658

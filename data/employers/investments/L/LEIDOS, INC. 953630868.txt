@@ -77,7 +77,12 @@ LEIDOS, INC.  953630868 -- VA : RESTON
   [Other] LEIDOS, INC. MASTER TRUST [953630868-005]
     2022  [codes: ]
         Assets: $9,133,571,419
-        RecordKeeper: VANGUARD ADVISORS INC
+        Service Providers:
+           - VANGUARD GROUP INC. : $1,522,818   (Recordkeeper | Consulting(general) | Trustee(directed) | Investment advisory(participants) | Securities brokerage | Participant loan processing | Participant communication | Investment management fees paid indirectly by plan | Other fees)
+           - VANGUARD ADVISORS INC : $1,147,447   (Investment advisory(participants))
+        Service Fees:
+           - VANGUARD GROUP INC. : DODGE & COX   $0 | 10 BPS)
+           - VANGUARD GROUP INC. : HEALTH EQUITY, INC.   $31092 | FOR PLAN SPONSORS THAT HAVE ENGAGED HEALTH EQUITY INC. AS THEIR HEALTH SAVINGS ACCOUNT PROVIDER. VANGUARD & HQY HAVE CREATED A CROSS-PLATFORM USER EXPERIENCE THAT WILL INTEGRATE PARTICIPANTS' HSA INFORMATION WITH OTHER RETIREMENT PLAN ACCOUNTS.)
         Available Investments:
            - LOOMIS SAYLES & COMPANY LP
                  : LOOMIS SAYLES CORE PLUS FIXED INCOM  [846391546-010] C  $93,897,358
@@ -107,7 +112,16 @@ LEIDOS, INC.  953630868 -- VA : RESTON
                  : WELLINGTON TRUST TIPS  [042755549-001] C  $0
     2021
         Assets: $10,585,087,240
-        RecordKeeper: CAP FINANCIAL PARTNERS LLC
+        Service Providers:
+           - VANGUARD GROUP INC. : $1,822,707   (Recordkeeper | Consulting(general) | Trustee(directed) | Participant loan processing | Participant communication | Investment management fees paid indirectly by plan | Other fees)
+           - VANGUARD ADVISORS INC : $1,360,020   (Investment advisory(participants))
+           - AETNA : $87,260   (Direct payment from the plan)
+           - ARONSON LLC : $30,200   (Accounting(including auditing))
+           - MERCER INVESTMENTS LLC : $25,000   (Consulting(pension))
+           - CAP FINANCIAL PARTNERS LLC : $5,140   (Investment advisory(plan))
+        Service Fees:
+           - VANGUARD GROUP INC. : DODGE & COX   $0 | 10 BPS)
+           - VANGUARD GROUP INC. : HEALTH EQUITY, INC.   $14051 | FOR PLAN SPONSORS THAT HAVE ENGAGED HEALTH EQUITY INC. AS THEIR HEALTH SAVINGS ACCOUNT PROVIDER. VANGUARD & HQY HAVE CREATED A CROSS-PLATFORM USER EXPERIENCE THAT WILL INTEGRATE PARTICIPANTS' HSA INFORMATION WITH OTHER RETIREMENT PLAN ACCOUNTS.)
         Available Investments:
            - LOOMIS SAYLES & COMPANY LP
                  : LOOMIS SAYLES CORE PLUS FIXED INCOM  [846391546-010] C  $116,456,967
@@ -133,7 +147,12 @@ LEIDOS, INC.  953630868 -- VA : RESTON
                  : WELLINGTON TRUST TIPS  [042755549-001] C  $47,662,401
     2020
         Assets: $9,618,799,252
-        RecordKeeper: ARONSON LLC
+        Service Providers:
+           - VANGUARD GROUP INC. : $3,768,515   (Recordkeeper | Consulting(general) | Trustee(directed) | Investment advisory(participants) | Participant loan processing | Participant communication | Investment management fees paid indirectly by plan | Other fees)
+           - AETNA : $73,318   (Direct payment from the plan)
+           - ARONSON LLC : $17,000   (Accounting(including auditing))
+        Service Fees:
+           - VANGUARD GROUP INC. : DODGE & COX   $0 | 10 BPS)
         Available Investments:
            - LOOMIS SAYLES & COMPANY LP
                  : LOOMIS SAYLES CORE PLUS FIXED INCOM  [846391546-010] C  $121,309,461
@@ -162,7 +181,11 @@ LEIDOS, INC.  953630868 -- VA : RESTON
                  : WELLINGTON TRUST TIPS  [042755549-001] C  $34,151,930
     2019
         Assets: $8,243,970,664
-        RecordKeeper: RICKY3STICKS, LLC
+        Service Providers:
+           - VANGUARD GROUP INC. : $1,798,489   (Recordkeeper | Consulting(general) | Trustee(directed) | Investment advisory(participants) | Participant communication | Investment management fees paid indirectly by plan)
+           - RICKY3STICKS, LLC : $13,930   (Participant communication)
+        Service Fees:
+           - VANGUARD GROUP INC. : DODGE & COX   $0 | 10 BPS)
         Available Investments:
            - LOOMIS SAYLES & COMPANY LP
                  : LOOMIS SAYLES CORE PLUS FIXED INCOM  [846391546-010] C  $135,851,581
@@ -191,4 +214,4 @@ LEIDOS, INC.  953630868 -- VA : RESTON
         Participants: 326  Average: $85,972
         Assets: $28,027,010
         Service Providers:
-           -  :  (Investment management)
+           -  : $163,145   (Investment management)

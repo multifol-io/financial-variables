@@ -1,8 +1,11 @@
 INVESCO ASSET MANAGEMENT  273783895 -- GA : ATLANTA
-  [Other] INVESCO INSTITUTIONAL TRUST BALANCED-RISK ALLOCATION FUND
+  [Other] INVESCO INSTITUTIONAL TRUST BALANCED-RISK ALLOCATION FUND [273783895-001]
     2022
         Assets: $319,419,830
-        RecordKeeper: NORTHEAST RETIREMENT SERVICES LLC
+        Service Providers:
+           - STATE STREET BANK & TRUST COMPANY : $58,016  TRUSTEE (Custodial(securities) | Trustee(directed) | Valuation(appraisals, etc.))
+           - PRICEWATERHOUSECOOPERS LLP : $50,189   (Accounting(including auditing))
+           - NORTHEAST RETIREMENT SERVICES LLC : $32,137   (Recordkeeper)
         Available Investments:
            - INVESCO ADVISERS, INC.
                  : INVESCO GOVERNMENT LIQUIDITY FUND  [815285123-001] E  $141,400,000
@@ -11,7 +14,12 @@ INVESCO ASSET MANAGEMENT  273783895 -- GA : ATLANTA
  -- MO : KANSAS CITY
     2021
         Assets: $325,935,653
-        RecordKeeper: PRICEWATERHOUSECOOPERS LLP
+        Service Providers:
+           - NORTHEAST RETIREMENT SERVICES LLC : $41,751   (Recordkeeper)
+           - STATE STREET BANK & TRUST COMPANY : $35,157  TRUSTEE (Custodial(securities) | Trustee(directed) | Valuation(appraisals, etc.))
+           - PRICEWATERHOUSECOOPERS LLP : $27,158   (Accounting(including auditing))
+        Service Fees:
+           - STATE STREET BANK & TRUST COMPANY : INVESCO INSTITUTIONAL TRUST BALANCE   $0 | OPERATING EXPENSES OF 20 BASIS POINTS)
         Available Investments:
            - INVESCO ADVISERS, INC.
                  : INVESCO GOVERNMENT LIQUIDITY FUND  [815285123-001] E  $142,300,000
@@ -19,7 +27,12 @@ INVESCO ASSET MANAGEMENT  273783895 -- GA : ATLANTA
                  : INVESCO FIXED INC ST INVESTMENT FD  [810930894-001] E  $120,164,026
     2020
         Assets: $271,237,736
-        RecordKeeper: STATE STREET BANK & TRUST COMPANY
+        Service Providers:
+           - PRICEWATERHOUSECOOPERS LLP : $55,874   (Accounting(including auditing))
+           - NORTHEAST RETIREMENT SERVICES LLC : $46,050   (Recordkeeper)
+           - STATE STREET BANK & TRUST COMPANY : $9,087  TRUSTEE (Custodial(securities) | Trustee(directed) | Valuation(appraisals, etc.))
+        Service Fees:
+           - STATE STREET BANK & TRUST COMPANY : INVESCO INSTITUTIONAL TRUST BALANCE   $0 | OPERATING EXPENSES OF 20 BASIS POINTS)
         Available Investments:
            - INVESCO ADVISERS, INC.
                  : INVESCO GOVERNMENT LIQUIDITY FUND  [815285123-001] E  $117,900,000
@@ -28,7 +41,12 @@ INVESCO ASSET MANAGEMENT  273783895 -- GA : ATLANTA
  -- GA : ATLANTA
     2019
         Assets: $945,174,489
-        RecordKeeper: STATE STREET BANK & TRUST COMPANY
+        Service Providers:
+           - PRICEWATERHOUSECOOPERS LLP : $75,323   (Accounting(including auditing))
+           - NORTHEAST RETIREMENT SERVICES LLC : $52,197   (Recordkeeper)
+           - STATE STREET BANK & TRUST COMPANY : $30,539  TRUSTEE (Custodial(securities) | Trustee(directed) | Valuation(appraisals, etc.))
+        Service Fees:
+           - STATE STREET BANK & TRUST COMPANY : INVESCO INSTITUTIONAL TRUST BALANCE   $0 | OPERATING EXPENSES OF 20 BASIS POINTS)
         Available Investments:
            - INVESCO ADVISERS, INC.
                  : INVESCO GOVERNMENT LIQUIDITY FUND  [815285123-001] E  $415,400,000
@@ -37,7 +55,12 @@ INVESCO ASSET MANAGEMENT  273783895 -- GA : ATLANTA
  -- MO : KANSAS CITY
     2018
         Assets: $1,199,731,854
-        RecordKeeper: PRICEWATERHOUSECOOPERS LLP
+        Service Providers:
+           - STATE STREET BANK & TRUST COMPANY : $170,019  TRUSTEE (Custodial(securities) | Trustee(directed) | Valuation(appraisals, etc.))
+           - NORTHEAST RETIREMENT SERVICES LLC : $54,166   (Recordkeeper | Direct payment from the plan)
+           - PRICEWATERHOUSECOOPERS LLP : $48,112   (Accounting(including auditing) | Direct payment from the plan)
+        Service Fees:
+           - STATE STREET BANK & TRUST COMPANY : INVESCO INSTITUTIONAL TRUST BALANCE   $0 | OPERATING EXPENSES OF 20 BASIS POINTS)
         Available Investments:
            - INVESCO ADVISERS, INC.
                  : INVESCO GOVERNMENT LIQUIDITY FUND  [815285123-001] E  $585,600,000
@@ -45,7 +68,12 @@ INVESCO ASSET MANAGEMENT  273783895 -- GA : ATLANTA
                  : INVESCO FIXED INC ST INVESTMENT FD  [810930894-001] E  $442,749,687
     2017
         Assets: $2,121,075,043
-        RecordKeeper: PRICEWATERHOUSECOOPERS LLP
+        Service Providers:
+           - STATE STREET BANK & TRUST COMPANY : $297,900  TRUSTEE (Investment management | Investment management fees paid indirectly by plan)
+           - NORTHEAST RETIREMENT SERVICES LLC : $68,112   (Recordkeeper)
+           - PRICEWATERHOUSECOOPERS LLP : $60,774   (Accounting(including auditing))
+        Service Fees:
+           - STATE STREET BANK & TRUST COMPANY : INVESCO INSTITUTIONAL TRUST BALANCE   $0 | OPERATING EXPENSE OF 20BPS.)
         Available Investments:
            - INVESCO ADVISERS, INC.
                  : INVESCO GOVERNMENT LIQUIDITY FUND  [815285123-001] E  $987,600,000

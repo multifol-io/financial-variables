@@ -1,8 +1,19 @@
 GLOBAL TRUST COMPANY  611865746 -- MA : WOBURN
-  [Other] CAHABA PARTNERS EQUITY PLUS FUND
+  [Other] CAHABA PARTNERS EQUITY PLUS FUND [611865746-001]
     2022
         Assets: $2,391,720,696
-        RecordKeeper: STATE STREET BANK AND TRUST
+        Service Providers:
+           - PARAMETRIC PORTFOLIO ASSOCIATES : $1,896,367  SUBADVISOR (Investment advisory(participants))
+           - GLOBAL TRUST COMPANY : $1,323,856  TRUSTEE ()
+           - NORTHEAST RETIREMENT SYSTEMS : $110,635  TRANSFER AGENT (Recordkeeper)
+           - PRICE WATERHOUSE COOPERS : $91,000  AUDITOR (Accounting(including auditing))
+           - STATE STREET BANK AND TRUST : $88,022  CUSTODIAN (Custodial(securities) | Custodial(other than securities) | Recordkeeper)
     2021
         Assets: $2,693,183,071
-        RecordKeeper: PRICE WATERHOUSE COOPERS
+        Service Providers:
+           - GLOBAL TRUST COMPANY : $1,309,275  TRUSTEE (Trustee(bank, trust company, or similar))
+           - PARAMETRIC PORTFOLIO ASSOCIATES : $1,070,688  SUBADVISOR (Investment advisory(participants))
+           - LOGAN CIRCLE PARTNERS : $1,068,162  SUBADVISOR (Investment advisory(participants))
+           - NORTHEAST RETIREMENT SYSTEMS : $102,662  TRANSFER AGENT (Recordkeeper)
+           - STATE STREET BANK AND TRUST : $90,712  CUSTODIAN (Custodial(securities) | Custodial(other than securities) | Recordkeeper)
+           - PRICE WATERHOUSE COOPERS : $85,955  AUDITOR (Accounting(including auditing))

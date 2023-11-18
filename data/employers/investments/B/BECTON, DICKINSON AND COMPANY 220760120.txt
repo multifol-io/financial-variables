@@ -3,21 +3,30 @@ BECTON, DICKINSON AND COMPANY  220760120 -- NJ : FRANKLIN LAKES
     2022  [codes: 2E2F2G2J2K2P2S2T]
         Participants: 33,886  Average: $137,329
         Assets: $4,653,539,437
-        RecordKeeper: HOLLAND AND KNIGHT
+        Service Providers:
+           - FID INV INST OPS CO : $1,455,647  RECORDKEEPER (Recordkeeper | Participant loan processing | Direct payment from the plan | Recordkeeping fees | Account maintenance fees)
+           - HOLLAND AND KNIGHT : $404,345  LEGAL (Legal | Direct payment from the plan)
+        Service Fees:
+           - FID INV INST OPS CO : ABF BW LG CP VAL R5 DST ASSET MANAG   $0 | .04%)
+           - FID INV INST OPS CO : BAIRD AGGR BOND INST US BANCORP FUN   $0 | .02%)
         Available Investments:
            - BECTON, DICKINSON AND COMPANY
                  : BD DEFINED CONTRIBUTION PLAN MST TR  [220760120-001] M  $4,545,679,504
     2021
         Participants: 32,919  Average: $169,749
         Assets: $5,587,977,917
-        RecordKeeper: HOLLAND AND KNIGHT
+        Service Providers:
+           - FID INV INST OPS CO : $1,803,048  RECORDKEEPER (Recordkeeper | Participant loan processing | Direct payment from the plan | Recordkeeping fees | Account maintenance fees)
+           - HOLLAND AND KNIGHT : $287,807  LEGAL (Legal | Direct payment from the plan)
         Available Investments:
            - BECTON, DICKINSON AND COMPANY
                  : BD DEFINED CONTRIBUTION PLAN MST TR  [220760120-001] M  $5,487,406,936
     2020
         Participants: 31,039  Average: $160,968
         Assets: $4,996,292,633
-        RecordKeeper: HOLLAND AND KNIGHT
+        Service Providers:
+           - FID INV INST OPS CO : $1,745,644  RECORDKEEPER (Recordkeeper | Participant loan processing | Direct payment from the plan | Recordkeeping fees | Account maintenance fees)
+           - HOLLAND AND KNIGHT : $221,096  LEGAL (Legal | Direct payment from the plan)
         Available Investments:
            - BECTON, DICKINSON AND COMPANY
                  : BD DEFINED CONTRIBUTION PLAN MST TR  [220760120-001] M  $4,909,332,430
@@ -49,7 +58,11 @@ BECTON, DICKINSON AND COMPANY  220760120 -- NJ : FRANKLIN LAKES
     2018
         Participants: 28,119  Average: $112,130
         Assets: $3,152,993,431
-        RecordKeeper: FIIOC, INC.
+        Service Providers:
+           - FIIOC, INC. : $189,165  RECORDKEEPER (Participant loan processing | Recordkeeping fees | Account maintenance fees)
+        Service Fees:
+           - FIIOC, INC. : ABF BW LG CP VAL INS-BOSTON FINANC   $0 | .04%)
+           - FIIOC, INC. : BAIRD AGGR BOND INST-US BANCORP FUN   $0 | .02%)
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
                  : LIFEPATH INDEX 2020 FUND F  [710986422-001] C  $0
@@ -90,7 +103,14 @@ BECTON, DICKINSON AND COMPANY  220760120 -- NJ : FRANKLIN LAKES
     2017
         Participants: 22,287  Average: $147,932
         Assets: $3,296,966,710
-        RecordKeeper: BLACKROCK INSTITUTIONAL TRUST CO
+        Service Providers:
+           - STATE STREET GLOBAL ADVISORS : $267,815  INVESTMENT MGR (Consulting(general) | Investment management | Investment management fees paid directly by plan)
+           - INVESCO TRUST CO : $192,814  INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan)
+           - FIIOC, INC. : $150,480  RECORDKEEPER (Participant loan processing | Recordkeeping fees | Account maintenance fees)
+           - BLACKROCK INSTITUTIONAL TRUST CO : $120,332  INVESTMENT MANAGER (Investment management | Direct payment from the plan | Investment management fees paid directly by plan)
+        Service Fees:
+           - FIIOC, INC. : ABF BW LG CP VAL INS-BOSTON FINANC   $0 | .04%)
+           - FIIOC, INC. : BAIRD AGGR BOND INST-US BANCORP FUN   $0 | .02%)
         Available Investments:
            - BLACKROCK INSITUTIONAL TRUST COMPANY NA
                  : LIFEPATH INDEX 2040 FUND F  [710986419-001] C  $182,289,752
@@ -144,17 +164,17 @@ BECTON, DICKINSON AND COMPANY  220760120 -- NJ : FRANKLIN LAKES
     2021  [codes: ]
         Assets: $1,649,149,231
         Service Providers:
-           - GOLDMAN SACHS ASSET MANAGEMENT : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | Non - monetary compensation | 'Soft dollars' commissions)
-           - NORTHERN TRUST COMPANY : TRUSTEE/CUSTODIAN (Custodial(securities) | Trustee(bank, trust company, or similar) | Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | Float revenue | Securities brokerage commissions and fees)
-           - HOLLAND & KNIGHT LLP : LEGAL (Legal | Direct payment from the plan)
-           - PGIM, INC : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | 'Soft dollars' commissions)
-           - COHEN AND STEERS CAPITAL MANAGEMENT : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - RREEF MIDAMERICA LLC : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - STATE STREET RESEARCH & MANAGEMENT : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - WELLINGTON TRUST COMPANY : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - PINEBRIDGE INVESTMENTS : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - WILLIS TOWERS WATSON : ACTUARY (Actuarial | Direct payment from the plan)
-           - MILLER ZINN : PRINTING SERVICES (Consulting(general) | Direct payment from the plan)
+           - GOLDMAN SACHS ASSET MANAGEMENT : $2,690,617  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | Non - monetary compensation | 'Soft dollars' commissions)
+           - NORTHERN TRUST COMPANY : $765,035  TRUSTEE/CUSTODIAN (Custodial(securities) | Trustee(bank, trust company, or similar) | Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | Float revenue | Securities brokerage commissions and fees)
+           - HOLLAND & KNIGHT LLP : $464,657  LEGAL (Legal | Direct payment from the plan)
+           - PGIM, INC : $372,687  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | 'Soft dollars' commissions)
+           - COHEN AND STEERS CAPITAL MANAGEMENT : $152,470  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - RREEF MIDAMERICA LLC : $150,611  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - STATE STREET RESEARCH & MANAGEMENT : $66,816  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - WELLINGTON TRUST COMPANY : $54,395  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - PINEBRIDGE INVESTMENTS : $36,958  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - WILLIS TOWERS WATSON : $18,953  ACTUARY (Actuarial | Direct payment from the plan)
+           - MILLER ZINN : $15,151  PRINTING SERVICES (Consulting(general) | Direct payment from the plan)
         Available Investments:
            - BOSTON PARTNERS TRUST COMPANY
                  : ROBECO GLOBAL EMERGING MKT EQUITY  [320291796-001] C  $30,606,894
@@ -177,17 +197,17 @@ BECTON, DICKINSON AND COMPANY  220760120 -- NJ : FRANKLIN LAKES
     2020
         Assets: $2,185,167,315
         Service Providers:
-           - GOLDMAN SACHS ASSET MANAGEMENT : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | Non - monetary compensation | 'Soft dollars' commissions)
-           - NORTHERN TRUST COMPANY : TRUSTEE/CUSTODIAN (Custodial(securities) | Trustee(bank, trust company, or similar) | Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | Float revenue | Securities brokerage commissions and fees)
-           - HOLLAND & KNIGHT LLP : LEGAL (Legal | Direct payment from the plan)
-           - PGIM, INC : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | 'Soft dollars' commissions)
-           - RREEF MIDAMERICA LLC : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - WILLIS TOWERS WATSON : ACTUARY (Actuarial | Direct payment from the plan)
-           - COHEN AND STEERS CAPITAL MANAGEMENT : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - STATE STREET RESEARCH & MANAGEMENT : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - WELLINGTON TRUST COMPANY : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - BUCK GLOBAL, LLC : CONSULTING (Consulting(general) | Direct payment from the plan)
-           - GLEN POINT CAPITAL : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - GOLDMAN SACHS ASSET MANAGEMENT : $1,914,293  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | Non - monetary compensation | 'Soft dollars' commissions)
+           - NORTHERN TRUST COMPANY : $869,157  TRUSTEE/CUSTODIAN (Custodial(securities) | Trustee(bank, trust company, or similar) | Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | Float revenue | Securities brokerage commissions and fees)
+           - HOLLAND & KNIGHT LLP : $594,334  LEGAL (Legal | Direct payment from the plan)
+           - PGIM, INC : $306,035  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | 'Soft dollars' commissions)
+           - RREEF MIDAMERICA LLC : $219,992  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - WILLIS TOWERS WATSON : $163,128  ACTUARY (Actuarial | Direct payment from the plan)
+           - COHEN AND STEERS CAPITAL MANAGEMENT : $147,728  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - STATE STREET RESEARCH & MANAGEMENT : $101,311  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - WELLINGTON TRUST COMPANY : $58,040  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - BUCK GLOBAL, LLC : $48,276  CONSULTING (Consulting(general) | Direct payment from the plan)
+           - GLEN POINT CAPITAL : $19,803  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
         Available Investments:
            - BOSTON PARTNERS TRUST COMPANY
                  : ROBECO GLOBAL EMERGING MKT EQUITY  [320291796-001] C  $42,934,449
@@ -203,15 +223,15 @@ BECTON, DICKINSON AND COMPANY  220760120 -- NJ : FRANKLIN LAKES
     2019
         Assets: $2,118,893,452
         Service Providers:
-           - GOLDMAN SACHS ASSET MANAGEMENT : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | Non - monetary compensation | 'Soft dollars' commissions)
-           - NORTHERN TRUST COMPANY : TRUSTEE/CUSTODIAN (Custodial(securities) | Trustee(bank, trust company, or similar) | Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | Float revenue | Securities brokerage commissions and fees)
-           - HOLLAND & KNIGHT LLP : LEGAL (Legal | Direct payment from the plan)
-           - STATE STREET RESEARCH & MANAGEMENT : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - COHEN & STEERS CAPITAL MANAGEMENT : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - RREEF MIDAMERICA LLC : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - PGIM : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - WELLINGTON TRUST COMPANY : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - COPPER ROCK CAPITAL PARTNERS LLC : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - GOLDMAN SACHS ASSET MANAGEMENT : $2,836,389  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | Non - monetary compensation | 'Soft dollars' commissions)
+           - NORTHERN TRUST COMPANY : $1,180,584  TRUSTEE/CUSTODIAN (Custodial(securities) | Trustee(bank, trust company, or similar) | Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | Float revenue | Securities brokerage commissions and fees)
+           - HOLLAND & KNIGHT LLP : $583,183  LEGAL (Legal | Direct payment from the plan)
+           - STATE STREET RESEARCH & MANAGEMENT : $142,367  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - COHEN & STEERS CAPITAL MANAGEMENT : $127,030  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - RREEF MIDAMERICA LLC : $84,487  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - PGIM : $77,376  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - WELLINGTON TRUST COMPANY : $69,557  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - COPPER ROCK CAPITAL PARTNERS LLC : $40,148  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
         Available Investments:
            - BOSTON PARTNERS TRUST COMPANY
                  : ROBECO GLOBAL EMERGING MKT EQUITY  [320291796-001] C  $42,508,509
@@ -229,17 +249,17 @@ BECTON, DICKINSON AND COMPANY  220760120 -- NJ : FRANKLIN LAKES
     2018
         Assets: $2,289,749,870
         Service Providers:
-           - GOLDMAN SACHS ASSET MANAGEMENT : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | Non - monetary compensation | 'Soft dollars' commissions)
-           - NORTHERN TRUST COMPANY : TRUSTEE/CUSTODIAN (Custodial(securities) | Trustee(bank, trust company, or similar) | Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | Float revenue | Securities brokerage commissions and fees)
-           - RREEF MIDAMERICA LLC : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - COPPER ROCK CAPITAL PARTNERS LLC : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - WELLS CAPITAL MANAGEMENT INC : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | 'Soft dollars' commissions)
-           - STATE STREET RESEARCH & MANAGEMENT : INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan)
-           - WELLINGTON TRUST COMPANY : INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan | 'Soft dollars' commissions)
-           - BLACKROCK : INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan)
-           - GLEN POINT : INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan)
-           - STATE STREET GLOBAL ADVISORS : CUSTODIAN/INVESTMENT MGR (Custodial(other than securities) | Custodial(securities) | Investment management | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | 'Soft dollars' commissions)
-           - BREVAN HOWARD : INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan)
+           - GOLDMAN SACHS ASSET MANAGEMENT : $3,175,934  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | Non - monetary compensation | 'Soft dollars' commissions)
+           - NORTHERN TRUST COMPANY : $722,956  TRUSTEE/CUSTODIAN (Custodial(securities) | Trustee(bank, trust company, or similar) | Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | Float revenue | Securities brokerage commissions and fees)
+           - RREEF MIDAMERICA LLC : $174,166  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - COPPER ROCK CAPITAL PARTNERS LLC : $161,523  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - WELLS CAPITAL MANAGEMENT INC : $112,010  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | 'Soft dollars' commissions)
+           - STATE STREET RESEARCH & MANAGEMENT : $84,881  INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan)
+           - WELLINGTON TRUST COMPANY : $72,428  INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan | 'Soft dollars' commissions)
+           - BLACKROCK : $25,571  INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan)
+           - GLEN POINT : $20,460  INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan)
+           - STATE STREET GLOBAL ADVISORS : $14,419  CUSTODIAN/INVESTMENT MGR (Custodial(other than securities) | Custodial(securities) | Investment management | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | 'Soft dollars' commissions)
+           - BREVAN HOWARD : $8,055  INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan)
         Available Investments:
            - BOSTON PARTNERS TRUST COMPANY
                  : ROBECO GLOBAL EMERGING MKT EQUITY  [320291796-001] C  $43,049,531
@@ -260,14 +280,14 @@ BECTON, DICKINSON AND COMPANY  220760120 -- NJ : FRANKLIN LAKES
     2017
         Assets: $1,845,721,888
         Service Providers:
-           - GOLDMAN SACHS ASSET MANAGEMENT : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | Non - monetary compensation | 'Soft dollars' commissions)
-           - NORTHERN TRUST COMPANY : TRUSTEE/CUSTODIAN (Custodial(securities) | Trustee(bank, trust company, or similar) | Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | Float revenue | Securities brokerage commissions and fees)
-           - WELLS CAPITAL MANAGEMENT INC : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | 'Soft dollars' commissions)
-           - COPPER ROCK CAPITAL PARTNERS LLC : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - RREEF MIDAMERICA LLC : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - WELLINGTON TRUST COMPANY : INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan | 'Soft dollars' commissions)
-           - STATE STREET GLOBAL ADVISORS TRUST : INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan)
-           - GRAHAM CAPITAL MANAGEMENT, LP : INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan)
+           - GOLDMAN SACHS ASSET MANAGEMENT : $1,719,257  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | Non - monetary compensation | 'Soft dollars' commissions)
+           - NORTHERN TRUST COMPANY : $697,155  TRUSTEE/CUSTODIAN (Custodial(securities) | Trustee(bank, trust company, or similar) | Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | Float revenue | Securities brokerage commissions and fees)
+           - WELLS CAPITAL MANAGEMENT INC : $167,635  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | 'Soft dollars' commissions)
+           - COPPER ROCK CAPITAL PARTNERS LLC : $162,334  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - RREEF MIDAMERICA LLC : $118,326  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - WELLINGTON TRUST COMPANY : $62,449  INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan | 'Soft dollars' commissions)
+           - STATE STREET GLOBAL ADVISORS TRUST : $67,727  INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan)
+           - GRAHAM CAPITAL MANAGEMENT, LP : $37,631  INVESTMENT MANAGER (Investment management | Investment management fees paid directly by plan)
         Available Investments:
            - SEI TRUST COMPANY
                  : FISHER INVESTMENTS COLLECTIVE TRUST  [455393186-058] C  $19,571,248
@@ -284,7 +304,10 @@ BECTON, DICKINSON AND COMPANY  220760120 -- NJ : FRANKLIN LAKES
     2022
         Assets: $4,602,229,218
         Service Providers:
-           - FID INV INST OPS CO : INV. ADVISORY (Investment advisory(plan) | Direct payment from the plan)
+           - FID INV INST OPS CO : $3,057,020  INV. ADVISORY (Investment advisory(plan) | Direct payment from the plan)
+        Service Fees:
+           - FID INV INST OPS CO : ABF BW LG CAP VAL INS   $0 | 0.04%)
+           - FID INV INST OPS CO : BAIRD AGGR BOND INST   $0 | 0.02%)
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
                  : LIFEPATH INDEX 2025 FUND N  [821483157-001] C  $208,107,274
@@ -307,7 +330,10 @@ BECTON, DICKINSON AND COMPANY  220760120 -- NJ : FRANKLIN LAKES
     2021
         Assets: $5,552,753,844
         Service Providers:
-           - FID INV INST OPS CO : INV. ADVISORY (Investment advisory(plan))
+           - FID INV INST OPS CO : $1,903,246  INV. ADVISORY (Investment advisory(plan))
+        Service Fees:
+           - FID INV INST OPS CO : ABF BW LG CAP VAL INS   $0 | 0.04%)
+           - FID INV INST OPS CO : BAIRD AGGR BOND INST   $0 | 0.02%)
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
                  : LIFEPATH INDEX 2025 FUND N  [821483157-001] C  $270,311,409
@@ -329,7 +355,11 @@ BECTON, DICKINSON AND COMPANY  220760120 -- NJ : FRANKLIN LAKES
                  : ENHANCED US SMALL CAP BLEND SL SF  [900337987-115] C  $178,635,914
     2020
         Assets: $4,967,470,811
-        RecordKeeper: FID INV INST OPS CO
+        Service Providers:
+           - FID INV INST OPS CO : $872,099  RECORDKEEPER (Recordkeeper | Participant loan processing | Direct payment from the plan | Recordkeeping fees | Account maintenance fees)
+        Service Fees:
+           - FID INV INST OPS CO : ABF BW LG CAP VAL INS   $0 | 0.04%)
+           - FID INV INST OPS CO : BAIRD AGGR BOND INST   $0 | 0.02%)
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
                  : LIFEPATH INDEX 2025 FUND N  [821483157-001] C  $258,886,993
@@ -351,7 +381,12 @@ BECTON, DICKINSON AND COMPANY  220760120 -- NJ : FRANKLIN LAKES
                  : ENHANCED US SMALL CAP BLEND SL SF  [900337987-115] C  $143,006,605
     2019
         Assets: $4,521,365,153
-        RecordKeeper: HOLLAND AND KNIGHT
+        Service Providers:
+           - FID INV INST OPS CO : $1,050,072  RECORDKEEPER (Recordkeeper | Participant loan processing | Direct payment from the plan | Recordkeeping fees | Account maintenance fees)
+           - HOLLAND AND KNIGHT : $168,696  LEGAL (Legal | Direct payment from the plan)
+        Service Fees:
+           - FID INV INST OPS CO : ABF BW LG CAP VAL INS   $0 | 0.04%)
+           - FID INV INST OPS CO : BAIRD AGGR BOND INST   $0 | 0.02%)
         Available Investments:
            - BLACKROCK INSTITUTIONAL TRUST COMPANY, N.A.
                  : LIFEPATH INDEX 2025 FUND N  [821483157-001] C  $246,047,120
@@ -397,17 +432,17 @@ BECTON, DICKINSON AND COMPANY  220760120 -- NJ : FRANKLIN LAKES
         Participants: 25,768  Average: $59,664
         Assets: $1,537,426,081
         Service Providers:
-           - GOLDMAN SACHS ASSET MANAGEMENT : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | Non - monetary compensation | 'Soft dollars' commissions)
-           - NORTHERN TRUST COMPANY : TRUSTEE/CUSTODIAN (Custodial(securities) | Trustee(bank, trust company, or similar) | Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | Float revenue | Securities brokerage commissions and fees)
-           - HOLLAND & KNIGHT LLP : LEGAL (Legal | Direct payment from the plan)
-           - PGIM, INC : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | 'Soft dollars' commissions)
-           - COHEN AND STEERS CAPITAL MANAGEMENT : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - RREEF MIDAMERICA LLC : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - STATE STREET RESEARCH & MANAGEMENT : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - WELLINGTON TRUST COMPANY : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - PINEBRIDGE INVESTMENTS : INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
-           - WILLIS TOWERS WATSON : ACTUARY (Actuarial | Direct payment from the plan)
-           - MILLER ZINN : PRINTING SERVICES (Consulting(general) | Direct payment from the plan)
+           - GOLDMAN SACHS ASSET MANAGEMENT : $2,690,617  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | Non - monetary compensation | 'Soft dollars' commissions)
+           - NORTHERN TRUST COMPANY : $765,035  TRUSTEE/CUSTODIAN (Custodial(securities) | Trustee(bank, trust company, or similar) | Investment management | Securities brokerage | Direct payment from the plan | Investment management fees paid directly by plan | Investment management fees paid indirectly by plan | Float revenue | Securities brokerage commissions and fees)
+           - HOLLAND & KNIGHT LLP : $464,657  LEGAL (Legal | Direct payment from the plan)
+           - PGIM, INC : $372,687  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan | 'Soft dollars' commissions)
+           - COHEN AND STEERS CAPITAL MANAGEMENT : $152,470  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - RREEF MIDAMERICA LLC : $150,611  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - STATE STREET RESEARCH & MANAGEMENT : $66,816  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - WELLINGTON TRUST COMPANY : $54,395  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - PINEBRIDGE INVESTMENTS : $36,958  INVESTMENT MANAGEMENT (Investment management | Investment management fees paid directly by plan)
+           - WILLIS TOWERS WATSON : $18,953  ACTUARY (Actuarial | Direct payment from the plan)
+           - MILLER ZINN : $15,151  PRINTING SERVICES (Consulting(general) | Direct payment from the plan)
         Available Investments:
            - BECTON DICKINSON AND COMPANY
                  : BECTON DICKINSON MASTER RET TRUST  [220760120-050] M  $0
