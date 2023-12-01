@@ -780,35 +780,6 @@ WASHINGTON PERMANENTE MEDICAL GROUP, P.C.  911841629 -- BusinessCode: 621111 -- 
                  : GROUP HEALTH MASTER TRUST  [860937960-001] M  $387,707,337
            = SUBTOTAL       $    387,707,337
            = OTHER          $      5,181,168
- -- WA : RENTON
-  [Dental] DENTAL PLAN [911841629-506]
-    2018  [codes: 4D]    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/10/20191010151855P030037632447001.pdf
-        Participants: 1,378
- -- WA : SEATTLE
-    2017    https://efast2-filings-public.s3.amazonaws.com/prd/2018/10/12/20181012124054P040088075743001.pdf
- -- WA : RENTON
-  [Healthcare] HEALTH CARE FLEXIBLE SPENDING ACCOUNT [911841629-513]
-    2018  [codes: 4A]    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/10/20191010152346P030003444201001.pdf
-        Participants: 524
- -- WA : SEATTLE
-    2017    https://efast2-filings-public.s3.amazonaws.com/prd/2018/10/12/20181012124448P030094973295001.pdf
- -- WA : RENTON
-  [Healthcare] GROUP MEDICAL COVERAGE [911841629-516]
-    2018    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/10/20191010152508P030047837021001.pdf
-        Participants: 1,358
- -- WA : SEATTLE
-    2017    https://efast2-filings-public.s3.amazonaws.com/prd/2018/10/12/20181012124545P040250882679001.pdf
- -- WA : RENTON
-  [Life insurance, Long-term disability] LONG TERM DISABILITY PLAN [911841629-508]
-    2018  [codes: 4B4H4Q]    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/10/20191010152026P030047830717001.pdf
-        Participants: 1,275
-  [Life insurance, Long-term disability] LIFE AND ACCIDENTAL DEATH AND DISMEMBERMENT PLAN [911841629-509]
-    2018    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/10/20191010152211P030047832189001.pdf
-        Participants: 1,275
- -- WA : SEATTLE
-    2017  [codes: 4B4H4L]    https://efast2-filings-public.s3.amazonaws.com/prd/2018/10/12/20181012124352P040008096153001.pdf
-  [Long-term disability] LONG TERM DISABILITY PLAN [911841629-508]
-    2017  [codes: 4H]    https://efast2-filings-public.s3.amazonaws.com/prd/2018/10/12/20181012124228P030261620945001.pdf
   [Other] WASHINGTON PERMANENTE MEDICAL GROUP PENSION PLAN [911841629-002]
     2017  [codes: 2C2F2G2R2T]    https://efast2-filings-public.s3.amazonaws.com/prd/2018/9/30/20180930163228P030228796977001.pdf
         Participants: 1,621  Average: $374,564
@@ -825,25 +796,6 @@ WASHINGTON PERMANENTE MEDICAL GROUP, P.C.  911841629 -- BusinessCode: 621111 -- 
                  : GROUP HEALTH MASTER TRUST  [860937960-001] M  $606,093,492
            = SUBTOTAL       $    606,093,492
            = OTHER          $      1,075,376
- -- WA : RENTON
-  [Other] GROUP LONG TERM CARE [911841629-523]
-    2018  [codes: 4Q]    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/10/20191010152631P040072793463001.pdf
-        Participants: 1,323
- -- WA : SEATTLE
-  [Other] GROUP LONG TERM CARE PLAN
-    2017    https://efast2-filings-public.s3.amazonaws.com/prd/2018/10/12/20181012124651P040269328913001.pdf
- -- WA : RENTON
-  [Other] WASHINGTON PERMANENTE MEDICAL GROUP INDIVIDUAL DISABILITY INSURANCE PLAN [911841629-524]
-    2018    https://efast2-filings-public.s3.amazonaws.com/prd/2020/10/2/20201002154332NAL0009193520001.pdf
-        Participants: 598
- -- WA : SEATTLE
-    2017    https://efast2-filings-public.s3.amazonaws.com/prd/2018/10/12/20181012124806P040088080847001.pdf
- -- WA : RENTON
-  [Other] WASHINGTON PERMANENTE MEDICAL GROUP WELL BEING PLAN [911841629-526]
-    2018    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/10/20191010152901P030070093911001.pdf
-        Participants: 1,293
- -- WA : SEATTLE
-    2017    https://efast2-filings-public.s3.amazonaws.com/prd/2018/10/12/20181012124935P040163273133001.pdf
  -- WA : RENTON
   [Pension] WASHINGTON PERMANENTE MEDICAL GROUP CASH BALANCE PENSION PLAN [911841629-003]
     2022  [codes: 1A1C3F]    https://efast2-filings-public.s3.amazonaws.com/prd/2023/10/12/20231012174613NAL0021882755001.pdf
@@ -931,3 +883,51 @@ WASHINGTON PERMANENTE MEDICAL GROUP, P.C.  911841629 -- BusinessCode: 621111 -- 
                  : PRUDENTIAL CORE PLUS BOND FUND  [236994310-165] C  $27,822,656
            = SUBTOTAL       $     27,822,656
            = OTHER          $     26,582,636
+  [Dental] DENTAL PLAN [911841629-506]
+    2018  [codes: 4D]    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/10/20191010151855P030037632447001.pdf
+        Participants: 1,378
+ -- WA : SEATTLE
+    2017    https://efast2-filings-public.s3.amazonaws.com/prd/2018/10/12/20181012124054P040088075743001.pdf
+ -- WA : RENTON
+  [Life insurance, Long-term disability] LONG TERM DISABILITY PLAN [911841629-508]
+    2018  [codes: 4B4H4Q]    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/10/20191010152026P030047830717001.pdf
+        Participants: 1,275
+ -- WA : SEATTLE
+    2017  [codes: 4H]    https://efast2-filings-public.s3.amazonaws.com/prd/2018/10/12/20181012124228P030261620945001.pdf
+ -- WA : RENTON
+  [Life insurance, Long-term disability] LIFE AND ACCIDENTAL DEATH AND DISMEMBERMENT PLAN [911841629-509]
+    2018  [codes: 4B4H4Q]    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/10/20191010152211P030047832189001.pdf
+        Participants: 1,275
+ -- WA : SEATTLE
+    2017  [codes: 4B4H4L]    https://efast2-filings-public.s3.amazonaws.com/prd/2018/10/12/20181012124352P040008096153001.pdf
+ -- WA : RENTON
+  [Healthcare] HEALTH CARE FLEXIBLE SPENDING ACCOUNT [911841629-513]
+    2018  [codes: 4A]    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/10/20191010152346P030003444201001.pdf
+        Participants: 524
+ -- WA : SEATTLE
+    2017    https://efast2-filings-public.s3.amazonaws.com/prd/2018/10/12/20181012124448P030094973295001.pdf
+ -- WA : RENTON
+  [Healthcare] GROUP MEDICAL COVERAGE [911841629-516]
+    2018    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/10/20191010152508P030047837021001.pdf
+        Participants: 1,358
+ -- WA : SEATTLE
+    2017    https://efast2-filings-public.s3.amazonaws.com/prd/2018/10/12/20181012124545P040250882679001.pdf
+ -- WA : RENTON
+  [Other] GROUP LONG TERM CARE [911841629-523]
+    2018  [codes: 4Q]    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/10/20191010152631P040072793463001.pdf
+        Participants: 1,323
+ -- WA : SEATTLE
+  [Other] GROUP LONG TERM CARE PLAN
+    2017    https://efast2-filings-public.s3.amazonaws.com/prd/2018/10/12/20181012124651P040269328913001.pdf
+ -- WA : RENTON
+  [Other] WASHINGTON PERMANENTE MEDICAL GROUP INDIVIDUAL DISABILITY INSURANCE PLAN [911841629-524]
+    2018    https://efast2-filings-public.s3.amazonaws.com/prd/2020/10/2/20201002154332NAL0009193520001.pdf
+        Participants: 598
+ -- WA : SEATTLE
+    2017    https://efast2-filings-public.s3.amazonaws.com/prd/2018/10/12/20181012124806P040088080847001.pdf
+ -- WA : RENTON
+  [Other] WASHINGTON PERMANENTE MEDICAL GROUP WELL BEING PLAN [911841629-526]
+    2018    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/10/20191010152901P030070093911001.pdf
+        Participants: 1,293
+ -- WA : SEATTLE
+    2017    https://efast2-filings-public.s3.amazonaws.com/prd/2018/10/12/20181012124935P040163273133001.pdf

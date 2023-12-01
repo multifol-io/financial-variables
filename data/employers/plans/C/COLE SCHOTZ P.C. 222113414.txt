@@ -104,12 +104,6 @@ COLE SCHOTZ P.C.  222113414 -- BusinessCode: 541110 -- NJ : HACKENSACK
                  : EB MAGIC 75 STABLE VALUE FUND  [346903863-002] C  $0
            = SUBTOTAL       $        365,665
            = OTHER          $     77,869,656
-  [Dental] METROPOLITAN LIFE INSURANCE COMPANY [222113414-601]
-    2022  [codes: 4D]    https://efast2-filings-public.s3.amazonaws.com/prd/2023/7/28/20230728140633NAL0017974704001.pdf
-        Participants: 404
-        Service Providers:
-           - METROPOLITAN LIFE INSURANCE COMPANY : $7,872  INSURANCE PROVIDER (Insurance services)
-           = TOTAL FEES: $7,872 (or $19 per partipant)
   [Healthcare] AETNA LIFE INSURANCE COMPANY [222113414-501]
     2022  [codes: 4A]    https://efast2-filings-public.s3.amazonaws.com/prd/2023/7/28/20230728103053NAL0007927603001.pdf
         Participants: 202
@@ -142,27 +136,6 @@ COLE SCHOTZ P.C.  222113414 -- BusinessCode: 541110 -- NJ : HACKENSACK
            - MERCER HEALTH & BENEFITS, LLC : $49  INSURANCE BROKER/AGENT (Insurance agents and brokers)
            - MERCER HEALTH & BENEFITS, LLC : $1,683  INSURANCE BROKER/AGENT (Insurance agents and brokers)
            = TOTAL FEES: $1,732
-  [Healthcare] SYMETRA LIFE INSURANCE COMPANY [222113414-504]
-    2022    https://efast2-filings-public.s3.amazonaws.com/prd/2023/7/28/20230728131729NAL0007250291001.pdf
-        Participants: 202
-        Service Providers:
-           - SYMETRA LIFE INSURANCE COMPANY : $578,384  EXCESS RISK CARRIER (Insurance services)
-           = TOTAL FEES: $578,384 (or $2,863 per partipant)
-  [Healthcare] RELIASTAR LIFE INSURANCE COMPANY
-    2021    https://efast2-filings-public.s3.amazonaws.com/prd/2022/7/28/20220728154134NAL0003221251001.pdf
-        Participants: 198
-        Service Providers:
-           - RELIASTAR LIFE INSURANCE COMPANY : $561,446  EXCESS RISK CARRIER (Insurance services)
-           = TOTAL FEES: $561,446 (or $2,835 per partipant)
-    2020    https://efast2-filings-public.s3.amazonaws.com/prd/2021/7/27/20210727111326NAL0010929968001.pdf
-        Participants: 174
-        Service Providers:
-           - RELIASTAR LIFE INSURANCE COMPANY : $448,057  EXCESS RISK CARRIER ()
-           = TOTAL FEES: $448,057 (or $2,575 per partipant)
-    2019    https://efast2-filings-public.s3.amazonaws.com/prd/2020/7/29/20200729150322NAL0008925795001.pdf
-        Participants: 174
-        Service Providers:
-           -  : $   ()
   [Life insurance] UNUM LIFE INSURANCE COMPANY OF AMERICA [222113414-502]
     2018  [codes: 4B]    https://efast2-filings-public.s3.amazonaws.com/prd/2019/7/30/20190730150920P030385825831001.pdf
         Participants: 254
@@ -190,7 +163,33 @@ COLE SCHOTZ P.C.  222113414 -- BusinessCode: 541110 -- NJ : HACKENSACK
         Service Providers:
            - UNUM LIFE INSURANCE OF AMERICA : $275,586   (Insurance services)
            = TOTAL FEES: $275,586 (or $642 per partipant)
- [222113414-505]
+    2018  [codes: 4H]    https://efast2-filings-public.s3.amazonaws.com/prd/2019/7/30/20190730153316P040282028541001.pdf
+        Participants: 166
+        Service Providers:
+           - UNUM LIFE INSURANCE CO OF AMERICA : $213,192   (Insurance services)
+           = TOTAL FEES: $213,192 (or $1,284 per partipant)
+  [Healthcare] SYMETRA LIFE INSURANCE COMPANY [222113414-504]
+    2022  [codes: 4A]    https://efast2-filings-public.s3.amazonaws.com/prd/2023/7/28/20230728131729NAL0007250291001.pdf
+        Participants: 202
+        Service Providers:
+           - SYMETRA LIFE INSURANCE COMPANY : $578,384  EXCESS RISK CARRIER (Insurance services)
+           = TOTAL FEES: $578,384 (or $2,863 per partipant)
+  [Healthcare] RELIASTAR LIFE INSURANCE COMPANY
+    2021    https://efast2-filings-public.s3.amazonaws.com/prd/2022/7/28/20220728154134NAL0003221251001.pdf
+        Participants: 198
+        Service Providers:
+           - RELIASTAR LIFE INSURANCE COMPANY : $561,446  EXCESS RISK CARRIER (Insurance services)
+           = TOTAL FEES: $561,446 (or $2,835 per partipant)
+    2020    https://efast2-filings-public.s3.amazonaws.com/prd/2021/7/27/20210727111326NAL0010929968001.pdf
+        Participants: 174
+        Service Providers:
+           - RELIASTAR LIFE INSURANCE COMPANY : $448,057  EXCESS RISK CARRIER ()
+           = TOTAL FEES: $448,057 (or $2,575 per partipant)
+    2019    https://efast2-filings-public.s3.amazonaws.com/prd/2020/7/29/20200729150322NAL0008925795001.pdf
+        Participants: 174
+        Service Providers:
+           -  : $   ()
+  [Life insurance] UNUM LIFE INSURANCE COMPANY OF AMERICA [222113414-505]
     2022  [codes: 4B]    https://efast2-filings-public.s3.amazonaws.com/prd/2023/7/28/20230728112211NAL0007959251001.pdf
         Participants: 120
         Service Providers:
@@ -206,9 +205,9 @@ COLE SCHOTZ P.C.  222113414 -- BusinessCode: 541110 -- NJ : HACKENSACK
         Service Providers:
            - UNUM LIFE INSURANCE OF AMERICA : $81,103   (Insurance services)
            = TOTAL FEES: $81,103 (or $765 per partipant)
- [222113414-503]
-    2018  [codes: 4H]    https://efast2-filings-public.s3.amazonaws.com/prd/2019/7/30/20190730153316P040282028541001.pdf
-        Participants: 166
+  [Dental] METROPOLITAN LIFE INSURANCE COMPANY [222113414-601]
+    2022  [codes: 4D]    https://efast2-filings-public.s3.amazonaws.com/prd/2023/7/28/20230728140633NAL0017974704001.pdf
+        Participants: 404
         Service Providers:
-           - UNUM LIFE INSURANCE CO OF AMERICA : $213,192   (Insurance services)
-           = TOTAL FEES: $213,192 (or $1,284 per partipant)
+           - METROPOLITAN LIFE INSURANCE COMPANY : $7,872  INSURANCE PROVIDER (Insurance services)
+           = TOTAL FEES: $7,872 (or $19 per partipant)

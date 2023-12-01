@@ -159,40 +159,6 @@ STERLING NATIONAL BANK  131726107 -- BusinessCode: 522110 -- NY : JERICHO
                  : SCG/TIMESSQUARE  [061050034-132] P  $0
                  : SCV/SILVERCREST  [061050034-126] P  $0
                  : SCV/TBCAM  [061050034-410] P  $0
- -- NY : PEARL RIVER
-  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] STERLING NATIONAL BANK EMPLOYEE BENEFITS PLAN [131726107-501]
-    2021  [codes: 4A4B4D4E4F4H4L4Q]    https://efast2-filings-public.s3.amazonaws.com/prd/2022/10/17/20221017090047NAL0020530147001.pdf
-    2020  [codes: 4A4B4D4E4F4L4Q]    https://efast2-filings-public.s3.amazonaws.com/prd/2021/10/5/20211005214803NAL0007844579001.pdf
-    2019  [codes: 4A4B4D4E4F4H4L4Q]    https://efast2-filings-public.s3.amazonaws.com/prd/2020/10/8/20201008144701NAL0012766241001.pdf
- -- NY : NEW YORK
-    2018  [codes: 4A4B4D4E4F4H4L]    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/2/20191002122915P030002435033001.pdf
-    2017  [codes: 4A4B4D4E4H]    https://efast2-filings-public.s3.amazonaws.com/prd/2018/9/19/20180919161747P030190010135001.pdf
-  [Healthcare] MEDICAL FULLY INSURED [131726107-504]
-    2018  [codes: 4A]    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/3/20191003130435P030050820689001.pdf
-  [Healthcare] FLEXIBLE SPENDING ACCOUNT [131726107-508]
-    2018    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/3/20191003130746P030053611191001.pdf
- -- NY : JERICHO
-  [Life insurance] STERLING BANCORP BANK OWNED LIFE INSURANCE [131726107-503]
-    2021  [codes: 4B]    https://efast2-filings-public.s3.amazonaws.com/prd/2022/10/17/20221017141655NAL0062572178001.pdf
-        Participants: 98
- -- NY : PEARL RIVER
-  [Life insurance] STERLING BANCORP BANK OWNED LIFE INSURANCE PLAN
-    2020    https://efast2-filings-public.s3.amazonaws.com/prd/2021/10/13/20211013113914NAL0019286321001.pdf
-        Participants: 99
-    2019    https://efast2-filings-public.s3.amazonaws.com/prd/2020/10/15/20201015140524NAL0008448593001.pdf
-        Participants: 103
- -- NY : NEW YORK
-  [Life insurance] STERLING BANCORP BANK OWNED LIFE INSURANCE
-    2018    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/15/20191015102401P030082430487001.pdf
-        Participants: 106
- [131726107-506]
-    2017    https://efast2-filings-public.s3.amazonaws.com/prd/2018/10/12/20181012145058P040251329975001.pdf
-        Participants: 106
-  [Other] EMPLOYEE ASSISTANCE PROGRAM [131726107-505]
-    2018  [codes: 4Q]    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/3/20191003130552P030002600633001.pdf
-  [Other] HYATT LEGAL [131726107-507]
-    2018  [codes: 4G]    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/3/20191003130642P040036359117001.pdf
- -- NY : JERICHO
   [Pension] ASTORIA BANK EMPLOYEES' PENSION PLAN [131726107-009]
     2020  [codes: 1A1I3I]    https://efast2-filings-public.s3.amazonaws.com/prd/2021/3/24/20210324152742NAL0005864867001.pdf
         Participants: 0
@@ -253,9 +219,42 @@ STERLING NATIONAL BANK  131726107 -- BusinessCode: 522110 -- NY : JERICHO
            = EMPLOYER STOCK $     20,553,251
            = OTHER          $     54,036,560
  -- NY : PEARL RIVER
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability, Travel accident] STERLING NATIONAL BANK EMPLOYEE BENEFITS PLAN [131726107-501]
+    2021  [codes: 4A4B4D4E4F4H4L4Q]    https://efast2-filings-public.s3.amazonaws.com/prd/2022/10/17/20221017090047NAL0020530147001.pdf
+    2020  [codes: 4A4B4D4E4F4L4Q]    https://efast2-filings-public.s3.amazonaws.com/prd/2021/10/5/20211005214803NAL0007844579001.pdf
+    2019  [codes: 4A4B4D4E4F4H4L4Q]    https://efast2-filings-public.s3.amazonaws.com/prd/2020/10/8/20201008144701NAL0012766241001.pdf
+ -- NY : NEW YORK
+    2018  [codes: 4A4B4D4E4F4H4L]    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/2/20191002122915P030002435033001.pdf
+    2017  [codes: 4A4B4D4E4H]    https://efast2-filings-public.s3.amazonaws.com/prd/2018/9/19/20180919161747P030190010135001.pdf
+ -- NY : JERICHO
+  [Life insurance] STERLING BANCORP BANK OWNED LIFE INSURANCE [131726107-503]
+    2021  [codes: 4B]    https://efast2-filings-public.s3.amazonaws.com/prd/2022/10/17/20221017141655NAL0062572178001.pdf
+        Participants: 98
+ -- NY : PEARL RIVER
+  [Life insurance] STERLING BANCORP BANK OWNED LIFE INSURANCE PLAN
+    2020    https://efast2-filings-public.s3.amazonaws.com/prd/2021/10/13/20211013113914NAL0019286321001.pdf
+        Participants: 99
+    2019    https://efast2-filings-public.s3.amazonaws.com/prd/2020/10/15/20201015140524NAL0008448593001.pdf
+        Participants: 103
+ -- NY : NEW YORK
+  [Life insurance] STERLING BANCORP BANK OWNED LIFE INSURANCE
+    2018    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/15/20191015102401P030082430487001.pdf
+        Participants: 106
+  [Healthcare] MEDICAL FULLY INSURED [131726107-504]
+    2018  [codes: 4A]    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/3/20191003130435P030050820689001.pdf
+  [Other] EMPLOYEE ASSISTANCE PROGRAM [131726107-505]
+    2018  [codes: 4Q]    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/3/20191003130552P030002600633001.pdf
+ -- NY : PEARL RIVER
   [Severance] STERLING NATIONAL BANK SEVERANCE PAY PLAN [131726107-506]
     2021  [codes: 4I]    https://efast2-filings-public.s3.amazonaws.com/prd/2022/10/17/20221017094003NAL0029536385001.pdf
     2020    https://efast2-filings-public.s3.amazonaws.com/prd/2021/10/5/20211005214817NAL0007844851001.pdf
     2019    https://efast2-filings-public.s3.amazonaws.com/prd/2020/10/8/20201008145058NAL0008990403001.pdf
  -- NY : NEW YORK
     2018    https://efast2-filings-public.s3.amazonaws.com/prd/2019/9/6/20190906140915P030001387369001.pdf
+  [Life insurance] STERLING BANCORP BANK OWNED LIFE INSURANCE
+    2017  [codes: 4B]    https://efast2-filings-public.s3.amazonaws.com/prd/2018/10/12/20181012145058P040251329975001.pdf
+        Participants: 106
+  [Other] HYATT LEGAL [131726107-507]
+    2018  [codes: 4G]    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/3/20191003130642P040036359117001.pdf
+  [Healthcare] FLEXIBLE SPENDING ACCOUNT [131726107-508]
+    2018  [codes: 4A]    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/3/20191003130746P030053611191001.pdf

@@ -169,47 +169,6 @@ AMERICAN PACIFIC CORPORATION  596490478 -- BusinessCode: 324190 -- UT : CEDAR CI
                  : PUTNAM STABLE VALUE 25  [043159710-202] C  $2,060,675
            = SUBTOTAL       $      2,060,675
            = OTHER          $     17,214,461
-  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability] AMERICAN PACIFIC CORPORATION EMPLOYEE HEALTH PLAN [596490478-501]
-    2021  [codes: 4A4B4D4E4F4H4Q]    https://efast2-filings-public.s3.amazonaws.com/prd/2023/4/18/20230418145854NAL0001825586001.pdf
-        Participants: 127
-        Service Providers:
-           - UMR, INC : $61,758  CLAIMS PROCESSING (Claims processing)
-           = TOTAL FEES: $61,758 (or $486 per partipant)
-    2020    https://efast2-filings-public.s3.amazonaws.com/prd/2022/5/19/20220519143257NAL0002294243001.pdf
-        Participants: 126
-        Service Providers:
-           - EMPLOYEE BENEFIT MGMT SERVICES LLC : $48,473  TPA (Contract Administrator)
-           - NAVITUS HEALTH SOLUTIONS : $26,371  RX ADMIN (Claims processing)
-           - LOCKTON COMPANIES LLC : $24,000  BROKER (Insurance agents and brokers)
-           - AETNA SIGNATURE ADMINISTRATORS : $18,170  PPO (Other services)
-           - EMPLOYEE BENEFIT MGMT SERVICES LLC : $7,814  POST-SVC NEGOTIATION (Other fees)
-           = TOTAL FEES: $124,828 (or $990 per partipant)
-    2019    https://efast2-filings-public.s3.amazonaws.com/prd/2021/5/17/20210517115933NAL0024051714001.pdf
-        Participants: 131
-        Service Providers:
-           - LP INSURANCE SERVICES LLC : $12,000  BROKER (Insurance agents and brokers)
-           - EMPLOYEE BENEFIT MGMT SERVICES LLC : $45,408  TPA (Contract Administrator)
-           - NAVITUS HEALTH SOLUTIONS : $24,538  RX ADMIN (Claims processing)
-           - LOCKTON COMPANIES LLC : $12,000  BROKER (Insurance agents and brokers)
-           - AETNA SIGNATURE ADMINISTRATORS : $17,200  PPO (Other services)
-           - EMPLOYEE BENEFIT MGMT SERVICES LLC : $7,500  POST-SVC NEGOTIATION (Other fees)
-           = TOTAL FEES: $118,646 (or $905 per partipant)
-    2018    https://efast2-filings-public.s3.amazonaws.com/prd/2020/3/26/20200326163343NAL0001175793001.pdf
-        Participants: 128
-        Service Providers:
-           - EMPLOYEE BENEFIT MGMT SERVICES LLC : $45,327  TPA (Contract Administrator)
-           - NAVITUS HEALTH SOLUTIONS : $25,580  RX ADMIN (Claims processing)
-           - LP INSURANCE SERVICES LLC : $24,000  BROKER (Insurance agents and brokers)
-           - AETNA SIGNATURE ADMINISTRATORS : $16,918  PPO (Other services)
-           = TOTAL FEES: $111,825 (or $873 per partipant)
-    2017    https://efast2-filings-public.s3.amazonaws.com/prd/2019/4/29/20190429140729P040199473847001.pdf
-        Participants: 128
-        Service Providers:
-           - NAVITUS HEALTH SOLUTIONS : $22,596  RX ADMIN (Claims processing)
-           - L/P INSURANCE SERVICES, INC. : $10,000  BROKER (Insurance agents and brokers)
-           - BARRETT INSURANCE SERVICES : $14,000  BROKER (Insurance agents and brokers)
-           - EMPLOYEE BENEFIT MGMT SERVICES LLC : $42,108  ADMIN FEES (Contract Administrator)
-           = TOTAL FEES: $88,704 (or $693 per partipant)
   [Pension] AMERICAN PACIFIC CORPORATION DEFINED BENEFIT PENSION PLAN [596490478-002]
     2021  [codes: 1A3H]    https://efast2-filings-public.s3.amazonaws.com/prd/2023/7/12/20230712164228NAL0014859315001.pdf
         Participants: 299  Average: $227,611
@@ -258,3 +217,44 @@ AMERICAN PACIFIC CORPORATION  596490478 -- BusinessCode: 324190 -- UT : CEDAR CI
            - RELIANCE TRUST : $27,052  TRUSTEE (Trustee(directed) | Other services | Account maintenance fees | Other fees | Direct payment from the plan)
            - BDO USA, LLP : $18,083  AUDITOR (Accounting(including auditing) | Direct payment from the plan)
            = TOTAL FEES: $293,728 (or $950 per partipant)
+  [Healthcare, Life insurance, Dental, Vision, Short-term disability, Long-term disability] AMERICAN PACIFIC CORPORATION EMPLOYEE HEALTH PLAN [596490478-501]
+    2021  [codes: 4A4B4D4E4F4H4Q]    https://efast2-filings-public.s3.amazonaws.com/prd/2023/4/18/20230418145854NAL0001825586001.pdf
+        Participants: 127
+        Service Providers:
+           - UMR, INC : $61,758  CLAIMS PROCESSING (Claims processing)
+           = TOTAL FEES: $61,758 (or $486 per partipant)
+    2020    https://efast2-filings-public.s3.amazonaws.com/prd/2022/5/19/20220519143257NAL0002294243001.pdf
+        Participants: 126
+        Service Providers:
+           - EMPLOYEE BENEFIT MGMT SERVICES LLC : $48,473  TPA (Contract Administrator)
+           - NAVITUS HEALTH SOLUTIONS : $26,371  RX ADMIN (Claims processing)
+           - LOCKTON COMPANIES LLC : $24,000  BROKER (Insurance agents and brokers)
+           - AETNA SIGNATURE ADMINISTRATORS : $18,170  PPO (Other services)
+           - EMPLOYEE BENEFIT MGMT SERVICES LLC : $7,814  POST-SVC NEGOTIATION (Other fees)
+           = TOTAL FEES: $124,828 (or $990 per partipant)
+    2019    https://efast2-filings-public.s3.amazonaws.com/prd/2021/5/17/20210517115933NAL0024051714001.pdf
+        Participants: 131
+        Service Providers:
+           - LP INSURANCE SERVICES LLC : $12,000  BROKER (Insurance agents and brokers)
+           - EMPLOYEE BENEFIT MGMT SERVICES LLC : $45,408  TPA (Contract Administrator)
+           - NAVITUS HEALTH SOLUTIONS : $24,538  RX ADMIN (Claims processing)
+           - LOCKTON COMPANIES LLC : $12,000  BROKER (Insurance agents and brokers)
+           - AETNA SIGNATURE ADMINISTRATORS : $17,200  PPO (Other services)
+           - EMPLOYEE BENEFIT MGMT SERVICES LLC : $7,500  POST-SVC NEGOTIATION (Other fees)
+           = TOTAL FEES: $118,646 (or $905 per partipant)
+    2018    https://efast2-filings-public.s3.amazonaws.com/prd/2020/3/26/20200326163343NAL0001175793001.pdf
+        Participants: 128
+        Service Providers:
+           - EMPLOYEE BENEFIT MGMT SERVICES LLC : $45,327  TPA (Contract Administrator)
+           - NAVITUS HEALTH SOLUTIONS : $25,580  RX ADMIN (Claims processing)
+           - LP INSURANCE SERVICES LLC : $24,000  BROKER (Insurance agents and brokers)
+           - AETNA SIGNATURE ADMINISTRATORS : $16,918  PPO (Other services)
+           = TOTAL FEES: $111,825 (or $873 per partipant)
+    2017    https://efast2-filings-public.s3.amazonaws.com/prd/2019/4/29/20190429140729P040199473847001.pdf
+        Participants: 128
+        Service Providers:
+           - NAVITUS HEALTH SOLUTIONS : $22,596  RX ADMIN (Claims processing)
+           - L/P INSURANCE SERVICES, INC. : $10,000  BROKER (Insurance agents and brokers)
+           - BARRETT INSURANCE SERVICES : $14,000  BROKER (Insurance agents and brokers)
+           - EMPLOYEE BENEFIT MGMT SERVICES LLC : $42,108  ADMIN FEES (Contract Administrator)
+           = TOTAL FEES: $88,704 (or $693 per partipant)
