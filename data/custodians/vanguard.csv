@@ -18,3 +18,14 @@ Account Number,Trade Date,Settlement Date,Transaction Type,Transaction Descripti
 87654321,12/30/2022,12/30/2022,Dividend,Dividend Received,VANGUARD FEDERAL MONEY MARKET FUND,,0.0,0.0,0.22,0.0,0.22,0.0,Cash,
 
 
+Plan Number,Plan Name,Fund Name,Shares,Price,Total Value,
+076545,SOME INC. 401(K) PLAN,Vanguard Total International Stock Index Fund Institutional Shares,1.000,122.15000000,122.15,
+076545,SOME INC. 401(K) PLAN,Vanguard Total Bond Market Index Fund Institutional Shares,1.000,9.66000000,9.66,
+
+
+Account Number,Trade Date,Run Date,Transaction Activity,Transaction Description,Investment Name,Share Price,Transaction Shares,Dollar Amount,
+076545,09/08/2023,09/08/2023,111111,Plan Contribution,Total Bond Mkt Index Inst,2.36,23.644,50.31,
+076545,09/08/2023,09/08/2023,111111,Plan Contribution,Total Bond Mkt Index Inst,2.36,1.689,5.81,
+076545,09/08/2023,09/08/2023,111111,Plan Contribution,Tot Intl Stock Ix Inst,110.9,16.894,1091.77,
+
+
