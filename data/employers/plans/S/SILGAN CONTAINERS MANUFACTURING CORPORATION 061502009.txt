@@ -15,6 +15,14 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
                  : PRINCIPAL/BLACKROCK STIF  [416292499-001] C  $179,365
            - SILGAN CONTAINERS CORP MASTER TRUST
                  : SILGAN CONTAINERS CORP PP MASTER TR  [061207664-001] M  $144,020,658
+                    + BARCLAYS EAFE EQUITY INDEX FUND  C
+                    + BARCLAYS GLOBAL INV EQ. GROWTH FUND  C
+                    + BARCLAYS GLOBAL INV. EQ. VALUE FUND  C
+                    + BARCLAYS RUSSELL 2000 GRTH FND CL A  C
+                    + BGI LONG GOVT/CREDIT BOND INDX FND  C
+                    + BGI RUSSELL 2000 VALUE FUND  C
+                    + PRINCIPAL/BLACKROCK STIF  C
+                    + WELLS FARGO SHORT TERM INV FUND  C
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO SHORT TERM INV. FUND N  [943256672-001] C  $0
            = SUBTOTAL       $    144,200,023
@@ -31,6 +39,13 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : SILGAN CONTAINERS CORP MASTER TRUST  [061207664-001] M  $186,569,443
+                    + BARCLAYS EAFE EQUITY INDEX FUND  C
+                    + BARCLAYS GLOBAL INV EQ. GROWTH FUND  C
+                    + BARCLAYS GLOBAL INV. EQ. VALUE FUND  C
+                    + BARCLAYS RUSSELL 2000 GRTH FND CL A  C
+                    + BGI LONG GOVT/CREDIT BOND INDX FND  C
+                    + BGI RUSSELL 2000 VALUE FUND  C
+                    + WELLS FARGO SHORT TERM INV FUND  C
                  : WELLS FARGO SHORT TERM INV. FUND N  [943256672-001] C  $286,372
            = SUBTOTAL       $    186,855,815
            = OTHER          $             14
@@ -45,6 +60,13 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : SILGAN CONTAINERS CORP MASTER TRUST  [061207664-001] M  $430,520,065
+                    + BARCLAYS EAFE EQUITY INDEX FUND  C
+                    + BARCLAYS GLOBAL INV EQ. GROWTH FUND  C
+                    + BARCLAYS GLOBAL INV. EQ. VALUE FUND  C
+                    + BARCLAYS RUSSELL 2000 GRTH FND CL A  C
+                    + BGI LONG GOVT/CREDIT BOND INDX FND  C
+                    + BGI RUSSELL 2000 VALUE FUND  C
+                    + WELLS FARGO SHORT TERM INV FUND  C
                  : WELLS FARGO SHORT TERM INV. FUND N  [943256672-001] C  $95,017
            = SUBTOTAL       $    430,615,082
            = OTHER          $             15
@@ -60,6 +82,13 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : SILGAN CONTAINERS CORP MASTER TRUST  [061207664-001] M  $390,857,379
+                    + BARCLAYS EAFE EQUITY INDEX FUND  C
+                    + BARCLAYS GLOBAL INV EQ. GROWTH FUND  C
+                    + BARCLAYS GLOBAL INV. EQ. VALUE FUND  C
+                    + BARCLAYS RUSSELL 2000 GRTH FND CL A  C
+                    + BGI LONG GOVT/CREDIT BOND INDX FND  C
+                    + BGI RUSSELL 2000 VALUE FUND  C
+                    + WELLS FARGO SHORT TERM INV FUND  C
                  : WELLS FARGO SHORT TERM INV. FUND N  [943256672-001] C  $168,727
            = SUBTOTAL       $    391,026,106
            = OTHER          $            262
@@ -75,6 +104,13 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : SILGAN CONTAINERS CORP MASTER TRUST  [061207664-001] M  $328,645,512
+                    + BARCLAYS EAFE EQUITY INDEX FUND  C
+                    + BARCLAYS GLOBAL INV EQ. GROWTH FUND  C
+                    + BARCLAYS GLOBAL INV. EQ. VALUE FUND  C
+                    + BARCLAYS RUSSELL 2000 GRTH FND CL A  C
+                    + BGI LONG GOVT/CREDIT BOND INDX FND  C
+                    + BGI RUSSELL 2000 VALUE FUND  C
+                    + WELLS FARGO SHORT TERM INV FUND  C
                  : WELLS FARGO SHORT TERM INV. FUND N  [943256672-001] C  $170,046
            = SUBTOTAL       $    328,815,558
            = OTHER          $            426
@@ -90,6 +126,13 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
         Available Investments:
            - WELLS FARGO BANK, N.A.
                  : SILGAN CONTAINERS CORP MASTER TRUST  [061207664-001] M  $369,160,325
+                    + BARCLAYS EAFE EQUITY INDEX FUND  C
+                    + BARCLAYS GLOBAL INV EQ. GROWTH FUND  C
+                    + BARCLAYS GLOBAL INV. EQ. VALUE FUND  C
+                    + BARCLAYS RUSSELL 2000 GRTH FND CL A  C
+                    + BGI LONG GOVT/CREDIT BOND INDX FND  C
+                    + BGI RUSSELL 2000 VALUE FUND  C
+                    + WELLS FARGO SHORT TERM INV FUND  C
                  : WELLS FARGO SHORT TERM INV. FUND N  [943256672-001] C  $196,364
            = SUBTOTAL       $    369,356,689
            = OTHER          $            258
@@ -297,6 +340,19 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
                  : IFX TRPRICE RET 2020  [061050034-753] P  $611,445
                  : IFX TRPRICE RET 2025  [061050034-754] P  $910,176
                  : PRU DAY ONE IFX TARG BAL  [061050034-697] P  $0
+                    + CORE BOND ENHANCED INDEX PGIM  P
+                    + CORECOMMODITY STRATEGIES IS - SA4BA  P
+                    + DRYDEN EMERGING MARKETS FUND SAEMG  P
+                    + JENNISON SMALL CAP CORE EQUITY SB3  P
+                    + PRU ENHANCED TIPS INDEX FUND - 5TE  P
+                        + PRUDENTIAL INFLATION PROTECTED SEC  C
+                    + PRUDENTIAL RETIREMENT REAL ESTATE  P
+                    + PRUDENTIAL SHORT-TERM BOND FUND  P
+                    + PRUDENTIAL TOTAL RETURN BOND SACP1  P
+                    + QMA INTL DEVELOPED MARKET INDEX IBQ  P
+                    + QMA LARGE CAP QUANT CORE EQUITY  P
+                    + QMA MIDCAP QUANT CORE EQUITY SAMB4  P
+                    + QMA US BROAD MARKET INDEX - SALB4  P
            = SUBTOTAL       $      1,691,579
            = OTHER          $    190,834,240
   [401(k)] SILGAN RETIREMENT SAVINGS PLAN FOR HOURLY EMPLOYEES [061502009-010]
@@ -440,6 +496,19 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
                  : IFX TRPRICE RET 2025  [061050034-754] P  $298,726
                  : IFX TRPRICE RET2005  [061050034-750] P  $6,763
                  : PRU DAY ONE IFX TARG BAL  [061050034-697] P  $0
+                    + CORE BOND ENHANCED INDEX PGIM FUND  P
+                    + DRYDEN EMERGING MARKETS FUND SAEMG  P
+                    + JENNISON SMALL CAP CORE EQUITY SB3  P
+                    + PRU ENHANCED TIPS INDEX FUND - 5TE  P
+                        + PRUDENTIAL INFLATION PROTECTED SEC  C
+                    + PRUDENTIAL RETIREMENT REAL ESTATE  P
+                    + PRUDENTIAL SHORT-TERM BOND FUND  P
+                    + PRUDENTIAL TOTAL RETURN BOND SACP1  P
+                    + QMA COMMODITY STRATEGY FUND (SA4BA)  P
+                    + QMA INTL DEVELOPED MARKET INDEX IBQ  P
+                    + QMA LARGE CAP QUANT CORE EQUITY  P
+                    + QMA MIDCAP QUANT CORE EQUITY SAMB4  P
+                    + QMA US BROAD MARKET INDEX - SALB4  P
                  : TRP GROWTH STK STGY  [061050034-435] P  $4,938,362
            - T. ROWE PRICE TRUST COMPANY
                  : T. ROWE PRICE RET 2005 F  [616434302-001] C  $433,672
@@ -511,6 +580,19 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
                  : IFX TRPRICE RET 2025  [061050034-754] P  $159,005
                  : IFX TRPRICE RET2005  [061050034-750] P  $63
                  : PRU DAY ONE IFX TARG BAL  [061050034-697] P  $0
+                    + CORE BOND ENHANCED INDEX PGIM  P
+                    + CORECOMMODITY STRATEGIES IS - SA4BA  P
+                    + DRYDEN EMERGING MARKETS FUND SAEMG  P
+                    + JENNISON SMALL CAP CORE EQUITY SB3  P
+                    + PRU ENHANCED TIPS INDEX FUND - 5TE  P
+                        + PRUDENTIAL INFLATION PROTECTED SEC  C
+                    + PRUDENTIAL RETIREMENT REAL ESTATE  P
+                    + PRUDENTIAL SHORT-TERM BOND FUND  P
+                    + PRUDENTIAL TOTAL RETURN BOND SACP1  P
+                    + QMA INTL DEVELOPED MARKET INDEX IBQ  P
+                    + QMA LARGE CAP QUANT CORE EQUITY  P
+                    + QMA MIDCAP QUANT CORE EQUITY SAMB4  P
+                    + QMA US BROAD MARKET INDEX - SALB4  P
            = SUBTOTAL       $        220,461
            = OTHER          $    140,555,664
   [401(k)] SILGAN CONTAINERS EMPLOYEES' RETIREMENT SAVINGS PLAN - UNION [061502009-012]
@@ -672,7 +754,33 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
         Available Investments:
            - PRUDENTIAL RETIREMENT INS.
                  : IFX TRPRICE RET 2020  [061050034-689] P  $57,693
+                    + CORE BOND ENHANCED INDEX PGIM FUND  P
+                    + DRYDEN EMERGING MARKETS FUND SAEMG  P
+                    + JENNISON SMALL CAP CORE EQUITY SB3  P
+                    + PRU ENHANCED TIPS INDEX FUND - 5TE  P
+                        + PRUDENTIAL INFLATION PROTECTED SEC  C
+                    + PRUDENTIAL RETIREMENT REAL ESTATE  P
+                    + PRUDENTIAL SHORT-TERM BOND FUND  P
+                    + PRUDENTIAL TOTAL RETURN BOND SACP1  P
+                    + QMA COMMODITY STRATEGY FUND (SA4BA)  P
+                    + QMA INTL DEVELOPED MARKET INDEX IBQ  P
+                    + QMA LARGE CAP QUANT CORE EQUITY  P
+                    + QMA MIDCAP QUANT CORE EQUITY SAMB4  P
+                    + QMA US BROAD MARKET INDEX - SALB4  P
                  : IFX TRPRICE RET 2025  [061050034-690] P  $4,683
+                    + CORE BOND ENHANCED INDEX PGIM FUND  P
+                    + DRYDEN EMERGING MARKETS FUND SAEMG  P
+                    + JENNISON SMALL CAP CORE EQUITY SB3  P
+                    + PRU ENHANCED TIPS INDEX FUND - 5TE  P
+                        + PRUDENTIAL INFLATION PROTECTED SEC  C
+                    + PRUDENTIAL RETIREMENT REAL ESTATE  P
+                    + PRUDENTIAL SHORT-TERM BOND FUND  P
+                    + PRUDENTIAL TOTAL RETURN BOND SACP1  P
+                    + QMA COMMODITY STRATEGY FUND (SA4BA)  P
+                    + QMA INTL DEVELOPED MARKET INDEX IBQ  P
+                    + QMA LARGE CAP QUANT CORE EQUITY  P
+                    + QMA MIDCAP QUANT CORE EQUITY SAMB4  P
+                    + QMA US BROAD MARKET INDEX - SALB4  P
                  : TRP GROWTH STK STGY  [061050034-435] P  $425,525
            = SUBTOTAL       $        487,901
            = OTHER          $     27,193,877
@@ -691,8 +799,47 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
         Available Investments:
            - PRUDENTIAL RETIREMENT INS
                  : IFX TRPRICE RET 2020  [061050034-689] P  $41,854
+                    + CORE BOND ENHANCED INDEX PGIM  P
+                    + CORECOMMODITY STRATEGIES IS - SA4BA  P
+                    + DRYDEN EMERGING MARKETS FUND SAEMG  P
+                    + JENNISON SMALL CAP CORE EQUITY SB3  P
+                    + PRU ENHANCED TIPS INDEX FUND - 5TE  P
+                        + PRUDENTIAL INFLATION PROTECTED SEC  C
+                    + PRUDENTIAL RETIREMENT REAL ESTATE  P
+                    + PRUDENTIAL SHORT-TERM BOND FUND  P
+                    + PRUDENTIAL TOTAL RETURN BOND SACP1  P
+                    + QMA INTL DEVELOPED MARKET INDEX IBQ  P
+                    + QMA LARGE CAP QUANT CORE EQUITY  P
+                    + QMA MIDCAP QUANT CORE EQUITY SAMB4  P
+                    + QMA US BROAD MARKET INDEX - SALB4  P
                  : IFX TRPRICE RET 2025  [061050034-690] P  $1,437
+                    + CORE BOND ENHANCED INDEX PGIM  P
+                    + CORECOMMODITY STRATEGIES IS - SA4BA  P
+                    + DRYDEN EMERGING MARKETS FUND SAEMG  P
+                    + JENNISON SMALL CAP CORE EQUITY SB3  P
+                    + PRU ENHANCED TIPS INDEX FUND - 5TE  P
+                        + PRUDENTIAL INFLATION PROTECTED SEC  C
+                    + PRUDENTIAL RETIREMENT REAL ESTATE  P
+                    + PRUDENTIAL SHORT-TERM BOND FUND  P
+                    + PRUDENTIAL TOTAL RETURN BOND SACP1  P
+                    + QMA INTL DEVELOPED MARKET INDEX IBQ  P
+                    + QMA LARGE CAP QUANT CORE EQUITY  P
+                    + QMA MIDCAP QUANT CORE EQUITY SAMB4  P
+                    + QMA US BROAD MARKET INDEX - SALB4  P
                  : PRU DAY ONE IFX TARG BAL  [061050034-697] P  $0
+                    + CORE BOND ENHANCED INDEX PGIM  P
+                    + CORECOMMODITY STRATEGIES IS - SA4BA  P
+                    + DRYDEN EMERGING MARKETS FUND SAEMG  P
+                    + JENNISON SMALL CAP CORE EQUITY SB3  P
+                    + PRU ENHANCED TIPS INDEX FUND - 5TE  P
+                        + PRUDENTIAL INFLATION PROTECTED SEC  C
+                    + PRUDENTIAL RETIREMENT REAL ESTATE  P
+                    + PRUDENTIAL SHORT-TERM BOND FUND  P
+                    + PRUDENTIAL TOTAL RETURN BOND SACP1  P
+                    + QMA INTL DEVELOPED MARKET INDEX IBQ  P
+                    + QMA LARGE CAP QUANT CORE EQUITY  P
+                    + QMA MIDCAP QUANT CORE EQUITY SAMB4  P
+                    + QMA US BROAD MARKET INDEX - SALB4  P
            = SUBTOTAL       $         43,291
            = OTHER          $     28,790,971
   [401(k)] SILGAN WHITE CAP RETIREMENT PLAN [061502009-013]
@@ -890,6 +1037,19 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
                  : IFX TRPRICE RET 2020  [061050034-753] P  $97,901
                  : IFX TRPRICE RET 2025  [061050034-754] P  $168,193
                  : PRU DAY ONE IFX TARG BAL  [061050034-697] P  $0
+                    + CORE BOND ENHANCED INDEX PGIM  P
+                    + CORECOMMODITY STRATEGIES IS - SA4BA  P
+                    + DRYDEN EMERGING MARKETS FUND SAEMG  P
+                    + JENNISON SMALL CAP CORE EQUITY SB3  P
+                    + PRU ENHANCED TIPS INDEX FUND - 5TE  P
+                        + PRUDENTIAL INFLATION PROTECTED SEC  C
+                    + PRUDENTIAL RETIREMENT REAL ESTATE  P
+                    + PRUDENTIAL SHORT-TERM BOND FUND  P
+                    + PRUDENTIAL TOTAL RETURN BOND SACP1  P
+                    + QMA INTL DEVELOPED MARKET INDEX IBQ  P
+                    + QMA LARGE CAP QUANT CORE EQUITY  P
+                    + QMA MIDCAP QUANT CORE EQUITY SAMB4  P
+                    + QMA US BROAD MARKET INDEX - SALB4  P
            = SUBTOTAL       $        266,262
            = OTHER          $     91,927,197
   [Pension] SILGAN CONTAINERS PENSION PLAN FOR ELIGIBLE USW EMPLOYEES [061502009-019]
@@ -904,6 +1064,13 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
         Available Investments:
            - SILGAN CONTAINERS CORP MASTER TRUST
                  : SILGAN CONTAINERS CORP PP MASTER TR  [061207664-001] M  $86,634,725
+                    + BARCLAYS EAFE EQUITY INDEX FUND  C
+                    + BARCLAYS GLOBAL INV EQ. GROWTH FUND  C
+                    + BARCLAYS GLOBAL INV. EQ. VALUE FUND  C
+                    + BARCLAYS RUSSELL 2000 GRTH FND CL A  C
+                    + BGI LONG GOVT/CREDIT BOND INDX FND  C
+                    + BGI RUSSELL 2000 VALUE FUND  C
+                    + WELLS FARGO SHORT TERM INV FUND  C
            - WELLS FARGO BANK N.A.
                  : WELLS FARGO SHORT TERM INV. FUND N  [943256672-001] C  $29,077
            = SUBTOTAL       $     86,663,802
@@ -920,6 +1087,13 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
         Available Investments:
            - SILGAN CONTAINERS CORP MASTER TRUST
                  : SILGAN CONTAINERS CORP PP MASTER TR  [061207664-001] M  $79,341,364
+                    + BARCLAYS EAFE EQUITY INDEX FUND  C
+                    + BARCLAYS GLOBAL INV EQ. GROWTH FUND  C
+                    + BARCLAYS GLOBAL INV. EQ. VALUE FUND  C
+                    + BARCLAYS RUSSELL 2000 GRTH FND CL A  C
+                    + BGI LONG GOVT/CREDIT BOND INDX FND  C
+                    + BGI RUSSELL 2000 VALUE FUND  C
+                    + WELLS FARGO SHORT TERM INV FUND  C
            - WELLS FARGO BANK N.A.
                  : WELLS FARGO SHORT TERM INV. FUND N  [943256672-001] C  $36,952
            = SUBTOTAL       $     79,378,316
@@ -936,6 +1110,13 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
         Available Investments:
            - SILGAN CONTAINERS CORP MASTER TRUST
                  : SILGAN CONTAINERS CORP PP MASTER TR  [061207664-001] M  $67,500,497
+                    + BARCLAYS EAFE EQUITY INDEX FUND  C
+                    + BARCLAYS GLOBAL INV EQ. GROWTH FUND  C
+                    + BARCLAYS GLOBAL INV. EQ. VALUE FUND  C
+                    + BARCLAYS RUSSELL 2000 GRTH FND CL A  C
+                    + BGI LONG GOVT/CREDIT BOND INDX FND  C
+                    + BGI RUSSELL 2000 VALUE FUND  C
+                    + WELLS FARGO SHORT TERM INV FUND  C
            - WELLS FARGO BANK N.A.
                  : WELLS FARGO SHORT TERM INV. FUND N  [943256672-001] C  $24,377
            = SUBTOTAL       $     67,524,874
@@ -952,6 +1133,13 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
         Available Investments:
            - SILGAN CONTAINERS CORP MASTER TRUST
                  : SILGAN CONTAINERS CORP PP MASTER TR  [061207664-001] M  $76,895,843
+                    + BARCLAYS EAFE EQUITY INDEX FUND  C
+                    + BARCLAYS GLOBAL INV EQ. GROWTH FUND  C
+                    + BARCLAYS GLOBAL INV. EQ. VALUE FUND  C
+                    + BARCLAYS RUSSELL 2000 GRTH FND CL A  C
+                    + BGI LONG GOVT/CREDIT BOND INDX FND  C
+                    + BGI RUSSELL 2000 VALUE FUND  C
+                    + WELLS FARGO SHORT TERM INV FUND  C
            - WELLS FARGO BANK N.A.
                  : WELLS FARGO SHORT TERM INV. FUND N  [943256672-001] C  $43,866
            = SUBTOTAL       $     76,939,709
@@ -972,6 +1160,14 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
                  : PRINCIPAL/BLACKROCK SHORT-TERM INV  [426292499-001] C  $1,938
            - SILGAN CONTAINERS CORP MASTER TRUST
                  : SILGAN CONTAINERS CORP PP MASTER TR  [061207664-001] M  $387,817,432
+                    + BARCLAYS EAFE EQUITY INDEX FUND  C
+                    + BARCLAYS GLOBAL INV EQ. GROWTH FUND  C
+                    + BARCLAYS GLOBAL INV. EQ. VALUE FUND  C
+                    + BARCLAYS RUSSELL 2000 GRTH FND CL A  C
+                    + BGI LONG GOVT/CREDIT BOND INDX FND  C
+                    + BGI RUSSELL 2000 VALUE FUND  C
+                    + PRINCIPAL/BLACKROCK STIF  C
+                    + WELLS FARGO SHORT TERM INV FUND  C
            = SUBTOTAL       $    387,819,370
            = OTHER          $        -11,916
     2021    https://efast2-filings-public.s3.amazonaws.com/prd/2022/10/14/20221014105837NAL0030667424001.pdf
@@ -986,6 +1182,13 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
         Available Investments:
            - SILGAN CONTAINERS CORP MASTER TRUST
                  : SILGAN CONTAINERS CORP PP MASTER TR  [061207664-001] M  $528,634,825
+                    + BARCLAYS EAFE EQUITY INDEX FUND  C
+                    + BARCLAYS GLOBAL INV EQ. GROWTH FUND  C
+                    + BARCLAYS GLOBAL INV. EQ. VALUE FUND  C
+                    + BARCLAYS RUSSELL 2000 GRTH FND CL A  C
+                    + BGI LONG GOVT/CREDIT BOND INDX FND  C
+                    + BGI RUSSELL 2000 VALUE FUND  C
+                    + WELLS FARGO SHORT TERM INV FUND  C
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO SHORT TERM INV. FUND N  [943256672-001] C  $1,214,881
            = SUBTOTAL       $    529,849,706
@@ -1001,6 +1204,13 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
         Available Investments:
            - SILGAN CONTAINERS CORP MASTER TRUST
                  : SILGAN CONTAINERS CORP PP MASTER TR  [061207664-001] M  $55,197,521
+                    + BARCLAYS EAFE EQUITY INDEX FUND  C
+                    + BARCLAYS GLOBAL INV EQ. GROWTH FUND  C
+                    + BARCLAYS GLOBAL INV. EQ. VALUE FUND  C
+                    + BARCLAYS RUSSELL 2000 GRTH FND CL A  C
+                    + BGI LONG GOVT/CREDIT BOND INDX FND  C
+                    + BGI RUSSELL 2000 VALUE FUND  C
+                    + WELLS FARGO SHORT TERM INV FUND  C
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO SHORT TERM INV. FUND N  [943256672-001] C  $70,298
            = SUBTOTAL       $     55,267,819
@@ -1016,6 +1226,13 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
         Available Investments:
            - SILGAN CONTAINERS CORP MASTER TRUST
                  : SILGAN CONTAINERS CORP PP MASTER TR  [061207664-001] M  $50,900,348
+                    + BARCLAYS EAFE EQUITY INDEX FUND  C
+                    + BARCLAYS GLOBAL INV EQ. GROWTH FUND  C
+                    + BARCLAYS GLOBAL INV. EQ. VALUE FUND  C
+                    + BARCLAYS RUSSELL 2000 GRTH FND CL A  C
+                    + BGI LONG GOVT/CREDIT BOND INDX FND  C
+                    + BGI RUSSELL 2000 VALUE FUND  C
+                    + WELLS FARGO SHORT TERM INV FUND  C
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO SHORT TERM INV. FUND N  [943256672-001] C  $88,375
            = SUBTOTAL       $     50,988,723
@@ -1031,6 +1248,13 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
         Available Investments:
            - SILGAN CONTAINERS CORP MASTER TRUST
                  : SILGAN CONTAINERS CORP PP MASTER TR  [061207664-001] M  $43,622,355
+                    + BARCLAYS EAFE EQUITY INDEX FUND  C
+                    + BARCLAYS GLOBAL INV EQ. GROWTH FUND  C
+                    + BARCLAYS GLOBAL INV. EQ. VALUE FUND  C
+                    + BARCLAYS RUSSELL 2000 GRTH FND CL A  C
+                    + BGI LONG GOVT/CREDIT BOND INDX FND  C
+                    + BGI RUSSELL 2000 VALUE FUND  C
+                    + WELLS FARGO SHORT TERM INV FUND  C
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO SHORT TERM INV. FUND N  [943256672-001] C  $66,515
            = SUBTOTAL       $     43,688,870
@@ -1047,6 +1271,13 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
         Available Investments:
            - SILGAN CONTAINERS CORP MASTER TRUST
                  : SILGAN CONTAINERS CORP PP MASTER TR  [061207664-001] M  $50,190,253
+                    + BARCLAYS EAFE EQUITY INDEX FUND  C
+                    + BARCLAYS GLOBAL INV EQ. GROWTH FUND  C
+                    + BARCLAYS GLOBAL INV. EQ. VALUE FUND  C
+                    + BARCLAYS RUSSELL 2000 GRTH FND CL A  C
+                    + BGI LONG GOVT/CREDIT BOND INDX FND  C
+                    + BGI RUSSELL 2000 VALUE FUND  C
+                    + WELLS FARGO SHORT TERM INV FUND  C
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO SHORT TERM INV. FUND N  [943256672-001] C  $70,842
            = SUBTOTAL       $     50,261,095
@@ -1065,6 +1296,14 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
                  : PRINCIPAL/BLACKROCK STIF  [416292499-001] C  $34,331
            - SILGAN CONTAINERS CORP MASTER TRUST
                  : SILGAN CONTAINERS CORP PP MASTER TR  [061207664-001] M  $38,452,655
+                    + BARCLAYS EAFE EQUITY INDEX FUND  C
+                    + BARCLAYS GLOBAL INV EQ. GROWTH FUND  C
+                    + BARCLAYS GLOBAL INV. EQ. VALUE FUND  C
+                    + BARCLAYS RUSSELL 2000 GRTH FND CL A  C
+                    + BGI LONG GOVT/CREDIT BOND INDX FND  C
+                    + BGI RUSSELL 2000 VALUE FUND  C
+                    + PRINCIPAL/BLACKROCK STIF  C
+                    + WELLS FARGO SHORT TERM INV FUND  C
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO SOHRT TERM INV. FUND N  [943256672-001] C  $0
            = SUBTOTAL       $     38,486,986
@@ -1081,6 +1320,13 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
         Available Investments:
            - SILGAN CONTAINERS CORP MASTER TRUST
                  : SILGAN CONTAINERS CORP PP MASTER TR  [061207664-001] M  $49,818,475
+                    + BARCLAYS EAFE EQUITY INDEX FUND  C
+                    + BARCLAYS GLOBAL INV EQ. GROWTH FUND  C
+                    + BARCLAYS GLOBAL INV. EQ. VALUE FUND  C
+                    + BARCLAYS RUSSELL 2000 GRTH FND CL A  C
+                    + BGI LONG GOVT/CREDIT BOND INDX FND  C
+                    + BGI RUSSELL 2000 VALUE FUND  C
+                    + WELLS FARGO SHORT TERM INV FUND  C
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO SHORT TERM INV. FUND N  [943256672-001] C  $84,747
            = SUBTOTAL       $     49,903,222
@@ -1096,6 +1342,13 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
         Available Investments:
            - SILGAN CONTAINERS CORP MASTER TRUST
                  : SILGAN CONTAINERS CORP PP MASTER TR  [061207664-001] M  $81,320,194
+                    + BARCLAYS EAFE EQUITY INDEX FUND  C
+                    + BARCLAYS GLOBAL INV EQ. GROWTH FUND  C
+                    + BARCLAYS GLOBAL INV. EQ. VALUE FUND  C
+                    + BARCLAYS RUSSELL 2000 GRTH FND CL A  C
+                    + BGI LONG GOVT/CREDIT BOND INDX FND  C
+                    + BGI RUSSELL 2000 VALUE FUND  C
+                    + WELLS FARGO SHORT TERM INV FUND  C
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO SHORT TERM INV. FUND N  [943256672-001] C  $25,900
            = SUBTOTAL       $     81,346,094
@@ -1111,6 +1364,13 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
         Available Investments:
            - SILGAN CONTAINERS CORP MASTER TRUST
                  : SILGAN CONTAINERS CORP PP MASTER TR  [061207664-001] M  $72,982,483
+                    + BARCLAYS EAFE EQUITY INDEX FUND  C
+                    + BARCLAYS GLOBAL INV EQ. GROWTH FUND  C
+                    + BARCLAYS GLOBAL INV. EQ. VALUE FUND  C
+                    + BARCLAYS RUSSELL 2000 GRTH FND CL A  C
+                    + BGI LONG GOVT/CREDIT BOND INDX FND  C
+                    + BGI RUSSELL 2000 VALUE FUND  C
+                    + WELLS FARGO SHORT TERM INV FUND  C
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO SHORT TERM INV. FUND N  [943256672-001] C  $58,035
            = SUBTOTAL       $     73,040,518
@@ -1126,6 +1386,13 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
         Available Investments:
            - SILGAN CONTAINERS CORP MASTER TRUST
                  : SILGAN CONTAINERS CORP PP MASTER TR  [061207664-001] M  $60,709,926
+                    + BARCLAYS EAFE EQUITY INDEX FUND  C
+                    + BARCLAYS GLOBAL INV EQ. GROWTH FUND  C
+                    + BARCLAYS GLOBAL INV. EQ. VALUE FUND  C
+                    + BARCLAYS RUSSELL 2000 GRTH FND CL A  C
+                    + BGI LONG GOVT/CREDIT BOND INDX FND  C
+                    + BGI RUSSELL 2000 VALUE FUND  C
+                    + WELLS FARGO SHORT TERM INV FUND  C
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO SHORT TERM INV. FUND N  [943256672-001] C  $45,084
            = SUBTOTAL       $     60,755,010
@@ -1141,6 +1408,13 @@ SILGAN CONTAINERS MANUFACTURING CORPORATION  061502009 -- BusinessCode: 332900 -
         Available Investments:
            - SILGAN CONTAINERS CORP MASTER TRUST
                  : SILGAN CONTAINERS CORP PP MASTER TR  [061207664-001] M  $67,517,314
+                    + BARCLAYS EAFE EQUITY INDEX FUND  C
+                    + BARCLAYS GLOBAL INV EQ. GROWTH FUND  C
+                    + BARCLAYS GLOBAL INV. EQ. VALUE FUND  C
+                    + BARCLAYS RUSSELL 2000 GRTH FND CL A  C
+                    + BGI LONG GOVT/CREDIT BOND INDX FND  C
+                    + BGI RUSSELL 2000 VALUE FUND  C
+                    + WELLS FARGO SHORT TERM INV FUND  C
            - WELLS FARGO BANK, N.A.
                  : WELLS FARGO SHORT TERM INV. FUND N  [943256672-001] C  $48,326
            = SUBTOTAL       $     67,565,640

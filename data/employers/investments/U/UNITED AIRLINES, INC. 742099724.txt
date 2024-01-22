@@ -25,6 +25,8 @@ UNITED AIRLINES, INC.  742099724 -- BusinessCode: 481000 -- IL : CHICAGO
                  : UAL STABLE VALUE FUND  [611785563-226] M  $241,216,676
                  : UAL STATED RETURN FUND  [611785563-204] M  $36,694,036
                  : UNITED AIRLINES 401(K) MASTER TRUST  [611785563-224] M  $3,470,633,526
+                    + STABLE VALUE FUND  M
+                    + STATED RETURN FUND  M
            = SUBTOTAL       $  3,748,544,238
            = EMPLOYER STOCK $     45,065,754
            = OTHER          $     86,645,729
@@ -47,6 +49,8 @@ UNITED AIRLINES, INC.  742099724 -- BusinessCode: 481000 -- IL : CHICAGO
                  : UAL STABLE VALUE FUND  [611785563-226] M  $204,643,594
                  : UAL STATED RETURN FUND  [611785563-204] M  $41,460,158
                  : UNITED AIRLINES 401(K) MASTER TRUST  [611785563-224] M  $4,422,731,528
+                    + STABLE VALUE FUND  M
+                    + STATED RETURN FUND  M
            = SUBTOTAL       $  4,668,835,280
            = EMPLOYER STOCK $     54,916,012
            = OTHER          $     87,490,157
@@ -66,6 +70,8 @@ UNITED AIRLINES, INC.  742099724 -- BusinessCode: 481000 -- IL : CHICAGO
                  : UAL STABLE VALUE FUND  [611785563-226] M  $221,602,248
                  : UANL STATED RETURN FUND  [611785563-204] M  $44,174,400
                  : UNITED AIRLINES 401(K) MASTER TRUST  [611785563-224] M  $3,939,539,199
+                    + STABLE VALUE FUND  M
+                    + STATED RETURN FUND  M
            = SUBTOTAL       $  4,205,315,847
            = OTHER          $     88,011,229
     2019    https://efast2-filings-public.s3.amazonaws.com/prd/2020/10/15/20201015045938NAL0007454177004.pdf
@@ -85,6 +91,8 @@ UNITED AIRLINES, INC.  742099724 -- BusinessCode: 481000 -- IL : CHICAGO
                  : UAL STABLE VALUE FUND  [611785563-226] M  $178,296,858
                  : UAL STATED RETURN FUND  [611785563-204] M  $46,605,428
                  : UNITED AIRLINES 401(K) MASTER TRUST  [611785563-224] M  $3,713,782,607
+                    + STABLE VALUE FUND  M
+                    + STATED RETURN FUND  M
            = SUBTOTAL       $  3,938,684,893
            = OTHER          $    102,642,354
     2018    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/13/20191013092014P030051413229002.pdf
@@ -105,6 +113,8 @@ UNITED AIRLINES, INC.  742099724 -- BusinessCode: 481000 -- IL : CHICAGO
                  : UAL STABLE VALUE FUND  [742099724-226] M  $174,455,687
                  : UAL STATED RETURN FUND  [742099724-204] M  $48,678,987
                  : UNITED AIRLINES 401(K) MASTER TRUST  [611785563-224] M  $2,967,849,651
+                    + STABLE VALUE FUND  M
+                    + STATED RETURN FUND  M
            = SUBTOTAL       $  3,190,984,325
            = OTHER          $     94,985,823
     2017    https://efast2-filings-public.s3.amazonaws.com/prd/2018/10/11/20181011144807P040010834069001.pdf
@@ -126,6 +136,8 @@ UNITED AIRLINES, INC.  742099724 -- BusinessCode: 481000 -- IL : CHICAGO
                  : UAL STABLE VALUE FUND  [742099724-226] M  $164,391,084
                  : UAL STATED RETURN FUND  [742099724-204] M  $51,299,052
                  : UNITED AIRLINES 401(K) MASTER TRUST  [611785563-224] M  $3,035,104,901
+                    + STABLE VALUE FUND  M
+                    + STATED RETURN FUND  M
            = SUBTOTAL       $  3,250,795,037
            = OTHER          $     88,391,237
  -- TX : HOUSTON
@@ -148,12 +160,54 @@ UNITED AIRLINES, INC.  742099724 -- BusinessCode: 481000 -- IL : CHICAGO
         Available Investments:
            - UNITED AIRLINES, INC.
                  : CONTINENTAL AIRLINES,INC PENSION MT  [900134602-001] M  $13,563,929
+                    + UA CARP OVERLAY ACCOUNT  M
+                        + NT COLLECTIVE SHORT TERM INVT FD  C
+                    + UA CPRP OVERLAY ACCOUNT  M
+                        + NT COLLECTIVE SHORT TERM INVT FD  C
+                    + UA CREDIT ACCOUNT  M
+                        + NT COLLECTIVE SHORT TERM INVT FD  C
+                    + UA GOVERNMENT ACCOUNT  M
+                        + SSGA LONG U.S. TREAS INDX NL FUND  C
+                    + UA PE ACCOUNT  M
+                        + NT COLLECTIVE SHORT-TERM INVT FUND  C
+                    + UA RETURN SEEKING ACCOUNT  M
+                        + BRIGADE CREDIT OFFSHORE FUND II LTD  C
+                        + COLCHESTER GLOBAL SOVEREIGN CREDIT  C
+                        + JPMCB EMERGING MARKETS AGG BD FUND  C
+                        + LEGAL & GENERAL GL CR COL INVST  C
+                        + NINETY ONE AFRICA FIXED INCOME OPPO  C
+                        + COLTV SHORT TERM INVT FUND  C
+                        + EQUITY FUND APL (USD)  C
+                        + RESCAP GBL REAL ESTATE SEC CIT CL W  C
+                        + SSGA DAILY MSCI WORLD INDX NL FUND  C
+                        + NSL EFFICIENT BETA FALLEN ANGELS FD  C
+                        + WTW GT SUBS REDS CLEAR GEFF  C
+                        + WTC CIF II SECURITIZED OPPS PORT  C
+                    + UA STRIPS ACCOUNT  M
+                        + SSGA 20 YEAR US TREASURY STRIPS IND  C
                  : UA CARP OVERLAY ACCOUNT  [900134602-301] M  $16,133,570
+                    + NT COLLECTIVE SHORT TERM INVT FD  C
                  : UA CREDIT ACCOUNT  [900134602-303] M  $286,322,834
+                    + NT COLLECTIVE SHORT TERM INVT FD  C
                  : UA GOVERNMENT ACCOUNT  [900134602-304] M  $73,089,100
+                    + SSGA LONG U.S. TREAS INDX NL FUND  C
                  : UA PE ACCOUNT  [900134602-305] M  $634,881
+                    + NT COLLECTIVE SHORT-TERM INVT FUND  C
                  : UA RETURN SEEKING ACCOUNT  [900134602-306] M  $2,427,709,818
+                    + BRIGADE CREDIT OFFSHORE FUND II LTD  C
+                    + COLCHESTER GLOBAL SOVEREIGN CREDIT  C
+                    + JPMCB EMERGING MARKETS AGG BD FUND  C
+                    + LEGAL & GENERAL GL CR COL INVST  C
+                    + NINETY ONE AFRICA FIXED INCOME OPPO  C
+                    + COLTV SHORT TERM INVT FUND  C
+                    + EQUITY FUND APL (USD)  C
+                    + RESCAP GBL REAL ESTATE SEC CIT CL W  C
+                    + SSGA DAILY MSCI WORLD INDX NL FUND  C
+                    + NSL EFFICIENT BETA FALLEN ANGELS FD  C
+                    + WTW GT SUBS REDS CLEAR GEFF  C
+                    + WTC CIF II SECURITIZED OPPS PORT  C
                  : UA STRIPS ACCOUNT  [900134602-307] M  $208,656,789
+                    + SSGA 20 YEAR US TREASURY STRIPS IND  C
            = SUBTOTAL       $  3,026,110,921
            = OTHER          $              0
     2020    https://efast2-filings-public.s3.amazonaws.com/prd/2022/10/12/20221012142356NAL0015610019001.pdf
@@ -174,12 +228,53 @@ UNITED AIRLINES, INC.  742099724 -- BusinessCode: 481000 -- IL : CHICAGO
         Available Investments:
            - UNITED AIRLINES, INC.
                  : CONTINENTAL AIRLINES,INC PENSION MT  [900134602-001] M  $52,326,554
+                    + UA CARP OVERLAY ACCOUNT  M
+                    + UA CPRP OVERLAY ACCOUNT  M
+                    + UA CREDIT ACCOUNT  M
+                    + UA GOVERNMENT ACCOUNT  M
+                        + SSGA LONG U.S. TREAS INDX NL FUND  C
+                    + UA PE ACCOUNT  M
+                        + NT COLLECTIVE SHORT-TERM INVT FUND  C
+                    + UA RETURN SEEKING ACCOUNT  M
+                        + HEITMAN GLBL PRIME COLLECTV INV TR  C
+                        + BRANDYWINE GLBL SOV CREDIT FUND  C
+                        + BRIGADE CREDIT OFFSHORE FUND II LTD  C
+                        + COLCHESTER GLOBAL SOVEREIGN CREDIT  C
+                        + JPMCB EMERGING MARKETS AGG BD FUND  C
+                        + LEGAL & GENERAL GL CR COL INVST  C
+                        + NINETY ONE AFRICA FIXED INCOME OPPO  C
+                        + COLTV SHORT TERM INVT FUND  C
+                        + EQUITY FUND APL (USD)  C
+                        + RESCAP GBL REAL ESTATE SEC CIT CL W  C
+                        + SSGA DAILY MSCI WORLD INDX NL FUND  C
+                        + NSL EFFICIENT BETA FALLEN ANGELS FD  C
+                        + WTW GT SUBS REDS CLEAR GEFF  C
+                        + WTC CIF II SECURITIZED OPPS PORT  C
+                    + UA STRIPS ACCOUNT  M
+                        + SSGA 20 YEAR US TREASURY STRIPS IND  C
                  : UA CARP OVERLAY ACCOUNT  [900134602-301] M  $27,536,840
                  : UA CREDIT ACCOUNT  [900134602-303] M  $360,243,373
                  : UA GOVERNMENT ACCOUNT  [900134602-304] M  $79,239,914
+                    + SSGA LONG U.S. TREAS INDX NL FUND  C
                  : UA PE ACCOUNT  [900134602-305] M  $1,630,109
+                    + NT COLLECTIVE SHORT-TERM INVT FUND  C
                  : UA RETURN SEEKING ACCOUNT  [900134602-306] M  $3,009,213,110
+                    + HEITMAN GLBL PRIME COLLECTV INV TR  C
+                    + BRANDYWINE GLBL SOV CREDIT FUND  C
+                    + BRIGADE CREDIT OFFSHORE FUND II LTD  C
+                    + COLCHESTER GLOBAL SOVEREIGN CREDIT  C
+                    + JPMCB EMERGING MARKETS AGG BD FUND  C
+                    + LEGAL & GENERAL GL CR COL INVST  C
+                    + NINETY ONE AFRICA FIXED INCOME OPPO  C
+                    + COLTV SHORT TERM INVT FUND  C
+                    + EQUITY FUND APL (USD)  C
+                    + RESCAP GBL REAL ESTATE SEC CIT CL W  C
+                    + SSGA DAILY MSCI WORLD INDX NL FUND  C
+                    + NSL EFFICIENT BETA FALLEN ANGELS FD  C
+                    + WTW GT SUBS REDS CLEAR GEFF  C
+                    + WTC CIF II SECURITIZED OPPS PORT  C
                  : UA STRIPS ACCOUNT  [900134602-307] M  $325,065,573
+                    + SSGA 20 YEAR US TREASURY STRIPS IND  C
            = SUBTOTAL       $  3,855,255,473
            = OTHER          $              0
     2019    https://efast2-filings-public.s3.amazonaws.com/prd/2021/10/14/20211014091526NAL0015528099001.pdf
@@ -201,12 +296,45 @@ UNITED AIRLINES, INC.  742099724 -- BusinessCode: 481000 -- IL : CHICAGO
         Available Investments:
            - UNITED AIRLINES, INC.
                  : CONTINENTAL AIRLINES,INC PENSION MT  [900134602-001] M  $65,452,286
+                    + UA CARP OVERLAY ACCOUNT  M
+                    + UA CPRP OVERLAY ACCOUNT  M
+                    + UA CREDIT ACCOUNT  M
+                    + UA GOVERNMENT ACCOUNT  M
+                        + SSGA LONG U.S. TREAS INDX NL FUND  C
+                    + UA PE ACCOUNT  M
+                        + NT COLLECTIVE SHORT-TERM INVT FUND  C
+                    + UA RETURN SEEKING ACCOUNT  M
+                        + HEITMAN GLBL PRIME COLLECTV INV TR  C
+                        + BRANDYWINE GLBL SOV CREDIT FUND  C
+                        + BRIGADE CREDIT OFFSHORE FUND II LTD  C
+                        + JPMCB EMERGING MARKETS AGG BD FUND  C
+                        + LEGAL & GENERAL GL CR COL INVST  C
+                        + COLTV SHORT TERM INVT FUND  C
+                        + SSGA DAILY MSCI WORLD INDX NL FUND  C
+                        + NSL EFFICIENT BETA FALLEN ANGELS FD  C
+                        + WTW GT SUBS REDS CLEAR GEFF  C
+                        + WTC CIF II SECURITIZED OPPS PORT  C
+                    + UA STRIPS ACCOUNT  M
+                        + SSGA 20 YEAR US TREASURY STRIPS IND  C
                  : UA CARP OVERLAY ACCOUNT  [900134602-301] M  $17,790,497
                  : UA CREDIT ACCOUNT  [900134602-303] M  $216,008,331
                  : UA GOVERNMENT ACCOUNT  [900134602-304] M  $53,261,890
+                    + SSGA LONG U.S. TREAS INDX NL FUND  C
                  : UA PE ACCOUNT  [900134602-305] M  $4,842,921
+                    + NT COLLECTIVE SHORT-TERM INVT FUND  C
                  : UA RETURN SEEKING ACCOUNT  [900134602-306] M  $2,541,794,750
+                    + HEITMAN GLBL PRIME COLLECTV INV TR  C
+                    + BRANDYWINE GLBL SOV CREDIT FUND  C
+                    + BRIGADE CREDIT OFFSHORE FUND II LTD  C
+                    + JPMCB EMERGING MARKETS AGG BD FUND  C
+                    + LEGAL & GENERAL GL CR COL INVST  C
+                    + COLTV SHORT TERM INVT FUND  C
+                    + SSGA DAILY MSCI WORLD INDX NL FUND  C
+                    + NSL EFFICIENT BETA FALLEN ANGELS FD  C
+                    + WTW GT SUBS REDS CLEAR GEFF  C
+                    + WTC CIF II SECURITIZED OPPS PORT  C
                  : UA STRIPS ACCOUNT  [900134602-307] M  $340,590,053
+                    + SSGA 20 YEAR US TREASURY STRIPS IND  C
            = SUBTOTAL       $  3,239,740,728
            = OTHER          $    375,000,000
     2018    https://efast2-filings-public.s3.amazonaws.com/prd/2020/10/15/20201015092218NAL0013429842001.pdf
@@ -230,12 +358,54 @@ UNITED AIRLINES, INC.  742099724 -- BusinessCode: 481000 -- IL : CHICAGO
         Available Investments:
            - UNITED AIRLINES, INC.
                  : CONTINENTAL AIRLINES,INC PENSION MT  [900134602-001] M  $355,978,255
+                    + HEITMAN GLOBAL PRIME COLLECTIVE INV  C
+                    + BRANDYWINE GLOBAL SOVEREIGN CREDIT  C
+                    + BRIGADE CREDIT OFFSHORE FUND II LTD  C
+                    + JPMCB EMERGING MARKETS AGGREGATE BO  C
+                    + MSIM EMERGING MARKETS TRUST  C
+                    + COLLECTIVE SHORT TERM FUND  C
+                    + LEGAL & GENERAL GLOBAL CORE INF  C
+                    + SS 20 YEAR US TREASURY STRIPS INDEX  C
+                    + SS LONG US TREASURY INDEX NL COMMON  C
+                    + SS MSCI WORLD INDEX NL COMMON TRUST  C
+                    + UA CARP OVERLAY ACCOUNT  M
+                    + UA CPRP OVERLAY ACCOUNT  M
+                    + UA CREDIT ACCOUNT  M
+                    + UA GOVERNMENT ACCOUNT  M
+                        + SSGA LONG U.S. TREAS INDX NL FUND  C
+                    + UA PE ACCOUNT  M
+                        + NT COLLECTIVE SHORT-TERM INVT FUND  C
+                    + UA RETURN SEEKING ACCOUNT  M
+                        + HEITMAN GLBL PRIME COLLECTV INV TR  C
+                        + BRANDYWINE GLBL SOV CREDIT FUND  C
+                        + BRIGADE CREDIT OFFSHORE FUND II LTD  C
+                        + JPMCB EMERGING MARKETS AGG BD FUND  C
+                        + LEGAL & GENERAL GL CR COL INVST  C
+                        + COLTV SHORT TERM INVT FUND  C
+                        + SSGA DAILY MSCI WORLD INDX NL FUND  C
+                        + WTW GT SUBS REDS CLEAR GEFF  C
+                        + WTC CIF II SECURITIZED OPPS PORT  C
+                    + UA STRIPS ACCOUNT  M
+                        + SSGA 20 YEAR US TREASURY STRIPS IND  C
+                    + WTC-CIF II SECURITIZED OPP PORT  C
                  : UA CARP OVERLAY ACCOUNT  [900134602-301] M  $70,525,367
                  : UA CREDIT ACCOUNT  [900134602-303] M  $377,929,705
                  : UA GOVERNMENT ACCOUNT  [900134602-304] M  $145,743,165
+                    + SSGA LONG U.S. TREAS INDX NL FUND  C
                  : UA PE ACCOUNT  [900134602-305] M  $12,580,801
+                    + NT COLLECTIVE SHORT-TERM INVT FUND  C
                  : UA RETURN SEEKING ACCOUNT  [900134602-306] M  $2,843,967,640
+                    + HEITMAN GLBL PRIME COLLECTV INV TR  C
+                    + BRANDYWINE GLBL SOV CREDIT FUND  C
+                    + BRIGADE CREDIT OFFSHORE FUND II LTD  C
+                    + JPMCB EMERGING MARKETS AGG BD FUND  C
+                    + LEGAL & GENERAL GL CR COL INVST  C
+                    + COLTV SHORT TERM INVT FUND  C
+                    + SSGA DAILY MSCI WORLD INDX NL FUND  C
+                    + WTW GT SUBS REDS CLEAR GEFF  C
+                    + WTC CIF II SECURITIZED OPPS PORT  C
                  : UA STRIPS ACCOUNT  [900134602-307] M  $281,551,787
+                    + SSGA 20 YEAR US TREASURY STRIPS IND  C
            = SUBTOTAL       $  4,088,276,720
            = OTHER          $              0
     2017    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/9/20191009152707P030063834593001.pdf
@@ -251,6 +421,18 @@ UNITED AIRLINES, INC.  742099724 -- BusinessCode: 481000 -- IL : CHICAGO
         Available Investments:
            - UNITED AIRLINES, INC.
                  : CONTINENTAL AIRLINES,INC PENSION MT  [043581074-001] M  $2,998,594,888
+                    + HEITMAN GLOBAL PRIME COLLECTIVE INV  C
+                    + BRANDYWINE GLOBAL SOVEREIGN CREDIT  C
+                    + BRIGADE CREDIT OFFSHORE FUND II LTD  C
+                    + JPMCB EMERGING MARKETS AGGREGATE BO  C
+                    + MSIM EMERGING MARKETS TRUST  C
+                    + COLLECTIVE SHORT TERM FUND  C
+                    + LEGAL & GENERAL GLOBAL CORE INF  C
+                    + CF AEW GLOBAL PROPERTIES TRUST  C
+                    + SS 20 YEAR US TREASURY STRIPS INDEX  C
+                    + SS LONG US TREASURY INDEX NL COMMON  C
+                    + SS MSCI WORLD INDEX NL COMMON TRUST  C
+                    + WTC-CIF II SECURITIZED OPP PORT  C
            = SUBTOTAL       $  2,998,594,888
            = OTHER          $    635,000,000
   [Pension] THE CONTINENTAL PILOTS RETIREMENT PLAN [742099724-011]
@@ -269,12 +451,54 @@ UNITED AIRLINES, INC.  742099724 -- BusinessCode: 481000 -- IL : CHICAGO
         Available Investments:
            - UNITED AIRLINES, INC.
                  : CONTINENTAL AIRLINES,INC PENSION MT  [900134602-001] M  $5,905,790
+                    + UA CARP OVERLAY ACCOUNT  M
+                        + NT COLLECTIVE SHORT TERM INVT FD  C
+                    + UA CPRP OVERLAY ACCOUNT  M
+                        + NT COLLECTIVE SHORT TERM INVT FD  C
+                    + UA CREDIT ACCOUNT  M
+                        + NT COLLECTIVE SHORT TERM INVT FD  C
+                    + UA GOVERNMENT ACCOUNT  M
+                        + SSGA LONG U.S. TREAS INDX NL FUND  C
+                    + UA PE ACCOUNT  M
+                        + NT COLLECTIVE SHORT-TERM INVT FUND  C
+                    + UA RETURN SEEKING ACCOUNT  M
+                        + BRIGADE CREDIT OFFSHORE FUND II LTD  C
+                        + COLCHESTER GLOBAL SOVEREIGN CREDIT  C
+                        + JPMCB EMERGING MARKETS AGG BD FUND  C
+                        + LEGAL & GENERAL GL CR COL INVST  C
+                        + NINETY ONE AFRICA FIXED INCOME OPPO  C
+                        + COLTV SHORT TERM INVT FUND  C
+                        + EQUITY FUND APL (USD)  C
+                        + RESCAP GBL REAL ESTATE SEC CIT CL W  C
+                        + SSGA DAILY MSCI WORLD INDX NL FUND  C
+                        + NSL EFFICIENT BETA FALLEN ANGELS FD  C
+                        + WTW GT SUBS REDS CLEAR GEFF  C
+                        + WTC CIF II SECURITIZED OPPS PORT  C
+                    + UA STRIPS ACCOUNT  M
+                        + SSGA 20 YEAR US TREASURY STRIPS IND  C
                  : UA CPRP OVERLAY ACCOUNT  [900134602-302] M  $2,554,865
+                    + NT COLLECTIVE SHORT TERM INVT FD  C
                  : UA CREDIT ACCOUNT  [900134602-303] M  $112,309,069
+                    + NT COLLECTIVE SHORT TERM INVT FD  C
                  : UA GOVERNMENT ACCOUNT  [900134602-304] M  $4,042,744
+                    + SSGA LONG U.S. TREAS INDX NL FUND  C
                  : UA PE ACCOUNT  [900134602-305] M  $123,207
+                    + NT COLLECTIVE SHORT-TERM INVT FUND  C
                  : UA RETURN SEEKING ACCOUNT  [900134602-306] M  $127,004,874
+                    + BRIGADE CREDIT OFFSHORE FUND II LTD  C
+                    + COLCHESTER GLOBAL SOVEREIGN CREDIT  C
+                    + JPMCB EMERGING MARKETS AGG BD FUND  C
+                    + LEGAL & GENERAL GL CR COL INVST  C
+                    + NINETY ONE AFRICA FIXED INCOME OPPO  C
+                    + COLTV SHORT TERM INVT FUND  C
+                    + EQUITY FUND APL (USD)  C
+                    + RESCAP GBL REAL ESTATE SEC CIT CL W  C
+                    + SSGA DAILY MSCI WORLD INDX NL FUND  C
+                    + NSL EFFICIENT BETA FALLEN ANGELS FD  C
+                    + WTW GT SUBS REDS CLEAR GEFF  C
+                    + WTC CIF II SECURITIZED OPPS PORT  C
                  : UA STRIPS ACCOUNT  [900134602-307] M  $8,158,667
+                    + SSGA 20 YEAR US TREASURY STRIPS IND  C
            = SUBTOTAL       $    260,099,216
            = OTHER          $     13,100,000
     2020    https://efast2-filings-public.s3.amazonaws.com/prd/2022/10/12/20221012142644NAL0026884416001.pdf
@@ -293,12 +517,53 @@ UNITED AIRLINES, INC.  742099724 -- BusinessCode: 481000 -- IL : CHICAGO
         Available Investments:
            - UNITED AIRLINES, INC.
                  : CONTINENTAL AIRLINES,INC PENSION MT  [900134602-001] M  $18,769,664
+                    + UA CARP OVERLAY ACCOUNT  M
+                    + UA CPRP OVERLAY ACCOUNT  M
+                    + UA CREDIT ACCOUNT  M
+                    + UA GOVERNMENT ACCOUNT  M
+                        + SSGA LONG U.S. TREAS INDX NL FUND  C
+                    + UA PE ACCOUNT  M
+                        + NT COLLECTIVE SHORT-TERM INVT FUND  C
+                    + UA RETURN SEEKING ACCOUNT  M
+                        + HEITMAN GLBL PRIME COLLECTV INV TR  C
+                        + BRANDYWINE GLBL SOV CREDIT FUND  C
+                        + BRIGADE CREDIT OFFSHORE FUND II LTD  C
+                        + COLCHESTER GLOBAL SOVEREIGN CREDIT  C
+                        + JPMCB EMERGING MARKETS AGG BD FUND  C
+                        + LEGAL & GENERAL GL CR COL INVST  C
+                        + NINETY ONE AFRICA FIXED INCOME OPPO  C
+                        + COLTV SHORT TERM INVT FUND  C
+                        + EQUITY FUND APL (USD)  C
+                        + RESCAP GBL REAL ESTATE SEC CIT CL W  C
+                        + SSGA DAILY MSCI WORLD INDX NL FUND  C
+                        + NSL EFFICIENT BETA FALLEN ANGELS FD  C
+                        + WTW GT SUBS REDS CLEAR GEFF  C
+                        + WTC CIF II SECURITIZED OPPS PORT  C
+                    + UA STRIPS ACCOUNT  M
+                        + SSGA 20 YEAR US TREASURY STRIPS IND  C
                  : UA CPRP OVERLAY ACCOUNT  [900134602-302] M  $3,784,698
                  : UA CREDIT ACCOUNT  [900134602-303] M  $169,227,892
                  : UA GOVERNMENT ACCOUNT  [900134602-304] M  $5,572,182
+                    + SSGA LONG U.S. TREAS INDX NL FUND  C
                  : UA PE ACCOUNT  [900134602-305] M  $316,344
+                    + NT COLLECTIVE SHORT-TERM INVT FUND  C
                  : UA RETURN SEEKING ACCOUNT  [900134602-306] M  $208,846,397
+                    + HEITMAN GLBL PRIME COLLECTV INV TR  C
+                    + BRANDYWINE GLBL SOV CREDIT FUND  C
+                    + BRIGADE CREDIT OFFSHORE FUND II LTD  C
+                    + COLCHESTER GLOBAL SOVEREIGN CREDIT  C
+                    + JPMCB EMERGING MARKETS AGG BD FUND  C
+                    + LEGAL & GENERAL GL CR COL INVST  C
+                    + NINETY ONE AFRICA FIXED INCOME OPPO  C
+                    + COLTV SHORT TERM INVT FUND  C
+                    + EQUITY FUND APL (USD)  C
+                    + RESCAP GBL REAL ESTATE SEC CIT CL W  C
+                    + SSGA DAILY MSCI WORLD INDX NL FUND  C
+                    + NSL EFFICIENT BETA FALLEN ANGELS FD  C
+                    + WTW GT SUBS REDS CLEAR GEFF  C
+                    + WTC CIF II SECURITIZED OPPS PORT  C
                  : UA STRIPS ACCOUNT  [900134602-307] M  $34,332,256
+                    + SSGA 20 YEAR US TREASURY STRIPS IND  C
            = SUBTOTAL       $    440,849,433
            = OTHER          $              0
     2019    https://efast2-filings-public.s3.amazonaws.com/prd/2021/10/13/20211013182120NAL0020137073001.pdf
@@ -318,12 +583,45 @@ UNITED AIRLINES, INC.  742099724 -- BusinessCode: 481000 -- IL : CHICAGO
         Available Investments:
            - UNITED AIRLINES, INC.
                  : CONTINENTAL AIRLINES,INC PENSION MT  [900134602-001] M  $13,306,343
+                    + UA CARP OVERLAY ACCOUNT  M
+                    + UA CPRP OVERLAY ACCOUNT  M
+                    + UA CREDIT ACCOUNT  M
+                    + UA GOVERNMENT ACCOUNT  M
+                        + SSGA LONG U.S. TREAS INDX NL FUND  C
+                    + UA PE ACCOUNT  M
+                        + NT COLLECTIVE SHORT-TERM INVT FUND  C
+                    + UA RETURN SEEKING ACCOUNT  M
+                        + HEITMAN GLBL PRIME COLLECTV INV TR  C
+                        + BRANDYWINE GLBL SOV CREDIT FUND  C
+                        + BRIGADE CREDIT OFFSHORE FUND II LTD  C
+                        + JPMCB EMERGING MARKETS AGG BD FUND  C
+                        + LEGAL & GENERAL GL CR COL INVST  C
+                        + COLTV SHORT TERM INVT FUND  C
+                        + SSGA DAILY MSCI WORLD INDX NL FUND  C
+                        + NSL EFFICIENT BETA FALLEN ANGELS FD  C
+                        + WTW GT SUBS REDS CLEAR GEFF  C
+                        + WTC CIF II SECURITIZED OPPS PORT  C
+                    + UA STRIPS ACCOUNT  M
+                        + SSGA 20 YEAR US TREASURY STRIPS IND  C
                  : UA CPRP OVERLAY ACCOUNT  [900134602-302] M  $3,206,996
                  : UA CREDIT ACCOUNT  [900134602-303] M  $197,741,503
                  : UA GOVERNMENT ACCOUNT  [900134602-304] M  $5,873,462
+                    + SSGA LONG U.S. TREAS INDX NL FUND  C
                  : UA PE ACCOUNT  [900134602-305] M  $939,831
+                    + NT COLLECTIVE SHORT-TERM INVT FUND  C
                  : UA RETURN SEEKING ACCOUNT  [900134602-306] M  $229,445,644
+                    + HEITMAN GLBL PRIME COLLECTV INV TR  C
+                    + BRANDYWINE GLBL SOV CREDIT FUND  C
+                    + BRIGADE CREDIT OFFSHORE FUND II LTD  C
+                    + JPMCB EMERGING MARKETS AGG BD FUND  C
+                    + LEGAL & GENERAL GL CR COL INVST  C
+                    + COLTV SHORT TERM INVT FUND  C
+                    + SSGA DAILY MSCI WORLD INDX NL FUND  C
+                    + NSL EFFICIENT BETA FALLEN ANGELS FD  C
+                    + WTW GT SUBS REDS CLEAR GEFF  C
+                    + WTC CIF II SECURITIZED OPPS PORT  C
                  : UA STRIPS ACCOUNT  [900134602-307] M  $35,971,896
+                    + SSGA 20 YEAR US TREASURY STRIPS IND  C
            = SUBTOTAL       $    486,485,675
            = OTHER          $              0
     2018    https://efast2-filings-public.s3.amazonaws.com/prd/2020/10/15/20201015093133NAL0004904275001.pdf
@@ -346,12 +644,54 @@ UNITED AIRLINES, INC.  742099724 -- BusinessCode: 481000 -- IL : CHICAGO
         Available Investments:
            - UNITED AIRLINES, INC.
                  : CONTINENTAL AIRLINES,INC PENSION MT  [900134602-001] M  $10,323,433
+                    + HEITMAN GLOBAL PRIME COLLECTIVE INV  C
+                    + BRANDYWINE GLOBAL SOVEREIGN CREDIT  C
+                    + BRIGADE CREDIT OFFSHORE FUND II LTD  C
+                    + JPMCB EMERGING MARKETS AGGREGATE BO  C
+                    + MSIM EMERGING MARKETS TRUST  C
+                    + COLLECTIVE SHORT TERM FUND  C
+                    + LEGAL & GENERAL GLOBAL CORE INF  C
+                    + SS 20 YEAR US TREASURY STRIPS INDEX  C
+                    + SS LONG US TREASURY INDEX NL COMMON  C
+                    + SS MSCI WORLD INDEX NL COMMON TRUST  C
+                    + UA CARP OVERLAY ACCOUNT  M
+                    + UA CPRP OVERLAY ACCOUNT  M
+                    + UA CREDIT ACCOUNT  M
+                    + UA GOVERNMENT ACCOUNT  M
+                        + SSGA LONG U.S. TREAS INDX NL FUND  C
+                    + UA PE ACCOUNT  M
+                        + NT COLLECTIVE SHORT-TERM INVT FUND  C
+                    + UA RETURN SEEKING ACCOUNT  M
+                        + HEITMAN GLBL PRIME COLLECTV INV TR  C
+                        + BRANDYWINE GLBL SOV CREDIT FUND  C
+                        + BRIGADE CREDIT OFFSHORE FUND II LTD  C
+                        + JPMCB EMERGING MARKETS AGG BD FUND  C
+                        + LEGAL & GENERAL GL CR COL INVST  C
+                        + COLTV SHORT TERM INVT FUND  C
+                        + SSGA DAILY MSCI WORLD INDX NL FUND  C
+                        + WTW GT SUBS REDS CLEAR GEFF  C
+                        + WTC CIF II SECURITIZED OPPS PORT  C
+                    + UA STRIPS ACCOUNT  M
+                        + SSGA 20 YEAR US TREASURY STRIPS IND  C
+                    + WTC-CIF II SECURITIZED OPP PORT  C
                  : UA CPRP OVERLAY ACCOUNT  [900134602-302] M  $8,307,646
                  : UA CREDIT ACCOUNT  [900134602-303] M  $246,168,799
                  : UA GOVERNMENT ACCOUNT  [900134602-304] M  $28,283,326
+                    + SSGA LONG U.S. TREAS INDX NL FUND  C
                  : UA PE ACCOUNT  [900134602-305] M  $2,441,465
+                    + NT COLLECTIVE SHORT-TERM INVT FUND  C
                  : UA RETURN SEEKING ACCOUNT  [900134602-306] M  $279,124,635
+                    + HEITMAN GLBL PRIME COLLECTV INV TR  C
+                    + BRANDYWINE GLBL SOV CREDIT FUND  C
+                    + BRIGADE CREDIT OFFSHORE FUND II LTD  C
+                    + JPMCB EMERGING MARKETS AGG BD FUND  C
+                    + LEGAL & GENERAL GL CR COL INVST  C
+                    + COLTV SHORT TERM INVT FUND  C
+                    + SSGA DAILY MSCI WORLD INDX NL FUND  C
+                    + WTW GT SUBS REDS CLEAR GEFF  C
+                    + WTC CIF II SECURITIZED OPPS PORT  C
                  : UA STRIPS ACCOUNT  [900134602-307] M  $54,638,726
+                    + SSGA 20 YEAR US TREASURY STRIPS IND  C
            = SUBTOTAL       $    629,288,030
            = OTHER          $              0
     2017    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/9/20191009152440P030046040285001.pdf
@@ -366,6 +706,18 @@ UNITED AIRLINES, INC.  742099724 -- BusinessCode: 481000 -- IL : CHICAGO
         Available Investments:
            - UNITED AIRLINES, INC.
                  : CONTINENTAL AIRLINES,INC PENSION MT  [043581074-001] M  $581,915,699
+                    + HEITMAN GLOBAL PRIME COLLECTIVE INV  C
+                    + BRANDYWINE GLOBAL SOVEREIGN CREDIT  C
+                    + BRIGADE CREDIT OFFSHORE FUND II LTD  C
+                    + JPMCB EMERGING MARKETS AGGREGATE BO  C
+                    + MSIM EMERGING MARKETS TRUST  C
+                    + COLLECTIVE SHORT TERM FUND  C
+                    + LEGAL & GENERAL GLOBAL CORE INF  C
+                    + CF AEW GLOBAL PROPERTIES TRUST  C
+                    + SS 20 YEAR US TREASURY STRIPS INDEX  C
+                    + SS LONG US TREASURY INDEX NL COMMON  C
+                    + SS MSCI WORLD INDEX NL COMMON TRUST  C
+                    + WTC-CIF II SECURITIZED OPP PORT  C
            = SUBTOTAL       $    581,915,699
            = OTHER          $              0
  -- IL : CHICAGO
@@ -1577,6 +1929,8 @@ UNITED AIRLINES, INC.  742099724 -- BusinessCode: 481000 -- IL : CHICAGO
                  : UAL STABLE VALUE FUND  [611785563-226] M  $634,021,260
                  : UAL STATED RETURN FUND  [611785563-204] M  $176,108
                  : UNITED AIRLINES 401(K) MASTER TRUST  [611785563-224] M  $6,504,068,122
+                    + STABLE VALUE FUND  M
+                    + STATED RETURN FUND  M
            = SUBTOTAL       $  7,138,265,490
            = EMPLOYER STOCK $    103,952,811
            = OTHER          $    179,424,794
@@ -1601,6 +1955,8 @@ UNITED AIRLINES, INC.  742099724 -- BusinessCode: 481000 -- IL : CHICAGO
                  : UAL STABLE VALUE FUND  [611785563-226] M  $603,653,598
                  : UAL STATED RETURN FUND  [611785563-204] M  $171,866
                  : UNITED AIRLINES 401(K) MASTER TRUST  [611785563-224] M  $8,385,411,997
+                    + STABLE VALUE FUND  M
+                    + STATED RETURN FUND  M
            = SUBTOTAL       $  8,989,237,461
            = EMPLOYER STOCK $    128,378,036
            = OTHER          $    182,713,833
@@ -1622,6 +1978,8 @@ UNITED AIRLINES, INC.  742099724 -- BusinessCode: 481000 -- IL : CHICAGO
                  : UAL STABLE VALUE FUND  [611785563-226] M  $649,743,315
                  : UAL STATED RETURN FUND  [611785563-204] M  $168,399
                  : UNITED AIRLINES 401(K) MASTER TRUST  [611785563-224] M  $7,646,345,132
+                    + STABLE VALUE FUND  M
+                    + STATED RETURN FUND  M
            = SUBTOTAL       $  8,296,256,846
            = OTHER          $    206,505,258
     2019    https://efast2-filings-public.s3.amazonaws.com/prd/2020/10/15/20201015154745NAL0005170755005.pdf
@@ -1641,6 +1999,8 @@ UNITED AIRLINES, INC.  742099724 -- BusinessCode: 481000 -- IL : CHICAGO
                  : UAL STABLE VALUE FUND  [611785563-226] M  $571,267,345
                  : UAL STATED RETURN FUND  [611785563-204] M  $180,582
                  : UNITED AIRLINES 401(K) MASTER TRUST  [611785563-224] M  $7,348,959,706
+                    + STABLE VALUE FUND  M
+                    + STATED RETURN FUND  M
            = SUBTOTAL       $  7,920,407,633
            = OTHER          $    247,616,867
     2018    https://efast2-filings-public.s3.amazonaws.com/prd/2019/10/13/20191013092014P030051413229004.pdf
@@ -1660,6 +2020,8 @@ UNITED AIRLINES, INC.  742099724 -- BusinessCode: 481000 -- IL : CHICAGO
                  : UAL STABLE VALUE FUND  [742099724-226] M  $585,938,347
                  : UAL STATED RETURN FUND  [742099724-204] M  $181,846
                  : UNITED AIRLINES 401(K) MASTER TRUST  [611785563-224] M  $5,960,727,137
+                    + STABLE VALUE FUND  M
+                    + STATED RETURN FUND  M
            = SUBTOTAL       $  6,546,847,330
            = OTHER          $    233,756,816
     2017    https://efast2-filings-public.s3.amazonaws.com/prd/2018/10/11/20181011144313P040266831985001.pdf
@@ -1682,6 +2044,8 @@ UNITED AIRLINES, INC.  742099724 -- BusinessCode: 481000 -- IL : CHICAGO
                  : UAL STABLE VALUE FUND  [742099724-226] M  $568,913,089
                  : UAL STATED RETURN FUND  [742099724-204] M  $175,911
                  : UNITED AIRLINES 401(K) MASTER TRUST  [611785563-224] M  $6,239,102,551
+                    + STABLE VALUE FUND  M
+                    + STATED RETURN FUND  M
            = SUBTOTAL       $  6,808,191,551
            = OTHER          $    220,552,207
   [Other] UNITED AIR LINES, INC. STABLE VALUE FUND [742099724-226]
