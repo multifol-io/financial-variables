@@ -1,0 +1,72 @@
+{
+    "name" : "irs.retirement.2025",
+    "repository" : "https://github.com/bogle-tools/financial-variables",
+    "path" : "data/usa/irs",
+    "version" : "0.1.3",
+    "note" : "THIS IS STILL JUST BRAINSTORMING, DATA STRUCTURE AND FILE LOCATIONS WILL CHANGE",
+    
+    "source" : [
+        {
+            "date" : "2024-11-01",
+            "title" : "2025 Amounts Relating to Retirement Plans and IRAs, as Adjusted for Changes in Cost-of-Living",
+            "url" : "https://www.irs.gov/pub/irs-drop/n-24-80.pdf"
+        }
+    ],
+
+    "HSA" : {
+        "ContributionLimit" : {
+            "Family" : 8300,
+            "SelfOnly" : 4150,
+            "CatchUp" : 1000
+        },
+        "CatchUpAge" : 55
+    },
+    "IRA" : {
+        "ContributionLimit" : 7000,
+        "CatchUpContributionLimit" : 1000,
+        "CatchUpAge" : 50,
+        "DeductabilityPhaseOutRange" : {
+            "Single" : {
+                "Start" : 77000,
+                "End" : 87000
+            },
+            "ActiveParticipant_MarriedFilingJointly" : {
+                "Start" : 123000,
+                "End" : 143000
+            },
+            "InactiveParticipant_MarriedFilingJointly" : {
+                "Start" : 230000,
+                "End" : 240000
+            },
+            "MarriedFilingSeparately" : {
+                "Start" : 0,
+                "End" : 10000
+            }
+        }
+    },
+    "RothIRA" : {
+        "ContributionLimit" : 7000,
+        "CatchUpContributionLimit" : 1000,
+        "CatchUpAge" : 50,
+        "ContributionPhaseOutRange" : {
+            "Single" : {
+                "Start" : 146000,
+                "End" : 161000
+            },
+            "MarriedFilingJointly" : {
+                "Start" : 230000,
+                "End" : 240000
+            },
+            "MarriedFilingSeparately" : {
+                "Start" : 0,
+                "End" : 10000
+            }
+        }
+    },
+    "Employer401k" : {
+        "ContributionLimit" : 23000,
+        "CatchUpContributionLimit" : 7500,
+        "CatchUpAge" : 50,
+        "EmployeePlusEmployerContributionLimit" : 69000
+    }
+}
