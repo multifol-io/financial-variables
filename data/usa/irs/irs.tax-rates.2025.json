@@ -12,73 +12,73 @@
             "url" : "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2025"
         },
         { 
-            "date" : "2023-11-09",
-            "title" : "IRS RP-2023-34: 26 CFR 601.602: Tax forms and instruction",
-            "url" : "https://www.irs.gov/pub/irs-drop/rp-23-34.pdf"
+            "date" : "2024-10-22",
+            "title" : "IRS RP-2024-40: 26 CFR 601.602: Tax forms and instruction",
+            "url" : "https://www.irs.gov/pub/irs-drop/rp-24-40.pdf"
         }
     ],
     "TaxData" : {
-        "AnnualExclusionForGifts" : 18000,
+        "AnnualExclusionForGifts" : 19000,
         "TaxFilers" : [
             {
                 "TaxFilingStatus" : "Single",
-                "StandardDeduction" : 14600,
+                "StandardDeduction" : 15000,
                 "TaxBrackets" : [
                     { "Rate" : "10%", "StartAmount" : 0 },
-                    { "Rate" : "12%", "StartAmount" : 11600 },
-                    { "Rate" : "22%", "StartAmount" : 47150 },
-                    { "Rate" : "24%", "StartAmount" : 100525 },
-                    { "Rate" : "32%", "StartAmount" : 191950 },
-                    { "Rate" : "35%", "StartAmount" : 243725 },
-                    { "Rate" : "37%", "StartAmount" : 609350 }
+                    { "Rate" : "12%", "StartAmount" : 11925 },
+                    { "Rate" : "22%", "StartAmount" : 48475 },
+                    { "Rate" : "24%", "StartAmount" : 103350 },
+                    { "Rate" : "32%", "StartAmount" : 197300 },
+                    { "Rate" : "35%", "StartAmount" : 250525 },
+                    { "Rate" : "37%", "StartAmount" : 626350 }
                 ]
             },
             {
                 "TaxFilingStatus" : "MarriedFilingJointly",
-                "StandardDeduction" : 29200,
+                "StandardDeduction" : 30000,
                 "TaxBrackets" : [
                     { "Rate" : "10%", "StartAmount" : 0 },
-                    { "Rate" : "12%", "StartAmount" : 23200 },
-                    { "Rate" : "22%", "StartAmount" : 94300 },
-                    { "Rate" : "24%", "StartAmount" : 201050 },
-                    { "Rate" : "32%", "StartAmount" : 383900 },
-                    { "Rate" : "35%", "StartAmount" : 487450 },
-                    { "Rate" : "37%", "StartAmount" : 731200 }
+                    { "Rate" : "12%", "StartAmount" : 23850 },
+                    { "Rate" : "22%", "StartAmount" : 96950 },
+                    { "Rate" : "24%", "StartAmount" : 206700 },
+                    { "Rate" : "32%", "StartAmount" : 394600 },
+                    { "Rate" : "35%", "StartAmount" : 501050 },
+                    { "Rate" : "37%", "StartAmount" : 751600 }
                 ]
             },
             {
                 "TaxFilingStatus" : "HeadOfHousehold",
-                "StandardDeduction" : 21900,
+                "StandardDeduction" : 22500,
                 "TaxBrackets" : [
                     { "Rate" : "10%", "StartAmount" : 0 },
-                    { "Rate" : "12%", "StartAmount" : 16550 },
-                    { "Rate" : "22%", "StartAmount" : 63100 },
-                    { "Rate" : "24%", "StartAmount" : 100500 },
-                    { "Rate" : "32%", "StartAmount" : 191950 },
-                    { "Rate" : "35%", "StartAmount" : 243700 },
-                    { "Rate" : "37%", "StartAmount" : 609350 }
+                    { "Rate" : "12%", "StartAmount" : 17000 },
+                    { "Rate" : "22%", "StartAmount" : 64850 },
+                    { "Rate" : "24%", "StartAmount" : 103350 },
+                    { "Rate" : "32%", "StartAmount" : 197300 },
+                    { "Rate" : "35%", "StartAmount" : 250525 },
+                    { "Rate" : "37%", "StartAmount" : 626350 }
                 ]
             },
             {
                 "TaxFilingStatus" : "MarriedFilingSeperately",
-                "StandardDeduction" : 14600,
+                "StandardDeduction" : 15000,
                 "TaxBrackets" : [
                     { "Rate" : "10%", "StartAmount" : 0 },
-                    { "Rate" : "12%", "StartAmount" : 11600 },
-                    { "Rate" : "22%", "StartAmount" : 47150 },
-                    { "Rate" : "24%", "StartAmount" : 100525 },
-                    { "Rate" : "32%", "StartAmount" : 191950 },
-                    { "Rate" : "35%", "StartAmount" : 243725 },
-                    { "Rate" : "37%", "StartAmount" : 365600 }
+                    { "Rate" : "12%", "StartAmount" : 11925 },
+                    { "Rate" : "22%", "StartAmount" : 48475 },
+                    { "Rate" : "24%", "StartAmount" : 103350 },
+                    { "Rate" : "32%", "StartAmount" : 197300 },
+                    { "Rate" : "35%", "StartAmount" : 250525 },
+                    { "Rate" : "37%", "StartAmount" : 375800 }
                 ]
             },
             {
                 "TaxFilingStatus" : "EstatesAndTrusts",
                 "TaxBrackets" : [
                     { "Rate" : "10%", "StartAmount" : 0 },
-                    { "Rate" : "24%", "StartAmount" : 3100 },
-                    { "Rate" : "35%", "StartAmount" : 11150 },
-                    { "Rate" : "37%", "StartAmount" : 15200 }
+                    { "Rate" : "24%", "StartAmount" : 3150 },
+                    { "Rate" : "35%", "StartAmount" : 11450 },
+                    { "Rate" : "37%", "StartAmount" : 15650 }
                 ]
             }
         ]

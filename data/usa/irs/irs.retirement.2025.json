@@ -3,9 +3,14 @@
     "repository" : "https://github.com/bogle-tools/financial-variables",
     "path" : "data/usa/irs",
     "version" : "0.1.3",
-    "note" : "THIS IS STILL JUST BRAINSTORMING, DATA STRUCTURE AND FILE LOCATIONS WILL CHANGE",
+    "note" : "DATA STRUCTURE AND FILE LOCATIONS STABLE",
     
     "source" : [
+        { 
+            "date" : "2024-05-09",
+            "title" : "IRS Rev. Proc. 2024-25",
+            "url" : "https://www.irs.gov/pub/irs-drop/rp-24-25.pdf"
+        },
         {
             "date" : "2024-11-01",
             "title" : "2025 Amounts Relating to Retirement Plans and IRAs, as Adjusted for Changes in Cost-of-Living",
@@ -15,8 +20,8 @@
 
     "HSA" : {
         "ContributionLimit" : {
-            "Family" : 8300,
-            "SelfOnly" : 4150,
+            "Family" : 8550,
+            "SelfOnly" : 4300,
             "CatchUp" : 1000
         },
         "CatchUpAge" : 55
@@ -27,16 +32,16 @@
         "CatchUpAge" : 50,
         "DeductabilityPhaseOutRange" : {
             "Single" : {
-                "Start" : 77000,
-                "End" : 87000
+                "Start" : 79000,
+                "End" : 89000
             },
             "ActiveParticipant_MarriedFilingJointly" : {
-                "Start" : 123000,
-                "End" : 143000
+                "Start" : 126000,
+                "End" : 146000
             },
             "InactiveParticipant_MarriedFilingJointly" : {
-                "Start" : 230000,
-                "End" : 240000
+                "Start" : 236000,
+                "End" : 246000
             },
             "MarriedFilingSeparately" : {
                 "Start" : 0,
@@ -50,12 +55,12 @@
         "CatchUpAge" : 50,
         "ContributionPhaseOutRange" : {
             "Single" : {
-                "Start" : 146000,
-                "End" : 161000
+                "Start" : 150000,
+                "End" : 165000
             },
             "MarriedFilingJointly" : {
-                "Start" : 230000,
-                "End" : 240000
+                "Start" : 236000,
+                "End" : 246000
             },
             "MarriedFilingSeparately" : {
                 "Start" : 0,
@@ -64,9 +69,12 @@
         }
     },
     "Employer401k" : {
-        "ContributionLimit" : 23000,
+        "ContributionLimit" : 23500,
         "CatchUpContributionLimit" : 7500,
         "CatchUpAge" : 50,
-        "EmployeePlusEmployerContributionLimit" : 69000
+        "ContributionLimitB" : 11250,
+        "CatchUpAgeBStart" : 60,
+        "CatchUpAgeBEnd" : 63,
+        "EmployeePlusEmployerContributionLimit" : 70000
     }
 }
