@@ -72,6 +72,9 @@
         "ContributionLimit" : 23000,
         "CatchUpContributionLimit" : 7500,
         "CatchUpAge" : 50,
+        "ContributionLimitB" : 7500,
+        "CatchUpAgeBStart" : 60,
+        "CatchUpAgeBEnd" : 63,
         "EmployeePlusEmployerContributionLimit" : 69000
     }
 }

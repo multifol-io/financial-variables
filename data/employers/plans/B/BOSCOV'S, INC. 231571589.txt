@@ -1,20 +1,35 @@
 BOSCOV'S, INC.  231571589 -- BusinessCode: 452200 -- PA : READING
   [401(k)] BOSCOV'S 401(K) DEFINED CONTRIBUTION PLAN [231571589-002]
-    2022  [codes: 2E2F2G2J2K2T3D]    https://efast2-filings-public.s3.amazonaws.com/prd/2023/10/3/20231003084619NAL0011298499001.pdf
-        Participants: 5,049  Average: $24,568
-        Assets: $124,048,834
-        Contributions - employee: $   1,281 per participant
-                      - employer: $     200 per participant
-        Loans                   : $     359 per participant
+    2023  [codes: 2E2F2G2J2K2T3D]    https://efast2-filings-public.s3.amazonaws.com/prd/2024/10/9/20241009143511NAL0033057280001.pdf
+        Participants: 7,159  Average: $18,764
+        Assets: $134,333,230
+        Contributions - employee: $     909 per participant
+                      - employer: $     135 per participant
+        Loans                   : $     250 per participant
         Service Providers:
-           - PRINCIPAL LIFE INSURANCE COMPANY : $214,290  CONTRACT ADMINISTRATOR (Contract Administrator | Participant loan processing | Direct payment from the plan | Recordkeeping fees)
-           = TOTAL FEES: $214,290 (or $42 per partipant)
+           - PRINCIPAL LIFE INSURANCE COMPANY : $212,236  CONTRACT ADMINISTRATOR (Contract Administrator | Participant loan processing | Direct payment from the plan | Recordkeeping fees)
+           - CREATIVE PLANNING, LLC : $0  INV ADV, PARTICIPANTS (Investment advisory(participants) | Consulting fees)
+           = TOTAL FEES: $212,236 (or $29 per partipant)
+        Service Fees:
+           - CREATIVE PLANNING, LLC : PRINCIPAL LIFE INSURANCE COMPANY   $0 | 31 BASIS POINTS ON ASSETS MANAGED BY  CREATIVE PLANNING, LLC)
         Available Investments:
-           - AMERIPRISE TRUST COMPANY
-                 : COLUMBIA TRST STBL GOVT ADM 0  [410007957-058] C  $0
-           - BLACKROCK INST TRUST CO
-                 : BLACKROCK EQUITY INDEX T FUND  [943291426-001] C  $0
+           - ALTA TRUST COMPANY
+                 : STABLE VALUE FIXED INCOME CIT  [882465398-001] C  $9
+           - GREAT GRAY TRUST COMPANY
+                 : PGIM TOTAL RTRN BND CIT CL LP  [384097323-471] C  $2,465,194
            - INVESCO NATIONAL TRUST CO
-                 : INVESCO STABLE VALUE TR CL I  [841142974-001] C  $14,157,393
-           = SUBTOTAL       $     14,157,393
-           = OTHER          $    109,891,441
+                 : INVESCO STABLE VALUE TR CLS A1  [841142974-001] C  $9,959,186
+           - PRINCIPAL LIFE INSURANCE COMPANY
+                 : PRIN LGCP S&P 500 IDX SA-NE  [420127290-016] P  $152
+                    + PRINCIPAL LIQUID ASSETS SEPARATE AC  P
+                 : PRIN MIDCAP S&P 400 IDX SA-NE  [420127290-023] P  $31
+                    + PRINCIPAL LIQUID ASSETS SEPARATE AC  P
+                 : PRIN SMCAP S&P 600 INDEX SA-NE  [420127290-028] P  $28
+                    + PRINCIPAL LIQUID ASSETS SEPARATE AC  P
+           - STATE STREET BANK AND TRUST COMPANY
+                 : STATE ST WD DV EX US IDX II FD  [040025081-034] C  $50
+                 : STATE STREET US BD ID SL XIV  [900337987-362] C  $12
+           - STATE STREET GLOBAL ADVISORS
+                 : STATE STREET EM IDX SL II FD  [326528132-035] C  $29
+           = SUBTOTAL       $     12,424,691
+           = OTHER          $    121,908,539

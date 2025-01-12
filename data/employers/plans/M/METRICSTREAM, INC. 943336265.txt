@@ -1,14 +1,14 @@
 METRICSTREAM, INC.  943336265 -- BusinessCode: 541519 -- CA : SAN JOSE
   [401(k)] METRICSTREAM 401K PLAN [943336265-001]
-    2022  [codes: 2F2G2J2T3D]    https://efast2-filings-public.s3.amazonaws.com/prd/2023/10/3/20231003174531NAL0011867619001.pdf
-        Participants: 192  Average: $64,526
-        Assets: $12,389,115
-        Contributions - employee: $   9,209 per participant
-                      - employer: $   1,819 per participant
-        Loans                   : $     425 per participant
+    2023  [codes: 2F2G2J2T3D]    https://efast2-filings-public.s3.amazonaws.com/prd/2024/10/7/20241007172454NAL0031552562001.pdf
+        Participants: 160  Average: $90,581
+        Assets: $14,493,066
+        Contributions - employee: $   8,437 per participant
+                      - employer: $     360 per participant
+        Loans                   : $     684 per participant
         Service Providers:
-           - FIDELITY INVESTMENTS INSTITUTIONAL : $100  RECORDKEEPER (Sub - transfer agency fees | Recordkeeping fees | Account maintenance fees)
-           = TOTAL FEES: $100 (or $0 per partipant)
+           - FIDELITY INVESTMENTS INSTITUTIONAL : $13,456  RECORDKEEPER (Participant loan processing | Sub - transfer agency fees | Recordkeeping fees | Account maintenance fees)
+           = TOTAL FEES: $13,456 (or $84 per partipant)
         Service Fees:
            - FIDELITY INVESTMENTS INSTITUTIONAL : AF TRGT DATE 2010 R4 - AMERICAN FU   $0 | 0.35%)
            - FIDELITY INVESTMENTS INSTITUTIONAL : AF TRGT DATE 2015 R4 - AMERICAN FU   $0 | 0.35%)
@@ -25,7 +25,19 @@ METRICSTREAM, INC.  943336265 -- BusinessCode: 541519 -- CA : SAN JOSE
            - FIDELITY INVESTMENTS INSTITUTIONAL : GS LG CP GR INS A - GOLDMAN SACHS   $0 | 0.50%)
            - FIDELITY INVESTMENTS INSTITUTIONAL : JPM EQUITY INCOME A - DST ASSET MA   $0 | 0.50%)
         Available Investments:
-           - WILMINGTON TRUST, N.A.
-                 : FLEXFIT+MOD 2025 I1  [822202842-333] C  $1,944
-           = SUBTOTAL       $          1,944
-           = OTHER          $     12,387,171
+           - GREAT GRAY TRUST COMPANY
+                 : FLEXFIT+AGGR 2035 R1  [822070598-339] C  $15,797
+                 : FLEXFIT+AGGR 2045 R1  [822098838-340] C  $26,989
+                 : FLEXFIT+MOD 2025 I1  [822202842-333] C  $0
+                 : FLEXFIT+MOD 2025 R1  [822202842-333] C  $549,931
+                 : FLEXFIT+MOD 2035 R1  [822170541-334] C  $1,448,424
+                 : FLEXFIT+MOD 2045 R1  [822162748-335] C  $1,484,347
+                 : FLEXFIT+MOD 2055 R1  [822146204-336] C  $1,106,381
+                 : FLEXFIT+MOD RET R1  [822217685-332] C  $166,623
+                 : INTL GR II FEE I1  [384139842-619] C  $464,686
+                 : LA CORE BOND CIT  [821986152-325] C  $473,863
+                 : LARGE CAP GR III I1  [387275327-001] C  $3,807,597
+                 : LARGE CP VALUE I1  [384065329-426] C  $174,500
+                 : STABLE VALUE FUND I1  [854031707-653] C  $13,882
+           = SUBTOTAL       $      9,733,020
+           = OTHER          $      4,760,046

@@ -1,25 +1,27 @@
-WESTROCK COMPANY  473335141 -- BusinessCode: 322100 -- GA : ATLANTA
+WESTROCK COMPANY  473335141 -- BusinessCode: 323100 -- GA : ATLANTA
   [401(k)] WESTROCK COMPANY 401(K) RETIREMENT SAVINGS PLAN [473335141-018]
-    2022  [codes: 2E2F2G2J2K2S2T3H]    https://efast2-filings-public.s3.amazonaws.com/prd/2023/10/4/20231004102105NAL0013260643001.pdf
-        Participants: 45,497  Average: $89,148
-        Assets: $4,055,989,068
-        Contributions - employee: $   4,277 per participant
-                      - employer: $   3,211 per participant
-        Loans                   : $   1,918 per participant
+    2023  [codes: 2E2F2G2J2K2S2T3H]    https://efast2-filings-public.s3.amazonaws.com/prd/2024/10/1/20241001151737NAL0012777312001.pdf
+        Participants: 45,831  Average: $101,385
+        Assets: $4,646,591,671
+        Contributions - employee: $   4,209 per participant
+                      - employer: $   3,220 per participant
+        Loans                   : $   2,033 per participant
         Service Providers:
-           - EMPOWER ANNUITY INSURANCE COMPANY O : $1,748,686   (Recordkeeper | Participant loan processing | Direct payment from the plan | Recordkeeping fees)
-           - EMPOWER ADVISORY GROUP, LLC : $1,180,040   (Investment advisory(participants) | Direct payment from the plan)
-           - ROCATON INVESTMENT ADVISORS LLC : $409,486   (Investment advisory(plan))
-           - QDRO CONSULTANTS COMPANY, LLC : $12,600   (Consulting(general) | Direct payment from the plan)
-           = TOTAL FEES: $3,350,812 (or $73 per partipant)
+           - EMPOWER ANNUITY INSURANCE COMPANY O : $1,825,573   (Recordkeeping fees | Direct payment from the plan | Participant loan processing | Recordkeeper)
+           - EMPOWER ADVISORY GROUP, LLC : $1,306,621   (Investment management | Investment advisory(participants) | Direct payment from the plan)
+           - ROCATON INVESTMENT ADVISORS LLC : $481,282   (Investment advisory(plan))
+           - QDRO CONSULTANTS COMPANY, LLC : $14,700   (Other fees | Consulting(general) | Direct payment from the plan)
+           = TOTAL FEES: $3,628,176 (or $79 per partipant)
         Available Investments:
            - WESTROCK COMPANY
-                 : WESTROCK CO 401(K) RETIREMENT TRUST  [466182151-001] M  $3,916,653,731
+                 : WESTROCK CO 401(K) RETIREMENT TRUST  [466182151-001] M  $4,438,106,752
                     + HARDING LOEVNER EMERGING MARKETS A  C
                     + MFS(R) INTERNATIONAL EQUITY CIT -CL  C
                     + CORE PLUS BOND FUND CLASS 15  C
+                    + SSGA GLOBAL ALL CAP EQUITY EX-US CK  C
                     + SSGA GLOBAL ALL CAP EQUITY EX-US IN  C
-                    + SSGA RUSSELL SMALL/MID CAP INDEX FU  C
+                    + SSGA RUSELL SMALL/MID CAP INDEX FUN  C
+                    + SSGA RUSSELL SMALL/MID CAP INDEX CK  C
                     + SSGA S&P 500 INDEX FUND CLASS K  C
                     + SSGA TARGET RETIREMENT 2020 NL FUND  C
                     + SSGA TARGET RETIREMENT 2025 NL FUND  C
@@ -32,30 +34,28 @@ WESTROCK COMPANY  473335141 -- BusinessCode: 322100 -- GA : ATLANTA
                     + SSGA TARGET RETIREMENT 2060 NL FUND  C
                     + SSGA TARGET RETIREMENT 2065 NL FUND  C
                     + SSGA TARGET RETIREMENT INCOME NL FU  C
+                    + SSGA US BOND INDX NL CL M  C
                     + STATE ST US BND INDX NL CL M  C
                     + WELLS FARGO STABLE RETURN FUND  C
-           = SUBTOTAL       $  3,916,653,731
-           = OTHER          $    139,335,337
+           = SUBTOTAL       $  4,438,106,752
+           = OTHER          $    208,484,919
   [401(k)] WESTROCK COMPANY 401(K) PROVISIONAL RETIREMENT SAVINGS PLAN [473335141-032]
-    2022  [codes: 2E2F2G2J2K2T3D3H]    https://efast2-filings-public.s3.amazonaws.com/prd/2023/10/4/20231004101343NAL0013252563001.pdf
-        Participants: 133  Average: $25,482
-        Assets: $3,389,144
-        Contributions - employee: $   1,204 per participant
-                      - employer: $     602 per participant
-        Loans                   : $   1,089 per participant
+    2023  [codes: 2E2F2G2J2K2T3D3H]    https://efast2-filings-public.s3.amazonaws.com/prd/2024/10/1/20241001150431NAL0003395395001.pdf
+        Participants: 0
         Service Providers:
-           - EMPOWER ANNUITY INSURANCE COMPANY O : $3,476   (Recordkeeper | Participant loan processing | Direct payment from the plan | Recordkeeping fees)
-           - EMPOWER ADVISORY GROUP, LLC : $1,610   (Investment advisory(participants) | Direct payment from the plan)
-           - QDRO CONSULTANTS COMPANY, LLC : $300   (Consulting(general) | Direct payment from the plan)
-           = TOTAL FEES: $5,386 (or $40 per partipant)
+           - EMPOWER ANNUITY INSURANCE COMPANY : $3,483   (Recordkeeping fees | Direct payment from the plan | Participant loan processing | Recordkeeper)
+           - EMPOWER ADVISORY GROUP, LLC : $1,976   (Investment management | Investment advisory(participants) | Direct payment from the plan)
+           = TOTAL FEES: $5,459
         Available Investments:
            - WESTROCK COMPANY
-                 : WESTROCK CO 401(K) RETIREMENT TRUST  [466182151-001] M  $3,239,036
+                 : WESTROCK CO 401(K) RETIREMENT TRUST  [466182151-001] M  $0
                     + HARDING LOEVNER EMERGING MARKETS A  C
                     + MFS(R) INTERNATIONAL EQUITY CIT -CL  C
                     + CORE PLUS BOND FUND CLASS 15  C
+                    + SSGA GLOBAL ALL CAP EQUITY EX-US CK  C
                     + SSGA GLOBAL ALL CAP EQUITY EX-US IN  C
-                    + SSGA RUSSELL SMALL/MID CAP INDEX FU  C
+                    + SSGA RUSELL SMALL/MID CAP INDEX FUN  C
+                    + SSGA RUSSELL SMALL/MID CAP INDEX CK  C
                     + SSGA S&P 500 INDEX FUND CLASS K  C
                     + SSGA TARGET RETIREMENT 2020 NL FUND  C
                     + SSGA TARGET RETIREMENT 2025 NL FUND  C
@@ -68,7 +68,6 @@ WESTROCK COMPANY  473335141 -- BusinessCode: 322100 -- GA : ATLANTA
                     + SSGA TARGET RETIREMENT 2060 NL FUND  C
                     + SSGA TARGET RETIREMENT 2065 NL FUND  C
                     + SSGA TARGET RETIREMENT INCOME NL FU  C
+                    + SSGA US BOND INDX NL CL M  C
                     + STATE ST US BND INDX NL CL M  C
                     + WELLS FARGO STABLE RETURN FUND  C
-           = SUBTOTAL       $      3,239,036
-           = OTHER          $        150,108
