@@ -22,7 +22,7 @@
         "TaxFilers" : [
             {
                 "TaxFilingStatus" : "Single",
-                "StandardDeduction" : 15000,
+                "StandardDeduction" : 15750,
                 "TaxBrackets" : [
                     { "Rate" : "10%", "StartAmount" : 0 },
                     { "Rate" : "12%", "StartAmount" : 11925 },
@@ -35,7 +35,7 @@
             },
             {
                 "TaxFilingStatus" : "MarriedFilingJointly",
-                "StandardDeduction" : 30000,
+                "StandardDeduction" : 31500,
                 "TaxBrackets" : [
                     { "Rate" : "10%", "StartAmount" : 0 },
                     { "Rate" : "12%", "StartAmount" : 23850 },
@@ -48,7 +48,7 @@
             },
             {
                 "TaxFilingStatus" : "HeadOfHousehold",
-                "StandardDeduction" : 22500,
+                "StandardDeduction" : 23625,
                 "TaxBrackets" : [
                     { "Rate" : "10%", "StartAmount" : 0 },
                     { "Rate" : "12%", "StartAmount" : 17000 },

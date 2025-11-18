@@ -7,41 +7,47 @@
     
     "source" : [
         { 
-            "date" : "2024-05-09",
-            "title" : "IRS Rev. Proc. 2024-25",
-            "url" : "https://www.irs.gov/pub/irs-drop/rp-24-25.pdf"
+            "date" : "2025-11-13",
+            "title" : "IRS Rev. Notice 2025-67",
+            "url" : "https://www.irs.gov/pub/irs-drop/n-25-67.pdf"
         },
         {
-            "date" : "2024-11-01",
-            "title" : "2025 Amounts Relating to Retirement Plans and IRAs, as Adjusted for Changes in Cost-of-Living",
-            "url" : "https://www.irs.gov/pub/irs-drop/n-24-80.pdf"
+            "date" : "2025-11-13",
+            "title" : "IR-2025-111: 401(k) limit increases to $24,500 for 2026, IRA limit increases to $7,500",
+            "url" : "https://www.irs.gov/newsroom/401k-limit-increases-to-24500-for-2026-ira-limit-increases-to-7500"
+        },
+        {
+            "date" : "2025",
+            "title" : "Rev. Proc. 2025-19 (hsa amounts)",
+            "url" : "https://www.irs.gov/pub/irs-drop/rp-25-19.pdf"
         }
+
     ],
 
     "HSA" : {
         "ContributionLimit" : {
-            "Family" : 8550,
-            "SelfOnly" : 4300,
+            "Family" : 8750,
+            "SelfOnly" : 4400,
             "CatchUp" : 1000
         },
         "CatchUpAge" : 55
     },
     "IRA" : {
-        "ContributionLimit" : 7000,
-        "CatchUpContributionLimit" : 1000,
+        "ContributionLimit" : 7500,
+        "CatchUpContributionLimit" : 1100,
         "CatchUpAge" : 50,
         "DeductabilityPhaseOutRange" : {
             "Single" : {
-                "Start" : 79000,
-                "End" : 89000
+                "Start" : 81000,
+                "End" : 91000
             },
             "ActiveParticipant_MarriedFilingJointly" : {
-                "Start" : 126000,
-                "End" : 146000
+                "Start" : 129000,
+                "End" : 149000
             },
             "InactiveParticipant_MarriedFilingJointly" : {
-                "Start" : 236000,
-                "End" : 246000
+                "Start" : 242000,
+                "End" : 252000
             },
             "MarriedFilingSeparately" : {
                 "Start" : 0,
@@ -50,17 +56,17 @@
         }
     },
     "RothIRA" : {
-        "ContributionLimit" : 7000,
-        "CatchUpContributionLimit" : 1000,
+        "ContributionLimit" : 7500,
+        "CatchUpContributionLimit" : 1100,
         "CatchUpAge" : 50,
         "ContributionPhaseOutRange" : {
             "Single" : {
-                "Start" : 150000,
-                "End" : 165000
+                "Start" : 153000,
+                "End" : 168000
             },
             "MarriedFilingJointly" : {
-                "Start" : 236000,
-                "End" : 246000
+                "Start" : 242000,
+                "End" : 252000
             },
             "MarriedFilingSeparately" : {
                 "Start" : 0,
@@ -69,12 +75,12 @@
         }
     },
     "Employer401k" : {
-        "ContributionLimit" : 23500,
-        "CatchUpContributionLimit" : 7500,
+        "ContributionLimit" : 24500,
+        "CatchUpContributionLimit" : 8000,
         "CatchUpAge" : 50,
         "ContributionLimitB" : 11250,
         "CatchUpAgeBStart" : 60,
         "CatchUpAgeBEnd" : 63,
-        "EmployeePlusEmployerContributionLimit" : 70000
+        "EmployeePlusEmployerContributionLimit" : 72000
     }
 }
